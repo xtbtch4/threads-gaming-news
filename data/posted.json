@@ -854,7 +854,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-13-at-11.57.18.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-23T19:02:46.316702+00:00"
+    },
+    {
+      "fingerprint": "abc7d2a37bc7a860e0ee201c",
+      "title": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers",
+      "url": "https://pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers",
+      "source": "PC Gamer",
+      "published_at_source": "2026-09-23T10:54:50+00:00",
+      "score": 10,
+      "event_key": "amd_adds_gddr7_support_to_linux_drivers",
+      "title_ru": "AMD добавила поддержку GDDR7 в свой Linux-драйвер",
+      "threads_teaser_ru": "В свежих патчах Linux-драйверов AMD обнаружили первое упоминание памяти GDDR7. Это указывает на подготовку компании к переходу на новый стандарт памяти в будущих видеокартах.",
+      "telegram_message_id": "53",
+      "telegram_url": "https://t.me/gamepulse_newss/53",
+      "telegram_published_at": "2026-09-23T19:06:18.849106+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uCD3kvKWyQVddxgbKJF5HL-2560-80.jpg",
+      "threads_published_at": "2026-09-23T19:06:18.850639+00:00"
     }
   ],
-  "updated_at": "2026-09-23T19:02:48.933861+00:00"
+  "updated_at": "2026-09-23T19:06:21.498072+00:00"
 }
