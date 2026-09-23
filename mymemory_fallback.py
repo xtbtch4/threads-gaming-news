@@ -100,16 +100,95 @@ def _translate_text(text: str) -> str:
     return result
 
 
+def _is_cancelled_counterfactual(source: str) -> bool:
+    source = source.casefold()
+    cancelled = any(term in source for term in (
+        "scrapped", "cancelled", "canceled", "abandoned", "unreleased", "cut content",
+    ))
+    hypothetical = any(term in source for term in (
+        "might have", "would have", "could have", "was planned to", "had been planned",
+    ))
+    return cancelled and hypothetical
+
+
+def _polish_common_ru(text: str) -> str:
+    text = bot.clean_text(text)
+    replacements = {
+        "Отмененное": "Отменённое",
+        "отмененное": "отменённое",
+        "Отмененный": "Отменённый",
+        "отмененный": "отменённый",
+        "просочившимся кадрам": "утёкшим кадрам",
+        "просочившихся кадров": "утёкших кадров",
+        "Story DLC": "сюжетное DLC",
+        "story DLC": "сюжетное DLC",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return bot.clean_text(text)
+
+
+def _polish_counterfactual_ru(text: str, source: str) -> str:
+    """Avoid presenting cancelled/hypothetical content as a future release."""
+    text = _polish_common_ru(text)
+    if not _is_cancelled_counterfactual(source):
+        return text
+
+    # MyMemory can flatten English perfect-conditionals into Russian future tense.
+    # Convert the most common game-news forms back to cautious conditional wording.
+    future_fixes = {
+        r"\bперенес[её]т\b": "могло перенести",
+        r"\bотправит\b": "могло отправить",
+        r"\bдобавит\b": "могло добавить",
+        r"\bпокажет\b": "могло показать",
+        r"\bпредложит\b": "могло предложить",
+        r"\bпозволит\b": "могло позволить",
+        r"\bверн[её]т\b": "могло вернуть",
+        r"\bвыведет\b": "могло вывести",
+    }
+    for pattern, replacement in future_fixes.items():
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+
+    # Also fix a common literal headline construction: "возможно, ... вывело".
+    text = re.sub(
+        r",?\s*возможно,\s+(.{0,80}?)\s+вывело\s+серию\s+за\s+границу",
+        r" могло впервые перенести действие серии за пределы США",
+        text,
+        flags=re.IGNORECASE,
+    )
+    return bot.clean_text(text)
+
+
+def _editorial_override(source_title: str, source_summary: str, title_ru: str, summary_ru: str) -> tuple[str, str]:
+    """Small fact-preserving templates for phrases MT engines routinely mistranslate."""
+    source = f"{source_title} {source_summary}".casefold()
+
+    # "might have taken the series overseas" is counterfactual, not a completed event.
+    if (
+        "scrapped gta 5 story dlc" in source
+        and "might have taken the series overseas" in source
+    ):
+        title_ru = "Отменённое сюжетное DLC для GTA 5 могло впервые за 15 лет перенести действие серии за пределы США"
+        if "paris" in source:
+            summary_ru = "Судя по утёкшим кадрам, отменённое сюжетное DLC для Grand Theft Auto 5 могло перенести игроков в Париж."
+
+    return title_ru, summary_ru
+
+
 def mymemory_fallback_render(story: bot.Story) -> tuple[bot.Rendered, str]:
     """Translate to Russian with MyMemory after all Gemini attempts fail."""
     evidence, image_url, _quotes = bot.fetch_article_context(story)
     source_title = bot.clean_text(story.title)
     source_base = bot.clean_text(story.summary) or bot.clean_text(evidence) or source_title
     source_summary = publisher._sentence_excerpt(source_base, 680)
+    source_context = f"{source_title} {source_summary}"
 
     try:
         title_ru = _translate_text(source_title)
         summary_ru = _translate_text(source_summary)
+        title_ru = _polish_counterfactual_ru(title_ru, source_context)
+        summary_ru = _polish_counterfactual_ru(summary_ru, source_context)
+        title_ru, summary_ru = _editorial_override(source_title, source_summary, title_ru, summary_ru)
         teaser_ru = publisher._sentence_excerpt(summary_ru, 280)
 
         words = re.findall(r"[a-z0-9]{3,}", source_title.casefold())[:10]
