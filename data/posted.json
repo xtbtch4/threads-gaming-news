@@ -1608,7 +1608,24 @@
       "threads_id": "disabled",
       "image_url": "https://cdn.mos.cms.futurecdn.net/RUNcA4KaVzqTUpepuQc9G7-1244-80.png",
       "threads_published_at": "2026-09-23T22:46:51.978508+00:00"
+    },
+    {
+      "fingerprint": "f22aac21fb35fddb9159c26d",
+      "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+      "url": "https://rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-23T12:17:21+00:00",
+      "score": 7,
+      "event_key": "microsoft-patent-generative-ai-facial-expressions-game-design",
+      "title_ru": "Патент Microsoft описывает генерацию игр на основе эмоций игроков",
+      "threads_teaser_ru": "Microsoft запатентовала технологию, которая потенциально может считывать выражения лиц и звуки игроков, чтобы передавать их нейросети для адаптации видеоигр и создания нового контента.",
+      "telegram_message_id": "98",
+      "telegram_url": "https://t.me/gamepulse_newss/98",
+      "telegram_published_at": "2026-09-23T22:51:21.658578+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T22:51:21.660782+00:00"
     }
   ],
-  "updated_at": "2026-09-23T22:46:54.518513+00:00"
+  "updated_at": "2026-09-23T22:51:24.295046+00:00"
 }
