@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
@@ -37,7 +38,7 @@ def fetch_direct_feed(source: DirectFeed) -> list[bot.Story]:
     }
     stories: list[bot.Story] = []
     try:
-        response = bot.requests.get(source.url, headers=headers, timeout=18, allow_redirects=True)
+        response = bot.requests.get(source.url, headers=headers, timeout=8, allow_redirects=True)
         response.raise_for_status()
         feed = feedparser.parse(response.content)
         for entry in feed.entries[:60]:
@@ -74,8 +75,16 @@ _original_fetch_stories = bot.fetch_stories
 
 def fetch_stories_with_direct_rss() -> list[bot.Story]:
     result = _original_fetch_stories()
-    for source in DIRECT_FEEDS:
-        result.extend(fetch_direct_feed(source))
+    # Direct RSS is latency-sensitive because cron-job.org triggers every five minutes.
+    # Fetch independent outlet feeds concurrently so one slow endpoint cannot queue runs.
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = {pool.submit(fetch_direct_feed, source): source for source in DIRECT_FEEDS}
+        for future in as_completed(futures):
+            try:
+                result.extend(future.result())
+            except Exception as exc:
+                source = futures[future]
+                bot.LOG.info("Direct RSS worker failed %s: %s", source.name, str(exc).splitlines()[0])
     return result
 
 
