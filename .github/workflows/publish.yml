@@ -1,0 +1,88 @@
+name: Publish gaming news to Telegram and Threads
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Preview without publishing"
+        required: false
+        default: true
+        type: boolean
+  repository_dispatch:
+    types:
+      - publish_gaming_news
+  push:
+    branches:
+      - main
+    paths:
+      - "data/run-now.txt"
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gaming-news-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || vars.ENABLE_AUTO_PUBLISH == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+      TELEGRAM_PUBLIC_USERNAME: ${{ vars.TELEGRAM_PUBLIC_USERNAME }}
+      TELEGRAM_FUNNEL_URL: ${{ vars.TELEGRAM_FUNNEL_URL }}
+      THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: "gemini-3.5-flash"
+      GEMINI_FALLBACK_MODEL: "gemini-3.1-flash-lite"
+      MAX_AGE_HOURS: "72"
+      MAX_POSTS_PER_RUN: "1"
+      MIN_IMPORTANCE_SCORE: "5"
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run == false && 'false' || github.event_name == 'push' && 'true' || 'false' }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect and publish gaming news
+        run: python bot.py
+
+      - name: Save publication history safely
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
+        run: |
+          if git diff --quiet -- data/posted.json; then
+            echo "No history changes"
+            exit 0
+          fi
+
+          cp data/posted.json /tmp/local-posted.json
+          git restore data/posted.json
+          git pull --rebase origin main
+          python merge_state.py data/posted.json /tmp/local-posted.json data/posted.json
+
+          if git diff --quiet -- data/posted.json; then
+            echo "History already contains these publications"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posted.json
+          git commit -m "Update gaming publication history"
+          git push
