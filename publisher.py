@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import re
+
 import bot
 import studio_bot
 
@@ -29,6 +31,75 @@ def fetch_stories_with_fallbacks() -> list[bot.Story]:
 
 
 bot.fetch_stories = fetch_stories_with_fallbacks
+
+
+def _sentence_excerpt(text: str, limit: int) -> str:
+    text = bot.clean_text(text)
+    if not text:
+        return ""
+    if len(text) <= limit:
+        return text if text[-1:] in ".!?" else text + "."
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    chosen: list[str] = []
+    total = 0
+    for sentence in sentences:
+        sentence = sentence.strip()
+        if not sentence:
+            continue
+        extra = len(sentence) + (1 if chosen else 0)
+        if chosen and total + extra > limit:
+            break
+        if not chosen and len(sentence) > limit:
+            cut = sentence[:limit].rsplit(" ", 1)[0].rstrip(" ,;:-.")
+            return cut + "."
+        chosen.append(sentence)
+        total += extra
+        if total >= limit * 0.72:
+            break
+    result = " ".join(chosen).strip()
+    if not result:
+        result = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:-.") + "."
+    elif result[-1:] not in ".!?":
+        result += "."
+    return result
+
+
+def _fallback_render(story: bot.Story) -> tuple[bot.Rendered, str]:
+    # Keep the channel alive when Gemini is rate-limited or temporarily unavailable.
+    # Facts still come only from the source article. The fallback keeps the source
+    # language instead of inventing/guessing a translation.
+    evidence, image_url, _quotes = bot.fetch_article_context(story)
+    title = bot.clean_text(story.title)
+    base = bot.clean_text(story.summary) or bot.clean_text(evidence) or title
+    summary = _sentence_excerpt(base, 720)
+    teaser = _sentence_excerpt(base, 280)
+
+    words = re.findall(r"[a-z0-9]{3,}", title.casefold())[:10]
+    event_key = " ".join(words) if words else f"fallback {story.fingerprint}"
+    rendered = bot.Rendered(
+        title_ru=title,
+        telegram_summary_ru=summary,
+        threads_teaser_ru=teaser,
+        event_key=event_key,
+    )
+    bot.LOG.warning("Using source-language fallback because Gemini is unavailable: %s", title)
+    return rendered, image_url
+
+
+_original_rewrite_story = bot.rewrite_story
+
+
+def rewrite_story_resilient(story: bot.Story) -> tuple[bot.Rendered, str]:
+    try:
+        return _original_rewrite_story(story)
+    except RuntimeError as exc:
+        message = str(exc)
+        if "Gemini" not in message and "gemini" not in message:
+            raise
+        return _fallback_render(story)
+
+
+bot.rewrite_story = rewrite_story_resilient
 
 
 if __name__ == "__main__":
