@@ -68,7 +68,7 @@ jobs:
             echo "GEMINI_API_KEY is not configured; running secret-free collector smoke test"
             python smoke_test.py
           else
-            python bot.py
+            python run_bot.py
           fi
 
       - name: Save publication history safely
