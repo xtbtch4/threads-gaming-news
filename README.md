@@ -21,8 +21,6 @@
 
 IGN, GameSpot, PC Gamer, Eurogamer, Polygon, Rock Paper Shotgun, PlayStation Blog, Xbox Wire, Nintendo, Steam и StopGame.
 
-Поиск источников сделан через Bing News RSS с `site:`-фильтрами. Это снижает зависимость от изменения RSS-адресов отдельных сайтов.
-
 ## GitHub Secrets
 
 Создайте в репозитории:
@@ -31,17 +29,20 @@ IGN, GameSpot, PC Gamer, Eurogamer, Polygon, Rock Paper Shotgun, PlayStation Blo
 - `TELEGRAM_BOT_TOKEN` — токен Telegram-бота;
 - `GEMINI_API_KEY` — ключ Gemini.
 
+Для первого `dry_run` достаточно только `GEMINI_API_KEY`: Telegram и Threads при тесте не вызываются.
+
 ## GitHub Variables
 
 - `TELEGRAM_CHAT_ID` — канал, например `@gaming_channel`;
 - `TELEGRAM_PUBLIC_USERNAME` — username канала без `@`, например `gaming_channel`;
-- `TELEGRAM_FUNNEL_URL` — необязательный fallback, если канал не публичный.
+- `TELEGRAM_FUNNEL_URL` — необязательный fallback, если канал не публичный;
+- `ENABLE_AUTO_PUBLISH` — поставьте `true` только после успешного теста, чтобы включить schedule/repository_dispatch.
 
 Бот Telegram должен быть администратором канала и иметь право публиковать сообщения.
 
 ## Запуск
 
-GitHub Actions автоматически запускается каждые 10 минут.
+Workflow содержит расписание каждые 10 минут, но автоматическая публикация включается только при `ENABLE_AUTO_PUBLISH=true`.
 
 Для первого теста:
 
@@ -49,20 +50,10 @@ GitHub Actions автоматически запускается каждые 10
 2. `Run workflow`;
 3. оставить `dry_run = true`;
 4. проверить лог;
-5. затем запустить с `dry_run = false`.
+5. затем добавить остальные секреты/переменные и запустить с `dry_run = false`.
 
-## Внешний планировщик
-
-Workflow принимает:
-
-`repository_dispatch` → `event_type: publish_gaming_news`
-
-Поэтому можно подключить cron-job.org по той же схеме, что и в других новостных проектах, и вызывать dispatch каждые 10 минут.
+Workflow также принимает `repository_dispatch` с `event_type: publish_gaming_news` для внешнего планировщика.
 
 ## Воронка
 
-Threads публикует не исходную статью, а ссылку на Telegram-пост:
-
-`https://t.me/<channel>/<message_id>`
-
-Так пользователь сразу видит полную новость в Telegram. Позже поверх этого проекта можно добавить отдельный Growth-модуль с уникальными invite/deep links, JOIN/LEAVE/REJOIN и отчётом по конверсии.
+Threads публикует ссылку на конкретный Telegram-пост вида `https://t.me/<channel>/<message_id>`, поэтому пользователь сразу попадает на полную новость.
