@@ -42,9 +42,9 @@ bot.fetch_stories = fetch_stories_with_fallbacks
 
 
 MAJOR_EVENT_TERMS = (
-    "closure", "close down", "shut down", "shutdown", "layoff", "layoffs",
+    "closure", "close down", "shut down", "shutdown", "layoff", "layoffs", "laid off",
     "acquisition", "acquire", "acquired", "cancelled", "canceled", "cancellation",
-    "delay", "delayed", "release date", "закрытие", "закрыть", "увольнен", "увольнён",
+    "delay", "delayed", "release date", "закрытие", "закрыть", "уволен", "увольнен", "увольнён",
     "сокращения", "поглощение", "отмена", "отменена", "перенос", "дата выхода",
 )
 
@@ -54,25 +54,28 @@ def _major_event(story: bot.Story) -> bool:
     return any(term in text for term in MAJOR_EVENT_TERMS)
 
 
-# Make every rejection visible in Actions logs. "Fresh" only means that an item is
-# inside the 72-hour source window; it may still be already published or low-value.
-# Major industry events get a narrow one-point exception so studio closures, layoffs,
-# acquisitions, cancellations and release-date delays are not lost at score 4.
-# For those events, use the original duplicate test (same URL/title), not the broad
-# cross-story news-cycle test: Ninja Theory closing is distinct from Halo layoffs even
-# though both belong to the same Xbox restructuring.
+# "Fresh" only means inside the source window; it can still be already published.
+# Major industry events are deduped against exact/original story similarity rather than
+# the broad Xbox-cycle heuristic. Thus Halo repeats are still collapsed normally, but
+# a Gears director layoff, Ninja Theory closure, World's Edge cuts, etc. remain separate.
 def select_stories_verbose(stories, state):
     selected: list[bot.Story] = []
     for story in sorted(stories, key=lambda s: (s.score, s.published), reverse=True):
-        major_exception = story.score == bot.MIN_SCORE - 1 and _major_event(story)
+        is_major = _major_event(story)
+        major_exception = story.score == bot.MIN_SCORE - 1 and is_major
         if story.score < bot.MIN_SCORE and not major_exception:
             bot.LOG.info("Skipped low score %d < %d: %s", story.score, bot.MIN_SCORE, story.title)
             continue
         if major_exception:
             bot.LOG.info("Major-event exception %d -> %d: %s", story.score, bot.MIN_SCORE, story.title)
-            already_known = run_bot._original_known_story(story, state)
-        else:
-            already_known = bot.known_story(story, state)
+
+        # Do not merge distinct major studio events merely because they share Xbox/
+        # restructuring vocabulary. Exact URL/title/similarity dedupe still applies.
+        already_known = (
+            run_bot._original_known_story(story, state)
+            if is_major
+            else bot.known_story(story, state)
+        )
         if already_known:
             bot.LOG.info("Skipped already published/deduped: %s", story.title)
             continue
