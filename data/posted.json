@@ -905,7 +905,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/plhs_stella_cosplayer_v4.jpg?w=300",
       "threads_published_at": "2026-09-23T19:16:54.164233+00:00"
+    },
+    {
+      "fingerprint": "d1ae6f04769cce91bc036c7d",
+      "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
+      "url": "https://eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-22T01:36:00+00:00",
+      "score": 10,
+      "event_key": "second wave of xbox layoffs and studio consolidation",
+      "title_ru": "В Xbox ожидается вторая волна увольнений и консолидация студий",
+      "threads_teaser_ru": "На этой неделе в Xbox ожидается новая волна увольнений и объединение студий в рамках плана по возвращению подразделения к прибыльности.",
+      "telegram_message_id": "56",
+      "telegram_url": "https://t.me/gamepulse_newss/56",
+      "telegram_published_at": "2026-09-23T19:21:36.540001+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T19:21:36.541594+00:00"
     }
   ],
-  "updated_at": "2026-09-23T19:16:57.072708+00:00"
+  "updated_at": "2026-09-23T19:21:39.066370+00:00"
 }
