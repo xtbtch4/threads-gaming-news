@@ -766,7 +766,25 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/halo-2-anniversary-20-years-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-23T18:37:35.814580+00:00"
+    },
+    {
+      "fingerprint": "466e465beeae30d867b9235a",
+      "title": "Persona 6 Excitement Grows as Atlus Announces Return of Major Event",
+      "url": "https://polygon.com/persona-6-super-live-2027-announced-atlus-rpg",
+      "source": "Polygon",
+      "published_at_source": "2026-09-23T17:32:18+00:00",
+      "score": 10,
+      "event_key": "atlus-announces-persona-super-live-2027",
+      "title_ru": "Atlus возвращает концертное шоу Persona Super Live в 2027 году",
+      "threads_teaser_ru": "Atlus возвращает музыкальное шоу Persona Super Live в марте 2027 года. Фанатам интересны не только концерты, но и возможные новости о Persona 6.",
+      "telegram_message_id": "48",
+      "telegram_url": "https://t.me/gamepulse_newss/48",
+      "telegram_published_at": "2026-09-23T18:41:48.655587+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/persona-6.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/persona-6.jpg",
+      "threads_published_at": "2026-09-23T18:41:48.656976+00:00"
     }
   ],
-  "updated_at": "2026-09-23T18:37:38.545967+00:00"
+  "updated_at": "2026-09-23T18:41:51.065274+00:00"
 }
