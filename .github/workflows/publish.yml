@@ -37,6 +37,12 @@ jobs:
       TELEGRAM_FUNNEL_URL: ${{ vars.TELEGRAM_FUNNEL_URL }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+      GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+      GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+      GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+      GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+      GEMINI_API_KEY_7: ${{ secrets.GEMINI_API_KEY_7 }}
+      GEMINI_API_KEY_8: ${{ secrets.GEMINI_API_KEY_8 }}
       GEMINI_MODEL: "gemini-3.5-flash-lite"
       GEMINI_FALLBACK_MODEL: "gemini-3.1-flash-lite"
       MAX_AGE_HOURS: "72"
@@ -61,7 +67,11 @@ jobs:
 
       - name: Collect and publish gaming news
         run: |
-          if [ "$DRY_RUN" = "true" ] && [ -z "$GEMINI_API_KEY" ] && [ -z "$GEMINI_API_KEY_2" ]; then
+          if [ "$DRY_RUN" = "true" ] && \
+             [ -z "$GEMINI_API_KEY" ] && [ -z "$GEMINI_API_KEY_2" ] && \
+             [ -z "$GEMINI_API_KEY_3" ] && [ -z "$GEMINI_API_KEY_4" ] && \
+             [ -z "$GEMINI_API_KEY_5" ] && [ -z "$GEMINI_API_KEY_6" ] && \
+             [ -z "$GEMINI_API_KEY_7" ] && [ -z "$GEMINI_API_KEY_8" ]; then
             echo "Gemini keys are not configured; running secret-free collector smoke test"
             python smoke_test.py
           else
