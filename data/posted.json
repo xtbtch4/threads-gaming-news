@@ -1092,7 +1092,24 @@
       "threads_id": "disabled",
       "image_url": "https://images.stopgame.ru/news/2026/09/23/qW60Bu2a.jpg",
       "threads_published_at": "2026-09-23T20:11:31.227241+00:00"
+    },
+    {
+      "fingerprint": "a9a479ee6e8ecb658e630b82",
+      "title": "Shoot the tires, please",
+      "url": "https://pcgamer.com/games/fps/shoot-the-tires-please",
+      "source": "PC Gamer",
+      "published_at_source": "2026-09-23T20:12:06+00:00",
+      "score": 9,
+      "event_key": "wardogs humvee tire vulnerability discovered",
+      "title_ru": "Уязвимость Хамви в Wardogs",
+      "threads_teaser_ru": "В шутере Wardogs бронированные Humvee доставляют немало проблем игрокам, но у них есть скрытая слабость. Оказывается, повреждение шин способно кардинально изменить ситуацию на поле боя.",
+      "telegram_message_id": "67",
+      "telegram_url": "https://t.me/gamepulse_newss/67",
+      "telegram_published_at": "2026-09-23T20:16:50.165440+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eFrNx2aTQ5xaVKS6g4WJPW-2560-80.jpg",
+      "threads_published_at": "2026-09-23T20:16:50.167272+00:00"
     }
   ],
-  "updated_at": "2026-09-23T20:11:33.853325+00:00"
+  "updated_at": "2026-09-23T20:16:52.959808+00:00"
 }
