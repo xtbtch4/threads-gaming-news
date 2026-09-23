@@ -49,6 +49,11 @@ DATE_REGEXES = [
     r"\b20\d{2}[-./]\d{1,2}[-./]\d{1,2}\b",
 ]
 
+ARTICLE_PATH_HINTS = (
+    "/news/", "/newswire/", "/blog/", "/blogs/", "/whatsnew/", "/article/", "/articles/",
+    "/press/", "/updates/", "/update/",
+)
+
 
 def _strip_tags(value: str) -> str:
     return bot.clean_text(html.unescape(value or ""))
@@ -73,6 +78,18 @@ def _same_site(candidate: str, landing: str) -> bool:
     a = urlsplit(candidate).netloc.casefold().removeprefix("www.")
     b = urlsplit(landing).netloc.casefold().removeprefix("www.")
     return a == b or a.endswith("." + b) or b.endswith("." + a)
+
+
+def _article_priority(url: str, title: str) -> int:
+    path = urlsplit(url).path.casefold()
+    score = 0
+    if any(hint in path for hint in ARTICLE_PATH_HINTS):
+        score += 10
+    if re.search(r"/20\d{2}/|/\d{4}/\d{1,2}/", path):
+        score += 3
+    if len(title) >= 32:
+        score += 1
+    return score
 
 
 def _article_meta(url: str) -> tuple[datetime | None, str, str, str]:
@@ -140,7 +157,7 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         return []
 
     page = response.text[:1_500_000]
-    candidates: list[tuple[str, str, datetime | None]] = []
+    candidates: list[tuple[int, str, str, datetime | None]] = []
     seen: set[str] = set()
     anchor_re = re.compile(r'<a\b([^>]*?)href=["\']([^"\']+)["\']([^>]*)>(.*?)</a>', re.I | re.S)
     for match in anchor_re.finditer(page):
@@ -161,18 +178,19 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         if any(part in low_url for part in ("/privacy", "/terms", "/careers", "/login", "/account")):
             continue
 
-        # Only trust a date that belongs to this exact anchor/title. A wide HTML
-        # window can accidentally pick the date from the neighbouring news card.
         published = _parse_date(title) or _parse_date(match.group(0))
-        candidates.append((title, canonical, published))
+        candidates.append((_article_priority(canonical, title), title, canonical, published))
         seen.add(canonical)
-        if len(candidates) >= 24:
+        if len(candidates) >= 120:
             break
+
+    # Article-like URLs must be inspected before navigation/category links. This is
+    # important for sites such as EA where the first dozens of anchors are navigation.
+    candidates.sort(key=lambda item: item[0], reverse=True)
 
     stories: list[bot.Story] = []
     detail_lookups = 0
-    for title, url, published in candidates:
-        # If the card itself says the article is already too old, don't spend a request on it.
+    for _priority, title, url, published in candidates:
         if published is not None and published < cutoff:
             continue
 
@@ -180,9 +198,7 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         summary = title
         image = ""
 
-        # Validate recent/unknown cards against the article itself. This prevents
-        # neighbouring card dates from turning an old story into a fresh one.
-        if detail_lookups < 8:
+        if detail_lookups < 16:
             detail_lookups += 1
             meta_date, meta_title, meta_summary, meta_image = _article_meta(url)
             if meta_date is not None:
