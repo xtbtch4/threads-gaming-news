@@ -184,8 +184,6 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         if len(candidates) >= 120:
             break
 
-    # Article-like URLs must be inspected before navigation/category links. This is
-    # important for sites such as EA where the first dozens of anchors are navigation.
     candidates.sort(key=lambda item: item[0], reverse=True)
 
     stories: list[bot.Story] = []
@@ -198,7 +196,7 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         summary = title
         image = ""
 
-        if detail_lookups < 16:
+        if detail_lookups < 8:
             detail_lookups += 1
             meta_date, meta_title, meta_summary, meta_image = _article_meta(url)
             if meta_date is not None:
