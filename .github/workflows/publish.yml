@@ -28,7 +28,9 @@ concurrency:
 
 jobs:
   publish:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || vars.ENABLE_AUTO_PUBLISH == 'true' }}
+    # Scheduled runs are always enabled. ENABLE_AUTO_PUBLISH=true remains supported
+    # for repository_dispatch/other automated triggers.
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event_name == 'schedule' || vars.ENABLE_AUTO_PUBLISH == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     env:
