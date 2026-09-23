@@ -61,7 +61,13 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Collect and publish gaming news
-        run: python bot.py
+        run: |
+          if [ "$DRY_RUN" = "true" ] && [ -z "$GEMINI_API_KEY" ]; then
+            echo "GEMINI_API_KEY is not configured; running secret-free collector smoke test"
+            python smoke_test.py
+          else
+            python bot.py
+          fi
 
       - name: Save publication history safely
         if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
