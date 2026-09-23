@@ -9,6 +9,9 @@ import studio_bot
 
 # Extra first-party studio pages explicitly mentioned under EA in the source brief.
 studio_bot.OFFICIAL_PAGES.extend([
+    # EA's main homepage currently exposes the newest corporate/game articles more
+    # reliably to server-side crawlers than /news on GitHub runners.
+    studio_bot.OfficialPage("Electronic Arts Home", "https://www.ea.com/", weight=5),
     studio_bot.OfficialPage("BioWare", "https://www.bioware.com/news/", weight=5),
     studio_bot.OfficialPage("Battlefield Studios / DICE", "https://www.ea.com/games/battlefield/news", weight=5),
     studio_bot.OfficialPage("Respawn / Apex Legends", "https://www.ea.com/games/apex-legends/apex-legends/news", weight=5),
@@ -37,15 +40,32 @@ def fetch_stories_with_fallbacks() -> list[bot.Story]:
 bot.fetch_stories = fetch_stories_with_fallbacks
 
 
-# Make every rejection visible in Actions logs. Previously "fresh" meant only that
-# an item was inside the 72-hour source window, so a run could say "Found 21" and
-# then give no explanation when all 21 were already published / deduped / low score.
+MAJOR_EVENT_TERMS = (
+    "closure", "close down", "shut down", "shutdown", "layoff", "layoffs",
+    "acquisition", "acquire", "acquired", "cancelled", "canceled", "cancellation",
+    "delay", "delayed", "release date", "закрытие", "закрыть", "увольнен", "увольнён",
+    "сокращения", "поглощение", "отмена", "отменена", "перенос", "дата выхода",
+)
+
+
+def _major_event(story: bot.Story) -> bool:
+    text = f"{story.title} {story.summary}".casefold()
+    return any(term in text for term in MAJOR_EVENT_TERMS)
+
+
+# Make every rejection visible in Actions logs. "Fresh" only means that an item is
+# inside the 72-hour source window; it may still be already published or low-value.
+# Major industry events get a narrow one-point exception so studio closures, layoffs,
+# acquisitions, cancellations and release-date delays are not lost at score 4.
 def select_stories_verbose(stories, state):
     selected: list[bot.Story] = []
     for story in sorted(stories, key=lambda s: (s.score, s.published), reverse=True):
-        if story.score < bot.MIN_SCORE:
+        major_exception = story.score == bot.MIN_SCORE - 1 and _major_event(story)
+        if story.score < bot.MIN_SCORE and not major_exception:
             bot.LOG.info("Skipped low score %d < %d: %s", story.score, bot.MIN_SCORE, story.title)
             continue
+        if major_exception:
+            bot.LOG.info("Major-event exception %d -> %d: %s", story.score, bot.MIN_SCORE, story.title)
         if bot.known_story(story, state):
             bot.LOG.info("Skipped already published/deduped: %s", story.title)
             continue
