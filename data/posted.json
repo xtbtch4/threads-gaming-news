@@ -820,7 +820,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25408820/discord_art.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4",
       "threads_published_at": "2026-09-23T18:53:42.464353+00:00"
+    },
+    {
+      "fingerprint": "890a40aaa0deef7201e8fa2c",
+      "title": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
+      "url": "https://eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-23T18:55:20+00:00",
+      "score": 15,
+      "event_key": "discord_launches_controversial_age_verification_system_2026",
+      "title_ru": "Discord запустил систему возрастной верификации с новыми методами защиты данных",
+      "threads_teaser_ru": "Discord вернул систему проверки возраста после февральской паузы и критики пользователей. Обновленный подход предлагает небиометрические способы подтверждения для совершеннолетних.",
+      "telegram_message_id": "51",
+      "telegram_url": "https://t.me/gamepulse_newss/51",
+      "telegram_published_at": "2026-09-23T18:56:18.185837+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/discord-logo-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T18:56:18.187518+00:00"
     }
   ],
-  "updated_at": "2026-09-23T18:53:44.977192+00:00"
+  "updated_at": "2026-09-23T18:56:20.890145+00:00"
 }
