@@ -4,6 +4,7 @@ import os
 import re
 
 import bot
+import run_bot
 import studio_bot
 
 
@@ -57,6 +58,9 @@ def _major_event(story: bot.Story) -> bool:
 # inside the 72-hour source window; it may still be already published or low-value.
 # Major industry events get a narrow one-point exception so studio closures, layoffs,
 # acquisitions, cancellations and release-date delays are not lost at score 4.
+# For those events, use the original duplicate test (same URL/title), not the broad
+# cross-story news-cycle test: Ninja Theory closing is distinct from Halo layoffs even
+# though both belong to the same Xbox restructuring.
 def select_stories_verbose(stories, state):
     selected: list[bot.Story] = []
     for story in sorted(stories, key=lambda s: (s.score, s.published), reverse=True):
@@ -66,7 +70,10 @@ def select_stories_verbose(stories, state):
             continue
         if major_exception:
             bot.LOG.info("Major-event exception %d -> %d: %s", story.score, bot.MIN_SCORE, story.title)
-        if bot.known_story(story, state):
+            already_known = run_bot._original_known_story(story, state)
+        else:
+            already_known = bot.known_story(story, state)
+        if already_known:
             bot.LOG.info("Skipped already published/deduped: %s", story.title)
             continue
         if any(bot.similar_tokens(story.title, other.title) >= 0.62 for other in selected):
