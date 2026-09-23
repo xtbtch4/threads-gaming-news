@@ -67,7 +67,24 @@
       "threads_id": "18194221648381053",
       "image_url": "",
       "threads_published_at": "2026-09-23T10:57:24.263231+00:00"
+    },
+    {
+      "fingerprint": "61806d47fe4d682fb0feee78",
+      "title": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
+      "url": "https://eurogamer.net/microsoft-patent-ads-in-gameplay",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-21T05:19:00+00:00",
+      "score": 9,
+      "event_key": "microsoft patents system for in-game ads on pc and xbox",
+      "title_ru": "Microsoft запатентовала систему внутриигровой рекламы для ПК и Xbox",
+      "threads_teaser_ru": "Microsoft запатентовала технологию показа рекламы в играх на ПК и Xbox. Система определяет «триггерные события», такие как экраны загрузки или завершение миссий, чтобы демонстрировать промо-контент без вмешательства в активный геймплей. Как это может повлиять на будущие тарифы подписки?",
+      "telegram_message_id": "7",
+      "telegram_url": "https://t.me/gamepulse_newss/7",
+      "telegram_published_at": "2026-09-23T10:59:49.319686+00:00",
+      "threads_id": "18336598837259058",
+      "image_url": "https://assetsio.gnwcdn.com/A-puppet-in-Clockwork-Revolution.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T10:59:58.526527+00:00"
     }
   ],
-  "updated_at": "2026-09-23T10:57:26.727340+00:00"
+  "updated_at": "2026-09-23T11:00:00.818805+00:00"
 }
