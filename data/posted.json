@@ -1761,7 +1761,24 @@
       "threads_id": "disabled",
       "image_url": "https://images.stopgame.ru/news/2026/09/23/O2BlA0z0.jpg",
       "threads_published_at": "2026-09-23T23:31:38.605064+00:00"
+    },
+    {
+      "fingerprint": "334f78d721e8d8cbc678a38a",
+      "title": "Tolkien's Silmarillion Illustrated Edition Drops to Its Lowest Price Ever for Amazon Prime Members",
+      "url": "https://ign.com/articles/the-silmarillion-illustrated-edition-book-deal-september-2026",
+      "source": "IGN",
+      "published_at_source": "2026-09-23T17:46:05+00:00",
+      "score": 6,
+      "event_key": "silmarillion-illustrated-edition-lowest-price-amazon-prime",
+      "title_ru": "Иллюстрированное издание «Сильмариллиона» подешевело на Amazon",
+      "threads_teaser_ru": "Иллюстрированное издание «Сильмариллиона» получило самую низкую цену в истории на Amazon для подписчиков Prime, а скидки также затронули другие книги по Средиземью.",
+      "telegram_message_id": "107",
+      "telegram_url": "https://t.me/gamepulse_newss/107",
+      "telegram_published_at": "2026-09-23T23:36:41.812043+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2022/10/25/silmarillion-illustrated-blogroll-1666717007035.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-23T23:36:41.814318+00:00"
     }
   ],
-  "updated_at": "2026-09-23T23:31:40.998998+00:00"
+  "updated_at": "2026-09-23T23:36:44.204372+00:00"
 }
