@@ -493,7 +493,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Age-Of-Empires-2-supporter-post_cOigFO4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-23T17:17:41.311439+00:00"
+    },
+    {
+      "fingerprint": "c677b59aedb16eb0a7c0b7ba",
+      "title": "Resident Evil Movie Director Reveals His Four Favorite Games",
+      "url": "https://gamespot.com/articles/resident-evil-movie-director-reveals-his-four-favorite-games",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-23T15:38:21+00:00",
+      "score": 12,
+      "event_key": "resident-evil-movie-director-favorite-games",
+      "title_ru": "Режиссер нового фильма по Resident Evil назвал свои любимые игры",
+      "threads_teaser_ru": "Режиссер новой экранизации Resident Evil Зак Креггер назвал свои любимые игры, среди которых оказались Dark Souls 3 и Resident Evil 4. Как создатель фильма использовал их для работы?",
+      "telegram_message_id": "32",
+      "telegram_url": "https://t.me/gamepulse_newss/32",
+      "telegram_published_at": "2026-09-23T17:22:52.852143+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Cregger.png?w=300",
+      "threads_published_at": "2026-09-23T17:22:52.853159+00:00"
     }
   ],
-  "updated_at": "2026-09-23T17:17:43.882194+00:00"
+  "updated_at": "2026-09-23T17:22:55.515937+00:00"
 }
