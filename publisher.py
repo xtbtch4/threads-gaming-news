@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import re
 
 import bot
@@ -65,7 +66,7 @@ def _sentence_excerpt(text: str, limit: int) -> str:
 
 
 def _fallback_render(story: bot.Story) -> tuple[bot.Rendered, str]:
-    # Keep the channel alive when Gemini is rate-limited or temporarily unavailable.
+    # Keep the channel alive when both Gemini projects are rate-limited or unavailable.
     # Facts still come only from the source article. The fallback keeps the source
     # language instead of inventing/guessing a translation.
     evidence, image_url, _quotes = bot.fetch_article_context(story)
@@ -82,20 +83,45 @@ def _fallback_render(story: bot.Story) -> tuple[bot.Rendered, str]:
         threads_teaser_ru=teaser,
         event_key=event_key,
     )
-    bot.LOG.warning("Using source-language fallback because Gemini is unavailable: %s", title)
+    bot.LOG.warning("Using source-language fallback because all Gemini projects are unavailable: %s", title)
     return rendered, image_url
 
 
 _original_rewrite_story = bot.rewrite_story
 
 
+def _is_gemini_error(exc: RuntimeError) -> bool:
+    message = str(exc)
+    return "Gemini" in message or "gemini" in message
+
+
 def rewrite_story_resilient(story: bot.Story) -> tuple[bot.Rendered, str]:
     try:
         return _original_rewrite_story(story)
-    except RuntimeError as exc:
-        message = str(exc)
-        if "Gemini" not in message and "gemini" not in message:
+    except RuntimeError as first_exc:
+        if not _is_gemini_error(first_exc):
             raise
+
+        primary = os.getenv("GEMINI_API_KEY", "").strip()
+        secondary = os.getenv("GEMINI_API_KEY_2", "").strip()
+        if secondary and secondary != primary:
+            bot.LOG.warning("Primary Gemini project unavailable; trying GEMINI_API_KEY_2")
+            previous = os.environ.get("GEMINI_API_KEY")
+            os.environ["GEMINI_API_KEY"] = secondary
+            try:
+                result = _original_rewrite_story(story)
+                bot.LOG.info("Secondary Gemini project succeeded")
+                return result
+            except RuntimeError as second_exc:
+                if not _is_gemini_error(second_exc):
+                    raise
+                bot.LOG.warning("Secondary Gemini project unavailable: %s", str(second_exc).splitlines()[0])
+            finally:
+                if previous is None:
+                    os.environ.pop("GEMINI_API_KEY", None)
+                else:
+                    os.environ["GEMINI_API_KEY"] = previous
+
         return _fallback_render(story)
 
 
