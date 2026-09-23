@@ -128,5 +128,14 @@ def rewrite_story_resilient(story: bot.Story) -> tuple[bot.Rendered, str]:
 bot.rewrite_story = rewrite_story_resilient
 
 
+def threads_post_text_link_only(teaser: str, telegram_url: str) -> str:
+    suffix = f"\n\n{telegram_url}"
+    room = max(40, 500 - len(suffix))
+    return f"{bot.shorten(teaser, room)}{suffix}"[:500]
+
+
+bot.threads_post_text = threads_post_text_link_only
+
+
 if __name__ == "__main__":
     raise SystemExit(bot.main())
