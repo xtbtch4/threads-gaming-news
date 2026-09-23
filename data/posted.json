@@ -1075,7 +1075,24 @@
       "threads_id": "disabled",
       "image_url": "https://images.stopgame.ru/news/2026/09/23/rlCAyKiAX.jpg",
       "threads_published_at": "2026-09-23T20:07:12.268816+00:00"
+    },
+    {
+      "fingerprint": "d78b4b637916ba97fb6684d3",
+      "title": "Аналитики: продажи Star Wars Zero Company перевалили за миллион копий",
+      "url": "https://stopgame.ru/newsdata/72923/analitiki_prodazhi_star_wars_zero_company_perevalili_za_million_kopiy",
+      "source": "StopGame",
+      "published_at_source": "2026-09-23T13:58:04+00:00",
+      "score": 9,
+      "event_key": "star wars zero company sales reach one million copies",
+      "title_ru": "Продажи Star Wars: Zero Company превысили миллион копий",
+      "threads_teaser_ru": "Аналитики сообщили, что тираж Star Wars: Zero Company перевалил за миллион копий спустя почти месяц после релиза. Игра доступна на ПК и консолях текущего поколения.",
+      "telegram_message_id": "66",
+      "telegram_url": "https://t.me/gamepulse_newss/66",
+      "telegram_published_at": "2026-09-23T20:11:31.225544+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://images.stopgame.ru/news/2026/09/23/qW60Bu2a.jpg",
+      "threads_published_at": "2026-09-23T20:11:31.227241+00:00"
     }
   ],
-  "updated_at": "2026-09-23T20:07:15.101278+00:00"
+  "updated_at": "2026-09-23T20:11:33.853325+00:00"
 }
