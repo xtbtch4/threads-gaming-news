@@ -16,8 +16,6 @@ on:
       - main
     paths:
       - "data/run-now.txt"
-  schedule:
-    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -28,9 +26,8 @@ concurrency:
 
 jobs:
   publish:
-    # Scheduled and external repository_dispatch runs are always enabled.
-    # ENABLE_AUTO_PUBLISH=true remains supported for any other automated trigger.
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || vars.ENABLE_AUTO_PUBLISH == 'true' }}
+    # cron-job.org triggers repository_dispatch every 10 minutes.
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event_name == 'repository_dispatch' }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     env:
