@@ -31,7 +31,10 @@ DIRECT_FEEDS = [
 
 def fetch_direct_feed(source: DirectFeed) -> list[bot.Story]:
     now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(hours=bot.MAX_AGE_HOURS)
+    # Direct feeds are the real-time layer. Keep only the last day so the bot does not
+    # publish a multi-day backlog every five minutes after adding new feeds. The older
+    # Bing/official-source layer still retains the wider MAX_AGE_HOURS recovery window.
+    cutoff = now - timedelta(hours=min(bot.MAX_AGE_HOURS, 24))
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; GamingNewsBot/1.0)",
         "Accept": "application/rss+xml,application/atom+xml,application/xml,text/xml,*/*",
