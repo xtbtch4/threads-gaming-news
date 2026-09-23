@@ -289,7 +289,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-E-Day.jpg?w=300",
       "threads_published_at": "2026-09-23T16:17:19.835649+00:00"
+    },
+    {
+      "fingerprint": "7c984dbc0dfc748f59604166",
+      "title": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+      "url": "https://rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-23T15:09:11+00:00",
+      "score": 14,
+      "event_key": "this one especially bad steam game about mistreating ragdolls suffers",
+      "title_ru": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+      "threads_teaser_ru": "People Playground, a Steam sandbox game about torturing or otherwise messing with innocent ragdolls that work like crash test dummies, has had its Steam Workshop disabled over a \"malicious mod\" peddling malware.",
+      "telegram_message_id": "20",
+      "telegram_url": "https://t.me/gamepulse_newss/20",
+      "telegram_published_at": "2026-09-23T16:22:20.792016+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/people-playground-mod-malware-attack-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T16:22:20.793160+00:00"
     }
   ],
-  "updated_at": "2026-09-23T16:17:22.306500+00:00"
+  "updated_at": "2026-09-23T16:22:23.372112+00:00"
 }
