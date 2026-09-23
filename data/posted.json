@@ -476,7 +476,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-09-23T17:12:57.318841+00:00"
+    },
+    {
+      "fingerprint": "beed46942358b6e9eb32ec17",
+      "title": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs",
+      "url": "https://rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-23T09:13:14+00:00",
+      "score": 13,
+      "event_key": "worlds edge studio loses staff and project in xbox layoffs",
+      "title_ru": "Студия World's Edge потеряла почти половину штата из-за сокращений в Xbox",
+      "threads_teaser_ru": "Студия World's Edge, управляющая серией Age of Empires, столкнулась с массовыми сокращениями и потерей почти половины штата в рамках реорганизации Xbox.",
+      "telegram_message_id": "31",
+      "telegram_url": "https://t.me/gamepulse_newss/31",
+      "telegram_published_at": "2026-09-23T17:17:41.310257+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Age-Of-Empires-2-supporter-post_cOigFO4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T17:17:41.311439+00:00"
     }
   ],
-  "updated_at": "2026-09-23T17:12:59.781636+00:00"
+  "updated_at": "2026-09-23T17:17:43.882194+00:00"
 }
