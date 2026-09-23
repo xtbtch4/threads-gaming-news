@@ -681,7 +681,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/High-on-Life-2.jpg?w=300",
       "threads_published_at": "2026-09-23T18:12:02.733002+00:00"
+    },
+    {
+      "fingerprint": "265b6017772720b7511e3874",
+      "title": "QUAKE Sep 23, 2026 Quake Champions 1.31 Point Release FAQ Beginning September 23, 2026, Quake Champions transitions from a free-to-play model game to a paid title on Steam only. View",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-champions-1-31-point-release",
+      "source": "Bethesda",
+      "published_at_source": "2026-09-23T18:00:00+00:00",
+      "score": 15,
+      "event_key": "quake champions transitions to paid title on steam",
+      "title_ru": "Quake Champions становится платной игрой в Steam",
+      "threads_teaser_ru": "Quake Champions меняет модель распространения и становится платной игрой только в Steam с 23 сентября 2026 года. Что будет с прогрессом, покупками и игроками с Microsoft Store — читайте в материале.",
+      "telegram_message_id": "43",
+      "telegram_url": "https://t.me/gamepulse_newss/43",
+      "telegram_published_at": "2026-09-23T18:17:18.792461+00:00",
+      "threads_id": "disabled",
+      "image_url": "",
+      "threads_published_at": "2026-09-23T18:17:18.793937+00:00"
     }
   ],
-  "updated_at": "2026-09-23T18:12:05.050021+00:00"
+  "updated_at": "2026-09-23T18:17:21.584603+00:00"
 }
