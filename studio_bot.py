@@ -89,15 +89,16 @@ def _article_meta(url: str) -> tuple[datetime | None, str, str, str]:
     published = None
     for key in ("article:published_time", "date", "datePublished", "publish-date", "pubdate"):
         raw = bot.meta_content(page, key)
-        if raw:
-            try:
-                published = date_parser.parse(raw)
-                if published.tzinfo is None:
-                    published = published.replace(tzinfo=timezone.utc)
-                published = published.astimezone(timezone.utc)
-                break
-            except (ValueError, TypeError, OverflowError):
-                pass
+        if not raw:
+            continue
+        try:
+            published = date_parser.parse(raw)
+            if published.tzinfo is None:
+                published = published.replace(tzinfo=timezone.utc)
+            published = published.astimezone(timezone.utc)
+            break
+        except (ValueError, TypeError, OverflowError):
+            pass
     if published is None:
         match = re.search(r'<time\b[^>]*datetime=["\']([^"\']+)["\']', page, flags=re.I)
         if match:
@@ -126,7 +127,8 @@ def _article_meta(url: str) -> tuple[datetime | None, str, str, str]:
 
 
 def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=bot.MAX_AGE_HOURS)
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=bot.MAX_AGE_HOURS)
     headers = {"User-Agent": "Mozilla/5.0 (compatible; GamingNewsBot/1.0)", "Accept": "text/html"}
     try:
         response = bot.requests.get(source.url, headers=headers, timeout=18, allow_redirects=True)
@@ -155,12 +157,13 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         title_key = title.casefold().strip(" .:—-")
         if len(title) < 18 or title_key in GENERIC_LINK_TEXT:
             continue
-        # Avoid obvious navigation/legal/category links.
         low_url = canonical.casefold()
-        if any(part in low_url for part in ("/privacy", "/terms", "/careers", "/support", "/login", "/account")):
+        if any(part in low_url for part in ("/privacy", "/terms", "/careers", "/login", "/account")):
             continue
-        context = page[max(0, match.start() - 600): min(len(page), match.end() + 600)]
-        published = _parse_date(context)
+
+        # Only trust a date that belongs to this exact anchor/title. A wide HTML
+        # window can accidentally pick the date from the neighbouring news card.
+        published = _parse_date(title) or _parse_date(match.group(0))
         candidates.append((title, canonical, published))
         seen.add(canonical)
         if len(candidates) >= 24:
@@ -169,18 +172,26 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
     stories: list[bot.Story] = []
     detail_lookups = 0
     for title, url, published in candidates:
+        # If the card itself says the article is already too old, don't spend a request on it.
+        if published is not None and published < cutoff:
+            continue
+
         final_title = title
         summary = title
         image = ""
-        # If landing-page date is absent, inspect a few top article pages for metadata.
-        if published is None and detail_lookups < 5:
+
+        # Validate recent/unknown cards against the article itself. This prevents
+        # neighbouring card dates from turning an old story into a fresh one.
+        if detail_lookups < 8:
             detail_lookups += 1
             meta_date, meta_title, meta_summary, meta_image = _article_meta(url)
-            published = meta_date
+            if meta_date is not None:
+                published = meta_date
             final_title = meta_title or final_title
             summary = meta_summary or summary
             image = meta_image
-        if published is None or published < cutoff or published > datetime.now(timezone.utc) + timedelta(hours=2):
+
+        if published is None or published < cutoff or published > now + timedelta(hours=2):
             continue
         score = bot.importance(final_title, summary, source.weight, published)
         if score < bot.MIN_SCORE:
@@ -201,7 +212,8 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
     return stories
 
 
-# Import run_bot first so its dedupe, complete-caption and gameplay-video patches are active.
+# run_bot adds semantic/news-cycle dedupe, complete Telegram captions and
+# preference for the highest-quality gameplay video available.
 import run_bot  # noqa: E402,F401
 
 _original_fetch_stories = bot.fetch_stories
