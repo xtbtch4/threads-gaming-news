@@ -33,9 +33,9 @@ jobs:
     timeout-minutes: 12
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHAT_ID: "@gamepulse_newss"
-      TELEGRAM_PUBLIC_USERNAME: "gamepulse_newss"
-      TELEGRAM_FUNNEL_URL: "https://t.me/gamepulse_newss"
+      TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+      TELEGRAM_PUBLIC_USERNAME: ${{ vars.TELEGRAM_PUBLIC_USERNAME }}
+      TELEGRAM_FUNNEL_URL: ${{ vars.TELEGRAM_FUNNEL_URL }}
       THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GEMINI_MODEL: "gemini-3.5-flash"
