@@ -124,7 +124,7 @@ def _sentence_excerpt(text: str, limit: int) -> str:
 
 
 def _fallback_render(story: bot.Story) -> tuple[bot.Rendered, str]:
-    # Keep the channel alive when both Gemini projects are rate-limited or unavailable.
+    # Keep the channel alive only after every configured Gemini project is unavailable.
     # Facts still come only from the source article. The fallback keeps the source
     # language instead of inventing/guessing a translation.
     evidence, image_url, _quotes = bot.fetch_article_context(story)
@@ -141,46 +141,87 @@ def _fallback_render(story: bot.Story) -> tuple[bot.Rendered, str]:
         threads_teaser_ru=teaser,
         event_key=event_key,
     )
-    bot.LOG.warning("Using source-language fallback because all Gemini projects are unavailable: %s", title)
+    bot.LOG.warning("Using source-language fallback because all configured Gemini projects are unavailable: %s", title)
     return rendered, image_url
 
 
 _original_rewrite_story = bot.rewrite_story
 
+# These are the only Gemini models allowed for rewriting/translation.
+_GEMINI_PRIMARY_MODEL = "gemini-3.5-flash-lite"
+_GEMINI_FALLBACK_MODEL = "gemini-3.1-flash-lite"
+_GEMINI_KEY_NAMES = ["GEMINI_API_KEY"] + [f"GEMINI_API_KEY_{i}" for i in range(2, 9)]
+
 
 def _is_gemini_error(exc: RuntimeError) -> bool:
-    message = str(exc)
-    return "Gemini" in message or "gemini" in message
+    return "gemini" in str(exc).casefold()
+
+
+def _configured_gemini_keys() -> list[tuple[str, str]]:
+    keys: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for name in _GEMINI_KEY_NAMES:
+        value = os.getenv(name, "").strip()
+        if value and value not in seen:
+            keys.append((name, value))
+            seen.add(value)
+    return keys
 
 
 def rewrite_story_resilient(story: bot.Story) -> tuple[bot.Rendered, str]:
-    try:
-        return _original_rewrite_story(story)
-    except RuntimeError as first_exc:
-        if not _is_gemini_error(first_exc):
-            raise
+    keys = _configured_gemini_keys()
+    if not keys:
+        bot.LOG.warning("No Gemini API keys configured")
+        return _fallback_render(story)
 
-        primary = os.getenv("GEMINI_API_KEY", "").strip()
-        secondary = os.getenv("GEMINI_API_KEY_2", "").strip()
-        if secondary and secondary != primary:
-            bot.LOG.warning("Primary Gemini project unavailable; trying GEMINI_API_KEY_2")
-            previous = os.environ.get("GEMINI_API_KEY")
-            os.environ["GEMINI_API_KEY"] = secondary
+    previous_key = os.environ.get("GEMINI_API_KEY")
+    previous_model = os.environ.get("GEMINI_MODEL")
+    previous_fallback_model = os.environ.get("GEMINI_FALLBACK_MODEL")
+
+    # Lock the model pair regardless of repository variables or old configuration.
+    os.environ["GEMINI_MODEL"] = _GEMINI_PRIMARY_MODEL
+    os.environ["GEMINI_FALLBACK_MODEL"] = _GEMINI_FALLBACK_MODEL
+
+    try:
+        for index, (name, key) in enumerate(keys, start=1):
+            os.environ["GEMINI_API_KEY"] = key
+            if index > 1:
+                bot.LOG.warning("Switching to Gemini key %d/%d (%s)", index, len(keys), name)
             try:
                 result = _original_rewrite_story(story)
-                bot.LOG.info("Secondary Gemini project succeeded")
+                bot.LOG.info(
+                    "Gemini succeeded with key %d/%d using allowed model pair %s -> %s",
+                    index,
+                    len(keys),
+                    _GEMINI_PRIMARY_MODEL,
+                    _GEMINI_FALLBACK_MODEL,
+                )
                 return result
-            except RuntimeError as second_exc:
-                if not _is_gemini_error(second_exc):
+            except RuntimeError as exc:
+                if not _is_gemini_error(exc):
                     raise
-                bot.LOG.warning("Secondary Gemini project unavailable: %s", str(second_exc).splitlines()[0])
-            finally:
-                if previous is None:
-                    os.environ.pop("GEMINI_API_KEY", None)
-                else:
-                    os.environ["GEMINI_API_KEY"] = previous
+                bot.LOG.warning(
+                    "Gemini key %d/%d unavailable or quota-limited: %s",
+                    index,
+                    len(keys),
+                    str(exc).splitlines()[0],
+                )
+                continue
+    finally:
+        if previous_key is None:
+            os.environ.pop("GEMINI_API_KEY", None)
+        else:
+            os.environ["GEMINI_API_KEY"] = previous_key
+        if previous_model is None:
+            os.environ.pop("GEMINI_MODEL", None)
+        else:
+            os.environ["GEMINI_MODEL"] = previous_model
+        if previous_fallback_model is None:
+            os.environ.pop("GEMINI_FALLBACK_MODEL", None)
+        else:
+            os.environ["GEMINI_FALLBACK_MODEL"] = previous_fallback_model
 
-        return _fallback_render(story)
+    return _fallback_render(story)
 
 
 bot.rewrite_story = rewrite_story_resilient
