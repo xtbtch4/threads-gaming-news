@@ -34,7 +34,7 @@ jobs:
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
-      TELEGRAM_PUBLIC_USERNAME: "gamepulse_newss"
+      TELEGRAM_PUBLIC_USERNAME: ${{ vars.TELEGRAM_PUBLIC_USERNAME }}
       TELEGRAM_FUNNEL_URL: ${{ vars.TELEGRAM_FUNNEL_URL }}
       THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -43,7 +43,7 @@ jobs:
       MAX_AGE_HOURS: "72"
       MAX_POSTS_PER_RUN: "1"
       MIN_IMPORTANCE_SCORE: "5"
-      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run == false && 'false' || github.event_name == 'push' && 'false' || 'false' }}
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run == false && 'false' || github.event_name == 'push' && 'true' || 'false' }}
 
     steps:
       - name: Check out repository
