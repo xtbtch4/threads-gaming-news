@@ -11,7 +11,7 @@ import studio_bot
 studio_bot.OFFICIAL_PAGES.extend([
     studio_bot.OfficialPage("BioWare", "https://www.bioware.com/news/", weight=5),
     studio_bot.OfficialPage("Battlefield Studios / DICE", "https://www.ea.com/games/battlefield/news", weight=5),
-    studio_bot.OfficialPage("Respawn / Apex Legends", "https://www.ea.com/games/apex-legends/news", weight=5),
+    studio_bot.OfficialPage("Respawn / Apex Legends", "https://www.ea.com/games/apex-legends/apex-legends/news", weight=5),
 ])
 
 # Some official sites either block GitHub runners or render news cards in a way that
