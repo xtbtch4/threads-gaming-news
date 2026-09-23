@@ -837,7 +837,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/discord-logo-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-23T18:56:18.187518+00:00"
+    },
+    {
+      "fingerprint": "8defe9ff6db848e0ae6c8aee",
+      "title": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
+      "url": "https://eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-23T13:58:57+00:00",
+      "score": 10,
+      "event_key": "blizzard_diablo_5_level_scaling_diablo_2",
+      "title_ru": "Blizzard изменит систему автоповышения уровня в Diablo 5 под влиянием Diablo 2",
+      "threads_teaser_ru": "Разработчики Diablo 5 откажутся от привычного по последним частям серии автоповышения уровня врагов и применят иной подход, вдохновленный Diablo 2. Релиз игры намечен на весну 2029 года.",
+      "telegram_message_id": "52",
+      "telegram_url": "https://t.me/gamepulse_newss/52",
+      "telegram_published_at": "2026-09-23T19:02:46.315416+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-13-at-11.57.18.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T19:02:46.316702+00:00"
     }
   ],
-  "updated_at": "2026-09-23T18:56:20.890145+00:00"
+  "updated_at": "2026-09-23T19:02:48.933861+00:00"
 }
