@@ -66,7 +66,7 @@ jobs:
             echo "Gemini keys are not configured; running secret-free collector smoke test"
             python smoke_test.py
           else
-            python publisher.py
+            python direct_publisher.py
           fi
 
       - name: Save publication history safely
