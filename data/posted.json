@@ -544,7 +544,24 @@
       "threads_id": "disabled",
       "image_url": "https://cdn.mos.cms.futurecdn.net/FVTRrBNCxLzTZ9ue6qC2AJ-2560-80.jpg",
       "threads_published_at": "2026-09-23T17:32:16.599494+00:00"
+    },
+    {
+      "fingerprint": "e474cb627497aec3e62270a2",
+      "title": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
+      "url": "https://pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants",
+      "source": "PC Gamer",
+      "published_at_source": "2026-09-23T15:11:18+00:00",
+      "score": 11,
+      "event_key": "shinyhunters_claims_to_have_hacked_fbi_databases",
+      "title_ru": "Хакерская группа ShinyHunters заявила о взломе ФБР",
+      "threads_teaser_ru": "Хакерская группа ShinyHunters, ранее атаковавшая Rockstar Games, заявила о взломе баз данных ФБР и получении информации о сотрудниках и кандидатах.",
+      "telegram_message_id": "35",
+      "telegram_url": "https://t.me/gamepulse_newss/35",
+      "telegram_published_at": "2026-09-23T17:37:05.152596+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9Pu997rJdeG8ReYNpFBTJP-1194-80.jpg",
+      "threads_published_at": "2026-09-23T17:37:05.153880+00:00"
     }
   ],
-  "updated_at": "2026-09-23T17:32:19.094093+00:00"
+  "updated_at": "2026-09-23T17:37:07.764359+00:00"
 }
