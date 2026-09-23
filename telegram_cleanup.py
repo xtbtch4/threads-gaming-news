@@ -117,17 +117,15 @@ def _repeats_title(title: str, sentence: str) -> bool:
 
 
 def _separate_headline(text: str, title: str) -> str:
-    """Make the Telegram headline a visibly separate block."""
+    """Keep the Telegram headline as its own paragraph without a divider line."""
     text = text.strip()
     title_line = f"🎮 {bot.clean_text(title).rstrip(' .…')}"
     if not text.startswith(title_line):
         return text
-    rest = text[len(title_line):].lstrip("\n")
+    rest = text[len(title_line):].lstrip()
     if not rest:
         return text
-    # run_bot caps captions below Telegram's 1024-character photo limit, leaving
-    # enough room for this short divider.
-    return f"{title_line}\n\n──────────\n\n{rest}"
+    return f"{title_line}\n\n{rest}"
 
 
 def telegram_text_no_repeated_intro(rendered: bot.Rendered, story: bot.Story) -> str:
