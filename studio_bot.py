@@ -92,6 +92,12 @@ def _article_priority(url: str, title: str) -> int:
     return score
 
 
+def _title_from_slug(url: str) -> str:
+    slug = urlsplit(url).path.rstrip("/").split("/")[-1]
+    slug = re.sub(r"[-_]+", " ", slug)
+    return bot.clean_text(slug)
+
+
 def _article_meta(url: str) -> tuple[datetime | None, str, str, str]:
     headers = {"User-Agent": "Mozilla/5.0 (compatible; GamingNewsBot/1.0)", "Accept": "text/html"}
     try:
@@ -170,16 +176,25 @@ def fetch_official_page(source: OfficialPage) -> list[bot.Story]:
         canonical = bot.canonical_url(url)
         if canonical in seen or canonical == bot.canonical_url(response.url):
             continue
-        title = _strip_tags(match.group(4))
-        title_key = title.casefold().strip(" .:—-")
-        if len(title) < 18 or title_key in GENERIC_LINK_TEXT:
-            continue
         low_url = canonical.casefold()
         if any(part in low_url for part in ("/privacy", "/terms", "/careers", "/login", "/account")):
             continue
 
+        title = _strip_tags(match.group(4))
+        priority = _article_priority(canonical, title)
+        title_key = title.casefold().strip(" .:—-")
+        if len(title) < 18 or title_key in GENERIC_LINK_TEXT:
+            # Some modern official sites (notably EA) use an empty/visual anchor and
+            # render the title as a sibling component. Preserve article-looking URLs;
+            # _article_meta() will fetch their real title/date/description afterwards.
+            if priority < 10:
+                continue
+            title = _title_from_slug(canonical)
+            if len(title) < 8:
+                continue
+
         published = _parse_date(title) or _parse_date(match.group(0))
-        candidates.append((_article_priority(canonical, title), title, canonical, published))
+        candidates.append((priority, title, canonical, published))
         seen.add(canonical)
         if len(candidates) >= 120:
             break
