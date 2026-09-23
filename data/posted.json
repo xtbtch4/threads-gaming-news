@@ -1625,7 +1625,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-23T22:51:21.660782+00:00"
+    },
+    {
+      "fingerprint": "61813dcba6adcb2fa1188988",
+      "title": "Valve shadow dropped chicken pets into CS2",
+      "url": "https://pcgamer.com/games/fps/valve-shadow-dropped-chicken-pets-into-cs2",
+      "source": "PC Gamer",
+      "published_at_source": "2026-09-23T10:18:10+00:00",
+      "score": 7,
+      "event_key": "valve_adds_chicken_pets_to_counter_strike_2",
+      "title_ru": "В Counter-Strike 2 неожиданно добавили куриц-питомцев с редкими скинами",
+      "threads_teaser_ru": "В шутере Counter-Strike 2 появились питомцы-курицы, которых можно вырастить из яиц, настраивать им скины и обучать трюкам.",
+      "telegram_message_id": "99",
+      "telegram_url": "https://t.me/gamepulse_newss/99",
+      "telegram_published_at": "2026-09-23T22:56:08.569207+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uLteuGFgBVD3Rk6nLmTjmN-1920-80.png",
+      "threads_published_at": "2026-09-23T22:56:08.571236+00:00"
     }
   ],
-  "updated_at": "2026-09-23T22:51:24.295046+00:00"
+  "updated_at": "2026-09-23T22:56:10.863154+00:00"
 }
