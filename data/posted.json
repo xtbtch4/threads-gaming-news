@@ -595,7 +595,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Halo-CE.jpg?w=300",
       "threads_published_at": "2026-09-23T17:46:27.312422+00:00"
+    },
+    {
+      "fingerprint": "816d9602a8e0ef109e0c74a3",
+      "title": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
+      "url": "https://eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-23T17:50:39+00:00",
+      "score": 15,
+      "event_key": "Activision developing next Halo game amid Xbox restructuring",
+      "title_ru": "Фанаты Halo обеспокоены переходом франшизы к Activision и возможным перезапуском лора",
+      "threads_teaser_ru": "После перехода Halo к Activision и массовых увольнений в Halo Studios фанаты гадают, ждет ли серию перезапуск лора и состоится ли декабрьский Halo Fest.",
+      "telegram_message_id": "38",
+      "telegram_url": "https://t.me/gamepulse_newss/38",
+      "telegram_published_at": "2026-09-23T17:51:47.720199+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/halo-infinite-master-chief.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-23T17:51:47.721701+00:00"
     }
   ],
-  "updated_at": "2026-09-23T17:46:29.811012+00:00"
+  "updated_at": "2026-09-23T17:51:50.453076+00:00"
 }
