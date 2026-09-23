@@ -14,9 +14,12 @@ studio_bot.OFFICIAL_PAGES.extend([
     studio_bot.OfficialPage("Respawn / Apex Legends", "https://www.ea.com/games/apex-legends/news", weight=5),
 ])
 
-# Some official sites use bot protection against GitHub runners. Keep official-domain
-# indexed discovery as a fallback so Epic/Fortnite announcements are still eligible.
+# Some official sites either block GitHub runners or render news cards in a way that
+# the direct HTML parser cannot reliably discover. Keep indexed discovery restricted
+# to first-party domains so official announcements are still eligible.
 OFFICIAL_FALLBACK_SEARCH = [
+    bot.Source("Electronic Arts", "site:ea.com/news Electronic Arts game news announcement update", weight=5),
+    bot.Source("Respawn / Apex Legends", "site:ea.com/games/apex-legends/apex-legends/news Apex Legends official news update", weight=5),
     bot.Source("Epic Games", "site:epicgames.com/site/en-US/news Epic Games announcement update", weight=5),
     bot.Source("Fortnite", "site:fortnite.com/news Fortnite official news update", weight=5),
 ]
@@ -32,6 +35,31 @@ def fetch_stories_with_fallbacks() -> list[bot.Story]:
 
 
 bot.fetch_stories = fetch_stories_with_fallbacks
+
+
+# Make every rejection visible in Actions logs. Previously "fresh" meant only that
+# an item was inside the 72-hour source window, so a run could say "Found 21" and
+# then give no explanation when all 21 were already published / deduped / low score.
+def select_stories_verbose(stories, state):
+    selected: list[bot.Story] = []
+    for story in sorted(stories, key=lambda s: (s.score, s.published), reverse=True):
+        if story.score < bot.MIN_SCORE:
+            bot.LOG.info("Skipped low score %d < %d: %s", story.score, bot.MIN_SCORE, story.title)
+            continue
+        if bot.known_story(story, state):
+            bot.LOG.info("Skipped already published/deduped: %s", story.title)
+            continue
+        if any(bot.similar_tokens(story.title, other.title) >= 0.62 for other in selected):
+            bot.LOG.info("Skipped duplicate within current run: %s", story.title)
+            continue
+        bot.LOG.info("Eligible new story score=%d source=%s: %s", story.score, story.source, story.title)
+        selected.append(story)
+        if len(selected) >= max(bot.MAX_POSTS * 5, bot.MAX_POSTS):
+            break
+    return selected
+
+
+bot.select_stories = select_stories_verbose
 
 
 def _sentence_excerpt(text: str, limit: int) -> str:
