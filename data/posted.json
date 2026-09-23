@@ -1,4 +1,22 @@
 {
-  "items": [],
-  "updated_at": null
+  "items": [
+    {
+      "fingerprint": "fc97b3dd0150921b2b408209",
+      "title": "CONFIRMED: Microsoft Hands Halo to Call of Duty Developer Activision as Part of Seismic Xbox Studios Shakeup",
+      "url": "https://ign.com/articles/confirmed-microsoft-hands-halo-to-call-of-duty-developer-activision-as-part-of-huge-xbox-studios-shakeup",
+      "source": "IGN",
+      "published_at_source": "2026-09-22T07:18:00+00:00",
+      "score": 13,
+      "event_key": "microsoft hands halo franchise development to activision xbox restructure",
+      "title_ru": "Microsoft передала разработку следующей Halo издателю Activision",
+      "threads_teaser_ru": "Microsoft масштабно перестроила Xbox: разработку следующей Halo передали Activision, а в Halo Studios прошли массовые сокращения. Студии Rare и World's Edge также переходят к Activision, а Obsidian займется новой Fallout.",
+      "telegram_message_id": "2",
+      "telegram_url": "https://t.me/gamepulse_newss/2",
+      "telegram_published_at": "2026-09-23T07:15:00.480090+00:00",
+      "threads_id": "17984508336096474",
+      "image_url": "https://assets1.ignimgs.com/2018/12/20/7-1545342029649.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-23T07:15:10.376639+00:00"
+    }
+  ],
+  "updated_at": "2026-09-23T07:15:13.000102+00:00"
 }
