@@ -29,7 +29,7 @@ jobs:
     # cron-job.org triggers repository_dispatch every 5 minutes.
     if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event_name == 'repository_dispatch' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 20
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
@@ -55,6 +55,16 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      # repository_dispatch runs keep the commit SHA from the moment they were
+      # queued. Always move to the current main before reading posted.json so a
+      # delayed run cannot publish from stale history.
+      - name: Refresh latest main and publication history
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+          echo "Using latest main: $(git rev-parse HEAD)"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -100,4 +110,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/posted.json
           git commit -m "Update gaming publication history"
-          git push
+
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "Publication history pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "Publication history push failed on attempt $attempt; retrying"
+            sleep $((attempt * 3))
+          done
+
+          echo "Publication history push failed after 4 attempts"
+          exit 1
