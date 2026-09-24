@@ -4012,9 +4012,10 @@
       "telegram_message_id": "246",
       "telegram_url": "https://t.me/gamepulse_newss/246",
       "telegram_published_at": "2026-09-24T22:16:50.548227+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/cozy-dressmaking-game-takes-over-steam-1790283795216.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/cozy-dressmaking-game-takes-over-steam-1790283795216.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-24T22:16:51.931311+00:00"
     }
   ],
-  "updated_at": "2026-09-24T22:16:50.548296+00:00"
+  "updated_at": "2026-09-24T22:16:51.931387+00:00"
 }
