@@ -3944,9 +3944,10 @@
       "telegram_message_id": "242",
       "telegram_url": "https://t.me/gamepulse_newss/242",
       "telegram_published_at": "2026-09-24T21:57:23.607028+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/iron-bramble.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/iron-bramble.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-24T21:57:24.949339+00:00"
     }
   ],
-  "updated_at": "2026-09-24T21:57:23.607371+00:00"
+  "updated_at": "2026-09-24T21:57:24.949416+00:00"
 }
