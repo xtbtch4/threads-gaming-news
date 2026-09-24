@@ -1,1 +1,1 @@
-dry-run Gemini 3.5 priority 2026-09-24 #26
+dry-run StopGame disabled 2026-09-24 #27
