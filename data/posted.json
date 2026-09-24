@@ -3760,7 +3760,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-09-24T20:26:47.783073+00:00"
+    },
+    {
+      "fingerprint": "01b3d3dcea8ae24441a481fc",
+      "title": "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
+      "url": "https://gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T20:18:09+00:00",
+      "score": 15,
+      "event_key": "nintendo canceled ubisoft developed zelda game starring ganondorf",
+      "title_ru": "Nintendo отменила спин-офф Zelda от Ubisoft с Ганондорфом в главной роли",
+      "threads_teaser_ru": "Стало известно об отмененном спин-оффе The Legend of Zelda, который разрабатывала Ubisoft Milan. Главным героем игры должен был стать Ганондорф, но Nintendo отклонила прототип в конце 2023 года.",
+      "telegram_message_id": "232",
+      "telegram_url": "https://t.me/gamepulse_newss/232",
+      "telegram_published_at": "2026-09-24T20:32:32.330135+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/4226365-sexyganon.webp?w=300"
     }
   ],
-  "updated_at": "2026-09-24T20:26:47.783147+00:00"
+  "updated_at": "2026-09-24T20:32:32.330311+00:00"
 }
