@@ -3893,9 +3893,10 @@
       "telegram_message_id": "239",
       "telegram_url": "https://t.me/gamepulse_newss/239",
       "telegram_published_at": "2026-09-24T21:42:16.575036+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/daranpowerstation2-1790279753982.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/daranpowerstation2-1790279753982.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-24T21:42:17.921193+00:00"
     }
   ],
-  "updated_at": "2026-09-24T21:42:16.575310+00:00"
+  "updated_at": "2026-09-24T21:42:17.921264+00:00"
 }
