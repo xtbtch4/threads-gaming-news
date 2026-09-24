@@ -3211,7 +3211,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4-REVEAL-005.jpg?w=300",
       "threads_published_at": "2026-09-24T17:04:19.168611+00:00"
+    },
+    {
+      "fingerprint": "d0059c9f4a171f680c87da4b",
+      "title": "The $1,299 Meta VR Glasses Prove That High Prices are the New Normal",
+      "url": "https://ign.com/articles/the-1299-meta-vr-glasses-prove-that-high-prices-are-the-new-normal",
+      "source": "IGN",
+      "published_at_source": "2026-09-24T16:58:16+00:00",
+      "score": 15,
+      "event_key": "meta_announced_vr_glasses_1299_dollars",
+      "title_ru": "Meta анонсировала новые VR-очки за $1299",
+      "threads_teaser_ru": "Компания Meta представила новые VR-очки ценой в $1299. Устройство весит всего 100 граммов, а все вычисления берет на себя специальный карманный блок с чипом от Qualcomm.",
+      "telegram_message_id": "200",
+      "telegram_url": "https://t.me/gamepulse_newss/200",
+      "telegram_published_at": "2026-09-24T17:07:37.958233+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/meta-vr-glasses-thumb-1790204589667.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-24T17:07:37.961339+00:00"
     }
   ],
-  "updated_at": "2026-09-24T17:04:21.936480+00:00"
+  "updated_at": "2026-09-24T17:07:40.409725+00:00"
 }
