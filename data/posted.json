@@ -3538,7 +3538,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Marathon-runner.jpg?w=300",
       "threads_published_at": "2026-09-24T18:37:06.761365+00:00"
+    },
+    {
+      "fingerprint": "c29848be39a05daefeae86fa",
+      "title": "Bungie Officially Reveals Massive Marathon Revamp With New PvE Mode",
+      "url": "https://polygon.com/bungie-marathon-symbiosis-changes-pve-new-modes",
+      "source": "Polygon",
+      "published_at_source": "2026-09-24T18:38:24+00:00",
+      "score": 10,
+      "event_key": "bungie announces massive marathon roadmap and pve mode",
+      "title_ru": "Bungie анонсировала масштабное обновление Marathon с постоянным PvE-режимом",
+      "threads_teaser_ru": "Bungie представила масштабный план развития шутера Marathon вплоть до 2027 года. Главным нововведением декабрьского обновления Symbiosis станет первый постоянный PvE-режим.",
+      "telegram_message_id": "219",
+      "telegram_url": "https://t.me/gamepulse_newss/219",
+      "telegram_published_at": "2026-09-24T18:41:27.109094+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jb_mar_symbiosis_sunken_reservoir_28-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-24T18:37:31.203119+00:00"
+  "updated_at": "2026-09-24T18:41:27.109357+00:00"
 }
