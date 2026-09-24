@@ -11,8 +11,6 @@ import run_bot
 
 WINDOW_HOURS = 72
 
-# Normalize different editorial wording for the same kind of event. The important
-# restriction is below: a shared action alone is never enough to mark a duplicate.
 SYNONYMS = {
     "revamp": "update",
     "revamped": "update",
@@ -53,13 +51,21 @@ CONTEXT_TOKENS = {
     "restructure",
 }
 
-# These words are too generic to count as the concrete identity of an event.
-BROAD_TOKENS = {
+# Words that are often capitalized merely because they occur in a headline but do
+# not identify a game, company, person or franchise.
+NON_ENTITY_TOKENS = {
     "officially", "official", "massive", "major", "large", "big", "new", "mode",
-    "first", "future", "year", "years", "march", "october", "december", "today",
-    "tomorrow", "could", "make", "break", "coming", "gets", "getting", "adds",
-    "added", "more", "game", "games", "gaming", "studio", "studios", "developer",
-    "developers", "players", "player", "system", "feature", "features",
+    "first", "final", "future", "year", "years", "march", "october", "december",
+    "today", "tomorrow", "could", "make", "break", "coming", "comes", "gets",
+    "getting", "adds", "added", "more", "less", "made", "using", "use", "used",
+    "game", "games", "gaming", "studio", "studios", "developer", "developers",
+    "players", "player", "system", "feature", "features", "story", "end", "lineup",
+    "exclusive", "great", "stronger", "easier", "challenge", "returns", "return",
+    "continue", "continues", "carry", "forward", "catch", "version", "everything",
+    "reveals", "revealed", "announces", "announced", "unveils", "unveiled",
+    "the", "and", "but", "not", "for", "from", "into", "with", "while", "still",
+    "even", "just", "only", "some", "than", "that", "this", "what", "when", "where",
+    "which", "will", "would", "its", "has", "have", "had", "who", "why", "how",
 }
 
 STOPWORDS = {
@@ -82,6 +88,18 @@ def _tokens(text: str) -> set[str]:
     return result
 
 
+def _headline_entities(title: str) -> set[str]:
+    entities: set[str] = set()
+    for raw in re.findall(r"[A-Za-zА-Яа-яЁё0-9][A-Za-zА-Яа-яЁё0-9'-]{1,}", title or ""):
+        canonical = SYNONYMS.get(raw.casefold(), raw.casefold())
+        if canonical in CONTEXT_TOKENS or canonical in NON_ENTITY_TOKENS or canonical in STOPWORDS:
+            continue
+        # Proper names/acronyms/numerical franchise markers are useful anchors.
+        if raw[0].isupper() or raw.isupper() or any(ch.isdigit() for ch in raw):
+            entities.add(canonical)
+    return entities
+
+
 def _item_time(item: dict) -> datetime | None:
     for key in ("telegram_published_at", "published_at_source", "threads_published_at"):
         value = item.get(key)
@@ -102,40 +120,30 @@ def _same_cross_source_event(story: bot.Story, item: dict) -> bool:
     if published and datetime.now(timezone.utc) - published > timedelta(hours=WINDOW_HOURS):
         return False
 
-    # Identity anchors deliberately come from headlines/event_key, not the whole
-    # article body. This prevents unrelated stories from matching just because two
-    # summaries both contain generic words such as "update", "players" or "mode".
-    new_anchor_tokens = _tokens(story.title)
-    old_anchor_tokens = _tokens(
-        f"{item.get('title') or ''} {item.get('event_key') or ''}"
-    )
-    shared_identity = (
-        new_anchor_tokens & old_anchor_tokens
-    ) - CONTEXT_TOKENS - BROAD_TOKENS
+    new_entities = _headline_entities(story.title)
+    old_entities = _headline_entities(str(item.get("title") or ""))
+    old_event_tokens = _tokens(str(item.get("event_key") or ""))
 
-    # Require at least two concrete shared identifiers, e.g. Bungie + Marathon.
-    # One franchise/company token by itself is not enough.
-    if len(shared_identity) < 2:
+    # A generated event_key may contain a company/franchise omitted from one outlet's
+    # headline, so allow it to confirm entities that are explicitly present in the new
+    # headline. It cannot introduce arbitrary generic body words.
+    shared_entities = new_entities & (old_entities | old_event_tokens)
+    if len(shared_entities) < 2:
         return False
 
-    new_full = _tokens(f"{story.title} {story.summary}")
-    old_full = _tokens(" ".join(str(item.get(key) or "") for key in (
-        "title", "title_ru", "threads_teaser_ru", "event_key"
-    )))
-    common = new_full & old_full
+    # Event/action compatibility must come from the headline/event-key layer. This
+    # prevents two different stories about the same game from being merged merely
+    # because both article bodies mention an update somewhere.
+    new_actions = _tokens(story.title) & CONTEXT_TOKENS
+    old_actions = _tokens(
+        f"{item.get('title') or ''} {item.get('event_key') or ''}"
+    ) & CONTEXT_TOKENS
+    if not (new_actions & old_actions):
+        return False
 
-    # The same concrete entities must also share the type of event/action.
-    if common & CONTEXT_TOKENS:
-        return True
-
-    # For incidents whose headline wording contains no explicit action synonym,
-    # accept only a very strong overlap, still anchored by two specific entities.
-    denominator = max(1, min(len(new_full), len(old_full)))
-    return len(common) >= 6 and len(common) / denominator >= 0.60
+    return True
 
 
-# Bypass run_bot's older broad cycle matcher while preserving exact URL,
-# fingerprint and title-similarity checks from bot.py.
 _original_known_story = run_bot._original_known_story
 
 
@@ -154,4 +162,21 @@ def known_story_strict(story: bot.Story, state: dict) -> bool:
     return False
 
 
+def event_seen_strict(event_key: str, state: dict) -> bool:
+    new_tokens = _tokens(event_key)
+    new_actions = new_tokens & CONTEXT_TOKENS
+    for item in state.get("items", []):
+        old_key = str(item.get("event_key") or "")
+        if not old_key:
+            continue
+        old_tokens = _tokens(old_key)
+        shared = (new_tokens & old_tokens) - CONTEXT_TOKENS - NON_ENTITY_TOKENS
+        if len(shared) >= 2 and new_actions & (old_tokens & CONTEXT_TOKENS):
+            return True
+        if bot.event_similarity(event_key, old_key) >= 0.60:
+            return True
+    return False
+
+
 bot.known_story = known_story_strict
+bot.event_seen = event_seen_strict
