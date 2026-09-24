@@ -3910,9 +3910,10 @@
       "telegram_message_id": "240",
       "telegram_url": "https://t.me/gamepulse_newss/240",
       "telegram_published_at": "2026-09-24T21:47:38.669197+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/fallout-new-vegas_ykpUnUC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/fallout-new-vegas_ykpUnUC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-24T21:47:39.967437+00:00"
     }
   ],
-  "updated_at": "2026-09-24T21:47:38.669360+00:00"
+  "updated_at": "2026-09-24T21:47:39.967512+00:00"
 }
