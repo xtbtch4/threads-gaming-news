@@ -3794,7 +3794,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/key_art_1920x1080.png?w=300",
       "threads_published_at": "2026-09-24T20:42:13.337132+00:00"
+    },
+    {
+      "fingerprint": "bac85fd6679f4eb312f52d36",
+      "title": "First Full Madden Movie Trailer Has Us So Very Confused",
+      "url": "https://gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T20:41:53+00:00",
+      "score": 13,
+      "event_key": "first-full-madden-movie-trailer-nic-cage",
+      "title_ru": "Вышел первый полноценный трейлер фильма о Джоне Мэддене с Николасом Кейджем",
+      "threads_teaser_ru": "Вышел первый трейлер байопика о Джоне Мэддене, где Николас Кейдж исполнил главную роль с заметным использованием грима и протезов. Фильм расскажет о карьере тренера и создании культовой видеоигры.",
+      "telegram_message_id": "234",
+      "telegram_url": "https://t.me/gamepulse_newss/234",
+      "telegram_published_at": "2026-09-24T20:46:20.615445+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-at-4.34.33-PM.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-24T20:42:13.337202+00:00"
+  "updated_at": "2026-09-24T20:46:20.615766+00:00"
 }
