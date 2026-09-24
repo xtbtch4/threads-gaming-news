@@ -3688,9 +3688,10 @@
       "telegram_message_id": "227",
       "telegram_url": "https://t.me/gamepulse_newss/227",
       "telegram_published_at": "2026-09-24T19:21:56.666814+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1745/17457013/4619540-all_arc_enemies_in_arc_raiders_t.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1745/17457013/4619540-all_arc_enemies_in_arc_raiders_t.jpg?w=300",
+      "threads_published_at": "2026-09-24T19:21:57.941967+00:00"
     }
   ],
-  "updated_at": "2026-09-24T19:21:56.666960+00:00"
+  "updated_at": "2026-09-24T19:21:57.942044+00:00"
 }
