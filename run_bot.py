@@ -52,6 +52,30 @@ SYNONYMS = {
     "студии": "studio",
     "студия": "studio",
     "microsoft": "xbox",
+
+    # Different outlets often describe the same game update using very different
+    # headline vocabulary. Normalize the common editorial variants so a roadmap,
+    # revamp or overhaul of the same title is treated as one news cycle.
+    "revamp": "update",
+    "revamped": "update",
+    "revamping": "update",
+    "overhaul": "update",
+    "overhauled": "update",
+    "overhauling": "update",
+    "roadmap": "update",
+    "roadmaps": "update",
+    "plans": "update",
+    "planned": "update",
+    "planning": "update",
+    "evolve": "update",
+    "evolves": "update",
+    "evolved": "update",
+    "evolution": "update",
+    "refresh": "update",
+    "refreshed": "update",
+    "changes": "update",
+    "changed": "update",
+    "changing": "update",
 }
 
 CONTEXT_TOKENS = {
@@ -122,6 +146,9 @@ def same_news_cycle(story: bot.Story, item: dict) -> bool:
     specific_common = {t for t in common if t not in GENERIC and t not in CONTEXT_TOKENS}
     anchor_common = {t for t in common if t in GENERIC}
 
+    # Require a shared event/action plus several concrete anchors. This catches
+    # cross-source rewrites such as "Marathon roadmap" vs "Marathon revamp" while
+    # still allowing genuinely different stories about the same game to pass.
     if context_shared and len(specific_common | anchor_common) >= 3:
         return True
     if "restructure" in common and len(common) >= 3:
@@ -259,212 +286,101 @@ def _best_progressive_from_ytdlp(url: str, story: bot.Story) -> tuple[str, int]:
                 int(f.get("height") or 0),
                 int(f.get("width") or 0),
                 float(f.get("tbr") or 0),
-                int(f.get("filesize") or f.get("filesize_approx") or 0),
             ),
             reverse=True,
         )
         best = formats[0]
+        direct = str(best.get("url") or "")
         height = int(best.get("height") or 0)
-        return str(best.get("url")), 1200 + height
-
-    direct = str(info.get("url") or "")
-    if direct.startswith(("http://", "https://")):
-        return direct, 1100 + int(info.get("height") or 0)
+        quality = height + (1000 if has_gameplay_hint(combined) else 0)
+        return direct, quality
     return "", 0
 
 
-def discover_gameplay_video(story: bot.Story) -> str:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; GamingNewsBot/1.0)",
-        "Accept": "text/html,application/xhtml+xml",
-    }
-    try:
-        response = bot.requests.get(story.url, headers=headers, timeout=20, allow_redirects=True)
-        response.raise_for_status()
-    except bot.requests.RequestException as exc:
-        bot.LOG.info("Gameplay video page unavailable: %s", str(exc).splitlines()[0])
-        return ""
-
-    if "html" not in response.headers.get("content-type", "").casefold():
-        return ""
-    page = response.text[:1_500_000]
-    base_url = response.url
-    page_has_gameplay = has_gameplay_hint(f"{story.title} {story.summary} {page[:250000]}")
-
-    direct_candidates: list[tuple[int, str]] = []
-    extractor_candidates: list[str] = []
-
-    attr_re = r"(?:src|content|href)\s*=\s*['\"]([^'\"]+)['\"]"
-    for match in re.finditer(r"<(?:video|source|iframe|meta)\b[^>]*>", page, flags=re.I):
-        tag = match.group(0)
-        values = re.findall(attr_re, tag, flags=re.I)
-        if not values:
-            continue
-        context = page[max(0, match.start() - 500): min(len(page), match.end() + 500)]
-        relevant = page_has_gameplay or has_gameplay_hint(context)
-        for raw in values:
-            url = _clean_media_url(raw, base_url)
+def _candidate_media_urls(page: str, base_url: str) -> list[tuple[str, str]]:
+    candidates: list[tuple[str, str]] = []
+    patterns = [
+        r'<video\b[^>]*(?:src|data-src)=["\']([^"\']+)["\'][^>]*>',
+        r'<source\b[^>]*src=["\']([^"\']+)["\'][^>]*>',
+        r'<meta\b[^>]*(?:property|name)=["\'](?:og:video(?::secure_url)?|twitter:player:stream)["\'][^>]*content=["\']([^"\']+)["\'][^>]*>',
+        r'"(?:contentUrl|embedUrl|videoUrl|video_url|mp4|src)"\s*:\s*"([^"\\]*(?:\\.[^"\\]*)*)"',
+        r'https?://[^"\'<>\\\s]+\.mp4(?:\?[^"\'<>\\\s]*)?',
+    ]
+    for pattern in patterns:
+        for match in re.finditer(pattern, page, re.I | re.S):
+            value = match.group(1) if match.groups() else match.group(0)
+            url = _clean_media_url(value, base_url)
             if not url:
                 continue
-            low = url.casefold()
-            if any(host in low for host in ("youtube.com", "youtu.be", "vimeo.com", "twitch.tv")):
-                if relevant:
-                    extractor_candidates.append(url)
-                continue
-            if any(ext in low for ext in (".mp4", "/video/", "video=")) and relevant:
-                direct_candidates.append((video_quality_score(url, context), url))
-
-    for key in ("og:video:secure_url", "og:video:url", "og:video", "twitter:player:stream"):
-        value = bot.meta_content(page, key)
-        url = _clean_media_url(value, base_url)
-        if url and page_has_gameplay:
-            if any(host in url.casefold() for host in ("youtube.com", "youtu.be", "vimeo.com")):
-                extractor_candidates.append(url)
-            else:
-                direct_candidates.append((video_quality_score(url, story.title), url))
-
-    for match in re.finditer(r'"(?:contentUrl|content_url|videoUrl|video_url)"\s*:\s*"([^"]+)"', page, flags=re.I):
-        raw = match.group(1)
-        context = page[max(0, match.start() - 400): min(len(page), match.end() + 400)]
-        if not (page_has_gameplay or has_gameplay_hint(context)):
-            continue
-        url = _clean_media_url(raw, base_url)
-        if url:
-            direct_candidates.append((video_quality_score(url, context), url))
-
-    best_url = ""
-    best_score = 0
-    for candidate in dict.fromkeys(extractor_candidates):
-        resolved, score = _best_progressive_from_ytdlp(candidate, story)
-        if resolved and score > best_score:
-            best_url, best_score = resolved, score
-
-    if page_has_gameplay and not best_url:
-        resolved, score = _best_progressive_from_ytdlp(story.url, story)
-        if resolved and score > best_score:
-            best_url, best_score = resolved, score
-
-    if direct_candidates:
-        score, url = max(direct_candidates, key=lambda item: item[0])
-        if score > best_score:
-            best_url, best_score = url, score
-
-    if best_url:
-        bot.LOG.info("Gameplay video selected (quality score %d): %s", best_score, best_url)
-    return best_url
+            start = max(0, match.start() - 500)
+            end = min(len(page), match.end() + 500)
+            context = bot.clean_text(page[start:end])
+            candidates.append((url, context))
+    return candidates
 
 
-_original_fetch_article_context = bot.fetch_article_context
-
-
-def fetch_article_context_with_video(story: bot.Story):
+def find_gameplay_video(story: bot.Story) -> str:
     global CURRENT_STORY_URL, CURRENT_VIDEO_URL
-    result = _original_fetch_article_context(story)
-    CURRENT_STORY_URL = story.url
+    cached = VIDEO_BY_STORY.get(story.fingerprint, "")
+    if cached:
+        CURRENT_STORY_URL = story.url
+        CURRENT_VIDEO_URL = cached
+        return cached
+
     try:
-        CURRENT_VIDEO_URL = discover_gameplay_video(story)
+        response = bot.requests.get(story.url, headers=bot.HTTP_HEADERS, timeout=20)
+        response.raise_for_status()
+        page = response.text
+        base_url = response.url
     except Exception as exc:
-        bot.LOG.info("Gameplay video detection failed: %s", str(exc).splitlines()[0])
+        bot.LOG.info("Gameplay video page unavailable: %s", str(exc).splitlines()[0])
+        CURRENT_STORY_URL = story.url
         CURRENT_VIDEO_URL = ""
-    VIDEO_BY_STORY[story.url] = CURRENT_VIDEO_URL
-    return result
+        return ""
+
+    scored: list[tuple[int, str]] = []
+    for url, context in _candidate_media_urls(page, base_url):
+        quality = video_quality_score(url, context)
+        if has_gameplay_hint(context) or has_gameplay_hint(url):
+            quality += 1000
+        scored.append((quality, url))
+
+    ytdlp_url, ytdlp_quality = _best_progressive_from_ytdlp(story.url, story)
+    if ytdlp_url:
+        scored.append((ytdlp_quality + 1000, ytdlp_url))
+
+    if not scored:
+        CURRENT_STORY_URL = story.url
+        CURRENT_VIDEO_URL = ""
+        return ""
+
+    scored.sort(reverse=True)
+    quality, video_url = scored[0]
+    if quality < 1000:
+        bot.LOG.info("No clearly identified gameplay video found for: %s", story.title)
+        CURRENT_STORY_URL = story.url
+        CURRENT_VIDEO_URL = ""
+        return ""
+
+    VIDEO_BY_STORY[story.fingerprint] = video_url
+    CURRENT_STORY_URL = story.url
+    CURRENT_VIDEO_URL = video_url
+    bot.LOG.info("Gameplay video selected (quality score %s): %s", quality, video_url)
+    return video_url
 
 
-_original_publish_telegram = bot.publish_telegram
+_original_rewrite_story = bot.rewrite_story
 
 
-def publish_telegram_with_gameplay(rendered: bot.Rendered, story: bot.Story, image_url: str):
-    video_url = VIDEO_BY_STORY.get(story.url, "")
-    if bot.DRY_RUN:
-        if video_url:
-            bot.LOG.info("DRY RUN preferred Telegram media: gameplay video %s", video_url)
-        return _original_publish_telegram(rendered, story, image_url)
-
-    if video_url:
-        token, chat_id, public_username = bot.telegram_config()
-        full = bot.telegram_text(rendered, story)
-        try:
-            result = bot.telegram_call(
-                token,
-                "sendVideo",
-                {
-                    "chat_id": chat_id,
-                    "video": video_url,
-                    "caption": full[:1024],
-                    "supports_streaming": True,
-                },
-            )
-            message_id = str(result.get("result", {}).get("message_id", ""))
-            if public_username and message_id:
-                return message_id, f"https://t.me/{public_username}/{message_id}"
-            funnel = bot.os.getenv("TELEGRAM_FUNNEL_URL", "").strip()
-            if funnel:
-                return message_id or "unknown", funnel
-        except RuntimeError as exc:
-            bot.LOG.warning("Telegram gameplay video failed; using image fallback: %s", exc)
-
-    return _original_publish_telegram(rendered, story, image_url)
+def rewrite_story_with_video(story: bot.Story):
+    rendered, image_url = _original_rewrite_story(story)
+    find_gameplay_video(story)
+    return rendered, image_url
 
 
-_original_publish_threads = bot.publish_threads
-
-
-def publish_threads_with_gameplay(teaser: str, telegram_url: str, image_url: str = "") -> str:
-    video_url = CURRENT_VIDEO_URL
-    if not video_url:
-        return _original_publish_threads(teaser, telegram_url, image_url)
-
-    text = bot.threads_post_text(teaser, telegram_url)
-    if bot.DRY_RUN:
-        bot.LOG.info("DRY RUN Threads prefers gameplay video:\n%s\nVideo: %s", text, video_url)
-        return "dry-run"
-
-    try:
-        token = bot.threads_config()
-        profile = bot.requests.get(
-            "https://graph.threads.net/v1.0/me",
-            params={"fields": "id", "access_token": token},
-            timeout=30,
-        )
-        profile_data = profile.json()
-        if not profile.ok or not profile_data.get("id"):
-            raise RuntimeError(f"Threads profile failed: {profile.text[:400]}")
-        user_id = str(profile_data["id"])
-
-        create = bot.requests.post(
-            f"https://graph.threads.net/v1.0/{user_id}/threads",
-            data={
-                "media_type": "VIDEO",
-                "video_url": video_url,
-                "text": text,
-                "access_token": token,
-            },
-            timeout=40,
-        )
-        created = create.json()
-        if not create.ok or not created.get("id"):
-            raise RuntimeError(f"Threads video create failed: {create.text[:400]}")
-
-        last_error = None
-        for delay in (2, 3, 5, 8, 13, 21):
-            time.sleep(delay)
-            finish = bot.requests.post(
-                f"https://graph.threads.net/v1.0/{user_id}/threads_publish",
-                data={"creation_id": created["id"], "access_token": token},
-                timeout=40,
-            )
-            data = finish.json()
-            if finish.ok and data.get("id"):
-                return str(data["id"])
-            last_error = data
-            err = data.get("error", {}) if isinstance(data, dict) else {}
-            retryable = err.get("is_transient") is True or err.get("code") in {2, 24} or err.get("error_subcode") == 4279009
-            if not retryable:
-                break
-        raise RuntimeError(f"Threads gameplay video publish failed: {str(last_error)[:300]}")
-    except Exception as exc:
-        bot.LOG.warning("Threads gameplay video failed; using image/text fallback: %s", str(exc).splitlines()[0])
-        return _original_publish_threads(teaser, telegram_url, image_url)
+bot.known_story = known_story_with_cycle
+bot.telegram_post_text = telegram_text_complete
+bot.rewrite_story = rewrite_story_with_video
 
 
 _original_save_state = bot.save_state
@@ -479,26 +395,21 @@ def save_state_with_video(state: dict) -> None:
     _original_save_state(state)
 
 
+bot.save_state = save_state_with_video
+
+
 _original_retry_pending_threads = bot.retry_pending_threads
 
 
-def retry_pending_threads_with_video(state: dict) -> None:
-    global CURRENT_STORY_URL, CURRENT_VIDEO_URL
-    for item in state.get("items", []):
-        if item.get("telegram_message_id") and not item.get("threads_id") and item.get("threads_teaser_ru") and item.get("telegram_url"):
-            CURRENT_STORY_URL = str(item.get("url") or "")
-            CURRENT_VIDEO_URL = str(item.get("video_url") or "")
-            break
-    _original_retry_pending_threads(state)
+def retry_pending_threads_safe(state: dict) -> None:
+    try:
+        _original_retry_pending_threads(state)
+    except RuntimeError as exc:
+        bot.LOG.warning("Pending Threads retry skipped: %s", exc)
 
 
-bot.known_story = known_story_with_cycle
-bot.telegram_text = telegram_text_complete
-bot.fetch_article_context = fetch_article_context_with_video
-bot.publish_telegram = publish_telegram_with_gameplay
-bot.publish_threads = publish_threads_with_gameplay
-bot.save_state = save_state_with_video
-bot.retry_pending_threads = retry_pending_threads_with_video
+bot.retry_pending_threads = retry_pending_threads_safe
+
 
 if __name__ == "__main__":
     raise SystemExit(bot.main())
