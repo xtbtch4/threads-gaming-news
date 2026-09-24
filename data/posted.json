@@ -3075,7 +3075,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-collectors-box.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T16:24:47.582126+00:00"
+    },
+    {
+      "fingerprint": "5de44f3c761651684f6fcd29",
+      "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
+      "url": "https://gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T15:26:16+00:00",
+      "score": 12,
+      "event_key": "gta-6-400-collectors-edition-without-game",
+      "title_ru": "Анонсировано коллекционное издание GTA 6 за $400 без самой игры",
+      "threads_teaser_ru": "Rockstar Games представила коллекционное издание GTA 6 стоимостью $400, которое поступит в продажу 19 ноября вместе с игрой, но не содержит самого диска или цифровой копии.",
+      "telegram_message_id": "192",
+      "telegram_url": "https://t.me/gamepulse_newss/192",
+      "telegram_published_at": "2026-09-24T16:27:01.493589+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-6-CE.jpg?w=300",
+      "threads_published_at": "2026-09-24T16:27:01.497314+00:00"
     }
   ],
-  "updated_at": "2026-09-24T16:24:50.491715+00:00"
+  "updated_at": "2026-09-24T16:27:03.826619+00:00"
 }
