@@ -2769,7 +2769,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-Mythic.jpg?w=300",
       "threads_published_at": "2026-09-24T12:46:35.252881+00:00"
+    },
+    {
+      "fingerprint": "6d5ea30a67f2f69c77ed5611",
+      "title": "Luma Island is coming to PS5",
+      "url": "https://blog.playstation.com/2026/09/24/luma-island-is-coming-to-ps5",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-09-24T13:00:40+00:00",
+      "score": 16,
+      "event_key": "luma_island_coming_to_playstation_5",
+      "title_ru": "Приключение Luma Island выйдет на PlayStation 5",
+      "threads_teaser_ru": "Приключенческая игра Luma Island от студии Feel Free Games готовится к релизу на PlayStation 5. Проект поддерживает кооператив до 4 игроков и кроссплей между платформами.",
+      "telegram_message_id": "166",
+      "telegram_url": "https://t.me/gamepulse_newss/166",
+      "telegram_published_at": "2026-09-24T13:07:33.133156+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://blog.playstation.com/tachyon/2026/09/a1029db8785595ae1e6a1a0b5bf08ca33dd21525.jpg",
+      "threads_published_at": "2026-09-24T13:07:33.135382+00:00"
     }
   ],
-  "updated_at": "2026-09-24T12:46:38.063941+00:00"
+  "updated_at": "2026-09-24T13:07:35.725898+00:00"
 }
