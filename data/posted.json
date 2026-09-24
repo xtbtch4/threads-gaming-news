@@ -3845,7 +3845,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA_Relationships_site.jpg?w=300",
       "threads_published_at": "2026-09-24T21:12:03.437165+00:00"
+    },
+    {
+      "fingerprint": "9e0fbb3dca05cfba05b6a496",
+      "title": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
+      "url": "https://eurogamer.net/xbox-mythic-platinum-achievement",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-24T10:45:03+00:00",
+      "score": 12,
+      "event_key": "xbox_mythic_achievement_leaked_pc_app_restructuring",
+      "title_ru": "В приложении Xbox для ПК нашли упоминание аналога платиновых трофеев",
+      "threads_teaser_ru": "В приложении Xbox для ПК обнаружили упоминание награды Mythic Achievement с 15-секундным звуком разблокировки. Функция может стать аналогом платиновых трофеев PlayStation.",
+      "telegram_message_id": "237",
+      "telegram_url": "https://t.me/gamepulse_newss/237",
+      "telegram_published_at": "2026-09-24T21:16:50.937931+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/xbox-mythic-achievement.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-24T21:12:03.437242+00:00"
+  "updated_at": "2026-09-24T21:16:50.938051+00:00"
 }
