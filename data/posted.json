@@ -2717,7 +2717,25 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/discordageverification.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T12:06:35.401440+00:00"
+    },
+    {
+      "fingerprint": "35ca72ce88e95cccd25f64e6",
+      "title": "'Magic: The Gathering's Coolest Planeswalker Is Finally Getting the Backstory He Deserves",
+      "url": "https://polygon.com/mtg-mage-of-zhalfir-dark-horse-comics-teferi-preview",
+      "source": "Polygon",
+      "published_at_source": "2026-09-24T12:00:16+00:00",
+      "score": 6,
+      "event_key": "magic the gathering mage of zhalfir comic announcement",
+      "title_ru": "Анонсирован комикс Magic: The Gathering: Mage of Zhalfir о молодости Тефери",
+      "threads_teaser_ru": "Dark Horse Comics и Wizards of the Coast готовят новую 12-выпускную серию комиксов Mage of Zhalfir о молодости мастера времени Тефери. История расскажет о его учебе у Урзы в Академии Толария.",
+      "telegram_message_id": "163",
+      "telegram_url": "https://t.me/gamepulse_newss/163",
+      "telegram_published_at": "2026-09-24T12:12:04.765156+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/teferi-time-raveler-art-bloomburrow-commander-92-5a47d968-bba0-4277-b5d7-eb9e1acd7953-art.png?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/zhalfir-trailer-mtg-1790195049.mp4",
+      "threads_published_at": "2026-09-24T12:12:04.768410+00:00"
     }
   ],
-  "updated_at": "2026-09-24T12:06:38.166151+00:00"
+  "updated_at": "2026-09-24T12:12:07.106947+00:00"
 }
