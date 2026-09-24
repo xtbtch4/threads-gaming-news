@@ -3606,7 +3606,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4_KB_07_BRANDED.jpg?w=300",
       "threads_published_at": "2026-09-24T18:56:52.189271+00:00"
+    },
+    {
+      "fingerprint": "c245b0ec2d6b609c83a8ac3f",
+      "title": "Counter-Strike Co-Creator Says Gabe Newell Got So Obsessed With Mongolian Throat Singing at Valve HQ That Staff Started Closing Their Office Doors to Escape the Noise",
+      "url": "https://ign.com/articles/counter-strike-co-creator-says-gabe-newell-got-so-obsessed-with-mongolian-throat-singing-at-valve-hq-that-staff-started-closing-their-office-doors-to-escape-the-noise",
+      "source": "IGN",
+      "published_at_source": "2026-09-24T18:03:28+00:00",
+      "score": 15,
+      "event_key": "gabe_newell_mongolian_throat_singing_valve_office",
+      "title_ru": "Гейб Ньюэлл увлекся монгольским горловым пением в офисе Valve",
+      "threads_teaser_ru": "Соавтор Counter-Strike Мин Ли рассказал, что Гейб Ньюэлл так увлекся монгольским горловым пением в офисе Valve, что сотрудникам приходилось закрывать двери, чтобы спастись от шума.",
+      "telegram_message_id": "223",
+      "telegram_url": "https://t.me/gamepulse_newss/223",
+      "telegram_published_at": "2026-09-24T19:02:14.086678+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/gabe-newell-mongolian-throat-singing-1790272489924.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-24T18:56:52.189354+00:00"
+  "updated_at": "2026-09-24T19:02:14.086925+00:00"
 }
