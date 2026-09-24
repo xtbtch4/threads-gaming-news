@@ -3589,7 +3589,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/control-resonant_gpnAZVt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T18:52:27.481394+00:00"
+    },
+    {
+      "fingerprint": "f106e6fa720f4d54252ab002",
+      "title": "Call Of Duty’s Carry Forward Will Continue In Warzone For MW4, But There’s A Catch",
+      "url": "https://gamespot.com/articles/call-of-dutys-carry-forward-will-continue-in-warzone-for-mw4-but-theres-a-catch",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T17:47:26+00:00",
+      "score": 15,
+      "event_key": "cod_warzone_mw4_carry_forward_changes",
+      "title_ru": "Система переноса контента в Warzone изменится с выходом Modern Warfare 4",
+      "threads_teaser_ru": "С выходом Modern Warfare 4 в Warzone изменится работа системы переноса контента. Старое оружие станет «наследуемым» — его больше нельзя будет настраивать в оружейнике.",
+      "telegram_message_id": "222",
+      "telegram_url": "https://t.me/gamepulse_newss/222",
+      "telegram_published_at": "2026-09-24T18:56:50.787912+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4_KB_07_BRANDED.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-24T18:52:27.481475+00:00"
+  "updated_at": "2026-09-24T18:56:50.788000+00:00"
 }
