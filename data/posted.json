@@ -3674,7 +3674,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/marathon-perimeter-fungus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T19:16:49.055452+00:00"
+    },
+    {
+      "fingerprint": "40702a24d585fbf6806c88bd",
+      "title": "Arc Raiders Is Finally Testing A PvE Mode",
+      "url": "https://gamespot.com/articles/arc-raiders-is-finally-testing-a-pve-mode",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T18:50:34+00:00",
+      "score": 12,
+      "event_key": "arc raiders pve mode test october",
+      "title_ru": "Arc Raiders получит тестовый PvE-режим в октябре",
+      "threads_teaser_ru": "Embark Studios объявила о проведении теста PvE-режима в Arc Raiders, который пройдет с 13 по 20 октября. Игроки смогут опробовать кооперативный геймплей без угрозы со стороны других пользователей благодаря новому переключателю.",
+      "telegram_message_id": "227",
+      "telegram_url": "https://t.me/gamepulse_newss/227",
+      "telegram_published_at": "2026-09-24T19:21:56.666814+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1745/17457013/4619540-all_arc_enemies_in_arc_raiders_t.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-24T19:16:49.055532+00:00"
+  "updated_at": "2026-09-24T19:21:56.666960+00:00"
 }
