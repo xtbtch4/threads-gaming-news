@@ -3194,7 +3194,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/brencis-danwalker-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T16:56:23.704422+00:00"
+    },
+    {
+      "fingerprint": "bda09fa03854d210b1a98676",
+      "title": "Call Of Duty Is Finally Giving Players What They Want",
+      "url": "https://gamespot.com/articles/call-of-duty-is-finally-giving-players-what-they-want",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T16:59:23+00:00",
+      "score": 15,
+      "event_key": "modern warfare 4 warzone operator skin filter",
+      "title_ru": "В Modern Warfare 4 появится фильтр для отключения нестандартных скинов в Warzone",
+      "threads_teaser_ru": "В Call of Duty: Modern Warfare 4 появится долгожданная функция — фильтр скинов для Warzone, позволяющий скрывать чужие нестандартные образы для сохранения атмосферы.",
+      "telegram_message_id": "199",
+      "telegram_url": "https://t.me/gamepulse_newss/199",
+      "telegram_published_at": "2026-09-24T17:04:19.165387+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4-REVEAL-005.jpg?w=300",
+      "threads_published_at": "2026-09-24T17:04:19.168611+00:00"
     }
   ],
-  "updated_at": "2026-09-24T16:56:26.192886+00:00"
+  "updated_at": "2026-09-24T17:04:21.936480+00:00"
 }
