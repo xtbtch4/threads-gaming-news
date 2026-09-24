@@ -8,6 +8,7 @@ import media_cleanup  # reject JPG/PNG/etc. mistakenly detected as gameplay vide
 import direct_feeds  # wraps the active collector with direct first-party/outlet RSS feeds
 import block_pcgamer  # remove PC Gamer from RSS, Bing and any accidental cross-source URLs
 import block_stopgame  # remove StopGame from RSS, Bing and any accidental cross-source URLs
+import gaming_relevance  # block movies/TV/streaming stories without a clear gaming connection
 import disable_threads  # hard-disable Threads publishing; Telegram-only mode
 import telegram_format  # preserve blank lines in Telegram captions at final send stage
 
