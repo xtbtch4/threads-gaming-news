@@ -4063,10 +4063,11 @@
       "telegram_message_id": "249",
       "telegram_url": "https://t.me/gamepulse_newss/249",
       "telegram_published_at": "2026-09-24T23:41:34.028613+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/key-art-header.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/over-the-hill-steam-next-fest-demo-trailer-1781261582.mp4"
+      "video_url": "https://video.polygonimages.com/2026/06/over-the-hill-steam-next-fest-demo-trailer-1781261582.mp4",
+      "threads_published_at": "2026-09-24T23:41:35.337709+00:00"
     }
   ],
-  "updated_at": "2026-09-24T23:41:34.028936+00:00"
+  "updated_at": "2026-09-24T23:41:35.337813+00:00"
 }
