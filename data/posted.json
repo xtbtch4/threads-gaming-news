@@ -1880,7 +1880,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets1.ignimgs.com/2017/11/09/gremlins-1510265666951.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-24T00:06:15.050603+00:00"
+    },
+    {
+      "fingerprint": "eec20614cb7ab18111ee9392",
+      "title": "YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity",
+      "url": "https://ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
+      "source": "IGN",
+      "published_at_source": "2026-09-23T23:27:34+00:00",
+      "score": 11,
+      "event_key": "youtube introduces ab video testing for creators",
+      "title_ru": "YouTube позволит авторам проводить A/B-тестирование разных версий видео",
+      "threads_teaser_ru": "YouTube внедрит A/B-тестирование видео: авторы смогут проверять три разные версии одного ролика, чтобы выбрать самую популярную. Пользователи опасаются, что эта механика может стать инструментом для манипуляции мнением и создания противоречивого контента ради трафика.",
+      "telegram_message_id": "114",
+      "telegram_url": "https://t.me/gamepulse_newss/114",
+      "telegram_published_at": "2026-09-24T00:11:37.951786+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/youtube-1790203481227.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-24T00:11:37.954204+00:00"
     }
   ],
-  "updated_at": "2026-09-24T00:06:17.357897+00:00"
+  "updated_at": "2026-09-24T00:11:40.281793+00:00"
 }
