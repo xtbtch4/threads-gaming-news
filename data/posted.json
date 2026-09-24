@@ -2700,7 +2700,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/08/15/ageofempiresmobile-preview-blogroll-1723736791559.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-24T12:02:50.848779+00:00"
+    },
+    {
+      "fingerprint": "cfa8a936f701207a4ca4597c",
+      "title": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
+      "url": "https://rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-24T12:00:00+00:00",
+      "score": 12,
+      "event_key": "discord_roll_out_revised_age_verification_system",
+      "title_ru": "Discord запустил обновленную систему возрастного подтверждения",
+      "threads_teaser_ru": "Discord начал глобальное внедрение обновленной системы возрастного подтверждения после задержки из-за критики пользователей. Более 90% игроков смогут обойтись без ручной проверки.",
+      "telegram_message_id": "162",
+      "telegram_url": "https://t.me/gamepulse_newss/162",
+      "telegram_published_at": "2026-09-24T12:06:35.398146+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/discordageverification.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-24T12:06:35.401440+00:00"
     }
   ],
-  "updated_at": "2026-09-24T12:02:53.530466+00:00"
+  "updated_at": "2026-09-24T12:06:38.166151+00:00"
 }
