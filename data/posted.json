@@ -2426,7 +2426,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/avengers-doomsday-thor.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-24T09:41:47.643957+00:00"
+    },
+    {
+      "fingerprint": "a6d9b2487091aedd8ccf4cb9",
+      "title": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-24T09:43:58+00:00",
+      "score": 9,
+      "event_key": "world of warcraft forever smelting pants discovery",
+      "title_ru": "Игроки нашли в World of Warcraft: Forever уникальные штаны для плавки руды",
+      "threads_teaser_ru": "В бета-версии World of Warcraft: Forever обнаружили уникальные штаны, которые сокращают время плавки руды на 25%. Такой предмет меняет подход к профессиям и отличается от всего, что было в классической версии игры.",
+      "telegram_message_id": "146",
+      "telegram_url": "https://t.me/gamepulse_newss/146",
+      "telegram_published_at": "2026-09-24T09:46:43.225424+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-camp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-24T09:46:43.228482+00:00"
     }
   ],
-  "updated_at": "2026-09-24T09:41:50.260566+00:00"
+  "updated_at": "2026-09-24T09:46:45.791241+00:00"
 }
