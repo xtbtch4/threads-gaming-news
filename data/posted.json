@@ -3913,7 +3913,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fallout-new-vegas_ykpUnUC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T21:47:39.967437+00:00"
+    },
+    {
+      "fingerprint": "496c16f8d501c5b7122c8750",
+      "title": "DOOM: The Dark Ages",
+      "url": "https://doom.bethesda.net/the-dark-ages",
+      "source": "Bethesda",
+      "published_at_source": "2026-09-24T19:00:00+00:00",
+      "score": 9,
+      "event_key": "doom_the_dark_ages_announced_bethesda",
+      "title_ru": "Анонс DOOM: The Dark Ages",
+      "threads_teaser_ru": "Bethesda анонсировала DOOM: The Dark Ages — сюжетный экшен-приквел к DOOM (2016) и DOOM Eternal в сеттинге мрачного средневековья. Игроков ждут новые виды оружия вроде пилы-щита, полеты на Меха-драконе и масштабные уровни на движке idTech.",
+      "telegram_message_id": "241",
+      "telegram_url": "https://t.me/gamepulse_newss/241",
+      "telegram_published_at": "2026-09-24T21:52:26.697934+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-09-24T21:47:39.967512+00:00"
+  "updated_at": "2026-09-24T21:52:26.698184+00:00"
 }
