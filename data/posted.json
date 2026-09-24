@@ -3521,7 +3521,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/22/msicodexz2-1790095505146.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-24T18:33:20.602875+00:00"
+    },
+    {
+      "fingerprint": "d62d09aa8968090c4724bc4c",
+      "title": "March 2027 Could Be Make-Or-Break For Marathon",
+      "url": "https://gamespot.com/articles/march-2027-could-be-make-or-break-for-marathon",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T18:20:49+00:00",
+      "score": 12,
+      "event_key": "bungie_marathon_update_march_2027_plans",
+      "title_ru": "Bungie готовится к крупному обновлению шутера Marathon в марте 2027 года",
+      "threads_teaser_ru": "Bungie рассказала о планах по развитию шутера Marathon на пути к крупному обновлению в марте 2027 года. Игра отойдет от чистого формата extraction-шутера и предложит связанные PvE-, PvP- и PvEvP-режимы для одиночек и команд.",
+      "telegram_message_id": "218",
+      "telegram_url": "https://t.me/gamepulse_newss/218",
+      "telegram_published_at": "2026-09-24T18:36:45.098976+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Marathon-runner.jpg?w=300",
+      "threads_published_at": "2026-09-24T18:37:06.761365+00:00"
     }
   ],
-  "updated_at": "2026-09-24T18:33:23.061472+00:00"
+  "updated_at": "2026-09-24T18:37:31.203119+00:00"
 }
