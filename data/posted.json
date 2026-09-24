@@ -3722,9 +3722,10 @@
       "telegram_message_id": "229",
       "telegram_url": "https://t.me/gamepulse_newss/229",
       "telegram_published_at": "2026-09-24T20:02:23.745501+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/talixpowerbankwhite-1790274521868.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/talixpowerbankwhite-1790274521868.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-24T20:02:25.799945+00:00"
     }
   ],
-  "updated_at": "2026-09-24T20:02:23.745878+00:00"
+  "updated_at": "2026-09-24T20:02:25.800022+00:00"
 }
