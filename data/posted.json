@@ -4101,7 +4101,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ss_8b5d22f46341214530ecdd8786e76203043dfbd3.1920x1080.webp?w=300",
       "threads_published_at": "2026-09-24T23:51:53.845718+00:00"
+    },
+    {
+      "fingerprint": "402bacf2a51a65cedffba566",
+      "title": "Warcraft 3 Reforged: Forsaken Kingdom Review",
+      "url": "https://ign.com/articles/warcraft-3-forsaken-kingdom-review",
+      "source": "IGN",
+      "published_at_source": "2026-09-24T21:00:26+00:00",
+      "score": 6,
+      "event_key": "warcraft_3_reforged_forsaken_kingdom_release",
+      "title_ru": "Выход дополнения Forsaken Kingdom для Warcraft 3: Reforged",
+      "threads_teaser_ru": "Для Warcraft 3: Reforged вышло сюжетное дополнение Forsaken Kingdom с новой кампанией, мультиплеерным героем и графическим обновлением Definitive Edition.",
+      "telegram_message_id": "252",
+      "telegram_url": "https://t.me/gamepulse_newss/252",
+      "telegram_published_at": "2026-09-24T23:56:45.718669+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/12/warcraft-3-expansion-blogroll-1789246436615.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-24T23:51:53.845804+00:00"
+  "updated_at": "2026-09-24T23:56:45.718955+00:00"
 }
