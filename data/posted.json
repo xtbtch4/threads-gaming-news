@@ -2324,7 +2324,24 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Announce-Key-Art-e86c38da60467e4964a3.png",
       "threads_published_at": "2026-09-24T08:41:40.769064+00:00"
+    },
+    {
+      "fingerprint": "323ffc30fbfa3eb59804f864",
+      "title": "Gremlins 3 Gets an Official Teaser, But There's Some Bad News",
+      "url": "https://polygon.com/gremlins-3-teaser-release-date-delay",
+      "source": "Polygon",
+      "published_at_source": "2026-09-24T08:46:17+00:00",
+      "score": 10,
+      "event_key": "gremlins-3-teaser-release-date-delay-warner-bros",
+      "title_ru": "Warner Bros. перенесла дату выхода фильма «Гремлины 3» и показала первый тизер",
+      "threads_teaser_ru": "Компания Warner Bros. показала первый тизер фильма «Гремлины 3» с возвращением Гизмо, но одновременно объявила о переносе долгожданной премьеры.",
+      "telegram_message_id": "140",
+      "telegram_url": "https://t.me/gamepulse_newss/140",
+      "telegram_published_at": "2026-09-24T08:52:09.729609+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gizmo-gremlins.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-24T08:52:09.732495+00:00"
     }
   ],
-  "updated_at": "2026-09-24T08:41:43.195803+00:00"
+  "updated_at": "2026-09-24T08:52:12.234044+00:00"
 }
