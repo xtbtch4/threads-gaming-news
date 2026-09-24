@@ -2752,7 +2752,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/kiln-pot.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-24T12:32:45.158544+00:00"
+    },
+    {
+      "fingerprint": "89a60baf304fdf00eeca65a5",
+      "title": "Xbox’s New Mythic Achievements Take 15 Seconds To Tell You “Good Job”",
+      "url": "https://gamespot.com/articles/xboxs-new-mythic-achievements-take-15-seconds-to-tell-you-good-job",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-24T12:12:08+00:00",
+      "score": 15,
+      "event_key": "xbox introduces mythic achievements with lengthy animations",
+      "title_ru": "В Xbox появились редкие «мифические» достижения",
+      "threads_teaser_ru": "В Xbox появились новые «мифические» достижения, которые выдаются за выполнение всех стандартных наград в игре и сопровождаются 15-секундной анимацией.",
+      "telegram_message_id": "165",
+      "telegram_url": "https://t.me/gamepulse_newss/165",
+      "telegram_published_at": "2026-09-24T12:46:35.249636+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-Mythic.jpg?w=300",
+      "threads_published_at": "2026-09-24T12:46:35.252881+00:00"
     }
   ],
-  "updated_at": "2026-09-24T12:32:47.683989+00:00"
+  "updated_at": "2026-09-24T12:46:38.063941+00:00"
 }
