@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import bot
 import publisher  # applies studio sources, dedupe and Gemini/source-language fallback
+import gemini_priority  # try Gemini 3.5 Flash Lite on every key before 3.1 Flash Lite
 import telegram_cleanup  # remove body intro when it repeats the Telegram headline
 import media_cleanup  # reject JPG/PNG/etc. mistakenly detected as gameplay video
 import direct_feeds  # wraps the active collector with direct first-party/outlet RSS feeds
