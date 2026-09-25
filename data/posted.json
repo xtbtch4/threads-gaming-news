@@ -4802,7 +4802,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/fires-of-december-brandon-sanderson.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-25T16:26:59.222483+00:00"
+    },
+    {
+      "fingerprint": "19f941f69009a2ebcb293ea4",
+      "title": "EA SPORTS FC™ 27 is available now, bringing new ways to play The World’s Game",
+      "url": "https://ea.com/news/fc-27-launches-today",
+      "source": "Electronic Arts",
+      "published_at_source": "2026-09-25T16:00:00+00:00",
+      "score": 13,
+      "event_key": "ea_sports_fc_27_worldwide_release",
+      "title_ru": "Релиз EA SPORTS FC™ 27 состоялся по всему миру",
+      "threads_teaser_ru": "Состоялся мировой релиз EA SPORTS FC™ 27. Игра принесла масштабные нововведения, включая социальный режим The Grounds, переработанный режим карьеры и улучшения геймплея на базе отзывов сообщества.",
+      "telegram_message_id": "293",
+      "telegram_url": "https://t.me/gamepulse_newss/293",
+      "telegram_published_at": "2026-09-25T16:42:21.995207+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/7yoMZ6xTTBIOiJzyuuaS9l/7df7927425c4bcfda0b1603453f2ec44/EA_FC27_STD_KeyArt_RGB_16-9_3840x2160__1_.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     }
   ],
-  "updated_at": "2026-09-25T16:26:59.222562+00:00"
+  "updated_at": "2026-09-25T16:42:21.995352+00:00"
 }
