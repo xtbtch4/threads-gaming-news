@@ -4836,7 +4836,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Onimusha_-Way-of-the-Sword_20260904013558.png?w=300",
       "threads_published_at": "2026-09-25T16:47:12.367873+00:00"
+    },
+    {
+      "fingerprint": "7aea00c503251a9f93e2356e",
+      "title": "Ubisoft Was Working on an Official Legend of Zelda Game, Report Says",
+      "url": "https://polygon.com/legend-of-zelda-ganondorf-ubisoft-game-canceled",
+      "source": "Polygon",
+      "published_at_source": "2026-09-25T15:47:18+00:00",
+      "score": 10,
+      "event_key": "ubisoft canceled legend of zelda ganondorf spinoff project",
+      "title_ru": "Ubisoft разрабатывала отмененный спин-офф The Legend of Zelda про Ganondorf",
+      "threads_teaser_ru": "Стало известно, что Ubisoft Milan разрабатывала секретный спин-офф The Legend of Zelda, где главным героем должен был стать Ganondorf. Проект получил кодовое название Goliath, но Nintendo в итоге отменила его.",
+      "telegram_message_id": "295",
+      "telegram_url": "https://t.me/gamepulse_newss/295",
+      "telegram_published_at": "2026-09-25T16:56:48.861244+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24582693/ganondorf_totk_trailer.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-25T16:47:12.367955+00:00"
+  "updated_at": "2026-09-25T16:56:48.861585+00:00"
 }
