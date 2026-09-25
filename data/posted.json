@@ -4426,7 +4426,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/05/01/switch-time-to-buy-1714545882432.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T11:11:36.175844+00:00"
+    },
+    {
+      "fingerprint": "e9f4e7b59dfa4ba65eba0b19",
+      "title": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-outstanding",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-25T11:33:13+00:00",
+      "score": 9,
+      "event_key": "world of warcraft forever beta launch blizzcon",
+      "title_ru": "World of Warcraft: Forever возвращает магию оригинальной MMORPG",
+      "threads_teaser_ru": "Бета-версия проекта World of Warcraft: Forever от Blizzard уже запущена и предлагает игрокам прокачку до 20 уровня, новые зоны, переработанные расово-классовые комбинации и посвежевший визуальный стиль.",
+      "telegram_message_id": "271",
+      "telegram_url": "https://t.me/gamepulse_newss/271",
+      "telegram_published_at": "2026-09-25T11:36:55.267539+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-25T11:11:36.175927+00:00"
+  "updated_at": "2026-09-25T11:36:55.267889+00:00"
 }
