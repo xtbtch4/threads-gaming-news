@@ -4423,9 +4423,10 @@
       "telegram_message_id": "270",
       "telegram_url": "https://t.me/gamepulse_newss/270",
       "telegram_published_at": "2026-09-25T11:11:34.794288+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2024/05/01/switch-time-to-buy-1714545882432.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2024/05/01/switch-time-to-buy-1714545882432.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-25T11:11:36.175844+00:00"
     }
   ],
-  "updated_at": "2026-09-25T11:11:34.794667+00:00"
+  "updated_at": "2026-09-25T11:11:36.175927+00:00"
 }
