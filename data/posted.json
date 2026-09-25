@@ -4698,7 +4698,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/11_92dc36.jpg?w=300",
       "threads_published_at": "2026-09-25T15:36:39.903200+00:00"
+    },
+    {
+      "fingerprint": "ff23c6bcc5171607a2296e1a",
+      "title": "Gears of War: E-Day x Liquid Death – Unlock a Legendary Pose and More",
+      "url": "https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-09-25T16:00:00+00:00",
+      "score": 14,
+      "event_key": "gears of war eday liquid death collaboration",
+      "title_ru": "Анонсирована коллаборация Gears of War: E-Day и Liquid Death",
+      "threads_teaser_ru": "Стартовала коллаборация между Gears of War: E-Day и Liquid Death, в рамках которой игроки в США могут получить внутриигровые награды, включая легендарную позу Chainsaw Flex.",
+      "telegram_message_id": "287",
+      "telegram_url": "https://t.me/gamepulse_newss/287",
+      "telegram_published_at": "2026-09-25T16:02:08.129946+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/GOW-PR-bb589709736a2beab441.jpg",
+      "video_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/ChainsawFlex-Resize_1x1-GIF.mp4"
     }
   ],
-  "updated_at": "2026-09-25T15:36:39.903273+00:00"
+  "updated_at": "2026-09-25T16:02:08.130389+00:00"
 }
