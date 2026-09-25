@@ -4867,9 +4867,10 @@
       "telegram_message_id": "296",
       "telegram_url": "https://t.me/gamepulse_newss/296",
       "telegram_published_at": "2026-09-25T17:02:43.683088+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/lego-astro-bot-blogroll-1790353291282.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/lego-astro-bot-blogroll-1790353291282.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-25T17:02:45.252436+00:00"
     }
   ],
-  "updated_at": "2026-09-25T17:02:43.683437+00:00"
+  "updated_at": "2026-09-25T17:02:45.252521+00:00"
 }
