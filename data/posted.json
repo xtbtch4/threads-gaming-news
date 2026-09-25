@@ -5007,7 +5007,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/netflix-beyond-good-and-evil-film-announced-1596272855546.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-25T18:06:52.574571+00:00"
+    },
+    {
+      "fingerprint": "14068eae94329d667a370627",
+      "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
+      "url": "https://ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
+      "source": "IGN",
+      "published_at_source": "2026-09-25T17:47:16+00:00",
+      "score": 11,
+      "event_key": "microsoft-drops-copilot-plus-branding-new-surface",
+      "title_ru": "Microsoft отказалась от бренда Copilot+ в новых устройствах Surface",
+      "threads_teaser_ru": "Компания Microsoft перестала использовать бренд Copilot+ спустя два года после запуска. Новые Surface Pro и Surface Laptop лишились этого упоминания, хотя технически соответствуют прежним стандартам.",
+      "telegram_message_id": "305",
+      "telegram_url": "https://t.me/gamepulse_newss/305",
+      "telegram_published_at": "2026-09-25T18:12:32.883590+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2022/09/01/microsoftboxes2-blogroll-logos-1662054072117.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-25T18:06:52.574650+00:00"
+  "updated_at": "2026-09-25T18:12:32.883955+00:00"
 }
