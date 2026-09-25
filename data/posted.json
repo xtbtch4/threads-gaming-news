@@ -5144,7 +5144,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/04/19/the-simpsons-1681942375502.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T18:44:08.349238+00:00"
+    },
+    {
+      "fingerprint": "7f625c521d0c95242863d82e",
+      "title": "How One Crash Bandicoot Level Helped Build Naughty Dog",
+      "url": "https://ign.com/articles/how-one-crash-bandicoot-level-helped-build-naughty-dog",
+      "source": "IGN",
+      "published_at_source": "2026-09-25T15:30:00+00:00",
+      "score": 8,
+      "event_key": "crash_bandicoot_boulders_level_history_naughty_dog",
+      "title_ru": "Как уровень в Crash Bandicoot помог сформировать Naughty Dog",
+      "threads_teaser_ru": "Как студия Naughty Dog в 1994 году решила показать лицо главного героя в Crash Bandicoot и случайно создала легендарный формат погоней лицом к камере, который повлиял на Uncharted и всю индустрию.",
+      "telegram_message_id": "313",
+      "telegram_url": "https://t.me/gamepulse_newss/313",
+      "telegram_published_at": "2026-09-25T18:48:08.698560+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/18/crash-blog-1789741134181.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-25T18:44:08.349317+00:00"
+  "updated_at": "2026-09-25T18:48:08.698877+00:00"
 }
