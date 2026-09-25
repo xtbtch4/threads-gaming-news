@@ -4255,7 +4255,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown-emotional-gut-punch-in-peanuts-comic.avif?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-25T08:02:15.441913+00:00"
+    },
+    {
+      "fingerprint": "616f2c6e864dc482bd04f07b",
+      "title": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+      "url": "https://polygon.com/playstation-dualsense-nfc-payments",
+      "source": "Polygon",
+      "published_at_source": "2026-09-25T08:12:45+00:00",
+      "score": 10,
+      "event_key": "sony-patents-dualsense-controller-with-nfc-payments",
+      "title_ru": "Sony запатентовала контроллер DualSense с NFC для быстрой оплаты",
+      "threads_teaser_ru": "Sony подала патент на добавление NFC в контроллер PlayStation DualSense. Это позволит игрокам оплачивать цифровые товары, прикладывая карту или смартфон к геймпаду.",
+      "telegram_message_id": "261",
+      "telegram_url": "https://t.me/gamepulse_newss/261",
+      "telegram_published_at": "2026-09-25T08:17:04.985452+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-vi-limited-edition-dualsense-controllers-ps5.jpeg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-25T08:02:15.441986+00:00"
+  "updated_at": "2026-09-25T08:17:04.985794+00:00"
 }
