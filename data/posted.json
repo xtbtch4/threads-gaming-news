@@ -4630,7 +4630,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T14:17:30.934296+00:00"
+    },
+    {
+      "fingerprint": "f151f7ca477d238e9d042d13",
+      "title": "The Next Halo Game From Halo Studios Was Reportedly Still Years Away, Before Microsoft Handed the Franchise to Activision",
+      "url": "https://ign.com/articles/the-next-halo-game-from-halo-studios-was-reportedly-still-years-away-before-microsoft-handed-the-franchise-to-activision",
+      "source": "IGN",
+      "published_at_source": "2026-09-25T11:10:59+00:00",
+      "score": 14,
+      "event_key": "microsoft_transfers_halo_to_activision_halo_studios_restructured",
+      "title_ru": "Microsoft передала франшизу Halo компании Activision",
+      "threads_teaser_ru": "Microsoft передала франшизу Halo компании Activision и сократила штат Halo Studios. Activision уже формирует новую команду для создания следующей игры серии.",
+      "telegram_message_id": "283",
+      "telegram_url": "https://t.me/gamepulse_newss/283",
+      "telegram_published_at": "2026-09-25T14:26:27.422974+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/ss-6773ca4386fb78b10c987902bf2f66a1038d7829-1920x1080-1790334651616.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-25T14:17:30.934382+00:00"
+  "updated_at": "2026-09-25T14:26:27.423315+00:00"
 }
