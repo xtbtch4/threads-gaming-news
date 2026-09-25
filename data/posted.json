@@ -4409,7 +4409,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/wolverine-disc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-25T11:02:23.983829+00:00"
+    },
+    {
+      "fingerprint": "871f55cecfca05c40f75e90e",
+      "title": "Nintendo Wins $4.5 Million From Reddit Mod Who Sold Pirated Switch Games",
+      "url": "https://ign.com/articles/nintendo-wins-45-million-from-reddit-mod-who-sold-pirated-switch-games",
+      "source": "IGN",
+      "published_at_source": "2026-09-25T10:53:11+00:00",
+      "score": 9,
+      "event_key": "nintendo wins 4.5 million from reddit mod",
+      "title_ru": "Nintendo выиграла суд на $4,5 млн у модератора Reddit за продажу пиратских игр для Switch",
+      "threads_teaser_ru": "Nintendo добилась выплаты 4,5 млн долларов от модератора Reddit Джеймса Уильямса за продажу пиратских игр для Switch и управление нелегальными магазинами.",
+      "telegram_message_id": "270",
+      "telegram_url": "https://t.me/gamepulse_newss/270",
+      "telegram_published_at": "2026-09-25T11:11:34.794288+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/05/01/switch-time-to-buy-1714545882432.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-25T11:02:23.983920+00:00"
+  "updated_at": "2026-09-25T11:11:34.794667+00:00"
 }
