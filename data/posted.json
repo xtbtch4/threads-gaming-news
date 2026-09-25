@@ -4576,9 +4576,10 @@
       "telegram_message_id": "279",
       "telegram_url": "https://t.me/gamepulse_newss/279",
       "telegram_published_at": "2026-09-25T13:51:50.883803+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Gears-E-Day_3b1e3f.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Gears-E-Day_3b1e3f.jpg?w=300",
+      "threads_published_at": "2026-09-25T13:51:52.230801+00:00"
     }
   ],
-  "updated_at": "2026-09-25T13:51:50.883905+00:00"
+  "updated_at": "2026-09-25T13:51:52.230874+00:00"
 }
