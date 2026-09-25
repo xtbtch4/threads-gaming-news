@@ -5447,10 +5447,11 @@
       "telegram_message_id": "330",
       "telegram_url": "https://t.me/gamepulse_newss/330",
       "telegram_published_at": "2026-09-25T21:02:34.260267+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-24-at-1-30-23-pm.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/planet-zoo-2-_-animal-spotlight-west-indian-manatee-1790364261.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/planet-zoo-2-_-animal-spotlight-west-indian-manatee-1790364261.mp4",
+      "threads_published_at": "2026-09-25T21:02:35.737641+00:00"
     }
   ],
-  "updated_at": "2026-09-25T21:02:34.260533+00:00"
+  "updated_at": "2026-09-25T21:02:35.737732+00:00"
 }
