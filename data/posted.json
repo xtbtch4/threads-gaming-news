@@ -5277,9 +5277,10 @@
       "telegram_message_id": "320",
       "telegram_url": "https://t.me/gamepulse_newss/320",
       "telegram_published_at": "2026-09-25T19:43:17.861293+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/resident-evil-requiem_tsiPKIM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/resident-evil-requiem_tsiPKIM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-25T19:43:19.307227+00:00"
     }
   ],
-  "updated_at": "2026-09-25T19:43:17.861633+00:00"
+  "updated_at": "2026-09-25T19:43:19.307311+00:00"
 }
