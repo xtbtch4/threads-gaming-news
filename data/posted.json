@@ -4371,10 +4371,11 @@
       "telegram_message_id": "267",
       "telegram_url": "https://t.me/gamepulse_newss/267",
       "telegram_published_at": "2026-09-25T10:37:03.211682+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/screenshot-2025-09-02-at-11-45-00-am.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/i-read-all-337-books-in-skyrim-so-you-don-t-have-to-unraveled-1790248492.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/i-read-all-337-books-in-skyrim-so-you-don-t-have-to-unraveled-1790248492.mp4",
+      "threads_published_at": "2026-09-25T10:37:04.538704+00:00"
     }
   ],
-  "updated_at": "2026-09-25T10:37:03.212098+00:00"
+  "updated_at": "2026-09-25T10:37:04.538808+00:00"
 }
