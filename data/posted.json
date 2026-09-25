@@ -5178,7 +5178,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/25/batman-vol-1-the-court-of-owls-the-new-521-1790342111130.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T18:52:56.693854+00:00"
+    },
+    {
+      "fingerprint": "f0c3db6b76aa62d4d21dd30d",
+      "title": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers",
+      "url": "https://polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response",
+      "source": "Polygon",
+      "published_at_source": "2026-09-25T18:58:32+00:00",
+      "score": 10,
+      "event_key": "xbox_responds_to_gta_6_ps5_pre_orders",
+      "title_ru": "Xbox прокомментировала данные о продажах предзаказов GTA 6 на PS5",
+      "threads_teaser_ru": "Руководство Xbox отреагировало на сообщения о том, что предзаказы GTA 6 на PS5 значительно опережают показатели на консолях Microsoft. В компании заявили, что довольны результатами.",
+      "telegram_message_id": "315",
+      "telegram_url": "https://t.me/gamepulse_newss/315",
+      "telegram_published_at": "2026-09-25T19:04:00.971925+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_09.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-25T18:52:56.693968+00:00"
+  "updated_at": "2026-09-25T19:04:00.972240+00:00"
 }
