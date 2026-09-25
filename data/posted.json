@@ -5485,7 +5485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/07/31/gettyimages-2186493403-1785487186283.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T21:16:50.640313+00:00"
+    },
+    {
+      "fingerprint": "a2dd47cc6a9d48c5bc2c5337",
+      "title": "Infinity Festival Returns to Los Angeles in November With a Focus on AI",
+      "url": "https://ign.com/articles/infinity-festival-los-angeles-2026-ai",
+      "source": "IGN",
+      "published_at_source": "2026-09-25T21:32:25+00:00",
+      "score": 9,
+      "event_key": "infinity_festival_los_angeles_2026_ai",
+      "title_ru": "Infinity Festival пройдет в Лос-Анджелесе в ноябре с акцентом на ИИ",
+      "threads_teaser_ru": "Девятый Infinity Festival пройдет в Лос-Анджелесе с 12 по 15 ноября. Главной темой мероприятия станет влияние искусственного интеллекта на индустрию развлечений, анимацию, видеоигры и кинопроизводство.",
+      "telegram_message_id": "333",
+      "telegram_url": "https://t.me/gamepulse_newss/333",
+      "telegram_published_at": "2026-09-25T22:02:29.828061+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/if-pic-1790371862603.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-25T21:16:50.640388+00:00"
+  "updated_at": "2026-09-25T22:02:29.828413+00:00"
 }
