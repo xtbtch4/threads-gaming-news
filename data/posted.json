@@ -5362,9 +5362,10 @@
       "telegram_message_id": "325",
       "telegram_url": "https://t.me/gamepulse_newss/325",
       "telegram_published_at": "2026-09-25T20:32:43.651019+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/gta-6-alligator-3d-print-1790365181135.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/gta-6-alligator-3d-print-1790365181135.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-25T20:32:45.157145+00:00"
     }
   ],
-  "updated_at": "2026-09-25T20:32:43.651327+00:00"
+  "updated_at": "2026-09-25T20:32:45.157222+00:00"
 }
