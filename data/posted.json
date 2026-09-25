@@ -4750,7 +4750,24 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2028/09/65e085ff586221d85646572c475753b3a82095da.png",
       "threads_published_at": "2026-09-25T16:12:29.604552+00:00"
+    },
+    {
+      "fingerprint": "61fe0afc24666f51486409cd",
+      "title": "Konami Teaser Gives Castlevania Fans Hope for a New 3D Collection",
+      "url": "https://polygon.com/castlevania-new-collection-40th-anniversary",
+      "source": "Polygon",
+      "published_at_source": "2026-09-25T16:11:50+00:00",
+      "score": 10,
+      "event_key": "castlevania 40th anniversary trailer teases 3d collection",
+      "title_ru": "Трейлер к 40-летию франшизы намекает на сборник 3D-игр Castlevania",
+      "threads_teaser_ru": "Новый трейлер к 40-летию франшизы Castlevania намекает на скорый анонс сборника 3D-игр. Внимательные фанаты заметили в ролике отсылки к трем проектам, которые еще не получали переизданий на современных консолях.",
+      "telegram_message_id": "290",
+      "telegram_url": "https://t.me/gamepulse_newss/290",
+      "telegram_published_at": "2026-09-25T16:16:46.583159+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/castlevania-lords-of-shadow.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/castlevania-40th-anniversary-celebration-konami-esrb-konami-1080p-1790342680.mp4"
     }
   ],
-  "updated_at": "2026-09-25T16:12:29.604632+00:00"
+  "updated_at": "2026-09-25T16:16:46.583535+00:00"
 }
