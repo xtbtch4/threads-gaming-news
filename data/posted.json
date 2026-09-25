@@ -4833,9 +4833,10 @@
       "telegram_message_id": "294",
       "telegram_url": "https://t.me/gamepulse_newss/294",
       "telegram_published_at": "2026-09-25T16:47:10.693917+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Onimusha_-Way-of-the-Sword_20260904013558.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Onimusha_-Way-of-the-Sword_20260904013558.png?w=300",
+      "threads_published_at": "2026-09-25T16:47:12.367873+00:00"
     }
   ],
-  "updated_at": "2026-09-25T16:47:10.694265+00:00"
+  "updated_at": "2026-09-25T16:47:12.367955+00:00"
 }
