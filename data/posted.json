@@ -4678,9 +4678,10 @@
       "telegram_message_id": "285",
       "telegram_url": "https://t.me/gamepulse_newss/285",
       "telegram_published_at": "2026-09-25T15:07:22.724606+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/20025180/Persona_4_Golden_PC_Lunch_Box_Guide.png?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/20025180/Persona_4_Golden_PC_Lunch_Box_Guide.png?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-25T15:07:24.239259+00:00"
     }
   ],
-  "updated_at": "2026-09-25T15:07:22.725023+00:00"
+  "updated_at": "2026-09-25T15:07:24.239362+00:00"
 }
