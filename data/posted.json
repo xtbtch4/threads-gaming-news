@@ -4457,9 +4457,10 @@
       "telegram_message_id": "272",
       "telegram_url": "https://t.me/gamepulse_newss/272",
       "telegram_published_at": "2026-09-25T12:03:08.264223+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Hytale-Chapter-1-dungeon.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Hytale-Chapter-1-dungeon.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-25T12:03:09.532381+00:00"
     }
   ],
-  "updated_at": "2026-09-25T12:03:08.264459+00:00"
+  "updated_at": "2026-09-25T12:03:09.532460+00:00"
 }
