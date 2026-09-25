@@ -5072,9 +5072,10 @@
       "telegram_message_id": "308",
       "telegram_url": "https://t.me/gamepulse_newss/308",
       "telegram_published_at": "2026-09-25T18:23:33.561611+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/jirachi-card-artist-responds-avery-poke-kid-1790205304963.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/jirachi-card-artist-responds-avery-poke-kid-1790205304963.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-25T18:23:35.063914+00:00"
     }
   ],
-  "updated_at": "2026-09-25T18:23:33.561941+00:00"
+  "updated_at": "2026-09-25T18:23:35.064017+00:00"
 }
