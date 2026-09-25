@@ -5416,7 +5416,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_birdtime_lead-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-25T20:48:27.823516+00:00"
+    },
+    {
+      "fingerprint": "1f82fe16f4cb79a6e623b945",
+      "title": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
+      "url": "https://eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-25T10:32:41+00:00",
+      "score": 12,
+      "event_key": "bungie-announces-major-changes-and-new-modes-for-marathon",
+      "title_ru": "Bungie меняет курс Marathon на фоне падения числа игроков",
+      "threads_teaser_ru": "Bungie объявила о кардинальных переменах для Marathon: в ближайшие месяцы шутер отойдет от своих extraction-корней в сторону более доступных режимов с разным уровнем сложности.",
+      "telegram_message_id": "329",
+      "telegram_url": "https://t.me/gamepulse_newss/329",
+      "telegram_published_at": "2026-09-25T20:51:46.367449+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Marathon_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-25T20:48:27.823612+00:00"
+  "updated_at": "2026-09-25T20:51:46.367562+00:00"
 }
