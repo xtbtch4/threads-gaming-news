@@ -4952,9 +4952,10 @@
       "telegram_message_id": "301",
       "telegram_url": "https://t.me/gamepulse_newss/301",
       "telegram_published_at": "2026-09-25T17:36:14.537679+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/cr4-exandria.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/cr4-exandria.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-25T17:36:16.195066+00:00"
     }
   ],
-  "updated_at": "2026-09-25T17:36:14.537963+00:00"
+  "updated_at": "2026-09-25T17:36:16.195139+00:00"
 }
