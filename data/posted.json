@@ -4477,7 +4477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/MindsEye---Official-Launch-Trailer-_-PS5-Games-0-49-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-25T12:16:44.053380+00:00"
+    },
+    {
+      "fingerprint": "08da3a775f8a809952ef29c1",
+      "title": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right",
+      "url": "https://eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-25T12:12:55+00:00",
+      "score": 9,
+      "event_key": "cyberpunk 2077 phantom liberty chimera tank development time",
+      "title_ru": "Создание битвы с танком Химера в Phantom Liberty заняло два года",
+      "threads_teaser_ru": "CD Projekt Red рассказала о создании битвы с танком Химера в дополнении Cyberpunk 2077: Phantom Liberty. Разработка этой сложной последовательности заняла около двух лет.",
+      "telegram_message_id": "274",
+      "telegram_url": "https://t.me/gamepulse_newss/274",
+      "telegram_published_at": "2026-09-25T12:22:08.931187+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/How-to-beat-Chimera-boss-in-Cyberpunk-2077-Phantom-Liberty-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-25T12:16:44.053458+00:00"
+  "updated_at": "2026-09-25T12:22:08.931495+00:00"
 }
