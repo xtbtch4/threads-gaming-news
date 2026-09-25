@@ -5175,9 +5175,10 @@
       "telegram_message_id": "314",
       "telegram_url": "https://t.me/gamepulse_newss/314",
       "telegram_published_at": "2026-09-25T18:52:55.334778+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/batman-vol-1-the-court-of-owls-the-new-521-1790342111130.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/batman-vol-1-the-court-of-owls-the-new-521-1790342111130.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-25T18:52:56.693854+00:00"
     }
   ],
-  "updated_at": "2026-09-25T18:52:55.335143+00:00"
+  "updated_at": "2026-09-25T18:52:56.693968+00:00"
 }
