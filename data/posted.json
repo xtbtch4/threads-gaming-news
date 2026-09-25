@@ -5553,7 +5553,24 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2028/09/238b9403fba493d99193176f4e8617fa982522ab.jpg",
       "threads_published_at": "2026-09-25T23:02:49.475814+00:00"
+    },
+    {
+      "fingerprint": "2d2527fc5ad2f3ceb98ac9f6",
+      "title": "10 Free Browser Games That are Actually Fun to Play",
+      "url": "https://polygon.com/best-free-browser-games",
+      "source": "Polygon",
+      "published_at_source": "2026-09-25T23:00:15+00:00",
+      "score": 8,
+      "event_key": "polygon_best_free_browser_games_selection",
+      "title_ru": "Подборка бесплатных браузерных игр",
+      "threads_teaser_ru": "Polygon представил подборку из десяти увлекательных бесплатных браузерных игр без скачивания и регистраций — от необычных автобатлеров и текстовых детективов до культовых проектов.",
+      "telegram_message_id": "337",
+      "telegram_url": "https://t.me/gamepulse_newss/337",
+      "telegram_published_at": "2026-09-25T23:07:25.025746+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4"
     }
   ],
-  "updated_at": "2026-09-25T23:02:49.475889+00:00"
+  "updated_at": "2026-09-25T23:07:25.026115+00:00"
 }
