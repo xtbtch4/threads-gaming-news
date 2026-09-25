@@ -5123,10 +5123,11 @@
       "telegram_message_id": "311",
       "telegram_url": "https://t.me/gamepulse_newss/311",
       "telegram_published_at": "2026-09-25T18:38:24.246281+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-beginner-tips.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/fire-emblem-fortune-s-weave-the-stage-is-set-nintendo-switch-2-1920x1080-avc1-mp4a-1789505444.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/fire-emblem-fortune-s-weave-the-stage-is-set-nintendo-switch-2-1920x1080-avc1-mp4a-1789505444.mp4",
+      "threads_published_at": "2026-09-25T18:38:25.627788+00:00"
     }
   ],
-  "updated_at": "2026-09-25T18:38:24.246624+00:00"
+  "updated_at": "2026-09-25T18:38:25.627886+00:00"
 }
