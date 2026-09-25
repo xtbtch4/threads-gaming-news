@@ -21,8 +21,11 @@ _ENTERTAINMENT_TERMS = (
     "free on streaming", "movie", "film", "box office", "netflix", "hulu", "disney+", "disney plus",
     "prime video", "max streaming", "pluto tv", "paramount+", "paramount plus", "peacock",
     "actor", "actress", "cast member", "cult classic", "sci-fi series", "spy thriller",
+    "director", "filmmaker", "screening", "theatrical", "cinema", "final scene", "ending",
+    "marvel cinematic universe", " mcu ",
     "сериал", "сезон", "эпизод", "серия сериала", "стриминг", "бесплатного просмотра",
-    "фильм", "кино", "актёр", "актер", "актриса", "телесериал",
+    "фильм", "кино", "актёр", "актер", "актриса", "режиссёр", "режиссер", "сеанс",
+    "кинематограф", "финальная сцена", "концовка",
 )
 
 
@@ -47,6 +50,19 @@ def _obvious_non_gaming_entertainment(story: bot.Story) -> bool:
     if score >= 2:
         return True
 
+    # Mixed outlets frequently publish superhero/movie pieces whose short RSS title
+    # mentions only a director and a cinematic franchise. These are not gaming news.
+    cinematic_franchise = any(marker in text for marker in (
+        "avengers", "marvel cinematic universe", " mcu ", "star wars", "doctor who",
+        "star trek", "the conjuring", "lord of the rings movie",
+    ))
+    cinematic_context = any(marker in text for marker in (
+        "director", "filmmaker", "movie", "film", "screening", "theatrical", "final scene",
+        "ending", "actor", "actress", "cast",
+    ))
+    if cinematic_franchise and cinematic_context:
+        return True
+
     # Catch obvious TV/streaming slugs even if RSS summaries are very short.
     path = story.url.casefold()
     if any(marker in path for marker in ("stream-free", "streaming", "tv-series", "movie", "film")):
@@ -55,7 +71,7 @@ def _obvious_non_gaming_entertainment(story: bot.Story) -> bool:
 
     # Common title forms from mixed gaming/entertainment outlets.
     title = story.title.casefold()
-    if re.search(r"\b(series|season|episode|movie|film)\b", title) and score >= 1:
+    if re.search(r"\b(series|season|episode|movie|film|director|screening)\b", title) and score >= 1:
         return True
     return False
 
