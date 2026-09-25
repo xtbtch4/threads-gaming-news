@@ -4613,7 +4613,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ACE_2026_8K.jpg?w=300",
       "threads_published_at": "2026-09-25T14:08:05.406429+00:00"
+    },
+    {
+      "fingerprint": "e008ef07da7ddac8045055d1",
+      "title": "Blizzard Insists Actual Humans Are Reading Through All the WoW Forever Beta Character Names It Banned Players for This Week",
+      "url": "https://ign.com/articles/blizzard-insists-actual-humans-are-reading-through-all-the-wow-forever-beta-character-names-it-banned-players-for-this-week",
+      "source": "IGN",
+      "published_at_source": "2026-09-25T13:33:49+00:00",
+      "score": 11,
+      "event_key": "blizzard_bans_players_for_character_names_in_wow_forever_beta",
+      "title_ru": "Blizzard подтвердила ручную проверку никнеймов в World of Warcraft: Forever beta",
+      "threads_teaser_ru": "Blizzard банит участников тестирования World of Warcraft: Forever beta за оскорбительные никнеймы. Игроки сомневались в справедливости решений, но разработчики подтвердили ручную проверку.",
+      "telegram_message_id": "282",
+      "telegram_url": "https://t.me/gamepulse_newss/282",
+      "telegram_published_at": "2026-09-25T14:17:29.484526+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-25T14:08:05.406513+00:00"
+  "updated_at": "2026-09-25T14:17:29.484917+00:00"
 }
