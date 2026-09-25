@@ -4389,9 +4389,10 @@
       "telegram_message_id": "268",
       "telegram_url": "https://t.me/gamepulse_newss/268",
       "telegram_published_at": "2026-09-25T10:41:20.247949+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2022/08/20/avengersendgame-10bestmoments-blogroll-1564703094919-1660966839450.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2022/08/20/avengersendgame-10bestmoments-blogroll-1564703094919-1660966839450.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-25T10:41:21.427174+00:00"
     }
   ],
-  "updated_at": "2026-09-25T10:41:20.248258+00:00"
+  "updated_at": "2026-09-25T10:41:21.427247+00:00"
 }
