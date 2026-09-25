@@ -4460,7 +4460,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Hytale-Chapter-1-dungeon.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-25T12:03:09.532381+00:00"
+    },
+    {
+      "fingerprint": "0b7d5536655a9c8b01ded1c8",
+      "title": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
+      "url": "https://eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-25T12:10:19+00:00",
+      "score": 15,
+      "event_key": "build a rocket boy enters administration",
+      "title_ru": "Студия Build a Rocket Boy подала заявление о банкротстве",
+      "threads_teaser_ru": "Студия Build a Rocket Boy подала заявление о внешней администрации после новой волны увольнений и финансовых проблем. Ранее коллектив выпустил шутер MindsEye, получивший разгромные отзывы.",
+      "telegram_message_id": "273",
+      "telegram_url": "https://t.me/gamepulse_newss/273",
+      "telegram_published_at": "2026-09-25T12:16:42.590611+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/MindsEye---Official-Launch-Trailer-_-PS5-Games-0-49-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-25T12:03:09.532460+00:00"
+  "updated_at": "2026-09-25T12:16:42.590859+00:00"
 }
