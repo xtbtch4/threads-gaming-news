@@ -4221,7 +4221,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/18/screenshot-2026-09-17-232936-1789712987495.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T05:17:38.434696+00:00"
+    },
+    {
+      "fingerprint": "40b9c799e3c5bfc15ef9747b",
+      "title": "PC Gaming News",
+      "url": "https://rockpapershotgun.com/news",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-24T12:07:00+00:00",
+      "score": 6,
+      "event_key": "rebel wolves blood of dawnwalker first patch difficulty mode",
+      "title_ru": "Первый крупный патч для The Blood of Dawnwalker выйдет в следующем месяце",
+      "threads_teaser_ru": "Разработчики Rebel Wolves анонсировали первый крупный патч для The Blood of Dawnwalker. Он принесет в игру долгожданный сюжетный режим и более простой уровень сложности.",
+      "telegram_message_id": "259",
+      "telegram_url": "https://t.me/gamepulse_newss/259",
+      "telegram_published_at": "2026-09-25T07:22:05.686426+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/love-alt-delete.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-25T05:17:38.434780+00:00"
+  "updated_at": "2026-09-25T07:22:05.686498+00:00"
 }
