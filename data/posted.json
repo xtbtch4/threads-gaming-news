@@ -5328,9 +5328,10 @@
       "telegram_message_id": "323",
       "telegram_url": "https://t.me/gamepulse_newss/323",
       "telegram_published_at": "2026-09-25T19:57:28.904714+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-ace-combat-8-deal-pre-order.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-ace-combat-8-deal-pre-order.jpg?w=300",
+      "threads_published_at": "2026-09-25T19:57:30.130271+00:00"
     }
   ],
-  "updated_at": "2026-09-25T19:57:28.905044+00:00"
+  "updated_at": "2026-09-25T19:57:30.130348+00:00"
 }
