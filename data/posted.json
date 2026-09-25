@@ -4647,7 +4647,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/25/ss-6773ca4386fb78b10c987902bf2f66a1038d7829-1920x1080-1790334651616.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-25T14:26:28.729283+00:00"
+    },
+    {
+      "fingerprint": "ec91d3efeb1ccb8e73d0856e",
+      "title": "Celebrate Delta Force’s 2nd Anniversary With New Ways to Play, Exclusive Rewards, and More",
+      "url": "https://news.xbox.com/en-us/2026/09/25/delta-force-second-anniversary-interview",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-09-25T15:00:00+00:00",
+      "score": 12,
+      "event_key": "delta-force-second-anniversary-update-2026",
+      "title_ru": "Delta Force празднует вторую годовщину",
+      "threads_teaser_ru": "Delta Force отмечает двухлетние успехи масштабным обновлением и праздничными наградами. Разработчики приготовили улучшения интерфейса, новые локации вроде Layali Grove 2.0 с рыбалкой, оперативников Rover и Clover, а также контент для режима Warfare.",
+      "telegram_message_id": "284",
+      "telegram_url": "https://t.me/gamepulse_newss/284",
+      "telegram_published_at": "2026-09-25T15:04:16.903591+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Key-Art-cf56814b12c52984742a.jpg"
     }
   ],
-  "updated_at": "2026-09-25T14:26:28.729360+00:00"
+  "updated_at": "2026-09-25T15:04:16.903982+00:00"
 }
