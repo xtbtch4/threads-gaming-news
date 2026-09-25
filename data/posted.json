@@ -4593,9 +4593,10 @@
       "telegram_message_id": "280",
       "telegram_url": "https://t.me/gamepulse_newss/280",
       "telegram_published_at": "2026-09-25T14:02:41.707961+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/NWOX_HERO_JPG-77b9d7d8c68d7f8d346a.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/NWOX_HERO_JPG-77b9d7d8c68d7f8d346a.jpg",
+      "threads_published_at": "2026-09-25T14:02:43.366924+00:00"
     }
   ],
-  "updated_at": "2026-09-25T14:02:41.708278+00:00"
+  "updated_at": "2026-09-25T14:02:43.367008+00:00"
 }
