@@ -8,6 +8,7 @@ import bot
 import publisher  # applies studio sources, dedupe and Gemini/source-language fallback
 import cross_source_dedupe  # strict semantic dedupe across different gaming outlets
 import gemini_priority  # try Gemini 3.5 Flash Lite on every key before 3.1 Flash Lite
+import title_guard  # correct one-off hallucinated work names using repeated body wording
 import telegram_cleanup  # remove body intro when it repeats the Telegram headline
 import media_cleanup  # reject JPG/PNG/etc. mistakenly detected as gameplay video
 import direct_feeds  # wraps the active collector with direct first-party/outlet RSS feeds
