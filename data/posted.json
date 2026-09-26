@@ -6118,7 +6118,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Wire_EP286-3c39b574eab193c9cbae.jpg",
       "threads_published_at": "2026-09-26T19:16:52.855066+00:00"
+    },
+    {
+      "fingerprint": "303a6384a253837d276f7530",
+      "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
+      "url": "https://gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-26T17:30:00+00:00",
+      "score": 12,
+      "event_key": "minecraft_update_adds_ice_caves_frozen_zombie_2026",
+      "title_ru": "Следующее обновление Minecraft добавит ледяные пещеры и нового моба",
+      "threads_teaser_ru": "Анонсировано следующее обновление Minecraft, которое выйдет в декабре 2026 года и добавит ледяные пещеры, ледяные кристаллы и опасного нового моба Frozen Zombie с механикой заморозки.",
+      "telegram_message_id": "370",
+      "telegram_url": "https://t.me/gamepulse_newss/370",
+      "telegram_published_at": "2026-09-26T19:32:33.612129+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MCV_Frozen_Zombie_1920x1080.png?w=300"
     }
   ],
-  "updated_at": "2026-09-26T19:16:52.855144+00:00"
+  "updated_at": "2026-09-26T19:32:33.612289+00:00"
 }
