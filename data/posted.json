@@ -6064,9 +6064,10 @@
       "telegram_message_id": "366",
       "telegram_url": "https://t.me/gamepulse_newss/366",
       "telegram_published_at": "2026-09-26T18:32:20.559655+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MINECRAFT-DUNGEONS-II-_-Official-Gameplay-Trailer-0-14-screenshot-1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MINECRAFT-DUNGEONS-II-_-Official-Gameplay-Trailer-0-14-screenshot-1.jpg?w=300",
+      "threads_published_at": "2026-09-26T18:32:21.943551+00:00"
     }
   ],
-  "updated_at": "2026-09-26T18:32:20.559819+00:00"
+  "updated_at": "2026-09-26T18:32:21.943636+00:00"
 }
