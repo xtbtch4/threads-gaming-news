@@ -5691,7 +5691,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/26174007.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-26T08:06:19.639722+00:00"
+    },
+    {
+      "fingerprint": "6f03021f8899a7ce4198e752",
+      "title": "5 Classic Sci-Fi Books That Are Perfect From Start to Finish",
+      "url": "https://polygon.com/classic-sci-fi-perfect-start-finish",
+      "source": "Polygon",
+      "published_at_source": "2026-09-26T10:00:14+00:00",
+      "score": 6,
+      "event_key": "polygon_selects_five_classic_sci_fi_books",
+      "title_ru": "Пять классических научно-фантастических книг от Polygon",
+      "threads_teaser_ru": "Издание Polygon представило подборку из пяти классических научно-фантастических произведений, среди которых выделяются романы Dune, The Left Hand of Darkness, Neuromancer, Childhood’s End и Roadside Picnic.",
+      "telegram_message_id": "345",
+      "telegram_url": "https://t.me/gamepulse_newss/345",
+      "telegram_published_at": "2026-09-26T10:01:51.083187+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dune-part-two-muad-dib.webp?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-26T08:06:19.639792+00:00"
+  "updated_at": "2026-09-26T10:01:51.083498+00:00"
 }
