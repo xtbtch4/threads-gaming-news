@@ -6169,7 +6169,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/MCLFALL26-YouTubeThumbnail_1920x1080-fa2e4835950c1affa6e5.jpg",
       "threads_published_at": "2026-09-26T20:03:05.546414+00:00"
+    },
+    {
+      "fingerprint": "5fd18ab015d1bfb19552e782",
+      "title": "Discord Users are Massacring Wumpus in Increasingly Gruesome Ways to Protest Platform's Age Verification System",
+      "url": "https://ign.com/articles/discord-users-are-massacring-wumpus-in-increasingly-gruesome-ways-to-protest-platforms-age-verification-system",
+      "source": "IGN",
+      "published_at_source": "2026-09-26T19:49:18+00:00",
+      "score": 9,
+      "event_key": "discord_users_protest_age_verification_wumpus_art",
+      "title_ru": "Пользователи Discord протестируют против системы возрастной верификации через арты с маскотом Wumpus",
+      "threads_teaser_ru": "Пользователи Discord устроили флешмоб с жестокими изображениями маскота Wumpus в знак протеста против новой системы возрастной верификации и проблем с конфиденциальностью данных.",
+      "telegram_message_id": "373",
+      "telegram_url": "https://t.me/gamepulse_newss/373",
+      "telegram_published_at": "2026-09-26T20:17:25.311557+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/26/discord-wumpus-1790452002054.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-26T20:03:05.546504+00:00"
+  "updated_at": "2026-09-26T20:17:25.311946+00:00"
 }
