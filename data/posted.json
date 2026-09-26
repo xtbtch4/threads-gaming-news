@@ -5978,9 +5978,10 @@
       "telegram_message_id": "361",
       "telegram_url": "https://t.me/gamepulse_newss/361",
       "telegram_published_at": "2026-09-26T17:16:41.888285+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2024/03/28/melissa-barrera-comments-scream-7-1711648434561.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2024/03/28/melissa-barrera-comments-scream-7-1711648434561.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-26T17:16:43.117849+00:00"
     }
   ],
-  "updated_at": "2026-09-26T17:16:41.888565+00:00"
+  "updated_at": "2026-09-26T17:16:43.117929+00:00"
 }
