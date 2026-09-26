@@ -6302,10 +6302,11 @@
       "telegram_message_id": "380",
       "telegram_url": "https://t.me/gamepulse_newss/380",
       "telegram_published_at": "2026-09-26T23:02:25.836385+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/devin-berko-dvrtk5en9em-unsplash.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/solving-the-zelda-timeline-in-15-minutes-unraveled-1790247926.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/solving-the-zelda-timeline-in-15-minutes-unraveled-1790247926.mp4",
+      "threads_published_at": "2026-09-26T23:02:27.223518+00:00"
     }
   ],
-  "updated_at": "2026-09-26T23:02:25.836678+00:00"
+  "updated_at": "2026-09-26T23:02:27.223622+00:00"
 }
