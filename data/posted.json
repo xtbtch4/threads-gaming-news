@@ -5605,7 +5605,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/19/ea-fc-27-1789778341891.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-26T00:02:50.521629+00:00"
+    },
+    {
+      "fingerprint": "eea5f74cd90a6a38442df0aa",
+      "title": "Here’s Why Fortnite Sucks This Season",
+      "url": "https://gamespot.com/articles/heres-why-fortnite-sucks-this-season",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-26T01:52:38+00:00",
+      "score": 6,
+      "event_key": "fortnite chapter 7 season 4 player drop and gimmicks",
+      "title_ru": "Проблемы Fortnite в текущем сезоне",
+      "threads_teaser_ru": "Текущий сезон Fortnite сталкивается с серьезной критикой и падением числа игроков из-за обилия случайных и меняющих правила матча механик в режиме Battle Royale.",
+      "telegram_message_id": "340",
+      "telegram_url": "https://t.me/gamepulse_newss/340",
+      "telegram_published_at": "2026-09-26T02:17:05.093202+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fortnite-override.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-26T00:02:50.521712+00:00"
+  "updated_at": "2026-09-26T02:17:05.093479+00:00"
 }
