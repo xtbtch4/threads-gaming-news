@@ -5670,10 +5670,11 @@
       "telegram_message_id": "343",
       "telegram_url": "https://t.me/gamepulse_newss/343",
       "telegram_published_at": "2026-09-26T08:01:59.596558+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/game-changer-s8-rulette-2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/game-changer-season-8-trailer-dropout-exclusive-series-1783529442.mp4"
+      "video_url": "https://video.polygonimages.com/2026/07/game-changer-season-8-trailer-dropout-exclusive-series-1783529442.mp4",
+      "threads_published_at": "2026-09-26T08:02:00.808994+00:00"
     }
   ],
-  "updated_at": "2026-09-26T08:01:59.596897+00:00"
+  "updated_at": "2026-09-26T08:02:00.809092+00:00"
 }
