@@ -5773,9 +5773,10 @@
       "telegram_message_id": "349",
       "telegram_url": "https://t.me/gamepulse_newss/349",
       "telegram_published_at": "2026-09-26T12:19:17.136239+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/silksong-credits.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/silksong-credits.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-26T12:19:18.974066+00:00"
     }
   ],
-  "updated_at": "2026-09-26T12:19:17.136522+00:00"
+  "updated_at": "2026-09-26T12:19:18.974141+00:00"
 }
