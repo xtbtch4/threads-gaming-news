@@ -5619,9 +5619,10 @@
       "telegram_message_id": "340",
       "telegram_url": "https://t.me/gamepulse_newss/340",
       "telegram_published_at": "2026-09-26T02:17:05.093202+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fortnite-override.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fortnite-override.jpg?w=300",
+      "threads_published_at": "2026-09-26T02:17:06.501421+00:00"
     }
   ],
-  "updated_at": "2026-09-26T02:17:05.093479+00:00"
+  "updated_at": "2026-09-26T02:17:06.501502+00:00"
 }
