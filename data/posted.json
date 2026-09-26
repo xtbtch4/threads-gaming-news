@@ -5653,9 +5653,10 @@
       "telegram_message_id": "342",
       "telegram_url": "https://t.me/gamepulse_newss/342",
       "telegram_published_at": "2026-09-26T07:06:09.090686+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/battle-cats-what-we've-been-playing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/battle-cats-what-we've-been-playing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-26T07:06:10.202931+00:00"
     }
   ],
-  "updated_at": "2026-09-26T07:06:09.091015+00:00"
+  "updated_at": "2026-09-26T07:06:10.203099+00:00"
 }
