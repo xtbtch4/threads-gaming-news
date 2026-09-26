@@ -5708,7 +5708,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dune-part-two-muad-dib.webp?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-26T10:01:52.312032+00:00"
+    },
+    {
+      "fingerprint": "d9bc0934ef10e2989fae80bf",
+      "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+      "url": "https://eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-26T10:18:58+00:00",
+      "score": 11,
+      "event_key": "US court orders former Reddit moderator to pay Nintendo damages",
+      "title_ru": "Суд обязал бывшего модератора Reddit выплатить Nintendo £3,4 млн",
+      "threads_teaser_ru": "Nintendo выиграла суд против бывшего модератора Reddit, известного как «Archbox». Ответчика обязали выплатить £3,4 млн за организацию сети по распространению пиратских копий игр для Switch. Суд также наложил бессрочный запрет на любую подобную деятельность.",
+      "telegram_message_id": "346",
+      "telegram_url": "https://t.me/gamepulse_newss/346",
+      "telegram_published_at": "2026-09-26T10:47:59.302765+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Mario-looks-shocked-on-a-grassy-plain-in-Mario-Odyssey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-26T10:01:52.312121+00:00"
+  "updated_at": "2026-09-26T10:47:59.303095+00:00"
 }
