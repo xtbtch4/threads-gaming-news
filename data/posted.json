@@ -5842,9 +5842,10 @@
       "telegram_message_id": "353",
       "telegram_url": "https://t.me/gamepulse_newss/353",
       "telegram_published_at": "2026-09-26T14:04:23.293573+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/mlb-the-show-lockout.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/mlb-the-show-lockout.jpeg?w=300",
+      "threads_published_at": "2026-09-26T14:04:24.519684+00:00"
     }
   ],
-  "updated_at": "2026-09-26T14:04:23.293922+00:00"
+  "updated_at": "2026-09-26T14:04:24.519758+00:00"
 }
