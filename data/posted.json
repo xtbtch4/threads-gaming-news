@@ -6271,7 +6271,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/video-game-menu-the-game.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-26T21:32:49.086748+00:00"
+    },
+    {
+      "fingerprint": "42f91e93d2b71f90bc5b9cdc",
+      "title": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
+      "url": "https://rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-26T21:55:08+00:00",
+      "score": 8,
+      "event_key": "talon-towers-announced-parkour-platformer",
+      "title_ru": "Анонсирован паркур-платформер TALON TOWERS",
+      "threads_teaser_ru": "Анонсирован новый паркур-платформер TALON TOWERS от автора BETON BRUTAL. Игра вдохновлена стилем Фумито Уэды и предлагает покорять гигантские древние башни над бесконечным туманом.",
+      "telegram_message_id": "379",
+      "telegram_url": "https://t.me/gamepulse_newss/379",
+      "telegram_published_at": "2026-09-26T22:03:02.017587+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/talon-towers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-26T21:32:49.086801+00:00"
+  "updated_at": "2026-09-26T22:03:02.017818+00:00"
 }
