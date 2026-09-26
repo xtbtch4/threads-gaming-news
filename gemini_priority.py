@@ -6,11 +6,32 @@ import bot
 import publisher
 
 
-# Hard priority order requested for translation/rewriting.
+# Only these two Gemini models are allowed anywhere in the runtime.
 _MODEL_ORDER = (
     "gemini-3.5-flash-lite",
     "gemini-3.1-flash-lite",
 )
+_ALLOWED_MODELS = set(_MODEL_ORDER)
+
+
+# bot.py still contains an old non-Lite default for GEMINI_MODEL. Guard the config
+# at runtime so gemini-3.5-flash can never be called even if an environment variable
+# is missing or misconfigured.
+_original_gemini_config = bot.gemini_config
+
+
+def gemini_config_lite_only() -> tuple[str, str, str]:
+    key, model, fallback = _original_gemini_config()
+    if model not in _ALLOWED_MODELS:
+        bot.LOG.warning("Blocked disallowed Gemini model %s; forcing gemini-3.5-flash-lite", model)
+        model = "gemini-3.5-flash-lite"
+    if fallback not in _ALLOWED_MODELS:
+        bot.LOG.warning("Blocked disallowed Gemini fallback %s; forcing gemini-3.1-flash-lite", fallback)
+        fallback = "gemini-3.1-flash-lite"
+    return key, model, fallback
+
+
+bot.gemini_config = gemini_config_lite_only
 
 
 def rewrite_story_gemini_priority(story: bot.Story) -> tuple[bot.Rendered, str]:
@@ -25,11 +46,11 @@ def rewrite_story_gemini_priority(story: bot.Story) -> tuple[bot.Rendered, str]:
 
     try:
         # Exhaust every configured project with Gemini 3.5 Flash Lite first.
-        # Gemini 3.1 Flash Lite is only used if 3.5 fails on every key.
+        # Gemini 3.1 Flash Lite is only used if 3.5 Flash Lite fails on every key.
         for model_index, model in enumerate(_MODEL_ORDER, start=1):
             os.environ["GEMINI_MODEL"] = model
             # bot.rewrite_story internally tries primary/fallback. Set both to the
-            # same model so it cannot jump to 3.1 before all 3.5 keys are exhausted.
+            # same model so it cannot jump to 3.1 before all 3.5 Lite keys are exhausted.
             os.environ["GEMINI_FALLBACK_MODEL"] = model
             if model_index == 2:
                 bot.LOG.warning(
