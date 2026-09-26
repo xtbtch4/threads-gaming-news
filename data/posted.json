@@ -5896,7 +5896,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/abby-last-of-us.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-26T15:33:03.456694+00:00"
+    },
+    {
+      "fingerprint": "b1e43568bfa85f87db3a1eaa",
+      "title": "BioWare: A Division of EA",
+      "url": "https://bioware.com",
+      "source": "BioWare",
+      "published_at_source": "2026-09-26T15:36:00+00:00",
+      "score": 11,
+      "event_key": "bioware develops console pc and online role-playing games since 1995",
+      "title_ru": "О студии BioWare",
+      "threads_teaser_ru": "С 1995 года студия BioWare создает высококачественные ролевые игры для ПК, консолей и онлайн-платформ, уделяя особое внимание сюжетам и огромным мирам.",
+      "telegram_message_id": "357",
+      "telegram_url": "https://t.me/gamepulse_newss/357",
+      "telegram_published_at": "2026-09-26T15:46:58.521111+00:00",
+      "threads_id": null,
+      "image_url": "https://www.bioware.com/wp-content/themes/bioware/assets/img/apple-touch-icon-144x144.png"
     }
   ],
-  "updated_at": "2026-09-26T15:33:03.456774+00:00"
+  "updated_at": "2026-09-26T15:46:58.521382+00:00"
 }
