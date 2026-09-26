@@ -5981,7 +5981,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/03/28/melissa-barrera-comments-scream-7-1711648434561.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-26T17:16:43.117849+00:00"
+    },
+    {
+      "fingerprint": "934b62531bf3f4c9dbff94f5",
+      "title": "13 Most Influential Video Games of the Past 45 Years",
+      "url": "https://polygon.com/most-influential-video-games",
+      "source": "Polygon",
+      "published_at_source": "2026-09-26T17:23:35+00:00",
+      "score": 8,
+      "event_key": "polygon_most_influential_video_games_list",
+      "title_ru": "Самые влиятельные видеоигры за последние 45 лет",
+      "threads_teaser_ru": "Издание Polygon представило подборку из 13 самых влиятельных видеоигр за последние 45 лет. В список вошли культовые проекты вроде Pac-Man, Tetris, Super Mario Bros. и Street Fighter 2, которые навсегда изменили индустрию и сформировали целые жанры.",
+      "telegram_message_id": "362",
+      "telegram_url": "https://t.me/gamepulse_newss/362",
+      "telegram_published_at": "2026-09-26T17:32:02.547079+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/06/doom-the-dark-ages-revelations-official-4k-trailer-xbox-games-showcase-2026-1780853885.mp4"
     }
   ],
-  "updated_at": "2026-09-26T17:16:43.117929+00:00"
+  "updated_at": "2026-09-26T17:32:02.547410+00:00"
 }
