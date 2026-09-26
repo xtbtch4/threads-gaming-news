@@ -5910,9 +5910,10 @@
       "telegram_message_id": "357",
       "telegram_url": "https://t.me/gamepulse_newss/357",
       "telegram_published_at": "2026-09-26T15:46:58.521111+00:00",
-      "threads_id": null,
-      "image_url": "https://www.bioware.com/wp-content/themes/bioware/assets/img/apple-touch-icon-144x144.png"
+      "threads_id": "disabled",
+      "image_url": "https://www.bioware.com/wp-content/themes/bioware/assets/img/apple-touch-icon-144x144.png",
+      "threads_published_at": "2026-09-26T15:46:59.858236+00:00"
     }
   ],
-  "updated_at": "2026-09-26T15:46:58.521382+00:00"
+  "updated_at": "2026-09-26T15:46:59.858317+00:00"
 }
