@@ -5947,7 +5947,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/26/minecraftlive-live-blogroll-1790434084403.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-26T16:16:25.221092+00:00"
+    },
+    {
+      "fingerprint": "6dd2b346fbaf534ccddd8f4e",
+      "title": "Larian Officially Ended Baldur's Gate 3 DLC. Modders Missed the Memo",
+      "url": "https://polygon.com/bg3-modders-keep-making-dlc-sized-expansions",
+      "source": "Polygon",
+      "published_at_source": "2026-09-26T17:00:15+00:00",
+      "score": 12,
+      "event_key": "modders create dlc sized expansions for baldurs gate 3",
+      "title_ru": "Моддеры продолжают создавать масштабные кампании для Baldur's Gate 3",
+      "threads_teaser_ru": "Larian Studios давно закрыла тему официальных DLC для Baldur's Gate 3, но фанатское сообщество вовсю восполняет этот пробел. Моддеры выпускают масштабные сюжетные кампании с новыми регионами и озвучкой.",
+      "telegram_message_id": "360",
+      "telegram_url": "https://t.me/gamepulse_newss/360",
+      "telegram_published_at": "2026-09-26T17:02:19.688254+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bg3-a-dream-of-silence.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-26T16:16:25.221172+00:00"
+  "updated_at": "2026-09-26T17:02:19.688571+00:00"
 }
