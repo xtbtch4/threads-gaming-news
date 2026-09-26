@@ -26,7 +26,8 @@ concurrency:
 
 jobs:
   publish:
-    # cron-job.org triggers repository_dispatch every 5 minutes.
+    # cron-job.org still dispatches every 5 minutes, but the cadence gate below
+    # allows only every second dispatch to perform a news search (10 minutes).
     if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event_name == 'repository_dispatch' }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
@@ -56,10 +57,30 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Enforce 10-minute search cadence
+        id: cadence
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" != "repository_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "Manual/push run: cadence gate bypassed"
+            exit 0
+          fi
+
+          slot=$(( $(date -u +%s) / 300 ))
+          if [ $((slot % 2)) -eq 0 ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "10-minute cadence: this dispatch will search for news"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "10-minute cadence: skipping this 5-minute dispatch"
+          fi
+
       # repository_dispatch runs keep the commit SHA from the moment they were
       # queued. Always move to the current main before reading posted.json so a
       # delayed run cannot publish from stale history.
       - name: Refresh latest main and publication history
+        if: steps.cadence.outputs.run == 'true'
         run: |
           git fetch origin main
           git checkout main
@@ -67,15 +88,18 @@ jobs:
           echo "Using latest main: $(git rev-parse HEAD)"
 
       - name: Set up Python
+        if: steps.cadence.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: steps.cadence.outputs.run == 'true'
         run: pip install -r requirements.txt
 
       - name: Collect and publish gaming news
+        if: steps.cadence.outputs.run == 'true'
         run: |
           if [ "$DRY_RUN" = "true" ] && \
              [ -z "$GEMINI_API_KEY" ] && [ -z "$GEMINI_API_KEY_2" ] && \
@@ -89,7 +113,7 @@ jobs:
           fi
 
       - name: Save publication history safely
-        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
+        if: ${{ steps.cadence.outputs.run == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
         run: |
           if git diff --quiet -- data/posted.json; then
             echo "No history changes"
