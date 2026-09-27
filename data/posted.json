@@ -6390,9 +6390,10 @@
       "telegram_message_id": "385",
       "telegram_url": "https://t.me/gamepulse_newss/385",
       "telegram_published_at": "2026-09-27T09:47:02.709812+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/minecraft-cushions.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/minecraft-cushions.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-27T09:47:04.152920+00:00"
     }
   ],
-  "updated_at": "2026-09-27T09:47:02.709889+00:00"
+  "updated_at": "2026-09-27T09:47:04.153001+00:00"
 }
