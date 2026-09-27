@@ -43,12 +43,32 @@ SYNONYMS = {
     "revealed": "announce",
     "unveils": "announce",
     "unveiled": "announce",
+    "costs": "cost",
+    "costing": "cost",
+    "priced": "price",
+    "prices": "price",
+    "payments": "payment",
+    "paying": "payment",
+    "paid": "payment",
+    "funded": "funding",
+    "funds": "funding",
+    "funding": "funding",
+    "budgets": "budget",
+    "millions": "million",
 }
 
 CONTEXT_TOKENS = {
     "update", "announce", "release", "launch", "delay", "cancel", "shutdown",
     "acquisition", "merger", "expansion", "dlc", "trailer", "showcase",
     "restructure",
+}
+
+# Financial stories about the same named game/company often use very different
+# verbs ("paying a fraction", "budget remains a mystery", "cost reportedly...").
+# Treat these as one topic, but only when strong named-entity anchors also match.
+BUDGET_TOKENS = {
+    "budget", "cost", "price", "payment", "funding", "million", "billion",
+    "spend", "spending", "finance", "financing", "fund",
 }
 
 # Words that are often capitalized merely because they occur in a headline but do
@@ -76,12 +96,19 @@ STOPWORDS = {
 }
 
 
+def _canonical_token(token: str) -> str:
+    token = (token or "").casefold().replace("’", "'")
+    if token.endswith("'s") and len(token) > 3:
+        token = token[:-2]
+    return SYNONYMS.get(token, token)
+
+
 def _tokens(text: str) -> set[str]:
-    text = (text or "").replace("_", " ").casefold()
-    raw = re.findall(r"[a-zа-яё0-9][a-zа-яё0-9-]{2,}", text)
+    text = (text or "").replace("_", " ").casefold().replace("’", "'")
+    raw = re.findall(r"[a-zа-яё0-9][a-zа-яё0-9'-]{2,}", text)
     result: set[str] = set()
     for token in raw:
-        token = SYNONYMS.get(token, token)
+        token = _canonical_token(token)
         if token in STOPWORDS:
             continue
         result.add(token)
@@ -90,9 +117,9 @@ def _tokens(text: str) -> set[str]:
 
 def _headline_entities(title: str) -> set[str]:
     entities: set[str] = set()
-    for raw in re.findall(r"[A-Za-zА-Яа-яЁё0-9][A-Za-zА-Яа-яЁё0-9'-]{1,}", title or ""):
-        canonical = SYNONYMS.get(raw.casefold(), raw.casefold())
-        if canonical in CONTEXT_TOKENS or canonical in NON_ENTITY_TOKENS or canonical in STOPWORDS:
+    for raw in re.findall(r"[A-Za-zА-Яа-яЁё0-9][A-Za-zА-Яа-яЁё0-9'’-]{1,}", title or ""):
+        canonical = _canonical_token(raw)
+        if canonical in CONTEXT_TOKENS or canonical in BUDGET_TOKENS or canonical in NON_ENTITY_TOKENS or canonical in STOPWORDS:
             continue
         # Proper names/acronyms/numerical franchise markers are useful anchors.
         if raw[0].isupper() or raw.isupper() or any(ch.isdigit() for ch in raw):
@@ -131,13 +158,20 @@ def _same_cross_source_event(story: bot.Story, item: dict) -> bool:
     if len(shared_entities) < 2:
         return False
 
+    new_tokens = _tokens(story.title)
+    old_tokens = _tokens(f"{item.get('title') or ''} {item.get('event_key') or ''}")
+
+    # Budget/cost reports are a special cross-source case: headlines frequently use
+    # unrelated verbs but still describe the same financial claim. Two strong named
+    # entities plus the finance topic are sufficient to identify the same event.
+    if (new_tokens & BUDGET_TOKENS) and (old_tokens & BUDGET_TOKENS):
+        return True
+
     # Event/action compatibility must come from the headline/event-key layer. This
     # prevents two different stories about the same game from being merged merely
     # because both article bodies mention an update somewhere.
-    new_actions = _tokens(story.title) & CONTEXT_TOKENS
-    old_actions = _tokens(
-        f"{item.get('title') or ''} {item.get('event_key') or ''}"
-    ) & CONTEXT_TOKENS
+    new_actions = new_tokens & CONTEXT_TOKENS
+    old_actions = old_tokens & CONTEXT_TOKENS
     if not (new_actions & old_actions):
         return False
 
@@ -165,12 +199,16 @@ def known_story_strict(story: bot.Story, state: dict) -> bool:
 def event_seen_strict(event_key: str, state: dict) -> bool:
     new_tokens = _tokens(event_key)
     new_actions = new_tokens & CONTEXT_TOKENS
+    new_budget = new_tokens & BUDGET_TOKENS
     for item in state.get("items", []):
         old_key = str(item.get("event_key") or "")
         if not old_key:
             continue
         old_tokens = _tokens(old_key)
-        shared = (new_tokens & old_tokens) - CONTEXT_TOKENS - NON_ENTITY_TOKENS
+        shared = (new_tokens & old_tokens) - CONTEXT_TOKENS - BUDGET_TOKENS - NON_ENTITY_TOKENS
+
+        if len(shared) >= 2 and new_budget and (old_tokens & BUDGET_TOKENS):
+            return True
         if len(shared) >= 2 and new_actions & (old_tokens & CONTEXT_TOKENS):
             return True
         if bot.event_similarity(event_key, old_key) >= 0.60:
