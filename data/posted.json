@@ -6581,10 +6581,11 @@
       "telegram_message_id": "396",
       "telegram_url": "https://t.me/gamepulse_newss/396",
       "telegram_published_at": "2026-09-27T17:02:21.810396+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/controlresonant_feature_lead2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4",
+      "threads_published_at": "2026-09-27T17:02:23.039114+00:00"
     }
   ],
-  "updated_at": "2026-09-27T17:02:21.810654+00:00"
+  "updated_at": "2026-09-27T17:02:23.039203+00:00"
 }
