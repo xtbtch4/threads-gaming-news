@@ -6477,9 +6477,10 @@
       "telegram_message_id": "390",
       "telegram_url": "https://t.me/gamepulse_newss/390",
       "telegram_published_at": "2026-09-27T14:32:36.272006+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/physint-skasgard.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/physint-skasgard.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-27T14:32:37.682976+00:00"
     }
   ],
-  "updated_at": "2026-09-27T14:32:36.272265+00:00"
+  "updated_at": "2026-09-27T14:32:37.683057+00:00"
 }
