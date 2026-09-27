@@ -6529,9 +6529,10 @@
       "telegram_message_id": "393",
       "telegram_url": "https://t.me/gamepulse_newss/393",
       "telegram_published_at": "2026-09-27T15:48:18.838630+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-27T15:48:20.295535+00:00"
     }
   ],
-  "updated_at": "2026-09-27T15:48:18.838914+00:00"
+  "updated_at": "2026-09-27T15:48:20.295614+00:00"
 }
