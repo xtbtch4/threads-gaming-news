@@ -6411,7 +6411,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/enterpriseincident.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4",
       "threads_published_at": "2026-09-27T11:17:44.247576+00:00"
+    },
+    {
+      "fingerprint": "06925d4ba39fb3b0053bf510",
+      "title": "The GTA Series is a Game Preservation Nightmare",
+      "url": "https://polygon.com/gta-game-preservation-classic-games-availability",
+      "source": "Polygon",
+      "published_at_source": "2026-09-27T12:00:17+00:00",
+      "score": 12,
+      "event_key": "rockstar_games_classic_gta_games_preservation_issue",
+      "title_ru": "Проблема сохранения классических частей серии Grand Theft Auto",
+      "threads_teaser_ru": "Большинство классических игр серии Grand Theft Auto остаются недоступными на современных платформах, включая PlayStation 5, что выделяется на фоне других крупных игровых серий.",
+      "telegram_message_id": "387",
+      "telegram_url": "https://t.me/gamepulse_newss/387",
+      "telegram_published_at": "2026-09-27T12:02:12.579209+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_duval_07.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-27T11:17:44.247687+00:00"
+  "updated_at": "2026-09-27T12:02:12.579510+00:00"
 }
