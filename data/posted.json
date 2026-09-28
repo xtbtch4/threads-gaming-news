@@ -6947,7 +6947,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/W3.png?w=300",
       "threads_published_at": "2026-09-28T18:32:35.185030+00:00"
+    },
+    {
+      "fingerprint": "cee6d43f0dc01ee40432b65b",
+      "title": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
+      "url": "https://eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-28T16:58:05+00:00",
+      "score": 13,
+      "event_key": "Ubisoft registers Motherbrain trademark for generative AI initiative",
+      "title_ru": "Ubisoft разрабатывает ИИ-инициативу под кодовым названием Motherbrain",
+      "threads_teaser_ru": "Стало известно внутреннее название новой ИИ-инициативы Ubisoft. Компания зарегистрировала торговую марку Motherbrain для своих будущих разработок в области генеративного искусственного интеллекта. Разбираемся, что именно может скрываться за этим названием.",
+      "telegram_message_id": "418",
+      "telegram_url": "https://t.me/gamepulse_newss/418",
+      "telegram_published_at": "2026-09-28T18:48:01.042081+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/RaymanLegendsRetold_06.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-28T18:32:35.185157+00:00"
+  "updated_at": "2026-09-28T18:48:01.042455+00:00"
 }
