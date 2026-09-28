@@ -6978,9 +6978,10 @@
       "telegram_message_id": "419",
       "telegram_url": "https://t.me/gamepulse_newss/419",
       "telegram_published_at": "2026-09-28T19:02:46.082453+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-4-Season-15-Secrets.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-4-Season-15-Secrets.jpg?w=300",
+      "threads_published_at": "2026-09-28T19:02:47.966842+00:00"
     }
   ],
-  "updated_at": "2026-09-28T19:02:46.082675+00:00"
+  "updated_at": "2026-09-28T19:02:47.966922+00:00"
 }
