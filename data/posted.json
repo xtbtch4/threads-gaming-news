@@ -6652,10 +6652,11 @@
       "telegram_message_id": "400",
       "telegram_url": "https://t.me/gamepulse_newss/400",
       "telegram_published_at": "2026-09-28T02:02:38.146803+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/aaron-pierre_2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/lanterns-midseason-trailer-hbo-max-1789655396.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/lanterns-midseason-trailer-hbo-max-1789655396.mp4",
+      "threads_published_at": "2026-09-28T02:02:39.514045+00:00"
     }
   ],
-  "updated_at": "2026-09-28T02:02:38.147226+00:00"
+  "updated_at": "2026-09-28T02:02:39.514151+00:00"
 }
