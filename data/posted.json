@@ -6896,7 +6896,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-witcher-3-yen-screenshot.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-28T17:47:38.144752+00:00"
+    },
+    {
+      "fingerprint": "f415a34c77baa2d87596ddb5",
+      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "url": "https://eurogamer.net/london-gta-rockstar-map-city-rockstar",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-28T17:53:19+00:00",
+      "score": 15,
+      "event_key": "youtuber_creates_gta_style_map_of_london",
+      "title_ru": "Фан-карта Лондона в стиле Grand Theft Auto",
+      "threads_teaser_ru": "YouTuber CityEd создал детальную карту Лондона в стиле Grand Theft Auto с фирменной сатирой Rockstar Games и измененными топонимами.",
+      "telegram_message_id": "415",
+      "telegram_url": "https://t.me/gamepulse_newss/415",
+      "telegram_published_at": "2026-09-28T18:02:45.091163+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA5_grandtheftauto.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-28T17:47:38.144863+00:00"
+  "updated_at": "2026-09-28T18:02:45.091280+00:00"
 }
