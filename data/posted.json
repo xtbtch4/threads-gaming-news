@@ -6893,9 +6893,10 @@
       "telegram_message_id": "414",
       "telegram_url": "https://t.me/gamepulse_newss/414",
       "telegram_published_at": "2026-09-28T17:47:36.267770+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-witcher-3-yen-screenshot.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-witcher-3-yen-screenshot.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-28T17:47:38.144752+00:00"
     }
   ],
-  "updated_at": "2026-09-28T17:47:36.267910+00:00"
+  "updated_at": "2026-09-28T17:47:38.144863+00:00"
 }
