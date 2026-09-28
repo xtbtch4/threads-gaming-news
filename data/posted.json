@@ -6790,9 +6790,10 @@
       "telegram_message_id": "408",
       "telegram_url": "https://t.me/gamepulse_newss/408",
       "telegram_published_at": "2026-09-28T10:46:19.114310+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GFXComp_Witcher3Remastered_V2.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GFXComp_Witcher3Remastered_V2.jpg?w=300",
+      "threads_published_at": "2026-09-28T10:46:20.798738+00:00"
     }
   ],
-  "updated_at": "2026-09-28T10:46:19.114404+00:00"
+  "updated_at": "2026-09-28T10:46:20.798820+00:00"
 }
