@@ -7049,7 +7049,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ps5logoreveal.png?w=300",
       "threads_published_at": "2026-09-28T20:34:17.918192+00:00"
+    },
+    {
+      "fingerprint": "0371863d6f249ffb7bf35c8b",
+      "title": "Activision Keeps Saying All The Right Things About Modern Warfare 4",
+      "url": "https://gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-28T20:22:41+00:00",
+      "score": 12,
+      "event_key": "Activision changes 2XP tokens behavior in Call of Duty: Modern Warfare 4",
+      "title_ru": "В Call of Duty: Modern Warfare 4 изменят работу жетонов двойного опыта",
+      "threads_teaser_ru": "Хорошие новости для игроков Call of Duty: Modern Warfare 4. Разработчики изменили механику жетонов 2XP: теперь они будут расходоваться только во время самих матчей, а не в меню или во время ожидания в лобби.",
+      "telegram_message_id": "424",
+      "telegram_url": "https://t.me/gamepulse_newss/424",
+      "telegram_published_at": "2026-09-28T20:48:44.963187+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-28T20:34:17.918268+00:00"
+  "updated_at": "2026-09-28T20:48:44.963572+00:00"
 }
