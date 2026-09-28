@@ -6995,9 +6995,10 @@
       "telegram_message_id": "420",
       "telegram_url": "https://t.me/gamepulse_newss/420",
       "telegram_published_at": "2026-09-28T19:34:04.118953+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4551962-valor-mortis.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4551962-valor-mortis.jpg?w=300",
+      "threads_published_at": "2026-09-28T19:34:05.784650+00:00"
     }
   ],
-  "updated_at": "2026-09-28T19:34:04.119262+00:00"
+  "updated_at": "2026-09-28T19:34:05.784732+00:00"
 }
