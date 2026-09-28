@@ -7117,7 +7117,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/dungeons-2-vanilla.jpg?w=300",
       "threads_published_at": "2026-09-28T22:33:26.628370+00:00"
+    },
+    {
+      "fingerprint": "173b63bfe41483d6ca8ebec8",
+      "title": "New Game Ready to Add Meat and Blood to Steam’s Tidying-Up Craze",
+      "url": "https://ign.com/articles/new-game-ready-to-add-meat-and-blood-to-steams-tidying-up-craze",
+      "source": "IGN",
+      "published_at_source": "2026-09-28T21:25:19+00:00",
+      "score": 11,
+      "event_key": "Something is Wrong With the Library horror game announcement",
+      "title_ru": "Анонсирован хоррор Something is Wrong With the Library",
+      "threads_teaser_ru": "В Steam готовится к релизу хоррор Something is Wrong With the Library. Это игра про уборку в библиотеке, но с одним важным отличием: стены здания буквально набиты трупами, а игроку придется столкнуться с жуткими монстрами из плоти. Релиз запланирован на эту осень.",
+      "telegram_message_id": "428",
+      "telegram_url": "https://t.me/gamepulse_newss/428",
+      "telegram_published_at": "2026-09-28T22:47:55.363668+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/somethingwronglibrary-keyart-1790630303686.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-28T22:33:26.628460+00:00"
+  "updated_at": "2026-09-28T22:47:55.363963+00:00"
 }
