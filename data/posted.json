@@ -7080,9 +7080,10 @@
       "telegram_message_id": "425",
       "telegram_url": "https://t.me/gamepulse_newss/425",
       "telegram_published_at": "2026-09-28T21:03:18.072847+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-28T21:03:20.244373+00:00"
     }
   ],
-  "updated_at": "2026-09-28T21:03:18.073050+00:00"
+  "updated_at": "2026-09-28T21:03:20.244454+00:00"
 }
