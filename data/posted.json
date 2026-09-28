@@ -6776,7 +6776,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/28/gettyimages-806488-1790585386198.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-28T10:02:39.257538+00:00"
+    },
+    {
+      "fingerprint": "a417ad750044d3d99908acc6",
+      "title": "Here’s How Visually Different The Witcher 3 Remastered Looks",
+      "url": "https://gamespot.com/articles/heres-how-visually-different-the-witcher-3-remastered-looks",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-28T10:10:17+00:00",
+      "score": 15,
+      "event_key": "the witcher 3 remastered graphics comparison and release",
+      "title_ru": "Сравнение графики The Witcher 3 Remastered",
+      "threads_teaser_ru": "GameSpot сравнил графику The Witcher 3 Remastered (Version 5.00) и Version 4.04 в 4K на ПК, оценив работу новой функции path tracing. Релиз игры состоится 29 сентября.",
+      "telegram_message_id": "408",
+      "telegram_url": "https://t.me/gamepulse_newss/408",
+      "telegram_published_at": "2026-09-28T10:46:19.114310+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GFXComp_Witcher3Remastered_V2.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-28T10:02:39.257615+00:00"
+  "updated_at": "2026-09-28T10:46:19.114404+00:00"
 }
