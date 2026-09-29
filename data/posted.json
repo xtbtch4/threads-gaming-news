@@ -7526,7 +7526,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/28/intergalactic-the-heretic-prophet-1790624421706.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-29T07:16:56.468440+00:00"
+    },
+    {
+      "fingerprint": "4e698ebfdc010a9da4cac19f",
+      "title": "Inside the Vault – Return to Skyline Valley and World Pets Testing Server",
+      "url": "https://fallout.bethesda.net/en-US/news/fallout-76-inside-the-vault-pets-pts-return",
+      "source": "Bethesda",
+      "published_at_source": "2026-09-28T00:00:00+00:00",
+      "score": 8,
+      "event_key": "fallout 76 world pets and skyline valley pts update",
+      "title_ru": "Fallout 76: возвращение World Pets и обновление Skyline Valley на PTS",
+      "threads_teaser_ru": "На тестовом сервере Fallout 76 началось тестирование функции World Pets с прокачкой питомцев и новых возможностей для региона Skyline Valley.",
+      "telegram_message_id": "452",
+      "telegram_url": "https://t.me/gamepulse_newss/452",
+      "telegram_published_at": "2026-09-29T07:31:57.985412+00:00",
+      "threads_id": null,
+      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--C5uTQzRP--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/fo76_pet_deathclaw_qfgnzd"
     }
   ],
-  "updated_at": "2026-09-29T07:16:56.468524+00:00"
+  "updated_at": "2026-09-29T07:31:57.985772+00:00"
 }
