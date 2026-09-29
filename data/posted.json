@@ -7954,7 +7954,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA.jpg?w=300",
       "threads_published_at": "2026-09-29T13:32:29.205470+00:00"
+    },
+    {
+      "fingerprint": "efb0c99a8b751f5e2352ea22",
+      "title": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative",
+      "url": "https://eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-29T05:55:00+00:00",
+      "score": 12,
+      "event_key": "mexican lawmakers digital games ownership initiative",
+      "title_ru": "В Мексике предложили законопроект о защите прав покупателей цифровых игр",
+      "threads_teaser_ru": "В Мексике предложили законопроект, который может обязать игровые компании четко разделять покупку товара и лицензии, а также обеспечить сохранение игр после закрытия серверов.",
+      "telegram_message_id": "477",
+      "telegram_url": "https://t.me/gamepulse_newss/477",
+      "telegram_published_at": "2026-09-29T13:46:41.698830+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mexican-digital-rights-header-fixed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-29T13:32:29.205570+00:00"
+  "updated_at": "2026-09-29T13:46:41.699152+00:00"
 }
