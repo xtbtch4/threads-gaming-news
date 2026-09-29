@@ -8277,7 +8277,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-09-29T18:33:04.371930+00:00"
+    },
+    {
+      "fingerprint": "c13cf5826680ac1a70a86973",
+      "title": "The Steam Frame: VR’s Future or the Beginning of the End?",
+      "url": "https://ign.com/articles/the-steam-frame-vrs-future-or-the-beginning-of-the-end",
+      "source": "IGN",
+      "published_at_source": "2026-09-29T17:30:00+00:00",
+      "score": 11,
+      "event_key": "valve_announced_steam_frame_vr_headset",
+      "title_ru": "Анализ анонса Steam Frame",
+      "threads_teaser_ru": "Анонс беспроводного шлема Steam Frame от Valve за $1,059 вызвал вопросы у игроков и критиков. Высокая цена и ставка на старые игры вместо новых AAA-релизов заставляют задуматься о будущем VR-индустрии.",
+      "telegram_message_id": "496",
+      "telegram_url": "https://t.me/gamepulse_newss/496",
+      "telegram_published_at": "2026-09-29T18:47:06.412322+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/steam-frame-thumb-1790699884279.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-29T18:33:04.372008+00:00"
+  "updated_at": "2026-09-29T18:47:06.412587+00:00"
 }
