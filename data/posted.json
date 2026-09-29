@@ -7694,9 +7694,10 @@
       "telegram_message_id": "461",
       "telegram_url": "https://t.me/gamepulse_newss/461",
       "telegram_published_at": "2026-09-29T09:47:46.889772+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/witcher-3-remastered-affect-on-war-project-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/witcher-3-remastered-affect-on-war-project-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-29T09:47:48.429470+00:00"
     }
   ],
-  "updated_at": "2026-09-29T09:47:46.890040+00:00"
+  "updated_at": "2026-09-29T09:47:48.429548+00:00"
 }
