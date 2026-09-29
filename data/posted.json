@@ -8209,7 +8209,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-09-29T17:32:54.500371+00:00"
+    },
+    {
+      "fingerprint": "f964c68bc4f08db7399b3f0f",
+      "title": "Xbox’s Platinum Trophy Equivalent Officially Revealed",
+      "url": "https://polygon.com/xbox-mythic-achievement-announced-release-date",
+      "source": "Polygon",
+      "published_at_source": "2026-09-29T17:34:36+00:00",
+      "score": 14,
+      "event_key": "xbox_announced_mythic_achievements_insider_launch",
+      "title_ru": "Xbox анонсировала систему Mythic Achievements",
+      "threads_teaser_ru": "Xbox официально представила Mythic Achievements — аналог платиновых трофеев PlayStation, который стал доступен участникам программы Xbox Insider.",
+      "telegram_message_id": "492",
+      "telegram_url": "https://t.me/gamepulse_newss/492",
+      "telegram_published_at": "2026-09-29T17:46:27.682818+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/xbox-series-x25.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-29T17:32:54.500452+00:00"
+  "updated_at": "2026-09-29T17:46:27.683132+00:00"
 }
