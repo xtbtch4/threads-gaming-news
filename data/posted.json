@@ -8189,9 +8189,10 @@
       "telegram_message_id": "490",
       "telegram_url": "https://t.me/gamepulse_newss/490",
       "telegram_published_at": "2026-09-29T17:19:04.534068+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/marvel-tokon-fighting-souls-how-long-to-beat-ending.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/marvel-tokon-fighting-souls-how-long-to-beat-ending.jpg?w=300",
+      "threads_published_at": "2026-09-29T17:19:07.197463+00:00"
     }
   ],
-  "updated_at": "2026-09-29T17:19:04.534379+00:00"
+  "updated_at": "2026-09-29T17:19:07.197537+00:00"
 }
