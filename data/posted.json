@@ -7386,9 +7386,10 @@
       "telegram_message_id": "443",
       "telegram_url": "https://t.me/gamepulse_newss/443",
       "telegram_published_at": "2026-09-29T05:16:31.706657+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Beta-Popularity.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Beta-Popularity.jpg?w=300",
+      "threads_published_at": "2026-09-29T05:16:33.172864+00:00"
     }
   ],
-  "updated_at": "2026-09-29T05:16:31.706790+00:00"
+  "updated_at": "2026-09-29T05:16:33.172940+00:00"
 }
