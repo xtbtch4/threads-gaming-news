@@ -7848,9 +7848,10 @@
       "telegram_message_id": "470",
       "telegram_url": "https://t.me/gamepulse_newss/470",
       "telegram_published_at": "2026-09-29T12:02:32.945265+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2024/04/17/rebel-moon-interview-zack-snyder-on-breaking-the-rules-of-st-rr79-1280-1713381328132.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2024/04/17/rebel-moon-interview-zack-snyder-on-breaking-the-rules-of-st-rr79-1280-1713381328132.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-29T12:02:34.369584+00:00"
     }
   ],
-  "updated_at": "2026-09-29T12:02:32.945588+00:00"
+  "updated_at": "2026-09-29T12:02:34.369665+00:00"
 }
