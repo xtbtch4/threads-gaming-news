@@ -8090,7 +8090,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/diablo-4-expansion-2-age-of-hatred-paladin-skovos-horadric-cube.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-29T15:46:48.973234+00:00"
+    },
+    {
+      "fingerprint": "5738e97d39efd86d8beb0326",
+      "title": "The Witcher 3 Remastered Has Already Broken Steam Concurrent Player Record",
+      "url": "https://ign.com/articles/the-witcher-3-remastered-has-already-broken-steam-concurrent-player-record",
+      "source": "IGN",
+      "published_at_source": "2026-09-29T15:23:41+00:00",
+      "score": 13,
+      "event_key": "the_witcher_3_remastered_breaks_steam_concurrent_player_record",
+      "title_ru": "The Witcher 3 Remastered обновил рекорд пикового онлайна в Steam",
+      "threads_teaser_ru": "The Witcher 3 Remastered установил новый рекорд одновременных игроков в Steam спустя всего несколько часов после релиза. Сколько пользователей одновременно запустили обновленную версию?",
+      "telegram_message_id": "485",
+      "telegram_url": "https://t.me/gamepulse_newss/485",
+      "telegram_published_at": "2026-09-29T16:02:50.882327+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/tw3re-gamescom-combat-signs-xbox-16x9-clean-1790695387133.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-29T15:46:48.973322+00:00"
+  "updated_at": "2026-09-29T16:02:50.882489+00:00"
 }
