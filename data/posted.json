@@ -8478,9 +8478,10 @@
       "telegram_message_id": "507",
       "telegram_url": "https://t.me/gamepulse_newss/507",
       "telegram_published_at": "2026-09-29T21:32:57.479335+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4-KB-RECAP-INTEL-006.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4-KB-RECAP-INTEL-006.jpg?w=300",
+      "threads_published_at": "2026-09-29T21:32:59.011684+00:00"
     }
   ],
-  "updated_at": "2026-09-29T21:32:57.479604+00:00"
+  "updated_at": "2026-09-29T21:32:59.011789+00:00"
 }
