@@ -8430,7 +8430,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-09-29T20:46:41.674197+00:00"
+    },
+    {
+      "fingerprint": "63d54161e8b6ff3b1f5bc54e",
+      "title": "Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts",
+      "url": "https://gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-29T19:43:28+00:00",
+      "score": 12,
+      "event_key": "world of warcraft forever survey leaks new classes",
+      "title_ru": "Утечка о World of Warcraft: Forever намекает на 11 возможных новых классов",
+      "threads_teaser_ru": "Участники опроса Blizzard для World of Warcraft: Forever поделились списком из 11 потенциальных новых классов, включая Tinker, Necromancer, Bard и San'layn. Релиз игры намечен на 4 ноября.",
+      "telegram_message_id": "505",
+      "telegram_url": "https://t.me/gamepulse_newss/505",
+      "telegram_published_at": "2026-09-29T21:02:24.417608+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Class-Survery.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-29T20:46:41.674292+00:00"
+  "updated_at": "2026-09-29T21:02:24.417826+00:00"
 }
