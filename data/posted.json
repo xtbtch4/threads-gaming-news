@@ -7250,9 +7250,10 @@
       "telegram_message_id": "435",
       "telegram_url": "https://t.me/gamepulse_newss/435",
       "telegram_published_at": "2026-09-29T02:33:32.016917+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver_3OT3Det.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver_3OT3Det.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-29T02:33:33.503631+00:00"
     }
   ],
-  "updated_at": "2026-09-29T02:33:32.017174+00:00"
+  "updated_at": "2026-09-29T02:33:33.503710+00:00"
 }
