@@ -8498,7 +8498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/something-is-wrong-with-the-library.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-29T21:47:23.383582+00:00"
+    },
+    {
+      "fingerprint": "9e6373dda7b701999037cc69",
+      "title": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
+      "url": "https://rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-29T21:52:15+00:00",
+      "score": 12,
+      "event_key": "deadlock major update six new heroes map overhaul",
+      "title_ru": "Масштабное обновление Deadlock добавляет шесть новых героев и меняет карту",
+      "threads_teaser_ru": "Valve выпустила крупное обновление для Deadlock, которое добавляет шесть новых героев, масштабный визуальный апдейт карты, более 10 000 новых реплик и множество других улучшений.",
+      "telegram_message_id": "509",
+      "telegram_url": "https://t.me/gamepulse_newss/509",
+      "telegram_published_at": "2026-09-29T22:02:32.534135+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/deadlock-city-never-sleeps.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-29T21:47:23.383684+00:00"
+  "updated_at": "2026-09-29T22:02:32.534429+00:00"
 }
