@@ -8087,9 +8087,10 @@
       "telegram_message_id": "484",
       "telegram_url": "https://t.me/gamepulse_newss/484",
       "telegram_published_at": "2026-09-29T15:46:47.514001+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/diablo-4-expansion-2-age-of-hatred-paladin-skovos-horadric-cube.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/diablo-4-expansion-2-age-of-hatred-paladin-skovos-horadric-cube.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-29T15:46:48.973234+00:00"
     }
   ],
-  "updated_at": "2026-09-29T15:46:47.514144+00:00"
+  "updated_at": "2026-09-29T15:46:48.973322+00:00"
 }
