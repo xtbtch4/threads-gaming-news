@@ -7731,7 +7731,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rise-of-the-deathbringer-art-reality-fracture.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-29T10:17:01.139574+00:00"
+    },
+    {
+      "fingerprint": "622884153875e246e2e7da4e",
+      "title": "Wardogs early access review",
+      "url": "https://eurogamer.net/wardogs-early-access-review",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-29T10:27:30+00:00",
+      "score": 6,
+      "event_key": "wardogs_early_access_review_gameplay_mechanics",
+      "title_ru": "Ранний доступ Wardogs",
+      "threads_teaser_ru": "Wardogs в раннем доступе объединяет масштабы Battlefield, симуляцию ArmA и экономику в стиле Counter-Strike. Здесь за деньги можно подкупать медиков для реанимации, а любая активность приносит прибыль.",
+      "telegram_message_id": "464",
+      "telegram_url": "https://t.me/gamepulse_newss/464",
+      "telegram_published_at": "2026-09-29T10:32:19.425105+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/wardogs-review-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-29T10:17:01.139658+00:00"
+  "updated_at": "2026-09-29T10:32:19.425465+00:00"
 }
