@@ -8396,7 +8396,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/29/vhagar-hotd-thumb-1790708915634.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-29T20:17:30.854930+00:00"
+    },
+    {
+      "fingerprint": "042443db12ffbf5476e34b12",
+      "title": "Rockstar Officially Reveals 3 Big New 'GTA 6' Gameplay Features",
+      "url": "https://polygon.com/gta-6-game-informer-weather-animals-npc-variety-gameplay-news",
+      "source": "Polygon",
+      "published_at_source": "2026-09-29T20:08:59+00:00",
+      "score": 14,
+      "event_key": "rockstar_reveals_gta_6_gameplay_features_game_informer",
+      "title_ru": "Rockstar раскрыла новые детали о GTA 6",
+      "threads_teaser_ru": "Game Informer поделился новыми подробностями о Grand Theft Auto 6: в игре появится более 170 видов животных, масштабная система динамической погоды с ураганами и детальная генерация NPC.",
+      "telegram_message_id": "503",
+      "telegram_url": "https://t.me/gamepulse_newss/503",
+      "telegram_published_at": "2026-09-29T20:32:25.752608+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_02.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-29T20:17:30.855018+00:00"
+  "updated_at": "2026-09-29T20:32:25.752742+00:00"
 }
