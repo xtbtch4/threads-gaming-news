@@ -7236,7 +7236,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wesley-tingey-l4uck06unm-unsplash.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-29T02:18:06.351920+00:00"
+    },
+    {
+      "fingerprint": "72895efded12eeb1a626d282",
+      "title": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
+      "url": "https://eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-28T19:05:03+00:00",
+      "score": 10,
+      "event_key": "Double Fine announces Thank You Bus Driver release date",
+      "title_ru": "Double Fine анонсировала дату релиза Thank You Bus Driver",
+      "threads_teaser_ru": "Double Fine скоро выпустит свою первую игру после обретения независимости от Xbox. Симулятор вождения Thank You Bus Driver выйдет 14 октября на PC. Одной из главных механик игры станет возможность давать пощечины пассажирам необычно длинными руками.",
+      "telegram_message_id": "435",
+      "telegram_url": "https://t.me/gamepulse_newss/435",
+      "telegram_published_at": "2026-09-29T02:33:32.016917+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver_3OT3Det.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-29T02:18:06.352035+00:00"
+  "updated_at": "2026-09-29T02:33:32.017174+00:00"
 }
