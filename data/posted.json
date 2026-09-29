@@ -8342,9 +8342,10 @@
       "telegram_message_id": "499",
       "telegram_url": "https://t.me/gamepulse_newss/499",
       "telegram_published_at": "2026-09-29T19:32:08.682891+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-29T19:32:10.737455+00:00"
     }
   ],
-  "updated_at": "2026-09-29T19:32:08.683025+00:00"
+  "updated_at": "2026-09-29T19:32:10.737548+00:00"
 }
