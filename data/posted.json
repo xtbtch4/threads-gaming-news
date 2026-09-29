@@ -8376,9 +8376,10 @@
       "telegram_message_id": "501",
       "telegram_url": "https://t.me/gamepulse_newss/501",
       "telegram_published_at": "2026-09-29T20:02:23.426361+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/assets-2026-06-1780857686-3b-hce-energy-sword-no-logo-3840x2180-1790710842204.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/assets-2026-06-1780857686-3b-hce-energy-sword-no-logo-3840x2180-1790710842204.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-29T20:02:25.444336+00:00"
     }
   ],
-  "updated_at": "2026-09-29T20:02:23.426692+00:00"
+  "updated_at": "2026-09-29T20:02:25.444423+00:00"
 }
