@@ -7660,9 +7660,10 @@
       "telegram_message_id": "459",
       "telegram_url": "https://t.me/gamepulse_newss/459",
       "telegram_published_at": "2026-09-29T09:17:08.633109+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_allchallenges_header.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_allchallenges_header.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-29T09:17:10.335067+00:00"
     }
   ],
-  "updated_at": "2026-09-29T09:17:08.633349+00:00"
+  "updated_at": "2026-09-29T09:17:10.335145+00:00"
 }
