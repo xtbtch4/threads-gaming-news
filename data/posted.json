@@ -7646,7 +7646,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/REMovie-Large-1.jpeg?w=300",
       "threads_published_at": "2026-09-29T09:02:00.538761+00:00"
+    },
+    {
+      "fingerprint": "8a740cdfe1e1b39cd9160afb",
+      "title": "Xbox Disc-to-Digital Program Keeps Getting Larger, Adding Big Publisher",
+      "url": "https://polygon.com/xbox-disc-to-digital-sega-improvements-september-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-09-29T09:06:04+00:00",
+      "score": 10,
+      "event_key": "sega_joins_xbox_disc_to_digital_program",
+      "title_ru": "Sega присоединилась к программе Xbox disc-to-digital",
+      "threads_teaser_ru": "Sega стала участницей программы Xbox disc-to-digital, позволив игрокам переводить на цифровые аккаунты свои физические копии игр вроде Sonic и Persona. Функция пока тестируется для участников Xbox Insiders.",
+      "telegram_message_id": "459",
+      "telegram_url": "https://t.me/gamepulse_newss/459",
+      "telegram_published_at": "2026-09-29T09:17:08.633109+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_allchallenges_header.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-29T09:02:00.538865+00:00"
+  "updated_at": "2026-09-29T09:17:08.633349+00:00"
 }
