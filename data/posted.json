@@ -7697,7 +7697,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/witcher-3-remastered-affect-on-war-project-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-29T09:47:48.429470+00:00"
+    },
+    {
+      "fingerprint": "e953143ae328e6eb9ff82cce",
+      "title": "Sony is introducing an anti-scalping lottery system for PS5 Pros in Japan as supply shortages persist",
+      "url": "https://eurogamer.net/sony-ps5-pro-lottery-system-japan-supply-shortage",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-29T09:11:17+00:00",
+      "score": 9,
+      "event_key": "sony ps5 pro lottery system japan supply shortage",
+      "title_ru": "Sony запускает лотерею для покупки PS5 Pro в Японии из-за дефицита",
+      "threads_teaser_ru": "Sony борется с перекупщиками PS5 Pro в Японии с помощью лотереи. Чтобы подать заявку до 7 октября, требуется аккаунт с историей игр. Победителей объявят 26 октября.",
+      "telegram_message_id": "462",
+      "telegram_url": "https://t.me/gamepulse_newss/462",
+      "telegram_published_at": "2026-09-29T10:02:42.845789+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-29T09:47:48.429548+00:00"
+  "updated_at": "2026-09-29T10:02:42.846120+00:00"
 }
