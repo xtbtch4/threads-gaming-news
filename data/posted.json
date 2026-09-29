@@ -8566,7 +8566,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-29T22:46:44.142429+00:00"
+    },
+    {
+      "fingerprint": "22f4596671cb8881bb978728",
+      "title": "10 Game Cancellations That Are Still Devastating Years Later",
+      "url": "https://polygon.com/canceled-games",
+      "source": "Polygon",
+      "published_at_source": "2026-09-29T22:52:38+00:00",
+      "score": 12,
+      "event_key": "polygon_list_of_canceled_games_history",
+      "title_ru": "10 отмененных видеоигр, о которых жалеют спустя годы",
+      "threads_teaser_ru": "Издание Polygon вспомнило 10 знаменитых видеоигр, которые так и не добрались до релиза. В список попали StarCraft: Ghost, Fable Legends, Scalebound и другие отмененные проекты.",
+      "telegram_message_id": "513",
+      "telegram_url": "https://t.me/gamepulse_newss/513",
+      "telegram_published_at": "2026-09-29T23:02:47.667244+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3945830/scalebound-gamescom-2015-comrades.0.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/remakes-are-cancelled-classics-are-reborn-gog-classics-vault-1080p-1787068512.mp4"
     }
   ],
-  "updated_at": "2026-09-29T22:46:44.142536+00:00"
+  "updated_at": "2026-09-29T23:02:47.667504+00:00"
 }
