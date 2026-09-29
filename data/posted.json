@@ -7253,7 +7253,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver_3OT3Det.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-29T02:33:33.503631+00:00"
+    },
+    {
+      "fingerprint": "df121bb9b8fbb94dcbcbd3ae",
+      "title": "Should You Play Witcher 3 Remastered On The Switch 2?",
+      "url": "https://gamespot.com/videos/should-you-play-witcher-3-remastered-on-the-switch-2",
+      "source": "GameSpot",
+      "published_at_source": "2026-09-29T02:31:50+00:00",
+      "score": 11,
+      "event_key": "the witcher 3 performance analysis on nintendo switch 2",
+      "title_ru": "Разбор технического состояния The Witcher 3 на Nintendo Switch 2",
+      "threads_teaser_ru": "Журналисты GameSpot проанализировали, как работает обновленная версия The Witcher 3 на консоли Nintendo Switch 2. Жан-Люк Сейпке и Джейк Деккер разобрали технические аспекты порта и особенности производительности игры на новом устройстве.",
+      "telegram_message_id": "436",
+      "telegram_url": "https://t.me/gamepulse_newss/436",
+      "telegram_published_at": "2026-09-29T03:02:43.097734+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Witcher3Remastered_Switch2.jpg?w=300"
     }
   ],
-  "updated_at": "2026-09-29T02:33:33.503710+00:00"
+  "updated_at": "2026-09-29T03:02:43.098015+00:00"
 }
