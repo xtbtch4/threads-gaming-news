@@ -7287,7 +7287,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-29T03:46:56.334384+00:00"
+    },
+    {
+      "fingerprint": "658c5b95692aca2e527476b0",
+      "title": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
+      "url": "https://eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-28T12:19:33+00:00",
+      "score": 11,
+      "event_key": "warzone skin toggle modern warfare 4 launch",
+      "title_ru": "В Call of Duty: Warzone появится функция отключения чужих скинов",
+      "threads_teaser_ru": "В Warzone скоро появится функция отключения скинов из других частей серии. Фильтр позволит видеть в матчах только персонажей из Modern Warfare 4.",
+      "telegram_message_id": "438",
+      "telegram_url": "https://t.me/gamepulse_newss/438",
+      "telegram_published_at": "2026-09-29T04:02:40.116344+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-29T03:46:56.334483+00:00"
+  "updated_at": "2026-09-29T04:02:40.116777+00:00"
 }
