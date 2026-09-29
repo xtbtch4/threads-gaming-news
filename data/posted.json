@@ -8328,7 +8328,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Streamer-RMT-Gold.jpg?w=300",
       "threads_published_at": "2026-09-29T19:17:22.726303+00:00"
+    },
+    {
+      "fingerprint": "662d3aae9d80cf941025d248",
+      "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
+      "url": "https://ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
+      "source": "IGN",
+      "published_at_source": "2026-09-29T18:15:41+00:00",
+      "score": 15,
+      "event_key": "rockstar_confirms_gta_6_simulates_tropical_storms_and_hurricanes",
+      "title_ru": "Rockstar подтвердила появление тропических штормов и ураганов в GTA 6",
+      "threads_teaser_ru": "Разработчики GTA 6 уделили особое внимание погодной системе: в игре появятся не только локальные дожди и динамические облака, но также тропические штормы и ураганы. Релиз игры состоится 19 ноября.",
+      "telegram_message_id": "499",
+      "telegram_url": "https://t.me/gamepulse_newss/499",
+      "telegram_published_at": "2026-09-29T19:32:08.682891+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-29T19:17:22.726395+00:00"
+  "updated_at": "2026-09-29T19:32:08.683025+00:00"
 }
