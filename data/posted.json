@@ -7865,9 +7865,10 @@
       "telegram_message_id": "471",
       "telegram_url": "https://t.me/gamepulse_newss/471",
       "telegram_published_at": "2026-09-29T12:17:03.049954+00:00",
-      "threads_id": null,
-      "image_url": "https://assets1.ignimgs.com/2018/10/11/black-widow-in-avengers-infinity-war-new-8k-poster-46-7680x4320-1539269207413.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets1.ignimgs.com/2018/10/11/black-widow-in-avengers-infinity-war-new-8k-poster-46-7680x4320-1539269207413.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-29T12:17:04.580306+00:00"
     }
   ],
-  "updated_at": "2026-09-29T12:17:03.050273+00:00"
+  "updated_at": "2026-09-29T12:17:04.580398+00:00"
 }
