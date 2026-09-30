@@ -8785,9 +8785,10 @@
       "telegram_message_id": "525",
       "telegram_url": "https://t.me/gamepulse_newss/525",
       "telegram_published_at": "2026-09-30T02:02:40.756478+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/pokemon-vgc-player-stinky-tournament-1790711842664.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/pokemon-vgc-player-stinky-tournament-1790711842664.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-30T02:02:42.084718+00:00"
     }
   ],
-  "updated_at": "2026-09-30T02:02:40.756807+00:00"
+  "updated_at": "2026-09-30T02:02:42.084810+00:00"
 }
