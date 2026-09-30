@@ -9606,7 +9606,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/30/zarimi2-1790799758772.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-30T21:33:47.732979+00:00"
+    },
+    {
+      "fingerprint": "69c92063b9a70b69d545e3c1",
+      "title": "New Uncharted Game Featuring Nathan Drake Reportedly in the Works at Naughty Dog",
+      "url": "https://ign.com/articles/new-uncharted-game-featuring-nathan-drake-reportedly-in-the-works-at-naughty-dog",
+      "source": "IGN",
+      "published_at_source": "2026-09-30T20:22:55+00:00",
+      "score": 9,
+      "event_key": "new uncharted game in development at naughty dog",
+      "title_ru": "В разработке находится новая Uncharted с Nathan Drake",
+      "threads_teaser_ru": "Студия Naughty Dog работает над новой игрой серии Uncharted с участием Nathan Drake. Проект находится на ранней стадии, а руководит им создатель Uncharted: The Lost Legacy. Известно, что это не ремейк, но деталей сюжета пока нет.",
+      "telegram_message_id": "574",
+      "telegram_url": "https://t.me/gamepulse_newss/574",
+      "telegram_published_at": "2026-09-30T21:47:50.071855+00:00",
+      "threads_id": null,
+      "image_url": "https://assets1.ignimgs.com/2010/12/09/uncharted-3-drakes-deception-20101209114238934-3364863.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-30T21:33:47.733071+00:00"
+  "updated_at": "2026-09-30T21:47:50.072184+00:00"
 }
