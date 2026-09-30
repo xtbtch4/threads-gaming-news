@@ -9535,9 +9535,10 @@
       "telegram_message_id": "569",
       "telegram_url": "https://t.me/gamepulse_newss/569",
       "telegram_published_at": "2026-09-30T20:32:26.707680+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/eu-commission-calls-out-riot-mojang-activision-game-currency-1790798324229.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/eu-commission-calls-out-riot-mojang-activision-game-currency-1790798324229.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-30T20:32:28.379785+00:00"
     }
   ],
-  "updated_at": "2026-09-30T20:32:26.707755+00:00"
+  "updated_at": "2026-09-30T20:32:28.379860+00:00"
 }
