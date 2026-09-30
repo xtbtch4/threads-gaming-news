@@ -9061,7 +9061,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/30/john-carpenter-1790766892797.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-09-30T12:47:12.135737+00:00"
+    },
+    {
+      "fingerprint": "7e62a85c28b3797a58b46df6",
+      "title": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
+      "url": "https://eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "source": "Eurogamer",
+      "published_at_source": "2026-09-30T12:54:26+00:00",
+      "score": 15,
+      "event_key": "monster hunter wilds switch 2 performance capcom interview",
+      "title_ru": "Capcom рассказала о создании Monster Hunter Wilds для Switch 2",
+      "threads_teaser_ru": "Capcom поделилась подробностями создания порта Monster Hunter Wilds для Switch 2. Разработчикам пришлось пройти через сложный процесс оптимизации, чтобы добиться стабильных 30 FPS.",
+      "telegram_message_id": "542",
+      "telegram_url": "https://t.me/gamepulse_newss/542",
+      "telegram_published_at": "2026-09-30T13:02:25.942384+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mhw-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-30T12:47:12.135829+00:00"
+  "updated_at": "2026-09-30T13:02:25.942691+00:00"
 }
