@@ -9586,9 +9586,10 @@
       "telegram_message_id": "572",
       "telegram_url": "https://t.me/gamepulse_newss/572",
       "telegram_published_at": "2026-09-30T21:16:38.747121+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1639/16394322/4658267-4655296-resident-evil-requiem-basement-.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1639/16394322/4658267-4655296-resident-evil-requiem-basement-.jpg?w=300",
+      "threads_published_at": "2026-09-30T21:16:40.199400+00:00"
     }
   ],
-  "updated_at": "2026-09-30T21:16:38.747352+00:00"
+  "updated_at": "2026-09-30T21:16:40.199481+00:00"
 }
