@@ -9381,9 +9381,10 @@
       "telegram_message_id": "560",
       "telegram_url": "https://t.me/gamepulse_newss/560",
       "telegram_published_at": "2026-09-30T18:18:05.533869+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/sonic-image.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/sonic-image.jpg?w=300",
+      "threads_published_at": "2026-09-30T18:18:07.216008+00:00"
     }
   ],
-  "updated_at": "2026-09-30T18:18:05.534211+00:00"
+  "updated_at": "2026-09-30T18:18:07.216091+00:00"
 }
