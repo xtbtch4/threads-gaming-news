@@ -9521,7 +9521,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-not-for-sale.jpg?w=300",
       "threads_published_at": "2026-09-30T20:18:46.764351+00:00"
+    },
+    {
+      "fingerprint": "c428cad8547866d5f1a5bae0",
+      "title": "European Commission Calls Out Riot, Activision, Mojang, and More Over In-Game Currency and Transactions",
+      "url": "https://ign.com/articles/european-commission-calls-out-riot-activision-mojang-and-more-over-in-game-currency-and-transactions",
+      "source": "IGN",
+      "published_at_source": "2026-09-30T13:11:00+00:00",
+      "score": 14,
+      "event_key": "european_commission_calls_out_game_companies_virtual_currency",
+      "title_ru": "Еврокомиссия предъявила претензии разработчикам игр из-за внутренней валюты",
+      "threads_teaser_ru": "Еврокомиссия и Сеть по защите прав потребителей потребовали от ряда крупных игровых компаний изменить системы внутриигровых валют и ценообразования для защиты игроков.",
+      "telegram_message_id": "569",
+      "telegram_url": "https://t.me/gamepulse_newss/569",
+      "telegram_published_at": "2026-09-30T20:32:26.707680+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/eu-commission-calls-out-riot-mojang-activision-game-currency-1790798324229.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-09-30T20:18:46.764434+00:00"
+  "updated_at": "2026-09-30T20:32:26.707755+00:00"
 }
