@@ -9436,7 +9436,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-30T19:02:43.853166+00:00"
+    },
+    {
+      "fingerprint": "e2b8dfac5c8f540475b7798d",
+      "title": "Breaking Down Matchmaking Test Results",
+      "url": "https://ea.com/games/apex-legends/apex-legends/news/matchmaking-test-results",
+      "source": "Respawn / Apex Legends",
+      "published_at_source": "2026-09-30T17:00:00+00:00",
+      "score": 11,
+      "event_key": "apex-legends-matchmaking-test-results-overclocked",
+      "title_ru": "Respawn поделилась результатами тестов матчмейкинга в Apex Legends",
+      "threads_teaser_ru": "Respawn рассказала об итогах тестов рангового матчмейкинга в Apex Legends. Разработчики проанализировали влияние предварительно собранных групп на победы и решили не вводить постоянные ограничения на одиночную игру.",
+      "telegram_message_id": "564",
+      "telegram_url": "https://t.me/gamepulse_newss/564",
+      "telegram_published_at": "2026-09-30T19:17:49.464194+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/2YcU8XoDXd5Ir7WpX5P2yR/b78b8cfafabfd58d631c009ac0a41379/apex-legends-generic-keyart-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     }
   ],
-  "updated_at": "2026-09-30T19:02:43.853251+00:00"
+  "updated_at": "2026-09-30T19:17:49.464528+00:00"
 }
