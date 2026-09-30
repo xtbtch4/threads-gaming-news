@@ -8839,7 +8839,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19168712/ar4h2.jpeg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-09-30T02:47:16.530666+00:00"
+    },
+    {
+      "fingerprint": "4843e1264201595667895620",
+      "title": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games",
+      "url": "https://rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-29T19:09:06+00:00",
+      "score": 5,
+      "event_key": "valve-updates-steam-discounts-events-algorithm",
+      "title_ru": "Valve изменит раздел скидок и распродаж на главнице Steam на алгоритмическую основу",
+      "threads_teaser_ru": "Valve переведет раздел скидок и событий на главной странице Steam на алгоритмические рекомендации, чтобы показывать больше персонализированных предложений.",
+      "telegram_message_id": "529",
+      "telegram_url": "https://t.me/gamepulse_newss/529",
+      "telegram_published_at": "2026-09-30T03:02:40.297315+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/steam-discounts-events.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-30T02:47:16.530749+00:00"
+  "updated_at": "2026-09-30T03:02:40.297475+00:00"
 }
