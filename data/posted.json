@@ -9467,9 +9467,10 @@
       "telegram_message_id": "565",
       "telegram_url": "https://t.me/gamepulse_newss/565",
       "telegram_published_at": "2026-09-30T19:32:14.473555+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Halo-infinite-cortana-master-chief.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Halo-infinite-cortana-master-chief.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-09-30T19:32:16.382813+00:00"
     }
   ],
-  "updated_at": "2026-09-30T19:32:14.473902+00:00"
+  "updated_at": "2026-09-30T19:32:16.382899+00:00"
 }
