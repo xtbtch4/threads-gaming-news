@@ -148,6 +148,21 @@ STOPWORDS = {
 
 YEAR_RE = re.compile(r"\b(?:19|20)\d{2}\b")
 
+# These identify a common originating event/source that many outlets split into
+# several angle-specific stories. If the same game/franchise and origin anchor
+# recur within the 48h window, keep only the first publication.
+ORIGIN_PATTERNS = {
+    "game_informer": (r"\bgame[\s_-]+informer\b",),
+    "state_of_play": (r"\bstate[\s_-]+of[\s_-]+play\b",),
+    "nintendo_direct": (r"\bnintendo[\s_-]+direct\b",),
+    "xbox_wire": (r"\bxbox[\s_-]+wire\b",),
+    "playstation_blog": (r"\bplaystation[\s_-]+blog\b", r"\bps[\s_-]+blog\b"),
+    "summer_game_fest": (r"\bsummer[\s_-]+game[\s_-]+fest\b",),
+    "game_awards": (r"\bthe[\s_-]+game[\s_-]+awards\b", r"\bgame[\s_-]+awards\b"),
+    "gamescom": (r"\bgamescom\b",),
+    "tokyo_game_show": (r"\btokyo[\s_-]+game[\s_-]+show\b",),
+}
+
 
 @dataclass(frozen=True)
 class EventFingerprint:
@@ -158,9 +173,24 @@ class EventFingerprint:
     years: frozenset[str]
 
 
+@dataclass(frozen=True)
+class CoverageFingerprint:
+    digest: str
+    franchises: frozenset[str]
+    origins: frozenset[str]
+
+
+_CURRENT_STORY: bot.Story | None = None
+_CURRENT_RENDERED: bot.Rendered | None = None
+
+
 def _normalize_text(text: str) -> str:
     normalized = unicodedata.normalize("NFKC", text or "")
-    return normalized.replace("_", " ").replace("’", "'")
+    return normalized.replace("’", "'")
+
+
+def _loose_text(text: str) -> str:
+    return _normalize_text(text).casefold().replace("_", " ").replace("-", " ")
 
 
 def _canonical_token(token: str) -> str:
@@ -171,7 +201,7 @@ def _canonical_token(token: str) -> str:
 
 
 def _tokens(text: str) -> set[str]:
-    text = _normalize_text(text).casefold()
+    text = _normalize_text(text).replace("_", " ").casefold()
     raw = re.findall(r"[a-zа-яё0-9][a-zа-яё0-9'-]{2,}", text)
     result: set[str] = set()
     for token in raw:
@@ -221,6 +251,56 @@ def _event_fingerprint(text: str) -> EventFingerprint:
     )
     digest = hashlib.sha256(payload.encode("utf-8")).hexdigest()[:24]
     return EventFingerprint(digest, entities, actions, topics, years)
+
+
+def _franchise_anchors(text: str) -> set[str]:
+    text = _loose_text(text)
+    anchors: set[str] = set()
+
+    # Normalize the most common long-form/acronym split so GTA 6, GTA VI and
+    # Grand Theft Auto 6 all become the same anchor.
+    if re.search(r"\b(?:grand\s+theft\s+auto|gta)\s*(?:6|vi)\b", text):
+        anchors.add("gta6")
+
+    # Generic short-title + sequel marker support (e.g. COD 7, RDR 2).
+    for name, version in re.findall(
+        r"\b([a-z]{2,10})\s+(?:part\s+)?([0-9]{1,2}|ii|iii|iv|v|vi|vii|viii|ix|x)\b",
+        text,
+    ):
+        if name not in {"in", "on", "at", "to", "of", "by"}:
+            anchors.add(f"{name}{version}")
+
+    return anchors
+
+
+def _origin_anchors(text: str) -> set[str]:
+    text = _loose_text(text)
+    anchors: set[str] = set()
+    for name, patterns in ORIGIN_PATTERNS.items():
+        if any(re.search(pattern, text) for pattern in patterns):
+            anchors.add(name)
+    return anchors
+
+
+def _coverage_fingerprint(text: str) -> CoverageFingerprint:
+    franchises = frozenset(_franchise_anchors(text))
+    origins = frozenset(_origin_anchors(text))
+    payload = f"{','.join(sorted(franchises))}|{','.join(sorted(origins))}"
+    digest = hashlib.sha256(payload.encode("utf-8")).hexdigest()[:24]
+    return CoverageFingerprint(digest, franchises, origins)
+
+
+def _coverage_matches(new_text: str, old_text: str) -> bool:
+    new = _coverage_fingerprint(new_text)
+    old = _coverage_fingerprint(old_text)
+
+    if not new.franchises or not old.franchises:
+        return False
+    if not (new.franchises & old.franchises):
+        return False
+    if not new.origins or not old.origins:
+        return False
+    return bool(new.origins & old.origins)
 
 
 def _fingerprints_match(new: EventFingerprint, old: EventFingerprint) -> bool:
@@ -275,12 +355,48 @@ def _within_window(item: dict) -> bool:
     return timedelta(0) <= age <= timedelta(hours=WINDOW_HOURS)
 
 
+def _item_event_text(item: dict) -> str:
+    parts = [
+        str(item.get("title") or ""),
+        str(item.get("event_key") or ""),
+        str(item.get("title_ru") or ""),
+        str(item.get("threads_teaser_ru") or ""),
+        " ".join(str(x) for x in item.get("event_franchises", []) if x),
+        " ".join(str(x) for x in item.get("event_origins", []) if x),
+    ]
+    return " ".join(parts)
+
+
+def _current_event_text(event_key: str = "") -> str:
+    parts = [event_key]
+    if _CURRENT_STORY is not None:
+        parts.extend((_CURRENT_STORY.title, _CURRENT_STORY.summary))
+    if _CURRENT_RENDERED is not None:
+        parts.extend(
+            (
+                _CURRENT_RENDERED.title_ru,
+                _CURRENT_RENDERED.telegram_summary_ru,
+                _CURRENT_RENDERED.threads_teaser_ru,
+                _CURRENT_RENDERED.event_key,
+            )
+        )
+    return " ".join(part for part in parts if part)
+
+
 def _same_cross_source_event(story: bot.Story, item: dict) -> bool:
     if not _within_window(item):
         return False
 
-    old_text = f"{item.get('title') or ''} {item.get('event_key') or ''}"
-    new_fp = _event_fingerprint(story.title)
+    new_text = f"{story.title} {story.summary}"
+    old_text = _item_event_text(item)
+
+    # Detect one originating event that was split into multiple angle-specific
+    # articles (for example a Game Informer GTA 6 feature becoming separate
+    # weather, animals and world-size stories at IGN/Polygon).
+    if _coverage_matches(new_text, old_text):
+        return True
+
+    new_fp = _event_fingerprint(new_text)
     old_fp = _event_fingerprint(old_text)
     if _fingerprints_match(new_fp, old_fp):
         return True
@@ -292,7 +408,7 @@ def _same_cross_source_event(story: bot.Story, item: dict) -> bool:
     if len(shared_entities) < 3:
         return False
 
-    new_tokens = _tokens(story.title)
+    new_tokens = _tokens(new_text)
     old_tokens = _tokens(old_text)
 
     if (new_tokens & BUDGET_TOKENS) and (old_tokens & BUDGET_TOKENS):
@@ -304,6 +420,8 @@ def _same_cross_source_event(story: bot.Story, item: dict) -> bool:
 
 
 _original_known_story = run_bot._original_known_story
+_original_rewrite_story = bot.rewrite_story
+_original_save_state = bot.save_state
 
 
 def known_story_strict(story: bot.Story, state: dict) -> bool:
@@ -321,16 +439,36 @@ def known_story_strict(story: bot.Story, state: dict) -> bool:
     return False
 
 
+def rewrite_story_with_event_context(story: bot.Story) -> tuple[bot.Rendered, str]:
+    global _CURRENT_STORY, _CURRENT_RENDERED
+    rendered, image_url = _original_rewrite_story(story)
+    _CURRENT_STORY = story
+    _CURRENT_RENDERED = rendered
+    return rendered, image_url
+
+
 def event_seen_strict(event_key: str, state: dict) -> bool:
-    new_fp = _event_fingerprint(event_key)
+    new_text = _current_event_text(event_key)
+    new_fp = _event_fingerprint(new_text)
+
     for item in state.get("items", []):
         if not _within_window(item):
             continue
+
+        old_text = _item_event_text(item)
+        if _coverage_matches(new_text, old_text):
+            bot.LOG.info(
+                "Skipped 48h source-event cluster duplicate: %s ~ %s",
+                event_key,
+                item.get("event_key"),
+            )
+            return True
+
         old_key = str(item.get("event_key") or "")
         if not old_key:
             continue
 
-        old_fp = _event_fingerprint(old_key)
+        old_fp = _event_fingerprint(old_text)
         if _fingerprints_match(new_fp, old_fp):
             bot.LOG.info(
                 "Skipped duplicate event fingerprint %s ~ %s",
@@ -341,8 +479,29 @@ def event_seen_strict(event_key: str, state: dict) -> bool:
 
         if bot.event_similarity(event_key, old_key) >= 0.64:
             return True
+
     return False
 
 
+def save_state_with_event_context(state: dict) -> None:
+    if _CURRENT_STORY is not None:
+        context_text = _current_event_text()
+        coverage = _coverage_fingerprint(context_text)
+        for item in reversed(state.get("items", [])):
+            if str(item.get("url") or "") != _CURRENT_STORY.url:
+                continue
+            item["event_fingerprint"] = _event_fingerprint(context_text).digest
+            if coverage.franchises:
+                item["event_franchises"] = sorted(coverage.franchises)
+            if coverage.origins:
+                item["event_origins"] = sorted(coverage.origins)
+            if coverage.franchises and coverage.origins:
+                item["event_cluster_fingerprint"] = coverage.digest
+            break
+    _original_save_state(state)
+
+
 bot.known_story = known_story_strict
+bot.rewrite_story = rewrite_story_with_event_context
 bot.event_seen = event_seen_strict
+bot.save_state = save_state_with_event_context
