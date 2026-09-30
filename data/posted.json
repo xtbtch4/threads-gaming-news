@@ -9398,10 +9398,11 @@
       "telegram_message_id": "561",
       "telegram_url": "https://t.me/gamepulse_newss/561",
       "telegram_published_at": "2026-09-30T18:32:48.360826+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/final-fantasy-11-key-art.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4",
+      "threads_published_at": "2026-09-30T18:32:49.660233+00:00"
     }
   ],
-  "updated_at": "2026-09-30T18:32:48.361137+00:00"
+  "updated_at": "2026-09-30T18:32:49.660321+00:00"
 }
