@@ -9620,9 +9620,10 @@
       "telegram_message_id": "574",
       "telegram_url": "https://t.me/gamepulse_newss/574",
       "telegram_published_at": "2026-09-30T21:47:50.071855+00:00",
-      "threads_id": null,
-      "image_url": "https://assets1.ignimgs.com/2010/12/09/uncharted-3-drakes-deception-20101209114238934-3364863.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets1.ignimgs.com/2010/12/09/uncharted-3-drakes-deception-20101209114238934-3364863.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-09-30T21:47:51.561270+00:00"
     }
   ],
-  "updated_at": "2026-09-30T21:47:50.072184+00:00"
+  "updated_at": "2026-09-30T21:47:51.561363+00:00"
 }
