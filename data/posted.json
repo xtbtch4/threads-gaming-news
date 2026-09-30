@@ -9705,9 +9705,10 @@
       "telegram_message_id": "579",
       "telegram_url": "https://t.me/gamepulse_newss/579",
       "telegram_published_at": "2026-09-30T23:32:33.878779+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ace-combat-8-wings-of-theve-multiplayer-lobby.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ace-combat-8-wings-of-theve-multiplayer-lobby.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-09-30T23:32:35.274226+00:00"
     }
   ],
-  "updated_at": "2026-09-30T23:32:33.878887+00:00"
+  "updated_at": "2026-09-30T23:32:35.274303+00:00"
 }
