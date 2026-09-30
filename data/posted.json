@@ -9010,7 +9010,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/October-2026-games.jpg?w=300",
       "threads_published_at": "2026-09-30T12:03:15.844963+00:00"
+    },
+    {
+      "fingerprint": "725bab5c849b9ee5f8e7c222",
+      "title": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game",
+      "url": "https://rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-30T12:15:00+00:00",
+      "score": 14,
+      "event_key": "embark_underestimated_live_service_challenges_arc_raiders",
+      "title_ru": "Создатели Arc Raiders оценили сложность создания live-service игр",
+      "threads_teaser_ru": "Разработчики Arc Raiders признали, что недооценили сложность поддержки live-service игры. Из-за изнурительного темпа ежемесячных обновлений студия пересмотрела планы и перешла на крупные патчи дважды в год.",
+      "telegram_message_id": "539",
+      "telegram_url": "https://t.me/gamepulse_newss/539",
+      "telegram_published_at": "2026-09-30T12:17:00.830610+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/arc-raiders-caravan-expeditions.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-30T12:03:15.845044+00:00"
+  "updated_at": "2026-09-30T12:17:00.830984+00:00"
 }
