@@ -8802,9 +8802,10 @@
       "telegram_message_id": "526",
       "telegram_url": "https://t.me/gamepulse_newss/526",
       "telegram_published_at": "2026-09-30T02:16:47.198248+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Mythic-4.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Mythic-4.jpg?w=300",
+      "threads_published_at": "2026-09-30T02:16:48.577234+00:00"
     }
   ],
-  "updated_at": "2026-09-30T02:16:47.198521+00:00"
+  "updated_at": "2026-09-30T02:16:48.577321+00:00"
 }
