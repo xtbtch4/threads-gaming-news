@@ -8703,7 +8703,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/lacra-dawnawlker.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-30T00:48:02.754769+00:00"
+    },
+    {
+      "fingerprint": "4674f03a649827aad95e8bba",
+      "title": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch",
+      "url": "https://rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-09-29T20:31:51+00:00",
+      "score": 7,
+      "event_key": "release of physics platformer Big Stretch on itch.io",
+      "title_ru": "Вышел физический платформер Big Stretch",
+      "threads_teaser_ru": "На itch.io вышел минималистичный физический платформер Big Stretch, созданный за 72 часа. Игроки управляют существом с эластичными руками, пытаясь покорить башню без системы сохранений, где каждое неверное движение может вернуть вас к самому подножию.",
+      "telegram_message_id": "521",
+      "telegram_url": "https://t.me/gamepulse_newss/521",
+      "telegram_published_at": "2026-09-30T01:03:30.274880+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/big-stretch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-09-30T00:48:02.754854+00:00"
+  "updated_at": "2026-09-30T01:03:30.275207+00:00"
 }
