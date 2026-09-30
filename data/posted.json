@@ -9450,9 +9450,10 @@
       "telegram_message_id": "564",
       "telegram_url": "https://t.me/gamepulse_newss/564",
       "telegram_published_at": "2026-09-30T19:17:49.464194+00:00",
-      "threads_id": null,
-      "image_url": "https://drop-assets.ea.com/images/2YcU8XoDXd5Ir7WpX5P2yR/b78b8cfafabfd58d631c009ac0a41379/apex-legends-generic-keyart-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
+      "threads_id": "disabled",
+      "image_url": "https://drop-assets.ea.com/images/2YcU8XoDXd5Ir7WpX5P2yR/b78b8cfafabfd58d631c009ac0a41379/apex-legends-generic-keyart-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+      "threads_published_at": "2026-09-30T19:17:51.026313+00:00"
     }
   ],
-  "updated_at": "2026-09-30T19:17:49.464528+00:00"
+  "updated_at": "2026-09-30T19:17:51.026397+00:00"
 }
