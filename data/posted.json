@@ -9211,9 +9211,10 @@
       "telegram_message_id": "550",
       "telegram_url": "https://t.me/gamepulse_newss/550",
       "telegram_published_at": "2026-09-30T15:17:33.446902+00:00",
-      "threads_id": null,
-      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--06oIGwIP--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/FO76_WorldPetsPressEvent_Screenshots_3_ecv8jw"
+      "threads_id": "disabled",
+      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--06oIGwIP--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/FO76_WorldPetsPressEvent_Screenshots_3_ecv8jw",
+      "threads_published_at": "2026-09-30T15:17:35.284596+00:00"
     }
   ],
-  "updated_at": "2026-09-30T15:17:33.447297+00:00"
+  "updated_at": "2026-09-30T15:17:35.284685+00:00"
 }
