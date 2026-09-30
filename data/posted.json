@@ -8925,7 +8925,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/baldurs-gate-3-act-two-expansion-modder-nexus-interview-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-09-30T10:17:24.705069+00:00"
+    },
+    {
+      "fingerprint": "881376b39f1a8e9207cff57e",
+      "title": "Xbox's Disc-to-Digital Feature Is Officially Out to the Public",
+      "url": "https://polygon.com/xbox-disc-to-digital-full-release",
+      "source": "Polygon",
+      "published_at_source": "2026-09-30T10:43:47+00:00",
+      "score": 10,
+      "event_key": "xbox_disc_to_digital_public_release",
+      "title_ru": "Функция Disc-to-Digital на Xbox стала доступна всем пользователям",
+      "threads_teaser_ru": "Долгожданная программа disc-to-digital официально запущена для владельцев Xbox Series X и Xbox One. Теперь игроки могут оцифровывать физические диски и получать цифровые лицензии, сохраняя при этом рабочую копию для перепродажи.",
+      "telegram_message_id": "534",
+      "telegram_url": "https://t.me/gamepulse_newss/534",
+      "telegram_published_at": "2026-09-30T10:46:50.965623+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/gears-of-war-reloaded-marcus-fenix.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-09-30T10:17:24.705150+00:00"
+  "updated_at": "2026-09-30T10:46:50.965854+00:00"
 }
