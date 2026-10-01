@@ -9807,9 +9807,10 @@
       "telegram_message_id": "585",
       "telegram_url": "https://t.me/gamepulse_newss/585",
       "telegram_published_at": "2026-10-01T10:16:45.166245+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gears-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gears-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-01T10:16:46.502357+00:00"
     }
   ],
-  "updated_at": "2026-10-01T10:16:45.166631+00:00"
+  "updated_at": "2026-10-01T10:16:46.502443+00:00"
 }
