@@ -10114,9 +10114,10 @@
       "telegram_message_id": "603",
       "telegram_url": "https://t.me/gamepulse_newss/603",
       "telegram_published_at": "2026-10-01T16:31:57.606135+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/card-shark-preview-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/card-shark-preview-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-01T16:31:58.828060+00:00"
     }
   ],
-  "updated_at": "2026-10-01T16:31:57.606248+00:00"
+  "updated_at": "2026-10-01T16:31:58.828140+00:00"
 }
