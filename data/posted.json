@@ -9978,9 +9978,10 @@
       "telegram_message_id": "595",
       "telegram_url": "https://t.me/gamepulse_newss/595",
       "telegram_published_at": "2026-10-01T14:16:56.168915+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/First-Light-9.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/First-Light-9.jpg?w=300",
+      "threads_published_at": "2026-10-01T14:16:57.463114+00:00"
     }
   ],
-  "updated_at": "2026-10-01T14:16:56.169237+00:00"
+  "updated_at": "2026-10-01T14:16:57.463195+00:00"
 }
