@@ -10268,9 +10268,10 @@
       "telegram_message_id": "612",
       "telegram_url": "https://t.me/gamepulse_newss/612",
       "telegram_published_at": "2026-10-01T21:16:59.299960+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA_GameInformer_20261001_site.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA_GameInformer_20261001_site.jpg?w=300",
+      "threads_published_at": "2026-10-01T21:17:00.591471+00:00"
     }
   ],
-  "updated_at": "2026-10-01T21:16:59.300067+00:00"
+  "updated_at": "2026-10-01T21:17:00.591557+00:00"
 }
