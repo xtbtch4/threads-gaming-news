@@ -10117,7 +10117,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/card-shark-preview-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-01T16:31:58.828060+00:00"
+    },
+    {
+      "fingerprint": "045b08743b8e256a1d3d6ea8",
+      "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
+      "url": "https://gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-01T09:25:00+00:00",
+      "score": 14,
+      "event_key": "microsoft canceled cloud gaming xbox controller plans",
+      "title_ru": "Microsoft отменила планы по выпуску нового контроллера для Xbox",
+      "threads_teaser_ru": "По данным The New York Times, компания Microsoft отменила разработку нового игрового контроллера для Xbox, который создавался специально для облачного гейминга.",
+      "telegram_message_id": "604",
+      "telegram_url": "https://t.me/gamepulse_newss/604",
+      "telegram_published_at": "2026-10-01T16:47:18.036740+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-01T16:31:58.828140+00:00"
+  "updated_at": "2026-10-01T16:47:18.036906+00:00"
 }
