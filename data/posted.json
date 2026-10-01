@@ -10015,7 +10015,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/bill-Large.jpeg?w=300",
       "threads_published_at": "2026-10-01T14:47:09.550393+00:00"
+    },
+    {
+      "fingerprint": "1b07a31373916a52bfea91bf",
+      "title": "Disney Lorcana Hyperia City: Exclusive Héctor Rivera and Tiana Cards Revealed",
+      "url": "https://ign.com/articles/disney-lorcana-hyperia-city-exclusive-hctor-rivera-and-tiana-cards-revealed",
+      "source": "IGN",
+      "published_at_source": "2026-10-01T15:00:00+00:00",
+      "score": 13,
+      "event_key": "disney-lorcana-hyperia-city-new-cards-revealed",
+      "title_ru": "Анонс карт Héctor Rivera и Tiana для Disney Lorcana: Hyperia City",
+      "threads_teaser_ru": "Издание IGN показало две новые карты из заключительного бустер-сепа Disney Lorcana в этом году — Hyperia City. Среди них дебютировал персонаж из Coco. Релиз набора состоится 23 октября.",
+      "telegram_message_id": "598",
+      "telegram_url": "https://t.me/gamepulse_newss/598",
+      "telegram_published_at": "2026-10-01T15:02:41.582677+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/dlorc-10-1-1790296185453.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-01T14:47:09.550476+00:00"
+  "updated_at": "2026-10-01T15:02:41.582994+00:00"
 }
