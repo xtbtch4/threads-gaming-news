@@ -9773,9 +9773,10 @@
       "telegram_message_id": "583",
       "telegram_url": "https://t.me/gamepulse_newss/583",
       "telegram_published_at": "2026-10-01T07:47:36.799528+00:00",
-      "threads_id": null,
-      "image_url": "https://drop-assets.ea.com/images/5qUW0FamMLFf91RVVS5hCA/8cfa0411727050efa04b02360d40710a/CMTY-CU-2409-2KJ-EN.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
+      "threads_id": "disabled",
+      "image_url": "https://drop-assets.ea.com/images/5qUW0FamMLFf91RVVS5hCA/8cfa0411727050efa04b02360d40710a/CMTY-CU-2409-2KJ-EN.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+      "threads_published_at": "2026-10-01T07:47:38.158891+00:00"
     }
   ],
-  "updated_at": "2026-10-01T07:47:36.799672+00:00"
+  "updated_at": "2026-10-01T07:47:38.158960+00:00"
 }
