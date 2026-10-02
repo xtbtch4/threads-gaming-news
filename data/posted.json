@@ -11034,9 +11034,10 @@
       "telegram_message_id": "657",
       "telegram_url": "https://t.me/gamepulse_newss/657",
       "telegram_published_at": "2026-10-02T23:17:26.202497+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/vibecodedmods-explainer-blogroll-1790975025611.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/vibecodedmods-explainer-blogroll-1790975025611.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-02T23:17:27.526884+00:00"
     }
   ],
-  "updated_at": "2026-10-02T23:17:26.202805+00:00"
+  "updated_at": "2026-10-02T23:17:27.526963+00:00"
 }
