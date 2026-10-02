@@ -10373,7 +10373,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-02T09:47:54.257794+00:00"
+    },
+    {
+      "fingerprint": "8ab3d597da5a3a7a08b9c205",
+      "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+      "url": "https://eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-02T11:09:05+00:00",
+      "score": 11,
+      "event_key": "CD Projekt Red releases The Witcher 3 Remastered PC lighting hotfix",
+      "title_ru": "Для The Witcher 3 Remastered на PC вышел новый хотфикс с исправлениями освещения",
+      "threads_teaser_ru": "CD Projekt Red выпустила второй хотфикс для PC-версии The Witcher 3 Remastered. Обновление 5.00c корректирует освещение в Velen и устраняет ошибку с тихим звуком озвучки после меню паузы.",
+      "telegram_message_id": "619",
+      "telegram_url": "https://t.me/gamepulse_newss/619",
+      "telegram_published_at": "2026-10-02T11:17:28.905854+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-02T09:47:54.257897+00:00"
+  "updated_at": "2026-10-02T11:17:28.906214+00:00"
 }
