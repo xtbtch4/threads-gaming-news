@@ -10983,9 +10983,10 @@
       "telegram_message_id": "654",
       "telegram_url": "https://t.me/gamepulse_newss/654",
       "telegram_published_at": "2026-10-02T22:03:00.297265+00:00",
-      "threads_id": null,
-      "image_url": ""
+      "threads_id": "disabled",
+      "image_url": "",
+      "threads_published_at": "2026-10-02T22:03:01.863848+00:00"
     }
   ],
-  "updated_at": "2026-10-02T22:03:00.297602+00:00"
+  "updated_at": "2026-10-02T22:03:01.863932+00:00"
 }
