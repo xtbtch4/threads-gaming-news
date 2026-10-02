@@ -10356,7 +10356,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/04/08/vault-boy-1444741684893-1712594384409.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-02T09:03:06.689027+00:00"
+    },
+    {
+      "fingerprint": "6243ea55e0a223b7125f9ce8",
+      "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+      "url": "https://eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-02T09:28:14+00:00",
+      "score": 12,
+      "event_key": "Sony announces QSSR image upscaling technology for PlayStation 5",
+      "title_ru": "Sony анонсировала технологию апскейлинга QSSR для PS5",
+      "threads_teaser_ru": "На PlayStation 5 появилась новая технология апскейлинга — QSSR. Она улучшает четкость и стабильность изображения в Marvel's Wolverine и Ghost of Yotei, предлагая опыт, приближенный к PS5 Pro, но доступный на базовой консоли.",
+      "telegram_message_id": "618",
+      "telegram_url": "https://t.me/gamepulse_newss/618",
+      "telegram_published_at": "2026-10-02T09:47:52.870457+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-02T09:03:06.689113+00:00"
+  "updated_at": "2026-10-02T09:47:52.870889+00:00"
 }
