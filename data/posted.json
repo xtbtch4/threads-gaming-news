@@ -10986,7 +10986,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-10-02T22:03:01.863848+00:00"
+    },
+    {
+      "fingerprint": "63594c9a0207e01227607a3a",
+      "title": "There Are 2,800 Fortnite Skins, But Only The FNAF Skins Have This Special Feature",
+      "url": "https://gamespot.com/articles/there-are-2800-fortnite-skins-but-only-the-fnaf-skins-have-this-special-feature",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-02T22:24:45+00:00",
+      "score": 11,
+      "event_key": "Fortnite Five Nights at Freddy's skins damage feature",
+      "title_ru": "Скины из Five Nights at Freddy's получили уникальную механику повреждений в Fortnite",
+      "threads_teaser_ru": "Скины Freddy, Bonnie, Chica и Foxy в Fortnite обзавелись уникальной механикой: они получают визуальные повреждения при попадании по ним. В отличие от других реактивных скинов, этот износ остается с персонажем до конца матча, даже после лечения.",
+      "telegram_message_id": "655",
+      "telegram_url": "https://t.me/gamepulse_newss/655",
+      "telegram_published_at": "2026-10-02T22:47:37.456285+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fortnite-five-nights-at-freddys.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-10-02T22:03:01.863932+00:00"
+  "updated_at": "2026-10-02T22:47:37.456628+00:00"
 }
