@@ -11051,9 +11051,10 @@
       "telegram_message_id": "658",
       "telegram_url": "https://t.me/gamepulse_newss/658",
       "telegram_published_at": "2026-10-02T23:32:35.771307+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-02T23:32:37.058058+00:00"
     }
   ],
-  "updated_at": "2026-10-02T23:32:35.771642+00:00"
+  "updated_at": "2026-10-02T23:32:37.058164+00:00"
 }
