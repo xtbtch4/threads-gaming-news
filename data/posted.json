@@ -10574,9 +10574,10 @@
       "telegram_message_id": "630",
       "telegram_url": "https://t.me/gamepulse_newss/630",
       "telegram_published_at": "2026-10-02T15:33:26.013444+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/grand-theft-auto-6-cal-hampton.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/grand-theft-auto-6-cal-hampton.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-02T15:33:27.435072+00:00"
     }
   ],
-  "updated_at": "2026-10-02T15:33:26.013785+00:00"
+  "updated_at": "2026-10-02T15:33:27.435180+00:00"
 }
