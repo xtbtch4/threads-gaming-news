@@ -10761,9 +10761,10 @@
       "telegram_message_id": "641",
       "telegram_url": "https://t.me/gamepulse_newss/641",
       "telegram_published_at": "2026-10-02T18:47:37.555345+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/netflix-Large.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/netflix-Large.jpeg?w=300",
+      "threads_published_at": "2026-10-02T18:47:38.865021+00:00"
     }
   ],
-  "updated_at": "2026-10-02T18:47:37.555721+00:00"
+  "updated_at": "2026-10-02T18:47:38.865123+00:00"
 }
