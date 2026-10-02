@@ -10509,7 +10509,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-10-02T14:32:52.074626+00:00"
+    },
+    {
+      "fingerprint": "7bdeffd169c1f2e93fc80353",
+      "title": "The Street Fighter Movie’s Most Obscure Easter Egg Is For True Fighting Game Nerds",
+      "url": "https://gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-02T12:45:47+00:00",
+      "score": 11,
+      "event_key": "Street Fighter movie includes Evo Moment 37 easter egg",
+      "title_ru": "В фильме Street Fighter нашли пасхалку с отсылкой к Evo Moment 37",
+      "threads_teaser_ru": "В фильме Street Fighter появится необычная деталь: на шее героя, которого играет киберспортсмен Justin Wong, фанаты заметили число «37». Это отсылка к одному из самых известных событий в истории файтингов, произошедшему на турнире Evo в 2004 году.",
+      "telegram_message_id": "627",
+      "telegram_url": "https://t.me/gamepulse_newss/627",
+      "telegram_published_at": "2026-10-02T14:48:44.957970+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/street-Fighter-37.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-02T14:32:52.074719+00:00"
+  "updated_at": "2026-10-02T14:48:44.958249+00:00"
 }
