@@ -10387,9 +10387,10 @@
       "telegram_message_id": "619",
       "telegram_url": "https://t.me/gamepulse_newss/619",
       "telegram_published_at": "2026-10-02T11:17:28.905854+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-02T11:17:30.157944+00:00"
     }
   ],
-  "updated_at": "2026-10-02T11:17:28.906214+00:00"
+  "updated_at": "2026-10-02T11:17:30.158034+00:00"
 }
