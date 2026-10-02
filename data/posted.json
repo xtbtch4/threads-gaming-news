@@ -10523,9 +10523,10 @@
       "telegram_message_id": "627",
       "telegram_url": "https://t.me/gamepulse_newss/627",
       "telegram_published_at": "2026-10-02T14:48:44.957970+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/street-Fighter-37.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/street-Fighter-37.jpg?w=300",
+      "threads_published_at": "2026-10-02T14:48:46.437302+00:00"
     }
   ],
-  "updated_at": "2026-10-02T14:48:44.958249+00:00"
+  "updated_at": "2026-10-02T14:48:46.437390+00:00"
 }
