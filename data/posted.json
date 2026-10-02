@@ -11000,9 +11000,10 @@
       "telegram_message_id": "655",
       "telegram_url": "https://t.me/gamepulse_newss/655",
       "telegram_published_at": "2026-10-02T22:47:37.456285+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fortnite-five-nights-at-freddys.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fortnite-five-nights-at-freddys.jpeg?w=300",
+      "threads_published_at": "2026-10-02T22:47:38.829567+00:00"
     }
   ],
-  "updated_at": "2026-10-02T22:47:37.456628+00:00"
+  "updated_at": "2026-10-02T22:47:38.829645+00:00"
 }
