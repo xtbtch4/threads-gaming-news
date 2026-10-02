@@ -10370,9 +10370,10 @@
       "telegram_message_id": "618",
       "telegram_url": "https://t.me/gamepulse_newss/618",
       "telegram_published_at": "2026-10-02T09:47:52.870457+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-02T09:47:54.257794+00:00"
     }
   ],
-  "updated_at": "2026-10-02T09:47:52.870889+00:00"
+  "updated_at": "2026-10-02T09:47:54.257897+00:00"
 }
