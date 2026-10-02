@@ -10846,10 +10846,11 @@
       "telegram_message_id": "646",
       "telegram_url": "https://t.me/gamepulse_newss/646",
       "telegram_published_at": "2026-10-02T20:02:02.509302+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/1405026/N64-Console-Set.0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/ytdown-com_youtube_media_eoz-wug7rf4_wave-race-64-nintendo-64-nintendo-switch-online_001_1080p-1790966778.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/ytdown-com_youtube_media_eoz-wug7rf4_wave-race-64-nintendo-64-nintendo-switch-online_001_1080p-1790966778.mp4",
+      "threads_published_at": "2026-10-02T20:02:03.734319+00:00"
     }
   ],
-  "updated_at": "2026-10-02T20:02:02.509621+00:00"
+  "updated_at": "2026-10-02T20:02:03.734441+00:00"
 }
