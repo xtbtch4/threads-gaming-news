@@ -10475,7 +10475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Halo-COD.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-02T13:47:02.528708+00:00"
+    },
+    {
+      "fingerprint": "5c6a70cd0770312de1b5b641",
+      "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
+      "url": "https://gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-02T13:08:05+00:00",
+      "score": 12,
+      "event_key": "Disney addresses rumors about potential acquisition of Epic Games",
+      "title_ru": "Disney прокомментировала слухи о покупке Epic Games",
+      "threads_teaser_ru": "Disney ответила на слухи о покупке студии Epic Games. Несмотря на многомиллиардные инвестиции и тесное партнерство в рамках Fortnite, компания официально заявила, что сейчас не ведет переговоров о полном поглощении разработчика.",
+      "telegram_message_id": "625",
+      "telegram_url": "https://t.me/gamepulse_newss/625",
+      "telegram_published_at": "2026-10-02T14:18:49.205508+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Disney-Large.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-10-02T13:47:02.528794+00:00"
+  "updated_at": "2026-10-02T14:18:49.205857+00:00"
 }
