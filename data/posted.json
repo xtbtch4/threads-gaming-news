@@ -10458,7 +10458,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Streamer-Ban.jpg?w=300",
       "threads_published_at": "2026-10-02T13:32:03.117199+00:00"
+    },
+    {
+      "fingerprint": "0cac1748913e3cb6c3c03456",
+      "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+      "url": "https://eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-02T06:14:00+00:00",
+      "score": 14,
+      "event_key": "activision_considering_rebooting_halo_series_sledgehammer_games",
+      "title_ru": "Слух: Activision может перезапустить серию Halo",
+      "threads_teaser_ru": "Инсайдеры сообщают, что Activision может перезапустить серию Halo с помощью команд из Sledgehammer Games. Прототипы новой игры создаются на движке Infinity Ward Engine.",
+      "telegram_message_id": "624",
+      "telegram_url": "https://t.me/gamepulse_newss/624",
+      "telegram_published_at": "2026-10-02T13:47:00.973187+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Halo-COD.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-02T13:32:03.117286+00:00"
+  "updated_at": "2026-10-02T13:47:00.973539+00:00"
 }
