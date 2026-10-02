@@ -10492,7 +10492,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Disney-Large.jpeg?w=300",
       "threads_published_at": "2026-10-02T14:18:50.680816+00:00"
+    },
+    {
+      "fingerprint": "edc7a9ea213a5772ab7b2f38",
+      "title": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
+      "url": "https://gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-02T05:27:00+00:00",
+      "score": 12,
+      "event_key": "Activision reports proposed total reboot for Halo series",
+      "title_ru": "Activision может перезапустить серию Halo",
+      "threads_teaser_ru": "Франшиза Halo перешла под управление Activision после изменений в структуре Xbox. Новое руководство, по слухам, рассматривает вариант полной перезагрузки серии. Что это может означать для будущего популярного шутера?",
+      "telegram_message_id": "626",
+      "telegram_url": "https://t.me/gamepulse_newss/626",
+      "telegram_published_at": "2026-10-02T14:32:50.469518+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-02T14:18:50.680902+00:00"
+  "updated_at": "2026-10-02T14:32:50.469905+00:00"
 }
