@@ -10336,9 +10336,10 @@
       "telegram_message_id": "616",
       "telegram_url": "https://t.me/gamepulse_newss/616",
       "telegram_published_at": "2026-10-02T02:47:13.154109+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PS5-Console.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PS5-Console.jpg?w=300",
+      "threads_published_at": "2026-10-02T02:47:14.438933+00:00"
     }
   ],
-  "updated_at": "2026-10-02T02:47:13.154310+00:00"
+  "updated_at": "2026-10-02T02:47:14.439009+00:00"
 }
