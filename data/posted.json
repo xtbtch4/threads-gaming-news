@@ -10322,7 +10322,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-01T23:17:52.585162+00:00"
+    },
+    {
+      "fingerprint": "511d19dbee297f0bc7570065",
+      "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
+      "url": "https://gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-01T17:04:53+00:00",
+      "score": 14,
+      "event_key": "ps5_gets_spectral_super_resolution_ai_upgrade",
+      "title_ru": "Базовая PS5 получила функцию апскейлинга на базе ИИ, похожую на технологии PS5 Pro",
+      "threads_teaser_ru": "Базовая версия PS5 получила новую технологию ИИ-апскейлинга под названием Spectral Super Resolution (QSSR). На старте ее поддерживают только Marvel's Wolverine и Ghost of Yotei, но скоро она станет доступна и другим разработчикам.",
+      "telegram_message_id": "616",
+      "telegram_url": "https://t.me/gamepulse_newss/616",
+      "telegram_published_at": "2026-10-02T02:47:13.154109+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PS5-Console.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-01T23:17:52.585248+00:00"
+  "updated_at": "2026-10-02T02:47:13.154310+00:00"
 }
