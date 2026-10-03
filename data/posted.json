@@ -11257,9 +11257,10 @@
       "telegram_message_id": "670",
       "telegram_url": "https://t.me/gamepulse_newss/670",
       "telegram_published_at": "2026-10-03T07:03:46.862701+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/witcher-3-landscape-steam-promo-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/witcher-3-landscape-steam-promo-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-03T07:03:48.191816+00:00"
     }
   ],
-  "updated_at": "2026-10-03T07:03:46.862996+00:00"
+  "updated_at": "2026-10-03T07:03:48.191916+00:00"
 }
