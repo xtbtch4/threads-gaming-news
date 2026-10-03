@@ -11567,7 +11567,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/site-7.jpg?w=300",
       "threads_published_at": "2026-10-03T16:31:57.052485+00:00"
+    },
+    {
+      "fingerprint": "c69bf5150c2c4273ff1e5ffb",
+      "title": "'Game Changer' Season 9 Will Have \"Unexplainable\" Games, Dropout CEO Sam Reich Reveals",
+      "url": "https://polygon.com/game-changer-season-9-dropout-ceo-sam-reich-interview",
+      "source": "Polygon",
+      "published_at_source": "2026-10-03T17:00:19+00:00",
+      "score": 10,
+      "event_key": "sam reich game changer season 9 interview",
+      "title_ru": "Генеральный директор Dropout поделился подробностями о девятом сезоне Game Changer",
+      "threads_teaser_ru": "Генеральный директор Dropout Sam Reich рассказал о подготовке к девятому сезону Game Changer, съемки которого стартуют в октябре. Зрителей ждут максимально странные и сюрреалистичные игры.",
+      "telegram_message_id": "689",
+      "telegram_url": "https://t.me/gamepulse_newss/689",
+      "telegram_published_at": "2026-10-03T17:01:56.312214+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/game-changer-season-8-sam-reich-host-1.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/07/game-changer-season-8-trailer-dropout-exclusive-series-1783529442.mp4"
     }
   ],
-  "updated_at": "2026-10-03T16:31:57.052568+00:00"
+  "updated_at": "2026-10-03T17:01:56.312560+00:00"
 }
