@@ -11192,7 +11192,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/30/asrock9070xt-1790798986650.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-03T01:47:33.037932+00:00"
+    },
+    {
+      "fingerprint": "92fb042c209983eca73f7eda",
+      "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+      "url": "https://ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+      "source": "IGN",
+      "published_at_source": "2026-10-03T01:33:39+00:00",
+      "score": 15,
+      "event_key": "capcom_announces_re_engine_ai_transformation_rex_project",
+      "title_ru": "Capcom планирует превратить RE Engine в игровой движок на базе ИИ",
+      "threads_teaser_ru": "Capcom объявила о планах постепенно улучшить RE Engine и превратить его в игровой движок нового поколения на базе ИИ. Проект REX призван оптимизировать разработку.",
+      "telegram_message_id": "667",
+      "telegram_url": "https://t.me/gamepulse_newss/667",
+      "telegram_published_at": "2026-10-03T02:02:14.273331+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-03T01:47:33.038018+00:00"
+  "updated_at": "2026-10-03T02:02:14.273628+00:00"
 }
