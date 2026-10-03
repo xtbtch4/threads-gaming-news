@@ -11346,7 +11346,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Eday-chainsaw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-03T10:32:19.251068+00:00"
+    },
+    {
+      "fingerprint": "ada77f96f5c3f4d06d1c75d5",
+      "title": "Memory shortages set to persist into 2028, warns Micron CEO",
+      "url": "https://eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-03T10:34:13+00:00",
+      "score": 9,
+      "event_key": "micron ram shortages persist into 2028 ai demand",
+      "title_ru": "Micron предупреждает о дефиците RAM до 2028 года",
+      "threads_teaser_ru": "Глобальный дефицит RAM затянется до 2028 года: компания Micron уже распродала большую часть продукции на следующий год из-за ажиотажного спроса на ИИ-технологии.",
+      "telegram_message_id": "676",
+      "telegram_url": "https://t.me/gamepulse_newss/676",
+      "telegram_published_at": "2026-10-03T11:16:42.264229+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ps5-ram-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-03T10:32:19.251158+00:00"
+  "updated_at": "2026-10-03T11:16:42.264518+00:00"
 }
