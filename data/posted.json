@@ -11445,9 +11445,10 @@
       "telegram_message_id": "681",
       "telegram_url": "https://t.me/gamepulse_newss/681",
       "telegram_published_at": "2026-10-03T13:32:41.428351+00:00",
-      "threads_id": null,
-      "image_url": "https://sm.ign.com/t/ign_fr/cover/i/infinity-s/infinity-sweeper_kcrc.1200.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://sm.ign.com/t/ign_fr/cover/i/infinity-s/infinity-sweeper_kcrc.1200.jpg",
+      "threads_published_at": "2026-10-03T13:32:42.911007+00:00"
     }
   ],
-  "updated_at": "2026-10-03T13:32:41.428625+00:00"
+  "updated_at": "2026-10-03T13:32:42.911100+00:00"
 }
