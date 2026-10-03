@@ -11240,9 +11240,10 @@
       "telegram_message_id": "669",
       "telegram_url": "https://t.me/gamepulse_newss/669",
       "telegram_published_at": "2026-10-03T03:03:18.691804+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/love-and-deepspace-devs-issue-warning-deadly-drink-recipes-1790993773020.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/love-and-deepspace-devs-issue-warning-deadly-drink-recipes-1790993773020.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-03T03:03:20.003810+00:00"
     }
   ],
-  "updated_at": "2026-10-03T03:03:18.692149+00:00"
+  "updated_at": "2026-10-03T03:03:20.003897+00:00"
 }
