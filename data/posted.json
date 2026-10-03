@@ -11650,10 +11650,11 @@
       "telegram_message_id": "693",
       "telegram_url": "https://t.me/gamepulse_newss/693",
       "telegram_published_at": "2026-10-03T19:46:59.915032+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/tunic-on-steam-1788361493.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/tunic-on-steam-1788361493.mp4",
+      "threads_published_at": "2026-10-03T19:47:01.175576+00:00"
     }
   ],
-  "updated_at": "2026-10-03T19:46:59.915339+00:00"
+  "updated_at": "2026-10-03T19:47:01.175683+00:00"
 }
