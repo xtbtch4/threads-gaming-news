@@ -11856,10 +11856,11 @@
       "telegram_message_id": "705",
       "telegram_url": "https://t.me/gamepulse_newss/705",
       "telegram_published_at": "2026-10-04T11:02:00.197966+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown-emotional-gut-punch-in-peanuts-comic.avif?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4"
+      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
+      "threads_published_at": "2026-10-04T11:02:01.469676+00:00"
     }
   ],
-  "updated_at": "2026-10-04T11:02:00.198272+00:00"
+  "updated_at": "2026-10-04T11:02:01.469789+00:00"
 }
