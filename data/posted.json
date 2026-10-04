@@ -11822,9 +11822,10 @@
       "telegram_message_id": "703",
       "telegram_url": "https://t.me/gamepulse_newss/703",
       "telegram_published_at": "2026-10-04T09:02:15.329323+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/nivalis-nights-header-brighter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/nivalis-nights-header-brighter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-04T09:02:16.572004+00:00"
     }
   ],
-  "updated_at": "2026-10-04T09:02:15.329587+00:00"
+  "updated_at": "2026-10-04T09:02:16.572085+00:00"
 }
