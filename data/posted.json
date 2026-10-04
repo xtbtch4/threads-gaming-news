@@ -11908,9 +11908,10 @@
       "telegram_message_id": "708",
       "telegram_url": "https://t.me/gamepulse_newss/708",
       "telegram_published_at": "2026-10-04T13:02:25.059855+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/assets_2024_08_1724246842_xbox-series-x_1tb-digital-edition_16x9_02_notext-2.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/assets_2024_08_1724246842_xbox-series-x_1tb-digital-edition_16x9_02_notext-2.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-04T13:02:26.421664+00:00"
     }
   ],
-  "updated_at": "2026-10-04T13:02:25.060137+00:00"
+  "updated_at": "2026-10-04T13:02:26.421732+00:00"
 }
