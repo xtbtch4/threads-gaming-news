@@ -12084,7 +12084,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ss_7aa2b9e95e7fd430a64edcbd66cbb66617b6b4f3.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-04T17:16:47.504495+00:00"
+    },
+    {
+      "fingerprint": "fba4e11b36a68de8b54de369",
+      "title": "Forget Star Wars Movies, the Franchise’s Future Belongs to Video Games",
+      "url": "https://polygon.com/star-wars-video-games-coming-for-movies-lunch",
+      "source": "Polygon",
+      "published_at_source": "2026-10-04T18:00:15+00:00",
+      "score": 6,
+      "event_key": "star wars video games future of the franchise",
+      "title_ru": "Игры расширяют вселенную Star Wars",
+      "threads_teaser_ru": "Пока кинопроекты и сериалы франшизы Star Wars переживают трудные времена, видеоигры уверенно ведут её в будущее. Такие проекты, как Zero Company и Star Wars: Galactic Racer, доказывают силу интерактивных историй.",
+      "telegram_message_id": "719",
+      "telegram_url": "https://t.me/gamepulse_newss/719",
+      "telegram_published_at": "2026-10-04T18:02:42.433148+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-zero-company.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/05/star-wars-galactic-racer-tm-official-gameplay-trailer-1777922395.mp4"
     }
   ],
-  "updated_at": "2026-10-04T17:16:47.504578+00:00"
+  "updated_at": "2026-10-04T18:02:42.433413+00:00"
 }
