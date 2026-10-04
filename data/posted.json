@@ -11959,10 +11959,11 @@
       "telegram_message_id": "711",
       "telegram_url": "https://t.me/gamepulse_newss/711",
       "telegram_published_at": "2026-10-04T15:02:17.778306+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ghost-of-yotei-echoes-of-sekigahara-screenshot-cropped-10.jpeg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/ghost-of-yotei-bear-boss-fight-1790953531.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/ghost-of-yotei-bear-boss-fight-1790953531.mp4",
+      "threads_published_at": "2026-10-04T15:02:19.053492+00:00"
     }
   ],
-  "updated_at": "2026-10-04T15:02:17.778659+00:00"
+  "updated_at": "2026-10-04T15:02:19.053609+00:00"
 }
