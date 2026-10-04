@@ -12136,7 +12136,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/3.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-04T19:02:28.938325+00:00"
+    },
+    {
+      "fingerprint": "cb43b6f6e26cda3cc9655d9c",
+      "title": "Tom Cruise's Digger Bombs Hard With $20 Million Global Opening in Theaters",
+      "url": "https://ign.com/articles/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-theaters",
+      "source": "IGN",
+      "published_at_source": "2026-10-04T18:46:57+00:00",
+      "score": 9,
+      "event_key": "digger global box office opening weekend flop",
+      "title_ru": "Фильм Digger с Томом Крузом провалился в прокате с глобальными сборами в $20 млн",
+      "threads_teaser_ru": "Новая черная комедия Digger с Томом Крузом собрала лишь $20 млн в мировом прокате при бюджете в $160 млн. Картина режиссера Алехандро Гонсалеса Иньярриту получила смешанные отзывы.",
+      "telegram_message_id": "722",
+      "telegram_url": "https://t.me/gamepulse_newss/722",
+      "telegram_published_at": "2026-10-04T19:17:02.801799+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/20/diggerthumb2-1784555245673.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-04T19:02:28.938417+00:00"
+  "updated_at": "2026-10-04T19:17:02.802088+00:00"
 }
