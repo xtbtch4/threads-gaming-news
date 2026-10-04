@@ -11977,10 +11977,11 @@
       "telegram_message_id": "712",
       "telegram_url": "https://t.me/gamepulse_newss/712",
       "telegram_published_at": "2026-10-04T15:32:17.124383+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/man-of-tomorrow-lex-luthor.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2025/05/superman-official-trailer-1747238278.mp4"
+      "video_url": "https://video.polygonimages.com/2025/05/superman-official-trailer-1747238278.mp4",
+      "threads_published_at": "2026-10-04T15:32:18.667559+00:00"
     }
   ],
-  "updated_at": "2026-10-04T15:32:17.124605+00:00"
+  "updated_at": "2026-10-04T15:32:18.667663+00:00"
 }
