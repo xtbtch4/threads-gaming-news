@@ -12443,7 +12443,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-sonic-x-shadow-generations-lower-than-steam.jpg?w=300",
       "threads_published_at": "2026-10-05T12:32:06.893928+00:00"
+    },
+    {
+      "fingerprint": "877ee5232fa1c26147052824",
+      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
+      "url": "https://eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-05T12:44:39+00:00",
+      "score": 9,
+      "event_key": "behaviour interactive hiring for unannounced sci fi fps",
+      "title_ru": "Создатели Dead by Daylight разрабатывают новый научно-фантастический шутер",
+      "threads_teaser_ru": "Студия Behaviour Interactive, создавшая Dead by Daylight, работает над неанонсированным AAA-шутером в научно-фантастическом сеттинге на движке Unreal Engine с высоким уровнем реалистичности.",
+      "telegram_message_id": "740",
+      "telegram_url": "https://t.me/gamepulse_newss/740",
+      "telegram_published_at": "2026-10-05T12:46:49.921890+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dead-by-daylight-the-last-breath-chapter-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-05T12:32:06.894013+00:00"
+  "updated_at": "2026-10-05T12:46:49.922086+00:00"
 }
