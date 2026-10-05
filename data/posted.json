@@ -12372,9 +12372,10 @@
       "telegram_message_id": "735",
       "telegram_url": "https://t.me/gamepulse_newss/735",
       "telegram_published_at": "2026-10-05T11:16:46.304137+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-05T11:16:47.538016+00:00"
     }
   ],
-  "updated_at": "2026-10-05T11:16:46.304453+00:00"
+  "updated_at": "2026-10-05T11:16:47.538101+00:00"
 }
