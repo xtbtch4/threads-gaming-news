@@ -12951,9 +12951,10 @@
       "telegram_message_id": "769",
       "telegram_url": "https://t.me/gamepulse_newss/769",
       "telegram_published_at": "2026-10-05T20:33:28.982145+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-05T20:33:30.508027+00:00"
     }
   ],
-  "updated_at": "2026-10-05T20:33:28.982466+00:00"
+  "updated_at": "2026-10-05T20:33:30.508117+00:00"
 }
