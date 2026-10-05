@@ -12287,9 +12287,10 @@
       "telegram_message_id": "730",
       "telegram_url": "https://t.me/gamepulse_newss/730",
       "telegram_published_at": "2026-10-05T04:02:29.922644+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/24/lanterns-kyle-chandler-thumb-1784930448218.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/24/lanterns-kyle-chandler-thumb-1784930448218.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-05T04:02:31.356542+00:00"
     }
   ],
-  "updated_at": "2026-10-05T04:02:29.923093+00:00"
+  "updated_at": "2026-10-05T04:02:31.356641+00:00"
 }
