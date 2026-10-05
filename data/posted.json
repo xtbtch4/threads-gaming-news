@@ -13123,9 +13123,10 @@
       "telegram_message_id": "779",
       "telegram_url": "https://t.me/gamepulse_newss/779",
       "telegram_published_at": "2026-10-05T23:03:00.810810+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2024/03/08/watchdogs1-hero-desktop-v2-1709924119274.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2024/03/08/watchdogs1-hero-desktop-v2-1709924119274.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-05T23:03:02.264478+00:00"
     }
   ],
-  "updated_at": "2026-10-05T23:03:00.811156+00:00"
+  "updated_at": "2026-10-05T23:03:02.264576+00:00"
 }
