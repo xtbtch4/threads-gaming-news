@@ -12954,7 +12954,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-05T20:33:30.508027+00:00"
+    },
+    {
+      "fingerprint": "b75f82962884bb338fe498ed",
+      "title": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off",
+      "url": "https://rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-05T09:52:00+00:00",
+      "score": 13,
+      "event_key": "runescape-4-unreal-engine-mmo-announced-jagex",
+      "title_ru": "Анонсирована RuneScape 4 на движке Unreal Engine",
+      "threads_teaser_ru": "Компания Jagex анонсировала RuneScape 4 на движке Unreal Engine. Новая MMORPG выросла из планов по расширению выживача RuneScape: Dragonwilds и не заменит существующие игры франшизы.",
+      "telegram_message_id": "770",
+      "telegram_url": "https://t.me/gamepulse_newss/770",
+      "telegram_published_at": "2026-10-05T20:46:47.780743+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/runescape-4-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-05T20:33:30.508117+00:00"
+  "updated_at": "2026-10-05T20:46:47.781202+00:00"
 }
