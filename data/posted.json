@@ -12355,9 +12355,10 @@
       "telegram_message_id": "734",
       "telegram_url": "https://t.me/gamepulse_newss/734",
       "telegram_published_at": "2026-10-05T11:02:25.289156+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/car-park-capital_Gmq5Uqg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/car-park-capital_Gmq5Uqg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-05T11:02:26.669820+00:00"
     }
   ],
-  "updated_at": "2026-10-05T11:02:25.289531+00:00"
+  "updated_at": "2026-10-05T11:02:26.669912+00:00"
 }
