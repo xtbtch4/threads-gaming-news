@@ -12682,7 +12682,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/03/342305-cn-copy-1791050958738.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-05T16:17:12.182141+00:00"
+    },
+    {
+      "fingerprint": "107fae465d0a9457e3f81c5b",
+      "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
+      "url": "https://eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-05T16:25:19+00:00",
+      "score": 11,
+      "event_key": "dd_world_of_warcraft_book_release",
+      "title_ru": "Анонс книги D&D: World of Warcraft",
+      "threads_teaser_ru": "Настольная книга D&D: World of Warcraft выйдет 17 ноября. Она добавит расы, заклинания и подземелья из игры Blizzard, но сохранит правила настолки без рейдов на 40 человек и гринда.",
+      "telegram_message_id": "754",
+      "telegram_url": "https://t.me/gamepulse_newss/754",
+      "telegram_published_at": "2026-10-05T16:32:18.942360+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/sylvanas-wow-d%26d-book.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-05T16:17:12.182242+00:00"
+  "updated_at": "2026-10-05T16:32:18.942662+00:00"
 }
