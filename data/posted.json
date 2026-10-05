@@ -12900,9 +12900,10 @@
       "telegram_message_id": "766",
       "telegram_url": "https://t.me/gamepulse_newss/766",
       "telegram_published_at": "2026-10-05T19:32:45.805148+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/north-Large.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/north-Large.jpeg?w=300",
+      "threads_published_at": "2026-10-05T19:32:47.036132+00:00"
     }
   ],
-  "updated_at": "2026-10-05T19:32:45.805379+00:00"
+  "updated_at": "2026-10-05T19:32:47.036248+00:00"
 }
