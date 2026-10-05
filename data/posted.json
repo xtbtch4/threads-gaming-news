@@ -12716,7 +12716,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/noematica.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-05T16:47:20.125248+00:00"
+    },
+    {
+      "fingerprint": "e9f2a57160313995c166e6ce",
+      "title": "Hello from Seattle: XBOX FanFest Comes Home November 12",
+      "url": "https://news.xbox.com/en-us/2026/10/05/xbox-fanfest-seattle-25th-anniversary",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-05T17:00:00+00:00",
+      "score": 12,
+      "event_key": "xbox_fanfest_seattle_25th_anniversary_2026",
+      "title_ru": "XBOX FanFest пройдет в Сиэтле в рамках празднования 25-летия бренда",
+      "threads_teaser_ru": "Финальной точкой тура XBOX FanFest станет Сиэтл, где 12 ноября 2026 года пройдет масштабное празднование 25-летия XBOX. Гостей ждут выставки, игры и специальные активности.",
+      "telegram_message_id": "756",
+      "telegram_url": "https://t.me/gamepulse_newss/756",
+      "telegram_published_at": "2026-10-05T17:02:49.463927+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XB-Fanfest_Seattle_16x9-f0c06b3135274ea06018-1024x576.png"
     }
   ],
-  "updated_at": "2026-10-05T16:47:20.125334+00:00"
+  "updated_at": "2026-10-05T17:02:49.464187+00:00"
 }
