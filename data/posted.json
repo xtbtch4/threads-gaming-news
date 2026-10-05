@@ -12852,7 +12852,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/07/15/batmanthumb-1784125923794.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-05T18:46:39.911302+00:00"
+    },
+    {
+      "fingerprint": "1e7f8319433beda861359508",
+      "title": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision",
+      "url": "https://eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-05T18:54:20+00:00",
+      "score": 15,
+      "event_key": "halo-studios-intent-to-release-new-books",
+      "title_ru": "Halo Studios намерена выпустить новые книги по Halo вопреки изменениям в компании",
+      "threads_teaser_ru": "Несмотря на масштабную реструктуризацию, массовые увольнения и переход под надзор Activision, в Halo Studios намерены выпустить новые книги по серии, включая Halo: Fireteam Noble.",
+      "telegram_message_id": "764",
+      "telegram_url": "https://t.me/gamepulse_newss/764",
+      "telegram_published_at": "2026-10-05T19:02:23.518410+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/halo-infinite-photo-1382120.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-05T18:46:39.911396+00:00"
+  "updated_at": "2026-10-05T19:02:23.518676+00:00"
 }
