@@ -13020,10 +13020,11 @@
       "telegram_message_id": "773",
       "telegram_url": "https://t.me/gamepulse_newss/773",
       "telegram_published_at": "2026-10-05T21:32:38.265622+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/multi-stage-boss-fights-header.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4",
+      "threads_published_at": "2026-10-05T21:32:39.853015+00:00"
     }
   ],
-  "updated_at": "2026-10-05T21:32:38.265939+00:00"
+  "updated_at": "2026-10-05T21:32:39.853126+00:00"
 }
