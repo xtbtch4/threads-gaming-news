@@ -12526,9 +12526,10 @@
       "telegram_message_id": "744",
       "telegram_url": "https://t.me/gamepulse_newss/744",
       "telegram_published_at": "2026-10-05T13:46:32.099896+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-05T13:46:33.359888+00:00"
     }
   ],
-  "updated_at": "2026-10-05T13:46:32.100011+00:00"
+  "updated_at": "2026-10-05T13:46:33.359970+00:00"
 }
