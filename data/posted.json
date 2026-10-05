@@ -12358,7 +12358,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/car-park-capital_Gmq5Uqg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-05T11:02:26.669820+00:00"
+    },
+    {
+      "fingerprint": "c90913f2b597756bf17cd933",
+      "title": "Ace Combat 8 is far and away the series' biggest launch on Steam",
+      "url": "https://eurogamer.net/ace-combat-8-steam-launch-record-players",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-05T11:02:40+00:00",
+      "score": 15,
+      "event_key": "ace combat 8 steam launch record players",
+      "title_ru": "Ace Combat 8 установила рекорд серии по числу игроков на Steam",
+      "threads_teaser_ru": "Ace Combat 8: Wings of Theve показала крупнейший запуск в Steam за всю историю франшизы. Пиковый онлайн симулятора превысил 52 тысячи игроков, а отзывы пользователей держатся на уровне «Очень положительный».",
+      "telegram_message_id": "735",
+      "telegram_url": "https://t.me/gamepulse_newss/735",
+      "telegram_published_at": "2026-10-05T11:16:46.304137+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-05T11:02:26.669912+00:00"
+  "updated_at": "2026-10-05T11:16:46.304453+00:00"
 }
