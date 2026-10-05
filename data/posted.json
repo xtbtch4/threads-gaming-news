@@ -12440,9 +12440,10 @@
       "telegram_message_id": "739",
       "telegram_url": "https://t.me/gamepulse_newss/739",
       "telegram_published_at": "2026-10-05T12:32:05.672373+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-sonic-x-shadow-generations-lower-than-steam.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-sonic-x-shadow-generations-lower-than-steam.jpg?w=300",
+      "threads_published_at": "2026-10-05T12:32:06.893928+00:00"
     }
   ],
-  "updated_at": "2026-10-05T12:32:05.672503+00:00"
+  "updated_at": "2026-10-05T12:32:06.894013+00:00"
 }
