@@ -13501,7 +13501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/03/jason-and-lucia-04-1788457455588.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-06T11:32:32.506094+00:00"
+    },
+    {
+      "fingerprint": "f40ec3ab3e660bf7e7962bfa",
+      "title": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes",
+      "url": "https://eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-06T11:01:33+00:00",
+      "score": 9,
+      "event_key": "cd-projekt-red-outlines-witcher-3-remastered-fixes",
+      "title_ru": "CD Projekt Red рассказала о следующих патчах для The Witcher 3 Remastered",
+      "threads_teaser_ru": "CD Projekt Red поделилась планами по выпуску следующего обновления для The Witcher 3 Remastered, которое должно исправить баги, улучшить производительность на PS5 и аудио на консолях.",
+      "telegram_message_id": "802",
+      "telegram_url": "https://t.me/gamepulse_newss/802",
+      "telegram_published_at": "2026-10-06T11:47:14.678641+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-06T11:32:32.506174+00:00"
+  "updated_at": "2026-10-06T11:47:14.678932+00:00"
 }
