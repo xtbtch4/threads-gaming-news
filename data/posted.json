@@ -13808,7 +13808,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Warhammer-Survivors.jpg?w=300",
       "threads_published_at": "2026-10-06T16:16:44.653296+00:00"
+    },
+    {
+      "fingerprint": "e8af4a6c5d8e7db484499164",
+      "title": "State of Decay 3 Was Revealed Early Partly Because of the Studio Boss' Anxiety Around Xbox's Plans",
+      "url": "https://ign.com/articles/state-of-decay-3-revealed-early-anxiety-xbox",
+      "source": "IGN",
+      "published_at_source": "2026-10-06T15:10:00+00:00",
+      "score": 15,
+      "event_key": "undead_labs_boss_explains_early_state_of_decay_3_announcement",
+      "title_ru": "Руководитель Undead Labs объяснил ранний анонс State of Decay 3",
+      "threads_teaser_ru": "Глава Undead Labs Филип Холт рассказал, почему State of Decay 3 анонсировали в 2020 году задолго до активной фазы разработки. Студия опасалась за свою судьбу на фоне масштабных покупок Microsoft.",
+      "telegram_message_id": "820",
+      "telegram_url": "https://t.me/gamepulse_newss/820",
+      "telegram_published_at": "2026-10-06T16:32:24.306194+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-06T16:16:44.653381+00:00"
+  "updated_at": "2026-10-06T16:32:24.306522+00:00"
 }
