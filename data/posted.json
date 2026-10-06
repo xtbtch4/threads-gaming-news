@@ -13945,7 +13945,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-10-06T18:17:41.933763+00:00"
+    },
+    {
+      "fingerprint": "01315ddc45421e54348db3a0",
+      "title": "Hell Is Officially Breaking Loose For The Gaming Industry Thanks To AI",
+      "url": "https://polygon.com/ps5-jailbreak-emulator-minecraft-elden-ring-claude-opus-5-ai-games",
+      "source": "Polygon",
+      "published_at_source": "2026-10-06T18:30:43+00:00",
+      "score": 10,
+      "event_key": "Claude Opus 5.5 impact on video game emulation and modding",
+      "title_ru": "Влияние ИИ Claude Opus 5.5 на индустрию видеоигр",
+      "threads_teaser_ru": "Релиз Claude Opus 5.5 привел к созданию необычных игровых гибридов, развитию эмуляторов PS5 на ПК и упрощению взлома консолей. Технологии ИИ позволяют объединять несовместимые игры и ускоряют процесс реверс-инжиниринга, ставя под угрозу экосистемы крупных издателей.",
+      "telegram_message_id": "828",
+      "telegram_url": "https://t.me/gamepulse_newss/828",
+      "telegram_published_at": "2026-10-06T18:32:51.375213+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/polygon-graphic-ps5-retrospective.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-06T18:17:41.933845+00:00"
+  "updated_at": "2026-10-06T18:32:51.375344+00:00"
 }
