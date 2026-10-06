@@ -14252,7 +14252,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/rotetra.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-06T22:46:46.086629+00:00"
+    },
+    {
+      "fingerprint": "5dd47676d83ea73499831dc4",
+      "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
+      "url": "https://ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
+      "source": "IGN",
+      "published_at_source": "2026-10-06T22:42:41+00:00",
+      "score": 15,
+      "event_key": "xbox_secures_exclusive_cloud_streaming_rights_to_gta_6",
+      "title_ru": "Xbox получила эксклюзивные права на облачный стриминг GTA 6",
+      "threads_teaser_ru": "Xbox заключила сделку об эксклюзивных правах на облачный стриминг GTA 6 на релизе в ноябре. Это может дать ПК-игрокам возможность запустить игру через облако без покупки консоли.",
+      "telegram_message_id": "846",
+      "telegram_url": "https://t.me/gamepulse_newss/846",
+      "telegram_published_at": "2026-10-06T23:02:27.978625+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-06T22:46:46.086723+00:00"
+  "updated_at": "2026-10-06T23:02:27.978965+00:00"
 }
