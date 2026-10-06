@@ -13518,7 +13518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-06T11:47:15.861328+00:00"
+    },
+    {
+      "fingerprint": "e0bba3e2935ce048d9f301bc",
+      "title": "GTA 5 Made Playable in Browser as AI-Generated Game Chaos Continues",
+      "url": "https://ign.com/articles/gta-5-made-playable-in-browser-as-ai-generated-game-chaos-continues",
+      "source": "IGN",
+      "published_at_source": "2026-10-06T11:55:10+00:00",
+      "score": 11,
+      "event_key": "gta-5-made-playable-in-browser-via-ai",
+      "title_ru": "GTA 5 сделали доступной в браузере с помощью ИИ",
+      "threads_teaser_ru": "Grand Theft Auto 5 появилась в браузере благодаря технологиям искусственного интеллекта, но вскоре проект ушел в оффлайн после вмешательства Cloudflare.",
+      "telegram_message_id": "803",
+      "telegram_url": "https://t.me/gamepulse_newss/803",
+      "telegram_published_at": "2026-10-06T12:02:24.877213+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/30/gta-5-michael-gta-6-1788126987774.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-06T11:47:15.861419+00:00"
+  "updated_at": "2026-10-06T12:02:24.877530+00:00"
 }
