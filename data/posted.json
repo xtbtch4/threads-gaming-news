@@ -13535,7 +13535,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/30/gta-5-michael-gta-6-1788126987774.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-06T12:02:26.146447+00:00"
+    },
+    {
+      "fingerprint": "872d4134705b9c0450d82921",
+      "title": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+      "url": "https://eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-06T11:36:35+00:00",
+      "score": 11,
+      "event_key": "coalition-improves-xbox-series-s-performance-gears-of-war-e-day",
+      "title_ru": "The Coalition нашла способ повысить производительность Gears of War: E-Day на Xbox Series S",
+      "threads_teaser_ru": "Студия The Coalition нашла способ задействовать сверхбыстрый NVMe SSD в качестве дополнительного уровня памяти на Xbox Series S для Gears of War: E-Day.",
+      "telegram_message_id": "804",
+      "telegram_url": "https://t.me/gamepulse_newss/804",
+      "telegram_published_at": "2026-10-06T12:17:28.262373+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(21).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-06T12:02:26.146549+00:00"
+  "updated_at": "2026-10-06T12:17:28.262643+00:00"
 }
