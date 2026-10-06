@@ -14286,7 +14286,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/06/image-1791324177483.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-06T23:17:17.506419+00:00"
+    },
+    {
+      "fingerprint": "34f617dc43ace870bcc0c078",
+      "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
+      "url": "https://ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
+      "source": "IGN",
+      "published_at_source": "2026-10-06T22:10:40+00:00",
+      "score": 9,
+      "event_key": "playstation community member psn account hacked and restored",
+      "title_ru": "Проблемы с безопасностью PSN вызвали беспокойство у игроков",
+      "threads_teaser_ru": "Известный участник сообщества PlayStation столкнулся со взломом аккаунта PSN и сумел вернуть его лишь благодаря связям. Обычные игроки остаются уязвимы перед лицом старых проблем безопасности.",
+      "telegram_message_id": "848",
+      "telegram_url": "https://t.me/gamepulse_newss/848",
+      "telegram_published_at": "2026-10-06T23:32:34.985715+00:00",
+      "threads_id": null,
+      "image_url": "https://assets1.ignimgs.com/2015/10/27/playstation-logojpg-9b373d.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-06T23:17:17.506545+00:00"
+  "updated_at": "2026-10-06T23:32:34.985962+00:00"
 }
