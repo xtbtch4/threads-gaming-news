@@ -13515,9 +13515,10 @@
       "telegram_message_id": "802",
       "telegram_url": "https://t.me/gamepulse_newss/802",
       "telegram_published_at": "2026-10-06T11:47:14.678641+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-06T11:47:15.861328+00:00"
     }
   ],
-  "updated_at": "2026-10-06T11:47:14.678932+00:00"
+  "updated_at": "2026-10-06T11:47:15.861419+00:00"
 }
