@@ -13583,9 +13583,10 @@
       "telegram_message_id": "806",
       "telegram_url": "https://t.me/gamepulse_newss/806",
       "telegram_published_at": "2026-10-06T12:46:58.764478+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Bayonetta_aEPrKV0.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Bayonetta_aEPrKV0.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-06T12:47:00.185397+00:00"
     }
   ],
-  "updated_at": "2026-10-06T12:46:58.764806+00:00"
+  "updated_at": "2026-10-06T12:47:00.185507+00:00"
 }
