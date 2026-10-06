@@ -14113,9 +14113,10 @@
       "telegram_message_id": "837",
       "telegram_url": "https://t.me/gamepulse_newss/837",
       "telegram_published_at": "2026-10-06T20:46:55.772203+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/24/gta-6-jason-duvall-1782336015774.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/24/gta-6-jason-duvall-1782336015774.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-06T20:46:57.118115+00:00"
     }
   ],
-  "updated_at": "2026-10-06T20:46:55.772477+00:00"
+  "updated_at": "2026-10-06T20:46:57.118196+00:00"
 }
