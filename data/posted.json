@@ -13413,9 +13413,10 @@
       "telegram_message_id": "796",
       "telegram_url": "https://t.me/gamepulse_newss/796",
       "telegram_published_at": "2026-10-06T09:46:48.245076+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/supermassive-games-layoffs-seemingly-70-people-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/supermassive-games-layoffs-seemingly-70-people-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-06T09:46:49.409325+00:00"
     }
   ],
-  "updated_at": "2026-10-06T09:46:48.245401+00:00"
+  "updated_at": "2026-10-06T09:46:49.409417+00:00"
 }
