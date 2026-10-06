@@ -14030,7 +14030,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/borderlands-online.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-06T19:32:41.093253+00:00"
+    },
+    {
+      "fingerprint": "d9ec03dd0e5ed3bdd9441133",
+      "title": "A Scary-Looking New Conjuring Game Just Got Announced, And It’s Out Next Week On Netflix",
+      "url": "https://gamespot.com/articles/a-scary-looking-new-conjuring-game-just-got-announced-and-its-out-next-week-on-netflix",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-06T19:26:05+00:00",
+      "score": 13,
+      "event_key": "supermassive games announces the conjuring unspoken netflix",
+      "title_ru": "Анонсирована игра The Conjuring: Unspoken от Supermassive Games",
+      "threads_teaser_ru": "Netflix и разработчики Until Dawn из Supermassive Games анонсировали The Conjuring: Unspoken. Игра выходит уже 13 октября и работает прямо через Netflix без необходимости использовать специальное железо.",
+      "telegram_message_id": "833",
+      "telegram_url": "https://t.me/gamepulse_newss/833",
+      "telegram_published_at": "2026-10-06T19:47:03.768053+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuring-Large.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-10-06T19:32:41.093346+00:00"
+  "updated_at": "2026-10-06T19:47:03.768212+00:00"
 }
