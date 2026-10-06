@@ -14235,7 +14235,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/07/06/aion2thumb-1783347131362.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-06T22:32:28.400491+00:00"
+    },
+    {
+      "fingerprint": "8cd1bcfc11ccd59d66db520b",
+      "title": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun",
+      "url": "https://rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-06T21:53:26+00:00",
+      "score": 10,
+      "event_key": "rotetra-tetris-four-sides-falling-blocks-demo",
+      "title_ru": "Анонсирована ROTETRA — необычная версия Tetris с падением блоков с четырех сторон",
+      "threads_teaser_ru": "Вышла демоверсия ROTETRA — необычного проекта, где тетромино падают сразу с нескольких сторон, а игроку нужно вращать все поле и следить за фигурами.",
+      "telegram_message_id": "845",
+      "telegram_url": "https://t.me/gamepulse_newss/845",
+      "telegram_published_at": "2026-10-06T22:46:44.606848+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/rotetra.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-06T22:32:28.400581+00:00"
+  "updated_at": "2026-10-06T22:46:44.607202+00:00"
 }
