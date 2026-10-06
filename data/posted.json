@@ -14095,10 +14095,11 @@
       "telegram_message_id": "836",
       "telegram_url": "https://t.me/gamepulse_newss/836",
       "telegram_published_at": "2026-10-06T20:32:21.084778+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11907745/doom_cacodemon_3840.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/doom-launch-trailer-1791311718.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/doom-launch-trailer-1791311718.mp4",
+      "threads_published_at": "2026-10-06T20:32:22.834693+00:00"
     }
   ],
-  "updated_at": "2026-10-06T20:32:21.085089+00:00"
+  "updated_at": "2026-10-06T20:32:22.834790+00:00"
 }
