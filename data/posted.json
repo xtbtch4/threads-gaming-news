@@ -13754,9 +13754,10 @@
       "telegram_message_id": "816",
       "telegram_url": "https://t.me/gamepulse_newss/816",
       "telegram_published_at": "2026-10-06T15:32:39.232054+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/david-tenant-dr-who.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/david-tenant-dr-who.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-06T15:32:40.782266+00:00"
     }
   ],
-  "updated_at": "2026-10-06T15:32:39.232578+00:00"
+  "updated_at": "2026-10-06T15:32:40.782364+00:00"
 }
