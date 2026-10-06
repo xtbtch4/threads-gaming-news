@@ -13603,7 +13603,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/06/02/draft-night-header-1780387582600.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-06T13:02:22.722198+00:00"
+    },
+    {
+      "fingerprint": "aed70d80437bfd99ee2b9e5a",
+      "title": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls",
+      "url": "https://eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-06T13:00:56+00:00",
+      "score": 11,
+      "event_key": "nintendo-switch-sports-resort-gamescom-preview",
+      "title_ru": "Впечатления от Nintendo Switch Sports Resort с Gamescom",
+      "threads_teaser_ru": "Журналисты поделились впечатлениями от Nintendo Switch Sports Resort для Switch 2 после часа игры на Gamescom. Сборник включает 12 дисциплин, включая скейтбординг с использованием контроллера в режиме мыши.",
+      "telegram_message_id": "808",
+      "telegram_url": "https://t.me/gamepulse_newss/808",
+      "telegram_published_at": "2026-10-06T13:16:52.409688+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/switch-sports-resort-header_OaCFHWd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-06T13:02:22.722302+00:00"
+  "updated_at": "2026-10-06T13:16:52.409899+00:00"
 }
