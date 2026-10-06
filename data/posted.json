@@ -13297,7 +13297,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/clint-eastwood.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/trailers/20240903/655679.mp4",
       "threads_published_at": "2026-10-06T04:02:13.543405+00:00"
+    },
+    {
+      "fingerprint": "b0af84c71094e864fe6b3fd6",
+      "title": "Escape From Tarkov’s New PvE Update Officially Makes the Game Easier for Newbies",
+      "url": "https://polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige",
+      "source": "Polygon",
+      "published_at_source": "2026-10-06T07:00:17+00:00",
+      "score": 10,
+      "event_key": "escape-from-tarkov-pve-update-1-2-0-0",
+      "title_ru": "Вышло обновление 1.2.0.0 для PvE-режима в Escape from Tarkov",
+      "threads_teaser_ru": "В Escape from Tarkov вышло обновление 1.2.0.0 для PvE-режима с программой «EXFIL Brothers» для помощи новичкам, системой престижа и переработкой поведения PMC-ботов.",
+      "telegram_message_id": "790",
+      "telegram_url": "https://t.me/gamepulse_newss/790",
+      "telegram_published_at": "2026-10-06T07:03:32.414725+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/escape-from-tarkov-pve-update-1200.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-06T04:02:13.543519+00:00"
+  "updated_at": "2026-10-06T07:03:32.414983+00:00"
 }
