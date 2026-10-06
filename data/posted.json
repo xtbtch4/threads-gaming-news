@@ -13654,7 +13654,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Steam-Frame-Kurt.jpg?w=300",
       "threads_published_at": "2026-10-06T13:47:01.100702+00:00"
+    },
+    {
+      "fingerprint": "21a56698d3c62637eaf81ff0",
+      "title": "Modern Warships Dev Causes Actual Art Storm After Plagiarizing Ship Design",
+      "url": "https://ign.com/articles/modern-warships-dev-causes-actual-art-storm-after-plagiarizing-ship-design",
+      "source": "IGN",
+      "published_at_source": "2026-10-06T13:36:59+00:00",
+      "score": 9,
+      "event_key": "Artstorm admits to plagiarizing ship design in Modern Warships",
+      "title_ru": "Разработчики Modern Warships обвинены в плагиате дизайна корабля",
+      "threads_teaser_ru": "Разработчики Modern Warships оказались в центре скандала после того, как в игре обнаружили скопированный без разрешения дизайн корабля. Концепт-художник указал на поразительное сходство, включая собственные ошибки в конструкции, и ждет решения от Artstorm.",
+      "telegram_message_id": "811",
+      "telegram_url": "https://t.me/gamepulse_newss/811",
+      "telegram_published_at": "2026-10-06T14:04:16.434153+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/06/warship-1791293810323.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-06T13:47:01.100807+00:00"
+  "updated_at": "2026-10-06T14:04:16.434401+00:00"
 }
