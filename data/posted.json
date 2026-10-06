@@ -13856,10 +13856,11 @@
       "telegram_message_id": "822",
       "telegram_url": "https://t.me/gamepulse_newss/822",
       "telegram_published_at": "2026-10-06T17:03:26.041353+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4499145/PPL_004_HEADER.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/watch-dogs-legion-story-trailer-ubisoft-na-ubisoft-1080p-1791301128.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/watch-dogs-legion-story-trailer-ubisoft-na-ubisoft-1080p-1791301128.mp4",
+      "threads_published_at": "2026-10-06T17:03:30.671492+00:00"
     }
   ],
-  "updated_at": "2026-10-06T17:03:26.041591+00:00"
+  "updated_at": "2026-10-06T17:03:30.671597+00:00"
 }
