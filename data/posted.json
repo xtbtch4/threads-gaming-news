@@ -14793,10 +14793,11 @@
       "telegram_message_id": "877",
       "telegram_url": "https://t.me/gamepulse_newss/877",
       "telegram_published_at": "2026-10-07T12:33:46.136223+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/jpp_who_231123-03887-edit_embargo_tuesday_8th_april_b512637b.jpeg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/you-aren-t-ready-for-this-season-of-game-changer-1791367955.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/you-aren-t-ready-for-this-season-of-game-changer-1791367955.mp4",
+      "threads_published_at": "2026-10-07T12:33:47.435158+00:00"
     }
   ],
-  "updated_at": "2026-10-07T12:33:46.136598+00:00"
+  "updated_at": "2026-10-07T12:33:47.435285+00:00"
 }
