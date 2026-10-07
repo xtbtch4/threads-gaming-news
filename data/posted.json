@@ -15426,9 +15426,10 @@
       "telegram_message_id": "915",
       "telegram_url": "https://t.me/gamepulse_newss/915",
       "telegram_published_at": "2026-10-07T23:47:01.989848+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/screamer-single-stick-drift-control-update-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/screamer-single-stick-drift-control-update-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-07T23:47:03.234906+00:00"
     }
   ],
-  "updated_at": "2026-10-07T23:47:01.990213+00:00"
+  "updated_at": "2026-10-07T23:47:03.235002+00:00"
 }
