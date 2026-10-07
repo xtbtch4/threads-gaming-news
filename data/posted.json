@@ -14320,7 +14320,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/diablo-2-resurrected_G8Y7lNc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-06T23:47:23.219534+00:00"
+    },
+    {
+      "fingerprint": "017b606043f7036e7035736f",
+      "title": "Refurbished PS5 Pros are now 50% more expensive than new ones at GameStop",
+      "url": "https://polygon.com/gamestop-playstation-5-ps5-pro-price-change-preowned-refurbished",
+      "source": "Polygon",
+      "published_at_source": "2026-10-06T05:36:00+00:00",
+      "score": 8,
+      "event_key": "gamestop preowned ps5 pro price increase",
+      "title_ru": "Подержанные PS5 Pro в GameStop стали дороже новых",
+      "threads_teaser_ru": "В сети GameStop подержанные консоли PlayStation 5 Pro внезапно подорожали и теперь продаются по цене до 1499,99 долларов, что значительно дороже новых устройств. Эксперты связывают это со взломом консоли.",
+      "telegram_message_id": "850",
+      "telegram_url": "https://t.me/gamepulse_newss/850",
+      "telegram_published_at": "2026-10-07T00:02:47.807133+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/ps5_green.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-06T23:47:23.219624+00:00"
+  "updated_at": "2026-10-07T00:02:47.807496+00:00"
 }
