@@ -14998,10 +14998,11 @@
       "telegram_message_id": "889",
       "telegram_url": "https://t.me/gamepulse_newss/889",
       "telegram_published_at": "2026-10-07T17:04:31.174161+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2871476/5dfnrgV_-_Imgur.0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/hideo-kojima-reveals-lead-cast-member-for-physint-xbox-1080p-1789657089.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/hideo-kojima-reveals-lead-cast-member-for-physint-xbox-1080p-1789657089.mp4",
+      "threads_published_at": "2026-10-07T17:04:32.859336+00:00"
     }
   ],
-  "updated_at": "2026-10-07T17:04:31.174461+00:00"
+  "updated_at": "2026-10-07T17:04:32.859442+00:00"
 }
