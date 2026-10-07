@@ -14592,7 +14592,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/06/09/pd-1717955017416.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-07T09:02:18.840994+00:00"
+    },
+    {
+      "fingerprint": "a3acaa06a182c459ae02bd2f",
+      "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
+      "url": "https://gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-07T09:03:51+00:00",
+      "score": 15,
+      "event_key": "gta 6 will not stream to pc through xbox",
+      "title_ru": "GTA 6 не будет доступна для стриминга на PC через Xbox",
+      "threads_teaser_ru": "Microsoft опровергла слухи о том, что Grand Theft Auto 6 можно будет стримить на PC через Xbox Cloud Gaming. Релиз игры на консолях запланирован на 19 ноября.",
+      "telegram_message_id": "866",
+      "telegram_url": "https://t.me/gamepulse_newss/866",
+      "telegram_published_at": "2026-10-07T09:31:51.669834+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Lucia.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-07T09:02:18.841083+00:00"
+  "updated_at": "2026-10-07T09:31:51.670146+00:00"
 }
