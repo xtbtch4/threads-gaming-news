@@ -14555,9 +14555,10 @@
       "telegram_message_id": "863",
       "telegram_url": "https://t.me/gamepulse_newss/863",
       "telegram_published_at": "2026-10-07T07:17:16.903305+00:00",
-      "threads_id": null,
-      "image_url": "https://sm.ign.com/t/ign_za/news/e/exclusive-/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screens_rgks.1200.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://sm.ign.com/t/ign_za/news/e/exclusive-/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screens_rgks.1200.jpg",
+      "threads_published_at": "2026-10-07T07:17:18.754389+00:00"
     }
   ],
-  "updated_at": "2026-10-07T07:17:16.903562+00:00"
+  "updated_at": "2026-10-07T07:17:18.754472+00:00"
 }
