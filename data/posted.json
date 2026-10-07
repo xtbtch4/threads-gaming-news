@@ -15173,7 +15173,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/07/untitled-design-1-1791388469541.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-07T19:47:22.043003+00:00"
+    },
+    {
+      "fingerprint": "87740353e52c172bcbbbae43",
+      "title": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter",
+      "url": "https://rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-07T15:45:27+00:00",
+      "score": 9,
+      "event_key": "Double Counter security breach data leak Discord",
+      "title_ru": "Сервис Double Counter подвергся масштабной хакерской атаке",
+      "threads_teaser_ru": "Сервис для модерации Discord-серверов Double Counter подвергся масштабному взлому. Хакеры похитили около 1 миллиона email-адресов, а также данные 28 миллионов пользователей, включая Discord ID и IP-адреса.",
+      "telegram_message_id": "900",
+      "telegram_url": "https://t.me/gamepulse_newss/900",
+      "telegram_published_at": "2026-10-07T20:04:07.498588+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/discordart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-07T19:47:22.043094+00:00"
+  "updated_at": "2026-10-07T20:04:07.498937+00:00"
 }
