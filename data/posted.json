@@ -14933,7 +14933,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/07/mixcollage-06-oct-2026-11-02-pm-6419-1791342133843.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-07T16:02:48.626603+00:00"
+    },
+    {
+      "fingerprint": "3deef95625ecaaccbcdd09b2",
+      "title": "Google Playground Wants Everyone To Make AI Games, And Maybe Everyone Shouldn’t",
+      "url": "https://gamespot.com/articles/google-playground-wants-everyone-to-make-ai-games-and-maybe-everyone-shouldnt",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-07T14:44:35+00:00",
+      "score": 12,
+      "event_key": "google launches playground ai game creation platform",
+      "title_ru": "Google запустила экспериментальную платформу Playground для создания игр с помощью ИИ",
+      "threads_teaser_ru": "Google представила Playground — платформу для создания игр с помощью ИИ-промптов. Сервис призван упростить разработку, убрав необходимость в навыках программирования, и уже включает поддержку Unity Spark. Однако первые пользователи отмечают проблемы с качеством контента.",
+      "telegram_message_id": "886",
+      "telegram_url": "https://t.me/gamepulse_newss/886",
+      "telegram_published_at": "2026-10-07T16:21:36.335574+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GooglePlayground.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-07T16:02:48.626689+00:00"
+  "updated_at": "2026-10-07T16:21:36.335898+00:00"
 }
