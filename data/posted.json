@@ -14691,9 +14691,10 @@
       "telegram_message_id": "871",
       "telegram_url": "https://t.me/gamepulse_newss/871",
       "telegram_published_at": "2026-10-07T10:47:28.803628+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/313/3136061/4645810-gta6.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/313/3136061/4645810-gta6.jpg?w=300",
+      "threads_published_at": "2026-10-07T10:47:30.221158+00:00"
     }
   ],
-  "updated_at": "2026-10-07T10:47:28.803858+00:00"
+  "updated_at": "2026-10-07T10:47:30.221233+00:00"
 }
