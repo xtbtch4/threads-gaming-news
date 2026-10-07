@@ -14368,9 +14368,10 @@
       "telegram_message_id": "852",
       "telegram_url": "https://t.me/gamepulse_newss/852",
       "telegram_published_at": "2026-10-07T00:32:43.233140+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2022/03/26/wallpapersden-com-no-time-to-die-james-bond-1280x720-1608261946637-1632319047844-1648272770134.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2022/03/26/wallpapersden-com-no-time-to-die-james-bond-1280x720-1608261946637-1632319047844-1648272770134.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-07T00:32:44.583548+00:00"
     }
   ],
-  "updated_at": "2026-10-07T00:32:43.233548+00:00"
+  "updated_at": "2026-10-07T00:32:44.583648+00:00"
 }
