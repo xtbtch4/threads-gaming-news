@@ -14879,9 +14879,10 @@
       "telegram_message_id": "882",
       "telegram_url": "https://t.me/gamepulse_newss/882",
       "telegram_published_at": "2026-10-07T15:04:40.531209+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/state-of-decay-3_awci8wM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/state-of-decay-3_awci8wM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-07T15:04:41.863910+00:00"
     }
   ],
-  "updated_at": "2026-10-07T15:04:40.531546+00:00"
+  "updated_at": "2026-10-07T15:04:41.864005+00:00"
 }
