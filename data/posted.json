@@ -14660,7 +14660,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/project-helix-xbox.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-07T10:16:59.708776+00:00"
+    },
+    {
+      "fingerprint": "d8a1814095763109e30ae28b",
+      "title": "\"After an all-time low, we've started to return to growth\" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs",
+      "url": "https://eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-07T10:24:13+00:00",
+      "score": 15,
+      "event_key": "xbox-asha-sharma-return-to-growth-restructuring",
+      "title_ru": "Xbox возвращается к росту после реструктуризации и увольнений",
+      "threads_teaser_ru": "Глава Xbox Asha Sharma заявила о возвращении компании к росту после масштабной реструктуризации и увольнений. Успешный старт показали Gears of War: E-Day, Minecraft Dungeons 2 и World of Warcraft: Forever.",
+      "telegram_message_id": "870",
+      "telegram_url": "https://t.me/gamepulse_newss/870",
+      "telegram_published_at": "2026-10-07T10:32:03.689049+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Sharma-stonks.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-07T10:16:59.708869+00:00"
+  "updated_at": "2026-10-07T10:32:03.689359+00:00"
 }
