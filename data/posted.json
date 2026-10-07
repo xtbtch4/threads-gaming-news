@@ -14831,7 +14831,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-07T13:32:08.146954+00:00"
+    },
+    {
+      "fingerprint": "cc44580bfb9a1f7c7544e06e",
+      "title": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space",
+      "url": "https://rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-07T13:40:00+00:00",
+      "score": 12,
+      "event_key": "Steam monthly hardware survey report details RAM and disk storage",
+      "title_ru": "Steam опубликовала свежий отчет об оборудовании пользователей",
+      "threads_teaser_ru": "32 ГБ оперативной памяти стали стандартом в Steam: свежий опрос показал, что такая конфигурация популярнее 16 ГБ. Также в статистике отметили рост владельцев NVIDIA GeForce RTX 5070 и необычные сборки с 11 процессорами.",
+      "telegram_message_id": "880",
+      "telegram_url": "https://t.me/gamepulse_newss/880",
+      "telegram_published_at": "2026-10-07T13:48:23.569155+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-07-142440.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-07T13:32:08.147052+00:00"
+  "updated_at": "2026-10-07T13:48:23.569547+00:00"
 }
