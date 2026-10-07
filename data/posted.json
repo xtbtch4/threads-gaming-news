@@ -14828,9 +14828,10 @@
       "telegram_message_id": "879",
       "telegram_url": "https://t.me/gamepulse_newss/879",
       "telegram_published_at": "2026-10-07T13:32:06.626865+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-07T13:32:08.146954+00:00"
     }
   ],
-  "updated_at": "2026-10-07T13:32:06.627318+00:00"
+  "updated_at": "2026-10-07T13:32:08.147052+00:00"
 }
