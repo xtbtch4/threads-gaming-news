@@ -15374,9 +15374,10 @@
       "telegram_message_id": "912",
       "telegram_url": "https://t.me/gamepulse_newss/912",
       "telegram_published_at": "2026-10-07T23:03:15.497387+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/samuel-l-jackson-confirms-nick-fury-will-return-in-secret-wars-1791410447459.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/samuel-l-jackson-confirms-nick-fury-will-return-in-secret-wars-1791410447459.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-07T23:03:16.785712+00:00"
     }
   ],
-  "updated_at": "2026-10-07T23:03:15.497636+00:00"
+  "updated_at": "2026-10-07T23:03:16.785807+00:00"
 }
