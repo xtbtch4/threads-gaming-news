@@ -15753,7 +15753,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-08T11:32:28.512678+00:00"
+    },
+    {
+      "fingerprint": "7e14dc01f6caf243a7f5f7a2",
+      "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-08T11:35:03+00:00",
+      "score": 15,
+      "event_key": "world of warcraft forever skyborne race visual changes",
+      "title_ru": "Blizzard изменит внешность новой расы Skyborne в World of Warcraft: Forever из-за отзывов игроков",
+      "threads_teaser_ru": "Разработчики World of Warcraft: Forever готовят визуальные изменения для новой расы Skyborne в ответ на отзывы игроков. Модели получат доработанные текстуры и эстетику классической эпохи MMO.",
+      "telegram_message_id": "935",
+      "telegram_url": "https://t.me/gamepulse_newss/935",
+      "telegram_published_at": "2026-10-08T11:47:20.842945+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-skyborn-work-in-progress-models.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-08T11:32:28.512769+00:00"
+  "updated_at": "2026-10-08T11:47:20.843296+00:00"
 }
