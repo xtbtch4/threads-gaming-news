@@ -15719,7 +15719,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-wars_-galactic-racer-launch-screenshot-3.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-08T11:04:07.680559+00:00"
+    },
+    {
+      "fingerprint": "813d111b56f0f851a3ce7983",
+      "title": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
+      "url": "https://eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-08T08:57:13+00:00",
+      "score": 15,
+      "event_key": "perfect-dark-reboot-gameplay-footage-leak-2026",
+      "title_ru": "Утечка геймплея отмененного перезапуска Perfect Dark",
+      "threads_teaser_ru": "В сеть утекло двухминутное видео с геймплеем отмененного перезапуска Perfect Dark. Проект разрабатывался The Initiative и Crystal Dynamics, но попал под сокращения Xbox в 2025 году. Что попало на кадры?",
+      "telegram_message_id": "933",
+      "telegram_url": "https://t.me/gamepulse_newss/933",
+      "telegram_published_at": "2026-10-08T11:16:56.994100+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/perfect-dark-reboot-joanna.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-08T11:04:07.680642+00:00"
+  "updated_at": "2026-10-08T11:16:56.994458+00:00"
 }
