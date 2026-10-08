@@ -16008,7 +16008,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/08/huhrrx9xaaa-x6a-1791470923038.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-08T15:17:10.952225+00:00"
+    },
+    {
+      "fingerprint": "87e4a0d934c24bd393964d4f",
+      "title": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month",
+      "url": "https://eurogamer.net/2xko-sett-announcement-final-update",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-08T15:25:05+00:00",
+      "score": 15,
+      "event_key": "riot-games-announces-final-update-sett-2xko",
+      "title_ru": "Riot Games анонсировала финальное обновление для файтинга 2XKO",
+      "threads_teaser_ru": "Riot Games показала финальный трейлер файтинга 2XKO перед его закрытием. В последнее обновление 27 октября войдет не только Самира, но и неожиданно анонсированный Sett.",
+      "telegram_message_id": "950",
+      "telegram_url": "https://t.me/gamepulse_newss/950",
+      "telegram_published_at": "2026-10-08T15:32:46.879514+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/2xko-sett-chair.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-08T15:17:10.952324+00:00"
+  "updated_at": "2026-10-08T15:32:46.879853+00:00"
 }
