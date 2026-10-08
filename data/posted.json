@@ -15736,7 +15736,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/perfect-dark-reboot-joanna.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-08T11:16:58.583960+00:00"
+    },
+    {
+      "fingerprint": "d2a1d0e253b5eff83b6a35eb",
+      "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
+      "url": "https://ign.com/articles/cbs-news-amazed-accuracy-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-10-08T04:00:00+00:00",
+      "score": 10,
+      "event_key": "cbs-news-reports-on-gta-6-miami-accuracy",
+      "title_ru": "CBS News отметила высокую точность воссоздания Майами в GTA 6",
+      "threads_teaser_ru": "CBS News выпустил репортаж об удивительной точности воссоздания Майами в GTA 6. Фанаты уже нашли в Vice City более 100 реальных мест, от South Beach до Everglades. Релиз игры намечен на ноябрь 2026 года.",
+      "telegram_message_id": "934",
+      "telegram_url": "https://t.me/gamepulse_newss/934",
+      "telegram_published_at": "2026-10-08T11:32:27.013754+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-08T11:16:58.584056+00:00"
+  "updated_at": "2026-10-08T11:32:27.014197+00:00"
 }
