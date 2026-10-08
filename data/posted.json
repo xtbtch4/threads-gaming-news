@@ -16090,9 +16090,10 @@
       "telegram_message_id": "954",
       "telegram_url": "https://t.me/gamepulse_newss/954",
       "telegram_published_at": "2026-10-08T17:03:29.175770+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/dave-the-diver--subnautica-2-dlc-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/dave-the-diver--subnautica-2-dlc-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-08T17:03:33.800706+00:00"
     }
   ],
-  "updated_at": "2026-10-08T17:03:29.176199+00:00"
+  "updated_at": "2026-10-08T17:03:33.800796+00:00"
 }
