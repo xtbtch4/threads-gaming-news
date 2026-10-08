@@ -15838,7 +15838,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-08T12:46:57.928389+00:00"
+    },
+    {
+      "fingerprint": "1e95682dc0e19f372f1b5d57",
+      "title": "New Leadership Appointments and XBOX Division",
+      "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-08T11:57:02+00:00",
+      "score": 12,
+      "event_key": "xbox_leadership_appointments_and_xp_division_2026",
+      "title_ru": "Кадровые перестановки в XBOX и создание нового подразделения XP",
+      "threads_teaser_ru": "XBOX объявила о кадровых перестановках: создано новое подразделение XP во главе с Кейлин Уолтерс для развития франшиз вне игр, а пост главы Mojang и Minecraft займет Мария Ангелиду-Смит.",
+      "telegram_message_id": "940",
+      "telegram_url": "https://t.me/gamepulse_newss/940",
+      "telegram_published_at": "2026-10-08T13:02:59.718891+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX-Logo-BW-d4fa771be79132c963e1.jpg"
     }
   ],
-  "updated_at": "2026-10-08T12:46:57.928489+00:00"
+  "updated_at": "2026-10-08T13:02:59.719190+00:00"
 }
