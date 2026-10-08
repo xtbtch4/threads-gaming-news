@@ -15804,7 +15804,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/MS-XP.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-08T12:17:18.763565+00:00"
+    },
+    {
+      "fingerprint": "86c9797bf0a71a740b2bad5c",
+      "title": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish \"dream game\" Space Corridor",
+      "url": "https://eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-08T11:33:09+00:00",
+      "score": 13,
+      "event_key": "google-and-unity-unveil-generative-ai-game-making-platforms",
+      "title_ru": "Google и Unity представили платформы для создания игр с помощью генеративного ИИ",
+      "threads_teaser_ru": "Google и Unity анонсировали новые платформы для создания игр с использованием генеративного искусственного интеллекта на основе текстовых запросов.",
+      "telegram_message_id": "938",
+      "telegram_url": "https://t.me/gamepulse_newss/938",
+      "telegram_published_at": "2026-10-08T12:32:19.645283+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/playground-google.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-08T12:17:18.763644+00:00"
+  "updated_at": "2026-10-08T12:32:19.645553+00:00"
 }
