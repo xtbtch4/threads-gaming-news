@@ -15906,7 +15906,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-shadow-of-war-deal-definitive-edition.jpg?w=300",
       "threads_published_at": "2026-10-08T13:48:00.740525+00:00"
+    },
+    {
+      "fingerprint": "f675fae37af70d9b675ee134",
+      "title": "LEGO The Marvel Skyline Set Announced",
+      "url": "https://ign.com/articles/lego-marvel-skyline-set-announced",
+      "source": "IGN",
+      "published_at_source": "2026-10-08T13:58:33+00:00",
+      "score": 11,
+      "event_key": "lego-the-marvel-skyline-set-announced",
+      "title_ru": "Анонсирован новый набор LEGO The Marvel Skyline",
+      "threads_teaser_ru": "Компания LEGO представила новый набор The Marvel Skyline, включающий микроверсии знаменитых зданий из вселенной Marvel вроде Avengers Tower и Daily Bugle, а также минифигурку Галактуса.",
+      "telegram_message_id": "944",
+      "telegram_url": "https://t.me/gamepulse_newss/944",
+      "telegram_published_at": "2026-10-08T14:03:26.621229+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/lego-marvel-skyline-blogroll2-1791466894470.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-08T13:48:00.740622+00:00"
+  "updated_at": "2026-10-08T14:03:26.621578+00:00"
 }
