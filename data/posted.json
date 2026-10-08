@@ -15480,7 +15480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/patience-is-a-virtue.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-08T00:33:20.608068+00:00"
+    },
+    {
+      "fingerprint": "48b633dbbd9862855e996c2f",
+      "title": "Overwatch’s Huge New Sombra Rework Is 10x Better Than Expected",
+      "url": "https://polygon.com/overwatch-sombra-rework-support",
+      "source": "Polygon",
+      "published_at_source": "2026-10-07T19:00:15+00:00",
+      "score": 5,
+      "event_key": "Overwatch Sombra rework role change support class",
+      "title_ru": "В Overwatch переработали Sombra: персонаж перешел в класс поддержки",
+      "threads_teaser_ru": "Sombra в Overwatch официально сменила специализацию. Герой перешел из класса урона в поддержку: теперь она лечит союзников и ослабляет врагов с помощью новой способности Cyberspace. Разбираемся, как изменился геймплей хакера после масштабного реворка.",
+      "telegram_message_id": "919",
+      "telegram_url": "https://t.me/gamepulse_newss/919",
+      "telegram_published_at": "2026-10-08T00:48:01.578659+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/overwatch-sombra-rework-support.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-08T00:33:20.608154+00:00"
+  "updated_at": "2026-10-08T00:48:01.578787+00:00"
 }
