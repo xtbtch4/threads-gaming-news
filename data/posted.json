@@ -15668,7 +15668,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/10/wardogs-1786382120921.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-08T10:17:55.041194+00:00"
+    },
+    {
+      "fingerprint": "d0b0da6c28adea8950c1da77",
+      "title": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer",
+      "url": "https://rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-08T10:24:51+00:00",
+      "score": 10,
+      "event_key": "AMD bringing FSR 4 upscaler to handheld PCs",
+      "title_ru": "AMD внедрит FSR 4 в портативные ПК до конца года",
+      "threads_teaser_ru": "AMD готовит FSR 4 для портативных игровых ПК: компания планирует выпустить специальную версию апскейлера для существующих APU до конца 2026 года. Однако судьба поддержки Steam Deck остается неопределенной.",
+      "telegram_message_id": "930",
+      "telegram_url": "https://t.me/gamepulse_newss/930",
+      "telegram_published_at": "2026-10-08T10:33:15.562607+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Lenovo-Legion-Go-2-best-handheld-PCs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-08T10:17:55.041279+00:00"
+  "updated_at": "2026-10-08T10:33:15.562883+00:00"
 }
