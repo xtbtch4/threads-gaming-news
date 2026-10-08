@@ -15682,9 +15682,10 @@
       "telegram_message_id": "930",
       "telegram_url": "https://t.me/gamepulse_newss/930",
       "telegram_published_at": "2026-10-08T10:33:15.562607+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Lenovo-Legion-Go-2-best-handheld-PCs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Lenovo-Legion-Go-2-best-handheld-PCs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-08T10:33:17.004341+00:00"
     }
   ],
-  "updated_at": "2026-10-08T10:33:15.562883+00:00"
+  "updated_at": "2026-10-08T10:33:17.004429+00:00"
 }
