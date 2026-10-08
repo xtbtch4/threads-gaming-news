@@ -15528,9 +15528,10 @@
       "telegram_message_id": "921",
       "telegram_url": "https://t.me/gamepulse_newss/921",
       "telegram_published_at": "2026-10-08T04:02:17.726250+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/09/Monster-Hunter-Stories-2-a1ed36c359075af9c81b.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/09/Monster-Hunter-Stories-2-a1ed36c359075af9c81b.jpg",
+      "threads_published_at": "2026-10-08T04:02:19.052526+00:00"
     }
   ],
-  "updated_at": "2026-10-08T04:02:17.726535+00:00"
+  "updated_at": "2026-10-08T04:02:19.052615+00:00"
 }
