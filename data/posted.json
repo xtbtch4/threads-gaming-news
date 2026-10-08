@@ -15886,9 +15886,10 @@
       "telegram_message_id": "942",
       "telegram_url": "https://t.me/gamepulse_newss/942",
       "telegram_published_at": "2026-10-08T13:33:01.830597+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-XP.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-XP.jpg?w=300",
+      "threads_published_at": "2026-10-08T13:33:03.375350+00:00"
     }
   ],
-  "updated_at": "2026-10-08T13:33:01.830958+00:00"
+  "updated_at": "2026-10-08T13:33:03.375438+00:00"
 }
