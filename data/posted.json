@@ -15699,9 +15699,10 @@
       "telegram_message_id": "931",
       "telegram_url": "https://t.me/gamepulse_newss/931",
       "telegram_published_at": "2026-10-08T10:48:55.135415+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mounts-of-mayhem_camel-husk1-png.png?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mounts-of-mayhem_camel-husk1-png.png?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-08T10:48:56.568006+00:00"
     }
   ],
-  "updated_at": "2026-10-08T10:48:55.135488+00:00"
+  "updated_at": "2026-10-08T10:48:56.568086+00:00"
 }
