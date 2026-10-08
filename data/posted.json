@@ -15869,9 +15869,10 @@
       "telegram_message_id": "941",
       "telegram_url": "https://t.me/gamepulse_newss/941",
       "telegram_published_at": "2026-10-08T13:17:29.590075+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-8-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-8-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-08T13:17:31.162175+00:00"
     }
   ],
-  "updated_at": "2026-10-08T13:17:29.590432+00:00"
+  "updated_at": "2026-10-08T13:17:31.162265+00:00"
 }
