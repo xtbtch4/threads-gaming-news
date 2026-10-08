@@ -15651,7 +15651,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/08/below-josh-1791422509078.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-08T08:18:21.498000+00:00"
+    },
+    {
+      "fingerprint": "69fc08bfdaf7e12e1d7204aa",
+      "title": "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
+      "url": "https://ign.com/articles/wardogs-streamer-banned-for-exploits",
+      "source": "IGN",
+      "published_at_source": "2026-10-08T09:29:19+00:00",
+      "score": 9,
+      "event_key": "Wardogs streamer KatieRouu banned for exploit abuse",
+      "title_ru": "Стример KatieRouu забанена в Wardogs за использование эксплойта",
+      "threads_teaser_ru": "Стример KatieRouu получила бан в Wardogs за махинации с игровой экономикой. Она использовала уязвимость, позволявшую «фармить» валюту через преднамеренную сдачу баз противнику и последующее их уничтожение, что приносило легкую прибыль для покупки скинов.",
+      "telegram_message_id": "929",
+      "telegram_url": "https://t.me/gamepulse_newss/929",
+      "telegram_published_at": "2026-10-08T10:17:53.491284+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/10/wardogs-1786382120921.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-08T08:18:21.498085+00:00"
+  "updated_at": "2026-10-08T10:17:53.491656+00:00"
 }
