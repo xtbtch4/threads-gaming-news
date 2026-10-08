@@ -15634,7 +15634,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/63_fishing-2_sea-monster.jpeg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-08T07:48:00.529742+00:00"
+    },
+    {
+      "fingerprint": "e68a06771a310bed58d08c4f",
+      "title": "Below Review",
+      "url": "https://ign.com/articles/below-netflix-review",
+      "source": "IGN",
+      "published_at_source": "2026-10-08T07:01:00+00:00",
+      "score": 6,
+      "event_key": "Netflix drama horror series Below review",
+      "title_ru": "Обзор сериала Below от Netflix",
+      "threads_teaser_ru": "На Netflix вышел сериал Below с Джошем Хартнеттом в главной роли. Это история о загадочной угрозе из океана в маленьком городке Ньюфаундленда. Несмотря на интригующее начало и хорошую актерскую игру, финал шоу разочаровал критиков своей скомканностью и сюжетными дырами.",
+      "telegram_message_id": "928",
+      "telegram_url": "https://t.me/gamepulse_newss/928",
+      "telegram_published_at": "2026-10-08T08:18:19.998254+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/below-josh-1791422509078.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-08T07:48:00.529842+00:00"
+  "updated_at": "2026-10-08T08:18:19.998525+00:00"
 }
