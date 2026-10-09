@@ -17060,9 +17060,10 @@
       "telegram_message_id": "1011",
       "telegram_url": "https://t.me/gamepulse_newss/1011",
       "telegram_published_at": "2026-10-09T15:32:26.090234+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/etk_belmonts_curse_site.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/etk_belmonts_curse_site.jpg?w=300",
+      "threads_published_at": "2026-10-09T15:32:27.404405+00:00"
     }
   ],
-  "updated_at": "2026-10-09T15:32:26.090545+00:00"
+  "updated_at": "2026-10-09T15:32:27.404503+00:00"
 }
