@@ -17336,7 +17336,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-wars-dnd.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/do-you-agree-with-luis-carazo-s-d-d-hot-takes-1791546200.mp4",
       "threads_published_at": "2026-10-09T19:32:36.113732+00:00"
+    },
+    {
+      "fingerprint": "dbc8530834ac4ca2aa186f57",
+      "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+      "url": "https://eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-09T18:51:26+00:00",
+      "score": 10,
+      "event_key": "us_xbox_playstation_hardware_sales_decline_2026",
+      "title_ru": "Продажи Xbox и PlayStation упали до новых антирекордов в США",
+      "threads_teaser_ru": "Продажи Xbox и PlayStation в США упали до исторических минимумов на фоне резкого роста цен. Эксперты предупреждают, что рынок не был в столь шатком положении с начала 80-х годов из-за дефицита компонентов памяти.",
+      "telegram_message_id": "1028",
+      "telegram_url": "https://t.me/gamepulse_newss/1028",
+      "telegram_published_at": "2026-10-09T19:46:44.502968+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/PS5-ram.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-09T19:32:36.113849+00:00"
+  "updated_at": "2026-10-09T19:46:44.503248+00:00"
 }
