@@ -16584,9 +16584,10 @@
       "telegram_message_id": "983",
       "telegram_url": "https://t.me/gamepulse_newss/983",
       "telegram_published_at": "2026-10-09T03:34:08.371677+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/lazares-sacrifice.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/lazares-sacrifice.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-09T03:34:09.652511+00:00"
     }
   ],
-  "updated_at": "2026-10-09T03:34:08.372001+00:00"
+  "updated_at": "2026-10-09T03:34:09.652596+00:00"
 }
