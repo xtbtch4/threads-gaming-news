@@ -17196,9 +17196,10 @@
       "telegram_message_id": "1019",
       "telegram_url": "https://t.me/gamepulse_newss/1019",
       "telegram_published_at": "2026-10-09T17:32:28.578636+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/sa-aotl-blog-1791457650959.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/sa-aotl-blog-1791457650959.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-09T17:32:29.969612+00:00"
     }
   ],
-  "updated_at": "2026-10-09T17:32:28.578811+00:00"
+  "updated_at": "2026-10-09T17:32:29.969729+00:00"
 }
