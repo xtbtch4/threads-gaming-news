@@ -17179,9 +17179,10 @@
       "telegram_message_id": "1018",
       "telegram_url": "https://t.me/gamepulse_newss/1018",
       "telegram_published_at": "2026-10-09T17:16:59.652064+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/afterworldcavalry.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/afterworldcavalry.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-09T17:17:00.922620+00:00"
     }
   ],
-  "updated_at": "2026-10-09T17:16:59.652305+00:00"
+  "updated_at": "2026-10-09T17:17:00.922710+00:00"
 }
