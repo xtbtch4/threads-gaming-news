@@ -17131,7 +17131,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-09T16:32:28.451212+00:00"
+    },
+    {
+      "fingerprint": "0332122c5fcea3fa55e7149d",
+      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trail heats up",
+      "url": "https://eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-09T16:41:02+00:00",
+      "score": 13,
+      "event_key": "rockstar employment tribunal hr manager union testimony",
+      "title_ru": "HR-менеджер Rockstar высказался о профсоюзе на судебном заседании",
+      "threads_teaser_ru": "На суде по делу об увольнении сотрудников Rockstar Games HR-менеджер Чарли Кинлох прокомментировал материалы о профсоюзной активности, отметив, что его больше волновали утечки информации в период перед релизом Grand Theft Auto 6.",
+      "telegram_message_id": "1016",
+      "telegram_url": "https://t.me/gamepulse_newss/1016",
+      "telegram_published_at": "2026-10-09T16:47:06.299619+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-09T16:32:28.451300+00:00"
+  "updated_at": "2026-10-09T16:47:06.299770+00:00"
 }
