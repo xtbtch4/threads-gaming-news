@@ -16859,7 +16859,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-perfect-poke-rap-unraveled-live-at-pax-east-2019.jpeg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-09T12:32:16.200523+00:00"
+    },
+    {
+      "fingerprint": "cf4ecff8daebdbb56ea7ebd5",
+      "title": "Every Legend of Zelda LEGO Set Released So Far",
+      "url": "https://ign.com/articles/all-legend-of-zelda-lego-sets",
+      "source": "IGN",
+      "published_at_source": "2026-10-09T11:10:08+00:00",
+      "score": 9,
+      "event_key": "lego-the-legend-of-zelda-sets-overview",
+      "title_ru": "Все наборы LEGO The Legend of Zelda, вышедшие на данный момент",
+      "threads_teaser_ru": "С момента запуска партнерства Nintendo и LEGO в 2020 году вышло несколько наборов по франшизе The Legend of Zelda. Узнайте, какие модели уже поступили в продажу и что известно о возможных будущих релизах.",
+      "telegram_message_id": "1000",
+      "telegram_url": "https://t.me/gamepulse_newss/1000",
+      "telegram_published_at": "2026-10-09T12:47:15.666092+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/18/77093-lifestyle-build-08-1787084382165.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-09T12:32:16.200613+00:00"
+  "updated_at": "2026-10-09T12:47:15.666377+00:00"
 }
