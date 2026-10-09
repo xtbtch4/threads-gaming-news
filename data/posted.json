@@ -17439,7 +17439,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/09/win-sfii-bonus-stage-car-1791578796123.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-09T21:02:18.665211+00:00"
+    },
+    {
+      "fingerprint": "19399fe0504b077747aab651",
+      "title": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
+      "url": "https://eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-09T20:17:03+00:00",
+      "score": 9,
+      "event_key": "ea full circle response to skate mods",
+      "title_ru": "Реакция разработчиков skate. на моды, обходящие платную косметику",
+      "threads_teaser_ru": "Разработчики skate. высказались о модах после популярности платформы ReSkate, набравшей сотни тысяч загрузок. Авторы поддерживают творчество, но выступают против модов, обходящих платную косметику.",
+      "telegram_message_id": "1034",
+      "telegram_url": "https://t.me/gamepulse_newss/1034",
+      "telegram_published_at": "2026-10-09T21:17:07.897296+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Skate-screenshot-showing-a-boarder-doing-tricks-high-above-a-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-09T21:02:18.665324+00:00"
+  "updated_at": "2026-10-09T21:17:07.897485+00:00"
 }
