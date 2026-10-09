@@ -17589,9 +17589,10 @@
       "telegram_message_id": "1042",
       "telegram_url": "https://t.me/gamepulse_newss/1042",
       "telegram_published_at": "2026-10-09T23:16:58.082631+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/dungeon-crawler-carl-octopus-1791582251836.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/dungeon-crawler-carl-octopus-1791582251836.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-09T23:16:59.783440+00:00"
     }
   ],
-  "updated_at": "2026-10-09T23:16:58.082935+00:00"
+  "updated_at": "2026-10-09T23:16:59.783525+00:00"
 }
