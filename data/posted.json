@@ -16992,9 +16992,10 @@
       "telegram_message_id": "1007",
       "telegram_url": "https://t.me/gamepulse_newss/1007",
       "telegram_published_at": "2026-10-09T14:32:41.319098+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/jane-galaxies-showcase.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/jane-galaxies-showcase.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-09T14:32:42.878444+00:00"
     }
   ],
-  "updated_at": "2026-10-09T14:32:41.319652+00:00"
+  "updated_at": "2026-10-09T14:32:42.878532+00:00"
 }
