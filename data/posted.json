@@ -17332,10 +17332,11 @@
       "telegram_message_id": "1027",
       "telegram_url": "https://t.me/gamepulse_newss/1027",
       "telegram_published_at": "2026-10-09T19:32:34.668288+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-wars-dnd.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/do-you-agree-with-luis-carazo-s-d-d-hot-takes-1791546200.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/do-you-agree-with-luis-carazo-s-d-d-hot-takes-1791546200.mp4",
+      "threads_published_at": "2026-10-09T19:32:36.113732+00:00"
     }
   ],
-  "updated_at": "2026-10-09T19:32:34.668645+00:00"
+  "updated_at": "2026-10-09T19:32:36.113849+00:00"
 }
