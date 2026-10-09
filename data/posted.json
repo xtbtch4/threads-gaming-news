@@ -17250,7 +17250,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-10-09T18:17:19.886681+00:00"
+    },
+    {
+      "fingerprint": "99909c24597e6ecd44a21b93",
+      "title": "DC Officially Unveils a New Justice League",
+      "url": "https://polygon.com/dc-comics-absolute-justice-league-batman-superman-wonder-woman",
+      "source": "Polygon",
+      "published_at_source": "2026-10-09T17:58:03+00:00",
+      "score": 12,
+      "event_key": "dc_comics_announces_absolute_justice_miniseries",
+      "title_ru": "DC Comics анонсировала мини-серию Absolute Justice",
+      "threads_teaser_ru": "DC Comics анонсировала мини-серию Absolute Justice, которая объединит главных героев обновленной вселенной. Пятисерийный проект стартует в апреле 2027 года.",
+      "telegram_message_id": "1023",
+      "telegram_url": "https://t.me/gamepulse_newss/1023",
+      "telegram_published_at": "2026-10-09T18:32:11.953660+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19992348/justice_league_movie_screencaps.com_12426.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-09T18:17:19.886764+00:00"
+  "updated_at": "2026-10-09T18:32:11.953797+00:00"
 }
