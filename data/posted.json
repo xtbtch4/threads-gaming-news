@@ -16757,7 +16757,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.08-17.26.18.96.png?w=300",
       "threads_published_at": "2026-10-09T09:48:17.897315+00:00"
+    },
+    {
+      "fingerprint": "f2969f26c3e67daa39097791",
+      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+      "url": "https://eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-07T01:31:00+00:00",
+      "score": 11,
+      "event_key": "xbox_denies_exclusive_gta_6_streaming_rights",
+      "title_ru": "Xbox опровергла слухи об эксклюзивных правах на стриминг GTA 6",
+      "threads_teaser_ru": "Xbox опровергла слухи о получении эксклюзивных прав на облачный стриминг Grand Theft Auto 6 и появлении игры на ПК через свой сервис. Релиз игры на консолях назначен на 19 ноября.",
+      "telegram_message_id": "994",
+      "telegram_url": "https://t.me/gamepulse_newss/994",
+      "telegram_published_at": "2026-10-09T10:02:28.224875+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-09T09:48:17.897403+00:00"
+  "updated_at": "2026-10-09T10:02:28.225164+00:00"
 }
