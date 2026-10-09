@@ -17504,9 +17504,10 @@
       "telegram_message_id": "1037",
       "telegram_url": "https://t.me/gamepulse_newss/1037",
       "telegram_published_at": "2026-10-09T22:02:33.616750+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/battlefieldbvegas.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/battlefieldbvegas.png?w=300",
+      "threads_published_at": "2026-10-09T22:02:34.853837+00:00"
     }
   ],
-  "updated_at": "2026-10-09T22:02:33.616981+00:00"
+  "updated_at": "2026-10-09T22:02:34.853932+00:00"
 }
