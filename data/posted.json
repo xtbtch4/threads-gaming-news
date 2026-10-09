@@ -17199,7 +17199,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/08/sa-aotl-blog-1791457650959.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-09T17:32:29.969612+00:00"
+    },
+    {
+      "fingerprint": "f64bc9feba670327f8c53705",
+      "title": "FBI arrests suspect from hacker group that targeted GTA and the FBI itself",
+      "url": "https://polygon.com/shinyhunters-hacker-arrested-gta-6-fbi-leak",
+      "source": "Polygon",
+      "published_at_source": "2026-10-09T09:59:00+00:00",
+      "score": 13,
+      "event_key": "fbi arrests shinyhunters hacker suspect gta 6",
+      "title_ru": "ФБР арестовало подозреваемого по делу хакерской группы ShinyHunters",
+      "threads_teaser_ru": "ФБР арестовало главного соучастника сентябрьского взлома бюро, связанного с хакерской группировкой ShinyHunters. Ранее эти же хакеры атаковали создателей Grand Theft Auto 6, а сама игра выйдет 19 ноября для PlayStation 5 и Xbox Series X.",
+      "telegram_message_id": "1020",
+      "telegram_url": "https://t.me/gamepulse_newss/1020",
+      "telegram_published_at": "2026-10-09T17:47:11.246586+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_02.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-09T17:32:29.969729+00:00"
+  "updated_at": "2026-10-09T17:47:11.246867+00:00"
 }
