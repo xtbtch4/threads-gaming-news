@@ -17145,9 +17145,10 @@
       "telegram_message_id": "1016",
       "telegram_url": "https://t.me/gamepulse_newss/1016",
       "telegram_published_at": "2026-10-09T16:47:06.299619+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-09T16:47:08.073575+00:00"
     }
   ],
-  "updated_at": "2026-10-09T16:47:06.299770+00:00"
+  "updated_at": "2026-10-09T16:47:08.073673+00:00"
 }
