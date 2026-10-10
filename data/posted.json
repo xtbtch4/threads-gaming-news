@@ -17879,9 +17879,10 @@
       "telegram_message_id": "1059",
       "telegram_url": "https://t.me/gamepulse_newss/1059",
       "telegram_published_at": "2026-10-10T09:17:03.257586+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avatar-seven-havens-09h56m37s385.png?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avatar-seven-havens-09h56m37s385.png?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-10T09:17:04.521813+00:00"
     }
   ],
-  "updated_at": "2026-10-10T09:17:03.257825+00:00"
+  "updated_at": "2026-10-10T09:17:04.521893+00:00"
 }
