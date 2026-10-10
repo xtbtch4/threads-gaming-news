@@ -17848,7 +17848,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/magic-darkhold-destiny-1.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-10T06:47:23.674253+00:00"
+    },
+    {
+      "fingerprint": "6cd31c0947a5ff3ef2697495",
+      "title": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "url": "https://eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-10T07:00:00+00:00",
+      "score": 9,
+      "event_key": "eurogamer editors share what games they have been playing",
+      "title_ru": "Во что мы играем: Gears of War, The Blood of Dawnwalker и Quake 3",
+      "threads_teaser_ru": "Журналисты поделились играми, которые увлекли их на этой неделе. В центре внимания — возвращение к Gears of War, исследование мира The Blood of Dawnwalker и неожиданная сессия в браузерном Quake 3.",
+      "telegram_message_id": "1058",
+      "telegram_url": "https://t.me/gamepulse_newss/1058",
+      "telegram_published_at": "2026-10-10T07:02:14.929696+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-10T06:47:23.674352+00:00"
+  "updated_at": "2026-10-10T07:02:14.930087+00:00"
 }
