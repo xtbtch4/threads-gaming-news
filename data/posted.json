@@ -17984,7 +17984,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-10T13:02:25.262681+00:00"
+    },
+    {
+      "fingerprint": "b6879279d3f84eed6a00646c",
+      "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
+      "url": "https://ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
+      "source": "IGN",
+      "published_at_source": "2026-10-10T15:00:00+00:00",
+      "score": 15,
+      "event_key": "squadron-42-new-trailer-steam-cast-reveal",
+      "title_ru": "Squadron 42 получила новый трейлер и страницу в Steam",
+      "threads_teaser_ru": "Cloud Imperium Games показала новый трейлер Squadron 42, открыла страницу в Steam и раскрыла звездный актерский состав проекта. Релиз сюжетного спин-оффа Star Citizen запланирован на 2027 год.",
+      "telegram_message_id": "1066",
+      "telegram_url": "https://t.me/gamepulse_newss/1066",
+      "telegram_published_at": "2026-10-10T15:02:42.756222+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/10/s42-main-1791639420951.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-10T13:02:25.262781+00:00"
+  "updated_at": "2026-10-10T15:02:42.756520+00:00"
 }
