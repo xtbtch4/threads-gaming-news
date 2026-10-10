@@ -17760,9 +17760,10 @@
       "telegram_message_id": "1052",
       "telegram_url": "https://t.me/gamepulse_newss/1052",
       "telegram_published_at": "2026-10-10T01:47:45.900558+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-guitar-gigs-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-guitar-gigs-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-10T01:47:47.290901+00:00"
     }
   ],
-  "updated_at": "2026-10-10T01:47:45.900692+00:00"
+  "updated_at": "2026-10-10T01:47:47.290983+00:00"
 }
