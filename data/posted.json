@@ -17794,9 +17794,10 @@
       "telegram_message_id": "1054",
       "telegram_url": "https://t.me/gamepulse_newss/1054",
       "telegram_published_at": "2026-10-10T02:17:16.844725+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/biddy-blas-scrib-doon-1791575939855.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/biddy-blas-scrib-doon-1791575939855.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-10T02:17:18.118648+00:00"
     }
   ],
-  "updated_at": "2026-10-10T02:17:16.844823+00:00"
+  "updated_at": "2026-10-10T02:17:18.118723+00:00"
 }
