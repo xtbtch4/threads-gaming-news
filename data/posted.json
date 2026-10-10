@@ -17828,9 +17828,10 @@
       "telegram_message_id": "1056",
       "telegram_url": "https://t.me/gamepulse_newss/1056",
       "telegram_published_at": "2026-10-10T03:03:23.064441+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.09-11.49.23.61.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.09-11.49.23.61.png?w=300",
+      "threads_published_at": "2026-10-10T03:03:24.355596+00:00"
     }
   ],
-  "updated_at": "2026-10-10T03:03:23.064692+00:00"
+  "updated_at": "2026-10-10T03:03:24.355698+00:00"
 }
