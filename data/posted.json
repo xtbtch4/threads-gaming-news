@@ -18309,7 +18309,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/10/arc-raiders-spider-man-grappling-hook-1791664809875.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-10T22:02:21.641362+00:00"
+    },
+    {
+      "fingerprint": "fa9b671791f0e6b513c9246a",
+      "title": "Warner Bros. 41-Year-Old Fantasy Classic Reboot is Officially Happening",
+      "url": "https://polygon.com/thundercats-movie-update",
+      "source": "Polygon",
+      "published_at_source": "2026-10-10T22:12:18+00:00",
+      "score": 12,
+      "event_key": "adam wingard thunderCats movie still in development",
+      "title_ru": "Режиссер Adam Wingard поделился статусом гибридного фильма ThunderCats",
+      "threads_teaser_ru": "Режиссер Adam Wingard подтвердил, что разработка фильма ThunderCats не отменена. Производство продвигается медленно из-за других проектов постановщика, но в начале года был написан новый вариант сценария.",
+      "telegram_message_id": "1085",
+      "telegram_url": "https://t.me/gamepulse_newss/1085",
+      "telegram_published_at": "2026-10-10T22:16:40.190823+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/action-sequence.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4"
     }
   ],
-  "updated_at": "2026-10-10T22:02:21.641454+00:00"
+  "updated_at": "2026-10-10T22:16:40.191117+00:00"
 }
