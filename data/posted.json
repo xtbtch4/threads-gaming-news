@@ -18499,7 +18499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/star-wars-zero-company-final-trailer.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-11T12:02:49.036313+00:00"
+    },
+    {
+      "fingerprint": "d485385cbb1d702a58cf7b29",
+      "title": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
+      "url": "https://eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-11T12:06:58+00:00",
+      "score": 10,
+      "event_key": "phasmophobia_30_million_sales_crimson_eye_event",
+      "title_ru": "Тираж Phasmophobia превысил 30 миллионов копий",
+      "threads_teaser_ru": "Продажи Phasmophobia превысили 30 миллионов копий, а разработчики вернули ежегодное хеллоуинское событие Crimson Eye. Полноценный релиз игры версии 1.0 намечен на вторую половину 2027 года.",
+      "telegram_message_id": "1096",
+      "telegram_url": "https://t.me/gamepulse_newss/1096",
+      "telegram_published_at": "2026-10-11T12:17:11.545563+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-11T12:02:49.036408+00:00"
+  "updated_at": "2026-10-11T12:17:11.545907+00:00"
 }
