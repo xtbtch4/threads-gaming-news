@@ -18584,7 +18584,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/11/godzilla-minus-zero-trailer-1791722733784.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-11T13:17:11.587627+00:00"
+    },
+    {
+      "fingerprint": "5c9cf52b5bb731376399b9e4",
+      "title": "I Gave Up My The Witcher 3 Run To Play Dressmaker, And My Life Is Better For It",
+      "url": "https://gamespot.com/articles/i-gave-up-my-the-witcher-3-run-to-play-dressmaker-and-my-life-is-better-for-it",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-11T13:08:25+00:00",
+      "score": 7,
+      "event_key": "player-swapped-the-witcher-3-for-dressmaker",
+      "title_ru": "Игрок променял прохождение The Witcher 3 на Dressmaker",
+      "threads_teaser_ru": "Автор материала бросил прохождение The Witcher 3 ради медитативного симулятора создания одежды Dressmaker, где можно полностью контролировать процесс дизайна от концепции до готового наряда.",
+      "telegram_message_id": "1101",
+      "telegram_url": "https://t.me/gamepulse_newss/1101",
+      "telegram_published_at": "2026-10-11T13:31:44.304246+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/dressmaker.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-11T13:17:11.587721+00:00"
+  "updated_at": "2026-10-11T13:31:44.304562+00:00"
 }
