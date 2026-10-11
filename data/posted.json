@@ -18479,9 +18479,10 @@
       "telegram_message_id": "1094",
       "telegram_url": "https://t.me/gamepulse_newss/1094",
       "telegram_published_at": "2026-10-11T11:46:49.645664+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-11T11:46:50.879690+00:00"
     }
   ],
-  "updated_at": "2026-10-11T11:46:49.645979+00:00"
+  "updated_at": "2026-10-11T11:46:50.879774+00:00"
 }
