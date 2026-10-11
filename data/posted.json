@@ -18410,9 +18410,10 @@
       "telegram_message_id": "1090",
       "telegram_url": "https://t.me/gamepulse_newss/1090",
       "telegram_published_at": "2026-10-11T03:17:33.644035+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/yennefer-witcher-3_59DfK6B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/yennefer-witcher-3_59DfK6B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-11T03:17:35.000997+00:00"
     }
   ],
-  "updated_at": "2026-10-11T03:17:33.644178+00:00"
+  "updated_at": "2026-10-11T03:17:35.001089+00:00"
 }
