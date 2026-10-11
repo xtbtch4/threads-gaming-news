@@ -18513,9 +18513,10 @@
       "telegram_message_id": "1096",
       "telegram_url": "https://t.me/gamepulse_newss/1096",
       "telegram_published_at": "2026-10-11T12:17:11.545563+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-11T12:17:12.945018+00:00"
     }
   ],
-  "updated_at": "2026-10-11T12:17:11.545907+00:00"
+  "updated_at": "2026-10-11T12:17:12.945104+00:00"
 }
