@@ -18396,7 +18396,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/baelish.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-11T03:02:38.600751+00:00"
+    },
+    {
+      "fingerprint": "122cebabe6d41cfac6948ac0",
+      "title": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals",
+      "url": "https://eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-08T07:20:00+00:00",
+      "score": 5,
+      "event_key": "The Witcher 3 Remastered patch 5.01 release",
+      "title_ru": "Для The Witcher 3 Remastered вышел патч 5.01",
+      "threads_teaser_ru": "CD Projekt Red выпустила патч 5.01 для The Witcher 3 Remastered. Обновление добавляет новые графические опции на консолях, исправляет баги в геймплее и улучшает производительность. Также студия готовит апдейт для Switch 2, чтобы повысить четкость картинки.",
+      "telegram_message_id": "1090",
+      "telegram_url": "https://t.me/gamepulse_newss/1090",
+      "telegram_published_at": "2026-10-11T03:17:33.644035+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/yennefer-witcher-3_59DfK6B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-11T03:02:38.600842+00:00"
+  "updated_at": "2026-10-11T03:17:33.644178+00:00"
 }
