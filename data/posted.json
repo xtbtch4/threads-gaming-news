@@ -18465,7 +18465,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-06-at-11-24-27-am.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-11T10:02:09.766274+00:00"
+    },
+    {
+      "fingerprint": "85292823424e9bd297eb1bbc",
+      "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
+      "url": "https://eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-11T11:43:04+00:00",
+      "score": 11,
+      "event_key": "squadron-42-steam-wishlist-q2-2027-release",
+      "title_ru": "Squadron 42 появилась в Steam перед релизом в 2027 году",
+      "threads_teaser_ru": "Одиночный спин-офф Star Citizen теперь можно добавить в список желаемого на платформе Steam в преддверии релиза во втором квартале 2027 года. Разработчики также представили новый трейлер.",
+      "telegram_message_id": "1094",
+      "telegram_url": "https://t.me/gamepulse_newss/1094",
+      "telegram_published_at": "2026-10-11T11:46:49.645664+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-11T10:02:09.766379+00:00"
+  "updated_at": "2026-10-11T11:46:49.645979+00:00"
 }
