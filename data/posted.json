@@ -19641,7 +19641,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/12/wario-elon-1791838179016.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-12T22:32:04.170662+00:00"
+    },
+    {
+      "fingerprint": "66ba166fddf963fc7dc6ac42",
+      "title": "\"No more hand-written code\": Epic reportedly impose \"AI-first\" model on creators of new Disney shooter with Marvel and Star Wars characters",
+      "url": "https://rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-12T22:29:01+00:00",
+      "score": 14,
+      "event_key": "epic-games-ai-first-disney-shooter-delay",
+      "title_ru": "Epic Games переводит новый шутер по Disney на модель разработки «AI-first»",
+      "threads_teaser_ru": "Новый неанонсированный шутер Epic Games с героями Marvel and Star Wars перевели на модель разработки «AI-first». Создателям приказали использовать генеративный ИИ вместо кода.",
+      "telegram_message_id": "1163",
+      "telegram_url": "https://t.me/gamepulse_newss/1163",
+      "telegram_published_at": "2026-10-12T23:02:19.958047+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-231138.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T22:32:04.170755+00:00"
+  "updated_at": "2026-10-12T23:02:19.958481+00:00"
 }
