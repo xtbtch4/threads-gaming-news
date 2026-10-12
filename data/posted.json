@@ -19692,7 +19692,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/nms-10-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-12T23:32:34.748667+00:00"
+    },
+    {
+      "fingerprint": "166df2959e01446906506789",
+      "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
+      "url": "https://eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T17:15:59+00:00",
+      "score": 8,
+      "event_key": "Yuji Horii creates game with generative AI",
+      "title_ru": "Сооснователь Dragon Quest создал игру с помощью ИИ за 30 минут",
+      "threads_teaser_ru": "Юдзи Хории, создатель Dragon Quest, представил новую игру, которую полностью разработал с помощью ИИ примерно за полчаса. Геймдизайнер отметил, что теперь для создания проекта не обязательно владеть навыками рисования или программирования.",
+      "telegram_message_id": "1166",
+      "telegram_url": "https://t.me/gamepulse_newss/1166",
+      "telegram_published_at": "2026-10-12T23:47:27.860894+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ai-slime.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T23:32:34.748758+00:00"
+  "updated_at": "2026-10-12T23:47:27.861247+00:00"
 }
