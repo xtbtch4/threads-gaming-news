@@ -19058,9 +19058,10 @@
       "telegram_message_id": "1128",
       "telegram_url": "https://t.me/gamepulse_newss/1128",
       "telegram_published_at": "2026-10-12T12:17:14.438130+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/mario-game-cart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/mario-game-cart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-12T12:17:16.384811+00:00"
     }
   ],
-  "updated_at": "2026-10-12T12:17:14.438562+00:00"
+  "updated_at": "2026-10-12T12:17:16.384902+00:00"
 }
