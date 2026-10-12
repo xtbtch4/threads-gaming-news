@@ -18856,7 +18856,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/carrie-white-prom.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-12T09:02:44.841417+00:00"
+    },
+    {
+      "fingerprint": "849351eadcee57f6db083b55",
+      "title": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
+      "url": "https://eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T09:12:13+00:00",
+      "score": 13,
+      "event_key": "haunted-chocolatier-action-rpg-details-eric-barone",
+      "title_ru": "Haunted Chocolatier окажется ролевым экшеном",
+      "threads_teaser_ru": "Создатель Stardew Valley Эрик Бароне рассказал новые подробности о Haunted Chocolatier. Новая игра станет ролевым экшеном с упором на приключения и сражения с монстрами.",
+      "telegram_message_id": "1117",
+      "telegram_url": "https://t.me/gamepulse_newss/1117",
+      "telegram_published_at": "2026-10-12T09:17:03.607326+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Barone-chocolatier.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T09:02:44.841512+00:00"
+  "updated_at": "2026-10-12T09:17:03.607663+00:00"
 }
