@@ -19484,9 +19484,10 @@
       "telegram_message_id": "1153",
       "telegram_url": "https://t.me/gamepulse_newss/1153",
       "telegram_published_at": "2026-10-12T19:47:11.070289+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/godzilla-fanfest-blogroll-1791732418152.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/godzilla-fanfest-blogroll-1791732418152.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-12T19:47:12.624362+00:00"
     }
   ],
-  "updated_at": "2026-10-12T19:47:11.070583+00:00"
+  "updated_at": "2026-10-12T19:47:12.624458+00:00"
 }
