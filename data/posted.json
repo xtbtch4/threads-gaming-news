@@ -19299,7 +19299,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/SF2.jpg?w=300",
       "threads_published_at": "2026-10-12T16:32:48.481454+00:00"
+    },
+    {
+      "fingerprint": "90501402dc5d3268fa0b42d8",
+      "title": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
+      "url": "https://rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-12T16:47:22+00:00",
+      "score": 14,
+      "event_key": "valve-released-steam-frame-cad-files",
+      "title_ru": "Valve выпустила CAD-файлы для Steam Frame",
+      "threads_teaser_ru": "Valve выложила официальные CAD-файлы для гарнитуры Steam Frame. Энтузиасты уже вовсю проектируют для устройства самодельные аксессуары: от альтернативных ремешков и креплений для аккумуляторов до подставок в виде черепов.",
+      "telegram_message_id": "1143",
+      "telegram_url": "https://t.me/gamepulse_newss/1143",
+      "telegram_published_at": "2026-10-12T17:02:48.870506+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-melting-skull-stand.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T16:32:48.481543+00:00"
+  "updated_at": "2026-10-12T17:02:48.870643+00:00"
 }
