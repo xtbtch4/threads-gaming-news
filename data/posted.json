@@ -19436,7 +19436,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/grave-seasons.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/cozy-after-dark-development-update-1791572503.mp4",
       "threads_published_at": "2026-10-12T19:02:51.882371+00:00"
+    },
+    {
+      "fingerprint": "235316cfb559a2d0b6e7f126",
+      "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
+      "url": "https://eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T19:11:39+00:00",
+      "score": 13,
+      "event_key": "epic_games_delays_star_wars_marvel_shooter_ai",
+      "title_ru": "Epic Games перенесла кроссовер-шутер во вселенных Star Wars и Marvel",
+      "threads_teaser_ru": "Epic Games отложила релиз совместного шутера по Star Wars и Marvel и потребовала от разработчиков активно использовать генеративный искусственный интеллект для ускорения производства игры.",
+      "telegram_message_id": "1151",
+      "telegram_url": "https://t.me/gamepulse_newss/1151",
+      "telegram_published_at": "2026-10-12T19:17:06.995984+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/fortnite-star-wars-galaxy-of-games.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T19:02:51.882493+00:00"
+  "updated_at": "2026-10-12T19:17:06.996332+00:00"
 }
