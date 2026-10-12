@@ -19044,7 +19044,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Squadron-42.jpg?w=300",
       "threads_published_at": "2026-10-12T12:02:41.540048+00:00"
+    },
+    {
+      "fingerprint": "7a4dd11a880d19cdb25898a2",
+      "title": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
+      "url": "https://eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T12:00:16+00:00",
+      "score": 11,
+      "event_key": "nintendo confirms no plans to ditch physical games",
+      "title_ru": "Nintendo продолжит выпускать игры на физических носителях",
+      "threads_teaser_ru": "Руководство Nintendo подтвердило отсутствие планов по отказу от физических изданий. Компания продолжит поддерживать картриджи для NS2, ориентируясь на предпочтения игроков.",
+      "telegram_message_id": "1128",
+      "telegram_url": "https://t.me/gamepulse_newss/1128",
+      "telegram_published_at": "2026-10-12T12:17:14.438130+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mario-game-cart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T12:02:41.540137+00:00"
+  "updated_at": "2026-10-12T12:17:14.438562+00:00"
 }
