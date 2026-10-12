@@ -19350,7 +19350,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/12/Metaphor_-ReFantazio_20241023211556.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-12T17:32:33.683754+00:00"
+    },
+    {
+      "fingerprint": "9b421963d7377283d15fa32e",
+      "title": "Steam Officially Sets New Player Record",
+      "url": "https://polygon.com/steam-players-new-all-time-record-43-million",
+      "source": "Polygon",
+      "published_at_source": "2026-10-12T15:20:33+00:00",
+      "score": 10,
+      "event_key": "steam_sets_new_concurrent_player_record_43_million",
+      "title_ru": "Steam установил новый абсолютный рекорд по количеству игроков онлайн",
+      "threads_teaser_ru": "Сервис Steam установил новый исторический рекорд, собрав более 43,5 миллиона одновременных пользователей. Главными драйверами трафика стали Counter-Strike 2, Dota 2, PUBG: Battlegrounds, а также новинки вроде Aion 2 и Deadlock.",
+      "telegram_message_id": "1146",
+      "telegram_url": "https://t.me/gamepulse_newss/1146",
+      "telegram_published_at": "2026-10-12T17:47:13.036018+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-12T17:32:33.683842+00:00"
+  "updated_at": "2026-10-12T17:47:13.036323+00:00"
 }
