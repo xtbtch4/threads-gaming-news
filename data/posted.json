@@ -18958,7 +18958,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/steam-games.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-12T10:47:05.743172+00:00"
+    },
+    {
+      "fingerprint": "14057457f048c3c4a0289a04",
+      "title": "'Dungeon Crawler Carl' Author Officially Settles a Raging Debate About the Audiobooks",
+      "url": "https://polygon.com/matt-dinniman-nycc-interview-dungeon-crawler-carl",
+      "source": "Polygon",
+      "published_at_source": "2026-10-12T11:00:16+00:00",
+      "score": 8,
+      "event_key": "dungeon crawler carl author discusses audiobook listening speeds",
+      "title_ru": "Автор Dungeon Crawler Carl высказался о скорости прослушивания аудиокниг",
+      "threads_teaser_ru": "Автор серии Dungeon Crawler Carl Мэтт Динниман поделился мыслями о популярности аудиокниг и рассказал, какую скорость прослушивания считает оптимальной.",
+      "telegram_message_id": "1123",
+      "telegram_url": "https://t.me/gamepulse_newss/1123",
+      "telegram_published_at": "2026-10-12T11:03:03.465365+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screenshot-2026-04-16-at-1-40-46-pm.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/06/sq-kenanandkel-3cut-1781884883.mp4"
     }
   ],
-  "updated_at": "2026-10-12T10:47:05.743272+00:00"
+  "updated_at": "2026-10-12T11:03:03.465667+00:00"
 }
