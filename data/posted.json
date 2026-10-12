@@ -19061,7 +19061,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mario-game-cart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-12T12:17:16.384811+00:00"
+    },
+    {
+      "fingerprint": "8a5dc8d48c8fcb64f0fa1607",
+      "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+      "url": "https://eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T11:38:55+00:00",
+      "score": 9,
+      "event_key": "gears of war e day ddos server crashes",
+      "title_ru": "Проблемы с серверами Gears of War: E-Day объяснили DDoS-атаками",
+      "threads_teaser_ru": "Серверы Gears of War: E-Day столкнулись с перебоями из-за DDoS-атак. Разработчики подтвердили проблемы с входом в игру, но позднее в Xbox заявили, что работа сервисов вернулась в норму.",
+      "telegram_message_id": "1129",
+      "telegram_url": "https://t.me/gamepulse_newss/1129",
+      "telegram_published_at": "2026-10-12T12:32:13.174598+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-marcus-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T12:17:16.384902+00:00"
+  "updated_at": "2026-10-12T12:32:13.174972+00:00"
 }
