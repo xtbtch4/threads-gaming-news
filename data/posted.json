@@ -19418,7 +19418,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Valor-Mortis-Eternal-Guardsman-cutscene.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-12T18:47:37.479602+00:00"
+    },
+    {
+      "fingerprint": "a760f41d8246b1b13e7edcc5",
+      "title": "Stardew Valley's Monster-Mash Cousin Sets New Release Date",
+      "url": "https://polygon.com/grave-seasons-release-date-trailer",
+      "source": "Polygon",
+      "published_at_source": "2026-10-12T19:00:16+00:00",
+      "score": 12,
+      "event_key": "grave_seasons_new_release_date_march_2027",
+      "title_ru": "Новая дата релиза хоррор-фермы Grave Seasons",
+      "threads_teaser_ru": "Хоррор-симулятор фермы Grave Seasons обзавелся точной датой релиза и выйдет в марте 2027 года на ПК и консолях. Разработчики показали мрачный готический декор и рассказали о поиске серийного убийцы.",
+      "telegram_message_id": "1150",
+      "telegram_url": "https://t.me/gamepulse_newss/1150",
+      "telegram_published_at": "2026-10-12T19:02:50.347202+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/grave-seasons.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/cozy-after-dark-development-update-1791572503.mp4"
     }
   ],
-  "updated_at": "2026-10-12T18:47:37.479709+00:00"
+  "updated_at": "2026-10-12T19:02:50.347574+00:00"
 }
