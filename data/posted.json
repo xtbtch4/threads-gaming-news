@@ -19450,9 +19450,10 @@
       "telegram_message_id": "1151",
       "telegram_url": "https://t.me/gamepulse_newss/1151",
       "telegram_published_at": "2026-10-12T19:17:06.995984+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/fortnite-star-wars-galaxy-of-games.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/fortnite-star-wars-galaxy-of-games.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-12T19:17:08.743604+00:00"
     }
   ],
-  "updated_at": "2026-10-12T19:17:06.996332+00:00"
+  "updated_at": "2026-10-12T19:17:08.743682+00:00"
 }
