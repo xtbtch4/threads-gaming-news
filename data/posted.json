@@ -19555,7 +19555,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/12/snail-blogroll-1791838500963.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-12T21:02:48.148403+00:00"
+    },
+    {
+      "fingerprint": "30faabdd1a598164aa4c4ba2",
+      "title": "New 90% Positive Steam Roguelike Is a Faithful PSP-Era Comeback",
+      "url": "https://polygon.com/ratatan-switch-2-impressions",
+      "source": "Polygon",
+      "published_at_source": "2026-10-12T21:00:16+00:00",
+      "score": 10,
+      "event_key": "Ratatan exit early access launch date",
+      "title_ru": "Музыкальный roguelike Ratatan выходит из раннего доступа",
+      "threads_teaser_ru": "Духовный наследник культовой Patapon, музыкальный roguelike Ratatan, выходит из раннего доступа 15 октября. Проект уже доступен для ознакомления на нескольких платформах, включая Nintendo Switch 2 и PlayStation 5.",
+      "telegram_message_id": "1158",
+      "telegram_url": "https://t.me/gamepulse_newss/1158",
+      "telegram_published_at": "2026-10-12T21:16:55.975472+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ratatan-key-art.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/ratatan-announcement-trailer-nintendo-switch-2-1791834800.mp4"
     }
   ],
-  "updated_at": "2026-10-12T21:02:48.148489+00:00"
+  "updated_at": "2026-10-12T21:16:55.975607+00:00"
 }
