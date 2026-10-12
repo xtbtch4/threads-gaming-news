@@ -19675,7 +19675,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/12/ainopecable-1791840203679.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-12T23:17:27.257566+00:00"
+    },
+    {
+      "fingerprint": "ff778984418a391e126ac869",
+      "title": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
+      "url": "https://eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T18:20:50+00:00",
+      "score": 8,
+      "event_key": "No Man's Sky mobile version release announcement",
+      "title_ru": "No Man's Sky выйдет на iPhone и iPad 28 октября",
+      "threads_teaser_ru": "No Man's Sky готовится к выходу на iOS: игра станет доступна владельцам iPhone и iPad уже 28 октября. Разработчики обещают поддержку контроллеров и всех накопленных за годы обновлений, а оптимизация игры стала возможной благодаря технологиям из будущего проекта Light No Fire.",
+      "telegram_message_id": "1165",
+      "telegram_url": "https://t.me/gamepulse_newss/1165",
+      "telegram_published_at": "2026-10-12T23:32:33.423157+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/nms-10-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T23:17:27.257650+00:00"
+  "updated_at": "2026-10-12T23:32:33.423519+00:00"
 }
