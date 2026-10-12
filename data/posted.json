@@ -18907,7 +18907,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-12T09:47:00.388831+00:00"
+    },
+    {
+      "fingerprint": "f523149570b2d5d6a4994eef",
+      "title": "Gears of War: E-Day Dev Confirms DDoS Attack",
+      "url": "https://ign.com/articles/gears-of-war-e-day-dev-confirms-ddos-attack",
+      "source": "IGN",
+      "published_at_source": "2026-10-12T09:33:07+00:00",
+      "score": 9,
+      "event_key": "gears of war eday ddos attack coalition",
+      "title_ru": "Gears of War: E-Day столкнулась с DDoS-атакой",
+      "threads_teaser_ru": "Разработчики экшена Gears of War: E-Day подтвердили информацию о недавней DDoS-атаке на серверы игры. Из-за атаки игроки столкнулись с проблемами входа и отключениями, но на данный момент работа серверов полностью восстановлена.",
+      "telegram_message_id": "1120",
+      "telegram_url": "https://t.me/gamepulse_newss/1120",
+      "telegram_published_at": "2026-10-12T10:02:40.577649+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/gears-1791797492273.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-12T09:47:00.388921+00:00"
+  "updated_at": "2026-10-12T10:02:40.577983+00:00"
 }
