@@ -19092,9 +19092,10 @@
       "telegram_message_id": "1130",
       "telegram_url": "https://t.me/gamepulse_newss/1130",
       "telegram_published_at": "2026-10-12T12:47:06.176640+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-12T12:47:08.009862+00:00"
     }
   ],
-  "updated_at": "2026-10-12T12:47:06.176862+00:00"
+  "updated_at": "2026-10-12T12:47:08.009979+00:00"
 }
