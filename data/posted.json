@@ -19112,7 +19112,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/11/mixcollage-11-oct-2026-09-36-am-1606-1791725836353.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-12T13:02:26.333093+00:00"
+    },
+    {
+      "fingerprint": "edc3dad175f1af0469b99e27",
+      "title": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
+      "url": "https://eurogamer.net/starfield-mod-seamless-planetary-landings",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-12T12:56:58+00:00",
+      "score": 9,
+      "event_key": "starfield_seamless_planetary_landings_mod_frederik_wessberg",
+      "title_ru": "Моддер приблизил бесшовные приземления в Starfield",
+      "threads_teaser_ru": "Моддер Frederik Wessberg показал в видео грядущую модификацию для Starfield, которая убирает экраны загрузки при посадке на планеты. Мод добавляет полет через атмосферу, автопилот и новые возможности посадки.",
+      "telegram_message_id": "1132",
+      "telegram_url": "https://t.me/gamepulse_newss/1132",
+      "telegram_published_at": "2026-10-12T13:17:17.020831+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Starfield-Shattered-Space-screenshot1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-12T13:02:26.333210+00:00"
+  "updated_at": "2026-10-12T13:17:17.021127+00:00"
 }
