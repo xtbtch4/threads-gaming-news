@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "61806d47fe4d682fb0feee78",
-      "title": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
-      "url": "https://eurogamer.net/microsoft-patent-ads-in-gameplay",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-21T05:19:00+00:00",
-      "score": 9,
-      "event_key": "microsoft patents system for in-game ads on pc and xbox",
-      "title_ru": "Microsoft запатентовала систему внутриигровой рекламы для ПК и Xbox",
-      "threads_teaser_ru": "Microsoft запатентовала технологию показа рекламы в играх на ПК и Xbox. Система определяет «триггерные события», такие как экраны загрузки или завершение миссий, чтобы демонстрировать промо-контент без вмешательства в активный геймплей. Как это может повлиять на будущие тарифы подписки?",
-      "telegram_message_id": "7",
-      "telegram_url": "https://t.me/gamepulse_newss/7",
-      "telegram_published_at": "2026-09-23T10:59:49.319686+00:00",
-      "threads_id": "18336598837259058",
-      "image_url": "https://assetsio.gnwcdn.com/A-puppet-in-Clockwork-Revolution.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T10:59:58.526527+00:00"
-    },
-    {
       "fingerprint": "a3a92770280bd401720fc617",
       "title": "Pokémon Scalper Reportedly Arrested After Punching Man in the Face Over 30th Anniversary Target Drop",
       "url": "https://ign.com/articles/pokemon-scalper-reportedly-arrested-after-punching-man-in-the-face-over-30th-anniversary-target-drop",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MSFS_NCAR_NoSnipe_NoLogo_NoText-copy-b825fb5cca84a8d3e40b.jpg",
       "threads_published_at": "2026-10-13T22:47:36.420041+00:00"
+    },
+    {
+      "fingerprint": "a874be2c07dec80c86f6e3e2",
+      "title": "Razer Reveals New Pokémon Gaming Headsets Featuring Sylveon, Charizard, and Lucario",
+      "url": "https://ign.com/articles/razer-reveals-3-new-pokemon-gaming-headsets-based-on-sylveon-charizard-lucario",
+      "source": "IGN",
+      "published_at_source": "2026-10-13T22:28:45+00:00",
+      "score": 11,
+      "event_key": "Razer releases new Pokemon themed Kraken and Blackshark headsets",
+      "title_ru": "Razer представила новые тематические гарнитуры Pokémon",
+      "threads_teaser_ru": "Razer выпустила три новые версии гарнитур Kraken V4 и Blackshark V3 X Hyperspeed, вдохновленные Sylveon, Charizard и Lucario. Релиз приурочен к 30-летию Pokémon. Устройства уже поступили в продажу, причем за оформление Sylveon доплачивать не придется.",
+      "telegram_message_id": "1217",
+      "telegram_url": "https://t.me/gamepulse_newss/1217",
+      "telegram_published_at": "2026-10-13T23:17:17.028178+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/razerpokemon-1-1791927590029.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-13T22:47:36.420143+00:00"
+  "updated_at": "2026-10-13T23:17:17.028529+00:00"
 }
