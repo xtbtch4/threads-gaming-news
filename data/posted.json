@@ -20309,7 +20309,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/13/ultimate-edition-squalo-01-1791903846462.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-13T16:03:24.886258+00:00"
+    },
+    {
+      "fingerprint": "5ef7edef277259ddb5ebd19e",
+      "title": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
+      "url": "https://eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-13T16:13:54+00:00",
+      "score": 13,
+      "event_key": "witcher-3-remastered-ps5-pro-switch-2-patch",
+      "title_ru": "CD Projekt Red выпустила патч для The Witcher 3 Remastered и подтвердила работу над версией для Switch 2",
+      "threads_teaser_ru": "CD Projekt Red выпустила обновление 5.01b для The Witcher 3 Remastered на PlayStation 5 и PS5 Pro, а также подтвердила статус разработки обещанного патча для консоли Nintendo Switch 2.",
+      "telegram_message_id": "1202",
+      "telegram_url": "https://t.me/gamepulse_newss/1202",
+      "telegram_published_at": "2026-10-13T16:17:46.375599+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/20260925144028_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-13T16:03:24.886348+00:00"
+  "updated_at": "2026-10-13T16:17:46.375934+00:00"
 }
