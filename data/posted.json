@@ -19910,10 +19910,11 @@
       "telegram_message_id": "1178",
       "telegram_url": "https://t.me/gamepulse_newss/1178",
       "telegram_published_at": "2026-10-13T07:17:42.291119+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-screenshot-3.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/castlevania-belmont-s-curse-announcement-trailer-xbox-games-showcase-2026-1780855652.mp4"
+      "video_url": "https://video.polygonimages.com/2026/06/castlevania-belmont-s-curse-announcement-trailer-xbox-games-showcase-2026-1780855652.mp4",
+      "threads_published_at": "2026-10-13T07:17:43.575559+00:00"
     }
   ],
-  "updated_at": "2026-10-13T07:17:42.291392+00:00"
+  "updated_at": "2026-10-13T07:17:43.575666+00:00"
 }
