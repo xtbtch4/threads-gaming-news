@@ -20223,7 +20223,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Header_RawFury-8a776ffeffcaeac0831e.jpg",
       "threads_published_at": "2026-10-13T14:18:01.481778+00:00"
+    },
+    {
+      "fingerprint": "ff52f1a1978536c653d4b344",
+      "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
+      "url": "https://eurogamer.net/sifu-mobile-release-android-ios",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-13T14:26:57+00:00",
+      "score": 13,
+      "event_key": "Sifu released on Android and iOS mobile devices",
+      "title_ru": "Sifu вышла на Android и iOS",
+      "threads_teaser_ru": "Экшен Sifu добрался до смартфонов. Студия Sloclap выпустила игру на Android и iOS, внедрив сенсорное управление и адаптированную камеру. Порт уже доступен для покупки, при этом сохранена возможность играть с контроллером.",
+      "telegram_message_id": "1197",
+      "telegram_url": "https://t.me/gamepulse_newss/1197",
+      "telegram_published_at": "2026-10-13T14:33:23.252074+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/sifu-review-1643924545930.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-13T14:18:01.481867+00:00"
+  "updated_at": "2026-10-13T14:33:23.252324+00:00"
 }
