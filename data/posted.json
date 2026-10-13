@@ -20031,10 +20031,11 @@
       "telegram_message_id": "1185",
       "telegram_url": "https://t.me/gamepulse_newss/1185",
       "telegram_published_at": "2026-10-13T11:02:24.239558+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-header-2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/castlevania-belmont-s-curse-demo-out-now-esrb-konami-1790955357.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/castlevania-belmont-s-curse-demo-out-now-esrb-konami-1790955357.mp4",
+      "threads_published_at": "2026-10-13T11:02:25.662378+00:00"
     }
   ],
-  "updated_at": "2026-10-13T11:02:24.239721+00:00"
+  "updated_at": "2026-10-13T11:02:25.662503+00:00"
 }
