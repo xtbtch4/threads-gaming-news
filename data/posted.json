@@ -19811,7 +19811,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/12/visionquest-tf-1-1791827004272.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-13T01:17:44.261415+00:00"
+    },
+    {
+      "fingerprint": "fa84d24940388c4208274bb9",
+      "title": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims",
+      "url": "https://rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-12T16:06:36+00:00",
+      "score": 7,
+      "event_key": "nvidia shift production from RTX 5090 to RTX Pro",
+      "title_ru": "Слух: Nvidia может сократить производство RTX 5090 в пользу профессиональных видеокарт",
+      "threads_teaser_ru": "Nvidia может перенаправить ресурсы с выпуска топовых игровых видеокарт RTX 5090 на профессиональную линейку RTX Pro. По слухам, компания отдает приоритет чипам для разработчиков ИИ и дата-центров, что грозит дальнейшим сокращением поставок для обычных пользователей.",
+      "telegram_message_id": "1173",
+      "telegram_url": "https://t.me/gamepulse_newss/1173",
+      "telegram_published_at": "2026-10-13T01:34:04.699684+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-13T01:17:44.261523+00:00"
+  "updated_at": "2026-10-13T01:34:04.699991+00:00"
 }
