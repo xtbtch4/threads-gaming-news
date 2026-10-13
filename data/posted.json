@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c3874f735401772fc8b121f4",
-      "title": "Physint Is Biggest-Selling Game Kojima Could Ever Make, He Says",
-      "url": "https://gamespot.com/articles/physint-is-biggest-selling-game-kojima-could-ever-make-he-says",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-21T07:42:00+00:00",
-      "score": 9,
-      "event_key": "Hideo Kojima believes Physint will be his biggest selling game",
-      "title_ru": "Хидео Кодзима считает, что Physint станет его самым продаваемым проектом",
-      "threads_teaser_ru": "Хидео Кодзима уверен, что его грядущий шпионский экшен Physint станет самым успешным коммерческим проектом в его карьере. Ранее стало известно, что Sony отказалась от игры, и права на неё перешли к Xbox.",
-      "telegram_message_id": "6",
-      "telegram_url": "https://t.me/gamepulse_newss/6",
-      "telegram_published_at": "2026-09-23T10:57:17.957247+00:00",
-      "threads_id": "18194221648381053",
-      "image_url": "",
-      "threads_published_at": "2026-09-23T10:57:24.263231+00:00"
-    },
-    {
       "fingerprint": "61806d47fe4d682fb0feee78",
       "title": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
       "url": "https://eurogamer.net/microsoft-patent-ads-in-gameplay",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24431666/VyNhTqYhwJXU8rJpH5rBDL.jpeg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-13T22:32:21.651024+00:00"
+    },
+    {
+      "fingerprint": "70f763ff8341182ff0621979",
+      "title": "Microsoft Flight Simulator Releases National Championship Air Races and New Aircraft Pack Today",
+      "url": "https://news.xbox.com/en-us/2026/10/13/microsoft-flight-simulator-releases-national-championship-air-races-and-new-aircraft-pack-today",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-13T22:00:00+00:00",
+      "score": 12,
+      "event_key": "microsoft flight simulator national championship air races release",
+      "title_ru": "Для Microsoft Flight Simulator вышло дополнение National Championship Air Races",
+      "threads_teaser_ru": "В Microsoft Flight Simulator добавили режим National Championship Air Races и новый набор самолетов. Обновление уже доступно для скачивания всем владельцам симулятора, позволяя принять участие в соревновательных заездах.",
+      "telegram_message_id": "1216",
+      "telegram_url": "https://t.me/gamepulse_newss/1216",
+      "telegram_published_at": "2026-10-13T22:47:34.900247+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MSFS_NCAR_NoSnipe_NoLogo_NoText-copy-b825fb5cca84a8d3e40b.jpg"
     }
   ],
-  "updated_at": "2026-10-13T22:32:21.651122+00:00"
+  "updated_at": "2026-10-13T22:47:34.900938+00:00"
 }
