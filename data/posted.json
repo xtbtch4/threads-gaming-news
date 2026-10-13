@@ -19825,9 +19825,10 @@
       "telegram_message_id": "1173",
       "telegram_url": "https://t.me/gamepulse_newss/1173",
       "telegram_published_at": "2026-10-13T01:34:04.699684+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-13T01:34:06.099131+00:00"
     }
   ],
-  "updated_at": "2026-10-13T01:34:04.699991+00:00"
+  "updated_at": "2026-10-13T01:34:06.099214+00:00"
 }
