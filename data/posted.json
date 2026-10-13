@@ -20360,7 +20360,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/29/gow-blog-1790684176225.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-13T16:47:17.627610+00:00"
+    },
+    {
+      "fingerprint": "27f3a69a6cbe14394081823e",
+      "title": "ID@Xbox Showcase Returns in October",
+      "url": "https://ign.com/articles/id-xbox-showcase-october-2026-how-to-watch",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-13T17:05:48+00:00",
+      "score": 14,
+      "event_key": "ID@Xbox Showcase scheduled for October 20",
+      "title_ru": "ID@Xbox Showcase вернется 20 октября",
+      "threads_teaser_ru": "IGN и Xbox снова объединяются: 20 октября пройдет презентация ID@Xbox Showcase. Организаторы готовят эксклюзивные материалы по 20 играм для PC и Xbox, включая The Wolf Among Us Remastered и проекты от Critical Reflex Games.",
+      "telegram_message_id": "1205",
+      "telegram_url": "https://t.me/gamepulse_newss/1205",
+      "telegram_published_at": "2026-10-13T17:17:59.296394+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/idxbox-1791841137111.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-13T16:47:17.627723+00:00"
+  "updated_at": "2026-10-13T17:17:59.296767+00:00"
 }
