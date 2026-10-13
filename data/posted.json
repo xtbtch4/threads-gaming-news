@@ -20494,9 +20494,10 @@
       "telegram_message_id": "1216",
       "telegram_url": "https://t.me/gamepulse_newss/1216",
       "telegram_published_at": "2026-10-13T22:47:34.900247+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MSFS_NCAR_NoSnipe_NoLogo_NoText-copy-b825fb5cca84a8d3e40b.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MSFS_NCAR_NoSnipe_NoLogo_NoText-copy-b825fb5cca84a8d3e40b.jpg",
+      "threads_published_at": "2026-10-13T22:47:36.420041+00:00"
     }
   ],
-  "updated_at": "2026-10-13T22:47:34.900938+00:00"
+  "updated_at": "2026-10-13T22:47:36.420143+00:00"
 }
