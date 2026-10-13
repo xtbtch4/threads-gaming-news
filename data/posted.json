@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fc97b3dd0150921b2b408209",
-      "title": "CONFIRMED: Microsoft Hands Halo to Call of Duty Developer Activision as Part of Seismic Xbox Studios Shakeup",
-      "url": "https://ign.com/articles/confirmed-microsoft-hands-halo-to-call-of-duty-developer-activision-as-part-of-huge-xbox-studios-shakeup",
-      "source": "IGN",
-      "published_at_source": "2026-09-22T07:18:00+00:00",
-      "score": 13,
-      "event_key": "microsoft hands halo franchise development to activision xbox restructure",
-      "title_ru": "Microsoft передала разработку следующей Halo издателю Activision",
-      "threads_teaser_ru": "Microsoft масштабно перестроила Xbox: разработку следующей Halo передали Activision, а в Halo Studios прошли массовые сокращения. Студии Rare и World's Edge также переходят к Activision, а Obsidian займется новой Fallout.",
-      "telegram_message_id": "2",
-      "telegram_url": "https://t.me/gamepulse_newss/2",
-      "telegram_published_at": "2026-09-23T07:15:00.480090+00:00",
-      "threads_id": "17984508336096474",
-      "image_url": "https://assets1.ignimgs.com/2018/12/20/7-1545342029649.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T07:15:10.376639+00:00"
-    },
-    {
       "fingerprint": "9f2d16acfc36446a09dbf655",
       "title": "Halo Studios Cinematic Director Promoted and Laid Off Within the Same Week as Xbox's Brutal Restructuring Continues",
       "url": "https://ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/13/kdacomeback-1791909516784.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-13T20:32:24.071096+00:00"
+    },
+    {
+      "fingerprint": "97c52654d81d99d94875fade",
+      "title": "Go All in on All-Out Warfare in Battlefield 6 with EA Play",
+      "url": "https://news.xbox.com/en-us/2026/10/13/ea-play-october",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-13T17:00:00+00:00",
+      "score": 11,
+      "event_key": "Battlefield 6 added to EA Play subscription",
+      "title_ru": "Battlefield 6 вошла в библиотеку EA Play",
+      "threads_teaser_ru": "Шутер Battlefield 6 пополнил библиотеку EA Play. Подписчики получили доступ к полной версии игры и бонусам пятого сезона, действие которого переносит игроков в Лас-Вегас. Среди нововведений — свежие карты, оружие, режим Rapid Royale и рейтинговые матчи.",
+      "telegram_message_id": "1213",
+      "telegram_url": "https://t.me/gamepulse_newss/1213",
+      "telegram_published_at": "2026-10-13T20:47:31.353408+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EAP_BF6_PlayListDrop_Xbox_GPU_1920x1080-1-79e25eba69a3f4923b3f.jpg"
     }
   ],
-  "updated_at": "2026-10-13T20:32:24.071180+00:00"
+  "updated_at": "2026-10-13T20:47:31.353780+00:00"
 }
