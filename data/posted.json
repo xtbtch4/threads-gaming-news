@@ -20240,7 +20240,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/sifu-review-1643924545930.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-13T14:33:25.763690+00:00"
+    },
+    {
+      "fingerprint": "f61c71e6d796230331fd880a",
+      "title": "Xbox Is Testing A New Streak Feature That Could Make Gaming Feel (More) Like A Chore",
+      "url": "https://gamespot.com/articles/xbox-is-testing-a-new-streak-feature-that-could-make-gaming-feel-more-like-a-chore",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-13T14:49:57+00:00",
+      "score": 15,
+      "event_key": "xbox testing new streak feature for insider program",
+      "title_ru": "Xbox тестирует функцию счетчика «серий» активности",
+      "threads_teaser_ru": "Xbox тестирует новую функцию подсчета «серий» активности (Streaks) для участников программы Insider. Она отслеживает, как часто вы запускаете консоль, и может быть связана с системой наград. Станет ли это постоянным нововведением — пока неизвестно.",
+      "telegram_message_id": "1198",
+      "telegram_url": "https://t.me/gamepulse_newss/1198",
+      "telegram_published_at": "2026-10-13T15:17:00.356609+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/New-Xbox-Series-X_S-Console-Options-Family_NoText-65586e62c31bf0eee51f.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-13T14:33:25.763788+00:00"
+  "updated_at": "2026-10-13T15:17:00.356856+00:00"
 }
