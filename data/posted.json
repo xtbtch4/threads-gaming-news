@@ -20014,9 +20014,10 @@
       "telegram_message_id": "1184",
       "telegram_url": "https://t.me/gamepulse_newss/1184",
       "telegram_published_at": "2026-10-13T10:47:03.113806+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/xbox-showcase-2026-sharma.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/xbox-showcase-2026-sharma.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-13T10:47:05.024556+00:00"
     }
   ],
-  "updated_at": "2026-10-13T10:47:03.113940+00:00"
+  "updated_at": "2026-10-13T10:47:05.024652+00:00"
 }
