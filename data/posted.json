@@ -19946,9 +19946,10 @@
       "telegram_message_id": "1180",
       "telegram_url": "https://t.me/gamepulse_newss/1180",
       "telegram_published_at": "2026-10-13T08:47:22.771205+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/the-callisto-protocol_uARW7hC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/the-callisto-protocol_uARW7hC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-13T08:47:24.554480+00:00"
     }
   ],
-  "updated_at": "2026-10-13T08:47:22.771476+00:00"
+  "updated_at": "2026-10-13T08:47:24.554564+00:00"
 }
