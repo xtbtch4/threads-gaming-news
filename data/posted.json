@@ -19876,9 +19876,10 @@
       "telegram_message_id": "1176",
       "telegram_url": "https://t.me/gamepulse_newss/1176",
       "telegram_published_at": "2026-10-13T02:47:00.251535+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/darkhold-destiny-preorders-ign-3-1791799777494.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/darkhold-destiny-preorders-ign-3-1791799777494.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-13T02:47:01.859388+00:00"
     }
   ],
-  "updated_at": "2026-10-13T02:47:00.251788+00:00"
+  "updated_at": "2026-10-13T02:47:01.859479+00:00"
 }
