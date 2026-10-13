@@ -20254,9 +20254,10 @@
       "telegram_message_id": "1198",
       "telegram_url": "https://t.me/gamepulse_newss/1198",
       "telegram_published_at": "2026-10-13T15:17:00.356609+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/New-Xbox-Series-X_S-Console-Options-Family_NoText-65586e62c31bf0eee51f.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/New-Xbox-Series-X_S-Console-Options-Family_NoText-65586e62c31bf0eee51f.jpg?w=300",
+      "threads_published_at": "2026-10-13T15:17:02.343559+00:00"
     }
   ],
-  "updated_at": "2026-10-13T15:17:00.356856+00:00"
+  "updated_at": "2026-10-13T15:17:02.343653+00:00"
 }
