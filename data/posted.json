@@ -20185,9 +20185,10 @@
       "telegram_message_id": "1194",
       "telegram_url": "https://t.me/gamepulse_newss/1194",
       "telegram_published_at": "2026-10-13T13:47:14.808963+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-3-boxart-houser.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-3-boxart-houser.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-13T13:47:16.338857+00:00"
     }
   ],
-  "updated_at": "2026-10-13T13:47:14.809359+00:00"
+  "updated_at": "2026-10-13T13:47:16.338955+00:00"
 }
