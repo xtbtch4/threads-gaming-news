@@ -20154,7 +20154,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/09/diggerthumb-1788963055122.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-13T13:03:10.991566+00:00"
+    },
+    {
+      "fingerprint": "4ca34f611c42f0474fb7276f",
+      "title": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
+      "url": "https://eurogamer.net/playstation-5-midnight-black-japan-only",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-13T13:02:32+00:00",
+      "score": 15,
+      "event_key": "Sony announces Japan exclusive Midnight Black PlayStation 5 console",
+      "title_ru": "Sony анонсировала Midnight Black версию PlayStation 5 для японского рынка",
+      "threads_teaser_ru": "Sony выпустит PlayStation 5 в расцветке Midnight Black. Новинка будет доступна только в Японии с 19 ноября и получит региональные ограничения: консоль работает только с японскими PSN-аккаунтами и имеет только японский язык интерфейса.",
+      "telegram_message_id": "1193",
+      "telegram_url": "https://t.me/gamepulse_newss/1193",
+      "telegram_published_at": "2026-10-13T13:32:36.164296+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ps5-midnight-black-japan-box-product-shot-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-13T13:03:10.991643+00:00"
+  "updated_at": "2026-10-13T13:32:36.164546+00:00"
 }
