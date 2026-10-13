@@ -20428,7 +20428,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/HaloFest.jpg?w=300",
       "threads_published_at": "2026-10-13T19:02:37.789375+00:00"
+    },
+    {
+      "fingerprint": "38baa8b6cbf178b6e8ac76dd",
+      "title": "Xbox Announces Xbox Labs, Aimed in Part at Getting Improved Old-Gen Games Playable in Web Browsers",
+      "url": "https://ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
+      "source": "IGN",
+      "published_at_source": "2026-10-13T19:00:00+00:00",
+      "score": 13,
+      "event_key": "microsoft-announces-xbox-labs-browser-gaming",
+      "title_ru": "Microsoft анонсировала инициативу Xbox Labs для запуска игр в браузерах",
+      "threads_teaser_ru": "Microsoft представила инициативу Xbox Labs, направленную на развитие новых способов дистрибуции игр и запуск проектов с Xbox и Xbox 360 прямо в веб-браузерах.",
+      "telegram_message_id": "1209",
+      "telegram_url": "https://t.me/gamepulse_newss/1209",
+      "telegram_published_at": "2026-10-13T19:16:57.542382+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/halospeedrunblogroll-1533336736758-1717694718988-1791846824130.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-13T19:02:37.789464+00:00"
+  "updated_at": "2026-10-13T19:16:57.542602+00:00"
 }
