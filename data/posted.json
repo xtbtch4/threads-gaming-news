@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "81ea59a6bd32604a6cde75bb",
-      "title": "Discord's Controversial Age Verification Policy Starts Today",
-      "url": "https://polygon.com/discord-controversial-age-verification-starting",
-      "source": "Polygon",
-      "published_at_source": "2026-09-23T18:49:32+00:00",
-      "score": 12,
-      "event_key": "discord rolling out age verification policy 2026",
-      "title_ru": "Discord начал внедрение спорной политики подтверждения возраста",
-      "threads_teaser_ru": "Discord начал развертывание спорной системы проверки возраста. Компания обещает, что 90% пользователей не придется подтверждать возраст вручную, так как система распределит их по группам автоматически.",
-      "telegram_message_id": "50",
-      "telegram_url": "https://t.me/gamepulse_newss/50",
-      "telegram_published_at": "2026-09-23T18:53:42.462754+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25408820/discord_art.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4",
-      "threads_published_at": "2026-09-23T18:53:42.464353+00:00"
-    },
-    {
       "fingerprint": "890a40aaa0deef7201e8fa2c",
       "title": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
       "url": "https://eurogamer.net/discord-controversial-age-verification-privacy-preserving",
@@ -20494,7 +20476,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/007-first-light-steam-screenshot.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/05/007-first-light-gameplay-trailer-1779807072.mp4",
       "threads_published_at": "2026-10-14T21:17:36.659792+00:00"
+    },
+    {
+      "fingerprint": "67b69a0e2c3e42f024e34c3a",
+      "title": "Get Ready to Wet Yourself For Urine Trouble: PEE V PEE | IGN Fall Fan Fest 2026",
+      "url": "https://ign.com/articles/get-ready-to-wet-yourself-for-urine-trouble-pee-v-pee-ign-fall-fan-fest-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T19:00:00+00:00",
+      "score": 11,
+      "event_key": "urine trouble pee v pee gameplay reveal ign fall fan fest 2026",
+      "title_ru": "Анонс геймплея Urine Trouble: PEE V PEE",
+      "threads_teaser_ru": "На IGN Fall Fan Fest 2026 показали геймплей Urine Trouble: PEE V PEE — необычной многопользовательской игры для Steam, где нужно бороться за территорию с помощью мочеиспускания или играть за полицию.",
+      "telegram_message_id": "1260",
+      "telegram_url": "https://t.me/gamepulse_newss/1260",
+      "telegram_published_at": "2026-10-14T21:32:17.716464+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/pvp-1791834615084.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T21:17:36.659905+00:00"
+  "updated_at": "2026-10-14T21:32:17.716720+00:00"
 }
