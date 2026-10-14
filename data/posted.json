@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cf5557bb4217a1af1b309186",
-      "title": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
-      "url": "https://pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T03:38:59+00:00",
-      "score": 11,
-      "event_key": "australia steam r18 age verification credit card alternatives",
-      "title_ru": "Где в Австралии покупать игры с рейтингом R18+ без кредитной карты",
-      "threads_teaser_ru": "Новые правила возрастной верификации в Steam для австралийских игроков требуют обязательного наличия кредитной карты для покупки игр R18+. Какие альтернативные магазины можно использовать?",
-      "telegram_message_id": "46",
-      "telegram_url": "https://t.me/gamepulse_newss/46",
-      "telegram_published_at": "2026-09-23T18:32:33.397153+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/DZKZDSWUzBbPNghUTiW3bc-1200-80.jpg",
-      "threads_published_at": "2026-09-23T18:32:33.398683+00:00"
-    },
-    {
       "fingerprint": "edb90487d2e7288ee70bc58b",
       "title": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
       "url": "https://rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-1.png?w=300",
       "threads_published_at": "2026-10-14T19:47:06.132882+00:00"
+    },
+    {
+      "fingerprint": "2ce5abcf832f88b3adf89aa7",
+      "title": "Castlevania: Belmont’s Curse Is a Worthy Heir to its Legacy",
+      "url": "https://news.xbox.com/en-us/2026/10/14/castlevania-belmonts-curse-legacy",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-14T15:00:00+00:00",
+      "score": 11,
+      "event_key": "castlevania belmonts curse announced and detailed",
+      "title_ru": "Castlevania: Belmont’s Curse — возвращение легендарной серии",
+      "threads_teaser_ru": "Castlevania: Belmont’s Curse продолжает знаменитую серию спустя 18 лет после последней оригинальной 2D-игры. Проект разработан KONAMI совместно с Evil Empire и переносит игроков в Париж 1499 года.",
+      "telegram_message_id": "1256",
+      "telegram_url": "https://t.me/gamepulse_newss/1256",
+      "telegram_published_at": "2026-10-14T20:16:54.769303+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Key-Art-d2731666bddf0afeeaa1.jpg"
     }
   ],
-  "updated_at": "2026-10-14T19:47:06.132983+00:00"
+  "updated_at": "2026-10-14T20:16:54.769624+00:00"
 }
