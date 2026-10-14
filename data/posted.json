@@ -20493,9 +20493,10 @@
       "telegram_message_id": "1221",
       "telegram_url": "https://t.me/gamepulse_newss/1221",
       "telegram_published_at": "2026-10-14T09:17:24.396135+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2-elephant-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2-elephant-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-14T09:17:25.972787+00:00"
     }
   ],
-  "updated_at": "2026-10-14T09:17:24.396501+00:00"
+  "updated_at": "2026-10-14T09:17:25.972878+00:00"
 }
