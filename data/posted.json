@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b36c34b2f4f07b21396f3947",
-      "title": "Состоялся полноценный релиз метроидвании Fallen Tear: The Ascension",
-      "url": "https://stopgame.ru/newsdata/72926/sostoyalsya_polnocennyy_reliz_metroidvanii_fallen_tear_the_ascension",
-      "source": "StopGame",
-      "published_at_source": "2026-09-23T16:32:37+00:00",
-      "score": 14,
-      "event_key": "fallen tear the ascension full release",
-      "title_ru": "Состоялся релиз метроидвании Fallen Tear: The Ascension",
-      "threads_teaser_ru": "Метроидвания Fallen Tear: The Ascension от студии Winter Crew вышла из раннего доступа в Steam спустя полгода. Авторы выпустили обновление 1.0 и уже планируют консольные релизы.",
-      "telegram_message_id": "29",
-      "telegram_url": "https://t.me/gamepulse_newss/29",
-      "telegram_published_at": "2026-09-23T17:07:45.044847+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://images.stopgame.ru/news/2026/09/23/0A-DaoMo.jpg",
-      "threads_published_at": "2026-09-23T17:07:45.045719+00:00"
-    },
-    {
       "fingerprint": "fb07a75585c6a21b2d622dee",
       "title": "Try the latest Game Trial, Prince of Persia The Lost Crown - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/try-the-latest-game-trial-prince-of-persia-the-lost-crown",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/max-payne-3-screen-front-profile-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T13:46:51.825863+00:00"
+    },
+    {
+      "fingerprint": "b9586c7d4dd9c3c9868f8fe6",
+      "title": "Ex-ZA/UM developers reveal Red Rooster, an \"incendiary RPG\" that is very intentionally not trying to be a \"Disco Elysium successor\" or \"Disco-like\"",
+      "url": "https://eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-14T13:00:00+00:00",
+      "score": 11,
+      "event_key": "ex-zaum developers announce red rooster rpg",
+      "title_ru": "Бывшие разработчики Disco Elysium анонсировали RPG Red Rooster",
+      "threads_teaser_ru": "Бывшие авторы Disco Elysium из студии Summer Eternal представили Red Rooster — амбициозную физически ориентированную RPG на Unreal Engine без изометрии.",
+      "telegram_message_id": "1239",
+      "telegram_url": "https://t.me/gamepulse_newss/1239",
+      "telegram_published_at": "2026-10-14T14:03:10.739346+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Red-Rooster-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T13:46:51.825952+00:00"
+  "updated_at": "2026-10-14T14:03:10.739569+00:00"
 }
