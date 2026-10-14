@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "265b6017772720b7511e3874",
-      "title": "QUAKE Sep 23, 2026 Quake Champions 1.31 Point Release FAQ Beginning September 23, 2026, Quake Champions transitions from a free-to-play model game to a paid title on Steam only. View",
-      "url": "https://slayersclub.bethesda.net/en-US/news/quake-champions-1-31-point-release",
-      "source": "Bethesda",
-      "published_at_source": "2026-09-23T18:00:00+00:00",
-      "score": 15,
-      "event_key": "quake champions transitions to paid title on steam",
-      "title_ru": "Quake Champions становится платной игрой в Steam",
-      "threads_teaser_ru": "Quake Champions меняет модель распространения и становится платной игрой только в Steam с 23 сентября 2026 года. Что будет с прогрессом, покупками и игроками с Microsoft Store — читайте в материале.",
-      "telegram_message_id": "43",
-      "telegram_url": "https://t.me/gamepulse_newss/43",
-      "telegram_published_at": "2026-09-23T18:17:18.792461+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-09-23T18:17:18.793937+00:00"
-    },
-    {
       "fingerprint": "ece2b16bd7d11b09a4e1c35f",
       "title": "Middle-earth: Shadow Bundle выйдет на Switch 2 уже 30 сентября",
       "url": "https://stopgame.ru/newsdata/72921/middle_earth_shadow_bundle_vyydet_na_switch_2_uzhe_30_sentyabrya",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://sm.ign.com/t/ign_in/news/r/rockstar-p/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billio_kss1.1200.jpg",
       "threads_published_at": "2026-10-14T18:47:28.081556+00:00"
+    },
+    {
+      "fingerprint": "68e5891b3474017cbf538523",
+      "title": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game",
+      "url": "https://eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-14T19:14:52+00:00",
+      "score": 13,
+      "event_key": "kotaro uchikoshi crash keys new game cancelled",
+      "title_ru": "Новая игра от создателя Zero Escape отменена, а будущее студии под угрозой",
+      "threads_teaser_ru": "Новый проект студии Crash Keys и геймдизайнера Котаро Утикоси внезапно отменили спустя полтора года разработки. Теперь коллектив срочно ищет инвесторов, чтобы избежать закрытия.",
+      "telegram_message_id": "1253",
+      "telegram_url": "https://t.me/gamepulse_newss/1253",
+      "telegram_published_at": "2026-10-14T19:17:22.907690+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Hundred-Line_CVhkHXD.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T18:47:28.081656+00:00"
+  "updated_at": "2026-10-14T19:17:22.907861+00:00"
 }
