@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b49ae1571bb68c996c59b04c",
-      "title": "GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says",
-      "url": "https://gamespot.com/articles/gta-6-will-make-pro-athletes-perform-worse-nba-star-says",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T14:57:50+00:00",
-      "score": 11,
-      "event_key": "gta will make pro athletes perform worse nba star says",
-      "title_ru": "GTA 6 заставит профессиональных спортсменов работать хуже, говорит звезда НБА",
-      "threads_teaser_ru": "Стивен Адамс из команды НБА «Хьюстон Рокетс» предсказал, что все основные профессиональные спортивные лиги испытают падение качества в ноябре этого года, потому что лучшие спортсмены будут слишком сосредоточены на GTA 6.",
-      "telegram_message_id": "36",
-      "telegram_url": "https://t.me/gamepulse_newss/36",
-      "telegram_published_at": "2026-09-23T17:43:21.402659+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Lucia_Caminos_07-1.jpg?w=300",
-      "threads_published_at": "2026-09-23T17:43:21.403769+00:00"
-    },
-    {
       "fingerprint": "51ca57ccc774f0397469c5f9",
       "title": "Halo Co-Creator Reacts To Franchise Moving To Activision: “Shocked But Not Entirely Surprised”",
       "url": "https://gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/gta-6-delay-dev-cycle-gta-5-success-2.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-14T15:32:49.442547+00:00"
+    },
+    {
+      "fingerprint": "36a810c7a8c464a68a04e3eb",
+      "title": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more",
+      "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-14T15:30:18+00:00",
+      "score": 14,
+      "event_key": "playstation_plus_game_catalog_october_lineup",
+      "title_ru": "Игры октября в PlayStation Plus: Mafia: The Old Country, Horizon Forbidden West и другие",
+      "threads_teaser_ru": "Объявлен октябрьский каталог PlayStation Plus: с 20 октября подписчикам станут доступны Mafia: The Old Country, Horizon Forbidden West, Mycopunk и другие игры.",
+      "telegram_message_id": "1246",
+      "telegram_url": "https://t.me/gamepulse_newss/1246",
+      "telegram_published_at": "2026-10-14T15:46:48.005126+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/564648f1d0bcdfc71f095bc5473eaf27c88b428e.jpg"
     }
   ],
-  "updated_at": "2026-10-14T15:32:49.442638+00:00"
+  "updated_at": "2026-10-14T15:46:48.005494+00:00"
 }
