@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1251",
       "telegram_url": "https://t.me/gamepulse_newss/1251",
       "telegram_published_at": "2026-10-14T18:32:32.497372+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/fortnite-runners-keyart-webheader.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/fortnite-runners-keyart-webheader.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-14T18:32:33.970328+00:00"
     }
   ],
-  "updated_at": "2026-10-14T18:32:32.497659+00:00"
+  "updated_at": "2026-10-14T18:32:33.970411+00:00"
 }
