@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "51ca57ccc774f0397469c5f9",
-      "title": "Halo Co-Creator Reacts To Franchise Moving To Activision: “Shocked But Not Entirely Surprised”",
-      "url": "https://gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T11:43:25+00:00",
-      "score": 11,
-      "event_key": "halo-franchise-moves-to-activision-marcus-lehto-reacts",
-      "title_ru": "Соавтор Halo отреагировал на переход франшизы под крыло Activision",
-      "threads_teaser_ru": "Соавтор Halo Маркус Лейто прокомментировал переход знаменитой франшизы под управление Activision на фоне масштабной реструктуризации подразделения Xbox и сокращений в Halo Studios.",
-      "telegram_message_id": "37",
-      "telegram_url": "https://t.me/gamepulse_newss/37",
-      "telegram_published_at": "2026-09-23T17:46:27.311263+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Halo-CE.jpg?w=300",
-      "threads_published_at": "2026-09-23T17:46:27.312422+00:00"
-    },
-    {
       "fingerprint": "816d9602a8e0ef109e0c74a3",
       "title": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
       "url": "https://eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/10/564648f1d0bcdfc71f095bc5473eaf27c88b428e.jpg",
       "threads_published_at": "2026-10-14T15:46:49.273252+00:00"
+    },
+    {
+      "fingerprint": "a7288774d6fd1f90f0ea61de",
+      "title": "New trailer for The Legend of Zelda: Ocarina of Time - News - Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/you-have-been-summoned-to-watch-the-new-legend-of-zelda-ocarina-of-time-overview-trailer",
+      "source": "Nintendo",
+      "published_at_source": "2026-10-14T16:00:00+00:00",
+      "score": 13,
+      "event_key": "legend of zelda ocarina of time nintendo switch 2 trailer release",
+      "title_ru": "Вышел новый трейлер The Legend of Zelda: Ocarina of Time для Nintendo Switch 2",
+      "threads_teaser_ru": "Nintendo показала новый трейлер полностью переосмысленной The Legend of Zelda: Ocarina of Time для Nintendo Switch 2. Игра выходит 5 ноября и поддерживает управление окариной через микрофон консоли.",
+      "telegram_message_id": "1247",
+      "telegram_url": "https://t.me/gamepulse_newss/1247",
+      "telegram_published_at": "2026-10-14T16:02:41.919290+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-10-14T15:46:49.273348+00:00"
+  "updated_at": "2026-10-14T16:02:41.919676+00:00"
 }
