@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "816d9602a8e0ef109e0c74a3",
-      "title": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
-      "url": "https://eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-23T17:50:39+00:00",
-      "score": 15,
-      "event_key": "Activision developing next Halo game amid Xbox restructuring",
-      "title_ru": "Фанаты Halo обеспокоены переходом франшизы к Activision и возможным перезапуском лора",
-      "threads_teaser_ru": "После перехода Halo к Activision и массовых увольнений в Halo Studios фанаты гадают, ждет ли серию перезапуск лора и состоится ли декабрьский Halo Fest.",
-      "telegram_message_id": "38",
-      "telegram_url": "https://t.me/gamepulse_newss/38",
-      "telegram_published_at": "2026-09-23T17:51:47.720199+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/halo-infinite-master-chief.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T17:51:47.721701+00:00"
-    },
-    {
       "fingerprint": "5b5b64adb7deac4cddd4436e",
       "title": "Every Xbox Studio’s Current Status After Multiple Rounds of Layoffs",
       "url": "https://polygon.com/xbox-studio-status-september-2026",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-10-14T16:02:43.593757+00:00"
+    },
+    {
+      "fingerprint": "9061e3dd62f756fdec8d8da2",
+      "title": "Meet the XBOX Nano Controller",
+      "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-14T16:00:00+00:00",
+      "score": 12,
+      "event_key": "xbox-nano-controller-announcement-2026",
+      "title_ru": "Анонс портативного геймпада XBOX Nano Controller",
+      "threads_teaser_ru": "Microsoft представила компактный XBOX Nano Controller длиной чуть более 5 дюймов и весом 3,5 унции. Новинка получила 18 стандартных кнопок, аккумулятор и поддержку Bluetooth. Предзаказы уже открыты по цене $49.99.",
+      "telegram_message_id": "1248",
+      "telegram_url": "https://t.me/gamepulse_newss/1248",
+      "telegram_published_at": "2026-10-14T16:17:10.635025+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX-Nano-Controller-textless-full-image-resize-163b4cf933e25ff565e2.jpg"
     }
   ],
-  "updated_at": "2026-10-14T16:02:43.593841+00:00"
+  "updated_at": "2026-10-14T16:17:10.635389+00:00"
 }
