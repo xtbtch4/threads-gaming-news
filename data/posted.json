@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c677b59aedb16eb0a7c0b7ba",
-      "title": "Resident Evil Movie Director Reveals His Four Favorite Games",
-      "url": "https://gamespot.com/articles/resident-evil-movie-director-reveals-his-four-favorite-games",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T15:38:21+00:00",
-      "score": 12,
-      "event_key": "resident-evil-movie-director-favorite-games",
-      "title_ru": "Режиссер нового фильма по Resident Evil назвал свои любимые игры",
-      "threads_teaser_ru": "Режиссер новой экранизации Resident Evil Зак Креггер назвал свои любимые игры, среди которых оказались Dark Souls 3 и Resident Evil 4. Как создатель фильма использовал их для работы?",
-      "telegram_message_id": "32",
-      "telegram_url": "https://t.me/gamepulse_newss/32",
-      "telegram_published_at": "2026-09-23T17:22:52.852143+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Cregger.png?w=300",
-      "threads_published_at": "2026-09-23T17:22:52.853159+00:00"
-    },
-    {
       "fingerprint": "eea1beca3bc0ce9fb42a466d",
       "title": "Graveyard Keeper 2 стартовала с высокими оценками игроков",
       "url": "https://stopgame.ru/newsdata/72925/graveyard_keeper_2_startovala_s_vysokimi_ocenkami_igrokov",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Port_Gellhorn_06.jpg?w=300",
       "threads_published_at": "2026-10-14T14:33:59.718158+00:00"
+    },
+    {
+      "fingerprint": "d8257107938f9495f652518e",
+      "title": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
+      "url": "https://rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-14T14:45:00+00:00",
+      "score": 14,
+      "event_key": "rockstar_union_busting_tribunal_extended_november",
+      "title_ru": "Судебное разбирательство между Rockstar и профсоюзом продлено до ноября",
+      "threads_teaser_ru": "Судебный процесс между профсоюзом IWGB и Rockstar Games продлен до ноября. Заключительные аргументы сторон пройдут 17 и 18 ноября, всего за несколько дней до релиза GTA 6.",
+      "telegram_message_id": "1242",
+      "telegram_url": "https://t.me/gamepulse_newss/1242",
+      "telegram_published_at": "2026-10-14T14:48:18.248010+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-lucia-relationship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T14:33:59.718246+00:00"
+  "updated_at": "2026-10-14T14:48:18.248372+00:00"
 }
