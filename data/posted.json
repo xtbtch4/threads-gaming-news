@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b2c541d1ac9588cb9e38652e",
-      "title": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch",
-      "url": "https://pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T16:01:00+00:00",
-      "score": 11,
-      "event_key": "logitech announces g pro x3 superstrike mouse",
-      "title_ru": "Logitech анонсировала мышь G Pro X3 Superstrike спустя семь месяцев после релиза оригинала",
-      "threads_teaser_ru": "Спустя всего семь месяцев после релиза G Pro X2 Superstrike компания Logitech представила улучшенную модель G Pro X3 Superstrike за 200 долларов. Новинка получила исправленный баланс веса и увеличенную автономность.",
-      "telegram_message_id": "34",
-      "telegram_url": "https://t.me/gamepulse_newss/34",
-      "telegram_published_at": "2026-09-23T17:32:16.598280+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/FVTRrBNCxLzTZ9ue6qC2AJ-2560-80.jpg",
-      "threads_published_at": "2026-09-23T17:32:16.599494+00:00"
-    },
-    {
       "fingerprint": "e474cb627497aec3e62270a2",
       "title": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
       "url": "https://pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/egs-ai-build-blogroll-1791981252442.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T15:04:01.322002+00:00"
+    },
+    {
+      "fingerprint": "1b1f8599d441bcee10548cef",
+      "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+      "url": "https://eurogamer.net/guild-wars-2-living-world-expansions",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-14T15:14:15+00:00",
+      "score": 15,
+      "event_key": "arenanet bundles guild wars 2 living world with expansions",
+      "title_ru": "ArenaNet изменила модель распространения контента в Guild Wars 2",
+      "threads_teaser_ru": "ArenaNet изменила подход к продаже контента в Guild Wars 2: теперь сюжетные сезоны Living World больше не нужно покупать отдельно — они бесплатно прилагаются к крупным дополнениям игры.",
+      "telegram_message_id": "1244",
+      "telegram_url": "https://t.me/gamepulse_newss/1244",
+      "telegram_published_at": "2026-10-14T15:18:22.846343+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/guild-wars-2-characters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T15:04:01.322106+00:00"
+  "updated_at": "2026-10-14T15:18:22.846529+00:00"
 }
