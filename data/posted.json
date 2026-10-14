@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "61508889173e71b6fa05beec",
-      "title": "Nintendo Turns 137 Today, Making It Older (And Better) Than Sliced Bread",
-      "url": "https://gamespot.com/articles/nintendo-turns-137-today-making-it-older-and-better-than-sliced-bread",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T07:37:00+00:00",
-      "score": 10,
-      "event_key": "nintendo celebrates 137th anniversary",
-      "title_ru": "Nintendo празднует свой 137-й день рождения",
-      "threads_teaser_ru": "Легендарной японской компании Nintendo исполнилось 137 лет. Сегодня она ассоциируется с консолями и видеоиграми, но ее история началась в далеком 1889 году с совершенно другого продукта.",
-      "telegram_message_id": "15",
-      "telegram_url": "https://t.me/gamepulse_newss/15",
-      "telegram_published_at": "2026-09-23T15:06:49.449228+00:00",
-      "threads_id": "17994530295012577",
-      "image_url": "",
-      "threads_published_at": "2026-09-23T15:06:57.361346+00:00"
-    },
-    {
       "fingerprint": "d088d6e94191c0062ba68f72",
       "title": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
       "url": "https://rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/zavvi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T10:17:06.616262+00:00"
+    },
+    {
+      "fingerprint": "1667bee9a2265fd2e25cd82c",
+      "title": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink",
+      "url": "https://rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-14T10:00:00+00:00",
+      "score": 11,
+      "event_key": "Facepunch Studios S&box free to play overhaul",
+      "title_ru": "Facepunch Studios переведет S&box на условно-бесплатную модель",
+      "threads_teaser_ru": "Разработчики S&box признали провал своей концепции «Netflix для игр» и готовят масштабный перезапуск. Проект станет условно-бесплатным к концу года, а студия Facepunch Studios сменит приоритеты, сосредоточившись на качестве игр, а не на их количестве.",
+      "telegram_message_id": "1225",
+      "telegram_url": "https://t.me/gamepulse_newss/1225",
+      "telegram_published_at": "2026-10-14T10:32:50.280766+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/s%26box-going-free-to-play-garrys-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T10:17:06.616368+00:00"
+  "updated_at": "2026-10-14T10:32:50.281002+00:00"
 }
