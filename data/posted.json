@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8defe9ff6db848e0ae6c8aee",
-      "title": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
-      "url": "https://eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-23T13:58:57+00:00",
-      "score": 10,
-      "event_key": "blizzard_diablo_5_level_scaling_diablo_2",
-      "title_ru": "Blizzard изменит систему автоповышения уровня в Diablo 5 под влиянием Diablo 2",
-      "threads_teaser_ru": "Разработчики Diablo 5 откажутся от привычного по последним частям серии автоповышения уровня врагов и применят иной подход, вдохновленный Diablo 2. Релиз игры намечен на весну 2029 года.",
-      "telegram_message_id": "52",
-      "telegram_url": "https://t.me/gamepulse_newss/52",
-      "telegram_published_at": "2026-09-23T19:02:46.315416+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-13-at-11.57.18.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T19:02:46.316702+00:00"
-    },
-    {
       "fingerprint": "abc7d2a37bc7a860e0ee201c",
       "title": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers",
       "url": "https://pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/moyaca-1792009399853.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T21:47:23.952091+00:00"
+    },
+    {
+      "fingerprint": "549b28639cc04362263ede6d",
+      "title": "The Pokémon Center's New 'Winter Night Sky' Holiday Collection Comes With a Free Sticker Sheet",
+      "url": "https://ign.com/articles/the-pokemon-center-winter-night-sky-holiday-collection-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T21:04:41+00:00",
+      "score": 9,
+      "event_key": "The Pokémon Center Winter Night Sky collection launch",
+      "title_ru": "The Pokémon Center выпустил праздничную коллекцию Winter Night Sky",
+      "threads_teaser_ru": "The Pokémon Center анонсировал праздничную коллекцию Winter Night Sky 2026 года. В нее вошли более 60 новинок: от одежды и украшений до фигурок для Holiday Village. Главным героем стал Mew, а при заказе до 25 декабря дарят набор наклеек.",
+      "telegram_message_id": "1262",
+      "telegram_url": "https://t.me/gamepulse_newss/1262",
+      "telegram_published_at": "2026-10-14T22:03:00.352502+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/pokemonholiday-1-1792010041152.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T21:47:23.952186+00:00"
+  "updated_at": "2026-10-14T22:03:00.352798+00:00"
 }
