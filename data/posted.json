@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2f69f7aaf2f906025d1295aa",
-      "title": "Exciting Pokémon leak teases totally new frontier for the series",
-      "url": "https://polygon.com/pokemon-winds-waves-leak-what-is-project-seed-mmo-evolution",
-      "source": "Polygon",
-      "published_at_source": "2026-09-22T00:45:00+00:00",
-      "score": 5,
-      "event_key": "Game Freak Project Seed Pokemon MMO leak details",
-      "title_ru": "Слухи: Game Freak могла работать над MMO по вселенной Pokémon под кодовым названием Project Seed",
-      "threads_teaser_ru": "В утекших документах Game Freak обнаружили упоминания Project Seed — возможной MMO по Pokémon с бесшовным миром и динамической экосистемой. Разбираемся, что известно об этом концепте и как он может быть связан с будущими механиками эволюции покемонов.",
-      "telegram_message_id": "10",
-      "telegram_url": "https://t.me/gamepulse_newss/10",
-      "telegram_published_at": "2026-09-23T11:33:40.929429+00:00",
-      "threads_id": "18093652256136540",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/3360555/20101007155439_Ash_Pikachu.png?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pokemoncards-1789859278.mp4",
-      "threads_published_at": "2026-09-23T11:34:42.764574+00:00"
-    },
-    {
       "fingerprint": "0836487277ceaea28fc337a4",
       "title": "Overwatch Actors Talk Gaming Inspirations, Community Building & Role Playing Characters in Character",
       "url": "https://gamespot.com/videos/overwatch-actors-talk-gaming-inspirations-community-building-role-playing-characters-in-character",
@@ -20497,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dropout-mp3-trailer-screenshot.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-14T04:47:27.986387+00:00"
+    },
+    {
+      "fingerprint": "9964e4a2ee3a1798fb8e97b7",
+      "title": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+      "url": "https://eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-14T08:35:47+00:00",
+      "score": 13,
+      "event_key": "xbox announces new initiative xbox labs",
+      "title_ru": "Xbox анонсировала новое подразделение Xbox Labs",
+      "threads_teaser_ru": "Xbox объявила о создании подразделения Xbox Labs для изучения новых тенденций в создании и портировании игр, хотя в анонсе избегали упоминаний искусственного интеллекта.",
+      "telegram_message_id": "1220",
+      "telegram_url": "https://t.me/gamepulse_newss/1220",
+      "telegram_published_at": "2026-10-14T08:47:03.342148+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/xbox-labs-logo-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T04:47:27.986490+00:00"
+  "updated_at": "2026-10-14T08:47:03.342333+00:00"
 }
