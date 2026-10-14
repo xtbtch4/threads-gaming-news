@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d1ae6f04769cce91bc036c7d",
-      "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
-      "url": "https://eurogamer.net/xbox-second-wave-cuts-layoffs-report",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-22T01:36:00+00:00",
-      "score": 10,
-      "event_key": "second wave of xbox layoffs and studio consolidation",
-      "title_ru": "В Xbox ожидается вторая волна увольнений и консолидация студий",
-      "threads_teaser_ru": "На этой неделе в Xbox ожидается новая волна увольнений и объединение студий в рамках плана по возвращению подразделения к прибыльности.",
-      "telegram_message_id": "56",
-      "telegram_url": "https://t.me/gamepulse_newss/56",
-      "telegram_published_at": "2026-09-23T19:21:36.540001+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T19:21:36.541594+00:00"
-    },
-    {
       "fingerprint": "b4c05ec14f52aec39c745eef",
       "title": "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
       "url": "https://ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
@@ -20494,7 +20477,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assets_2025_03_1742413270_vanilla-key-art-2024.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-8_v4-1792007886.mp4",
       "threads_published_at": "2026-10-14T22:47:24.326503+00:00"
+    },
+    {
+      "fingerprint": "809ef2e3efe3d634a5a3c843",
+      "title": "Callina Liang Says She Felt 'A Lot of Pressure' After Seeing How Reddit Reacted to Her Being Cast as Chun-Li",
+      "url": "https://ign.com/articles/callina-liang-says-she-felt-a-lot-of-pressure-after-seeing-how-reddit-reacted-to-her-being-cast-as-chun-li",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T22:50:00+00:00",
+      "score": 9,
+      "event_key": "Callina Liang pressure reaction casting Chun-Li Street Fighter movie",
+      "title_ru": "Callina Liang рассказала о давлении фанатов после получения роли Chun-Li в фильме Street Fighter",
+      "threads_teaser_ru": "Callina Liang призналась, что чтение фанатских обсуждений на Reddit после анонса её роли Chun-Li в фильме Street Fighter заставило её сильно нервничать. Актриса рассказала, как готовилась к образу и что помогло ей добиться нужной формы за два месяца.",
+      "telegram_message_id": "1266",
+      "telegram_url": "https://t.me/gamepulse_newss/1266",
+      "telegram_published_at": "2026-10-14T23:02:49.958579+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/streetthumb-1791476670261.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T22:47:24.326605+00:00"
+  "updated_at": "2026-10-14T23:02:49.958889+00:00"
 }
