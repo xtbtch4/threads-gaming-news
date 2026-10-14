@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3a6f28e8bc5f55af419d67b8",
-      "title": "Avengers: Endgame Encore Leaks Reveal New Ending and Additional Scenes That Connect to Avengers: Doomsday, Including Several Unannounced Cast Members",
-      "url": "https://ign.com/articles/avengers-endgame-encore-leaks-reveal-new-ending-and-additional-scenes-that-connect-to-avengers-doomsday-including-several-unannounced-cast-members",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T11:40:27+00:00",
-      "score": 14,
-      "event_key": "avengers endgame encore leaks reveal new ending and additional scenes",
-      "title_ru": "Avengers: Endgame Encore Leaks Reveal New Ending and Additional Scenes That Connect to Avengers: Doomsday, Including Several Unannounced Cast Members",
-      "threads_teaser_ru": "Four new scenes included in Avengers: Endgame Encore have leaked online, including a tweaked ending to the 2019 Marvel blockbuster.",
-      "telegram_message_id": "21",
-      "telegram_url": "https://t.me/gamepulse_newss/21",
-      "telegram_published_at": "2026-09-23T16:26:23.259149+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/10/27/loki-season-2-episode-4-cliffhanger-ending-1698403215318.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T16:26:23.260111+00:00"
-    },
-    {
       "fingerprint": "1fb26902832237dd79062619",
       "title": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
       "url": "https://eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg?w=300",
       "threads_published_at": "2026-10-14T11:47:55.023089+00:00"
+    },
+    {
+      "fingerprint": "8d05e511b10f4ceb331ae69f",
+      "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
+      "url": "https://gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-14T10:43:11+00:00",
+      "score": 12,
+      "event_key": "rockstar games to release future titles faster after gta 6",
+      "title_ru": "Rockstar планирует сократить перерывы между будущими релизами после GTA 6",
+      "threads_teaser_ru": "Разработка GTA 6 заняла у Rockstar более восьми лет, но студия рассчитывает, что следующий проект выйдет значительно быстрее. Компания сделала выводы из долгого производственного цикла и планирует использовать уже созданные инструменты и движок для ускорения работы над будущими играми.",
+      "telegram_message_id": "1231",
+      "telegram_url": "https://t.me/gamepulse_newss/1231",
+      "telegram_published_at": "2026-10-14T12:02:41.570157+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gta6.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-14T11:47:55.023187+00:00"
+  "updated_at": "2026-10-14T12:02:41.570512+00:00"
 }
