@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a90d263e83b10e2e026cd834",
-      "title": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\"",
-      "url": "https://eurogamer.net/stellar-blade-rocky-development-three-months-salary",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-23T05:36:00+00:00",
-      "score": 14,
-      "event_key": "Shift Up financial struggles during Stellar Blade development",
-      "title_ru": "Разработка Stellar Blade едва не привела студию Shift Up к финансовому краху",
-      "threads_teaser_ru": "Разработка Stellar Blade была настолько рискованной, что в какой-то момент у студии Shift Up оставалось денег лишь на три месяца зарплат сотрудникам. Инвесторы в проект не верили и пророчили провал.",
-      "telegram_message_id": "12",
-      "telegram_url": "https://t.me/gamepulse_newss/12",
-      "telegram_published_at": "2026-09-23T13:11:12.707527+00:00",
-      "threads_id": "17945237868322029",
-      "image_url": "https://assetsio.gnwcdn.com/stellar-blade-eve-closeup.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T13:11:21.488740+00:00"
-    },
-    {
       "fingerprint": "8199e2e4d7de0eae39fa86aa",
       "title": "Wilderness Bound game drop for Minecraft on Nintendo Switch - News",
       "url": "https://nintendo.com/us/whatsnew/wilderness-bound-game-drop-is-now-available-for-minecraft-on-nintendo-switch",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2-elephant-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T09:17:25.972787+00:00"
+    },
+    {
+      "fingerprint": "a7d4c6f63b56765d3a9be5ca",
+      "title": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China",
+      "url": "https://rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-14T09:28:34+00:00",
+      "score": 14,
+      "event_key": "shifu-traffic-masters-open-world-driving-game-announced",
+      "title_ru": "Анонсирована Shifu: Traffic Masters — игра в открытом мире про вождение в Китае 1990-х",
+      "threads_teaser_ru": "В Steam появилась демоверсия Shifu: Traffic Masters — игры про вождение в открытом мире 1990-х годов, созданной разработчиком-одиночкой Boxy.Poly. Игроков ждет атмосфера северного Китая, перевозка грузов, работа в такси и полиции, а также уличные гонки.",
+      "telegram_message_id": "1222",
+      "telegram_url": "https://t.me/gamepulse_newss/1222",
+      "telegram_published_at": "2026-10-14T09:32:17.579152+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/shifu-traffic-masters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T09:17:25.972878+00:00"
+  "updated_at": "2026-10-14T09:32:17.579360+00:00"
 }
