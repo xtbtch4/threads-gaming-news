@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4a5358b0a8bc3bb4218e87de",
-      "title": "33 Years Later, a Beloved Pair of SNES RPGs Are Finally Getting Remakes",
-      "url": "https://polygon.com/lufia-1-2-port-2027-consoles-pc",
-      "source": "Polygon",
-      "published_at_source": "2026-09-23T17:26:29+00:00",
-      "score": 10,
-      "event_key": "lufia-1-and-2-ports-2027-taito-clear-river-games",
-      "title_ru": "Классические SNES-RPG Lufia 1 и 2 получат новые порты",
-      "threads_teaser_ru": "Знаменитые ролевые игры эпохи SNES Lufia 1 и 2 возвращаются. Разработчик Taito и издатель Clear River Games готовят порты для ПК и консолей на 2027 год.",
-      "telegram_message_id": "49",
-      "telegram_url": "https://t.me/gamepulse_newss/49",
-      "telegram_published_at": "2026-09-23T18:46:53.703811+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-23-at-11-33-12-am.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/lufia-1-and-2-the-sinistrals-saga-reveal-trailer-1790179081.mp4",
-      "threads_published_at": "2026-09-23T18:46:53.705210+00:00"
-    },
-    {
       "fingerprint": "81ea59a6bd32604a6cde75bb",
       "title": "Discord's Controversial Age Verification Policy Starts Today",
       "url": "https://polygon.com/discord-controversial-age-verification-starting",
@@ -20494,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/destiny-1-trials-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T20:47:17.399841+00:00"
+    },
+    {
+      "fingerprint": "76e5d15613db3faa7399e1e8",
+      "title": "2026 GOTY Contender Officially Sets Nintendo Switch 2 Release Date",
+      "url": "https://polygon.com/007-first-light-nintendo-switch-2-release-date-price-confirmed-preorder",
+      "source": "Polygon",
+      "published_at_source": "2026-10-14T20:56:38+00:00",
+      "score": 14,
+      "event_key": "007 First Light Nintendo Switch 2 release date",
+      "title_ru": "007 First Light выйдет на Nintendo Switch 2 весной 2027 года",
+      "threads_teaser_ru": "Названа финальная дата релиза 007 First Light на Nintendo Switch 2. Игра выйдет 18 марта 2027 года. Помимо стандартного издания, в продажу поступит Deluxe Edition с бонусами в стиле GoldenEye и эксклюзивное издание от Amazon.",
+      "telegram_message_id": "1259",
+      "telegram_url": "https://t.me/gamepulse_newss/1259",
+      "telegram_published_at": "2026-10-14T21:17:34.195819+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/007-first-light-steam-screenshot.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/05/007-first-light-gameplay-trailer-1779807072.mp4"
     }
   ],
-  "updated_at": "2026-10-14T20:47:17.399942+00:00"
+  "updated_at": "2026-10-14T21:17:34.196151+00:00"
 }
