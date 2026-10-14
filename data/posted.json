@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d088d6e94191c0062ba68f72",
-      "title": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
-      "url": "https://rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-22T09:18:00+00:00",
-      "score": 4,
-      "event_key": "still blown away the amount talent hellblade devs ninja theory",
-      "title_ru": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
-      "threads_teaser_ru": "Hellblade devs Ninja Theory now face closure after the failure of agreements with potential buyers, but Microsoft are \"continuing to explore other paths\".",
-      "telegram_message_id": "16",
-      "telegram_url": "https://t.me/gamepulse_newss/16",
-      "telegram_published_at": "2026-09-23T15:41:42.075843+00:00",
-      "threads_id": "18098193332634237",
-      "image_url": "https://assetsio.gnwcdn.com/hellblade-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T15:41:50.940303+00:00"
-    },
-    {
       "fingerprint": "23a72d4fe09ccca578d3ff0b",
       "title": "Xbox Mythic Achievement Will Be Microsoft's Version of a Platinum Trophy — And It Has an Extravagant Unlock Sound",
       "url": "https://ign.com/articles/xbox-mythic-achievement-will-be-microsofts-version-of-a-platinum-trophy-and-it-has-an-extravagant-unlock-sound",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/s%26box-going-free-to-play-garrys-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T10:32:51.760915+00:00"
+    },
+    {
+      "fingerprint": "0133900155702a113d7dee13",
+      "title": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
+      "url": "https://ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T03:24:00+00:00",
+      "score": 12,
+      "event_key": "call-of-duty-modern-warfare-4-release-preload-times",
+      "title_ru": "Activision раскрыла время релиза и предзагрузки Call of Duty: Modern Warfare 4",
+      "threads_teaser_ru": "Activision назвала время релиза и детали предзагрузки Call of Duty: Modern Warfare 4. Основной выход игры состоится 23 октября, однако кампания станет доступна уже 16 октября, а режим DMZ — 20 октября.",
+      "telegram_message_id": "1226",
+      "telegram_url": "https://t.me/gamepulse_newss/1226",
+      "telegram_published_at": "2026-10-14T10:47:10.211343+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/18/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1789741799815.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T10:32:51.761004+00:00"
+  "updated_at": "2026-10-14T10:47:10.211615+00:00"
 }
