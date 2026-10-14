@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b52c6a9989ce57ee05fd6561",
-      "title": "High On Life Is Helping Make The Case For Bigger Games On Quest",
-      "url": "https://gamespot.com/articles/high-on-life-is-helping-make-the-case-for-bigger-games-on-quest",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T17:40:18+00:00",
-      "score": 12,
-      "event_key": "high on life vr port announced for meta quest",
-      "title_ru": "High on Life разрабатывается для Meta Quest 3 и 3S",
-      "threads_teaser_ru": "Flat2VR и Squanch Games переносят популярный шутер High on Life на шлемы Meta Quest 3 и 3S. Разработчики адаптируют огромные миры под автономную платформу, улучшают движок и создают уникальные VR-механики для живого оружия.",
-      "telegram_message_id": "42",
-      "telegram_url": "https://t.me/gamepulse_newss/42",
-      "telegram_published_at": "2026-09-23T18:12:02.731658+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/High-on-Life-2.jpg?w=300",
-      "threads_published_at": "2026-09-23T18:12:02.733002+00:00"
-    },
-    {
       "fingerprint": "265b6017772720b7511e3874",
       "title": "QUAKE Sep 23, 2026 Quake Champions 1.31 Point Release FAQ Beginning September 23, 2026, Quake Champions transitions from a free-to-play model game to a paid title on Steam only. View",
       "url": "https://slayersclub.bethesda.net/en-US/news/quake-champions-1-31-point-release",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fortnite-runners-keyart-webheader.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T18:32:33.970328+00:00"
+    },
+    {
+      "fingerprint": "1be0b3cfe7cbf996b445f869",
+      "title": "Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
+      "url": "https://in.ign.com/grand-theft-auto-vi/274377/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-mos",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T10:23:00+00:00",
+      "score": 12,
+      "event_key": "Rockstar denies GTA 6 budget exceeding 1.5 billion dollars",
+      "title_ru": "Rockstar опровергла слухи о бюджете GTA 6",
+      "threads_teaser_ru": "В Rockstar Games прокомментировали слухи о стоимости разработки GTA 6. Компания опровергла информацию о бюджете, превышающем 1,5 миллиарда долларов, однако точную сумму называть не стала. Тем не менее проект все еще может оказаться самым дорогим в индустрии.",
+      "telegram_message_id": "1252",
+      "telegram_url": "https://t.me/gamepulse_newss/1252",
+      "telegram_published_at": "2026-10-14T18:47:26.723601+00:00",
+      "threads_id": null,
+      "image_url": "https://sm.ign.com/t/ign_in/news/r/rockstar-p/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billio_kss1.1200.jpg"
     }
   ],
-  "updated_at": "2026-10-14T18:32:33.970411+00:00"
+  "updated_at": "2026-10-14T18:47:26.723895+00:00"
 }
