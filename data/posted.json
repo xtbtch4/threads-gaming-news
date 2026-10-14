@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f2d9ae170b62e8c2c1411c69",
-      "title": "Play History: Stella Chuu Spent How Many Hours Romancing Astarion?",
-      "url": "https://gamespot.com/videos/play-history-the-games-that-made-stella-chu",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T19:00:00+00:00",
-      "score": 10,
-      "event_key": "stella chuu play history gamespot interview",
-      "title_ru": "Новый выпуск шоу Play History с косплеершей Stella Chuu",
-      "threads_teaser_ru": "В новом выпуске шоу Play History косплеерша Stella Chuu рассказала о своем игровом опыте, любви к романтическим линиям, гача-играм и забавных воспоминаниях из детства.",
-      "telegram_message_id": "55",
-      "telegram_url": "https://t.me/gamepulse_newss/55",
-      "telegram_published_at": "2026-09-23T19:16:54.162632+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/plhs_stella_cosplayer_v4.jpg?w=300",
-      "threads_published_at": "2026-09-23T19:16:54.164233+00:00"
-    },
-    {
       "fingerprint": "d1ae6f04769cce91bc036c7d",
       "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
       "url": "https://eurogamer.net/xbox-second-wave-cuts-layoffs-report",
@@ -20493,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/acotar-box-set-1792005439442.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T22:32:47.497093+00:00"
+    },
+    {
+      "fingerprint": "a94df2fd276632538f3a7eea",
+      "title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
+      "url": "https://polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls",
+      "source": "Polygon",
+      "published_at_source": "2026-10-14T22:30:47+00:00",
+      "score": 8,
+      "event_key": "Microsoft surveying Xbox Insiders about making major franchises console exclusives",
+      "title_ru": "Microsoft изучает возможность эксклюзивности Fallout, The Elder Scrolls и Minecraft для Xbox",
+      "threads_teaser_ru": "Microsoft проводит опрос среди пользователей Xbox Insider о возможном превращении Fallout, The Elder Scrolls и Minecraft в консольные эксклюзивы Xbox. Исключением в этом сценарии останется только Call of Duty из-за ранее заключенных соглашений.",
+      "telegram_message_id": "1265",
+      "telegram_url": "https://t.me/gamepulse_newss/1265",
+      "telegram_published_at": "2026-10-14T22:47:22.927911+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assets_2025_03_1742413270_vanilla-key-art-2024.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-8_v4-1792007886.mp4"
     }
   ],
-  "updated_at": "2026-10-14T22:32:47.497189+00:00"
+  "updated_at": "2026-10-14T22:47:22.928180+00:00"
 }
