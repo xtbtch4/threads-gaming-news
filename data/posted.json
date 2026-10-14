@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b544786edf222fc071d08573",
-      "title": "Grand Theft Auto 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
-      "url": "https://ign.com/articles/grand-theft-auto-6-shirts-given-away-for-free-at-tokyo-game-show-are-being-resold-online-for-hundreds-of-dollars",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T17:30:01+00:00",
-      "score": 13,
-      "event_key": "gta 6 tgs 2026 shirts resold online",
-      "title_ru": "Футболки с GTA 6 из Tokyo Game Show перепродают в сети за сотни долларов",
-      "threads_teaser_ru": "Бесплатные футболки и сувениры с закрытого показа GTA 6 на Tokyo Game Show 2026 начали перепродавать в сети по сомнительным ценам. Коллекционеры и перекупщики просят за них сотни долларов.",
-      "telegram_message_id": "40",
-      "telegram_url": "https://t.me/gamepulse_newss/40",
-      "telegram_published_at": "2026-09-23T18:03:00.310049+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T18:03:00.311453+00:00"
-    },
-    {
       "fingerprint": "01555054856fb5f1bc809abe",
       "title": "Age of Empires II: Definitive Edition – The Viking Sagas Available Now",
       "url": "https://news.xbox.com/en-us/2026/09/23/age-of-empires-ii-definitive-edition-the-viking-sagas-available-now",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fortnite-ftc-issues-more-refunds-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T16:32:22.944783+00:00"
+    },
+    {
+      "fingerprint": "c25c35a5cbe3ddb2830d8b62",
+      "title": "Ex-Overwatch Director Jeff Kaplan Says He Never Wanted The Spotlight, But The Game Needed A Face",
+      "url": "https://gamespot.com/articles/ex-overwatch-director-jeff-kaplan-says-he-never-wanted-the-spotlight-but-the-game-needed-a-face",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-14T16:34:55+00:00",
+      "score": 12,
+      "event_key": "jeff-kaplan-reflects-on-overwatch-public-role",
+      "title_ru": "Jeff Kaplan рассказал о роли публичного лица Overwatch",
+      "threads_teaser_ru": "Бывший геймдиректор Overwatch Jeff Kaplan признался, что роль публичного лица игры давалась ему тяжело из-за нелюбви к вниманию и токсичности сообщества. После ухода из Blizzard в 2021 году он смог уйти в тень.",
+      "telegram_message_id": "1250",
+      "telegram_url": "https://t.me/gamepulse_newss/1250",
+      "telegram_published_at": "2026-10-14T16:47:10.360947+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Overwatch-season-4.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-14T16:32:22.944879+00:00"
+  "updated_at": "2026-10-14T16:47:10.361138+00:00"
 }
