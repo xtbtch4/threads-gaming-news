@@ -20493,9 +20493,10 @@
       "telegram_message_id": "1230",
       "telegram_url": "https://t.me/gamepulse_newss/1230",
       "telegram_published_at": "2026-10-14T11:47:53.617626+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg?w=300",
+      "threads_published_at": "2026-10-14T11:47:55.023089+00:00"
     }
   ],
-  "updated_at": "2026-10-14T11:47:53.618043+00:00"
+  "updated_at": "2026-10-14T11:47:55.023187+00:00"
 }
