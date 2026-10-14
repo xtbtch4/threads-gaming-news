@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "890a40aaa0deef7201e8fa2c",
-      "title": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
-      "url": "https://eurogamer.net/discord-controversial-age-verification-privacy-preserving",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-23T18:55:20+00:00",
-      "score": 15,
-      "event_key": "discord_launches_controversial_age_verification_system_2026",
-      "title_ru": "Discord запустил систему возрастной верификации с новыми методами защиты данных",
-      "threads_teaser_ru": "Discord вернул систему проверки возраста после февральской паузы и критики пользователей. Обновленный подход предлагает небиометрические способы подтверждения для совершеннолетних.",
-      "telegram_message_id": "51",
-      "telegram_url": "https://t.me/gamepulse_newss/51",
-      "telegram_published_at": "2026-09-23T18:56:18.185837+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/discord-logo-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T18:56:18.187518+00:00"
-    },
-    {
       "fingerprint": "8defe9ff6db848e0ae6c8aee",
       "title": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
       "url": "https://eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/12/pvp-1791834615084.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T21:32:19.106985+00:00"
+    },
+    {
+      "fingerprint": "080f2481cf47a991874972b6",
+      "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
+      "url": "https://ign.com/articles/moyaca-led-mask-halloween-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T20:40:00+00:00",
+      "score": 9,
+      "event_key": "discount on MOYACA LED Light Up Halloween Mask Amazon",
+      "title_ru": "Скидка 50% на маску MOYACA LED Light Up Halloween Mask",
+      "threads_teaser_ru": "На Amazon проходит акция на маску MOYACA LED Light Up Halloween Mask. С промокодом «59M9EJKT» её можно приобрести за 15,99 долларов. Устройство предлагает 50 режимов подсветки, работает до 10 часов от одного заряда и заряжается через USB Type-C.",
+      "telegram_message_id": "1261",
+      "telegram_url": "https://t.me/gamepulse_newss/1261",
+      "telegram_published_at": "2026-10-14T21:47:22.467708+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/moyaca-1792009399853.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T21:32:19.107072+00:00"
+  "updated_at": "2026-10-14T21:47:22.467853+00:00"
 }
