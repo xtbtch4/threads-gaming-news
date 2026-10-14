@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9ef626005acbe35bd638f31c",
-      "title": "Indie Game Developer Accuses Studio of Using AI to Rip Off His Viral Potato Peeling Game",
-      "url": "https://pk.ign.com/news/261493/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
-      "source": "IGN",
-      "published_at_source": "2026-09-21T14:05:00+00:00",
-      "score": 6,
-      "event_key": "indie developer accuses potato please of cloning 1000000 potatoes",
-      "title_ru": "Инди-разработчик обвинил авторов Potato Please в копировании своей игры",
-      "threads_teaser_ru": "Разработчик игры 1,000,000 Potatoes обвинил авторов другого проекта, Potato Please, в плагиате. Схожесть концептов, сеттинга и механик вызвала конфликт в сети. Разработчики обвиненной студии свою вину отрицают.",
-      "telegram_message_id": "9",
-      "telegram_url": "https://t.me/gamepulse_newss/9",
-      "telegram_published_at": "2026-09-23T11:20:58.732514+00:00",
-      "threads_id": "18095995124312840",
-      "image_url": "https://sm.ign.com/t/ign_pk/news/i/indie-game/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-h_ezen.1200.jpg",
-      "threads_published_at": "2026-09-23T11:21:07.657351+00:00"
-    },
-    {
       "fingerprint": "2f69f7aaf2f906025d1295aa",
       "title": "Exciting Pokémon leak teases totally new frontier for the series",
       "url": "https://polygon.com/pokemon-winds-waves-leak-what-is-project-seed-mmo-evolution",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2048/10/4477bb059cf98e6e3d5664697ea539cfda653e64.jpg",
       "threads_published_at": "2026-10-13T23:32:10.005792+00:00"
+    },
+    {
+      "fingerprint": "11a88c26c79fef7576217261",
+      "title": "Dropout Announces New Scripted Series that Spoofs MTV",
+      "url": "https://polygon.com/dropout-mp3-new-series-announced-jeremy-culhane-paul-f-tompkins",
+      "source": "Polygon",
+      "published_at_source": "2026-10-13T18:58:33+00:00",
+      "score": 9,
+      "event_key": "dropout announces new scripted comedy series MP3",
+      "title_ru": "Стриминговый сервис Dropout анонсировал сериал MP3",
+      "threads_teaser_ru": "Стриминг-сервис Dropout запускает новый сериал MP3 — это сценарная пародия на музыкальные чарты в духе MTV. Проект выйдет 4 ноября, а после премьеры каждой серии треки из шоу будут доступны на музыкальных платформах.",
+      "telegram_message_id": "1219",
+      "telegram_url": "https://t.me/gamepulse_newss/1219",
+      "telegram_published_at": "2026-10-14T04:47:26.756191+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dropout-mp3-trailer-screenshot.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-13T23:32:10.005891+00:00"
+  "updated_at": "2026-10-14T04:47:26.756367+00:00"
 }
