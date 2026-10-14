@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "abc7d2a37bc7a860e0ee201c",
-      "title": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers",
-      "url": "https://pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T10:54:50+00:00",
-      "score": 10,
-      "event_key": "amd_adds_gddr7_support_to_linux_drivers",
-      "title_ru": "AMD добавила поддержку GDDR7 в свой Linux-драйвер",
-      "threads_teaser_ru": "В свежих патчах Linux-драйверов AMD обнаружили первое упоминание памяти GDDR7. Это указывает на подготовку компании к переходу на новый стандарт памяти в будущих видеокартах.",
-      "telegram_message_id": "53",
-      "telegram_url": "https://t.me/gamepulse_newss/53",
-      "telegram_published_at": "2026-09-23T19:06:18.849106+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/uCD3kvKWyQVddxgbKJF5HL-2560-80.jpg",
-      "threads_published_at": "2026-09-23T19:06:18.850639+00:00"
-    },
-    {
       "fingerprint": "ba9ec47c13824c933f3217bd",
       "title": "Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2",
       "url": "https://gamespot.com/articles/rainbow-six-siege-dev-on-competing-with-gta-6-and-why-there-are-no-plans-for-siege-2",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/pokemonholiday-1-1792010041152.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T22:03:01.680162+00:00"
+    },
+    {
+      "fingerprint": "83ef814e487d6cb98def596f",
+      "title": "Jeremy Renner Is Teasing the West Coast Avengers in the MCU, and It's About Time",
+      "url": "https://ign.com/articles/jeremy-renner-hawkeye-west-coast-avengers-mcu-teaser",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T20:31:54+00:00",
+      "score": 9,
+      "event_key": "Jeremy Renner teases West Coast Avengers project for MCU",
+      "title_ru": "Jeremy Renner намекнул на возможную разработку проекта West Coast Avengers в киновселенной Marvel",
+      "threads_teaser_ru": "Jeremy Renner опубликовал в соцсетях намек на участие в новом проекте киновселенной Marvel. Судя по фото, актер изучает материалы, связанные с комиксами West Coast Avengers. Пока неизвестно, готовится ли сериал или фильм, но это может стать способом вернуть в строй многих героев Marvel.",
+      "telegram_message_id": "1263",
+      "telegram_url": "https://t.me/gamepulse_newss/1263",
+      "telegram_published_at": "2026-10-14T22:17:20.745017+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/hawkeye-avengers-img-1792009705149.webp?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T22:03:01.680257+00:00"
+  "updated_at": "2026-10-14T22:17:20.745274+00:00"
 }
