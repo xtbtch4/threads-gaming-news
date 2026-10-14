@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a0011d6dfc0e5104a623edaf",
-      "title": "LEGO One Piece Exclusive Character Posters Revealed",
-      "url": "https://ign.com/articles/lego-one-piece-character-posters-revealed",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T16:00:00+00:00",
-      "score": 13,
-      "event_key": "lego one piece exclusive character posters revealed",
-      "title_ru": "LEGO One Piece Exclusive Character Posters Revealed",
-      "threads_teaser_ru": "IGN can exclusively reveal six new character posters from the upcoming two-part LEGO One Piece special, streaming on Netflix on September 29.",
-      "telegram_message_id": "24",
-      "telegram_url": "https://t.me/gamepulse_newss/24",
-      "telegram_published_at": "2026-09-23T16:42:08.296800+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/en-us-lego-one-piece-luffy-1280-1790127069224.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T16:42:08.297783+00:00"
-    },
-    {
       "fingerprint": "d7a010f5ddc4cdf3a96ef320",
       "title": "Paramount+ Reveals New York Comic Con Lineup: Dexter, Avatar, and Star Trek - Exclusive",
       "url": "https://ign.com/articles/paramount-plus-nycc-lineup-dexter-avatar-star-trek",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Jason_and_Lucia_11.13lmeyci.i-yw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T12:32:19.771861+00:00"
+    },
+    {
+      "fingerprint": "18a81e9b5504b09c6ac73611",
+      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
+      "url": "https://eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-14T12:40:59+00:00",
+      "score": 15,
+      "event_key": "rockstar_iwgb_employment_tribunal_delayed_november",
+      "title_ru": "Судебный процесс между Rockstar Games и профсоюзом IWGB отложен на ноябрь",
+      "threads_teaser_ru": "Суд по делу об увольнении сотрудников Rockstar Games продлен до ноября и завершится прямо перед релизом GTA 6. Что стоит за этим громким спором с профсоюзом IWGB?",
+      "telegram_message_id": "1234",
+      "telegram_url": "https://t.me/gamepulse_newss/1234",
+      "telegram_published_at": "2026-10-14T12:46:54.926447+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T12:32:19.771949+00:00"
+  "updated_at": "2026-10-14T12:46:54.926806+00:00"
 }
