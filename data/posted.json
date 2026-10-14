@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b4c05ec14f52aec39c745eef",
-      "title": "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
-      "url": "https://ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T18:50:42+00:00",
-      "score": 9,
-      "event_key": "kit harington excited for gta 6",
-      "title_ru": "Звезда «Игры престолов» Кит Харингтон ждет релиз GTA 6",
-      "threads_teaser_ru": "Кит Харингтон, известный по роли Джона Сноу, признался, что не увлекается видеоиграми, но ждет выхода GTA 6 благодаря масштабной рекламной кампании. Актер также вспомнил свой прошлый опыт в индустрии.",
-      "telegram_message_id": "57",
-      "telegram_url": "https://t.me/gamepulse_newss/57",
-      "telegram_published_at": "2026-09-23T19:26:37.061591+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/kit-harington-1790188983586.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T19:26:37.063200+00:00"
-    },
-    {
       "fingerprint": "dfe0626e567535587dd3ff04",
       "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations I've Ever Seen",
       "url": "https://ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-ive-ever-seen",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/08/streetthumb-1791476670261.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T23:02:51.420231+00:00"
+    },
+    {
+      "fingerprint": "0220036644981de59b843648",
+      "title": "Xbox Reportedly Surveys Users On Return to Full Exclusivity for its Games",
+      "url": "https://ign.com/articles/xbox-reportedly-surveys-users-on-return-to-full-exclusivity-for-its-games",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T22:45:28+00:00",
+      "score": 9,
+      "event_key": "Xbox surveys users regarding return to full console exclusivity",
+      "title_ru": "Xbox изучает возможность возвращения к полной эксклюзивности своих игр",
+      "threads_teaser_ru": "Xbox начала опрос среди фанатов о возвращении к стратегии полной эксклюзивности своих игр. Исключение могут сделать только для Call of Duty, а в случае с Minecraft обсуждается даже прекращение продаж на платформах PlayStation и Nintendo.",
+      "telegram_message_id": "1267",
+      "telegram_url": "https://t.me/gamepulse_newss/1267",
+      "telegram_published_at": "2026-10-14T23:17:29.979548+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T23:02:51.420313+00:00"
+  "updated_at": "2026-10-14T23:17:29.979830+00:00"
 }
