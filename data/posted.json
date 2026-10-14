@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3a5addb13e04b91c88cb9470",
-      "title": "Gears of War: E-Day Story Director Laid Off Just Before Launch",
-      "url": "https://gamespot.com/articles/gears-of-war-e-day-story-director-laid-off-just-before-launch",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T13:29:36+00:00",
-      "score": 15,
-      "event_key": "gears war day story director laid off just before launch",
-      "title_ru": "Gears of War: E-Day Story Director Laid Off Just Before Launch",
-      "threads_teaser_ru": "Gears of War: E-Day officially went gold several days ago--indicating that the game is ready to hit its October launch date--but sadly, story director Juan Vaca was caught up in the latest wave of Xbox \"reset\" layoffs .",
-      "telegram_message_id": "19",
-      "telegram_url": "https://t.me/gamepulse_newss/19",
-      "telegram_published_at": "2026-09-23T16:17:19.834803+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-E-Day.jpg?w=300",
-      "threads_published_at": "2026-09-23T16:17:19.835649+00:00"
-    },
-    {
       "fingerprint": "7c984dbc0dfc748f59604166",
       "title": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
       "url": "https://rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/4695822-gta6.jpg?w=300",
       "threads_published_at": "2026-10-14T11:17:11.904710+00:00"
+    },
+    {
+      "fingerprint": "7bc014c83f648a54bfbc340f",
+      "title": "GTA 6 Developer Rockstar Insists Its Next Game Won't Take Another 8 Years to Make",
+      "url": "https://ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T10:48:41+00:00",
+      "score": 13,
+      "event_key": "rockstar next game after gta 6 will be faster",
+      "title_ru": "Rockstar обещает ускорить разработку игр после GTA 6",
+      "threads_teaser_ru": "Компания Rockstar заявила, что ее следующий проект после GTA 6 не потребует восьми лет разработки. Созданный фундамент, инструменты и движок позволят выпускать контент быстрее.",
+      "telegram_message_id": "1229",
+      "telegram_url": "https://t.me/gamepulse_newss/1229",
+      "telegram_published_at": "2026-10-14T11:32:41.637134+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-vice-city-style-01-1791974913899.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-14T11:17:11.904810+00:00"
+  "updated_at": "2026-10-14T11:32:41.637419+00:00"
 }
