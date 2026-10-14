@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fb07a75585c6a21b2d622dee",
-      "title": "Try the latest Game Trial, Prince of Persia The Lost Crown - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/try-the-latest-game-trial-prince-of-persia-the-lost-crown",
-      "source": "Nintendo",
-      "published_at_source": "2026-09-23T16:00:00+00:00",
-      "score": 13,
-      "event_key": "prince of persia lost crown nintendo switch online game trial",
-      "title_ru": "Prince of Persia: The Lost Crown стала доступна по программе Game Trial на Nintendo Switch",
-      "threads_teaser_ru": "Подписчики Nintendo Switch Online могут бесплатно опробовать полную версию Prince of Persia: The Lost Crown в рамках акции Game Trial до 30 сентября, а также приобрести игру со скидкой.",
-      "telegram_message_id": "30",
-      "telegram_url": "https://t.me/gamepulse_newss/30",
-      "telegram_published_at": "2026-09-23T17:12:57.317780+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-09-23T17:12:57.318841+00:00"
-    },
-    {
       "fingerprint": "beed46942358b6e9eb32ec17",
       "title": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs",
       "url": "https://rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Red-Rooster-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-14T14:03:12.813014+00:00"
+    },
+    {
+      "fingerprint": "1d244c736361c0aee4c15c1f",
+      "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
+      "url": "https://eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-14T13:00:00+00:00",
+      "score": 11,
+      "event_key": "kaepora gaebora less talkative in ocarina of time switch 2 remake",
+      "title_ru": "Совята и ремейк The Legend of Zelda: Ocarina of Time для Nintendo Switch 2",
+      "threads_teaser_ru": "В ремейке The Legend of Zelda: Ocarina of Time для Nintendo Switch 2 назойливый совянок Kaepora Gaebora станет менее разговорчивым. Авторы превью отметили, что теперь беседы с ним проходят гораздо быстрее.",
+      "telegram_message_id": "1240",
+      "telegram_url": "https://t.me/gamepulse_newss/1240",
+      "telegram_published_at": "2026-10-14T14:18:29.807596+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/owl-ocarina-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-14T14:03:12.813110+00:00"
+  "updated_at": "2026-10-14T14:18:29.807909+00:00"
 }
