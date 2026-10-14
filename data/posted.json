@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7c984dbc0dfc748f59604166",
-      "title": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
-      "url": "https://rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-23T15:09:11+00:00",
-      "score": 14,
-      "event_key": "this one especially bad steam game about mistreating ragdolls suffers",
-      "title_ru": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
-      "threads_teaser_ru": "People Playground, a Steam sandbox game about torturing or otherwise messing with innocent ragdolls that work like crash test dummies, has had its Steam Workshop disabled over a \"malicious mod\" peddling malware.",
-      "telegram_message_id": "20",
-      "telegram_url": "https://t.me/gamepulse_newss/20",
-      "telegram_published_at": "2026-09-23T16:22:20.792016+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/people-playground-mod-malware-attack-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T16:22:20.793160+00:00"
-    },
-    {
       "fingerprint": "3a6f28e8bc5f55af419d67b8",
       "title": "Avengers: Endgame Encore Leaks Reveal New Ending and Additional Scenes That Connect to Avengers: Doomsday, Including Several Unannounced Cast Members",
       "url": "https://ign.com/articles/avengers-endgame-encore-leaks-reveal-new-ending-and-additional-scenes-that-connect-to-avengers-doomsday-including-several-unannounced-cast-members",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-vice-city-style-01-1791974913899.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-14T11:32:43.055004+00:00"
+    },
+    {
+      "fingerprint": "92f05eaad501faa9e364d7f8",
+      "title": "Xbox Is Getting Into AI Gaming, Even If It Won’t Say So",
+      "url": "https://gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-14T10:50:37+00:00",
+      "score": 12,
+      "event_key": "Xbox launches Xbox Labs experimental initiative",
+      "title_ru": "Xbox запускает инициативу Xbox Labs",
+      "threads_teaser_ru": "Xbox анонсировала открытие экспериментального подразделения Xbox Labs. Официально инициатива сфокусирована на развитии браузерного гейминга и кроссплатформенности, однако запуск происходит на фоне массового использования нейросетей для портирования и изменения игр.",
+      "telegram_message_id": "1230",
+      "telegram_url": "https://t.me/gamepulse_newss/1230",
+      "telegram_published_at": "2026-10-14T11:47:53.617626+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-14T11:32:43.055112+00:00"
+  "updated_at": "2026-10-14T11:47:53.618043+00:00"
 }
