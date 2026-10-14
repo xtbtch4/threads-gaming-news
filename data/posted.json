@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1252",
       "telegram_url": "https://t.me/gamepulse_newss/1252",
       "telegram_published_at": "2026-10-14T18:47:26.723601+00:00",
-      "threads_id": null,
-      "image_url": "https://sm.ign.com/t/ign_in/news/r/rockstar-p/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billio_kss1.1200.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://sm.ign.com/t/ign_in/news/r/rockstar-p/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billio_kss1.1200.jpg",
+      "threads_published_at": "2026-10-14T18:47:28.081556+00:00"
     }
   ],
-  "updated_at": "2026-10-14T18:47:26.723895+00:00"
+  "updated_at": "2026-10-14T18:47:28.081656+00:00"
 }
