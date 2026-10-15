@@ -20487,9 +20487,10 @@
       "telegram_message_id": "1285",
       "telegram_url": "https://t.me/gamepulse_newss/1285",
       "telegram_published_at": "2026-10-15T05:47:30.183211+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/half-life-alyx-valve-index.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/half-life-alyx-valve-index.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-15T05:47:33.173943+00:00"
     }
   ],
-  "updated_at": "2026-10-15T05:47:30.183447+00:00"
+  "updated_at": "2026-10-15T05:47:33.174036+00:00"
 }
