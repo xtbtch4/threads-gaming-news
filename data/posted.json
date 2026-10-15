@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2fc912c2fc7e6cd303dfa6b0",
-      "title": "My first MMO character #1: Harvey Randall",
-      "url": "https://pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T16:00:00+00:00",
-      "score": 6,
-      "event_key": "pc gamer first world of warcraft character memory",
-      "title_ru": "Воспоминания о первом персонаже в World of Warcraft",
-      "threads_teaser_ru": "Редактор PC Gamer поделился воспоминаниями о своем самом первом персонаже в World of Warcraft — разбойнике по имени Леетман, созданном еще в детском возрасте.",
-      "telegram_message_id": "111",
-      "telegram_url": "https://t.me/gamepulse_newss/111",
-      "telegram_published_at": "2026-09-23T23:56:42.472033+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QXbzZyXRydap5Vd7Mafx3X-1920-80.jpg",
-      "threads_published_at": "2026-09-23T23:56:42.474371+00:00"
-    },
-    {
       "fingerprint": "4a3e9e90be568b4f6cf1d36b",
       "title": "Meta’s New VR Glasses to Entice Casual Viewers With 3D and Full-Frame IMAX",
       "url": "https://ign.com/articles/metas-new-vr-glasses-to-entice-casual-viewers-with-3d-and-full-frame-imax",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gta-6.jpg?w=300",
       "threads_published_at": "2026-10-15T20:47:41.188613+00:00"
+    },
+    {
+      "fingerprint": "2722bd4cca5e061c7054d368",
+      "title": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
+      "url": "https://ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T20:49:27+00:00",
+      "score": 15,
+      "event_key": "runescape reignited cancelled by jagex after player feedback",
+      "title_ru": "RuneScape Reignited отменена спустя меньше двух недель после анонса",
+      "threads_teaser_ru": "Студия Jagex отменила игровой режим RuneScape Reignited спустя меньше двух недель после анонса из-за отзывов сообщества. Вместо него игроков ждут бесплатный пробный период в декабре и другие обновления.",
+      "telegram_message_id": "1320",
+      "telegram_url": "https://t.me/gamepulse_newss/1320",
+      "telegram_published_at": "2026-10-15T21:02:40.383882+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/rsr-vcms-1791056252838.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T20:47:41.188716+00:00"
+  "updated_at": "2026-10-15T21:02:40.384143+00:00"
 }
