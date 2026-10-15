@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9198e7d4b430f39622e834e8",
-      "title": "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke — Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
-      "url": "https://ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T21:35:56+00:00",
-      "score": 9,
-      "event_key": "dawn of war 4 developers lose to hard ai",
-      "title_ru": "Разработчики Warhammer 40,000: Dawn of War 4 проиграли ИИ на сложной сложности",
-      "threads_teaser_ru": "Разработчики Warhammer 40,000: Dawn of War 4 из студии King Art Games решили показать честный геймплей и сыграли в кооперативе против ИИ на сложной сложности. Орки под управлением компьютера дважды разгромили авторов игры.",
-      "telegram_message_id": "89",
-      "telegram_url": "https://t.me/gamepulse_newss/89",
-      "telegram_published_at": "2026-09-23T22:06:13.049374+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/dow4-ign-ork-screenshots-cgi-1-1790198808137.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T22:06:13.051510+00:00"
-    },
-    {
       "fingerprint": "0a42bcd181f17dd6b3f78d19",
       "title": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
       "url": "https://pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ubisoft-propose-german-studio-vol-redundancies-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-15T10:02:49.385930+00:00"
+    },
+    {
+      "fingerprint": "d2d3f8b57bbb89f5e97f348f",
+      "title": "Big Walk devs House House announce support for BDS Microsoft boycott, say the co-op puzzler isn't coming to Xbox",
+      "url": "https://rockpapershotgun.com/big-walk-devs-house-house-announce-support-for-bds-microsoft-boycott-say-the-co-op-puzzler-isnt-coming-to-xbox",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-15T10:27:34+00:00",
+      "score": 12,
+      "event_key": "House House supports BDS boycott and cancels Xbox release for Big Walk",
+      "title_ru": "Авторы Big Walk отказались от релиза игры на Xbox из-за бойкота Microsoft",
+      "threads_teaser_ru": "Студия House House отказалась выпускать Big Walk на Xbox. Разработчики объяснили это поддержкой бойкота BDS против Microsoft из-за связей корпорации с израильскими военными. Игра выйдет на PC, PS5 и Switch 2, а возвращение на консоли Microsoft возможно только после окончания бойкота.",
+      "telegram_message_id": "1298",
+      "telegram_url": "https://t.me/gamepulse_newss/1298",
+      "telegram_published_at": "2026-10-15T10:32:16.458581+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Big-Walk-head-maze.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T10:02:49.386026+00:00"
+  "updated_at": "2026-10-15T10:32:16.458858+00:00"
 }
