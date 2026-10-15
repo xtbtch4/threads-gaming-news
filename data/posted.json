@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "af8ced18b7e484af843785e3",
-      "title": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
-      "url": "https://pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T23:31:23+00:00",
-      "score": 11,
-      "event_key": "microsoft age verification approach australia valve",
-      "title_ru": "Microsoft и возрастная верификация в Австралии",
-      "threads_teaser_ru": "Издание PC Gamer оценило подход Microsoft к возрастной верификации в Австралии и затронуло работу платформы Steam.",
-      "telegram_message_id": "115",
-      "telegram_url": "https://t.me/gamepulse_newss/115",
-      "telegram_published_at": "2026-09-24T00:16:59.488910+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/iecqziaKCP3TKSmEUnnKXm-1920-80.jpg",
-      "threads_published_at": "2026-09-24T00:16:59.491531+00:00"
-    },
-    {
       "fingerprint": "1b20e96ed28026eb71834ee1",
       "title": "Artist Behind Pokémon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
       "url": "https://ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/sw-1792090624924.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T21:47:44.787377+00:00"
+    },
+    {
+      "fingerprint": "a93bdd494835a8c6895d493a",
+      "title": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
+      "url": "https://rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-15T21:51:05+00:00",
+      "score": 14,
+      "event_key": "jagex-cancels-runescape-reignited-mmo",
+      "title_ru": "Jagex отменила RuneScape Reignited после критики сообщества",
+      "threads_teaser_ru": "Разработчики Jagex отменили спорный режим RuneScape Reignited для своей MMORPG после негативной реакции ветеранов игры. Вместо него 2 декабря выпустят другие обновления и запустят бесплатный период.",
+      "telegram_message_id": "1324",
+      "telegram_url": "https://t.me/gamepulse_newss/1324",
+      "telegram_published_at": "2026-10-15T22:17:23.058422+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/runescape-2026-roadmap-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T21:47:44.787470+00:00"
+  "updated_at": "2026-10-15T22:17:23.058847+00:00"
 }
