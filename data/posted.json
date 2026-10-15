@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eec20614cb7ab18111ee9392",
-      "title": "YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity",
-      "url": "https://ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T23:27:34+00:00",
-      "score": 11,
-      "event_key": "youtube introduces ab video testing for creators",
-      "title_ru": "YouTube позволит авторам проводить A/B-тестирование разных версий видео",
-      "threads_teaser_ru": "YouTube внедрит A/B-тестирование видео: авторы смогут проверять три разные версии одного ролика, чтобы выбрать самую популярную. Пользователи опасаются, что эта механика может стать инструментом для манипуляции мнением и создания противоречивого контента ради трафика.",
-      "telegram_message_id": "114",
-      "telegram_url": "https://t.me/gamepulse_newss/114",
-      "telegram_published_at": "2026-09-24T00:11:37.951786+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/youtube-1790203481227.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T00:11:37.954204+00:00"
-    },
-    {
       "fingerprint": "af8ced18b7e484af843785e3",
       "title": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
       "url": "https://pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/acts-of-blood-steam-screenshot-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-15T21:32:39.576812+00:00"
+    },
+    {
+      "fingerprint": "62af03dbc1b4e90e4f640f25",
+      "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
+      "url": "https://ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T19:04:29+00:00",
+      "score": 11,
+      "event_key": "Sony announces gold plated Walkman NW-WM1ZM3",
+      "title_ru": "Sony анонсировала позолоченный плеер Walkman за $5 899",
+      "threads_teaser_ru": "Sony представила новую модель Walkman NW-WM1ZM3 с корпусом из позолоченной бескислородной меди. Плеер обещает улучшенное качество звучания, 35 часов автономной работы и экран 5,5 дюйма. Стоимость устройства составит $5 899.",
+      "telegram_message_id": "1323",
+      "telegram_url": "https://t.me/gamepulse_newss/1323",
+      "telegram_published_at": "2026-10-15T21:47:43.308894+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/sw-1792090624924.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T21:32:39.576905+00:00"
+  "updated_at": "2026-10-15T21:47:43.309369+00:00"
 }
