@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3927069def0de682915a8bff",
-      "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
-      "url": "https://polygon.com/fbi-hacked-gta-6-leak-shinyhunters-data-agents-jobs",
-      "source": "Polygon",
-      "published_at_source": "2026-09-23T20:35:48+00:00",
-      "score": 10,
-      "event_key": "shinyhunters_hacks_fbi_after_gta6_extortion",
-      "title_ru": "Хакерская группа ShinyHunters шантажирует ФБР после неудавшегося слива по GTA 6",
-      "threads_teaser_ru": "Хакерская группа ShinyHunters, ранее угрожавшая создателям GTA 6, переключилась на ФБР США. Злоумышленники похитили данные сотрудников и соискателей через портал вакансий и требуют удалить официальное предупреждение ведомства.",
-      "telegram_message_id": "71",
-      "telegram_url": "https://t.me/gamepulse_newss/71",
-      "telegram_published_at": "2026-09-23T20:36:39.172492+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg",
-      "threads_published_at": "2026-09-23T20:36:39.174143+00:00"
-    },
-    {
       "fingerprint": "3fa24b75e461f249290c4f70",
       "title": "Acclaimed Pokémon Artist Responds To Heartbreaking TCG Pack Opening",
       "url": "https://polygon.com/pokemon-avery-the-poke-kid-jirachi-30th-tcg-akira-egawa-beard-dad",
@@ -20492,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg",
       "threads_published_at": "2026-10-15T04:02:29.184984+00:00"
+    },
+    {
+      "fingerprint": "ac3a87851c3692627fe5a608",
+      "title": "The Fantik S1 Pro Precision Electric Screwdriver Set With up to 6Nm of Electric Torque Drops to $35",
+      "url": "https://ign.com/articles/fantik-s1-pro-precision-electric-screwdriver-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T21:30:00+00:00",
+      "score": 6,
+      "event_key": "Fantik S1 Pro screwdriver set discount Amazon deal",
+      "title_ru": "Набор Fantik S1 Pro Precision Electric Screwdriver Set подешевел до $35",
+      "threads_teaser_ru": "На Amazon снизилась цена на набор Fantik S1 Pro Electric Precision Cordless Screwdriver Set. С применением специального купона стоимость инструмента для сборки ПК и мелкой электроники составляет $34,99. Устройство выдает до 6 Нм электрического крутящего момента и заряжается через USB-C.",
+      "telegram_message_id": "1281",
+      "telegram_url": "https://t.me/gamepulse_newss/1281",
+      "telegram_published_at": "2026-10-15T04:17:06.750128+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/fanttiks1pro-1792013011389.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T04:02:29.185086+00:00"
+  "updated_at": "2026-10-15T04:17:06.750289+00:00"
 }
