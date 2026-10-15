@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c7243eb01e44963e1a5ccd6d",
-      "title": "Halo Fans Are Divided Over Whether Activision Should Reboot the Series and Start Fresh",
-      "url": "https://ign.com/articles/halo-fans-are-divided-over-whether-activision-should-reboot-the-series-and-start-fresh",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T22:23:31+00:00",
-      "score": 9,
-      "event_key": "halo_fans_divided_over_activision_reboot_rumors",
-      "title_ru": "Фанаты Halo разделились во мнениях из-за слухов о перезапуске серии",
-      "threads_teaser_ru": "В сети обсуждают слухи о возможном полном перезапуске серии Halo от Activision. Фанаты разделились: одни хотят сохранить классический канон эпохи Bung, другие поддерживают сброс вселенной из-за возраста актера Мастера Чифа.",
-      "telegram_message_id": "103",
-      "telegram_url": "https://t.me/gamepulse_newss/103",
-      "telegram_published_at": "2026-09-23T23:16:49.172368+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/22/halocampaignevolved-review-blogroll-1784759127552.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T23:16:49.174844+00:00"
-    },
-    {
       "fingerprint": "19d059e06e8a8f5c6151c336",
       "title": "Slow Horses Season 6, Episode 2 Review — ‘Daddy Issues’",
       "url": "https://ign.com/articles/slow-horses-season-6-episode-2-review-daddy-issues",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_xx-xx-xxxx_1920x1080-1-c1e7b7f7ea8ab3c3617f.jpg",
       "threads_published_at": "2026-10-15T16:16:58.843018+00:00"
+    },
+    {
+      "fingerprint": "ab3a0c5f0fe499cf81d99811",
+      "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
+      "url": "https://ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T15:19:05+00:00",
+      "score": 15,
+      "event_key": "gta-6-launch-trailer-screenshots-and-release-details",
+      "title_ru": "Более 30 новых скриншотов GTA 6 из релизного трейлера",
+      "threads_teaser_ru": "IGN поделилось более чем 30 новыми скриншотами GTA 6 из свежего трейлера, записанного на базовой PlayStation 5. Предзагрузка игры стартует 12 ноября, а релиз состоится 19 ноября.",
+      "telegram_message_id": "1312",
+      "telegram_url": "https://t.me/gamepulse_newss/1312",
+      "telegram_published_at": "2026-10-15T16:32:00.044115+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/jason-and-lucia-driving-1792074147987.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T16:16:58.843119+00:00"
+  "updated_at": "2026-10-15T16:32:00.044405+00:00"
 }
