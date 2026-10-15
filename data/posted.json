@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3162e7fbdc64c3d3e8bcae52",
-      "title": "I apologize in advance for this, but: Introducing Drillposting",
-      "url": "https://pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T20:40:21+00:00",
-      "score": 7,
-      "event_key": "pc gamer author shares drillposting thoughts after japan trip",
-      "title_ru": "Автор PC Gamer поделился необычными мыслями о видеоиграх и бурах",
-      "threads_teaser_ru": "После поездки в Японию на PC Gaming Show автор PC Gamer задумался о неожиданной связи между изречениями известного интернет-автора Dril и персонажами видеоигр с бурами.",
-      "telegram_message_id": "97",
-      "telegram_url": "https://t.me/gamepulse_newss/97",
-      "telegram_published_at": "2026-09-23T22:46:51.975878+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/RUNcA4KaVzqTUpepuQc9G7-1244-80.png",
-      "threads_published_at": "2026-09-23T22:46:51.978508+00:00"
-    },
-    {
       "fingerprint": "f22aac21fb35fddb9159c26d",
       "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
       "url": "https://rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Feature_RERemakesSwitch2_V2.jpg?w=300",
       "threads_published_at": "2026-10-15T12:47:32.080900+00:00"
+    },
+    {
+      "fingerprint": "565ea85034def8c92dcee46f",
+      "title": "Clash Royale: The Grand Arena Board Game Exclusive Trailer and Kickstarter Reveal",
+      "url": "https://ign.com/articles/clash-royale-the-grand-arena-board-game-kickstarter-reveal-and-interview",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T13:00:00+00:00",
+      "score": 13,
+      "event_key": "Maestro Media launches Clash Royale The Grand Arena Kickstarter",
+      "title_ru": "Анонсирована настольная игра Clash Royale: The Grand Arena",
+      "threads_teaser_ru": "Clash Royale получит настольную адаптацию: игра Clash Royale: The Grand Arena выйдет на Kickstarter уже 20 октября. Проект рассчитан на 2-4 игроков и адаптирует стратегические механики мобильного оригинала, включая систему Elixir.",
+      "telegram_message_id": "1306",
+      "telegram_url": "https://t.me/gamepulse_newss/1306",
+      "telegram_published_at": "2026-10-15T13:02:58.860103+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/clash-royale-the-grand-arena-2-1792018106386.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T12:47:32.081008+00:00"
+  "updated_at": "2026-10-15T13:02:58.860460+00:00"
 }
