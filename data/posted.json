@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0ed25f6aba62e1a36d689700",
-      "title": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'",
-      "url": "https://pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T14:03:38+00:00",
-      "score": 8,
-      "event_key": "zach-cregger-chooses-leon-kennedy-as-bodyguard",
-      "title_ru": "Зак Креггер выбрал Леона Кеннеди в телохранители",
-      "threads_teaser_ru": "Режиссер Зак Креггер рассказал, кого из персонажей вселенной Resident Evil он выбрал бы себе в телохранители, если бы оказался внутри собственного фильма.",
-      "telegram_message_id": "92",
-      "telegram_url": "https://t.me/gamepulse_newss/92",
-      "telegram_published_at": "2026-09-23T22:22:19.998589+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ZHPzXKPtm25AvzEyWKY8Lg-1920-80.png",
-      "threads_published_at": "2026-09-23T22:22:20.001006+00:00"
-    },
-    {
       "fingerprint": "dcd1da5b83ae39be16f4ae81",
       "title": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC",
       "url": "https://pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/league-of-legends-classic-going-offline-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-15T11:02:20.695768+00:00"
+    },
+    {
+      "fingerprint": "51fa6a08bf522ee597c22489",
+      "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+      "url": "https://ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T04:32:00+00:00",
+      "score": 14,
+      "event_key": "GTA 6 scripted sweat system detail revealed",
+      "title_ru": "В GTA 6 появится система потоотделения персонажей",
+      "threads_teaser_ru": "Разработчики GTA 6 внедрили в игру отдельную систему, которая просчитывает количество пота на теле персонажей в зависимости от их активности. Эта деталь объясняет, почему проект стал одним из самых дорогих и продолжительных в производстве.",
+      "telegram_message_id": "1301",
+      "telegram_url": "https://t.me/gamepulse_newss/1301",
+      "telegram_published_at": "2026-10-15T11:48:44.217246+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/vintage-vice-city-pack-exclusive-looks-01-1792063918538.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T11:02:20.695861+00:00"
+  "updated_at": "2026-10-15T11:48:44.217586+00:00"
 }
