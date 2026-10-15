@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f22aac21fb35fddb9159c26d",
-      "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
-      "url": "https://rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-23T12:17:21+00:00",
-      "score": 7,
-      "event_key": "microsoft-patent-generative-ai-facial-expressions-game-design",
-      "title_ru": "Патент Microsoft описывает генерацию игр на основе эмоций игроков",
-      "threads_teaser_ru": "Microsoft запатентовала технологию, которая потенциально может считывать выражения лиц и звуки игроков, чтобы передавать их нейросети для адаптации видеоигр и создания нового контента.",
-      "telegram_message_id": "98",
-      "telegram_url": "https://t.me/gamepulse_newss/98",
-      "telegram_published_at": "2026-09-23T22:51:21.658578+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T22:51:21.660782+00:00"
-    },
-    {
       "fingerprint": "61813dcba6adcb2fa1188988",
       "title": "Valve shadow dropped chicken pets into CS2",
       "url": "https://pcgamer.com/games/fps/valve-shadow-dropped-chicken-pets-into-cs2",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/clash-royale-the-grand-arena-2-1792018106386.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T13:03:00.317783+00:00"
+    },
+    {
+      "fingerprint": "28d655e235d8e94694605567",
+      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
+      "url": "https://eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-15T13:02:51+00:00",
+      "score": 13,
+      "event_key": "Dean Hall launches open source framework Brutal",
+      "title_ru": "Создатель DayZ Дин Холл представил Brutal — бесплатный фреймворк для разработки игр",
+      "threads_teaser_ru": "Создатель DayZ Дин Холл запустил бесплатный фреймворк Brutal с открытым кодом. Он критикует индустрию за зависимость от крупных движков вроде Unreal и Unity, предлагая коллегам альтернативу без роялти и жестких корпоративных условий.",
+      "telegram_message_id": "1307",
+      "telegram_url": "https://t.me/gamepulse_newss/1307",
+      "telegram_published_at": "2026-10-15T13:17:31.041239+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T13:03:00.317884+00:00"
+  "updated_at": "2026-10-15T13:17:31.041621+00:00"
 }
