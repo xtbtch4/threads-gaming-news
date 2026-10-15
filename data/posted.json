@@ -20487,9 +20487,10 @@
       "telegram_message_id": "1291",
       "telegram_url": "https://t.me/gamepulse_newss/1291",
       "telegram_published_at": "2026-10-15T07:17:27.891950+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/3054247-overwatch_jeffkaplan_01.webp?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/3054247-overwatch_jeffkaplan_01.webp?w=300",
+      "threads_published_at": "2026-10-15T07:17:29.389601+00:00"
     }
   ],
-  "updated_at": "2026-10-15T07:17:27.892275+00:00"
+  "updated_at": "2026-10-15T07:17:29.389690+00:00"
 }
