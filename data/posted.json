@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5c24bd33a5d0b27409e5af6f",
-      "title": "A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'",
-      "url": "https://pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T14:00:00+00:00",
-      "score": 8,
-      "event_key": "bretonnia_rework_planned_for_total_war_warhammer",
-      "title_ru": "Creative Assembly планирует обновление Бретоннии в Total War: Warhammer",
-      "threads_teaser_ru": "Фракция Бретонния в Total War: Warhammer официально попала в планы студии Creative Assembly на будущий реворк. Разработчики признали, что контент прошлых лет начинает устаревать.",
-      "telegram_message_id": "94",
-      "telegram_url": "https://t.me/gamepulse_newss/94",
-      "telegram_published_at": "2026-09-23T22:31:45.693737+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EwjFYjisYjADuQYH8o3ckk-1920-80.jpg",
-      "threads_published_at": "2026-09-23T22:31:45.696008+00:00"
-    },
-    {
       "fingerprint": "92e5bcd1457df67771742b70",
       "title": "Producer of Zach Cregger's Resident Evil Movie Reportedly Working on New Silent Hill Film",
       "url": "https://ign.com/articles/producer-of-zach-creggers-resident-evil-movie-reportedly-working-on-new-silent-hill-film",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/refund-this-game-1792060828649.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T12:03:02.227758+00:00"
+    },
+    {
+      "fingerprint": "bb39aafb85fe759e9cae9a9f",
+      "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
+      "url": "https://eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-15T12:06:25+00:00",
+      "score": 13,
+      "event_key": "Riot Games shutting down League of Legends Classic mode",
+      "title_ru": "Riot Games закроет League of Legends Classic в январе 2027 года",
+      "threads_teaser_ru": "Riot Games объявили, что режим League of Legends Classic будет закрыт в январе 2027 года. Причина — снижение интереса аудитории, которая предпочла другие разделы игры. Разработчики не исключают возвращение режима в будущем в формате ограниченного события.",
+      "telegram_message_id": "1303",
+      "telegram_url": "https://t.me/gamepulse_newss/1303",
+      "telegram_published_at": "2026-10-15T12:17:35.008152+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T12:03:02.227881+00:00"
+  "updated_at": "2026-10-15T12:17:35.008484+00:00"
 }
