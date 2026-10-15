@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "154c46d63ee654dc5f746c4c",
-      "title": "Второе DLC для Little Nightmares III выйдет 30 сентября",
-      "url": "https://stopgame.ru/newsdata/72932/vtoroe_dlc_dlya_little_nightmares_iii_vyydet_30_sentyabrya",
-      "source": "StopGame",
-      "published_at_source": "2026-09-23T21:59:49+00:00",
-      "score": 8,
-      "event_key": "second dlc for little nightmares iii releases September 30",
-      "title_ru": "Второе DLC для Little Nightmares III выйдет 30 сентября",
-      "threads_teaser_ru": "Второе сюжетное дополнение The Shores для Little Nightmares III выйдет 30 сентября в рамках сезонного пропуска. Героям предстоит добраться до маяка, столкнувшись с пиявками.",
-      "telegram_message_id": "91",
-      "telegram_url": "https://t.me/gamepulse_newss/91",
-      "telegram_published_at": "2026-09-23T22:16:30.362808+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://images.stopgame.ru/news/2026/09/24/IpHAZxPVS.jpg",
-      "threads_published_at": "2026-09-23T22:16:30.364933+00:00"
-    },
-    {
       "fingerprint": "0ed25f6aba62e1a36d689700",
       "title": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'",
       "url": "https://pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/penguin-colony-header.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-15T10:47:07.581399+00:00"
+    },
+    {
+      "fingerprint": "df6dd9541ce2fe8639ac8c31",
+      "title": "League of Legends Classic will become a thing of the past in January 2027, though it may one day be resurrected as a limited-time event",
+      "url": "https://rockpapershotgun.com/league-of-legends-classic-will-become-a-thing-of-the-past-in-january-2027-though-it-may-one-day-be-resurrected-as-a-limited-time-event",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-15T11:01:24+00:00",
+      "score": 12,
+      "event_key": "League of Legends Classic closing permanent access January 2027",
+      "title_ru": "Riot Games закроет постоянный режим League of Legends Classic в январе 2027 года",
+      "threads_teaser_ru": "Riot Games прощается с постоянным режимом League of Legends Classic: он проработает до января 2027 года. В будущем разработчики планируют возвращать его лишь в виде ограниченных событий, так как интерес игроков к нему оказался недостаточно долгим для полноценной поддержки.",
+      "telegram_message_id": "1300",
+      "telegram_url": "https://t.me/gamepulse_newss/1300",
+      "telegram_published_at": "2026-10-15T11:02:19.504917+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/league-of-legends-classic-going-offline-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T10:47:07.581498+00:00"
+  "updated_at": "2026-10-15T11:02:19.505284+00:00"
 }
