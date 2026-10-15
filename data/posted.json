@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1315",
       "telegram_url": "https://t.me/gamepulse_newss/1315",
       "telegram_published_at": "2026-10-15T18:02:43.527387+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/COD-INTEL-001-TOUT-2-3b83bc4992236e7f5d63.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/COD-INTEL-001-TOUT-2-3b83bc4992236e7f5d63.jpg",
+      "threads_published_at": "2026-10-15T18:02:45.029352+00:00"
     }
   ],
-  "updated_at": "2026-10-15T18:02:43.527650+00:00"
+  "updated_at": "2026-10-15T18:02:45.029453+00:00"
 }
