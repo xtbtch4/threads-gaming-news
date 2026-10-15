@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cd8693b7c7e0d47e93e0e094",
-      "title": "Стороны света, загадки и орава героев — подробнее о мирах в Order of the Sinking Star",
-      "url": "https://stopgame.ru/newsdata/72929/storony_sveta_zagadki_i_orava_geroev_podrobnee_o_mirah_v_order_of_the_sinking_star",
-      "source": "StopGame",
-      "published_at_source": "2026-09-23T19:06:32+00:00",
-      "score": 8,
-      "event_key": "order_of_the_sinking_star_worlds_trailer_october",
-      "title_ru": "Новый трейлер Order of the Sinking Star раскрыл детали игровых миров",
-      "threads_teaser_ru": "Команда Джонатана Блоу представила новый трейлер Order of the Sinking Star, рассказав об исследовании четырех миров, гибридных зонах и свободе прохождения. Игра выходит 8 октября.",
-      "telegram_message_id": "69",
-      "telegram_url": "https://t.me/gamepulse_newss/69",
-      "telegram_published_at": "2026-09-23T20:26:26.651907+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://images.stopgame.ru/news/2026/09/23/hiavpHFK.jpg",
-      "threads_published_at": "2026-09-23T20:26:26.653656+00:00"
-    },
-    {
       "fingerprint": "e4f019eeaeb550055948269b",
       "title": "Where to find pepper leaves in Fire Emblem Fortune's Weave",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-pepper-leaves-location-where-to-find",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Etre.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-15T03:17:48.021380+00:00"
+    },
+    {
+      "fingerprint": "7640b4c01b7f1dd562a227da",
+      "title": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
+      "url": "https://ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T22:04:54+00:00",
+      "score": 6,
+      "event_key": "Mick Gordon composes boss music for Warhammer 40,000: Boltgun 2",
+      "title_ru": "Композитор Mick Gordon написал музыку для финального босса в Warhammer 40,000: Boltgun 2",
+      "threads_teaser_ru": "Mick Gordon рассказал, как писал музыку для финала Warhammer 40,000: Boltgun 2. Композитор Doom работал над треком «Ascent of the Arkifane», изучая записи геймплея, чтобы идеально подобрать темп под масштабную битву с боссом.",
+      "telegram_message_id": "1279",
+      "telegram_url": "https://t.me/gamepulse_newss/1279",
+      "telegram_published_at": "2026-10-15T03:47:30.188309+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/05/19/boltgun-dlc-blogroll-1747685562957.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T03:17:48.021473+00:00"
+  "updated_at": "2026-10-15T03:47:30.188390+00:00"
 }
