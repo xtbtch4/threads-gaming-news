@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "439e8dac1c1248b845fca001",
-      "title": "Enter Polygon's Point It Out x Secretlab Giveaway",
-      "url": "https://polygon.com/secretlab-polygon-point-it-out-titan-evo-chair-contest-giveaway",
-      "source": "Polygon",
-      "published_at_source": "2026-09-23T19:35:15+00:00",
-      "score": 8,
-      "event_key": "polygon secretlab titan evo chair giveaway",
-      "title_ru": "Розыгрыш кресла Secretlab TITAN Evo от Polygon",
-      "threads_teaser_ru": "Polygon и Secretlab проводят совместный розыгрыш игрового кресла TITAN Evo Black Edition во второй неделе специальной акции. Узнайте, как принять участие и выиграть топовое кресло.",
-      "telegram_message_id": "68",
-      "telegram_url": "https://t.me/gamepulse_newss/68",
-      "telegram_published_at": "2026-09-23T20:21:40.977445+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point-it-out-with-matt-patches-and-simone-de-rochefort.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point-it-out-with-matt-patches-and-simone-de-rochefort.jpg",
-      "threads_published_at": "2026-09-23T20:21:40.979267+00:00"
-    },
-    {
       "fingerprint": "cd8693b7c7e0d47e93e0e094",
       "title": "Стороны света, загадки и орава героев — подробнее о мирах в Order of the Sinking Star",
       "url": "https://stopgame.ru/newsdata/72929/storony_sveta_zagadki_i_orava_geroev_podrobnee_o_mirah_v_order_of_the_sinking_star",
@@ -20494,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/soul-spike-coldsnap-secret-lair-screenshot.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-15T02:47:22.528078+00:00"
+    },
+    {
+      "fingerprint": "9076b2fa93d0f9925384a3e5",
+      "title": "Living world, god-mind or \"something far more terrifying\": Etre is an eye-melting, Control-inspired action game about reshaping a cosmic brain",
+      "url": "https://rockpapershotgun.com/living-world-god-mind-or-something-far-more-terrifying-etre-is-an-eye-melting-control-inspired-action-game-about-reshaping-a-cosmic-brain",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-14T17:00:00+00:00",
+      "score": 7,
+      "event_key": "Studio Lifeforms announces Control-inspired action game Etre",
+      "title_ru": "Анонсирован экшен-адвенчур Etre от Studio Lifeforms",
+      "threads_teaser_ru": "Studio Lifeforms представили Etre — приключенческий экшен, вдохновленный Control. В роли «звездного прыгуна» Xyle предстоит исследовать планету-разум Orbis в поисках возлюбленной. Ваши действия определят, в кого превратится пробуждающийся интеллект Orbis.",
+      "telegram_message_id": "1278",
+      "telegram_url": "https://t.me/gamepulse_newss/1278",
+      "telegram_published_at": "2026-10-15T03:17:46.554836+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Etre.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T02:47:22.528168+00:00"
+  "updated_at": "2026-10-15T03:17:46.555178+00:00"
 }
