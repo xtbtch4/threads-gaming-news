@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d67a70b53989ff85d3df6463",
-      "title": "Halo needed to change, but Activision faces a huge challenge to fix it",
-      "url": "https://pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T21:50:00+00:00",
-      "score": 11,
-      "event_key": "Activision takes over Halo franchise after Microsoft layoffs",
-      "title_ru": "Activision займется франшизой Halo после сокращений в Microsoft",
-      "threads_teaser_ru": "Microsoft сократила команду Halo Studios и передала контроль над франшизой компании Activision. Теперь перед новым издателем стоит сложная задача по перезапуску серии.",
-      "telegram_message_id": "86",
-      "telegram_url": "https://t.me/gamepulse_newss/86",
-      "telegram_published_at": "2026-09-23T21:52:01.031121+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/5wMpSgsfEVP9RdFHoKf33K-1569-80.jpg",
-      "threads_published_at": "2026-09-23T21:52:01.032951+00:00"
-    },
-    {
       "fingerprint": "08d56eddc160c95b4aa9c478",
       "title": "All paralogue dates and deadlines in Fire Emblem Fortune's Weave",
       "url": "https://polygon.com/all-fire-emblem-fortunes-weave-paralogues-dates",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/big-walk-headline_wkdGGSC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-15T09:02:45.607002+00:00"
+    },
+    {
+      "fingerprint": "436900213226a1a5606a1b7e",
+      "title": "Blue Team Only Wins 15% of Its Wardogs Games — We Asked a Color Psychologist Why",
+      "url": "https://ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T08:56:09+00:00",
+      "score": 9,
+      "event_key": "wardogs blue team low winrate analysis",
+      "title_ru": "Почему Blue Team побеждает лишь в 15% матчей в Wardogs",
+      "threads_teaser_ru": "Почему Blue Team выигрывает лишь 15% матчей в Wardogs? Разработчики и эксперт по цветовой психологии разбираются в причинах феномена фракции Lonestar.",
+      "telegram_message_id": "1295",
+      "telegram_url": "https://t.me/gamepulse_newss/1295",
+      "telegram_published_at": "2026-10-15T09:17:08.370579+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/16/ss-672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e-1920x1080-1789577487431.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T09:02:45.607105+00:00"
+  "updated_at": "2026-10-15T09:17:08.370964+00:00"
 }
