@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3fa24b75e461f249290c4f70",
-      "title": "Acclaimed Pokémon Artist Responds To Heartbreaking TCG Pack Opening",
-      "url": "https://polygon.com/pokemon-avery-the-poke-kid-jirachi-30th-tcg-akira-egawa-beard-dad",
-      "source": "Polygon",
-      "published_at_source": "2026-09-23T18:05:20+00:00",
-      "score": 8,
-      "event_key": "pokemon_artist_responds_to_avery_jirachi_pack_opening",
-      "title_ru": "Художница Pokémon отреагировала на последнюю распаковку карт ушедшего из жизни фаната",
-      "threads_teaser_ru": "Иллюстратор популярной карты с Jirachi из набора Pokémon отреагировала на трогательное видео с последней распаковкой ушедшего из жизни 12-летнего фаната.",
-      "telegram_message_id": "72",
-      "telegram_url": "https://t.me/gamepulse_newss/72",
-      "telegram_published_at": "2026-09-23T20:42:00.744363+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16325677/jirachi_pokemon_anime_103017.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/pok-mon-wild-card-official-teaser-trailer-1788164973.mp4",
-      "threads_published_at": "2026-09-23T20:42:00.746117+00:00"
-    },
-    {
       "fingerprint": "4010dbac882fea6e0cde233c",
       "title": "World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'",
       "url": "https://pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players",
@@ -20491,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/fanttiks1pro-1792013011389.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T04:17:08.403783+00:00"
+    },
+    {
+      "fingerprint": "2f3c3b58b0ad16ba7af1340f",
+      "title": "Andrew Schulz Explains His Viral Mortal Kombat Movie Callout at the Game Awards",
+      "url": "https://ign.com/articles/andrew-schulz-explains-his-viral-mortal-kombat-movie-callout-at-the-game-awards",
+      "source": "IGN",
+      "published_at_source": "2026-10-14T21:02:51+00:00",
+      "score": 6,
+      "event_key": "Andrew Schulz explains Mortal Kombat II joke at The Game Awards",
+      "title_ru": "Эндрю Шульц объяснил свою шутку про Mortal Kombat II на The Game Awards",
+      "threads_teaser_ru": "Эндрю Шульц объяснил, почему на церемонии The Game Awards публично подколол актеров фильма Mortal Kombat II. По словам артиста, это была не попытка конфликта, а попытка создать шумиху ради потенциального кроссовера в духе «Barbenheimer».",
+      "telegram_message_id": "1282",
+      "telegram_url": "https://t.me/gamepulse_newss/1282",
+      "telegram_published_at": "2026-10-15T04:47:22.263848+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/andrew-schulz-explains-mortal-kombat-game-awards-moment-1792011564065.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T04:17:08.403888+00:00"
+  "updated_at": "2026-10-15T04:47:22.264009+00:00"
 }
