@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dcd1da5b83ae39be16f4ae81",
-      "title": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC",
-      "url": "https://pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T14:00:00+00:00",
-      "score": 8,
-      "event_key": "total war warhammer 3 lords of the end times nagash black pyramid",
-      "title_ru": "Особенности механик Нагаша в DLC Lords of the End Times для Total War: Warhammer 3",
-      "threads_teaser_ru": "В DLC Lords of the End Times для Total War: Warhammer 3 Нагаш получил систему улучшений «Черная пирамида», сильно напоминающую дерево навыков из Path of Exile и имеющую собственный поиск.",
-      "telegram_message_id": "93",
-      "telegram_url": "https://t.me/gamepulse_newss/93",
-      "telegram_published_at": "2026-09-23T22:26:30.088235+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QFsQGNQYCaFjJCXbx6fAV5-1920-80.jpg",
-      "threads_published_at": "2026-09-23T22:26:30.090174+00:00"
-    },
-    {
       "fingerprint": "5c24bd33a5d0b27409e5af6f",
       "title": "A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'",
       "url": "https://pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/vintage-vice-city-pack-exclusive-looks-01-1792063918538.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T11:48:45.437877+00:00"
+    },
+    {
+      "fingerprint": "3b58575d77cafce1e27e7cef",
+      "title": "Rock Hard Platformer 'Refund This Game' Challenges You to Beat It Within Steam’s 2-Hour Refund Window",
+      "url": "https://ign.com/articles/new-rage-refund-this-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T10:59:03+00:00",
+      "score": 11,
+      "event_key": "Refund This Game platformer Steam refund policy challenge",
+      "title_ru": "Хардкорный платформер Refund This Game предлагает пройти его за время, допустимое для возврата средств в Steam",
+      "threads_teaser_ru": "Новый хардкорный 3D-платформер Refund This Game предлагает необычное испытание: успеть пройти игру до вершины за два часа. Это ровно тот лимит, который позволяет легально вернуть деньги за покупку в Steam.",
+      "telegram_message_id": "1302",
+      "telegram_url": "https://t.me/gamepulse_newss/1302",
+      "telegram_published_at": "2026-10-15T12:03:00.917876+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/refund-this-game-1792060828649.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T11:48:45.437958+00:00"
+  "updated_at": "2026-10-15T12:03:00.918259+00:00"
 }
