@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4010dbac882fea6e0cde233c",
-      "title": "World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'",
-      "url": "https://pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T20:42:58+00:00",
-      "score": 8,
-      "event_key": "world of warcraft forever developer addresses audience debate",
-      "title_ru": "Разработчик World of Warcraft: Forever высказался о целевой аудитории игры",
-      "threads_teaser_ru": "Разработчик World of Warcraft: Forever Мэтью Армстронг прокомментировал споры о целевой аудитории игры и объяснил свой подход к воссозданию духа оригинального проекта.",
-      "telegram_message_id": "73",
-      "telegram_url": "https://t.me/gamepulse_newss/73",
-      "telegram_published_at": "2026-09-23T20:46:48.373579+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/3yhvmXABMTiUYvTKkm3X27-1920-80.jpg",
-      "threads_published_at": "2026-09-23T20:46:48.375419+00:00"
-    },
-    {
       "fingerprint": "07990db402e5f1e1df09371d",
       "title": "Fire Emblem: Fortune’s Weave Basically Has the Same Plot As Twisted Metal",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-twisted-metal",
@@ -20490,7 +20473,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/14/andrew-schulz-explains-mortal-kombat-game-awards-moment-1792011564065.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T04:47:23.521171+00:00"
+    },
+    {
+      "fingerprint": "2bc2a8724a50b5ac13b143c3",
+      "title": "Total War Fans Blast New Remaster Over Bugs, AI Accusations",
+      "url": "https://polygon.com/total-war-shogun-2-complete-edition",
+      "source": "Polygon",
+      "published_at_source": "2026-10-14T20:29:56+00:00",
+      "score": 6,
+      "event_key": "Total War: Shogun 2 - Complete Edition negative steam reception",
+      "title_ru": "Total War: Shogun 2 - Complete Edition получила «крайне отрицательные» отзывы в Steam",
+      "threads_teaser_ru": "Новое переиздание Total War: Shogun 2 - Complete Edition встретило волну хейта в Steam. Игроки жалуются на обилие багов, отсутствие поддержки Steam Workshop и спорное качество графики, подозрительно напоминающее работу ИИ.",
+      "telegram_message_id": "1283",
+      "telegram_url": "https://t.me/gamepulse_newss/1283",
+      "telegram_published_at": "2026-10-15T05:17:22.808877+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/total-war-shogun-2.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-8_v4-1792007886.mp4"
     }
   ],
-  "updated_at": "2026-10-15T04:47:23.521297+00:00"
+  "updated_at": "2026-10-15T05:17:22.809287+00:00"
 }
