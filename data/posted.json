@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4a3e9e90be568b4f6cf1d36b",
-      "title": "Meta’s New VR Glasses to Entice Casual Viewers With 3D and Full-Frame IMAX",
-      "url": "https://ign.com/articles/metas-new-vr-glasses-to-entice-casual-viewers-with-3d-and-full-frame-imax",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T00:00:00+00:00",
-      "score": 13,
-      "event_key": "meta_reveals_new_entertainment_focused_vr_glasses",
-      "title_ru": "Meta анонсировала новые VR-очки с поддержкой IMAX и 3D",
-      "threads_teaser_ru": "Компания Meta анонсировала новые развлекательные VR-очки весом всего около 100 граммов, которые поступят в продажу весной. Устройство получило 5K-дисплеи, поддержку IMAX и управление жестами без контроллеров.",
-      "telegram_message_id": "112",
-      "telegram_url": "https://t.me/gamepulse_newss/112",
-      "telegram_published_at": "2026-09-24T00:02:11.190473+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/meta-vr-glasses-thumb-1790204589667.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T00:02:11.193999+00:00"
-    },
-    {
       "fingerprint": "35fb15c5ac454e7af5fce48a",
       "title": "Warner Bros. Pushes Back DC's Dynamic Duo Film, Gremlins 3 Gets One Year Delay",
       "url": "https://ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/03/rsr-vcms-1791056252838.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T21:02:41.892809+00:00"
+    },
+    {
+      "fingerprint": "d20ad07c52ae83c1253a6980",
+      "title": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
+      "url": "https://rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-15T17:01:56+00:00",
+      "score": 13,
+      "event_key": "enshrouded full release 1.0 update",
+      "title_ru": "Enshrouded вышла из раннего доступа",
+      "threads_teaser_ru": "Игра Enshrouded официально вышла из раннего доступа спустя три года разработки. Версия 1.0 приносит завершенную сюжетную кампанию, расширенную карту и новую систему «Sparkworks» для создания собственных приключений.",
+      "telegram_message_id": "1321",
+      "telegram_url": "https://t.me/gamepulse_newss/1321",
+      "telegram_published_at": "2026-10-15T21:17:20.654187+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/enshrouded-launch-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T21:02:41.892897+00:00"
+  "updated_at": "2026-10-15T21:17:20.654551+00:00"
 }
