@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "92e5bcd1457df67771742b70",
-      "title": "Producer of Zach Cregger's Resident Evil Movie Reportedly Working on New Silent Hill Film",
-      "url": "https://ign.com/articles/producer-of-zach-creggers-resident-evil-movie-reportedly-working-on-new-silent-hill-film",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T21:23:50+00:00",
-      "score": 7,
-      "event_key": "producer roy lee working on new silent hill film",
-      "title_ru": "Продюсер фильма по Resident Evil работает над новой лентой по Silent Hill",
-      "threads_teaser_ru": "Стало известно, что продюсер успешного фильма по Resident Evil Рой Ли работает над новой экранизацией классического хоррора Silent Hill от Konami. Подробности — в материале.",
-      "telegram_message_id": "95",
-      "telegram_url": "https://t.me/gamepulse_newss/95",
-      "telegram_published_at": "2026-09-23T22:36:27.831312+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/05/27/untitled-1-copy-1666187781885-1716851975081.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T22:36:27.833567+00:00"
-    },
-    {
       "fingerprint": "d5350dfd87d8ff2e401757c5",
       "title": "My first MMO character #2: Joshua Wolens",
       "url": "https://pcgamer.com/games/my-first-mmo-character-2-joshua-wolens",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-15T12:17:36.430640+00:00"
+    },
+    {
+      "fingerprint": "285e8f1a65c1617307649b2f",
+      "title": "Steam’s Best Way To Play New Games Officially Comes Back in 4 Days",
+      "url": "https://polygon.com/steam-next-fest-october-edition-fyi",
+      "source": "Polygon",
+      "published_at_source": "2026-10-15T12:00:15+00:00",
+      "score": 9,
+      "event_key": "Steam Next Fest October edition 2026 dates",
+      "title_ru": "Steam Next Fest: октябрьский фестиваль «демок» стартует 19 октября",
+      "threads_teaser_ru": "Steam Next Fest вернется 19 октября. В течение недели PC-игрокам будут доступны бесплатные демоверсии множества будущих релизов. Среди ожидаемых участников — Emberville и Drunken Goddess Reflux. Некоторые демо стали доступны заранее.",
+      "telegram_message_id": "1304",
+      "telegram_url": "https://t.me/gamepulse_newss/1304",
+      "telegram_published_at": "2026-10-15T12:32:53.045293+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-15T12:17:36.430751+00:00"
+  "updated_at": "2026-10-15T12:32:53.045470+00:00"
 }
