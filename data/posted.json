@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a9a479ee6e8ecb658e630b82",
-      "title": "Shoot the tires, please",
-      "url": "https://pcgamer.com/games/fps/shoot-the-tires-please",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T20:12:06+00:00",
-      "score": 9,
-      "event_key": "wardogs humvee tire vulnerability discovered",
-      "title_ru": "Уязвимость Хамви в Wardogs",
-      "threads_teaser_ru": "В шутере Wardogs бронированные Humvee доставляют немало проблем игрокам, но у них есть скрытая слабость. Оказывается, повреждение шин способно кардинально изменить ситуацию на поле боя.",
-      "telegram_message_id": "67",
-      "telegram_url": "https://t.me/gamepulse_newss/67",
-      "telegram_published_at": "2026-09-23T20:16:50.165440+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/eFrNx2aTQ5xaVKS6g4WJPW-2560-80.jpg",
-      "threads_published_at": "2026-09-23T20:16:50.167272+00:00"
-    },
-    {
       "fingerprint": "439e8dac1c1248b845fca001",
       "title": "Enter Polygon's Point It Out x Secretlab Giveaway",
       "url": "https://polygon.com/secretlab-polygon-point-it-out-titan-evo-chair-contest-giveaway",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/valor-mortis-screenshot-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-15T02:32:41.426911+00:00"
+    },
+    {
+      "fingerprint": "9f7a73c51e1a1be8ca7dd2a2",
+      "title": "Magic: The Gathering Is Officially Reprinting a Powerful $18 Card for the First Time in 20 Years",
+      "url": "https://polygon.com/magic-the-gathering-soul-spike-secret-lair-reprint-reality-fracture",
+      "source": "Polygon",
+      "published_at_source": "2026-10-14T17:00:15+00:00",
+      "score": 7,
+      "event_key": "Wizards of the Coast reprints Soul Spike in Secret Lair",
+      "title_ru": "Wizards of the Coast выпустит переиздание карты Soul Spike спустя 20 лет",
+      "threads_teaser_ru": "Спустя 20 лет Wizards of the Coast впервые переиздают мощную карту Soul Spike для Magic: The Gathering. Она появится в новом тематическом наборе Secret Lair, посвященном эстетике манги, вместе с другими ценными репринтами.",
+      "telegram_message_id": "1277",
+      "telegram_url": "https://t.me/gamepulse_newss/1277",
+      "telegram_published_at": "2026-10-15T02:47:21.245580+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/soul-spike-coldsnap-secret-lair-screenshot.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-15T02:32:41.427004+00:00"
+  "updated_at": "2026-10-15T02:47:21.245987+00:00"
 }
