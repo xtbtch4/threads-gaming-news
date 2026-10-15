@@ -20491,9 +20491,10 @@
       "telegram_message_id": "1271",
       "telegram_url": "https://t.me/gamepulse_newss/1271",
       "telegram_published_at": "2026-10-15T00:32:40.952651+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/inde-navarrette-studied-anime-jjk-demon-slayer-1792021488427.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/inde-navarrette-studied-anime-jjk-demon-slayer-1792021488427.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-15T00:32:42.500975+00:00"
     }
   ],
-  "updated_at": "2026-10-15T00:32:40.952946+00:00"
+  "updated_at": "2026-10-15T00:32:42.501068+00:00"
 }
