@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "03011b576af7a7d19aa94429",
-      "title": "Save 40% Off the Sony WH-1000XX \"The Collexion\" Stainless Steel Noise Canceling Wireless Headphones",
-      "url": "https://ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-september-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T23:00:00+00:00",
-      "score": 11,
-      "event_key": "sony wh 1000xx the collexion headphone discount ebay",
-      "title_ru": "Наушники Sony WH-1000XX The Collexion продаются со скидкой 40%",
-      "threads_teaser_ru": "Премиальные беспроводные наушники Sony WH-1000XX The Collexion получили скидку почти 40% на eBay. Восстановленная версия обойдется в 389 долларов вместо стандартных 649 долларов.",
-      "telegram_message_id": "101",
-      "telegram_url": "https://t.me/gamepulse_newss/101",
-      "telegram_published_at": "2026-09-23T23:06:43.649140+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/sonywh1000xx-1790203688538.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T23:06:43.651740+00:00"
-    },
-    {
       "fingerprint": "7ce8b9c4a7142e1a32c4f9c5",
       "title": "Kingpin Actor Vincent D’Onofrio Says Goodbye to Daredevil: Born Again",
       "url": "https://ign.com/articles/kingpin-actor-vincent-donofrio-says-goodbye-to-daredevil-born-again",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Jason-and-Lucia.jpg?w=300",
       "threads_published_at": "2026-10-15T14:16:45.018808+00:00"
+    },
+    {
+      "fingerprint": "61af5de37beee3fbbeecff9f",
+      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
+      "url": "https://ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T14:39:50+00:00",
+      "score": 15,
+      "event_key": "activision expects gta 6 to help modern warfare 4",
+      "title_ru": "В Activision считают, что GTA 6 поможет продажам Modern Warfare 4",
+      "threads_teaser_ru": "В Activision считают, что релиз GTA 6 пойдет на пользу Modern Warfare 4. По словам маркетингового директора компании, общий рост интереса к видеоиграм и возвращение аудитории к консолям привлекут больше внимания к серии Call of Duty.",
+      "telegram_message_id": "1310",
+      "telegram_url": "https://t.me/gamepulse_newss/1310",
+      "telegram_published_at": "2026-10-15T15:03:17.791812+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/cod-main-1792075154642.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T14:16:45.018924+00:00"
+  "updated_at": "2026-10-15T15:03:17.792088+00:00"
 }
