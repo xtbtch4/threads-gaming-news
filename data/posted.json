@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "334f78d721e8d8cbc678a38a",
-      "title": "Tolkien's Silmarillion Illustrated Edition Drops to Its Lowest Price Ever for Amazon Prime Members",
-      "url": "https://ign.com/articles/the-silmarillion-illustrated-edition-book-deal-september-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T17:46:05+00:00",
-      "score": 6,
-      "event_key": "silmarillion-illustrated-edition-lowest-price-amazon-prime",
-      "title_ru": "Иллюстрированное издание «Сильмариллиона» подешевело на Amazon",
-      "threads_teaser_ru": "Иллюстрированное издание «Сильмариллиона» получило самую низкую цену в истории на Amazon для подписчиков Prime, а скидки также затронули другие книги по Средиземью.",
-      "telegram_message_id": "107",
-      "telegram_url": "https://t.me/gamepulse_newss/107",
-      "telegram_published_at": "2026-09-23T23:36:41.812043+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/10/25/silmarillion-illustrated-blogroll-1666717007035.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T23:36:41.814318+00:00"
-    },
-    {
       "fingerprint": "50152b91acd09596c8effe4a",
       "title": "Sometimes it's fun to hit a scorpion with a club for 38 seconds",
       "url": "https://pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/COD-INTEL-001-TOUT-2-3b83bc4992236e7f5d63.jpg",
       "threads_published_at": "2026-10-15T18:02:45.029352+00:00"
+    },
+    {
+      "fingerprint": "e6dd8ad94bf0d2c828bcc7c8",
+      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "url": "https://eurogamer.net/grand-theft-auto-6-launch-trailer",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-15T13:24:51+00:00",
+      "score": 14,
+      "event_key": "rockstar_games_releases_grand_theft_auto_6_launch_trailer",
+      "title_ru": "Rockstar Games выпустила релизный трейлер Grand Theft Auto 6",
+      "threads_teaser_ru": "Rockstar Games представила релизный трейлер Grand Theft Auto 6 перед ноябрьским запуском игры на PS5 и Xbox Series X/S. Ролик демонстрирует ограбления, погони и детали сюжета главных героев.",
+      "telegram_message_id": "1316",
+      "telegram_url": "https://t.me/gamepulse_newss/1316",
+      "telegram_published_at": "2026-10-15T18:17:17.747581+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-header_xwcN3Jm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-15T18:02:45.029453+00:00"
+  "updated_at": "2026-10-15T18:17:17.747731+00:00"
 }
