@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19d059e06e8a8f5c6151c336",
-      "title": "Slow Horses Season 6, Episode 2 Review — ‘Daddy Issues’",
-      "url": "https://ign.com/articles/slow-horses-season-6-episode-2-review-daddy-issues",
-      "source": "IGN",
-      "published_at_source": "2026-09-23T22:29:26+00:00",
-      "score": 8,
-      "event_key": "slow horses season 6 episode 2 review daddy issues",
-      "title_ru": "Обзор второго эпизода 6-го сезона сериала «Медленные лошади»",
-      "threads_teaser_ru": "Второй эпизод шестого сезона «Медленных лошадей» возвращает на экраны любимого персонажа, но омрачен потерей еще одного участника команды и новыми загадками.",
-      "telegram_message_id": "104",
-      "telegram_url": "https://t.me/gamepulse_newss/104",
-      "telegram_published_at": "2026-09-23T23:21:47.055710+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/shs6e2-1790202559632.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-23T23:21:47.057876+00:00"
-    },
-    {
       "fingerprint": "20a0e597ab3f0fb7a5edb026",
       "title": "Micropost: 'This is crazytown' reaction to our worst graphical effect poll",
       "url": "https://pcgamer.com/games/micropost-this-is-crazytown-reaction-to-our-worst-graphical-effect-poll",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/jason-and-lucia-driving-1792074147987.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T16:32:02.346826+00:00"
+    },
+    {
+      "fingerprint": "dd13b6e967f2e03b40668cce",
+      "title": "ASUS Announces Availability of ROG XBOX Ally X20",
+      "url": "https://news.xbox.com/en-us/2026/10/15/asus-announces-availability-of-rog-xbox-ally-x20",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-15T14:00:00+00:00",
+      "score": 14,
+      "event_key": "asus-announces-rog-xbox-ally-x20-availability",
+      "title_ru": "ASUS объявила о доступности ROG XBOX Ally X20",
+      "threads_teaser_ru": "Компания ASUS объявила о доступности нового портативного устройства ROG XBOX Ally X20. Информация об этом появилась на официальном ресурсе Xbox Wire.",
+      "telegram_message_id": "1313",
+      "telegram_url": "https://t.me/gamepulse_newss/1313",
+      "telegram_published_at": "2026-10-15T16:46:43.335126+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/1920_1080-46cef4f3bde60e1489cb.jpg"
     }
   ],
-  "updated_at": "2026-10-15T16:32:02.346920+00:00"
+  "updated_at": "2026-10-15T16:46:43.335404+00:00"
 }
