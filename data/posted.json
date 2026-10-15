@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b9398326c30b243ae4789e5b",
-      "title": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
-      "url": "https://eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-23T14:23:32+00:00",
-      "score": 8,
-      "event_key": "shadow of mordor and war coming to switch 2",
-      "title_ru": "Middle-earth: Shadow of Mordor и Shadow of War выйдут на Switch 2",
-      "threads_teaser_ru": "Игры Shadow of Mordor и Shadow of War с культовой системой Nemesis от студии Monolith выйдут на Switch 2 уже 30 сентября. Порт включает все DLC и доступен в бандле.",
-      "telegram_message_id": "83",
-      "telegram_url": "https://t.me/gamepulse_newss/83",
-      "telegram_published_at": "2026-09-23T21:36:09.890901+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ea-opens-new-studio-led-by-former-shadow-of-mordor-exec-1621505264249.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-23T21:36:09.892715+00:00"
-    },
-    {
       "fingerprint": "802356709ff27f4e94a3b18f",
       "title": "Discord Begins Rolling Out Age Verification–And A Sponsorship With FanDuel",
       "url": "https://gamespot.com/articles/discord-begins-rolling-out-age-verification-and-a-sponsorship-with-fanduel",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mhw-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-15T08:32:36.950925+00:00"
+    },
+    {
+      "fingerprint": "4b31b7c118bf641a8f89a999",
+      "title": "Don't ask Greg Davies about his favorite Taskmaster tasks",
+      "url": "https://polygon.com/video/don-t-ask-greg-davies-about-his-favorite-taskmaster-tasks",
+      "source": "Polygon",
+      "published_at_source": "2026-10-15T08:39:25+00:00",
+      "score": 8,
+      "event_key": "greg davies favorite taskmaster tasks polygon",
+      "title_ru": "Интервью с Greg Davies о шоу Taskmaster",
+      "threads_teaser_ru": "Издание Polygon рассказало, почему не стоит спрашивать ведущего шоу Taskmaster Greg Davies о его любимых заданиях из программы.",
+      "telegram_message_id": "1293",
+      "telegram_url": "https://t.me/gamepulse_newss/1293",
+      "telegram_published_at": "2026-10-15T08:47:52.931827+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/don-t-ask-greg-davies-about-his-favorite-taskmaster-tasks.png?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-10-15T08:32:36.951014+00:00"
+  "updated_at": "2026-10-15T08:47:52.932078+00:00"
 }
