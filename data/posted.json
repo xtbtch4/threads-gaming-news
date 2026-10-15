@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1298",
       "telegram_url": "https://t.me/gamepulse_newss/1298",
       "telegram_published_at": "2026-10-15T10:32:16.458581+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Big-Walk-head-maze.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Big-Walk-head-maze.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-15T10:32:17.894962+00:00"
     }
   ],
-  "updated_at": "2026-10-15T10:32:16.458858+00:00"
+  "updated_at": "2026-10-15T10:32:17.895052+00:00"
 }
