@@ -20487,9 +20487,10 @@
       "telegram_message_id": "1344",
       "telegram_url": "https://t.me/gamepulse_newss/1344",
       "telegram_published_at": "2026-10-16T16:02:53.877568+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/australia.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/australia.jpg?w=300",
+      "threads_published_at": "2026-10-16T16:02:56.549958+00:00"
     }
   ],
-  "updated_at": "2026-10-16T16:02:53.877893+00:00"
+  "updated_at": "2026-10-16T16:02:56.550058+00:00"
 }
