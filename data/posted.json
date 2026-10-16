@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "db91fbe5918c6d2a7aa42df6",
-      "title": "Avengers: Doomsday Just Got a Big Release Date Update",
-      "url": "https://polygon.com/avengers-doomsday-uk-release-date-earlier",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T09:39:02+00:00",
-      "score": 12,
-      "event_key": "avengers doomsday uk release date earlier than us",
-      "title_ru": "Фильм «Мстители: Судный день» выйдет в Великобритании раньше, чем в США",
-      "threads_teaser_ru": "Фильм «Мстители: Судный день» выйдет в прокат в Великобритании на два дня раньше США — 16 декабря 2026 года. Из-за этого американским фанатам киновселенной Marvel придется опасаться спойлеров.",
-      "telegram_message_id": "145",
-      "telegram_url": "https://t.me/gamepulse_newss/145",
-      "telegram_published_at": "2026-09-24T09:41:47.640934+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/avengers-doomsday-thor.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T09:41:47.643957+00:00"
-    },
-    {
       "fingerprint": "a6d9b2487091aedd8ccf4cb9",
       "title": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
       "url": "https://eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Doom.jpg?w=300",
       "threads_published_at": "2026-10-16T18:47:34.623910+00:00"
+    },
+    {
+      "fingerprint": "92b1900e853b8d9fc0fefff4",
+      "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
+      "url": "https://gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-16T18:45:44+00:00",
+      "score": 15,
+      "event_key": "world of warcraft forever stress test october 2026",
+      "title_ru": "Бесплатный доступ к бета-версии WoW: Forever на следующей неделе",
+      "threads_teaser_ru": "На следующей неделе пройдет бесплатный стресс-тест World of Warcraft: Forever без необходимости оформлять подписку или покупать бета-доступ. Но есть нюанс: серверы будут открыты всего несколько часов, а персонажей удалят.",
+      "telegram_message_id": "1354",
+      "telegram_url": "https://t.me/gamepulse_newss/1354",
+      "telegram_published_at": "2026-10-16T19:02:47.210667+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-16T18:47:34.624007+00:00"
+  "updated_at": "2026-10-16T19:02:47.210864+00:00"
 }
