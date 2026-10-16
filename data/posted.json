@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "515210c060fa6dc5a859032c",
-      "title": "Fire Emblem: Fortune’s Weave Heroes, Ranked By How Fun They'd Be to Party With",
-      "url": "https://polygon.com/fire-emblem-fortunes-weave-heroes-ranked",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T10:00:14+00:00",
-      "score": 5,
-      "event_key": "fire-emblem-fortunes-weave-characters-party-ranking",
-      "title_ru": "Рейтинг героев Fire Emblem: Fortune’s Weave по их тусовочному потенциалу",
-      "threads_teaser_ru": "Издание Polygon оценило персонажей тактической игры Fire Emblem: Fortune’s Weave по их способности веселиться на вечеринках. Кто из героев лучше всего подошел бы на роль компаньона для ночных вылазок?",
-      "telegram_message_id": "148",
-      "telegram_url": "https://t.me/gamepulse_newss/148",
-      "telegram_published_at": "2026-09-24T10:06:36.225795+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-cast.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T10:06:36.227740+00:00"
-    },
-    {
       "fingerprint": "76f683471d5ef48298a6af11",
       "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
       "url": "https://rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Drunken-Goddess-Reflex.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T19:32:16.075568+00:00"
+    },
+    {
+      "fingerprint": "21d05013c7988da3a2a3134c",
+      "title": "Nvidia App Update Will Let AI Agents Tune Your Graphics Card, but Some Users are Warning to Turn It Off",
+      "url": "https://ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T17:56:32+00:00",
+      "score": 11,
+      "event_key": "nvidia-app-update-adds-ai-agents-control",
+      "title_ru": "Новое обновление Nvidia App добавляет поддержку AI-агентов",
+      "threads_teaser_ru": "Свежее обновление Nvidia App добавило функцию, позволяющую AI-агентам управлять приложением. Настройка включена по умолчанию и вызвала споры о безопасности.",
+      "telegram_message_id": "1357",
+      "telegram_url": "https://t.me/gamepulse_newss/1357",
+      "telegram_published_at": "2026-10-16T19:47:04.032733+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/11/22/best-nvidia-black-friday-deals-laptops-uk-2024-1732273493347.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T19:32:16.075657+00:00"
+  "updated_at": "2026-10-16T19:47:04.032852+00:00"
 }
