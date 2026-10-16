@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f61b418e4203f5eb51bc951a",
-      "title": "I have fallen to my own hubris",
-      "url": "https://pcgamer.com/games/world-of-warcraft/i-have-fallen-to-my-own-hubris",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T09:57:17+00:00",
-      "score": 5,
-      "event_key": "world of warcraft forever level cap min maxing inventory issue",
-      "title_ru": "Проблемы с инвентарем из-за мини-максинга в World of Warcraft: Forever",
-      "threads_teaser_ru": "Решил заняться мини-максингом в World of Warcraft: Forever перед повышением уровня, но столкнулся с неожиданной проблемой: крошечные сумки на восемь ячеек забиты квестовыми предметами.",
-      "telegram_message_id": "129",
-      "telegram_url": "https://t.me/gamepulse_newss/129",
-      "telegram_published_at": "2026-09-24T01:26:55.654868+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/DRAvip4buV4DMD7biWSmJ6-1920-80.jpg",
-      "threads_published_at": "2026-09-24T01:26:55.657864+00:00"
-    },
-    {
       "fingerprint": "5e161d0ed0d7dcabe6454cca",
       "title": "Esports tournaments do it better in person",
       "url": "https://pcgamer.com/games/esports-tournaments-do-it-better-in-person",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/what-is-cdpr-hadar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T11:16:50.326279+00:00"
+    },
+    {
+      "fingerprint": "d896321fbbd01a052e5fa4d6",
+      "title": "One Piece Could Be Coming to Fortnite Soon",
+      "url": "https://polygon.com/fortnite-one-piece-chest-barrel",
+      "source": "Polygon",
+      "published_at_source": "2026-10-16T11:45:51+00:00",
+      "score": 10,
+      "event_key": "one-piece-fortnite-mini-season-files-leak",
+      "title_ru": "One Piece может появиться в Fortnite в грядущем мини-сезоне",
+      "threads_teaser_ru": "В файлах Fortnite нашли намеки на кроссовер с One Piece в грядущем мини-сезоне. Датамайнеры обнаружили пиратский сундук и загрузочный экран с отсылкой к культовой сцене из манги.",
+      "telegram_message_id": "1338",
+      "telegram_url": "https://t.me/gamepulse_newss/1338",
+      "telegram_published_at": "2026-10-16T11:47:10.520602+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-one-piece-luffy.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-16T11:16:50.326360+00:00"
+  "updated_at": "2026-10-16T11:47:10.520882+00:00"
 }
