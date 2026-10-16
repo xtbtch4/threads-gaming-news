@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7bbe915c65a3bacc151632cb",
-      "title": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)",
-      "url": "https://pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T14:39:28+00:00",
-      "score": 6,
-      "event_key": "pc_gamer_mouse_side_buttons_poll",
-      "title_ru": "Спор редакции PC Gamer о назначении боковых кнопок мыши",
-      "threads_teaser_ru": "Авторы PC Gamer поспорили о том, для чего лучше использовать боковые кнопки мыши: для стандартной навигации в браузере или для копирования и вставки текста на рабочем столе.",
-      "telegram_message_id": "118",
-      "telegram_url": "https://t.me/gamepulse_newss/118",
-      "telegram_published_at": "2026-09-24T00:33:03.201489+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/xfdLubmrJuD8fZasUcHCdN-2560-80.jpg",
-      "threads_published_at": "2026-09-24T00:33:03.204060+00:00"
-    },
-    {
       "fingerprint": "b44bef4bfc559e721839bd30",
       "title": "Console rumour time #235",
       "url": "https://pcgamer.com/hardware/console-rumour-time-235",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/jeff-kaplan-avoids-reading-ovw-subreddits-1792107785773.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T00:03:04.481131+00:00"
+    },
+    {
+      "fingerprint": "0be413373106b8d0de64a170",
+      "title": "Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game",
+      "url": "https://ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T23:04:38+00:00",
+      "score": 11,
+      "event_key": "Control Resonant becomes fastest selling Remedy game",
+      "title_ru": "Control Resonant стала самой быстропродаваемой игрой Remedy",
+      "threads_teaser_ru": "Control Resonant установила новый рекорд для Remedy: игра достигла миллиона проданных копий всего за три недели. Это позволило ей обойти Alan Wake 2 и стать самым быстропродаваемым проектом студии, несмотря на недавние проблемы с пиратством сразу после релиза.",
+      "telegram_message_id": "1327",
+      "telegram_url": "https://t.me/gamepulse_newss/1327",
+      "telegram_published_at": "2026-10-16T00:17:44.474742+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/10/controlthumb-1789054804916.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T00:03:04.481229+00:00"
+  "updated_at": "2026-10-16T00:17:44.475107+00:00"
 }
