@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1c561686fed1742babd7330d",
-      "title": "'This Has to Be a Sick Joke' — the Next Ace Attorney Game Is a VR Exclusive and Fans Can't Quite Believe It",
-      "url": "https://ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T08:42:35+00:00",
-      "score": 11,
-      "event_key": "phoenix wright ace attorney dual destinies vr announced meta connect",
-      "title_ru": "Анонсирована Phoenix Wright: Ace Attorney Dual Destinies VR",
-      "threads_teaser_ru": "Компания Capcom анонсировала Phoenix Wright: Ace Attorney Dual Destinies VR для шлемов Meta Quest. Игра выйдет в 2027 году и станет VR-версией проекта 2013 года, что удивило фанатов, ждавших полноценную седьмую часть.",
-      "telegram_message_id": "142",
-      "telegram_url": "https://t.me/gamepulse_newss/142",
-      "telegram_published_at": "2026-09-24T09:02:19.571858+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/image-01-ja-1790239119098.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T09:02:19.575064+00:00"
-    },
-    {
       "fingerprint": "77f8e1000da120e69faaf3f2",
       "title": "Pokémon TCG: 30th Anniversary Celebration Booster Bundles Are In Stock at Amazon, and Way Under Market Price",
       "url": "https://ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/james-mcavoy-and-patrick-stewart-1792170928733.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T18:02:45.907541+00:00"
+    },
+    {
+      "fingerprint": "1a3272b48e3da9268c53f82c",
+      "title": "Sated - Official Demo Reveal Trailer | The MIX Fall Game Showcase 2026",
+      "url": "https://ign.com/videos/sated-official-demo-reveal-trailer-the-mix-fall-game-showcase-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T11:00:00+00:00",
+      "score": 14,
+      "event_key": "sated demo reveal trailer mix fall game showcase 2026",
+      "title_ru": "Анонсирован трейлер демоверсии Sated",
+      "threads_teaser_ru": "На презентации The MIX Fall Game Showcase 2026 показали трейлер демоверсии кулинарного roguelike-экшена Sated от разработчика Forest Reges.",
+      "telegram_message_id": "1351",
+      "telegram_url": "https://t.me/gamepulse_newss/1351",
+      "telegram_published_at": "2026-10-16T18:17:36.667421+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/sated-blogroll-1792157540047.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T18:02:45.907633+00:00"
+  "updated_at": "2026-10-16T18:17:36.667713+00:00"
 }
