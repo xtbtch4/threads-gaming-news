@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9ff381a9f5aa78cf0e6da92f",
-      "title": "Solving the Zelda Timeline in 15 Minutes | Unraveled",
-      "url": "https://polygon.com/video/solving-the-zelda-timeline-in-15-minutes-unraveled",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T11:11:12+00:00",
-      "score": 8,
-      "event_key": "brian david gilbert solves zelda timeline unraveled",
-      "title_ru": "Попытка разобраться в таймлайне Zelda за 15 минут в шоу Unraveled",
-      "threads_teaser_ru": "В новом выпуске шоу Unraveled Брайан Дэвид Гилберт попытался упорядочить сложную хронологию серии The Legend of Zelda, объединив канонические и неканонические материалы в единый таймлайн.",
-      "telegram_message_id": "152",
-      "telegram_url": "https://t.me/gamepulse_newss/152",
-      "telegram_published_at": "2026-09-24T11:11:51.303217+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/solving-the-zelda-timeline-in-15-minutes-unraveled.jpeg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-09-24T11:11:51.310540+00:00"
-    },
-    {
       "fingerprint": "bc85397988e99bf4b8623fa5",
       "title": "We've stepped back into a war with the Cabal.",
       "url": "https://ign.com/articles/new-report-sheds-light-on-what-will-and-wont-return-to-destiny-2-when-bungie-adds-back-vaulted-content",
@@ -20490,7 +20473,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/battlefield-6-key-art.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/battlefield-6-season-5-las-vegas-gameplay-trailer-1792164222.mp4",
       "threads_published_at": "2026-10-16T20:32:51.259204+00:00"
+    },
+    {
+      "fingerprint": "70a75308ecc442596159bf12",
+      "title": "\"Father of PlayStation\" Says Game Ownership Is a \"Mentality\" - IGN Daily Fix",
+      "url": "https://ign.com/videos/father-of-playstation-says-game-ownership-is-a-mentality-ign-daily-fix",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T13:34:00+00:00",
+      "score": 14,
+      "event_key": "father of playstation backs sony killing physical discs",
+      "title_ru": "Создатель PlayStation поддержал отказ Sony от физических дисков",
+      "threads_teaser_ru": "Создатель PlayStation Кен Кутараги поддержал решение Sony отказаться от физических дисков, назвав это экономически нецелесообразным. Тем временем конгрессмен США готовит законопроект о цифровых правах игроков.",
+      "telegram_message_id": "1361",
+      "telegram_url": "https://t.me/gamepulse_newss/1361",
+      "telegram_published_at": "2026-10-16T21:02:31.003220+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/gfix-101626-blogroll-1792180603361.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T20:32:51.259354+00:00"
+  "updated_at": "2026-10-16T21:02:31.003443+00:00"
 }
