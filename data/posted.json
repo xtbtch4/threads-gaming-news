@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "55be595f078d430a31e76686",
-      "title": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
-      "url": "https://eurogamer.net/destiny-2-unvaulted-content-details-report",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-24T08:52:40+00:00",
-      "score": 11,
-      "event_key": "bungie unvaults destiny 2 content details reported",
-      "title_ru": "Появились новые детали возвращения удаленного контента в Destiny 2",
-      "threads_teaser_ru": "Стали известны подробности возвращения удаленного контента в Destiny 2. Весь возвращенный контент будет бесплатным, но сезонные активности и регулярные обновления не вернутся.",
-      "telegram_message_id": "141",
-      "telegram_url": "https://t.me/gamepulse_newss/141",
-      "telegram_published_at": "2026-09-24T08:56:56.928160+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/destiny-2-cayde-6_1596993179.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T08:56:56.930718+00:00"
-    },
-    {
       "fingerprint": "1c561686fed1742babd7330d",
       "title": "'This Has to Be a Sick Joke' — the Next Ace Attorney Game Is a VR Exclusive and Fans Can't Quite Believe It",
       "url": "https://ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T17:17:13.480178+00:00"
+    },
+    {
+      "fingerprint": "7ae0494b1a47681331f0fcd7",
+      "title": "James McAvoy Reveals He Once Pitched a Young Picard Star Trek Show",
+      "url": "https://ign.com/articles/james-mcavoy-reveals-he-once-pitched-a-young-picard-star-trek-show",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T17:26:31+00:00",
+      "score": 13,
+      "event_key": "james mcavoy pitched young picard star trek show",
+      "title_ru": "James McAvoy предлагал создать сериал о молодом Jean-Luc Picard",
+      "threads_teaser_ru": "James McAvoy рассказал, что предлагал руководству Star Trek идею сериала о молодом Jean-Luc Picard. Проект должен был рассказать о временах, когда герой стал капитаном USS Enterprise.",
+      "telegram_message_id": "1350",
+      "telegram_url": "https://t.me/gamepulse_newss/1350",
+      "telegram_published_at": "2026-10-16T18:02:44.319220+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/james-mcavoy-and-patrick-stewart-1792170928733.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T17:17:13.480261+00:00"
+  "updated_at": "2026-10-16T18:02:44.319351+00:00"
 }
