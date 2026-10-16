@@ -20486,9 +20486,10 @@
       "telegram_message_id": "1352",
       "telegram_url": "https://t.me/gamepulse_newss/1352",
       "telegram_published_at": "2026-10-16T18:32:26.172504+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-DMZ-FOB-TOUT-85c1fe26fbda0def29b6.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-DMZ-FOB-TOUT-85c1fe26fbda0def29b6.jpg",
+      "threads_published_at": "2026-10-16T18:32:27.553947+00:00"
     }
   ],
-  "updated_at": "2026-10-16T18:32:26.172684+00:00"
+  "updated_at": "2026-10-16T18:32:27.554040+00:00"
 }
