@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a21648c526196d3daf98c03f",
-      "title": "It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt",
-      "url": "https://pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T13:26:38+00:00",
-      "score": 6,
-      "event_key": "pc gamer worst graphical effect voting chromatic aberration",
-      "title_ru": "Худшие графические эффекты в играх: хроматическая аберрация против грязи и крови",
-      "threads_teaser_ru": "Издание PC Gamer запустило голосование для определения худшего графического эффекта в видеоиграх. Игрокам предлагается выбрать между такими спорными решениями, как хроматическая аберрация и эффекты крови или грязи на экране.",
-      "telegram_message_id": "122",
-      "telegram_url": "https://t.me/gamepulse_newss/122",
-      "telegram_published_at": "2026-09-24T00:52:14.464778+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h2LG6ppHrong2bemopWsxg-2560-80.png",
-      "threads_published_at": "2026-09-24T00:52:14.467482+00:00"
-    },
-    {
       "fingerprint": "104102ca160d9b4fe4189c33",
       "title": "Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'",
       "url": "https://pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/battlefield-6-season-5-vegas-shot-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T08:47:03.328352+00:00"
+    },
+    {
+      "fingerprint": "b4fe36ac481aa1fa32b56027",
+      "title": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
+      "url": "https://ign.com/articles/humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with-10-spooky-indie-games-for-12",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T08:58:10+00:00",
+      "score": 11,
+      "event_key": "Humble Bundle releases Cozy After Dark Showcase horror games bundle",
+      "title_ru": "Humble Bundle представила набор Cozy After Dark Showcase",
+      "threads_teaser_ru": "Humble Bundle выпустили «уютный» хоррор-набор игр к Хэллоуину. В подборке Cozy After Dark Showcase можно найти 10 инди-проектов, включая Paradise Killer и Fear the Spotlight, всего за 12 долларов. Рассказываем, что еще входит в состав бандла и сколько он будет доступен.",
+      "telegram_message_id": "1331",
+      "telegram_url": "https://t.me/gamepulse_newss/1331",
+      "telegram_published_at": "2026-10-16T09:17:22.163823+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/10/18/fearthespotlightlaunchtrailer-ign-blogroll-1729274858665.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T08:47:03.328447+00:00"
+  "updated_at": "2026-10-16T09:17:22.164216+00:00"
 }
