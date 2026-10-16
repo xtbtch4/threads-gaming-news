@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7f5c63553aba57ef935bd332",
-      "title": "Meet Key Players Shaping Makoto Daito’s Journey in STRANGER THAN HEAVEN",
-      "url": "https://news.xbox.com/en-us/2026/09/23/stranger-than-heaven-full-cast-character-reveal-xbox-sega",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-24T02:01:00+00:00",
-      "score": 14,
-      "event_key": "sega_stranger_than_heaven_characters_reveal_2027",
-      "title_ru": "SEGA представила ключевых персонажей экшена STRANGER THAN HEAVEN",
-      "threads_teaser_ru": "Компания SEGA поделилась новыми подробностями об игре STRANGER THAN HEAVEN, которая выйдет 15 января 2027 года на Xbox и в Xbox Game Pass. Проект охватывает 50 лет из жизни Макото Дайто.",
-      "telegram_message_id": "131",
-      "telegram_url": "https://t.me/gamepulse_newss/131",
-      "telegram_published_at": "2026-09-24T02:02:27.679632+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/Stranger-Than-Heaven-18b29c67c5e5653016ce.jpg",
-      "threads_published_at": "2026-09-24T02:02:27.683032+00:00"
-    },
-    {
       "fingerprint": "fe891775c0bfa151a4cc7e93",
       "title": "Ретрохоррор Heartworm доберётся до консолей в октябре",
       "url": "https://stopgame.ru/newsdata/72933/retrohorror_heartworm_doberetsya_do_konsoley_v_oktyabre",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/foundations-new-commander-decks-ign-back-in-stock-1792148110129.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T12:02:47.122207+00:00"
+    },
+    {
+      "fingerprint": "0c1746d4366d375201134106",
+      "title": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
+      "url": "https://rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-16T12:02:35+00:00",
+      "score": 14,
+      "event_key": "cancelled assassins creed destiny leaked footage ancient china",
+      "title_ru": "В сети появились материалы отмененной Assassin’s Creed Destiny",
+      "threads_teaser_ru": "В интернете обнаружили кадры отмененной игры Assassin’s Creed Destiny для PC и консолей. Проект в сеттинге Древнего Китая разрабатывало подразделение Tencent.",
+      "telegram_message_id": "1340",
+      "telegram_url": "https://t.me/gamepulse_newss/1340",
+      "telegram_published_at": "2026-10-16T12:17:06.987155+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/assassins-creed-chronicles-china-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-16T12:02:47.122297+00:00"
+  "updated_at": "2026-10-16T12:17:06.987468+00:00"
 }
