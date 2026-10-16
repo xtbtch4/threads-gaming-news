@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bff1e367b066fcc806f413d6",
-      "title": "Where to find the reception door code in Silent Hill Townfall",
-      "url": "https://polygon.com/silent-hill-townfall-reception-door-code-puzzle-clinic",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T04:01:14+00:00",
-      "score": 6,
-      "event_key": "silent hill townfall reception door code guide",
-      "title_ru": "Как найти код от двери регистратуры в Silent Hill: Townfall",
-      "threads_teaser_ru": "Рассказываем, где найти код от запертой двери регистратуры в медицинской клинике в Silent Hill: Townfall во время миссии «Searching for Zoe», чтобы разблокировать точку сохранения.",
-      "telegram_message_id": "134",
-      "telegram_url": "https://t.me/gamepulse_newss/134",
-      "telegram_published_at": "2026-09-24T04:07:20.429070+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/silent-hill-townfall-reception-door-code-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T04:07:20.432257+00:00"
-    },
-    {
       "fingerprint": "69217753d378ade90cf363d9",
       "title": "How to unlock the Community Gardens gate in Silent Hill Townfall",
       "url": "https://polygon.com/silent-hill-townfall-unlock-the-community-gardens-gate-door-key-jane",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/scee-1792156800107.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T14:02:42.307495+00:00"
+    },
+    {
+      "fingerprint": "3756140a9989afe4b242cbd6",
+      "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+      "url": "https://eurogamer.net/galaxies-showcase-2026-games-roundup",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-16T15:04:58+00:00",
+      "score": 15,
+      "event_key": "galaxies showcase 2026 game announcements and trailers",
+      "title_ru": "Анонсы с презентации Galaxies Showcase",
+      "threads_teaser_ru": "На прошедшей презентации Galaxies Showcase показали подборку новых игр. Среди анонсов и демонстраций — проекты There are no Ghosts at the Grand, The Last Drive, Contact Protocol и другие.",
+      "telegram_message_id": "1343",
+      "telegram_url": "https://t.me/gamepulse_newss/1343",
+      "telegram_published_at": "2026-10-16T15:32:19.695194+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/deperson-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-16T14:02:42.307604+00:00"
+  "updated_at": "2026-10-16T15:32:19.695554+00:00"
 }
