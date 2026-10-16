@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cfa8a936f701207a4ca4597c",
-      "title": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
-      "url": "https://rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T12:00:00+00:00",
-      "score": 12,
-      "event_key": "discord_roll_out_revised_age_verification_system",
-      "title_ru": "Discord запустил обновленную систему возрастного подтверждения",
-      "threads_teaser_ru": "Discord начал глобальное внедрение обновленной системы возрастного подтверждения после задержки из-за критики пользователей. Более 90% игроков смогут обойтись без ручной проверки.",
-      "telegram_message_id": "162",
-      "telegram_url": "https://t.me/gamepulse_newss/162",
-      "telegram_published_at": "2026-09-24T12:06:35.398146+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/discordageverification.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T12:06:35.401440+00:00"
-    },
-    {
       "fingerprint": "35ca72ce88e95cccd25f64e6",
       "title": "'Magic: The Gathering's Coolest Planeswalker Is Finally Getting the Backstory He Deserves",
       "url": "https://polygon.com/mtg-mage-of-zhalfir-dark-horse-comics-teferi-preview",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T23:17:35.937185+00:00"
+    },
+    {
+      "fingerprint": "bc6533f0dbcf538160c6a376",
+      "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
+      "url": "https://ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T21:03:50+00:00",
+      "score": 9,
+      "event_key": "Castlevania: Belmont’s Curse developers comment on fan art character designs",
+      "title_ru": "Разработчики Castlevania: Belmont’s Curse оценили фанатский арт и дизайн персонажей",
+      "threads_teaser_ru": "Авторы Castlevania: Belmont’s Curse намеренно сделали персонажей «горячими» и рады откровенному фанатскому арту. Разработчики признались, что такой дизайн был осознанным решением, чтобы привлечь внимание аудитории к новой игре, вышедшей 15 октября.",
+      "telegram_message_id": "1371",
+      "telegram_url": "https://t.me/gamepulse_newss/1371",
+      "telegram_published_at": "2026-10-16T23:32:12.256386+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/castlevania-belmonts-curse-devs-made-the-characters-hot-on-purpose-1792184534105.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T23:17:35.937268+00:00"
+  "updated_at": "2026-10-16T23:32:12.256627+00:00"
 }
