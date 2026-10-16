@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bc85397988e99bf4b8623fa5",
-      "title": "We've stepped back into a war with the Cabal.",
-      "url": "https://ign.com/articles/new-report-sheds-light-on-what-will-and-wont-return-to-destiny-2-when-bungie-adds-back-vaulted-content",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T03:56:00+00:00",
-      "score": 8,
-      "event_key": "bungie returns vaulted content to destiny 2 for free",
-      "title_ru": "Bungie вернет часть удаленного контента в Destiny 2 бесплатно",
-      "threads_teaser_ru": "Bungie бесплатно вернет в Destiny 2 часть ранее удаленного контента, включая кампании и рейды. Однако более 25 сезонов дополнительного контента, праздничные события и патчи возвращать не планируют.",
-      "telegram_message_id": "153",
-      "telegram_url": "https://t.me/gamepulse_newss/153",
-      "telegram_published_at": "2026-09-24T11:16:36.183252+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/06/07/d2thefinalshape-review-blogroll-1717786592571.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T11:16:36.186342+00:00"
-    },
-    {
       "fingerprint": "93071895f804797b921fd736",
       "title": "I read all 337 books in Skyrim so you don't have to | Unraveled",
       "url": "https://polygon.com/video/i-read-all-337-books-in-skyrim-so-you-don-t-have-to-unraveled",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/gfix-101626-blogroll-1792180603361.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T21:02:32.338886+00:00"
+    },
+    {
+      "fingerprint": "f8af0d66c49c0cd70f5ded00",
+      "title": "Pokémon Reveals New 'Holiday Helper’ Plush Collection With a Christmas Tree Pikachu and Clodsire Sled",
+      "url": "https://ign.com/articles/pokemon-holiday-helper-plush-reveal",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T20:09:50+00:00",
+      "score": 11,
+      "event_key": "pokemon-holiday-helper-plush-collection-announced",
+      "title_ru": "Анонсирована праздничная коллекция плюшевых игрушек Pokémon Holiday Helper",
+      "threads_teaser_ru": "Компания Pokémon анонсировала новую праздничную коллекцию плюшевых игрушек «Holiday Helper». В нее вошли фигурки Pikachu в новогодних образах и Clodsire с санями.",
+      "telegram_message_id": "1362",
+      "telegram_url": "https://t.me/gamepulse_newss/1362",
+      "telegram_published_at": "2026-10-16T21:16:56.368040+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/christmaspika-1792176028788.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T21:02:32.338979+00:00"
+  "updated_at": "2026-10-16T21:16:56.368234+00:00"
 }
