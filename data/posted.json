@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "78a574afb8dd8f6655345cce",
-      "title": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
-      "url": "https://rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T11:32:32+00:00",
-      "score": 14,
-      "event_key": "beat-saber-biggest-update-flux-mode-hand-tracking",
-      "title_ru": "Beat Saber получит крупнейшее обновление в истории с режимом без мечей и трекингом рук",
-      "threads_teaser_ru": "Весной 2027 года для Beat Saber выйдет масштабное обновление с новым режимом Flux, поддержкой трекинга рук и обновленной кампанией.",
-      "telegram_message_id": "157",
-      "telegram_url": "https://t.me/gamepulse_newss/157",
-      "telegram_published_at": "2026-09-24T11:36:25.552083+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Beat-Saber-Flux-mode.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T11:36:25.554753+00:00"
-    },
-    {
       "fingerprint": "eb587995ef174879222194e3",
       "title": "Steven Spielberg's Forgotten Fantasy Masterpiece Officially Says Goodbye to Netflix",
       "url": "https://polygon.com/spielberg-always-netflix",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-XBOX-Game-Camp-Mexico-no-tagline-14501227b4e11fbbce23.jpg",
       "threads_published_at": "2026-10-16T22:02:42.800667+00:00"
+    },
+    {
+      "fingerprint": "f5caef7815fa9a658d1c33be",
+      "title": "Get warmed up for the new and returning sports in Nintendo Switch Sports Resort! – News – Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/get-warmed-up-for-the-new-and-returning-sports-in-nintendo-switch-sports-resort",
+      "source": "Nintendo",
+      "published_at_source": "2026-10-16T16:00:00+00:00",
+      "score": 10,
+      "event_key": "Nintendo Switch Sports Resort sports and release date announced",
+      "title_ru": "Анонсированы виды спорта в Nintendo Switch Sports Resort",
+      "threads_teaser_ru": "Nintendo раскрыла подробности Nintendo Switch Sports Resort для Nintendo Switch 2. В игре будет 12 дисциплин, включая стрельбу из лука, баскетбол и боулинг, а управление будет завязано на контроллерах Joy-Con 2. Релиз состоится 22 октября.",
+      "telegram_message_id": "1366",
+      "telegram_url": "https://t.me/gamepulse_newss/1366",
+      "telegram_published_at": "2026-10-16T22:17:07.157352+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-10-16T22:02:42.800763+00:00"
+  "updated_at": "2026-10-16T22:17:07.157660+00:00"
 }
