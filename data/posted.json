@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "323ffc30fbfa3eb59804f864",
-      "title": "Gremlins 3 Gets an Official Teaser, But There's Some Bad News",
-      "url": "https://polygon.com/gremlins-3-teaser-release-date-delay",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T08:46:17+00:00",
-      "score": 10,
-      "event_key": "gremlins-3-teaser-release-date-delay-warner-bros",
-      "title_ru": "Warner Bros. перенесла дату выхода фильма «Гремлины 3» и показала первый тизер",
-      "threads_teaser_ru": "Компания Warner Bros. показала первый тизер фильма «Гремлины 3» с возвращением Гизмо, но одновременно объявила о переносе долгожданной премьеры.",
-      "telegram_message_id": "140",
-      "telegram_url": "https://t.me/gamepulse_newss/140",
-      "telegram_published_at": "2026-09-24T08:52:09.729609+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gizmo-gremlins.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T08:52:09.732495+00:00"
-    },
-    {
       "fingerprint": "55be595f078d430a31e76686",
       "title": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
       "url": "https://eurogamer.net/destiny-2-unvaulted-content-details-report",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/beast-of-reincarnation-sad.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-16T17:02:43.855829+00:00"
+    },
+    {
+      "fingerprint": "91876dddb040fc2f60486b82",
+      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "url": "https://eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-16T17:11:28+00:00",
+      "score": 15,
+      "event_key": "analogue-announces-mega-sg-plus-super-nt-plus-consoles",
+      "title_ru": "Analogue анонсировала обновленные консоли Mega Sg+ и Super Nt+",
+      "threads_teaser_ru": "Analogue анонсировала ревизии ретро-консолей Mega Sg+ и Super Nt+ для запуска оригинальных картриджей Sega и Nintendo с современными функциями и поддержкой FPGA без эмуляции.",
+      "telegram_message_id": "1349",
+      "telegram_url": "https://t.me/gamepulse_newss/1349",
+      "telegram_published_at": "2026-10-16T17:17:12.060582+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-16T17:02:43.855924+00:00"
+  "updated_at": "2026-10-16T17:17:12.060744+00:00"
 }
