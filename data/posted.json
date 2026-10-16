@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3013d1ba48c966e34a994af4",
-      "title": "Smash Bros. owes millions of dollars in OSHA violations | Unraveled",
-      "url": "https://polygon.com/video/smash-bros-owes-millions-of-dollars-in-osha-violations-unraveled",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T11:30:52+00:00",
-      "score": 8,
-      "event_key": "smash-bros-stages-osha-violations-brian-david-gilbert",
-      "title_ru": "Брайан Дэвид Гилберт подсчитал нарушения OSHA на аренах Smash Bros. Ultimate",
-      "threads_teaser_ru": "Брайан Дэвид Гилберт изучил арены из Super Smash Bros. Ultimate через призму стандартов OSHA. Он выяснил, сколько нарушений скрывают уровни игры и во сколько обойдутся эти штрафы.",
-      "telegram_message_id": "156",
-      "telegram_url": "https://t.me/gamepulse_newss/156",
-      "telegram_published_at": "2026-09-24T11:32:28.104367+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/smash-bros-owes-millions-of-dollars-in-osha-violations-unraveled.jpeg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-09-24T11:32:28.107738+00:00"
-    },
-    {
       "fingerprint": "78a574afb8dd8f6655345cce",
       "title": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
       "url": "https://rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-movie-seemingly-original-adventure-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T21:47:48.839317+00:00"
+    },
+    {
+      "fingerprint": "e3a5b6568c86a1fc7816e651",
+      "title": "Celebrating the Next Generation of Latin American Game Creators",
+      "url": "https://news.xbox.com/en-us/2026/10/16/xbox-latin-american-latam-game-camp-id-xbox",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-16T15:00:00+00:00",
+      "score": 11,
+      "event_key": "Xbox Game Camp debut in Mexico City 2026",
+      "title_ru": "Xbox расширяет поддержку разработчиков из Латинской Америки",
+      "threads_teaser_ru": "Xbox проводит первый XBOX Game Camp в Мехико и продолжает поддержку латиноамериканских разработчиков. В фокусе — локальные культурные проекты и помощь студиям в выводе игр на мировой рынок. Узнайте, как программа ID@XBOX помогает авторам из этого региона.",
+      "telegram_message_id": "1365",
+      "telegram_url": "https://t.me/gamepulse_newss/1365",
+      "telegram_published_at": "2026-10-16T22:02:41.558872+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-XBOX-Game-Camp-Mexico-no-tagline-14501227b4e11fbbce23.jpg"
     }
   ],
-  "updated_at": "2026-10-16T21:47:48.839429+00:00"
+  "updated_at": "2026-10-16T22:02:41.559152+00:00"
 }
