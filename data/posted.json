@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "405f8980e450b9c7dea876e1",
-      "title": "It's me, I am the whale",
-      "url": "https://pcgamer.com/games/its-me-i-am-the-whale",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T11:23:39+00:00",
-      "score": 5,
-      "event_key": "star trek online loot boxes enterprise ship purchase",
-      "title_ru": "Редактор PC Gamer потратил деньги на лутбоксы в Star Trek Online ради редкого корабля",
-      "threads_teaser_ru": "Редактор PC Gamer признался, что потратил крупную сумму на новые лутбоксы в Star Trek Online ради главного приза — корабля «Энтерпрайз» из сериала «Дивные новые миры».",
-      "telegram_message_id": "128",
-      "telegram_url": "https://t.me/gamepulse_newss/128",
-      "telegram_published_at": "2026-09-24T01:21:58.626218+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/vweuZ27dru4PDPKh8TQ6qh-2560-80.jpg",
-      "threads_published_at": "2026-09-24T01:21:58.628801+00:00"
-    },
-    {
       "fingerprint": "f61b418e4203f5eb51bc951a",
       "title": "I have fallen to my own hubris",
       "url": "https://pcgamer.com/games/world-of-warcraft/i-have-fallen-to-my-own-hubris",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/call-of-duty-modern-warfare-4-south-korea-fire.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T11:02:28.102365+00:00"
+    },
+    {
+      "fingerprint": "d78cc9733af760504a644c91",
+      "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
+      "url": "https://eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-16T11:09:05+00:00",
+      "score": 11,
+      "event_key": "cd-projekt-red-hadar-development-update",
+      "title_ru": "CD Projekt Red назвала Hadar своим самым крупным проектом",
+      "threads_teaser_ru": "Руководство CD Projekt Red раскрыло новые подробности о загадочном проекте Hadar. Игра описывается как самый масштабный проект студии, но она все еще далека от релиза и даже не вышла на этап пре-производства.",
+      "telegram_message_id": "1337",
+      "telegram_url": "https://t.me/gamepulse_newss/1337",
+      "telegram_published_at": "2026-10-16T11:16:48.744437+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/what-is-cdpr-hadar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-16T11:02:28.102457+00:00"
+  "updated_at": "2026-10-16T11:16:48.744797+00:00"
 }
