@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "86f5062d1f74f4f4357dd7bf",
-      "title": "Ranking all 200+ Mega Man robots | Unraveled",
-      "url": "https://polygon.com/video/ranking-all-200-mega-man-robots-unraveled",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T11:22:42+00:00",
-      "score": 6,
-      "event_key": "brian-david-gilbert-ranks-mega-man-robots",
-      "title_ru": "Брайан Дэвид Гилберт ранжировал роботов из Mega Man",
-      "threads_teaser_ru": "Брайан Дэвид Гилберт заперся в студии, чтобы оценить полезность более чем 200 роботов-мастеров из серии Mega Man и выяснить, стоили ли они риска восстания машин.",
-      "telegram_message_id": "155",
-      "telegram_url": "https://t.me/gamepulse_newss/155",
-      "telegram_published_at": "2026-09-24T11:26:28.433724+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ranking-all-200-mega-man-robots-unraveled.jpeg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-09-24T11:26:28.436942+00:00"
-    },
-    {
       "fingerprint": "3013d1ba48c966e34a994af4",
       "title": "Smash Bros. owes millions of dollars in OSHA violations | Unraveled",
       "url": "https://polygon.com/video/smash-bros-owes-millions-of-dollars-in-osha-violations-unraveled",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2022/07/11/untitled-3-1657552827336.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T21:32:17.356841+00:00"
+    },
+    {
+      "fingerprint": "8289f6fa0fe77784c0fcc0f7",
+      "title": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move",
+      "url": "https://rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-16T15:15:40+00:00",
+      "score": 11,
+      "event_key": "CD Projekt Red confirms Cyberpunk 2077 movie is not a direct adaptation",
+      "title_ru": "Фильм по Cyberpunk 2077 не будет пересказывать сюжет игры",
+      "threads_teaser_ru": "Разработчики Cyberpunk 2077 подтвердили, что грядущая киноадаптация от Paramount Pictures не будет повторять сюжет видеоигры. Вместо этого зрителей ждет оригинальная история во вселенной Night City.",
+      "telegram_message_id": "1364",
+      "telegram_url": "https://t.me/gamepulse_newss/1364",
+      "telegram_published_at": "2026-10-16T21:47:47.286848+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-movie-seemingly-original-adventure-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-16T21:32:17.356934+00:00"
+  "updated_at": "2026-10-16T21:47:47.287205+00:00"
 }
