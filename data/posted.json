@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "29075adb1c3f69a205d8cbe1",
-      "title": "Nintendo Switch 2 Consoles Just Dropped to an All-Time Low Price in the UK",
-      "url": "https://ign.com/articles/nintendo-switch-2-uk-deal-lowest-price-ever",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T10:33:22+00:00",
-      "score": 6,
-      "event_key": "nintendo switch 2 lowest price uk sale",
-      "title_ru": "Nintendo Switch 2 подешевела до рекордного минимума в Великобритании",
-      "threads_teaser_ru": "Консоль Nintendo Switch 2 неожиданно подешевела в Великобритании до рекордной отметки в £354.99. Где искать скидку и сколько продлится акция?",
-      "telegram_message_id": "160",
-      "telegram_url": "https://t.me/gamepulse_newss/160",
-      "telegram_published_at": "2026-09-24T11:52:02.331326+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/switch-2-deal-uk-ign-1790245761638.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T11:52:02.334698+00:00"
-    },
-    {
       "fingerprint": "db3be016b237a6ecaac55246",
       "title": "Microsoft Culled Age of Empires Studio Before Handing It Over to Activision, With Nearly Half of All Staff Gone",
       "url": "https://ign.com/articles/microsoft-culled-age-of-empires-studio-before-handing-it-over-to-activision-with-nearly-half-of-all-staff-gone",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/007-first-light-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T22:47:03.671663+00:00"
+    },
+    {
+      "fingerprint": "7c5887cb3156a34112c1d034",
+      "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
+      "url": "https://ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T22:48:07+00:00",
+      "score": 11,
+      "event_key": "james gunn denies milly alcock rumors man of tomorrow update",
+      "title_ru": "James Gunn опроверг слухи об увольнении Milly Alcock и поделился новостями о Man of Tomorrow",
+      "threads_teaser_ru": "James Gunn опроверг слухи об увольнении Milly Alcock из проектов DC Studios и подтвердил, что покажет раннюю версию Man of Tomorrow Питеру Сафрану на месяц раньше срока.",
+      "telegram_message_id": "1369",
+      "telegram_url": "https://t.me/gamepulse_newss/1369",
+      "telegram_published_at": "2026-10-16T23:02:38.526767+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/23/supergirl-thumb-1782242447045.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T22:47:03.671756+00:00"
+  "updated_at": "2026-10-16T23:02:38.526893+00:00"
 }
