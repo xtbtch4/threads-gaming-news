@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "75704540cc711a772942aade",
-      "title": "AU Deals: Save $110 on this Super Fast 320Hz Gigabyte Monitor, Score a Free Copy of Street Fighter 6",
-      "url": "https://ign.com/articles/au-deals-save-110-on-this-super-fast-320hz-gigabyte-monitor-score-a-free-copy-of-street-fighter-6",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T06:43:23+00:00",
-      "score": 5,
-      "event_key": "gigabyte m27q3 monitor discount street fighter 6 promo ple computers",
-      "title_ru": "Скидка на монитор Gigabyte M27Q3 и бесплатная Street Fighter 6 в Австралии",
-      "threads_teaser_ru": "В австралийском магазине PLE Computers снижена цена на быстрый игровой монитор Gigabyte M27Q3 с частотой 320 Гц. До 15 октября к нему прилагается бесплатная копия Street Fighter 6.",
-      "telegram_message_id": "137",
-      "telegram_url": "https://t.me/gamepulse_newss/137",
-      "telegram_published_at": "2026-09-24T07:01:57.309459+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/gigabyte-m27q3-gaming-monitor-ign-deals-1790232178380.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T07:01:57.312318+00:00"
-    },
-    {
       "fingerprint": "f3c82405a874b25b7393df66",
       "title": "J.J. Abrams' Cult Classic \"X-Files Meets Buffy\" Sci-Fi Series Is Officially Free on Streaming",
       "url": "https://polygon.com/jennifer-garner-spy-thriller-stream-free",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/image18-81476707568c599dc77a.jpg",
       "threads_published_at": "2026-10-16T16:17:08.720556+00:00"
+    },
+    {
+      "fingerprint": "d70528e33292ae75f89f3ab4",
+      "title": "Subnautica 2 – “The Voyage to Early Access 2 Begins” Overview Trailer",
+      "url": "https://gamespot.com/videos/subnautica-2-the-voyage-to-early-access-2-begins-overview-trailer",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-16T15:53:40+00:00",
+      "score": 15,
+      "event_key": "Subnautica 2 The Voyage to Early Access 2 Dev Vlog",
+      "title_ru": "Трейлер Subnautica 2 посвящен началу серии дневников разработчиков",
+      "threads_teaser_ru": "Креативный директор Энтони Галлегос представил новую серию дневников разработчиков Subnautica 2 под названием The Voyage to Early Access 2, поделившись первыми кадрами и планами на будущее.",
+      "telegram_message_id": "1346",
+      "telegram_url": "https://t.me/gamepulse_newss/1346",
+      "telegram_published_at": "2026-10-16T16:32:27.077955+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/22.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-16T16:17:08.720643+00:00"
+  "updated_at": "2026-10-16T16:32:27.078240+00:00"
 }
