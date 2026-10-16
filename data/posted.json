@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f3c82405a874b25b7393df66",
-      "title": "J.J. Abrams' Cult Classic \"X-Files Meets Buffy\" Sci-Fi Series Is Officially Free on Streaming",
-      "url": "https://polygon.com/jennifer-garner-spy-thriller-stream-free",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T08:00:14+00:00",
-      "score": 10,
-      "event_key": "alias_tv_series_free_on_pluto_tv",
-      "title_ru": "Шпионский сериал «Шпионка» стал доступен для бесплатного просмотра",
-      "threads_teaser_ru": "Все пять сезонов шпионского сериала «Шпионка» с Дженнифер Гарнер теперь можно бесплатно посмотреть на стриминговом сервисе Pluto TV. Проект от Дж. Дж. Абрамса выходил с 2001 по 2006 год.",
-      "telegram_message_id": "138",
-      "telegram_url": "https://t.me/gamepulse_newss/138",
-      "telegram_published_at": "2026-09-24T08:02:23.103768+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jennifer-garner-alias-011626-b3b1c90344d542e5b058a40f629bb739.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4",
-      "threads_published_at": "2026-09-24T08:02:23.106561+00:00"
-    },
-    {
       "fingerprint": "071640b37c9d22f6ea739aaf",
       "title": "Minecraft LIVE Returns This Saturday",
       "url": "https://news.xbox.com/en-us/2026/09/24/minecraft-live-returns-this-saturday",
@@ -20490,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/22.jpg?w=300",
       "threads_published_at": "2026-10-16T16:32:28.479097+00:00"
+    },
+    {
+      "fingerprint": "d40ca1c2422724442ba0b5eb",
+      "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
+      "url": "https://rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-16T16:30:00+00:00",
+      "score": 14,
+      "event_key": "wardogs-season-2-faction-bonus-experiment-cancelled",
+      "title_ru": "Разработчики Wardogs отменили эксперимент с бонусами для одной фракции спустя сутки",
+      "threads_teaser_ru": "Авторы Wardogs свернули эксперимент с бонусами для одной из фракций всего через сутки после релиза Season 2. Ошибку признал глава студии Bulkhead, отметив дисбаланс в экономике.",
+      "telegram_message_id": "1347",
+      "telegram_url": "https://t.me/gamepulse_newss/1347",
+      "telegram_published_at": "2026-10-16T16:47:18.655608+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-16T16:32:28.479190+00:00"
+  "updated_at": "2026-10-16T16:47:18.655958+00:00"
 }
