@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "76f683471d5ef48298a6af11",
-      "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
-      "url": "https://rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T10:30:09+00:00",
-      "score": 8,
-      "event_key": "gta 4 dlss and fsr mod release",
-      "title_ru": "Мод для GTA 4 добавляет поддержку DLSS и FSR",
-      "threads_teaser_ru": "Новый мод DLSS IV добавляет в Grand Theft Auto 4 поддержку технологий DLSS, DLAA и FSR 3, позволяя улучшить графику игры 2008 года и избавиться от мерцания.",
-      "telegram_message_id": "149",
-      "telegram_url": "https://t.me/gamepulse_newss/149",
-      "telegram_published_at": "2026-09-24T10:32:19.740471+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-4-grand-theft-auto-iv-niko-bellic-show-off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T10:32:19.744029+00:00"
-    },
-    {
       "fingerprint": "1dd92878121d5000447ca780",
       "title": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series",
       "url": "https://rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/11/22/best-nvidia-black-friday-deals-laptops-uk-2024-1732273493347.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T19:47:05.490225+00:00"
+    },
+    {
+      "fingerprint": "cc07268c9d2dcfb4b9b11c4c",
+      "title": "I Bought a Steam Machine – Here’s Why (and How It’s Going)",
+      "url": "https://ign.com/articles/i-bought-a-steam-machine-heres-why-and-how-its-going",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T19:37:36+00:00",
+      "score": 11,
+      "event_key": "author buys steam machine after waitlist",
+      "title_ru": "Редактор IGN поделился опытом покупки Steam Machine",
+      "threads_teaser_ru": "Редактор IGN рассказал, почему решил приобрести Steam Machine, несмотря на высокую цену. Он объяснил это разочарованием в политике Sony и Microsoft, а также удобством SteamOS для своей библиотеки игр, хотя и признал, что устройство подойдет далеко не каждому.",
+      "telegram_message_id": "1358",
+      "telegram_url": "https://t.me/gamepulse_newss/1358",
+      "telegram_published_at": "2026-10-16T20:02:30.784525+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/steam-machine-blogroll-1792177637050.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T19:47:05.490348+00:00"
+  "updated_at": "2026-10-16T20:02:30.784840+00:00"
 }
