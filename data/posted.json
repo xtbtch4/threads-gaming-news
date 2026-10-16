@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "414c8174e1fe4af3a5673b5c",
-      "title": "Wistful about Myst VI",
-      "url": "https://pcgamer.com/games/wistful-about-myst-vi",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T15:42:56+00:00",
-      "score": 6,
-      "event_key": "cyan cancels myst project with noshir dalal",
-      "title_ru": "Стало известно об отмене проекта по вселенной Myst",
-      "threads_teaser_ru": "Студия Cyan два месяца назад показала фрагмент отмененного проекта по франшизе Myst. В ролике засветился яркий антагонист в исполнении Ношира Далала, чей образ запомнился авторам PC Gamer. Похоже, полноценную игру с этим персонажем мы так и не увидим.",
-      "telegram_message_id": "117",
-      "telegram_url": "https://t.me/gamepulse_newss/117",
-      "telegram_published_at": "2026-09-24T00:27:09.990907+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BZTRESXyKZEHui3537rKGm-2560-80.jpg",
-      "threads_published_at": "2026-09-24T00:27:09.993638+00:00"
-    },
-    {
       "fingerprint": "7bbe915c65a3bacc151632cb",
       "title": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)",
       "url": "https://pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/brottardisplaycabinet-1792099208103.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-15T22:32:41.609865+00:00"
+    },
+    {
+      "fingerprint": "d01e12537bf95fea49342202",
+      "title": "'I Just Sort of Disconnect' — Jeff Kaplan is Avoiding Overwatch at all Costs",
+      "url": "https://ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
+      "source": "IGN",
+      "published_at_source": "2026-10-15T23:44:16+00:00",
+      "score": 11,
+      "event_key": "Jeff Kaplan avoids Overwatch content and community discussions",
+      "title_ru": "Джефф Каплан рассказал, почему полностью избегает Overwatch",
+      "threads_teaser_ru": "Бывший руководитель разработки Overwatch Джефф Каплан признался, что с 2021 года полностью исключил эту игру из своей жизни. Он не только перестал играть, но и намеренно игнорирует любой контент, связанный с проектом, включая соцсети и YouTube.",
+      "telegram_message_id": "1326",
+      "telegram_url": "https://t.me/gamepulse_newss/1326",
+      "telegram_published_at": "2026-10-16T00:03:03.118619+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/jeff-kaplan-avoids-reading-ovw-subreddits-1792107785773.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-15T22:32:41.609983+00:00"
+  "updated_at": "2026-10-16T00:03:03.118977+00:00"
 }
