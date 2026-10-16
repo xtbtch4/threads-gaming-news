@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b44bef4bfc559e721839bd30",
-      "title": "Console rumour time #235",
-      "url": "https://pcgamer.com/hardware/console-rumour-time-235",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T14:10:02+00:00",
-      "score": 6,
-      "event_key": "next gen console performance leaks keplerl2",
-      "title_ru": "Слухи о производительности консолей нового поколения",
-      "threads_teaser_ru": "Инсайдер KeplerL2 поделился прогнозом производительности консолей нового поколения: по его данным, PS6 получит 40 терафлопс, а будущая система от Xbox — 56 терафлопс.",
-      "telegram_message_id": "119",
-      "telegram_url": "https://t.me/gamepulse_newss/119",
-      "telegram_published_at": "2026-09-24T00:36:37.772513+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kJZdLtiPa9hNmZbVPD5gUU-2560-80.jpg",
-      "threads_published_at": "2026-09-24T00:36:37.775371+00:00"
-    },
-    {
       "fingerprint": "b3fa7871def9bfea92d0b687",
       "title": "A tribute to PC Gamer's first MMO characters—may they never be forgotten",
       "url": "https://pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/10/controlthumb-1789054804916.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T00:17:45.974795+00:00"
+    },
+    {
+      "fingerprint": "af83ea01799b7ed52772a4d2",
+      "title": "Save 34% Off the Storied Klipsch ProMedia 2.1 Lumina Computer Speakers Well Ahead of Black Friday",
+      "url": "https://ign.com/articles/klipsch-promedia-21-lumina-computer-speaker-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T00:20:00+00:00",
+      "score": 11,
+      "event_key": "discount on Klipsch ProMedia Lumina 2.1 speakers",
+      "title_ru": "Акустическая система Klipsch ProMedia Lumina 2.1 получила скидку 34%",
+      "threads_teaser_ru": "Акустическая система Klipsch ProMedia Lumina 2.1 подешевела на 34%. Обновленная версия с USB Type-C, Bluetooth 5.3 и настраиваемым приложением теперь стоит $249,99.",
+      "telegram_message_id": "1328",
+      "telegram_url": "https://t.me/gamepulse_newss/1328",
+      "telegram_published_at": "2026-10-16T01:02:27.572916+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/klipschpromedialumina-1792105702555.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T00:17:45.974890+00:00"
+  "updated_at": "2026-10-16T01:02:27.573309+00:00"
 }
