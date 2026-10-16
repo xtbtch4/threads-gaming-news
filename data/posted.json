@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "071640b37c9d22f6ea739aaf",
-      "title": "Minecraft LIVE Returns This Saturday",
-      "url": "https://news.xbox.com/en-us/2026/09/24/minecraft-live-returns-this-saturday",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-24T08:37:50+00:00",
-      "score": 12,
-      "event_key": "minecraft live returns this saturday 2026",
-      "title_ru": "Minecraft Live возвращается в эту субботу",
-      "threads_teaser_ru": "Стало известно о возвращении мероприятия Minecraft Live, которое пройдет уже в эту субботу. Официальные подробности и трансляция ожидаются нановостинх площадках.",
-      "telegram_message_id": "139",
-      "telegram_url": "https://t.me/gamepulse_newss/139",
-      "telegram_published_at": "2026-09-24T08:41:40.766163+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Announce-Key-Art-e86c38da60467e4964a3.png",
-      "threads_published_at": "2026-09-24T08:41:40.769064+00:00"
-    },
-    {
       "fingerprint": "323ffc30fbfa3eb59804f864",
       "title": "Gremlins 3 Gets an Official Teaser, But There's Some Bad News",
       "url": "https://polygon.com/gremlins-3-teaser-release-date-delay",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T16:47:20.261663+00:00"
+    },
+    {
+      "fingerprint": "50578757adc5de0dcc587799",
+      "title": "Game Freak Announces End of Beast of Reincarnation’s Post-Launch Updates",
+      "url": "https://polygon.com/beast-of-reincarnation-game-freak-pokemon-updates-ending",
+      "source": "Polygon",
+      "published_at_source": "2026-10-16T16:24:34+00:00",
+      "score": 14,
+      "event_key": "game-freak-ends-beast-of-reincarnation-updates",
+      "title_ru": "Game Freak завершает цикл пострелизных обновлений для Beast of Reincarnation",
+      "threads_teaser_ru": "Game Freak сворачивает регулярные пострелизные обновления для экшен-RPG Beast of Reincarnation всего через два месяца после релиза. Последний патч текущего цикла выйдет 19 октября, после чего студия переключится на другие проекты.",
+      "telegram_message_id": "1348",
+      "telegram_url": "https://t.me/gamepulse_newss/1348",
+      "telegram_published_at": "2026-10-16T17:02:42.178582+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/beast-of-reincarnation-sad.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-16T16:47:20.261773+00:00"
+  "updated_at": "2026-10-16T17:02:42.178892+00:00"
 }
