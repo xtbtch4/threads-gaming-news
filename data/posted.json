@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "47f7215d01709ffd9df72f2b",
-      "title": "Halo Stopped Being Relevant A Long Time Ago",
-      "url": "https://gamespot.com/articles/halo-stopped-being-relevant-a-long-time-ago",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-23T13:25:00+00:00",
-      "score": 6,
-      "event_key": "halo lost relevance and shooter innovation",
-      "title_ru": "Halo потеряла былую актуальность",
-      "threads_teaser_ru": "Игровое издание GameSpot оценило текущее положение культовой серии Halo и пришло к выводу, что франшиза уже давно утратила статус главного революционера в жанре шутеров.",
-      "telegram_message_id": "124",
-      "telegram_url": "https://t.me/gamepulse_newss/124",
-      "telegram_published_at": "2026-09-24T01:03:15.629585+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-09-24T01:03:15.632251+00:00"
-    },
-    {
       "fingerprint": "acb5c6cbc465536529f60552",
       "title": "Dark Souls 2 seamless co-op mod is out now in alpha form, paving the way for more boss battering with mates",
       "url": "https://rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-out-now-in-alpha-form-paving-the-way-for-more-boss-battering-with-mates",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/humankind-2-battle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T09:47:36.637704+00:00"
+    },
+    {
+      "fingerprint": "a8692aae689b27824153ae6c",
+      "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+      "url": "https://ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T09:13:30+00:00",
+      "score": 13,
+      "event_key": "Rockstar Games real-life GTA 6 car marketing event Miami",
+      "title_ru": "Rockstar проводит масштабную рекламную кампанию GTA 6 в Майами",
+      "threads_teaser_ru": "Rockstar Games устроила настоящий автопарад в Майами для продвижения GTA 6. По улицам проехали реальные машины, стилизованные под внутриигровые авто с номерными знаками из штата Leonida. В колонне даже заметили полицейский Lamborghini в ливрее VCPD.",
+      "telegram_message_id": "1333",
+      "telegram_url": "https://t.me/gamepulse_newss/1333",
+      "telegram_published_at": "2026-10-16T10:02:39.755093+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/vintage-vice-city-pack-vapid-stanier-02-1792141997261.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T09:47:36.637802+00:00"
+  "updated_at": "2026-10-16T10:02:39.755379+00:00"
 }
