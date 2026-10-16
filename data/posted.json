@@ -20487,9 +20487,10 @@
       "telegram_message_id": "1365",
       "telegram_url": "https://t.me/gamepulse_newss/1365",
       "telegram_published_at": "2026-10-16T22:02:41.558872+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-XBOX-Game-Camp-Mexico-no-tagline-14501227b4e11fbbce23.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-XBOX-Game-Camp-Mexico-no-tagline-14501227b4e11fbbce23.jpg",
+      "threads_published_at": "2026-10-16T22:02:42.800667+00:00"
     }
   ],
-  "updated_at": "2026-10-16T22:02:41.559152+00:00"
+  "updated_at": "2026-10-16T22:02:42.800763+00:00"
 }
