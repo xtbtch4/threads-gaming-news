@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5e161d0ed0d7dcabe6454cca",
-      "title": "Esports tournaments do it better in person",
-      "url": "https://pcgamer.com/games/esports-tournaments-do-it-better-in-person",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T08:24:46+00:00",
-      "score": 5,
-      "event_key": "counter strike 2 tournament logitech g play warsaw",
-      "title_ru": "Впечатления от турнира по Counter-Strike 2 в Варшаве",
-      "threads_teaser_ru": "Автор PC Gamer посетил турнир по Counter-Strike 2 на площадке Logitech G Play в Варшаве и оценил преимущества живых киберспортивных мероприятий.",
-      "telegram_message_id": "130",
-      "telegram_url": "https://t.me/gamepulse_newss/130",
-      "telegram_published_at": "2026-09-24T01:32:36.833430+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/TSxQmjLe7zyw462LYsP9fg-1186-80.jpg",
-      "threads_published_at": "2026-09-24T01:32:36.836452+00:00"
-    },
-    {
       "fingerprint": "7f5c63553aba57ef935bd332",
       "title": "Meet Key Players Shaping Makoto Daito’s Journey in STRANGER THAN HEAVEN",
       "url": "https://news.xbox.com/en-us/2026/09/23/stranger-than-heaven-full-cast-character-reveal-xbox-sega",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-one-piece-luffy.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-16T11:47:12.073672+00:00"
+    },
+    {
+      "fingerprint": "024e442a4fd238bec0d69ee1",
+      "title": "MTG's New Foundations Commander Decks Return to Online Retailers After Stock Shortages",
+      "url": "https://ign.com/articles/magic-the-gatherings-new-foundations-decks-back-in-stock",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T11:03:56+00:00",
+      "score": 11,
+      "event_key": "magic the gathering foundations commander decks restock",
+      "title_ru": "Наборы Magic: The Gathering Foundations Commander снова появились в продаже",
+      "threads_teaser_ru": "Новые наборы Magic: The Gathering Foundations Commander вернулись в продажу после октябрьского дефицита. Узнайте, какие колоды уже доступны на Amazon, а какие продолжают дорожать на вторичном рынке.",
+      "telegram_message_id": "1339",
+      "telegram_url": "https://t.me/gamepulse_newss/1339",
+      "telegram_published_at": "2026-10-16T12:02:45.583254+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/foundations-new-commander-decks-ign-back-in-stock-1792148110129.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-16T11:47:12.073771+00:00"
+  "updated_at": "2026-10-16T12:02:45.583541+00:00"
 }
