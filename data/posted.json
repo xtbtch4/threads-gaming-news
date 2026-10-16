@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b3fa7871def9bfea92d0b687",
-      "title": "A tribute to PC Gamer's first MMO characters—may they never be forgotten",
-      "url": "https://pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten",
-      "source": "PC Gamer",
-      "published_at_source": "2026-09-23T13:28:46+00:00",
-      "score": 6,
-      "event_key": "pc gamer editors share memories of first mmo characters",
-      "title_ru": "Воспоминания редакции PC Gamer о первых персонажах в MMO",
-      "threads_teaser_ru": "Редакция PC Gamer вспомнила свои первые шаги в жанре MMORPG — от неуклюжих разбойников в World of Warcraft до страха перед открытым миром в EverQuest.",
-      "telegram_message_id": "120",
-      "telegram_url": "https://t.me/gamepulse_newss/120",
-      "telegram_published_at": "2026-09-24T00:42:02.477810+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QXbzZyXRydap5Vd7Mafx3X-1920-80.jpg",
-      "threads_published_at": "2026-09-24T00:42:02.480291+00:00"
-    },
-    {
       "fingerprint": "f124f4ade376bc14a7c484b9",
       "title": "I crammed 20 anime figures inside my gaming PC to see how it affects thermal performance. Yes, you can call me a scientist now",
       "url": "https://pcgamer.com/hardware/pc-cases/i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it-affects-thermal-performance-yes-you-can-call-me-a-scientist-now",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/klipschpromedialumina-1792105702555.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-16T01:02:28.835207+00:00"
+    },
+    {
+      "fingerprint": "20e343cbd6acdea9b849876a",
+      "title": "The Batman Part 2 to Resume Filming With New Director",
+      "url": "https://polygon.com/the-batman-part-2-steven-soderbergh-production-update",
+      "source": "Polygon",
+      "published_at_source": "2026-10-16T01:36:53+00:00",
+      "score": 12,
+      "event_key": "Steven Soderbergh directs The Batman Part 2 filming pause",
+      "title_ru": "Steven Soderbergh поможет завершить съемки The Batman Part 2",
+      "threads_teaser_ru": "Steven Soderbergh поможет Мэтту Ривзу завершить съемки The Batman Part 2. Режиссер основного фильма временно отошел от дел по семейным обстоятельствам. Пока непонятно, как эта пауза повлияет на дату выхода в 2028 году.",
+      "telegram_message_id": "1329",
+      "telegram_url": "https://t.me/gamepulse_newss/1329",
+      "telegram_published_at": "2026-10-16T01:47:47.729920+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23277204/rev_1_TBM_63105r_High_Res_JPEG.jpeg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-16T01:02:28.835309+00:00"
+  "updated_at": "2026-10-16T01:47:47.730054+00:00"
 }
