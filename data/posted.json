@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1ab58feeb83cd287c462a637",
-      "title": "Injustice 3 Rumor Sparks Response From NetherRealm's Ed Boon",
-      "url": "https://ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T10:04:29+00:00",
-      "score": 9,
-      "event_key": "ed-boon-responds-to-injustice-3-rumors",
-      "title_ru": "Эд Бун прокомментировал слухи о разработке Injustice 3",
-      "threads_teaser_ru": "Глава NetherRealm Эд Бун прокомментировал слухи вокруг студии и возможной разработки Injustice 3. По его словам, отсутствие внешнего тестирования игры прямо сейчас не значит, что проект не создается.",
-      "telegram_message_id": "151",
-      "telegram_url": "https://t.me/gamepulse_newss/151",
-      "telegram_published_at": "2026-09-24T11:07:00.826744+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/quinn-1790244047729.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T11:07:00.829700+00:00"
-    },
-    {
       "fingerprint": "9ff381a9f5aa78cf0e6da92f",
       "title": "Solving the Zelda Timeline in 15 Minutes | Unraveled",
       "url": "https://polygon.com/video/solving-the-zelda-timeline-in-15-minutes-unraveled",
@@ -20489,7 +20472,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/the-blood-of-dawnwalker-review-03.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-16T20:17:32.120721+00:00"
+    },
+    {
+      "fingerprint": "6712c9fc9fbe474241086b85",
+      "title": "Battlefield 6 Is Free on Steam, but Not for Long",
+      "url": "https://polygon.com/battlefield-6-free-to-play-steam-october-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-10-16T16:15:00+00:00",
+      "score": 11,
+      "event_key": "Battlefield 6 free to play steam trial season 5",
+      "title_ru": "Battlefield 6 стал временно бесплатным в Steam",
+      "threads_teaser_ru": "В Battlefield 6 стартовал пятый сезон, и до 20 октября в шутер можно сыграть бесплатно в Steam. Обновление добавило новые карты, оружие и намекнуло на грядущий кроссовер с Dead Space. Игроки также обсуждают возможные ошибки в дизайне косметики, вызванные предполагаемым использованием ИИ.",
+      "telegram_message_id": "1360",
+      "telegram_url": "https://t.me/gamepulse_newss/1360",
+      "telegram_published_at": "2026-10-16T20:32:49.758374+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/battlefield-6-key-art.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/battlefield-6-season-5-las-vegas-gameplay-trailer-1792164222.mp4"
     }
   ],
-  "updated_at": "2026-10-16T20:17:32.120808+00:00"
+  "updated_at": "2026-10-16T20:32:49.758535+00:00"
 }
