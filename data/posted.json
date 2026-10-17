@@ -20485,10 +20485,11 @@
       "telegram_message_id": "1396",
       "telegram_url": "https://t.me/gamepulse_newss/1396",
       "telegram_published_at": "2026-10-17T09:17:36.115160+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25174329/O_f2840_0210_comp_v005_2000x1081_thumbnail.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4",
+      "threads_published_at": "2026-10-17T09:17:37.590731+00:00"
     }
   ],
-  "updated_at": "2026-10-17T09:17:36.115627+00:00"
+  "updated_at": "2026-10-17T09:17:37.590836+00:00"
 }
