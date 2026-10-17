@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a564568e6a63cf39a5df16b4",
-      "title": "FC's The Grounds is Here – An Open World Built for Clubs and Community",
-      "url": "https://ea.com/news/ea-fc-the-grounds-is-here",
-      "source": "Electronic Arts",
-      "published_at_source": "2026-09-24T16:00:00+00:00",
-      "score": 11,
-      "event_key": "ea sports fc 27 the grounds announcement",
-      "title_ru": "EA анонсировала The Grounds для EA SPORTS FC 27",
-      "threads_teaser_ru": "В EA SPORTS FC 27 появится The Grounds — открытый мир для режима Clubs и сообщества на 100 игроков. Три аутентичных района, новые форматы матчей, турниры и звездные наставники.",
-      "telegram_message_id": "193",
-      "telegram_url": "https://t.me/gamepulse_newss/193",
-      "telegram_published_at": "2026-09-24T16:32:17.370795+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/4F9qnh8P6o2UzUM4t3aYqo/87f1750668adc840910a5c08d0849f62/fc-27-guide-hub-navigate-the-grounds-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
-      "threads_published_at": "2026-09-24T16:32:17.374442+00:00"
-    },
-    {
       "fingerprint": "64af88c6003fdb091491c5ea",
       "title": "GTA 6 Collector’s Box Officially Revealed and It Doesn’t Include the Game",
       "url": "https://polygon.com/gta-6-vice-city-collection-announced-price-features",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300",
       "threads_published_at": "2026-10-17T07:47:09.383019+00:00"
+    },
+    {
+      "fingerprint": "64d9aa2a4038591806a9833f",
+      "title": "Street Fighter Star Roman Reigns Says Gaming Has Replaced Some Of Wrestling’s Old “Extracurricular” Activities",
+      "url": "https://gamespot.com/articles/street-fighter-star-roman-reigns-says-gaming-has-replaced-some-of-wrestlings-old-extracurricular-activities",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-16T08:36:00+00:00",
+      "score": 5,
+      "event_key": "roman reigns discusses gaming influence on wrestling industry culture",
+      "title_ru": "Roman Reigns: видеоигры заменили старые «внеклассные» занятия рестлеров",
+      "threads_teaser_ru": "Рестлер Roman Reigns рассказал, как видеоигры изменили досуг профессиональных бойцов, вытеснив старые привычки. Тем временем другие звезды ринга, включая Kenny Omega, уже давно делают гейминг частью своего сценического образа.",
+      "telegram_message_id": "1394",
+      "telegram_url": "https://t.me/gamepulse_newss/1394",
+      "telegram_published_at": "2026-10-17T08:02:59.126002+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-17T07:47:09.383103+00:00"
+  "updated_at": "2026-10-17T08:02:59.126346+00:00"
 }
