@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "89a60baf304fdf00eeca65a5",
-      "title": "Xbox’s New Mythic Achievements Take 15 Seconds To Tell You “Good Job”",
-      "url": "https://gamespot.com/articles/xboxs-new-mythic-achievements-take-15-seconds-to-tell-you-good-job",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T12:12:08+00:00",
-      "score": 15,
-      "event_key": "xbox introduces mythic achievements with lengthy animations",
-      "title_ru": "В Xbox появились редкие «мифические» достижения",
-      "threads_teaser_ru": "В Xbox появились новые «мифические» достижения, которые выдаются за выполнение всех стандартных наград в игре и сопровождаются 15-секундной анимацией.",
-      "telegram_message_id": "165",
-      "telegram_url": "https://t.me/gamepulse_newss/165",
-      "telegram_published_at": "2026-09-24T12:46:35.249636+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-Mythic.jpg?w=300",
-      "threads_published_at": "2026-09-24T12:46:35.252881+00:00"
-    },
-    {
       "fingerprint": "6d5ea30a67f2f69c77ed5611",
       "title": "Luma Island is coming to PS5",
       "url": "https://blog.playstation.com/2026/09/24/luma-island-is-coming-to-ps5",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/red-rising-movie-adaptation-paramount-1792191965565.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-17T00:02:34.655791+00:00"
+    },
+    {
+      "fingerprint": "cc81101215b57bbb347e1069",
+      "title": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
+      "url": "https://ign.com/articles/specs-snaps-first-ever-ar-glasses-ships-out-this-fall",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T19:40:00+00:00",
+      "score": 8,
+      "event_key": "Snap Inc announces SPECS augmented reality glasses",
+      "title_ru": "Snap анонсировала AR-очки SPECS",
+      "threads_teaser_ru": "Компания Snap Inc. представила свои первые очки дополненной реальности — SPECS. Устройство с поддержкой ИИ, процессорами Snapdragon и 4-часовым временем работы от аккумулятора оценили в 2195 долларов.",
+      "telegram_message_id": "1374",
+      "telegram_url": "https://t.me/gamepulse_newss/1374",
+      "telegram_published_at": "2026-10-17T00:16:59.751807+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/specsjackharlow-1791922650971.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-17T00:02:34.655875+00:00"
+  "updated_at": "2026-10-17T00:16:59.752128+00:00"
 }
