@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1c35b8bd008cdf8993137545",
-      "title": "Bethesda Ditches Divisive Quake Game's Free-To-Play Model in Final Update",
-      "url": "https://polygon.com/quake-championship-bethesda-final-update-id-software",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T15:29:14+00:00",
-      "score": 14,
-      "event_key": "Quake Champions final update paid model transition",
-      "title_ru": "Quake Champions переходит на платную модель в рамках финального обновления",
-      "threads_teaser_ru": "Quake Champions больше не бесплатна: Bethesda выпустила финальное обновление, которое переводит шутер на платную модель в Steam. Все чемпионы и контент прошлых сезонов теперь доступны игрокам без микротранзакций, однако новых обновлений контента больше не будет.",
-      "telegram_message_id": "187",
-      "telegram_url": "https://t.me/gamepulse_newss/187",
-      "telegram_published_at": "2026-09-24T16:07:07.318390+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8457925/quake_champions_ranger_2560.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T16:07:07.321828+00:00"
-    },
-    {
       "fingerprint": "9e3cfe79970746a39b929618",
       "title": "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed — and It's Exactly What Everyone Suspected",
       "url": "https://ign.com/articles/warhammer-40000-space-marine-2s-new-class-is-finally-confirmed-and-its-exactly-what-everyone-suspected",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
       "threads_published_at": "2026-10-17T04:48:00.618460+00:00"
+    },
+    {
+      "fingerprint": "f0708b0f9aa6dcffb4d70f45",
+      "title": "Meet the Solos AirGo V2: Smart Glasses That Pack Powerful AI Into a Sleek, Modular Design",
+      "url": "https://ign.com/articles/solos-airgo-v2-smart-glasses",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T19:50:00+00:00",
+      "score": 6,
+      "event_key": "solos launches airgo v2 smart glasses with modular design",
+      "title_ru": "Представлены умные очки Solos AirGo V2 с модульным дизайном",
+      "threads_teaser_ru": "Solos представила умные очки AirGo V2 с 16-мегапиксельной камерой и глубокой интеграцией ИИ. Главная особенность модели — модульный дизайн, позволяющий при необходимости полностью снять камеру для обеспечения конфиденциальности.",
+      "telegram_message_id": "1389",
+      "telegram_url": "https://t.me/gamepulse_newss/1389",
+      "telegram_published_at": "2026-10-17T05:02:36.054172+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/untitled-design-21-1792105238888.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-17T04:48:00.618546+00:00"
+  "updated_at": "2026-10-17T05:02:36.054408+00:00"
 }
