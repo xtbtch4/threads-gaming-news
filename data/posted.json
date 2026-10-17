@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "754594b6eff196f63a1b6093",
-      "title": "Duskfade Makes Boss Fights Feel Poignant",
-      "url": "https://gamespot.com/articles/duskfade-makes-boss-fights-feel-poignant",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T15:11:10+00:00",
-      "score": 13,
-      "event_key": "duskfade emotional boss fights and story review",
-      "title_ru": "Как Duskfade превращает битвы с боссами в эмоциональную историю",
-      "threads_teaser_ru": "Экшен-платформер Duskfade выделяется своей историей о горе и утрате, где битвы с боссами-автоматонами отражают эмоции главной героини Аллиры.",
-      "telegram_message_id": "183",
-      "telegram_url": "https://t.me/gamepulse_newss/183",
-      "telegram_published_at": "2026-09-24T15:29:13.566195+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ss_258e28424b24c31f56bcdf8b6ad82a2f5a7dea97.1920x1080.jpg?w=300",
-      "threads_published_at": "2026-09-24T15:29:13.569170+00:00"
-    },
-    {
       "fingerprint": "bcad94d90229f09118bdde0d",
       "title": "Counter-Strike 2’s Wildest New Update in Years is Officially Live",
       "url": "https://polygon.com/counter-strike-2-update-chickens-valve-cs2",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/mfisherhino-1792185174919.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-17T03:16:54.252202+00:00"
+    },
+    {
+      "fingerprint": "ffa12b648a25e1d5f30c725e",
+      "title": "What Happened to Modern Technology in Avatar: Seven Havens?",
+      "url": "https://ign.com/articles/what-happened-to-modern-technology-in-avatar-seven-havens",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T20:40:03+00:00",
+      "score": 6,
+      "event_key": "technology state analysis in Avatar: Seven Havens series",
+      "title_ru": "Что произошло с современными технологиями в сериале Avatar: Seven Havens",
+      "threads_teaser_ru": "В сериале Avatar: Seven Havens герои пользуются лишь примитивными радиоприемниками и генераторами, хотя спустя 225 лет после The Legend of Korra технологии должны были шагнуть далеко вперед. Разбираемся, что могло привести к такому упадку и причем здесь энергия духовных лиан.",
+      "telegram_message_id": "1386",
+      "telegram_url": "https://t.me/gamepulse_newss/1386",
+      "telegram_published_at": "2026-10-17T03:47:22.805478+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/screenshot-2026-10-16-135919-1792184488424.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-17T03:16:54.252281+00:00"
+  "updated_at": "2026-10-17T03:47:22.805791+00:00"
 }
