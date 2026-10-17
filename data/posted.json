@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3a11289166d8907513a1caa5",
-      "title": "The Witcher 3 Is 50% Off Ahead of Next Week’s Free Remaster Upgrade",
-      "url": "https://ign.com/articles/the-witcher-3-is-on-sale-ahead-of-next-weeks-free-remaster-upgrade",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T13:50:29+00:00",
-      "score": 8,
-      "event_key": "witcher 3 sale and free remaster upgrade september",
-      "title_ru": "The Witcher 3 продается со скидкой 50% перед релизом ремастера",
-      "threads_teaser_ru": "The Witcher 3: Wild Hunt — Complete Edition отдают со скидкой 50% перед выходом бесплатного ремастера, который состоится 29 сентября. Акция действует на PC, Xbox и PlayStation.",
-      "telegram_message_id": "180",
-      "telegram_url": "https://t.me/gamepulse_newss/180",
-      "telegram_published_at": "2026-09-24T14:47:43.392122+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/the-witcher-3-wild-hunt-geraltciri-rgb-1790257640294.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T14:47:43.395557+00:00"
-    },
-    {
       "fingerprint": "b01df3a6a0a2b871be20451f",
       "title": "Free Play Days – PGA TOUR 2K25, The Escapists 2, Young Suns, and The Division 2",
       "url": "https://news.xbox.com/en-us/2026/09/24/free-play-days-09-24-2026",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/nonolith.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-17T02:48:56.317207+00:00"
+    },
+    {
+      "fingerprint": "3f696e0614e5367045c15fd3",
+      "title": "New Zelda: Ocarina of Time trailer reveals Dark Link New Zelda: Ocarina of Time trailer reveals Dark Link",
+      "url": "https://polygon.com/legend-of-zelda-ocarina-of-time-new-trailers-dark-link",
+      "source": "Polygon",
+      "published_at_source": "2026-10-16T07:48:00+00:00",
+      "score": 7,
+      "event_key": "new trailers for The Legend of Zelda: Ocarina of Time remake",
+      "title_ru": "Nintendo выпустила два новых трейлера ремейка The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Nintendo показала новые трейлеры ремейка The Legend of Zelda: Ocarina of Time. В роликах засветился Dark Link, а журналисты Polygon уже успели опробовать игру и высоко оценили техническое исполнение и обновленный геймплей перед скорым выходом проекта.",
+      "telegram_message_id": "1384",
+      "telegram_url": "https://t.me/gamepulse_newss/1384",
+      "telegram_published_at": "2026-10-17T03:02:36.679216+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-17T02:48:56.317294+00:00"
+  "updated_at": "2026-10-17T03:02:36.679514+00:00"
 }
