@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d0059c9f4a171f680c87da4b",
-      "title": "The $1,299 Meta VR Glasses Prove That High Prices are the New Normal",
-      "url": "https://ign.com/articles/the-1299-meta-vr-glasses-prove-that-high-prices-are-the-new-normal",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T16:58:16+00:00",
-      "score": 15,
-      "event_key": "meta_announced_vr_glasses_1299_dollars",
-      "title_ru": "Meta анонсировала новые VR-очки за $1299",
-      "threads_teaser_ru": "Компания Meta представила новые VR-очки ценой в $1299. Устройство весит всего 100 граммов, а все вычисления берет на себя специальный карманный блок с чипом от Qualcomm.",
-      "telegram_message_id": "200",
-      "telegram_url": "https://t.me/gamepulse_newss/200",
-      "telegram_published_at": "2026-09-24T17:07:37.958233+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/meta-vr-glasses-thumb-1790204589667.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T17:07:37.961339+00:00"
-    },
-    {
       "fingerprint": "6c790a5e6c22dc777df5bac1",
       "title": "Starbucks Japan Is Getting a Massive Pokémon Collection — Including a Pikachu-Themed Latte",
       "url": "https://ign.com/articles/starbucks-japan-x-pokemon-collaboration-announced",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/01/sfthumb-1788279211859.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-17T12:16:45.080852+00:00"
+    },
+    {
+      "fingerprint": "afa443dc5fec105af3e72db8",
+      "title": "Silver Pines Is A 2D Silent Hill Meets Alan Wake, And It Even Scares Me At Its Lowest Price",
+      "url": "https://gamespot.com/articles/silver-pines-is-a-2d-silent-hill-meets-alan-wake-and-it-even-scares-me-at-its-lowest-price",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-17T12:00:00+00:00",
+      "score": 7,
+      "event_key": "Silver Pines horror metroidvania release",
+      "title_ru": "Silver Pines: двухмерный хоррор в духе Silent Hill и Alan Wake",
+      "threads_teaser_ru": "Вышел хоррор Silver Pines, сочетающий атмосферу Silent Hill, Alan Wake и Twin Peaks. В этой метроидвании игрокам предстоит заняться расследованием в духе детективов и столкнуться с непростыми боями, где каждый выстрел имеет значение. Сейчас на игру действует скидка 25%.",
+      "telegram_message_id": "1401",
+      "telegram_url": "https://t.me/gamepulse_newss/1401",
+      "telegram_published_at": "2026-10-17T12:32:20.869928+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-silver-pines-deal.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-17T12:16:45.080944+00:00"
+  "updated_at": "2026-10-17T12:32:20.870202+00:00"
 }
