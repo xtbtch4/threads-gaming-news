@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bcad94d90229f09118bdde0d",
-      "title": "Counter-Strike 2’s Wildest New Update in Years is Officially Live",
-      "url": "https://polygon.com/counter-strike-2-update-chickens-valve-cs2",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T14:37:19+00:00",
-      "score": 14,
-      "event_key": "counter-strike-2-update-rush-hour-pet-chickens",
-      "title_ru": "В Counter-Strike 2 добавили режим Rush Hour и питомцев-кур",
-      "threads_teaser_ru": "В свежем обновлении для Counter-Strike 2 появились режим Rush Hour и питомцы-куры, которых можно вырастить из еженедельных выпавших яиц. Птицы требуют ухода и кормления, но не подлежат обмену.",
-      "telegram_message_id": "185",
-      "telegram_url": "https://t.me/gamepulse_newss/185",
-      "telegram_published_at": "2026-09-24T15:46:44.749050+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/counter-strike-2.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T15:46:44.751955+00:00"
-    },
-    {
       "fingerprint": "5a223b05425e4ae9227a5b04",
       "title": "New Clayface Trailer Resists the Urge to Reveal His Final Form, Which Is Exactly How It Should Be",
       "url": "https://ign.com/articles/new-clayface-trailer-resists-the-urge-to-reveal-his-final-form-which-is-exactly-how-it-should-be",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/16/screenshot-2026-10-16-135919-1792184488424.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-17T03:47:24.479125+00:00"
+    },
+    {
+      "fingerprint": "24e185cf438b4613fbfc64ed",
+      "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
+      "url": "https://polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock",
+      "source": "Polygon",
+      "published_at_source": "2026-10-17T04:01:19+00:00",
+      "score": 6,
+      "event_key": "pokemon pokopia limited time events and habitat dex guide",
+      "title_ru": "Гайд по временным событиям и Habitat Dex в Pokémon Pokopia",
+      "threads_teaser_ru": "В Pokémon Pokopia проходят временные события с уникальными покемонами и предметами. Если вы пропустили ивент, его можно «догнать» через путешествия во времени или посетив остров друга, чтобы сфотографировать нужные объекты и распечатать их на 3D-принтере.",
+      "telegram_message_id": "1387",
+      "telegram_url": "https://t.me/gamepulse_newss/1387",
+      "telegram_published_at": "2026-10-17T04:02:59.298008+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/obs64_2026-04-28_14-23-15.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-17T03:47:24.479211+00:00"
+  "updated_at": "2026-10-17T04:02:59.298135+00:00"
 }
