@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6c790a5e6c22dc777df5bac1",
-      "title": "Starbucks Japan Is Getting a Massive Pokémon Collection — Including a Pikachu-Themed Latte",
-      "url": "https://ign.com/articles/starbucks-japan-x-pokemon-collaboration-announced",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T16:44:15+00:00",
-      "score": 13,
-      "event_key": "starbucks japan pokemon collaboration pikachu latte",
-      "title_ru": "Starbucks и Pokémon анонсировали масштабную коллаборацию в Японии",
-      "threads_teaser_ru": "Starbucks анонсировала масштабную коллаборацию с Pokémon в Японии: с 30 сентября в продаже появится латте с Пикачу и линейка из более чем 40 товаров, включая мерч с иллюстрациями Хикару Итидзё.",
-      "telegram_message_id": "201",
-      "telegram_url": "https://t.me/gamepulse_newss/201",
-      "telegram_published_at": "2026-09-24T17:11:40.261885+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/pokemonstarbucks-1790267690001.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T17:11:40.265987+00:00"
-    },
-    {
       "fingerprint": "b9a903caa138e7bce9718955",
       "title": "EA Javelin Anticheat is Coming to Apex Legends",
       "url": "https://ea.com/games/apex-legends/apex-legends/news/javelin-anticheat-announcement",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-silver-pines-deal.jpg?w=300",
       "threads_published_at": "2026-10-17T12:32:22.282998+00:00"
+    },
+    {
+      "fingerprint": "3cdcf7e895c8cb6a2b208792",
+      "title": "Star Wars Zero Company Finally Makes Starting A New Campaign Worth It",
+      "url": "https://polygon.com/star-wars-zero-company-second-patch-reaction",
+      "source": "Polygon",
+      "published_at_source": "2026-10-17T14:54:09+00:00",
+      "score": 12,
+      "event_key": "Star Wars Zero Company patch 1.2 release campaign modifiers",
+      "title_ru": "Star Wars Zero Company получила обновление 1.2 с новыми настройками кампании",
+      "threads_teaser_ru": "В Star Wars Zero Company вышло крупное обновление 1.2: разработчики добавили множество модификаторов сложности для кампании. Теперь можно настроить частоту гибели юнитов и изменить другие параметры тактического геймплея перед стартом игры.",
+      "telegram_message_id": "1402",
+      "telegram_url": "https://t.me/gamepulse_newss/1402",
+      "telegram_published_at": "2026-10-17T15:46:55.979850+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/felshi-main_a15c4c25.jpeg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-17T12:32:22.283083+00:00"
+  "updated_at": "2026-10-17T15:46:55.980012+00:00"
 }
