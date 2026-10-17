@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9e3cfe79970746a39b929618",
-      "title": "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed — and It's Exactly What Everyone Suspected",
-      "url": "https://ign.com/articles/warhammer-40000-space-marine-2s-new-class-is-finally-confirmed-and-its-exactly-what-everyone-suspected",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T15:33:32+00:00",
-      "score": 13,
-      "event_key": "space-marine-2-year-3-roadmap-apothecary-class",
-      "title_ru": "Focus Entertainment представила дорожную карту Warhammer 40,000: Space Marine 2 на третий год",
-      "threads_teaser_ru": "Издатель Focus Entertainment раскрыл планы на третий год поддержки Warhammer 40,000: Space Marine 2: в начале 2027 года в игру добавят класс Апотекария, а патч 15 принесет режим «Осада Хаоса» уже 1 октября.",
-      "telegram_message_id": "189",
-      "telegram_url": "https://t.me/gamepulse_newss/189",
-      "telegram_published_at": "2026-09-24T16:14:16.388985+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/09/04/wh40kspacemarineii-review-blogroll-1725414178087.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T16:14:16.392573+00:00"
-    },
-    {
       "fingerprint": "03d534b707dd36e75d4e321e",
       "title": "Activision’s Halo Must Go Beyond Bungie",
       "url": "https://ign.com/articles/activisions-halo-must-go-beyond-bungie",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/untitled-design-21-1792105238888.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-17T05:02:37.286423+00:00"
+    },
+    {
+      "fingerprint": "ddc312c340692d0b685c2b24",
+      "title": "CD Projekt is in \"a really dangerous place\", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality",
+      "url": "https://rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-16T08:15:00+00:00",
+      "score": 6,
+      "event_key": "Mark Darrah discusses AAA industry hyper-fragility and costs",
+      "title_ru": "Марк Дарра о «гиперхрупкости» современной AAA-индустрии",
+      "threads_teaser_ru": "Разработка крупных игр стала «гиперхрупкой» из-за избыточной специализации и роста штатов. Бывший продюсер Bioware Марк Дарра предупреждает о рисках для индустрии, указывая на то, что задержки в таких гигантах, как Grand Theft Auto VI, обходятся в миллионы долларов.",
+      "telegram_message_id": "1390",
+      "telegram_url": "https://t.me/gamepulse_newss/1390",
+      "telegram_published_at": "2026-10-17T06:47:34.144462+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/witcher-4-cyberpunk-2-hadar-updates-cd-projekt-financials-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-17T05:02:37.286509+00:00"
+  "updated_at": "2026-10-17T06:47:34.144826+00:00"
 }
