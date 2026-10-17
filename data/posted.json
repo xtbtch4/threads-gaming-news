@@ -20487,9 +20487,10 @@
       "telegram_message_id": "1401",
       "telegram_url": "https://t.me/gamepulse_newss/1401",
       "telegram_published_at": "2026-10-17T12:32:20.869928+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-silver-pines-deal.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-silver-pines-deal.jpg?w=300",
+      "threads_published_at": "2026-10-17T12:32:22.282998+00:00"
     }
   ],
-  "updated_at": "2026-10-17T12:32:20.870202+00:00"
+  "updated_at": "2026-10-17T12:32:22.283083+00:00"
 }
