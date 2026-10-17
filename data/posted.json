@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "71564049dfc12ff882c9708b",
-      "title": "'I Don’t Think Starfield Was Anywhere Near Successful Enough to Do a Starfield 2' – Former Bethesda Dev Casts Doubt on Sequel",
-      "url": "https://ign.com/articles/i-dont-think-starfield-was-anywhere-near-successful-enough-to-do-a-starfield-2-former-bethesda-dev-casts-doubt-on-sequel",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T15:36:00+00:00",
-      "score": 11,
-      "event_key": "former-bethesda-dev-casts-doubt-on-starfield-2",
-      "title_ru": "Бывший разработчик Bethesda усомнился в выходе Starfield 2",
-      "threads_teaser_ru": "Бывший ведущий системный дизайнер Bethesda Курт Кульманн сомневается в появлении Starfield 2, считая первую часть недостаточно успешной для продолжения.",
-      "telegram_message_id": "195",
-      "telegram_url": "https://t.me/gamepulse_newss/195",
-      "telegram_published_at": "2026-09-24T16:47:29.056228+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/04/15/ss-aae99c177004bb5ec653d2fcb65a5d30489ec7b8-1920x1080-1776241512049.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T16:47:29.059695+00:00"
-    },
-    {
       "fingerprint": "7d5abb98dca039e515343f98",
       "title": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
       "url": "https://eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
@@ -20488,7 +20471,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/over-the-hill-37.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-17T09:02:24.266426+00:00"
+    },
+    {
+      "fingerprint": "3a062cd1e9aa393cea589344",
+      "title": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+      "url": "https://polygon.com/garfield-alone",
+      "source": "Polygon",
+      "published_at_source": "2026-10-17T09:00:18+00:00",
+      "score": 8,
+      "event_key": "Garfield Alone comic arc 1989 retrospective",
+      "title_ru": "Вспоминая хоррор-арку Garfield под названием «Alone»",
+      "threads_teaser_ru": "В 1989 году комикс Garfield на неделю превратился в сюрреалистичный хоррор. Рассказываем об арке «Alone», которая породила одну из самых живучих фанатских теорий о том, что герой на самом деле всё ещё находится в заброшенном доме.",
+      "telegram_message_id": "1396",
+      "telegram_url": "https://t.me/gamepulse_newss/1396",
+      "telegram_published_at": "2026-10-17T09:17:36.115160+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25174329/O_f2840_0210_comp_v005_2000x1081_thumbnail.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4"
     }
   ],
-  "updated_at": "2026-10-17T09:02:24.266532+00:00"
+  "updated_at": "2026-10-17T09:17:36.115627+00:00"
 }
