@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4f5c2ab3b733e8ba55f68599",
-      "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
-      "url": "https://eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-24T16:20:44+00:00",
-      "score": 15,
-      "event_key": "rockstar-announces-gta-6-expensive-collector-edition",
-      "title_ru": "Rockstar анонсировала коллекционное издание GTA 6 за £349 без копии игры",
-      "threads_teaser_ru": "Rockstar открыла предзаказ на лимитированный набор сувениров по GTA 6 за £349, который не включает саму игру. В комплект вошли странные предметы, включая магнитное зеркало и брелок-лезвие.",
-      "telegram_message_id": "191",
-      "telegram_url": "https://t.me/gamepulse_newss/191",
-      "telegram_published_at": "2026-09-24T16:24:47.579766+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-collectors-box.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T16:24:47.582126+00:00"
-    },
-    {
       "fingerprint": "5de44f3c761651684f6fcd29",
       "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
       "url": "https://gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/04/ss_04ac7db623d3e88751134eb87f5c465c392fa108.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-17T07:17:42.055366+00:00"
+    },
+    {
+      "fingerprint": "410d2e0f29962516130972f5",
+      "title": "Dragon Ball’s Goku Voice Actor 'Furious' Over AI Videos Using Her Voice Without Permission",
+      "url": "https://ign.com/articles/dragon-balls-goku-voice-actor-furious-over-ai-videos-using-her-voice-without-permission",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T20:04:43+00:00",
+      "score": 5,
+      "event_key": "Dragon Ball voice actor Masako Nozawa criticizes AI voice cloning",
+      "title_ru": "Актриса озвучки Dragon Ball раскритиковала использование ИИ-копий ее голоса",
+      "threads_teaser_ru": "Масако Нодзава, голос Гоку из Dragon Ball, назвала использование ИИ для копирования голосов без разрешения кражей. Японские актеры объединяются, чтобы установить правила использования технологии, а токийский суд уже встал на сторону артистов в подобных спорах.",
+      "telegram_message_id": "1392",
+      "telegram_url": "https://t.me/gamepulse_newss/1392",
+      "telegram_published_at": "2026-10-17T07:32:29.243386+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/01/21/dbz-1540843981541-1768988406087.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-17T07:17:42.055483+00:00"
+  "updated_at": "2026-10-17T07:32:29.243724+00:00"
 }
