@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e4cdf80bc96e38d98c34dae9",
-      "title": "The Witcher 3: Wild Hunt – Remastered Global Release Times Confirmed by CD Projekt",
-      "url": "https://ign.com/articles/the-witcher-3-wild-hunt-remastered-global-release-times-confirmed-by-cd-projekt",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T12:25:55+00:00",
-      "score": 9,
-      "event_key": "witcher-3-wild-hunt-remastered-global-release-times-cd-projekt",
-      "title_ru": "CD Projekt объявила глобальное время релиза The Witcher 3: Wild Hunt – Remastered",
-      "threads_teaser_ru": "CD Projekt объявила глобальное время релиза The Witcher 3: Wild Hunt – Remastered. Игра выйдет 29 сентября на PC, консолях текущего поколения и Nintendo Switch 2.",
-      "telegram_message_id": "169",
-      "telegram_url": "https://t.me/gamepulse_newss/169",
-      "telegram_published_at": "2026-09-24T13:16:52.625608+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/tw3re-gamescom-hearts-of-stone-2-xbox-16x9-clean-1790252417239.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T13:16:52.629218+00:00"
-    },
-    {
       "fingerprint": "ef0279965bb1f7e64647a7d0",
       "title": "Meta’s $1,300 VR Glasses Could Be The Most Expensive Way To Play Xbox Games",
       "url": "https://gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-17T00:46:57.723422+00:00"
+    },
+    {
+      "fingerprint": "82924366b368406b1427e93e",
+      "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "url": "https://eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-16T06:46:00+00:00",
+      "score": 9,
+      "event_key": "Epic Games bringing Fortnite and Easy Anti-Cheat to Linux",
+      "title_ru": "Epic Games работает над поддержкой Linux для Fortnite",
+      "threads_teaser_ru": "Epic Games планирует перенести Fortnite на Linux. Главная цель — доработать систему Easy Anti-Cheat для полноценной защиты на этой платформе, что в будущем может открыть дорогу для запуска множества других игр на Steam Deck.",
+      "telegram_message_id": "1377",
+      "telegram_url": "https://t.me/gamepulse_newss/1377",
+      "telegram_published_at": "2026-10-17T01:02:51.338626+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/fortnite-blitz-royale.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-17T00:46:57.723509+00:00"
+  "updated_at": "2026-10-17T01:02:51.339018+00:00"
 }
