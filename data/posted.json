@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ef0279965bb1f7e64647a7d0",
-      "title": "Meta’s $1,300 VR Glasses Could Be The Most Expensive Way To Play Xbox Games",
-      "url": "https://gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T03:59:00+00:00",
-      "score": 8,
-      "event_key": "meta 1300 vr glasses xbox games",
-      "title_ru": "VR-очки Meta за 1300 долларов могут стать самым дорогим способом играть в Xbox",
-      "threads_teaser_ru": "Meta анонсировала VR-очки стоимостью 1300 долларов для запуска игр, включая проекты Xbox. Устройство весит всего 100 граммов благодаря отдельному карманному модулю.",
-      "telegram_message_id": "170",
-      "telegram_url": "https://t.me/gamepulse_newss/170",
-      "telegram_published_at": "2026-09-24T13:27:10.522006+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-09-24T13:27:10.525445+00:00"
-    },
-    {
       "fingerprint": "eeab5fda0cdbb80c77fd2121",
       "title": "Silent Hill: Townfall Is The Franchise’s Answer To Alien: Isolation, And It’s Already On Sale",
       "url": "https://gamespot.com/articles/silent-hill-townfall-is-the-franchises-answer-to-alien-isolation-and-its-already-on-sale",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fortnite-blitz-royale.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-17T01:02:52.865711+00:00"
+    },
+    {
+      "fingerprint": "ca8668d40be7111dbdd3db01",
+      "title": "The creator of last year's cult hit RPG The Necromancer's Tale is back with The Lich Wars, a storybook RPG that follows 30 years of undead botheration",
+      "url": "https://rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-16T15:45:00+00:00",
+      "score": 8,
+      "event_key": "Psychic Software announces The Lich Wars prequel RPG",
+      "title_ru": "Анонсирована The Lich Wars — приквел RPG The Necromancer's Tale",
+      "threads_teaser_ru": "Студия Psychic Software анонсировала The Lich Wars — приквел своей RPG The Necromancer's Tale. Это «storybook RPG» про мушкетера в альтернативном XVIII веке, охватывающая 30 лет сражений и борьбы с темной магией. Дата выхода пока не раскрыта.",
+      "telegram_message_id": "1378",
+      "telegram_url": "https://t.me/gamepulse_newss/1378",
+      "telegram_published_at": "2026-10-17T01:33:14.269740+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/unnamed(3)_AMHotxZ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-17T01:02:52.865804+00:00"
+  "updated_at": "2026-10-17T01:33:14.270102+00:00"
 }
