@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4bf5e3055107d247f4502364",
-      "title": "'One of the Very Few Games I'm Going to Be Buying': Control Resonant Has Leaked, But There's a Push Among Some Pirates to Pay For It Anyway",
-      "url": "https://ign.com/articles/one-of-the-very-few-games-im-going-to-be-buying-control-resonant-has-leaked-but-theres-a-push-among-some-pirates-to-pay-for-it-anyway",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T12:43:26+00:00",
-      "score": 9,
-      "event_key": "video game pirates plan to buy control resonant",
-      "title_ru": "Пираты решили поддержать Remedy и купить Control Resonant",
-      "threads_teaser_ru": "Несмотря на появление взломанных копий Control Resonant в сети сразу после релиза, на пиратских форумах началось редкое движение в поддержку студии Remedy: игроки призывают купить проект.",
-      "telegram_message_id": "168",
-      "telegram_url": "https://t.me/gamepulse_newss/168",
-      "telegram_published_at": "2026-09-24T13:11:57.071546+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/10/controlthumb-1789054804916.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T13:11:57.075127+00:00"
-    },
-    {
       "fingerprint": "e4cdf80bc96e38d98c34dae9",
       "title": "The Witcher 3: Wild Hunt – Remastered Global Release Times Confirmed by CD Projekt",
       "url": "https://ign.com/articles/the-witcher-3-wild-hunt-remastered-global-release-times-confirmed-by-cd-projekt",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_10.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-17T00:32:09.400330+00:00"
+    },
+    {
+      "fingerprint": "cc3cfdfd866334d0fa918493",
+      "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+      "url": "https://polygon.com/gta-6-trump-rockstar-games",
+      "source": "Polygon",
+      "published_at_source": "2026-10-17T00:43:17+00:00",
+      "score": 14,
+      "event_key": "rockstar games addresses trump and covid 19 in gta 6",
+      "title_ru": "Rockstar Games рассказала об отсутствии Трампа и пандемии в GTA 6",
+      "threads_teaser_ru": "Разработчики Grand Theft Auto 6 объяснили, почему в игре решили отказаться от прямых отсылок к Дональду Трампу и пандемии COVID-19. В студии опасаются, что из-за долгого цикла разработки конкретные темы быстро устареют.",
+      "telegram_message_id": "1376",
+      "telegram_url": "https://t.me/gamepulse_newss/1376",
+      "telegram_published_at": "2026-10-17T00:46:56.428468+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-17T00:32:09.400421+00:00"
+  "updated_at": "2026-10-17T00:46:56.428620+00:00"
 }
