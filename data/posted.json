@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fafb5e72df8fd7f3ca711637",
-      "title": "Resonant boss locations and combat ability list in Control Resonant",
-      "url": "https://polygon.com/control-resonant-boss-locations-combat-ability-list",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T14:01:17+00:00",
-      "score": 8,
-      "event_key": "control resonant bosses and abilities guide polygon",
-      "title_ru": "Гид по боссам и боевым способностям в Control Resonant",
-      "threads_teaser_ru": "Где искать главных боссов-резонантов в Control Resonant и какие боевые способности они открывают при победе над ними.",
-      "telegram_message_id": "177",
-      "telegram_url": "https://t.me/gamepulse_newss/177",
-      "telegram_published_at": "2026-09-24T14:37:27.911360+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/resonants_cr.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T14:37:27.914689+00:00"
-    },
-    {
       "fingerprint": "c93cac722a2747673bbeef2d",
       "title": "Health upgrade point locations in Control Resonant",
       "url": "https://polygon.com/control-resonant-health-upgrade-point-locations",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-10-17T02:17:01.008453+00:00"
+    },
+    {
+      "fingerprint": "58f4fbab8be0c3233aaf82f4",
+      "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+      "url": "https://ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
+      "source": "IGN",
+      "published_at_source": "2026-10-16T19:59:45+00:00",
+      "score": 7,
+      "event_key": "Ghost of Yotei sales analysis compared to Ghost of Tsushima",
+      "title_ru": "Аналитики оценили продажи Ghost of Yōtei на PS5",
+      "threads_teaser_ru": "Аналитики Alinea Analytics сравнили продажи Ghost of Yōtei и Ghost of Tsushima. Несмотря на то что новинка уступает предшественнику по количеству проданных копий, ее финансовые показатели остаются высокими, а эксперты называют проект «крепким продавцом».",
+      "telegram_message_id": "1382",
+      "telegram_url": "https://t.me/gamepulse_newss/1382",
+      "telegram_published_at": "2026-10-17T02:33:49.118384+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/09/25/scwk6j-1758769803399.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-17T02:17:01.008549+00:00"
+  "updated_at": "2026-10-17T02:33:49.118613+00:00"
 }
