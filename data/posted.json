@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e1ffd90881592efdfd1bff6a",
-      "title": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game",
-      "url": "https://eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-24T16:52:27+00:00",
-      "score": 9,
-      "event_key": "blood of dawnwalker time mechanic originally stricter",
-      "title_ru": "Временная механика в The Blood of Dawnwalker изначально была намного строже",
-      "threads_teaser_ru": "Разработчики The Blood of Dawnwalker смягчили временную механику игры перед релизом из-за опасений, что она покажется игрокам слишком строгой и сложной.",
-      "telegram_message_id": "198",
-      "telegram_url": "https://t.me/gamepulse_newss/198",
-      "telegram_published_at": "2026-09-24T16:56:23.701154+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/brencis-danwalker-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T16:56:23.704422+00:00"
-    },
-    {
       "fingerprint": "bda09fa03854d210b1a98676",
       "title": "Call Of Duty Is Finally Giving Players What They Want",
       "url": "https://gamespot.com/articles/call-of-duty-is-finally-giving-players-what-they-want",
@@ -20489,7 +20472,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-w1280-2.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-17T10:17:09.506550+00:00"
+    },
+    {
+      "fingerprint": "c2605c6d2ffea9b9ed865cab",
+      "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
+      "url": "https://polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable",
+      "source": "Polygon",
+      "published_at_source": "2026-10-17T12:00:18+00:00",
+      "score": 9,
+      "event_key": "grand theft auto 4 retrospective analysis polygon",
+      "title_ru": "Почему Grand Theft Auto 4 остается лучшей частью серии",
+      "threads_teaser_ru": "Вышедшая в 2008 году Grand Theft Auto 4 выделяется в серии более мрачным тоном, серьезной историей Niko Bellic и детально проработанным Либерти-Сити, отражающим судьбу главного героя.",
+      "telegram_message_id": "1399",
+      "telegram_url": "https://t.me/gamepulse_newss/1399",
+      "telegram_published_at": "2026-10-17T12:02:35.042811+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-4-2.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4"
     }
   ],
-  "updated_at": "2026-10-17T10:17:09.506642+00:00"
+  "updated_at": "2026-10-17T12:02:35.043113+00:00"
 }
