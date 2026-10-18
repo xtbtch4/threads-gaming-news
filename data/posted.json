@@ -20485,9 +20485,10 @@
       "telegram_message_id": "1414",
       "telegram_url": "https://t.me/gamepulse_newss/1414",
       "telegram_published_at": "2026-10-18T13:16:35.008587+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/trailblazers-into-the-march.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/trailblazers-into-the-march.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-18T13:16:36.245059+00:00"
     }
   ],
-  "updated_at": "2026-10-18T13:16:35.008957+00:00"
+  "updated_at": "2026-10-18T13:16:36.245159+00:00"
 }
