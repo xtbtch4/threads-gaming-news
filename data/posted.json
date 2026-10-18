@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c29848be39a05daefeae86fa",
-      "title": "Bungie Officially Reveals Massive Marathon Revamp With New PvE Mode",
-      "url": "https://polygon.com/bungie-marathon-symbiosis-changes-pve-new-modes",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T18:38:24+00:00",
-      "score": 10,
-      "event_key": "bungie announces massive marathon roadmap and pve mode",
-      "title_ru": "Bungie анонсировала масштабное обновление Marathon с постоянным PvE-режимом",
-      "threads_teaser_ru": "Bungie представила масштабный план развития шутера Marathon вплоть до 2027 года. Главным нововведением декабрьского обновления Symbiosis станет первый постоянный PvE-режим.",
-      "telegram_message_id": "219",
-      "telegram_url": "https://t.me/gamepulse_newss/219",
-      "telegram_published_at": "2026-09-24T18:41:27.109094+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jb_mar_symbiosis_sunken_reservoir_28-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T18:41:28.478016+00:00"
-    },
-    {
       "fingerprint": "85e50b37b39f277e0a111724",
       "title": "2 Months Later, Marvel Finally Releases Spider-Man: Brand New Day’s Post-Credits Scene",
       "url": "https://polygon.com/avengers-endgame-encore-post-credit-scene-hulk-mystery",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ats-road-trip-mustang.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-18T14:32:23.024342+00:00"
+    },
+    {
+      "fingerprint": "11e26ba6ce6cbb8e7960d753",
+      "title": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
+      "url": "https://rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-17T15:58:54+00:00",
+      "score": 7,
+      "event_key": "liquid-swords-developer-of-samson-files-for-bankruptcy",
+      "title_ru": "Шведский разработчик Liquid Swords обанкротился спустя полгода после релиза Samson",
+      "threads_teaser_ru": "Шведская студия Liquid Swords объявила о банкротстве спустя полгода после релиза своего дебютного экшена Samson. Процедура затронула около 30 сотрудников, не получавших зарплату несколько месяцев.",
+      "telegram_message_id": "1420",
+      "telegram_url": "https://t.me/gamepulse_newss/1420",
+      "telegram_published_at": "2026-10-18T14:46:35.248924+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/samson-liquid-swords-debt-racer-brawler-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-18T14:32:23.024441+00:00"
+  "updated_at": "2026-10-18T14:46:35.249223+00:00"
 }
