@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1426",
       "telegram_url": "https://t.me/gamepulse_newss/1426",
       "telegram_published_at": "2026-10-18T17:16:56.507953+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-18T17:16:58.135515+00:00"
     }
   ],
-  "updated_at": "2026-10-18T17:16:56.508117+00:00"
+  "updated_at": "2026-10-18T17:16:58.135615+00:00"
 }
