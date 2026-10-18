@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "82c651045077a3912e55ec78",
-      "title": "'Modern Warfare 4' Has Officially Solved Call of Duty’s ‘Clowny Skins’ Problem",
-      "url": "https://polygon.com/call-of-duty-modern-warfare-4-skin-toggle",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T18:16:04+00:00",
-      "score": 6,
-      "event_key": "modern warfare 4 cosmetics toggle announced for warzone",
-      "title_ru": "В Call of Duty: Modern Warfare 4 появится переключатель для отключения необычных скинов",
-      "threads_teaser_ru": "В Call of Duty: Modern Warfare 4 добавят функцию отключения ярких и необычных скинов операторов, но с важными ограничениями. Нововведение будет работать только в Warzone и не коснется контента самой новой игры.",
-      "telegram_message_id": "215",
-      "telegram_url": "https://t.me/gamepulse_newss/215",
-      "telegram_published_at": "2026-09-24T18:21:49.494064+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/call-of-duty-black-ops-6-beavis-butthead.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-24T18:21:49.497826+00:00"
-    },
-    {
       "fingerprint": "854dc6e7dd21d344cf0f2af9",
       "title": "XBOX Insiders Can Join the Chicken Invaders Collection Preview Today!",
       "url": "https://news.xbox.com/en-us/2026/09/24/xbox-insiders-can-join-the-chicken-invaders-collection-preview-today",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-tenebris-somnia-discount.jpg?w=300",
       "threads_published_at": "2026-10-18T13:32:03.004263+00:00"
+    },
+    {
+      "fingerprint": "92d2f6f6c746fc816ef4fd42",
+      "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
+      "url": "https://ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
+      "source": "IGN",
+      "published_at_source": "2026-10-17T21:27:10+00:00",
+      "score": 7,
+      "event_key": "battlefield-6-developers-respond-to-season-5-skin-criticism",
+      "title_ru": "Разработчики Battlefield 6 ответили на критику спорных скинов из Season 5",
+      "threads_teaser_ru": "Авторы Battlefield 6 прокомментировали критику спорных скинов из Season 5. Опечатку на одном из предметов исправят в ноябре, но скин с пятью пистолетами останется прежним.",
+      "telegram_message_id": "1416",
+      "telegram_url": "https://t.me/gamepulse_newss/1416",
+      "telegram_published_at": "2026-10-18T13:47:05.332544+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/17/battlefield-6-season-5-1792272082254.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-18T13:32:03.004358+00:00"
+  "updated_at": "2026-10-18T13:47:05.332844+00:00"
 }
