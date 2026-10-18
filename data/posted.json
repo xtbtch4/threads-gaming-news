@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0e64af9d1db02a71e0d2f13e",
-      "title": "Magic's New Reality Fracture Mechanic Is So Much Stronger Than It Looks",
-      "url": "https://polygon.com/magic-mtg-reality-fracture-limited-guide-empower-jace",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T18:00:10+00:00",
-      "score": 8,
-      "event_key": "magic-the-gathering-reality-fracture-empower-jace",
-      "title_ru": "Механика Empower Jace в Magic: The Gathering",
-      "threads_teaser_ru": "Новый набор Magic: The Gathering под названием Reality Fracture привнес в формат Limited механику Empower Jace. Как она влияет на матчи и почему жетоны Джейса стали ключевым ресурсом для победы?",
-      "telegram_message_id": "214",
-      "telegram_url": "https://t.me/gamepulse_newss/214",
-      "telegram_published_at": "2026-09-24T18:17:34.916064+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jace-fragments.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4",
-      "threads_published_at": "2026-09-24T18:17:34.919701+00:00"
-    },
-    {
       "fingerprint": "82c651045077a3912e55ec78",
       "title": "'Modern Warfare 4' Has Officially Solved Call of Duty’s ‘Clowny Skins’ Problem",
       "url": "https://polygon.com/call-of-duty-modern-warfare-4-skin-toggle",
@@ -20488,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/trailblazers-into-the-march.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T13:16:36.245059+00:00"
+    },
+    {
+      "fingerprint": "c7eebf6cb22eb8ad57b8fe3f",
+      "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
+      "url": "https://gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-18T12:00:00+00:00",
+      "score": 7,
+      "event_key": "tenebris-somnia-release-live-action-horror",
+      "title_ru": "Tenebris Somnia сочетает 2D-графику и сцены с живыми актерами",
+      "threads_teaser_ru": "Релизнулся необычный хоррор Tenebris Somnia, объединяющий пиксельный 2D-стиль и жуткие игросодержащие сцены с живыми актерами. Игра вдохновлена классикой вроде Resident Evil и Silent Hill.",
+      "telegram_message_id": "1415",
+      "telegram_url": "https://t.me/gamepulse_newss/1415",
+      "telegram_published_at": "2026-10-18T13:32:01.699948+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-tenebris-somnia-discount.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-18T13:16:36.245159+00:00"
+  "updated_at": "2026-10-18T13:32:01.700262+00:00"
 }
