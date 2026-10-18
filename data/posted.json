@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a75143669854b5662fefaff7",
-      "title": "DOOM Sep 24, 2026 Earn DOOM-themed Rewards in Call of Duty Black Ops 7 and Warzone The Haunting returns to Call of Duty with the all-new DOOM Event Pass arriving September 24. View",
-      "url": "https://slayersclub.bethesda.net/en-US/news/doom-call-of-duty-the-haunting",
-      "source": "Bethesda",
-      "published_at_source": "2026-09-24T19:00:00+00:00",
-      "score": 11,
-      "event_key": "doom_call_of_duty_the_haunting_event",
-      "title_ru": "Событие The Haunting в Call of Duty принесет контент по DOOM",
-      "threads_teaser_ru": "В Call of Duty Black Ops 7 и Warzone возвращается событие The Haunting вместе с тематическим пропуском DOOM Event Pass, который принесет оператора Doom Slayer, чертежи BFG и Crucible.",
-      "telegram_message_id": "231",
-      "telegram_url": "https://t.me/gamepulse_newss/231",
-      "telegram_published_at": "2026-09-24T20:26:46.481927+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-09-24T20:26:47.783073+00:00"
-    },
-    {
       "fingerprint": "01b3d3dcea8ae24441a481fc",
       "title": "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
       "url": "https://gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/05/30/silenthill2-1717063971235.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-18T20:32:05.142189+00:00"
+    },
+    {
+      "fingerprint": "f8f37b076695d5f082385f96",
+      "title": "Samson dev Liquid Swords has reportedly gone bankrupt",
+      "url": "https://eurogamer.net/liquid-swords-samson-developer-bankrupt",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-18T15:21:13+00:00",
+      "score": 8,
+      "event_key": "liquid swords samson developer has reportedly gone bankrupt",
+      "title_ru": "Разработчики Samson студия Liquid Swords объявили о банкротстве",
+      "threads_teaser_ru": "Шведская студия Liquid Swords, выпустившая экшен Samson, согласно отчетам, объявила о банкротстве. Около 30 сотрудников не получали зарплату месяцы, но выплаты покроет государство, а управляющий ищет покупателя.",
+      "telegram_message_id": "1432",
+      "telegram_url": "https://t.me/gamepulse_newss/1432",
+      "telegram_published_at": "2026-10-18T21:46:56.793840+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ss_c74b6df6643c4b6c0c0e015be9013a4c68fd3deb.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-18T20:32:05.142275+00:00"
+  "updated_at": "2026-10-18T21:46:56.794157+00:00"
 }
