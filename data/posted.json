@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "634a2bddec222c5eae6fb61b",
-      "title": "Domhnall Gleeson Would Have Loved to Have Delved Deeper Into the 'Bitterness' of Star Wars' General Hux",
-      "url": "https://ign.com/articles/domhnall-gleeson-would-have-loved-to-have-delved-deeper-into-the-bitterness-of-star-wars-general-hux",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T15:02:06+00:00",
-      "score": 7,
-      "event_key": "domhnall gleeson wants deeper exploration of general hux bitterness",
-      "title_ru": "Донал Глисон хотел бы глубже изучить «горечь» генерала Хакса из «Звездных войн»",
-      "threads_teaser_ru": "Донал Глисон признался, что хотел бы глубже раскрыть характер генерала Хакса из «Звездных войн» и показать настоящую опасность и горечь этого персонажа до его гибели в девятом эпизоде.",
-      "telegram_message_id": "208",
-      "telegram_url": "https://t.me/gamepulse_newss/208",
-      "telegram_published_at": "2026-09-24T17:47:19.178113+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/gettyimages-2294780653-1790261393992.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T17:47:19.181016+00:00"
-    },
-    {
       "fingerprint": "5c211a328b5735869c02c469",
       "title": "Put Remedy’s Immortality Toggle In All Games",
       "url": "https://gamespot.com/articles/put-remedys-immortality-toggle-in-all-games",
@@ -20489,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22947291/GTA_Trilogy___Definitive_Edition___San_Andreas___Screen_3.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-18T11:32:25.220541+00:00"
+    },
+    {
+      "fingerprint": "7fd0c83552167b27112c9940",
+      "title": "Join the Pumpkaboo’s Sweet Surprises! event in Pokémon Pokopia - News - Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/join-the-pumpkaboos-sweet-surprises-event-in-pokemon-pokopia",
+      "source": "Nintendo",
+      "published_at_source": "2026-10-17T16:00:00+00:00",
+      "score": 9,
+      "event_key": "Pumpkaboo Sweet Surprises event Pokémon Pokopia",
+      "title_ru": "В Pokémon Pokopia началось событие «Pumpkaboo’s Sweet Surprises!»",
+      "threads_teaser_ru": "В Pokémon Pokopia началось тематическое событие «Pumpkaboo’s Sweet Surprises!». Игрокам предлагают собирать конфеты, маскируясь под мебель, чтобы получить декор для фестиваля и подружиться с покемонами Pumpkaboo и Gourgeist. Доступно до 1 ноября после обновления до версии 2.0.1.",
+      "telegram_message_id": "1409",
+      "telegram_url": "https://t.me/gamepulse_newss/1409",
+      "telegram_published_at": "2026-10-18T12:02:37.417528+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-10-18T11:32:25.220641+00:00"
+  "updated_at": "2026-10-18T12:02:37.417710+00:00"
 }
