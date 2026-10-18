@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "72f32851e70ecb5d4f71eafb",
-      "title": "Who Built the Robot Devil? 'Futurama' Showrunner David X. Cohen Weighs in on a Popular Fan Theory",
-      "url": "https://polygon.com/who-built-the-robot-devil-david-x-cohen-on-futurama-fan-theory",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T16:24:25+00:00",
-      "score": 6,
-      "event_key": "david x cohen discusses robot devil origin theory",
-      "title_ru": "Шоураннер «Футурамы» прокомментировал фанатскую теорию о создании Робота-дьявола",
-      "threads_teaser_ru": "Шоураннер «Футурамы» Дэвид X. Коэн ответил на популярный вопрос фанатов о происхождении Робота-дьявола и допустил, что тот мог стать злодеем самостоятельно.",
-      "telegram_message_id": "210",
-      "telegram_url": "https://t.me/gamepulse_newss/210",
-      "telegram_published_at": "2026-09-24T17:57:20.255047+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-disney-futuramadisney-0-18.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4",
-      "threads_published_at": "2026-09-24T17:57:20.258991+00:00"
-    },
-    {
       "fingerprint": "547c0f9faf509237d6f50d55",
       "title": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version",
       "url": "https://ign.com/articles/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version",
@@ -20489,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/9c3104985e567ab2095613a493ebbe84.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T12:17:09.625117+00:00"
+    },
+    {
+      "fingerprint": "e664d73873098392ce837e41",
+      "title": "Before Dark Souls, FromSoftware’s Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy",
+      "url": "https://polygon.com/fromsoftware-echo-night-ps1",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T10:00:18+00:00",
+      "score": 8,
+      "event_key": "fromsoftware echo night retro horror retrospective",
+      "title_ru": "Забытый хоррор Echo Night от FromSoftware",
+      "threads_teaser_ru": "Задолго до Dark Souls и Elden Ring студия FromSoftware выпустила экспериментальный хоррор Echo Night для PlayStation. В этой игре не нужно сражаться с монстрами — вместо этого игроки помогают призракам на заброшенном корабле.",
+      "telegram_message_id": "1411",
+      "telegram_url": "https://t.me/gamepulse_newss/1411",
+      "telegram_published_at": "2026-10-18T12:32:06.127036+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/echo-night.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-18T12:17:09.625213+00:00"
+  "updated_at": "2026-10-18T12:32:06.127339+00:00"
 }
