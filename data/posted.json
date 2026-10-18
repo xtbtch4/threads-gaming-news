@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cde4a722667ae8ba3671d0c1",
-      "title": "Control Resonant’s Day-One Patch Makes the Game Easier ‘While Still Providing a Challenge’",
-      "url": "https://polygon.com/control-resonant-remedy-day-one-patch-combat-difficulty",
-      "source": "Polygon",
-      "published_at_source": "2026-09-24T17:40:04+00:00",
-      "score": 8,
-      "event_key": "remedy-releases-day-one-patch-for-control-resonant",
-      "title_ru": "Патч первого дня для Control Resonant облегчил боевую систему",
-      "threads_teaser_ru": "Студия Remedy выпустила патч первого дня для Control Resonant на PS5, PC и Xbox Series X. Обновление снижает здоровье врагов в начале игры и удешевляет сброс характеристик персонажа.",
-      "telegram_message_id": "207",
-      "telegram_url": "https://t.me/gamepulse_newss/207",
-      "telegram_published_at": "2026-09-24T17:42:13.211065+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/control-resonant-announcement-trailer-_-the-game-awards-2025-2-0-screenshot.jpeg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4",
-      "threads_published_at": "2026-09-24T17:42:13.214200+00:00"
-    },
-    {
       "fingerprint": "634a2bddec222c5eae6fb61b",
       "title": "Domhnall Gleeson Would Have Loved to Have Delved Deeper Into the 'Bitterness' of Star Wars' General Hux",
       "url": "https://ign.com/articles/domhnall-gleeson-would-have-loved-to-have-delved-deeper-into-the-bitterness-of-star-wars-general-hux",
@@ -20490,7 +20472,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/game-boy-museum-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T11:17:29.939659+00:00"
+    },
+    {
+      "fingerprint": "e149e20f6330782b663bd584",
+      "title": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
+      "url": "https://polygon.com/gta-san-andreas-bigfoot-myth",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T01:00:18+00:00",
+      "score": 9,
+      "event_key": "GTA: San Andreas Bigfoot myth analysis",
+      "title_ru": "Миф о Bigfoot в GTA: San Andreas как символ эпохи",
+      "threads_teaser_ru": "Легендарный Bigfoot в Grand Theft Auto: San Andreas — это всего лишь городской миф из 2004 года. Почему игроки того времени верили в существование монстра и как изменилось отношение к «секретам» в играх с появлением датамайнинга и доступного интернета.",
+      "telegram_message_id": "1408",
+      "telegram_url": "https://t.me/gamepulse_newss/1408",
+      "telegram_published_at": "2026-10-18T11:32:23.976559+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22947291/GTA_Trilogy___Definitive_Edition___San_Andreas___Screen_3.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-18T11:17:29.939748+00:00"
+  "updated_at": "2026-10-18T11:32:23.976890+00:00"
 }
