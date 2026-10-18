@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "547c0f9faf509237d6f50d55",
-      "title": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version",
-      "url": "https://ign.com/articles/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T17:21:14+00:00",
-      "score": 13,
-      "event_key": "gta-6-400-dollars-collectors-set-outrage",
-      "title_ru": "Фанаты GTA 6 возмущены коллекционным набором за $400 без игры",
-      "threads_teaser_ru": "Анонс коллекционного набора GTA 6 за $400 вызвал возмущение фанатов. Главная претензия — в комплект входит мерч, но нет самой игры, а цена оказалась выше прошлых релизов Rockstar.",
-      "telegram_message_id": "211",
-      "telegram_url": "https://t.me/gamepulse_newss/211",
-      "telegram_published_at": "2026-09-24T18:02:49.149986+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T18:02:49.153424+00:00"
-    },
-    {
       "fingerprint": "bed9d454184a2c22934ea368",
       "title": "'It's Not Great Content': Ex-Dragon Age Exec Says He'd Now Change or Ditch Several Key Moments From the Series",
       "url": "https://ign.com/articles/its-not-great-content-ex-dragon-age-exec-says-hed-now-change-or-ditch-several-key-moments-from-the-series",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/echo-night.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-18T12:32:07.324685+00:00"
+    },
+    {
+      "fingerprint": "8396d38d7e51ad106f54618e",
+      "title": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
+      "url": "https://rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-17T21:50:37+00:00",
+      "score": 8,
+      "event_key": "rain98 visual novel demo released time travel 1998",
+      "title_ru": "Анонсирована визуальная новелла Rain98 в стиле Serial Experiments Lain",
+      "threads_teaser_ru": "Появилась демоверсия визуальной новеллы Rain98, вдохновленной Serial Experiments Lain. История рассказывает о путешествии во времени в Токио 1998 года ради уничтожения мира.",
+      "telegram_message_id": "1412",
+      "telegram_url": "https://t.me/gamepulse_newss/1412",
+      "telegram_published_at": "2026-10-18T12:46:48.913167+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/rain98.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-18T12:32:07.324767+00:00"
+  "updated_at": "2026-10-18T12:46:48.913545+00:00"
 }
