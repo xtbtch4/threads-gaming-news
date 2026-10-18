@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "01b3d3dcea8ae24441a481fc",
-      "title": "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
-      "url": "https://gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T20:18:09+00:00",
-      "score": 15,
-      "event_key": "nintendo canceled ubisoft developed zelda game starring ganondorf",
-      "title_ru": "Nintendo отменила спин-офф Zelda от Ubisoft с Ганондорфом в главной роли",
-      "threads_teaser_ru": "Стало известно об отмененном спин-оффе The Legend of Zelda, который разрабатывала Ubisoft Milan. Главным героем игры должен был стать Ганондорф, но Nintendo отклонила прототип в конце 2023 года.",
-      "telegram_message_id": "232",
-      "telegram_url": "https://t.me/gamepulse_newss/232",
-      "telegram_published_at": "2026-09-24T20:32:32.330135+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/4226365-sexyganon.webp?w=300",
-      "threads_published_at": "2026-09-24T20:32:33.773928+00:00"
-    },
-    {
       "fingerprint": "b391e43136b85b0e0ddfd6d7",
       "title": "Steam’s Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis",
       "url": "https://gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis",
@@ -20492,7 +20475,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ss_c74b6df6643c4b6c0c0e015be9013a4c68fd3deb.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T21:46:58.261194+00:00"
+    },
+    {
+      "fingerprint": "f367f75dfe29d30bc44c099a",
+      "title": "63 Years Later, the Stellar Action Comic Strip Most America Never Heard of Deserves Another Shot",
+      "url": "https://polygon.com/modesty-blaise-retrospective",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T22:00:17+00:00",
+      "score": 5,
+      "event_key": "modesty_blaise_comic_strip_retrospective_titan_books",
+      "title_ru": "Ретроспектива британского приключенческого комикса Modesty Blaise",
+      "threads_teaser_ru": "Классический британский шпионский комикс Modesty Blaise выходил с 1963 по 2001 год, но почти не публиковался в США из-за откровенных сцен. Сейчас вся серия доступна в сборниках от Titan Books.",
+      "telegram_message_id": "1433",
+      "telegram_url": "https://t.me/gamepulse_newss/1433",
+      "telegram_published_at": "2026-10-18T22:02:42.684161+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modesty-blaise-willie-garvin-mister-sun-1985.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4"
     }
   ],
-  "updated_at": "2026-10-18T21:46:58.261281+00:00"
+  "updated_at": "2026-10-18T22:02:42.684429+00:00"
 }
