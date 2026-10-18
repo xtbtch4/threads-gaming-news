@@ -20487,9 +20487,10 @@
       "telegram_message_id": "1403",
       "telegram_url": "https://t.me/gamepulse_newss/1403",
       "telegram_published_at": "2026-10-18T00:18:21.365231+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/17/drunken-goddess-reflux-1792277336624.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/17/drunken-goddess-reflux-1792277336624.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-18T00:18:23.122561+00:00"
     }
   ],
-  "updated_at": "2026-10-18T00:18:21.365548+00:00"
+  "updated_at": "2026-10-18T00:18:23.122659+00:00"
 }
