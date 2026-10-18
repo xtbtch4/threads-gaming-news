@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b9a903caa138e7bce9718955",
-      "title": "EA Javelin Anticheat is Coming to Apex Legends",
-      "url": "https://ea.com/games/apex-legends/apex-legends/news/javelin-anticheat-announcement",
-      "source": "Respawn / Apex Legends",
-      "published_at_source": "2026-09-24T15:00:00+00:00",
-      "score": 11,
-      "event_key": "apex legends switches to ea javelin anticheat",
-      "title_ru": "Apex Legends переходит на античит EA Javelin",
-      "threads_teaser_ru": "С 29 сентября 2026 года ПК-версия Apex Legends перейдет на античит EA Javelin Anticheat вместо Easy Anti Cheat. Разработчики обещают улучшенную защиту и гибкость в борьбе с новыми угрозами.",
-      "telegram_message_id": "202",
-      "telegram_url": "https://t.me/gamepulse_newss/202",
-      "telegram_published_at": "2026-09-24T17:16:48.839316+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/2YcU8XoDXd5Ir7WpX5P2yR/b78b8cfafabfd58d631c009ac0a41379/apex-legends-generic-keyart-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
-      "threads_published_at": "2026-09-24T17:16:48.842886+00:00"
-    },
-    {
       "fingerprint": "f5b0ab2cbbe93f152727f3b3",
       "title": "Beyond Good & Evil 2 Is Still Alive, and Just Added an Assassin's Creed Shadows Writer",
       "url": "https://ign.com/articles/beyond-good-evil-2-is-still-alive-and-just-added-an-assassins-creed-shadows-writer",
@@ -20490,7 +20473,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/felshi-main_a15c4c25.jpeg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-17T15:46:57.362364+00:00"
+    },
+    {
+      "fingerprint": "4341115093f74b43a777067e",
+      "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+      "url": "https://ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
+      "source": "IGN",
+      "published_at_source": "2026-10-17T23:00:23+00:00",
+      "score": 15,
+      "event_key": "drunken-goddess-reflux-steam-demo-canceled-ai-concerns",
+      "title_ru": "Разработчики Drunken Goddess Reflux отменили публичную демоверсию в Steam из-за страха перед ИИ-клонами",
+      "threads_teaser_ru": "Авторы Drunken Goddess Reflux отменили публичную демоверсию в Steam из-за опасений перед ИИ-клонами. Вместо этого разработчики проведут закрытые игровые сессии для ограниченного числа участников.",
+      "telegram_message_id": "1403",
+      "telegram_url": "https://t.me/gamepulse_newss/1403",
+      "telegram_published_at": "2026-10-18T00:18:21.365231+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/17/drunken-goddess-reflux-1792277336624.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-17T15:46:57.362480+00:00"
+  "updated_at": "2026-10-18T00:18:21.365548+00:00"
 }
