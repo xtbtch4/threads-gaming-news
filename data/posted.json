@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bed9d454184a2c22934ea368",
-      "title": "'It's Not Great Content': Ex-Dragon Age Exec Says He'd Now Change or Ditch Several Key Moments From the Series",
-      "url": "https://ign.com/articles/its-not-great-content-ex-dragon-age-exec-says-hed-now-change-or-ditch-several-key-moments-from-the-series",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T17:19:39+00:00",
-      "score": 13,
-      "event_key": "ex dragon age exec mark darrah suggests series changes",
-      "title_ru": "Бывший продюсер BioWare назвал моменты в серии Dragon Age, которые хотел бы изменить",
-      "threads_teaser_ru": "Бывший исполнительный продюсер серии Марк Дарра поделился тем, что изменил бы во всех четырех частях Dragon Age, включая сокращение локаций в Inquisition и правки финала DA2.",
-      "telegram_message_id": "212",
-      "telegram_url": "https://t.me/gamepulse_newss/212",
-      "telegram_published_at": "2026-09-24T18:06:39.656174+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/10/26/dragonageinquisitionjpg-a2a564-1280w-1415667815153-1666759988152.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T18:06:39.660199+00:00"
-    },
-    {
       "fingerprint": "5778b41ac05ae45f456d610d",
       "title": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
       "url": "https://rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/rain98.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T12:46:50.356716+00:00"
+    },
+    {
+      "fingerprint": "6dc97cf1731716e88a3de82a",
+      "title": "Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy",
+      "url": "https://polygon.com/happy-death-day-3-jessica-rothe-scream-queen",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T13:00:18+00:00",
+      "score": 10,
+      "event_key": "jessica rothe happy death day 3 update new york comic con",
+      "title_ru": "Jessica Rothe поделилась новостями о фильме Happy Death Day 3",
+      "threads_teaser_ru": "Исполнительница главной роли Jessica Rothe рассказала о работе над сюжетом фильма Happy Death Day 3 вместе с режиссером Christopher Landon. Теперь судьба триквела зависит от решения студии Universal.",
+      "telegram_message_id": "1413",
+      "telegram_url": "https://t.me/gamepulse_newss/1413",
+      "telegram_published_at": "2026-10-18T13:02:20.581806+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdhade_ec037.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-18T12:46:50.356815+00:00"
+  "updated_at": "2026-10-18T13:02:20.582128+00:00"
 }
