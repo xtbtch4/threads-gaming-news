@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5778b41ac05ae45f456d610d",
-      "title": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
-      "url": "https://rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T17:57:15+00:00",
-      "score": 10,
-      "event_key": "blood of dawnwalker timer mechanic toned down",
-      "title_ru": "Таймер в The Blood of Dawnwalker смягчили из-за жалоб до релиз",
-      "threads_teaser_ru": "Разработчики The Blood of Dawnwalker смягчили механику таймера в игре еще до релиза из-за жалоб и опасений игроков. Режиссер проекта Конрад Томашкевич рассказал, как именно изменилась сложность.",
-      "telegram_message_id": "213",
-      "telegram_url": "https://t.me/gamepulse_newss/213",
-      "telegram_published_at": "2026-09-24T18:11:41.104687+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/standing-in-anachora.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T18:11:41.109079+00:00"
-    },
-    {
       "fingerprint": "0e64af9d1db02a71e0d2f13e",
       "title": "Magic's New Reality Fracture Mechanic Is So Much Stronger Than It Looks",
       "url": "https://polygon.com/magic-mtg-reality-fracture-limited-guide-empower-jace",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdhade_ec037.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-18T13:02:21.811860+00:00"
+    },
+    {
+      "fingerprint": "87bf46619d5e0253873fa67e",
+      "title": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
+      "url": "https://rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-17T19:07:41+00:00",
+      "score": 8,
+      "event_key": "trailblazers into the march demo release",
+      "title_ru": "Вышла демоверсия рогалик-симулятора колонии Trailblazers: Into The March",
+      "threads_teaser_ru": "Для рогалик-симулятора колонии Trailblazers: Into The March вышла демоверсия. Игрокам предлагают стать капитанами огромных сухопутных кораблей, управлять уникальной командой и участвовать в тактических сражениях.",
+      "telegram_message_id": "1414",
+      "telegram_url": "https://t.me/gamepulse_newss/1414",
+      "telegram_published_at": "2026-10-18T13:16:35.008587+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/trailblazers-into-the-march.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-18T13:02:21.811945+00:00"
+  "updated_at": "2026-10-18T13:16:35.008957+00:00"
 }
