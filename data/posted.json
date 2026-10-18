@@ -20484,9 +20484,10 @@
       "telegram_message_id": "1420",
       "telegram_url": "https://t.me/gamepulse_newss/1420",
       "telegram_published_at": "2026-10-18T14:46:35.248924+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/samson-liquid-swords-debt-racer-brawler-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/samson-liquid-swords-debt-racer-brawler-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-18T14:46:36.575139+00:00"
     }
   ],
-  "updated_at": "2026-10-18T14:46:35.249223+00:00"
+  "updated_at": "2026-10-18T14:46:36.575232+00:00"
 }
