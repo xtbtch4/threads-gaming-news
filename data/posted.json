@@ -20484,9 +20484,10 @@
       "telegram_message_id": "1421",
       "telegram_url": "https://t.me/gamepulse_newss/1421",
       "telegram_published_at": "2026-10-18T15:02:17.918629+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-18T15:02:19.227368+00:00"
     }
   ],
-  "updated_at": "2026-10-18T15:02:17.919015+00:00"
+  "updated_at": "2026-10-18T15:02:19.227469+00:00"
 }
