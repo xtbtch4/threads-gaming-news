@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d62d09aa8968090c4724bc4c",
-      "title": "March 2027 Could Be Make-Or-Break For Marathon",
-      "url": "https://gamespot.com/articles/march-2027-could-be-make-or-break-for-marathon",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T18:20:49+00:00",
-      "score": 12,
-      "event_key": "bungie_marathon_update_march_2027_plans",
-      "title_ru": "Bungie готовится к крупному обновлению шутера Marathon в марте 2027 года",
-      "threads_teaser_ru": "Bungie рассказала о планах по развитию шутера Marathon на пути к крупному обновлению в марте 2027 года. Игра отойдет от чистого формата extraction-шутера и предложит связанные PvE-, PvP- и PvEvP-режимы для одиночек и команд.",
-      "telegram_message_id": "218",
-      "telegram_url": "https://t.me/gamepulse_newss/218",
-      "telegram_published_at": "2026-09-24T18:36:45.098976+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Marathon-runner.jpg?w=300",
-      "threads_published_at": "2026-09-24T18:37:06.761365+00:00"
-    },
-    {
       "fingerprint": "c29848be39a05daefeae86fa",
       "title": "Bungie Officially Reveals Massive Marathon Revamp With New PvE Mode",
       "url": "https://polygon.com/bungie-marathon-symbiosis-changes-pve-new-modes",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T14:17:09.465328+00:00"
+    },
+    {
+      "fingerprint": "007c5cff87a910b8d9e942ab",
+      "title": "Forza Horizon Is No Longer the King of Video Game Road Trips",
+      "url": "https://polygon.com/american-truck-simulator-road-trip-forza-horizon",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T14:30:18+00:00",
+      "score": 10,
+      "event_key": "american_truck_simulator_road_trip_dlc_release",
+      "title_ru": "Дополнение Road Trip для American Truck Simulator меняет подход к виртуальным автопутешествиям",
+      "threads_teaser_ru": "Дополнение Road Trip для American Truck Simulator добавляет в игру автомобили и туристические маршруты, бросая вызов серии Forza Horizon в жанре виртуальных автопутешествий.",
+      "telegram_message_id": "1419",
+      "telegram_url": "https://t.me/gamepulse_newss/1419",
+      "telegram_published_at": "2026-10-18T14:32:21.727705+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ats-road-trip-mustang.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-18T14:17:09.465409+00:00"
+  "updated_at": "2026-10-18T14:32:21.727931+00:00"
 }
