@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bac392f71c66e2e1b4a06a95",
-      "title": "The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount",
-      "url": "https://ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-september-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T16:05:00+00:00",
-      "score": 6,
-      "event_key": "msi codex z2 rtx 5070 ti gaming pc walmart discount",
-      "title_ru": "Игровой ПК MSI Codex Z2 с видеокартой RTX 5070 Ti подешевел до $1699",
-      "threads_teaser_ru": "В Walmart снизили цену на игровой ПК MSI Codex Z2 с видеокартой GeForce RTX 5070 Ti и процессором AMD Ryzen 7 до $1699.",
-      "telegram_message_id": "217",
-      "telegram_url": "https://t.me/gamepulse_newss/217",
-      "telegram_published_at": "2026-09-24T18:33:20.598455+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/22/msicodexz2-1790095505146.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T18:33:20.602875+00:00"
-    },
-    {
       "fingerprint": "d62d09aa8968090c4724bc4c",
       "title": "March 2027 Could Be Make-Or-Break For Marathon",
       "url": "https://gamespot.com/articles/march-2027-could-be-make-or-break-for-marathon",
@@ -20487,7 +20470,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-ball-super-beerus.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-18T14:02:04.559211+00:00"
+    },
+    {
+      "fingerprint": "99a26c45c4679b7252e0450a",
+      "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+      "url": "https://eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-17T18:28:40+00:00",
+      "score": 7,
+      "event_key": "vampire the masquerade bloodlines remaster rumoured",
+      "title_ru": "По слухам, в разработке находится ремастер Vampire: The Masquerade - Bloodlines",
+      "threads_teaser_ru": "В сети появились слухи о разработке ремастера культовой RPG 2004 года Vampire: The Masquerade - Bloodlines. Инсайдер утверждает, что это именно ремастер, а не ремейк.",
+      "telegram_message_id": "1418",
+      "telegram_url": "https://t.me/gamepulse_newss/1418",
+      "telegram_published_at": "2026-10-18T14:17:08.025762+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-18T14:02:04.559297+00:00"
+  "updated_at": "2026-10-18T14:17:08.026155+00:00"
 }
