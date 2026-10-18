@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b75af3a025698fe1ad0a2a1c",
-      "title": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\"",
-      "url": "https://rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T19:07:06+00:00",
-      "score": 12,
-      "event_key": "bungie-outlines-future-of-marathon-beyond-extraction",
-      "title_ru": "Bungie рассказала о будущем Marathon и отходе от чистой «эвакуации»",
-      "threads_teaser_ru": "Bungie поделилась планами на будущее шутера Marathon: игра будет развиваться за пределами жанра extraction. Впереди обновление Symbiosis с PvE и командным боем, новые зоны, робот-самурай Bishop и социальный хаб.",
-      "telegram_message_id": "226",
-      "telegram_url": "https://t.me/gamepulse_newss/226",
-      "telegram_published_at": "2026-09-24T19:16:47.628723+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/marathon-perimeter-fungus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T19:16:49.055452+00:00"
-    },
-    {
       "fingerprint": "40702a24d585fbf6806c88bd",
       "title": "Arc Raiders Is Finally Testing A PvE Mode",
       "url": "https://gamespot.com/articles/arc-raiders-is-finally-testing-a-pve-mode",
@@ -20491,7 +20474,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-18T17:16:58.135515+00:00"
+    },
+    {
+      "fingerprint": "7406a7f724c94aaba126fcb9",
+      "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
+      "url": "https://polygon.com/street-fighter-opening-weekend-box-office",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T16:14:05+00:00",
+      "score": 6,
+      "event_key": "Street Fighter opening weekend box office vs Resident Evil",
+      "title_ru": "Street Fighter собрал в прокате в два раза меньше, чем Resident Evil",
+      "threads_teaser_ru": "Фильм Street Fighter стартовал в прокате заметно слабее Resident Evil. Лента по мотивам файтинга собрала $31 млн против $60 млн у конкурента, также уступив результатам Mortal Kombat 2. А вот настоящий сюрприз преподнесла документалка про Элизабет Холмс.",
+      "telegram_message_id": "1427",
+      "telegram_url": "https://t.me/gamepulse_newss/1427",
+      "telegram_published_at": "2026-10-18T17:32:19.648028+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mr_11021r.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/street-fighter-new-trailer-2026-movie-1788282178.mp4"
     }
   ],
-  "updated_at": "2026-10-18T17:16:58.135615+00:00"
+  "updated_at": "2026-10-18T17:32:19.648444+00:00"
 }
