@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4120ca3b53567c2576557fba",
-      "title": "Marvel’s Wolverine Is Getting a Translucent Yellow Vinyl This December – Here’s Where To Preorder It",
-      "url": "https://ign.com/articles/marvels-wolverine-translucent-yellow-vinyl-where-to-buy",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T15:49:05+00:00",
-      "score": 9,
-      "event_key": "marvels wolverine soundtrack translucent yellow vinyl release",
-      "title_ru": "Саундтрек Marvel’s Wolverine издадут на полупрозрачном желтом виниле",
-      "threads_teaser_ru": "Саундтрек Marvel’s Wolverine от композитора Дэвида Флеминга получит виниловое издание на полупрозрачной желтой пластинке с девятью треками. Релиз состоится 11 декабря.",
-      "telegram_message_id": "204",
-      "telegram_url": "https://t.me/gamepulse_newss/204",
-      "telegram_published_at": "2026-09-24T17:27:23.327993+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/wolverine-vinyl-preorder-1790255116845.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T17:27:23.331524+00:00"
-    },
-    {
       "fingerprint": "a62684c204af8a8e8a3ee012",
       "title": "Where to find Arashiyama Bamboo Forest in Forza Horizon 6",
       "url": "https://polygon.com/forza-horizon-6-fh6-arashiyama-bamboo-forest-location-where-to-find",
@@ -20491,7 +20474,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/world-of-warcraft-forever-gameplay-trailer-1789406057.mp4",
       "threads_published_at": "2026-10-18T04:02:20.085284+00:00"
+    },
+    {
+      "fingerprint": "3d4522d65b19c318e879512a",
+      "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+      "url": "https://eurogamer.net/steam-achievement-sets-beta",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-17T13:12:01+00:00",
+      "score": 11,
+      "event_key": "valve-launches-steam-achievement-sets-beta",
+      "title_ru": "Valve запустила бэту Steam Achievement Sets для группировки достижений",
+      "threads_teaser_ru": "Valve запустила бета-тестирование Steam Achievement Sets. Функция позволяет разработчикам группировать достижения в коллекции и DLC-наборы, сохраняя статус прохождения игроков при выходе нового контента.",
+      "telegram_message_id": "1405",
+      "telegram_url": "https://t.me/gamepulse_newss/1405",
+      "telegram_published_at": "2026-10-18T10:46:48.584103+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-18T04:02:20.085401+00:00"
+  "updated_at": "2026-10-18T10:46:48.584427+00:00"
 }
