@@ -20489,10 +20489,11 @@
       "telegram_message_id": "1430",
       "telegram_url": "https://t.me/gamepulse_newss/1430",
       "telegram_published_at": "2026-10-18T20:17:33.498256+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-witch-s-bakery-trailer-screen.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/the-witch-s-bakery-release-teaser-opening-song-1792174455.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/the-witch-s-bakery-release-teaser-opening-song-1792174455.mp4",
+      "threads_published_at": "2026-10-18T20:17:35.055529+00:00"
     }
   ],
-  "updated_at": "2026-10-18T20:17:33.498609+00:00"
+  "updated_at": "2026-10-18T20:17:35.055636+00:00"
 }
