@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c245b0ec2d6b609c83a8ac3f",
-      "title": "Counter-Strike Co-Creator Says Gabe Newell Got So Obsessed With Mongolian Throat Singing at Valve HQ That Staff Started Closing Their Office Doors to Escape the Noise",
-      "url": "https://ign.com/articles/counter-strike-co-creator-says-gabe-newell-got-so-obsessed-with-mongolian-throat-singing-at-valve-hq-that-staff-started-closing-their-office-doors-to-escape-the-noise",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T18:03:28+00:00",
-      "score": 15,
-      "event_key": "gabe_newell_mongolian_throat_singing_valve_office",
-      "title_ru": "Гейб Ньюэлл увлекся монгольским горловым пением в офисе Valve",
-      "threads_teaser_ru": "Соавтор Counter-Strike Мин Ли рассказал, что Гейб Ньюэлл так увлекся монгольским горловым пением в офисе Valve, что сотрудникам приходилось закрывать двери, чтобы спастись от шума.",
-      "telegram_message_id": "223",
-      "telegram_url": "https://t.me/gamepulse_newss/223",
-      "telegram_published_at": "2026-09-24T19:02:14.086678+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/gabe-newell-mongolian-throat-singing-1790272489924.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T19:02:15.662405+00:00"
-    },
-    {
       "fingerprint": "31bcaf3d88467b1392acbb15",
       "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
       "url": "https://gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai",
@@ -20489,7 +20472,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22417036/Shrek_2_Movie_Review.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/06/shrek-5-official-teaser-trailer-1781623120.mp4",
       "threads_published_at": "2026-10-18T15:32:18.564422+00:00"
+    },
+    {
+      "fingerprint": "92139e8d094a9628f427d0c7",
+      "title": "Epic Games CEO Believes A 'Golden Age Of Gaming' Is Imminent Because of AI",
+      "url": "https://polygon.com/epic-games-tim-sweeney-gold-age-of-gaming-ai-development",
+      "source": "Polygon",
+      "published_at_source": "2026-10-18T15:43:33+00:00",
+      "score": 8,
+      "event_key": "Epic Games CEO Tim Sweeney supports AI in game development",
+      "title_ru": "Глава Epic Games прогнозирует «золотой век игр» благодаря ИИ",
+      "threads_teaser_ru": "Тим Суини уверен, что ИИ поможет создавать масштабные игры быстрее и эффективнее, а индустрию ждет «золотой век». Глава Epic Games продолжает отстаивать свою позицию, несмотря на критику в игровом сообществе и слухи об отказах партнеров от сотрудничества с компанией.",
+      "telegram_message_id": "1424",
+      "telegram_url": "https://t.me/gamepulse_newss/1424",
+      "telegram_published_at": "2026-10-18T15:47:11.135592+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/fortnite-star-wars-uefn.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/fortnitemares-2026-gameplay-trailer-1790849452.mp4"
     }
   ],
-  "updated_at": "2026-10-18T15:32:18.564539+00:00"
+  "updated_at": "2026-10-18T15:47:11.135853+00:00"
 }
