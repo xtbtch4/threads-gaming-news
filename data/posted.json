@@ -20484,10 +20484,11 @@
       "telegram_message_id": "1422",
       "telegram_url": "https://t.me/gamepulse_newss/1422",
       "telegram_published_at": "2026-10-18T15:16:59.307760+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/341922.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/luis-carazo-says-this-is-the-most-important-part-of-d-d-1791882245.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/luis-carazo-says-this-is-the-most-important-part-of-d-d-1791882245.mp4",
+      "threads_published_at": "2026-10-18T15:17:00.648647+00:00"
     }
   ],
-  "updated_at": "2026-10-18T15:16:59.308090+00:00"
+  "updated_at": "2026-10-18T15:17:00.648806+00:00"
 }
