@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "40b9c799e3c5bfc15ef9747b",
-      "title": "PC Gaming News",
-      "url": "https://rockpapershotgun.com/news",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T12:07:00+00:00",
-      "score": 6,
-      "event_key": "rebel wolves blood of dawnwalker first patch difficulty mode",
-      "title_ru": "Первый крупный патч для The Blood of Dawnwalker выйдет в следующем месяце",
-      "threads_teaser_ru": "Разработчики Rebel Wolves анонсировали первый крупный патч для The Blood of Dawnwalker. Он принесет в игру долгожданный сюжетный режим и более простой уровень сложности.",
-      "telegram_message_id": "259",
-      "telegram_url": "https://t.me/gamepulse_newss/259",
-      "telegram_published_at": "2026-09-25T07:22:05.686426+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/love-alt-delete.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-25T07:22:06.985974+00:00"
-    },
-    {
       "fingerprint": "427f5ea09276b616ac33a9a7",
       "title": "29 Years Later, Charlie Brown's Wisest Quote Is Still an All-Time 'Peanuts' Classic",
       "url": "https://polygon.com/wisest-charlie-brown-line",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/saros-isnt-a-roguelike-header.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-19T14:33:02.933050+00:00"
+    },
+    {
+      "fingerprint": "70fc78313d667e8645f13602",
+      "title": "Crusader Kings 3's merchant republics expansion, Silk and Silver, will release during the very quiet time of mid-November 2026",
+      "url": "https://rockpapershotgun.com/crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-release-during-the-very-quiet-time-of-mid-november-2026",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-19T14:55:52+00:00",
+      "score": 14,
+      "event_key": "crusader-kings-3-silk-and-silver-release-date",
+      "title_ru": "Анонсирована дата релиза дополнения Silk and Silver для Crusader Kings 3",
+      "threads_teaser_ru": "Дополнение Silk and Silver для Crusader Kings 3 получило дату выхода. Релиз состоится 17 ноября 2026 года и принесет в игру механики торговых республик, управления компаниями и роли Дожа, но обойдется без морских сражений.",
+      "telegram_message_id": "1460",
+      "telegram_url": "https://t.me/gamepulse_newss/1460",
+      "telegram_published_at": "2026-10-19T15:17:01.705620+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/crusader-kings-3-silk-and-silver-release-date-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T14:33:02.933140+00:00"
+  "updated_at": "2026-10-19T15:17:01.705850+00:00"
 }
