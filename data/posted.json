@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b391e43136b85b0e0ddfd6d7",
-      "title": "Steam’s Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis",
-      "url": "https://gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T20:15:24+00:00",
-      "score": 12,
-      "event_key": "punk games showcase steam october 2026",
-      "title_ru": "В Steam пройдет фестиваль Punk Games Showcase",
-      "threads_teaser_ru": "С 9 по 16 октября в Steam пройдет фестиваль Punk Games Showcase, посвященный панк-культуре в видеоиграх. Организаторы отобрали более 100 проектов из 400 заявок, тщательно отсеивая игры с генеративным ИИ.",
-      "telegram_message_id": "233",
-      "telegram_url": "https://t.me/gamepulse_newss/233",
-      "telegram_published_at": "2026-09-24T20:42:11.890678+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/key_art_1920x1080.png?w=300",
-      "threads_published_at": "2026-09-24T20:42:13.337132+00:00"
-    },
-    {
       "fingerprint": "bac85fd6679f4eb312f52d36",
       "title": "First Full Madden Movie Trailer Has Us So Very Confused",
       "url": "https://gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused",
@@ -20493,7 +20476,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modesty-blaise-willie-garvin-mister-sun-1985.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
       "threads_published_at": "2026-10-18T22:02:44.256207+00:00"
+    },
+    {
+      "fingerprint": "9cfde30bbad3530515484d1b",
+      "title": "Don Bradman Cricket Jr Announced for PC and Consoles",
+      "url": "https://ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T00:12:40+00:00",
+      "score": 11,
+      "event_key": "don-bradman-cricket-jr-announced-for-pc-and-consoles",
+      "title_ru": "Анонсирована аркадная игра Don Bradman Cricket Jr",
+      "threads_teaser_ru": "Издательство Tru Blu Games анонсировало аркаду Don Bradman Cricket Jr для PC и консолей. Проект получит мультяшный стиль, локальный режим на двоих и уникальную мини-игру.",
+      "telegram_message_id": "1434",
+      "telegram_url": "https://t.me/gamepulse_newss/1434",
+      "telegram_published_at": "2026-10-19T01:02:24.284281+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/18/donbradmanjr-blogroll-1792364871220.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-18T22:02:44.256311+00:00"
+  "updated_at": "2026-10-19T01:02:24.284567+00:00"
 }
