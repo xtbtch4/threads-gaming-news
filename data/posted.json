@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "218ab6fbbc28bc83756c235e",
-      "title": "One of DC’s Best Superhero Shows Is Now Free to Stream",
-      "url": "https://polygon.com/teen-titans-2003-dc-comics-rec",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T03:00:15+00:00",
-      "score": 7,
-      "event_key": "teen titans animated series streaming on tubi",
-      "title_ru": "Анимационный сериал «Юные титаны» стал доступен для бесплатного просмотра",
-      "threads_teaser_ru": "Популярный анимационный сериал «Юные титаны» теперь можно бесплатно посмотреть на стриминговой платформе Tubi. Шоу выделяется упором на подростковые проблемы и отказ от секретных личностей героев.",
-      "telegram_message_id": "257",
-      "telegram_url": "https://t.me/gamepulse_newss/257",
-      "telegram_published_at": "2026-09-25T03:02:54.960052+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/slade.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/cosmic-comics-sci-fi-romance-and-superheroes-in-space-1789474805.mp4",
-      "threads_published_at": "2026-09-25T03:02:56.298017+00:00"
-    },
-    {
       "fingerprint": "ebe40d03f6bb21950916805f",
       "title": "How Silent Hill: Townfall Brings a New Perspective to the Iconic Horror Series",
       "url": "https://ign.com/articles/how-silent-hill-townfall-brings-a-new-perspective-to-the-iconic-horror-series",
@@ -20494,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Faraway.jpg?w=300",
       "threads_published_at": "2026-10-19T14:02:08.320887+00:00"
+    },
+    {
+      "fingerprint": "ad6e7009d605d5b5917a275a",
+      "title": "Taika Waititi's Star Wars Movie Gets Disappointing Update",
+      "url": "https://polygon.com/star-wars-taika-waititi-movie-on-ice",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T14:14:55+00:00",
+      "score": 14,
+      "event_key": "Taika Waititi Star Wars movie put on ice",
+      "title_ru": "Фильм по Star Wars от Тайки Вайтити поставлен на паузу",
+      "threads_teaser_ru": "Фильм по Star Wars от режиссера Тайки Вайтити официально поставлен на паузу. Постановщик сообщил, что проект заморожен, а у него в планах еще несколько других картин.",
+      "telegram_message_id": "1458",
+      "telegram_url": "https://t.me/gamepulse_newss/1458",
+      "telegram_published_at": "2026-10-19T14:17:26.770167+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22161328/GettyImages_1197747513.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio7-v3-1791402082.mp4"
     }
   ],
-  "updated_at": "2026-10-19T14:02:08.320978+00:00"
+  "updated_at": "2026-10-19T14:17:26.770495+00:00"
 }
