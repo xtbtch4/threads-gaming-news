@@ -20491,9 +20491,10 @@
       "telegram_message_id": "1445",
       "telegram_url": "https://t.me/gamepulse_newss/1445",
       "telegram_published_at": "2026-10-19T10:47:08.034298+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-19T10:47:09.525316+00:00"
     }
   ],
-  "updated_at": "2026-10-19T10:47:08.034668+00:00"
+  "updated_at": "2026-10-19T10:47:09.525412+00:00"
 }
