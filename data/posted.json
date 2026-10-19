@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fd9decf3d751823222d0d116",
-      "title": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
-      "url": "https://rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-25T10:12:53+00:00",
-      "score": 14,
-      "event_key": "armed_fantasia_jrpg_cancelled_by_digital_bros",
-      "title_ru": "JRPG Armed Fantasia отменена спустя четыре года после Kickstarter",
-      "threads_teaser_ru": "Разработка яркой JRPG Armed Fantasia полностью прекращена. Проект, задуманный как духовный наследник Wild Arms, отменили спустя четыре года после успешной краудфандинг-кампании.",
-      "telegram_message_id": "265",
-      "telegram_url": "https://t.me/gamepulse_newss/265",
-      "telegram_published_at": "2026-09-25T10:16:52.490099+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/AF_PRESS_SS_02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-25T10:16:53.735009+00:00"
-    },
-    {
       "fingerprint": "8af5aad9832e4dc81fa8d4e9",
       "title": "Paradise Lust 2",
       "url": "https://store.steampowered.com/news",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/arc-raiders-headline.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-19T17:32:47.308600+00:00"
+    },
+    {
+      "fingerprint": "5f1162b62d4058da53644604",
+      "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
+      "url": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-19T18:00:00+00:00",
+      "score": 14,
+      "event_key": "modern warfare 4 operators weapons and multiplayer features",
+      "title_ru": "Подробности о релизе Call of Duty: Modern Warfare 4",
+      "threads_teaser_ru": "Xbox Wire опубликовал подробности о мультиплеере Call of Duty: Modern Warfare 4 перед релизом. Что известно об операторах, оружии и системе создания классов на запуске?",
+      "telegram_message_id": "1466",
+      "telegram_url": "https://t.me/gamepulse_newss/1466",
+      "telegram_published_at": "2026-10-19T18:02:40.033116+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-RFL-OPS-WEAPONS-TOUT-2343b867635ca44979bc.jpg"
     }
   ],
-  "updated_at": "2026-10-19T17:32:47.308685+00:00"
+  "updated_at": "2026-10-19T18:02:40.033249+00:00"
 }
