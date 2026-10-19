@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cdb81067188b9b77bf6ae2f9",
-      "title": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://eurogamer.net/sony-playstation-disc-ending-survey-report",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-25T11:00:43+00:00",
-      "score": 11,
-      "event_key": "sony_survey_developers_playstation_discs_ending",
-      "title_ru": "Sony рассылает разработчикам масштабный опрос о прекращении выпуска дисков для PlayStation",
-      "threads_teaser_ru": "Sony якобы разослала разработчикам масштабный опрос о решении отказаться от физических носителей для PlayStation. Ранее компания планировала начать сокращение выпуска дисков с 2028 года.",
-      "telegram_message_id": "269",
-      "telegram_url": "https://t.me/gamepulse_newss/269",
-      "telegram_published_at": "2026-09-25T11:02:22.631518+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/wolverine-disc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-25T11:02:23.983829+00:00"
-    },
-    {
       "fingerprint": "871f55cecfca05c40f75e90e",
       "title": "Nintendo Wins $4.5 Million From Reddit Mod Who Sold Pirated Switch Games",
       "url": "https://ign.com/articles/nintendo-wins-45-million-from-reddit-mod-who-sold-pirated-switch-games",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/maxresdefault_7fde0d.jpg?w=300",
       "threads_published_at": "2026-10-19T21:32:18.192187+00:00"
+    },
+    {
+      "fingerprint": "013e7b6682459a57908d7d30",
+      "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+      "url": "https://ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T21:14:31+00:00",
+      "score": 15,
+      "event_key": "love and deepspace blade runner crossover valko controversy",
+      "title_ru": "Love and Deepspace запускает кроссовер с Blade Runner на фоне параллелей с удаленным персонажем",
+      "threads_teaser_ru": "В Love and Deepspace начался кроссовер с Blade Runner 2049, вызвавший у фанатов ассоциации с отмененным персонажем Valko. Игроки нашли параллели в сюжетах и надеются на возвращение героя.",
+      "telegram_message_id": "1470",
+      "telegram_url": "https://t.me/gamepulse_newss/1470",
+      "telegram_published_at": "2026-10-19T22:02:45.640142+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/edited-photo-1792443609711.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-19T21:32:18.192274+00:00"
+  "updated_at": "2026-10-19T22:02:45.640518+00:00"
 }
