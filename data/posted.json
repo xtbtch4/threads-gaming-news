@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9e0fbb3dca05cfba05b6a496",
-      "title": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
-      "url": "https://eurogamer.net/xbox-mythic-platinum-achievement",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-24T10:45:03+00:00",
-      "score": 12,
-      "event_key": "xbox_mythic_achievement_leaked_pc_app_restructuring",
-      "title_ru": "В приложении Xbox для ПК нашли упоминание аналога платиновых трофеев",
-      "threads_teaser_ru": "В приложении Xbox для ПК обнаружили упоминание награды Mythic Achievement с 15-секундным звуком разблокировки. Функция может стать аналогом платиновых трофеев PlayStation.",
-      "telegram_message_id": "237",
-      "telegram_url": "https://t.me/gamepulse_newss/237",
-      "telegram_published_at": "2026-09-24T21:16:50.937931+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-mythic-achievement.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T21:16:53.014689+00:00"
-    },
-    {
       "fingerprint": "fe5251e3bc682c728b01883d",
       "title": "All Xbox rumors, changes, and cancelled games in 2026 (so far)",
       "url": "https://polygon.com/xbox-layoffs-cancellations-studio-closures",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-treasure-everywhere.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-19T03:02:13.059532+00:00"
+    },
+    {
+      "fingerprint": "3a99933355dc912c51882045",
+      "title": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
+      "url": "https://ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T02:37:59+00:00",
+      "score": 7,
+      "event_key": "the-simpsons-apu-returns-with-new-voice-actor",
+      "title_ru": "Apu впервые за почти десять лет заговорил в The Simpsons",
+      "threads_teaser_ru": "В новом эпизоде 38-го сезона The Simpsons персонаж Apu заговорил впервые почти за десять лет. Его новым голосом стал актер Sunil Malhotra.",
+      "telegram_message_id": "1438",
+      "telegram_url": "https://t.me/gamepulse_newss/1438",
+      "telegram_published_at": "2026-10-19T03:16:59.921358+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/simpsonsthumb-1792376916327.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-19T03:02:13.059627+00:00"
+  "updated_at": "2026-10-19T03:16:59.921580+00:00"
 }
