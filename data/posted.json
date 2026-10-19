@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e9f4e7b59dfa4ba65eba0b19",
-      "title": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
-      "url": "https://eurogamer.net/world-of-warcraft-forever-outstanding",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-25T11:33:13+00:00",
-      "score": 9,
-      "event_key": "world of warcraft forever beta launch blizzcon",
-      "title_ru": "World of Warcraft: Forever возвращает магию оригинальной MMORPG",
-      "threads_teaser_ru": "Бета-версия проекта World of Warcraft: Forever от Blizzard уже запущена и предлагает игрокам прокачку до 20 уровня, новые зоны, переработанные расово-классовые комбинации и посвежевший визуальный стиль.",
-      "telegram_message_id": "271",
-      "telegram_url": "https://t.me/gamepulse_newss/271",
-      "telegram_published_at": "2026-09-25T11:36:55.267539+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-25T11:36:56.660104+00:00"
-    },
-    {
       "fingerprint": "55c0db6d57dfa40471e604d3",
       "title": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October",
       "url": "https://rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-19T22:17:15.416952+00:00"
+    },
+    {
+      "fingerprint": "52a0d1c525fbc363aecd8c35",
+      "title": "The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack",
+      "url": "https://news.xbox.com/en-us/2026/10/19/the-call-of-duty-endowment-c-o-d-e-presents-the-forged-in-valor-series-a-look-into-the-making-of-the-valor-pack",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-19T22:23:07+00:00",
+      "score": 12,
+      "event_key": "call of duty endowment launches forged in valor series",
+      "title_ru": "The Call of Duty Endowment представила серию Forged in Valor",
+      "threads_teaser_ru": "The Call of Duty Endowment запускает видеосерию Forged in Valor. Зрителям покажут, как создавался набор Valor Pack для игр франшизы Call of Duty. Подробности о проекте уже раскрыты.",
+      "telegram_message_id": "1472",
+      "telegram_url": "https://t.me/gamepulse_newss/1472",
+      "telegram_published_at": "2026-10-19T22:32:43.451951+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-CODE-FORGED-IN-VALOR-TOUT-cc3914605f091248c7e6.jpg"
     }
   ],
-  "updated_at": "2026-10-19T22:17:15.417044+00:00"
+  "updated_at": "2026-10-19T22:32:43.452278+00:00"
 }
