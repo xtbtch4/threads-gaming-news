@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f21a882259e3cb2a12ab095f",
-      "title": "The Back to the Future 4K Blu-ray Trilogy Drops to It's Lowest Price Ever at Gruv",
-      "url": "https://ign.com/articles/the-back-to-the-future-4k-blu-ray-trilogy-drops-to-its-lowest-price-ever-at-gruv",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T19:05:11+00:00",
-      "score": 6,
-      "event_key": "back_to_the_future_4k_blu_ray_discount_gruv",
-      "title_ru": "Трилогия «Назад в будущее» на 4K Blu-ray продается по рекордной скидке",
-      "threads_teaser_ru": "Комплект трилогии «Назад в будущее» на 4K Blu-ray подешевел до рекордно низкой цены в магазине Gruv. В то же время более свежее издание к 40-летию серии может упасть в цене еще сильнее во время ноябрьских распродаж.",
-      "telegram_message_id": "256",
-      "telegram_url": "https://t.me/gamepulse_newss/256",
-      "telegram_published_at": "2026-09-25T02:03:15.698274+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/back-to-the-future-1790273973166.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T02:03:16.907427+00:00"
-    },
-    {
       "fingerprint": "218ab6fbbc28bc83756c235e",
       "title": "One of DC’s Best Superhero Shows Is Now Free to Stream",
       "url": "https://polygon.com/teen-titans-2003-dc-comics-rec",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/1_36b4a0.jpg?w=300",
       "threads_published_at": "2026-10-19T13:32:14.166306+00:00"
+    },
+    {
+      "fingerprint": "fccecbe60a71479e75796e5e",
+      "title": "After 16 Years, Chill Sci-Fi Game Faraway Has A Release Date",
+      "url": "https://gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-19T13:00:00+00:00",
+      "score": 15,
+      "event_key": "faraway release date announced after sixteen years",
+      "title_ru": "Релиз расслабляющей научно-фантастической игры Faraway состоится через 16 лет после анонса",
+      "threads_teaser_ru": "Научно-фантастическая игра Faraway от разработчика Steph Thirion и издательства Annapurna Interactive получила дату релиза спустя 16 лет после анонса. Проект выйдет 5 ноября на ПК и консолях.",
+      "telegram_message_id": "1457",
+      "telegram_url": "https://t.me/gamepulse_newss/1457",
+      "telegram_published_at": "2026-10-19T14:02:06.809408+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Faraway.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-19T13:32:14.166407+00:00"
+  "updated_at": "2026-10-19T14:02:06.809541+00:00"
 }
