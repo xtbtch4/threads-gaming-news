@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5f9dd34b946459de1a2bd160",
-      "title": "The Daran 288Wh 600W LiFePO4 Power Station Drops to $129.99 Ahead of Amazon Prime Day",
-      "url": "https://ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-september-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T20:40:00+00:00",
-      "score": 9,
-      "event_key": "daran-power-station-discount-amazon-prime-day",
-      "title_ru": "Портативная зарядная станция Daran 288Wh 600W подешевела до $129.99",
-      "threads_teaser_ru": "Портативная зарядная станция Daran 288Wh 600W LiFePO4 временно упала в цене до $129.99 перед Amazon Prime Day. Устройство весит менее 9 фунтов и оснащено емкой батареей на 90 000 mAh.",
-      "telegram_message_id": "239",
-      "telegram_url": "https://t.me/gamepulse_newss/239",
-      "telegram_published_at": "2026-09-24T21:42:16.575036+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/daranpowerstation2-1790279753982.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T21:42:17.921193+00:00"
-    },
-    {
       "fingerprint": "f9aec9191b39634831968110",
       "title": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio",
       "url": "https://eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-vimeo-itsthegreatpumpkincharliebrownvideosmoviesonvimeo-22-55.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-19T04:02:27.973370+00:00"
+    },
+    {
+      "fingerprint": "c30308f35313581d616c0535",
+      "title": "Tom Cruise's 10/10 War Action Epic Is About to Say Goodbye to HBO Max",
+      "url": "https://polygon.com/tom-cruise-the-last-samurai-leaving-hbo-max-october-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T08:00:19+00:00",
+      "score": 8,
+      "event_key": "the last samurai leaving hbo max october 2026",
+      "title_ru": "Фильм The Last Samurai покидает HBO Max в конце октября",
+      "threads_teaser_ru": "Исторический эпик The Last Samurai с Томом Крузом и Кеном Ватанабе скоро исчезнет из библиотеки HBO Max. Фильм покинет сервис в конце октября, так что зрители имеют последний шанс пересмотреть картину.",
+      "telegram_message_id": "1440",
+      "telegram_url": "https://t.me/gamepulse_newss/1440",
+      "telegram_published_at": "2026-10-19T08:02:36.451128+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-last-samurai-tom-cruise.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-19T04:02:27.973462+00:00"
+  "updated_at": "2026-10-19T08:02:36.451385+00:00"
 }
