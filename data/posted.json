@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f7b2fd497ba06cf7d2252cad",
-      "title": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
-      "url": "https://polygon.com/magic-mtg-spider-man-commander-deck-christmas",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T10:32:20+00:00",
-      "score": 8,
-      "event_key": "spider-man-mtg-commander-deck-leak-december",
-      "title_ru": "Утечка: Magic: The Gathering получит колоду Commander по Человеку-пауку",
-      "threads_teaser_ru": "Появилась новая утечка информации о возможном выходе колоды Commander по Человеку-пауку для Magic: The Gathering. Релиз может состояться уже в декабре этого года.",
-      "telegram_message_id": "267",
-      "telegram_url": "https://t.me/gamepulse_newss/267",
-      "telegram_published_at": "2026-09-25T10:37:03.211682+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/screenshot-2025-09-02-at-11-45-00-am.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/i-read-all-337-books-in-skyrim-so-you-don-t-have-to-unraveled-1790248492.mp4",
-      "threads_published_at": "2026-09-25T10:37:04.538704+00:00"
-    },
-    {
       "fingerprint": "9e1273f1b45d821c25e60a4b",
       "title": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
       "url": "https://ign.com/articles/thats-where-doomsday-is-born-avengers-director-discusses-endgame-encores-new-ending-that-rewrites-steve-rogers-story",
@@ -20494,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-19T18:17:34.571377+00:00"
+    },
+    {
+      "fingerprint": "76d83f7e8136201803bd1ac2",
+      "title": "\"Sexy sorceresses\" and \"bare-chested fighters\": Dragon Age's original artists wanted to base it on Conan the Barbarian, much to the outrage of the designers",
+      "url": "https://rockpapershotgun.com/sexy-sorceresses-and-bare-chested-fighters-dragon-ages-original-artists-wanted-to-base-it-on-conan-the-barbarian-much-to-the-outrage-of-the-designers",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-19T16:05:04+00:00",
+      "score": 12,
+      "event_key": "david gaider reveals internal conflicts during dragon age development",
+      "title_ru": "David Gaider рассказал о внутренних разногласиях при разработке Dragon Age: Origins",
+      "threads_teaser_ru": "Разработка Dragon Age: Origins превратилась в «войну фракций» внутри BioWare. Художники хотели стиль Conan the Barbarian, геймдизайнеры — Lord of the Rings, а продюсеры навязывали эстетику Diablo. Как в таких условиях создавалась игра — в новом материале.",
+      "telegram_message_id": "1468",
+      "telegram_url": "https://t.me/gamepulse_newss/1468",
+      "telegram_published_at": "2026-10-19T18:32:46.513327+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dragon-age-origins-e3-2004.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T18:17:34.571456+00:00"
+  "updated_at": "2026-10-19T18:32:46.513644+00:00"
 }
