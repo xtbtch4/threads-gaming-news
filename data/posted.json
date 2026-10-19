@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dbf3142a3a9ed37abd72a039",
-      "title": "Robert Pattinson Casts Doubt on a Crossover Between His Batman and James Gunn's Superman",
-      "url": "https://ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T19:36:38+00:00",
-      "score": 6,
-      "event_key": "robert-pattinson-doubts-batman-superman-crossover",
-      "title_ru": "Роберт Паттинсон усомнился в кроссовере своего Бэтмена и Супермена Джеймса Ганна",
-      "threads_teaser_ru": "Роберт Паттинсон считает маловероятным появление своего Бэтмена в киновселенной DC Джеймса Ганна из-за сильных различий в тоне и стиле.",
-      "telegram_message_id": "255",
-      "telegram_url": "https://t.me/gamepulse_newss/255",
-      "telegram_published_at": "2026-09-25T01:57:27.103778+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/15/batmanthumb-1784125923794.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T01:57:28.395084+00:00"
-    },
-    {
       "fingerprint": "f21a882259e3cb2a12ab095f",
       "title": "The Back to the Future 4K Blu-ray Trilogy Drops to It's Lowest Price Ever at Gruv",
       "url": "https://ign.com/articles/the-back-to-the-future-4k-blu-ray-trilogy-drops-to-its-lowest-price-ever-at-gruv",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-biddy-blas-capture-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-19T13:16:45.611393+00:00"
+    },
+    {
+      "fingerprint": "b8e236dcf88b43cf4cf68cd4",
+      "title": "Faraway – Official Release Date Reveal Trailer",
+      "url": "https://gamespot.com/videos/faraway-official-release-date-reveal-trailer",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-19T13:23:00+00:00",
+      "score": 15,
+      "event_key": "Faraway release date announcement November 2026",
+      "title_ru": "Анонсирована дата релиза аркадной головоломки Faraway",
+      "threads_teaser_ru": "Стала известна дата выхода минималистичной аркадной головоломки Faraway от создателя Eliss Стефа Тириона. Игра о падающей звезде и созвездиях появится на множестве платформ уже 5 ноября.",
+      "telegram_message_id": "1456",
+      "telegram_url": "https://t.me/gamepulse_newss/1456",
+      "telegram_published_at": "2026-10-19T13:32:12.636883+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/1_36b4a0.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-19T13:16:45.611497+00:00"
+  "updated_at": "2026-10-19T13:32:12.637181+00:00"
 }
