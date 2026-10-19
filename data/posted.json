@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ac7e46e63368c63d16a431ac",
-      "title": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
-      "url": "https://ign.com/articles/forza-horizon-6-dev-responds-to-itasha-car-ban-backlash-says-explicit-sexual-content-or-sexually-suggestive-content-is-forbidden",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T09:03:52+00:00",
-      "score": 13,
-      "event_key": "forza horizon 6 itasha car ban backlash and developer response",
-      "title_ru": "Разработчики Forza Horizon 6 ответили на критику банов за дизайн Itasha",
-      "threads_teaser_ru": "Разработчики Forza Horizon 6 ответили на жалобы игроков по поводу банов за аниме-дизайны Itasha. Студия уточнила правила модерации контента.",
-      "telegram_message_id": "263",
-      "telegram_url": "https://t.me/gamepulse_newss/263",
-      "telegram_published_at": "2026-09-25T10:02:05.872024+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/ss-383ace7815eaa8f8f5128a58fd8ca7df911d3e14-1920x1080-1790326952278.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T10:02:07.099154+00:00"
-    },
-    {
       "fingerprint": "65769198f410f8f9d569a837",
       "title": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Biddy-Blas-Crowley.jpg?w=300",
       "threads_published_at": "2026-10-19T16:46:47.345159+00:00"
+    },
+    {
+      "fingerprint": "a09cfd3448538d963ca12a12",
+      "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
+      "url": "https://rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-19T17:02:28+00:00",
+      "score": 12,
+      "event_key": "digital-sun-delays-revamp-playtest-genai-fears",
+      "title_ru": "Разработчики Moonlighter отложили публичную демоверсию ReVamp из-за опасений клонирования с помощью ИИ",
+      "threads_teaser_ru": "Авторы Moonlighter отложили публичное тестирование ReVamp на Steam из-за страха перед ИИ-клонами. Вместо этого пройдет закрытый тест в Discord.",
+      "telegram_message_id": "1464",
+      "telegram_url": "https://t.me/gamepulse_newss/1464",
+      "telegram_published_at": "2026-10-19T17:17:07.787427+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/revamp_WenWzly.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T16:46:47.345259+00:00"
+  "updated_at": "2026-10-19T17:17:07.787800+00:00"
 }
