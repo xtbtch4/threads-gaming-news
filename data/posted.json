@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8af5aad9832e4dc81fa8d4e9",
-      "title": "Paradise Lust 2",
-      "url": "https://store.steampowered.com/news",
-      "source": "Steam",
-      "published_at_source": "2026-09-22T17:00:00+00:00",
-      "score": 5,
-      "event_key": "game of thrones kingsroad restrictive measures against abnormal gameplay",
-      "title_ru": "Меры против нечестной игры в Game of Thrones: Kingsroad",
-      "threads_teaser_ru": "Команда разработчиков Game of Thrones: Kingsroad принимает жесткие меры против использования нелегальных программ и эксплойтов.",
-      "telegram_message_id": "266",
-      "telegram_url": "https://t.me/gamepulse_newss/266",
-      "telegram_published_at": "2026-09-25T10:31:55.176572+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg",
-      "threads_published_at": "2026-09-25T10:31:56.378518+00:00"
-    },
-    {
       "fingerprint": "f7b2fd497ba06cf7d2252cad",
       "title": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
       "url": "https://polygon.com/magic-mtg-spider-man-commander-deck-christmas",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-RFL-OPS-WEAPONS-TOUT-2343b867635ca44979bc.jpg",
       "threads_published_at": "2026-10-19T18:02:41.337284+00:00"
+    },
+    {
+      "fingerprint": "c9043898a20f3ce894c0fead",
+      "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
+      "url": "https://polygon.com/gta-6-rdr2-horse-balls-confirmed-rockstar",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T17:54:41+00:00",
+      "score": 12,
+      "event_key": "rockstar-confirms-rdr2-horse-details-and-gta-6-physics",
+      "title_ru": "Rockstar подтвердила наличие известной детали с физикой в Red Dead Redemption 2 и намекнула на GTA 6",
+      "threads_teaser_ru": "Спустя почти десять лет Rockstar подтвердила существование знаменитой детали из Red Dead Redemption 2 с уникальной физикой. Журналист Джейсон Шрайер считает, что GTA 6 будет полна подобных проработанных мелочей.",
+      "telegram_message_id": "1467",
+      "telegram_url": "https://t.me/gamepulse_newss/1467",
+      "telegram_published_at": "2026-10-19T18:17:32.907818+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-19T18:02:41.337365+00:00"
+  "updated_at": "2026-10-19T18:17:32.907986+00:00"
 }
