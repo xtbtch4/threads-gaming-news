@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "664214fcad086b65c9852837",
-      "title": "The Best News For Saw: Genesis Is We Have To Wait Longer To Play It",
-      "url": "https://gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T23:43:43+00:00",
-      "score": 12,
-      "event_key": "bloober team delayed saw genesis to 2027",
-      "title_ru": "Bloober Team перенесла релиз асимметричного хоррора Saw: Genesis",
-      "threads_teaser_ru": "Студия Bloober Team отложила выход асимметричного хоррора Saw: Genesis в раннем доступе с 2026 на 2027 год. Разработчикам потребовалось больше времени на полировку игры.",
-      "telegram_message_id": "251",
-      "telegram_url": "https://t.me/gamepulse_newss/251",
-      "telegram_published_at": "2026-09-24T23:51:52.516805+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ss_8b5d22f46341214530ecdd8786e76203043dfbd3.1920x1080.webp?w=300",
-      "threads_published_at": "2026-09-24T23:51:53.845718+00:00"
-    },
-    {
       "fingerprint": "402bacf2a51a65cedffba566",
       "title": "Warcraft 3 Reforged: Forsaken Kingdom Review",
       "url": "https://ign.com/articles/warcraft-3-forsaken-kingdom-review",
@@ -20494,7 +20477,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2026/10/9aa3044b4b1785651b3dfe461fc0dcc1ce503a67-scaled.jpg",
       "video_url": "https://stream.mux.com/NkWCQZqPysB02TAz5xugZkD145i006Z493GaaYRDiPY028/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJOa1dDUVpxUHlzQjAyVEF6NXh1Z1prRDE0NWkwMDZaNDkzR2FhWVJEaVBZMDI4IiwiYXVkIjoidiIsImV4cCI6MTc5MjQ1NTExOSwia2lkIjoiNEw1eU9janJWMU5VcVZ6Y1V2SkJuMXdUbTRlVEdHOU1oMDIwMVlrNWp1OU5BIn0.X-2rsMPYH7Ofs4ffj0sqtyfuR1-6yAX3x1eRuJv2Kxiu3WnZSj5Za9iuILovfa9A-yuoNRM_8LaOzdDe0xuqd4FYTB4fKfEJSpyEqi0a3MtoKyOyI5PLd6zhXr0QFTy89nFgGgTlb7c0MlDAa-2DuQRW-GlRosRcPGYcax_BgnHASyuVkcYhsxlJx6MDOP6fehYDGBSt_5UlnJL1noF1crgYh1zu-FgiPp0-SO5Y0-FSIfHOw-L00-HeGZ8vj974oDvbQssOgUKqZjAnVXgnz5hbcNf2_P6mrFgsp_e5rk0rFyQnngrZVfuDO8CbfJEobd4CrOMQyFaQo471zIzVHg",
       "threads_published_at": "2026-10-19T12:16:44.238679+00:00"
+    },
+    {
+      "fingerprint": "5892fa7813254d99e2aff512",
+      "title": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
+      "url": "https://eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-19T12:13:14+00:00",
+      "score": 9,
+      "event_key": "witcher-3-switch-2-patch-5-01-release",
+      "title_ru": "Для The Witcher 3 на Switch 2 вышел патч с улучшением четкости",
+      "threads_teaser_ru": "Для The Witcher 3: Wild Hunt - Remastered на Nintendo Switch 2 начал выходить патч 5.01. Он улучшает разрешение и резкость изображения, а также снижает избыточную яркость освещения.",
+      "telegram_message_id": "1452",
+      "telegram_url": "https://t.me/gamepulse_newss/1452",
+      "telegram_published_at": "2026-10-19T12:32:30.928255+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/geralt-posing-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T12:16:44.238785+00:00"
+  "updated_at": "2026-10-19T12:32:30.928582+00:00"
 }
