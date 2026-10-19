@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f9aec9191b39634831968110",
-      "title": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio",
-      "url": "https://eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-23T09:48:00+00:00",
-      "score": 10,
-      "event_key": "obsidian moves to bethesda during xbox restructuring",
-      "title_ru": "Bethesda пообещала сохранить творческую индивидуальность Obsidian",
-      "threads_teaser_ru": "После масштабной реорганизации Xbox студия Obsidian Entertainment перешла под управление Bethesda. Президент компании заверила, что уникальная творческая индивидуальность разработчиков сохранится.",
-      "telegram_message_id": "240",
-      "telegram_url": "https://t.me/gamepulse_newss/240",
-      "telegram_published_at": "2026-09-24T21:47:38.669197+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/fallout-new-vegas_ykpUnUC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T21:47:39.967437+00:00"
-    },
-    {
       "fingerprint": "496c16f8d501c5b7122c8750",
       "title": "DOOM: The Dark Ages",
       "url": "https://doom.bethesda.net/the-dark-ages",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-last-samurai-tom-cruise.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-19T08:02:37.910758+00:00"
+    },
+    {
+      "fingerprint": "a2837edba8715911efd7ac5b",
+      "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
+      "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-19T08:36:43+00:00",
+      "score": 13,
+      "event_key": "call of duty modern 4 campaign steam reviews",
+      "title_ru": "Кампания Call of Duty: Modern 4 получила высокие оценки в Steam",
+      "threads_teaser_ru": "Кампания Call of Duty: Modern 4 получила рейтинг «Очень положительный» в Steam на основе более чем 3100 отзывов игроков, обогнав предыдущие части серии.",
+      "telegram_message_id": "1441",
+      "telegram_url": "https://t.me/gamepulse_newss/1441",
+      "telegram_published_at": "2026-10-19T08:46:39.438834+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T08:02:37.910845+00:00"
+  "updated_at": "2026-10-19T08:46:39.439190+00:00"
 }
