@@ -20490,9 +20490,10 @@
       "telegram_message_id": "1472",
       "telegram_url": "https://t.me/gamepulse_newss/1472",
       "telegram_published_at": "2026-10-19T22:32:43.451951+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-CODE-FORGED-IN-VALOR-TOUT-cc3914605f091248c7e6.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-CODE-FORGED-IN-VALOR-TOUT-cc3914605f091248c7e6.jpg",
+      "threads_published_at": "2026-10-19T22:32:44.777308+00:00"
     }
   ],
-  "updated_at": "2026-10-19T22:32:43.452278+00:00"
+  "updated_at": "2026-10-19T22:32:44.777394+00:00"
 }
