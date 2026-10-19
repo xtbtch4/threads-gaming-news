@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5342e8248f8f6e151ed55994",
-      "title": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
-      "url": "https://rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-24T21:59:13+00:00",
-      "score": 8,
-      "event_key": "love_alt_delete_y2k_horror_visual_novel_announced",
-      "title_ru": "Анонсирована психологическая хоррор-визуальная новелла LOVE alt delete",
-      "threads_teaser_ru": "Анонсирована Y2K-хоррор-визуальная новелла LOVE alt delete, где игроки тестируют чат-ботов с искусственным интеллектом для романтических отношений. Релиз запланирован на 2027 год в Steam.",
-      "telegram_message_id": "244",
-      "telegram_url": "https://t.me/gamepulse_newss/244",
-      "telegram_published_at": "2026-09-24T22:06:15.563511+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/love-alt-delete.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-24T22:06:16.710369+00:00"
-    },
-    {
       "fingerprint": "0803b8e33af1080fdcb25087",
       "title": "Saraab: Beyond The Veil – Official Release Date Trailer",
       "url": "https://gamespot.com/videos/saraab-beyond-the-veil-official-release-date-trailer",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/castlevania-belmonts-curse-alucard-paintings.jpg?w=300",
       "threads_published_at": "2026-10-19T10:32:13.746049+00:00"
+    },
+    {
+      "fingerprint": "4b273104c570fc9f14cdc56a",
+      "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
+      "url": "https://eurogamer.net/steam-next-fest-2026-over-double",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-19T10:43:26+00:00",
+      "score": 11,
+      "event_key": "steam next fest 2026 over double demos generative ai concerns",
+      "title_ru": "Стартовал Steam Next Fest 2026 с рекордным числом демоверсий",
+      "threads_teaser_ru": "На ПК начался фестиваль Steam Next Fest 2026, предложивший игрокам более 8 тысяч демоверсий — это вдвое больше, чем в прошлом году. Однако рекордный масштаб вызвал серьезные тревоги у разработчиков.",
+      "telegram_message_id": "1445",
+      "telegram_url": "https://t.me/gamepulse_newss/1445",
+      "telegram_published_at": "2026-10-19T10:47:08.034298+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T10:32:13.746150+00:00"
+  "updated_at": "2026-10-19T10:47:08.034668+00:00"
 }
