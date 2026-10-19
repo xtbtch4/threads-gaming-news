@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "26312c2c9aa6aa3bfe83dd1d",
-      "title": "Target Confirms Jack Skellington's Real-Life Height in a New Halloween Sale Listing",
-      "url": "https://ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T21:41:02+00:00",
-      "score": 6,
-      "event_key": "target-confirms-jack-skellingtons-height-halloween-sale",
-      "title_ru": "Target раскрыла рост Джека Скеллингтона в новом товаре к Хэллоуину",
-      "threads_teaser_ru": "Ритейлер Target указал рост Джека Скеллингтона из «Кошмара перед Рождеством» в описании новой хэллоуинской фигурки. Теперь фанаты знают официальный «живой» рост культового персонажа.",
-      "telegram_message_id": "250",
-      "telegram_url": "https://t.me/gamepulse_newss/250",
-      "telegram_published_at": "2026-09-24T23:47:12.872990+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/24/jack-skellington-1790284068722.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-24T23:47:14.345958+00:00"
-    },
-    {
       "fingerprint": "664214fcad086b65c9852837",
       "title": "The Best News For Saw: Genesis Is We Have To Wait Longer To Play It",
       "url": "https://gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it",
@@ -20493,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/19/vincezampella1280jpg-fe1e2d-160w-1792404902827.webp?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-19T12:02:49.557382+00:00"
+    },
+    {
+      "fingerprint": "355c35424f107c5ce624f074",
+      "title": "The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike",
+      "url": "https://blog.playstation.com/2026/10/19/the-saros-zenith-update-out-today-brings-more-ways-to-play-for-newcomers-and-veterans-alike",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-19T12:05:05+00:00",
+      "score": 12,
+      "event_key": "saros zenith update released with new modes and modifiers",
+      "title_ru": "Обновление Zenith для Saros",
+      "threads_teaser_ru": "Для Saros вышло крупное бесплатное обновление Zenith. Оно добавляет режим Boss rush, New Game+ с новыми правилами, модификаторы сложности и полезные настройки доступности.",
+      "telegram_message_id": "1451",
+      "telegram_url": "https://t.me/gamepulse_newss/1451",
+      "telegram_published_at": "2026-10-19T12:16:42.654771+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/9aa3044b4b1785651b3dfe461fc0dcc1ce503a67-scaled.jpg",
+      "video_url": "https://stream.mux.com/NkWCQZqPysB02TAz5xugZkD145i006Z493GaaYRDiPY028/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJOa1dDUVpxUHlzQjAyVEF6NXh1Z1prRDE0NWkwMDZaNDkzR2FhWVJEaVBZMDI4IiwiYXVkIjoidiIsImV4cCI6MTc5MjQ1NTExOSwia2lkIjoiNEw1eU9janJWMU5VcVZ6Y1V2SkJuMXdUbTRlVEdHOU1oMDIwMVlrNWp1OU5BIn0.X-2rsMPYH7Ofs4ffj0sqtyfuR1-6yAX3x1eRuJv2Kxiu3WnZSj5Za9iuILovfa9A-yuoNRM_8LaOzdDe0xuqd4FYTB4fKfEJSpyEqi0a3MtoKyOyI5PLd6zhXr0QFTy89nFgGgTlb7c0MlDAa-2DuQRW-GlRosRcPGYcax_BgnHASyuVkcYhsxlJx6MDOP6fehYDGBSt_5UlnJL1noF1crgYh1zu-FgiPp0-SO5Y0-FSIfHOw-L00-HeGZ8vj974oDvbQssOgUKqZjAnVXgnz5hbcNf2_P6mrFgsp_e5rk0rFyQnngrZVfuDO8CbfJEobd4CrOMQyFaQo471zIzVHg"
     }
   ],
-  "updated_at": "2026-10-19T12:02:49.557474+00:00"
+  "updated_at": "2026-10-19T12:16:42.655143+00:00"
 }
