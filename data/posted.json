@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "829d20d9175bb5d48596cb93",
-      "title": "Control Resonant Is Making Dylan Stronger, Even If He Just Woke Up From A Coma",
-      "url": "https://gamespot.com/articles/control-resonant-is-making-dylan-stronger-even-if-he-just-woke-up-from-a-coma",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-24T17:20:52+00:00",
-      "score": 11,
-      "event_key": "control-resonant-hotfix-133-released-remedy",
-      "title_ru": "Вышло обновление 1.3.3 для Control Resonant",
-      "threads_teaser_ru": "Remedy выпустила хотфикс 1.3.3 для Control Resonant. Обновление снижает здоровье врагов, усиливает Дилана и удешевляет сброс навыков для удобства экспериментов с билдами.",
-      "telegram_message_id": "254",
-      "telegram_url": "https://t.me/gamepulse_newss/254",
-      "telegram_published_at": "2026-09-25T01:52:06.508773+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Control-Resonant-1.jpg?w=300",
-      "threads_published_at": "2026-09-25T01:52:07.871923+00:00"
-    },
-    {
       "fingerprint": "dbf3142a3a9ed37abd72a039",
       "title": "Robert Pattinson Casts Doubt on a Crossover Between His Batman and James Gunn's Superman",
       "url": "https://ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/19/kda-main-1792411869416.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-19T13:02:21.971488+00:00"
+    },
+    {
+      "fingerprint": "55d7d50f8d3c859063470abd",
+      "title": "We've had two great Star Wars games this year, probably because Lucasfilm Games says it's now \"more flexible\" about who it takes pitches from",
+      "url": "https://eurogamer.net/star-wars-games-small-developers-lucasfilm-games-plan",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-19T13:06:53+00:00",
+      "score": 11,
+      "event_key": "lucasfilm games more flexible with star wars pitches",
+      "title_ru": "Lucasfilm Games стала гибче подходить к выбору партнеров для создания игр по Star Wars",
+      "threads_teaser_ru": "Lucasfilm Games изменила подход к выдаче лицензий на игры по Star Wars и теперь открыта для предложений от самых разных студий, что уже привело к релизу Zero Company и Galactic Racer.",
+      "telegram_message_id": "1455",
+      "telegram_url": "https://t.me/gamepulse_newss/1455",
+      "telegram_published_at": "2026-10-19T13:16:43.969614+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-biddy-blas-capture-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-19T13:02:21.971585+00:00"
+  "updated_at": "2026-10-19T13:16:43.969772+00:00"
 }
