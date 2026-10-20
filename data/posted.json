@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7818482c47ceeeeb3cd27d13",
-      "title": "How Ace Combat 8: Wings of Theve uses first-person to tell a more personal story",
-      "url": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-09-25T14:00:34+00:00",
-      "score": 9,
-      "event_key": "ace-combat-8-first-person-storytelling-playstation-5",
-      "title_ru": "Разработчики Ace Combat 8: Wings of Theve рассказали об упоре на личную историю и вид от первого лица",
-      "threads_teaser_ru": "В Ace Combat 8: Wings of Theve разработчики изменили подход к повествованию: игроков ждет вид от первого лица, глубокое взаимодействие с эскадрильей Joker Flight и роль тайного наследника легендарного пилота.",
-      "telegram_message_id": "336",
-      "telegram_url": "https://t.me/gamepulse_newss/336",
-      "telegram_published_at": "2026-09-25T23:02:48.206061+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2028/09/238b9403fba493d99193176f4e8617fa982522ab.jpg",
-      "threads_published_at": "2026-09-25T23:02:49.475814+00:00"
-    },
-    {
       "fingerprint": "2d2527fc5ad2f3ceb98ac9f6",
       "title": "10 Free Browser Games That are Actually Fun to Play",
       "url": "https://polygon.com/best-free-browser-games",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FOUNTAINS_Xbox_trailer_thumbnail_3840x2160px-3454a26deff161397e83-scaled.jpg",
       "threads_published_at": "2026-10-20T20:32:36.551185+00:00"
+    },
+    {
+      "fingerprint": "db9d34d38c4c906ffd712968",
+      "title": "Fight Night, EA's Beloved but Long-Dormant Boxing Sim Franchise, Is Coming Back",
+      "url": "https://ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T20:17:37+00:00",
+      "score": 11,
+      "event_key": "Electronic Arts announces return of Fight Night franchise",
+      "title_ru": "EA подтвердила возвращение серии Fight Night",
+      "threads_teaser_ru": "Electronic Arts прервала долгое молчание вокруг своей боксерской серии Fight Night. Компания запустила официальные аккаунты франшизы и подтвердила, что проект возвращается. Детали о том, будет ли это новая часть или переиздание, пока не раскрываются.",
+      "telegram_message_id": "1537",
+      "telegram_url": "https://t.me/gamepulse_newss/1537",
+      "telegram_published_at": "2026-10-20T21:02:36.124889+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/12/fnr3-blogroll-1786523335779.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T20:32:36.551271+00:00"
+  "updated_at": "2026-10-20T21:02:36.125012+00:00"
 }
