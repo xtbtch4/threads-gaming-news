@@ -20491,9 +20491,10 @@
       "telegram_message_id": "1519",
       "telegram_url": "https://t.me/gamepulse_newss/1519",
       "telegram_published_at": "2026-10-20T15:32:50.260775+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuringnetflix.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuringnetflix.png?w=300",
+      "threads_published_at": "2026-10-20T15:32:51.586386+00:00"
     }
   ],
-  "updated_at": "2026-10-20T15:32:50.261028+00:00"
+  "updated_at": "2026-10-20T15:32:51.586472+00:00"
 }
