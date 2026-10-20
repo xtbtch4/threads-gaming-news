@@ -20490,9 +20490,10 @@
       "telegram_message_id": "1514",
       "telegram_url": "https://t.me/gamepulse_newss/1514",
       "telegram_published_at": "2026-10-20T13:17:44.596881+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Resonance-Thumb.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Resonance-Thumb.jpg?w=300",
+      "threads_published_at": "2026-10-20T13:17:46.015408+00:00"
     }
   ],
-  "updated_at": "2026-10-20T13:17:44.597191+00:00"
+  "updated_at": "2026-10-20T13:17:46.015483+00:00"
 }
