@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7aea00c503251a9f93e2356e",
-      "title": "Ubisoft Was Working on an Official Legend of Zelda Game, Report Says",
-      "url": "https://polygon.com/legend-of-zelda-ganondorf-ubisoft-game-canceled",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T15:47:18+00:00",
-      "score": 10,
-      "event_key": "ubisoft canceled legend of zelda ganondorf spinoff project",
-      "title_ru": "Ubisoft разрабатывала отмененный спин-офф The Legend of Zelda про Ganondorf",
-      "threads_teaser_ru": "Стало известно, что Ubisoft Milan разрабатывала секретный спин-офф The Legend of Zelda, где главным героем должен был стать Ganondorf. Проект получил кодовое название Goliath, но Nintendo в итоге отменила его.",
-      "telegram_message_id": "295",
-      "telegram_url": "https://t.me/gamepulse_newss/295",
-      "telegram_published_at": "2026-09-25T16:56:48.861244+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24582693/ganondorf_totk_trailer.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-25T16:56:50.550292+00:00"
-    },
-    {
       "fingerprint": "caaa17948d7aca0a6fdb00d0",
       "title": "LEGO Astro Bot Set Confirmed as Free Gift with Purchase of PlayStation",
       "url": "https://ign.com/articles/lego-astro-bot-set-confirmed-as-free-gift-with-purchase-of-playstation",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/19/btas-clayface-thumb-1792450433852.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T07:17:18.309259+00:00"
+    },
+    {
+      "fingerprint": "57cf4012d9140374d3f4203d",
+      "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
+      "url": "https://ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T22:18:08+00:00",
+      "score": 6,
+      "event_key": "fan made PS1 style game Resident Evil movie adaptation",
+      "title_ru": "Фанатская игра в стиле PS1 по мотивам фильма Resident Evil от Зака Креггера стала вирусной",
+      "threads_teaser_ru": "Фильм Resident Evil Зака Креггера превратили в ретро-игру в стиле PS1. Инди-разработчик перенес в проект сцену погони, сохранив фиксированные углы камеры и характерную графику оригинальных частей франшизы.",
+      "telegram_message_id": "1496",
+      "telegram_url": "https://t.me/gamepulse_newss/1496",
+      "telegram_published_at": "2026-10-20T07:31:59.298376+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/01/resident-evil-090126-poster-thumb-1788295069881.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T07:17:18.309355+00:00"
+  "updated_at": "2026-10-20T07:31:59.298709+00:00"
 }
