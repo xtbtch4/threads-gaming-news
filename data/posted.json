@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "390c49a13835cec12f71ebdc",
-      "title": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life",
-      "url": "https://eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-25T13:36:42+00:00",
-      "score": 14,
-      "event_key": "Beyond Good & Evil 2 confirmed still in development",
-      "title_ru": "Beyond Good & Evil 2 все еще находится в разработке",
-      "threads_teaser_ru": "Спустя почти 18 лет после анонса разработка Beyond Good & Evil 2 все еще продолжается. Эту информацию подтвердил ведущий сценарист проекта, который работает над игрой последние несколько месяцев в роли консультанта.",
-      "telegram_message_id": "304",
-      "telegram_url": "https://t.me/gamepulse_newss/304",
-      "telegram_published_at": "2026-09-25T18:06:51.149499+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/netflix-beyond-good-and-evil-film-announced-1596272855546.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-25T18:06:52.574571+00:00"
-    },
-    {
       "fingerprint": "14068eae94329d667a370627",
       "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
       "url": "https://ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/08/05/dyinglightthumb-1754406878871.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T10:02:54.558940+00:00"
+    },
+    {
+      "fingerprint": "6c5068e5c94d5b94d4ba93ba",
+      "title": "Cyberpunk: Edgerunners 2 Premieres on Netflix, New Update Announced for Cyberpunk 2077 - CD PROJEKT RED Press Center",
+      "url": "https://press.cdprojektred.com/en/news/1876/edgerunners-2-update-announced-for-cyberpunk-2077",
+      "source": "CD Projekt RED",
+      "published_at_source": "2026-10-20T00:00:00+00:00",
+      "score": 14,
+      "event_key": "cyberpunk edgerunners 2 premiere and cyberpunk 2077 update",
+      "title_ru": "Премьера Cyberpunk: Edgerunners 2 на Netflix и анонс обновления для Cyberpunk 2077",
+      "threads_teaser_ru": "На Netflix вышли все десять серий аниме Cyberpunk: Edgerunners 2 от CD PROJEKT RED и TRIGGER. Одновременно с этим разработчики анонсировали обновление 2.5 для Cyberpunk 2077 с контентом по мотивам шоу.",
+      "telegram_message_id": "1505",
+      "telegram_url": "https://t.me/gamepulse_newss/1505",
+      "telegram_published_at": "2026-10-20T10:17:09.420388+00:00",
+      "threads_id": null,
+      "image_url": "https://cdn-s-press.cdprojektred.com/og-image/og_image.jpg"
     }
   ],
-  "updated_at": "2026-10-20T10:02:54.559022+00:00"
+  "updated_at": "2026-10-20T10:17:09.420571+00:00"
 }
