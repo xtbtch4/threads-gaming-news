@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1482",
       "telegram_url": "https://t.me/gamepulse_newss/1482",
       "telegram_published_at": "2026-10-20T03:32:02.808970+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PoGo-Minior.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PoGo-Minior.jpg?w=300",
+      "threads_published_at": "2026-10-20T03:32:04.043546+00:00"
     }
   ],
-  "updated_at": "2026-10-20T03:32:02.809250+00:00"
+  "updated_at": "2026-10-20T03:32:04.043636+00:00"
 }
