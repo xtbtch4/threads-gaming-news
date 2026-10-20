@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3ab118582a4db6d9639eefda",
-      "title": "Share of the Week – Marvel’s Wolverine",
-      "url": "https://blog.playstation.com/2026/09/25/share-of-the-week-marvels-wolverine",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-09-25T16:00:47+00:00",
-      "score": 10,
-      "event_key": "playstation-share-of-the-week-marvels-wolverine",
-      "title_ru": "Подборка скриншотов из Marvel’s Wolverine в рубрике Share of the Week",
-      "threads_teaser_ru": "PlayStation опубликовала подборку лучших скриншотов из Marvel’s Wolverine в рубрике Share of the Week. Узнайте, какие работы участников попали в еженедневные хайлайты и какая тема ждет фанатов на следующей неделе.",
-      "telegram_message_id": "289",
-      "telegram_url": "https://t.me/gamepulse_newss/289",
-      "telegram_published_at": "2026-09-25T16:12:28.262697+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2028/09/65e085ff586221d85646572c475753b3a82095da.png",
-      "threads_published_at": "2026-09-25T16:12:29.604552+00:00"
-    },
-    {
       "fingerprint": "61fe0afc24666f51486409cd",
       "title": "Konami Teaser Gives Castlevania Fans Hope for a New 3D Collection",
       "url": "https://polygon.com/castlevania-new-collection-40th-anniversary",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-golem-fight.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-20T05:17:33.827607+00:00"
+    },
+    {
+      "fingerprint": "56526ea32f88f2db15c9efb0",
+      "title": "New Pokémon Release Finally Lets You Play As Team Rocket",
+      "url": "https://polygon.com/new-pokemon-game-team-rocket-evolved-what-is-trailer-release",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T20:53:22+00:00",
+      "score": 7,
+      "event_key": "fan project Team Rocket Evolved for Pokémon Emerald announced",
+      "title_ru": "Анонсирован фанатский проект Team Rocket Evolved для Pokémon Emerald",
+      "threads_teaser_ru": "В фанатском проекте Team Rocket Evolved для Pokémon Emerald игрокам предлагают примерить роль злодея. Можно красть чужих монстров, захватывать территории и дослужиться до администратора Team Rocket. Разработчики обещают контент всех поколений Pokémon и отказ от использования ИИ.",
+      "telegram_message_id": "1490",
+      "telegram_url": "https://t.me/gamepulse_newss/1490",
+      "telegram_published_at": "2026-10-20T05:47:12.863034+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/rocket.png?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-10-20T05:17:33.827705+00:00"
+  "updated_at": "2026-10-20T05:47:12.863416+00:00"
 }
