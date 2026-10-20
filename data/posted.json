@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "511007760b88255003463748",
-      "title": "Aniimo – How To Unlock The Legendary Aniimo Irisalis",
-      "url": "https://gamespot.com/articles/aniimo-how-to-unlock-the-legendary-aniimo-irisalis",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T20:06:32+00:00",
-      "score": 5,
-      "event_key": "aniimo walking with irisalis seasonal event release",
-      "title_ru": "Как поймать легендарного Irisalis в Aniimo",
-      "threads_teaser_ru": "В Aniimo стартовало сезонное событие Walking with Irisalis, в рамках которого можно получить первого легендарного питомца. Рассказываем, как собрать 99 Irisalis Petals и скрафтить специальный Aniipod.",
-      "telegram_message_id": "327",
-      "telegram_url": "https://t.me/gamepulse_newss/327",
-      "telegram_published_at": "2026-09-25T20:42:51.052809+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Aniimo-_-Official-Launch-Trailer-Announcement-1-6-screenshot-2.jpg?w=300",
-      "threads_published_at": "2026-09-25T20:42:53.286047+00:00"
-    },
-    {
       "fingerprint": "b7dc2e2bbf5a588eac8cb902",
       "title": "Bird Time correct answers in Fire Emblem Fortune's Weave",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-10-20T18:17:42.798651+00:00"
+    },
+    {
+      "fingerprint": "2a2c98e26182f3e8338ae4dd",
+      "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
+      "url": "https://ign.com/articles/save-10-gift-card-with-select-game-including-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T17:34:13+00:00",
+      "score": 12,
+      "event_key": "best_buy_gift_card_promotion_fall_2026",
+      "title_ru": "Best Buy дарит скидку на подарочные карты при покупке игр вроде GTA 6",
+      "threads_teaser_ru": "Best Buy предлагает скидку $10 на подарочные карты PlayStation Store, Xbox Store и Nintendo eShop при покупке крупных игр вроде GTA 6, Modern Warfare 4 и Gears of War: E-Day.",
+      "telegram_message_id": "1528",
+      "telegram_url": "https://t.me/gamepulse_newss/1528",
+      "telegram_published_at": "2026-10-20T18:32:04.581299+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/untitled-design-1792517205060.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T18:17:42.798732+00:00"
+  "updated_at": "2026-10-20T18:32:04.581611+00:00"
 }
