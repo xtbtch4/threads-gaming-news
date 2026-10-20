@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "db462395e192ec9465b3ab62",
-      "title": "EA Sports FC 27 Review",
-      "url": "https://ign.com/articles/ea-sports-fc-27-review",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T23:50:24+00:00",
-      "score": 6,
-      "event_key": "ea-sports-fc-27-ign-review-published",
-      "title_ru": "Обзор EA Sports FC 27",
-      "threads_teaser_ru": "EA Sports FC 27 получила глубокую тактическую систему и новые роли игроков, но разочаровала сомнительным открытым миром The Grounds, проблемами с серверами и микротранзакциями.",
-      "telegram_message_id": "339",
-      "telegram_url": "https://t.me/gamepulse_newss/339",
-      "telegram_published_at": "2026-09-26T00:02:49.172450+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/19/ea-fc-27-1789778341891.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T00:02:50.521629+00:00"
-    },
-    {
       "fingerprint": "eea5f74cd90a6a38442df0aa",
       "title": "Here’s Why Fortnite Sucks This Season",
       "url": "https://gamespot.com/articles/heres-why-fortnite-sucks-this-season",
@@ -20492,7 +20475,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T23:02:37.097898+00:00"
+    },
+    {
+      "fingerprint": "ebafde0e231390580d6d0a79",
+      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
+      "url": "https://polygon.com/shrek-2-remastered-release-date-trailer-online-co-op",
+      "source": "Polygon",
+      "published_at_source": "2026-10-20T23:05:59+00:00",
+      "score": 14,
+      "event_key": "shrek-2-remastered-announced-aspyr",
+      "title_ru": "Анонсирована Shrek 2 Remastered с поддержкой онлайн-кооператива",
+      "threads_teaser_ru": "Анонсирована Shrek 2 Remastered от Aspyr с разрешением 4K и онлайн-кооперативом на четырех игроков. Игра выйдет в ноябре на современных платформах.",
+      "telegram_message_id": "1540",
+      "telegram_url": "https://t.me/gamepulse_newss/1540",
+      "telegram_published_at": "2026-10-20T23:16:43.087620+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/shrek-2-remastered-key.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/dreamworks-shrek-2-remastered-official-announce-trailer-pre-order-now-1792529192.mp4"
     }
   ],
-  "updated_at": "2026-10-20T23:02:37.097987+00:00"
+  "updated_at": "2026-10-20T23:16:43.088034+00:00"
 }
