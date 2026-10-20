@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "14068eae94329d667a370627",
-      "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
-      "url": "https://ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T17:47:16+00:00",
-      "score": 11,
-      "event_key": "microsoft-drops-copilot-plus-branding-new-surface",
-      "title_ru": "Microsoft отказалась от бренда Copilot+ в новых устройствах Surface",
-      "threads_teaser_ru": "Компания Microsoft перестала использовать бренд Copilot+ спустя два года после запуска. Новые Surface Pro и Surface Laptop лишились этого упоминания, хотя технически соответствуют прежним стандартам.",
-      "telegram_message_id": "305",
-      "telegram_url": "https://t.me/gamepulse_newss/305",
-      "telegram_published_at": "2026-09-25T18:12:32.883590+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/09/01/microsoftboxes2-blogroll-logos-1662054072117.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T18:12:34.198815+00:00"
-    },
-    {
       "fingerprint": "9627128a21b404f45eadabb1",
       "title": "Five Ways to Build a Better Used-Car Business in Used Cars Simulator",
       "url": "https://news.xbox.com/en-us/2026/09/25/five-ways-to-build-a-better-used-car-business",
@@ -20493,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://cdn-s-press.cdprojektred.com/og-image/og_image.jpg",
       "threads_published_at": "2026-10-20T10:17:10.727327+00:00"
+    },
+    {
+      "fingerprint": "6de9b00b83e46420299cfe51",
+      "title": "'Avatar: Seven Havens' Creators Officially Reveal What Inspired the Devastated New World",
+      "url": "https://polygon.com/avatar-seven-havens-makes-the-end-of-the-world-look-beautiful",
+      "source": "Polygon",
+      "published_at_source": "2026-10-20T10:00:17+00:00",
+      "score": 10,
+      "event_key": "avatar-seven-havens-inspirations-moebius-miyazaki-nycc-2026",
+      "title_ru": "Создатели Avatar: Seven Havens рассказали об источниках вдохновения нового постапокалиптического мира",
+      "threads_teaser_ru": "Создатели Avatar: Seven Havens раскрыли источники вдохновения нового мира. На визуальный стиль повлияли работы Moebius, классическое аниме 1970-х и творения Хаяо Миядзаки.",
+      "telegram_message_id": "1506",
+      "telegram_url": "https://t.me/gamepulse_newss/1506",
+      "telegram_published_at": "2026-10-20T10:32:27.403343+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/avatar-seven-havens-spine.avif?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/avatar-seven-havens-official-trailer-paramount-1789032347.mp4"
     }
   ],
-  "updated_at": "2026-10-20T10:17:10.727415+00:00"
+  "updated_at": "2026-10-20T10:32:27.403617+00:00"
 }
