@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3e0e86b6125100bb9f5d24b1",
-      "title": "Next Week on XBOX: New Games for September 28 to October 2",
-      "url": "https://news.xbox.com/en-us/2026/09/25/next-week-on-xbox-new-games-for-september-28-to-october-2",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-25T14:00:00+00:00",
-      "score": 16,
-      "event_key": "xbox_new_games_september_28_october_2_2026",
-      "title_ru": "Игры для Xbox с 28 сентября по 2 октября",
-      "threads_teaser_ru": "С 28 сентября по 2 октября на Xbox и в Game Pass выходят Minecraft Dungeons II, Gears of War: E-Day Premium Edition, Ace Combat 8: Wings of Theve и The Witcher 3: Wild Hunt — Remastered.",
-      "telegram_message_id": "280",
-      "telegram_url": "https://t.me/gamepulse_newss/280",
-      "telegram_published_at": "2026-09-25T14:02:41.707961+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/NWOX_HERO_JPG-77b9d7d8c68d7f8d346a.jpg",
-      "threads_published_at": "2026-09-25T14:02:43.366924+00:00"
-    },
-    {
       "fingerprint": "4562a0224065340c3dcff700",
       "title": "Ace Combat 8 Is Utterly Absurd–And Better Off For it",
       "url": "https://gamespot.com/reviews/ace-combat-8-is-utterly-absurd-and-better-off-for-it",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/03/10/clivebarkershellrasierrevivaloriginsdeveloperdiaryvideo-ign-blogroll-1773154687012.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T03:02:31.559345+00:00"
+    },
+    {
+      "fingerprint": "4fe35f991652056412775448",
+      "title": "Even Sexyy Red Is Confused Why Storm Doesn't Have More Legendary Skins",
+      "url": "https://ign.com/articles/even-sexyy-red-is-confused-why-storm-doesnt-have-more-legendary-skins",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T21:23:37+00:00",
+      "score": 8,
+      "event_key": "sexyy_red_questions_storm_legendary_skins_marvel_rivals",
+      "title_ru": "Рэпер Sexyy Red удивилась нехватке Legendary skins для Storm в Marvel Rivals",
+      "threads_teaser_ru": "Рэпер Sexyy Red публично обратилась к разработчикам Marvel Rivals с вопросом о том, когда Storm получит новый Legendary skin. Фанаты активно поддерживают обсуждение нехватки костюмов для героини.",
+      "telegram_message_id": "1481",
+      "telegram_url": "https://t.me/gamepulse_newss/1481",
+      "telegram_published_at": "2026-10-20T03:16:44.736500+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/sexyy-red-storm-marvel-rivals-1792444747028.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T03:02:31.559433+00:00"
+  "updated_at": "2026-10-20T03:16:44.736781+00:00"
 }
