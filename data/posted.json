@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7452091e4bbec36719c6570f",
-      "title": "Gears Of War: E-Day – Is It On Game Pass?",
-      "url": "https://gamespot.com/articles/gears-of-war-e-day-is-it-on-game-pass",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T13:42:18+00:00",
-      "score": 15,
-      "event_key": "gears of war e day game pass release date",
-      "title_ru": "Выход Gears of War: E-Day в Game Pass",
-      "threads_teaser_ru": "Стала известна дата выхода Gears of War: E-Day в подписке Xbox Game Pass. Игра появится в каталоге в день релиза 6 октября для владельцев подписки на Xbox Series X|S и PC.",
-      "telegram_message_id": "279",
-      "telegram_url": "https://t.me/gamepulse_newss/279",
-      "telegram_published_at": "2026-09-25T13:51:50.883803+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Gears-E-Day_3b1e3f.jpg?w=300",
-      "threads_published_at": "2026-09-25T13:51:52.230801+00:00"
-    },
-    {
       "fingerprint": "3e0e86b6125100bb9f5d24b1",
       "title": "Next Week on XBOX: New Games for September 28 to October 2",
       "url": "https://news.xbox.com/en-us/2026/09/25/next-week-on-xbox-new-games-for-september-28-to-october-2",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Saros-Zenith.webp?w=300",
       "threads_published_at": "2026-10-20T02:46:50.187766+00:00"
+    },
+    {
+      "fingerprint": "c74581f671a9b31a0839fcfe",
+      "title": "Hellraiser's Clive Barker Feared New Game Would Be 'Overly Censored' But Is 'Proud as F**k at the End Result'",
+      "url": "https://ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T21:44:42+00:00",
+      "score": 8,
+      "event_key": "clive_barker_praises_hellraiser_revival_game",
+      "title_ru": "Создатель Hellraiser остался доволен игрой Hellraiser: Revival",
+      "threads_teaser_ru": "Создатель Hellraiser Клайв Баркер признался, что боялся чрезмерной цензуры в Hellraiser: Revival, но остался горд результатом и смелостью разработчиков из Saber Interactive.",
+      "telegram_message_id": "1480",
+      "telegram_url": "https://t.me/gamepulse_newss/1480",
+      "telegram_published_at": "2026-10-20T03:02:29.951903+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/03/10/clivebarkershellrasierrevivaloriginsdeveloperdiaryvideo-ign-blogroll-1773154687012.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T02:46:50.187859+00:00"
+  "updated_at": "2026-10-20T03:02:29.952192+00:00"
 }
