@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "680ad9766ea0385d70b73200",
-      "title": "The Next Fourth Wing Book Releases Next Week — Here's Where to Buy",
-      "url": "https://ign.com/articles/threshing-day-empyrean-series-where-to-buy",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T21:02:15+00:00",
-      "score": 6,
-      "event_key": "threshing_day_empyrean_series_release_and_where_to_buy",
-      "title_ru": "Где купить Threshing Day из серии Empyrean",
-      "threads_teaser_ru": "Новая книга Threshing Day из серии Empyrean от Ребекки Яррос выходит 29 сентября. Узнайте, где выгоднее оформить предзаказ и какие форматы издания будут доступны.",
-      "telegram_message_id": "335",
-      "telegram_url": "https://t.me/gamepulse_newss/335",
-      "telegram_published_at": "2026-09-25T22:13:13.811827+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/threshing-day-release-date-1-1790358469631.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T22:13:15.126515+00:00"
-    },
-    {
       "fingerprint": "7818482c47ceeeeb3cd27d13",
       "title": "How Ace Combat 8: Wings of Theve uses first-person to tell a more personal story",
       "url": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/20/image-2-1792525205185.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T20:16:58.648416+00:00"
+    },
+    {
+      "fingerprint": "efb9684ea4f7decac661a83d",
+      "title": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
+      "url": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-20T20:00:00+00:00",
+      "score": 12,
+      "event_key": "Gauntlet mode added to Fountains on Xbox",
+      "title_ru": "Режим Gauntlet появился в Fountains на Xbox",
+      "threads_teaser_ru": "В Fountains на Xbox добавили режим Gauntlet: проверяем свои силы в серии сражений с боссами подряд. Рассказываем, как устроены перерывы между битвами, что стало с расходуемыми предметами и какие еще игры издателя Crunching Koalas получили скидки.",
+      "telegram_message_id": "1536",
+      "telegram_url": "https://t.me/gamepulse_newss/1536",
+      "telegram_published_at": "2026-10-20T20:32:34.981762+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FOUNTAINS_Xbox_trailer_thumbnail_3840x2160px-3454a26deff161397e83-scaled.jpg"
     }
   ],
-  "updated_at": "2026-10-20T20:16:58.648506+00:00"
+  "updated_at": "2026-10-20T20:32:34.982063+00:00"
 }
