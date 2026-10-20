@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ec91d3efeb1ccb8e73d0856e",
-      "title": "Celebrate Delta Force’s 2nd Anniversary With New Ways to Play, Exclusive Rewards, and More",
-      "url": "https://news.xbox.com/en-us/2026/09/25/delta-force-second-anniversary-interview",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-25T15:00:00+00:00",
-      "score": 12,
-      "event_key": "delta-force-second-anniversary-update-2026",
-      "title_ru": "Delta Force празднует вторую годовщину",
-      "threads_teaser_ru": "Delta Force отмечает двухлетние успехи масштабным обновлением и праздничными наградами. Разработчики приготовили улучшения интерфейса, новые локации вроде Layali Grove 2.0 с рыбалкой, оперативников Rover и Clover, а также контент для режима Warfare.",
-      "telegram_message_id": "284",
-      "telegram_url": "https://t.me/gamepulse_newss/284",
-      "telegram_published_at": "2026-09-25T15:04:16.903591+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Key-Art-cf56814b12c52984742a.jpg",
-      "threads_published_at": "2026-09-25T15:04:18.565946+00:00"
-    },
-    {
       "fingerprint": "87e71ef7f4830e2c2beeeb19",
       "title": "Persona 4 Revival’s New Character Isn’t a Social Link After All",
       "url": "https://polygon.com/persona-4-revival-rpg-aika-nakamura-social-link",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/19/mcafee-protection-blogroll-1-1792437215944.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T04:02:24.012223+00:00"
+    },
+    {
+      "fingerprint": "56db87f371fffafa3b294922",
+      "title": "PSA Responds After More Than $100,000 Worth of Graded Trading Cards Stolen from FedEx Truck",
+      "url": "https://ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T18:44:55+00:00",
+      "score": 8,
+      "event_key": "graded trading cards stolen from fedex truck psa",
+      "title_ru": "Коллекционные карточки стоимостью более $100 000 украли из грузовика FedEx",
+      "threads_teaser_ru": "Коллекция из сотни редких карточек стоимостью более $100 000 была похищена из грузовика FedEx в Южной Калифорнии. PSA уже деактивировала сертификаты украденных предметов и пообещала выплатить компенсации.",
+      "telegram_message_id": "1485",
+      "telegram_url": "https://t.me/gamepulse_newss/1485",
+      "telegram_published_at": "2026-10-20T04:16:36.248184+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/hundreds-of-psa-graded-trading-cards-stolen-from-fedex-truck-1792435194146.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T04:02:24.012309+00:00"
+  "updated_at": "2026-10-20T04:16:36.248662+00:00"
 }
