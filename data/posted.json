@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1483",
       "telegram_url": "https://t.me/gamepulse_newss/1483",
       "telegram_published_at": "2026-10-20T03:47:02.832281+00:00",
-      "threads_id": null,
-      "image_url": "https://assets1.ignimgs.com/2009/06/22/tekken-6-20090622114521975-2901750.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets1.ignimgs.com/2009/06/22/tekken-6-20090622114521975-2901750.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-20T03:47:04.306735+00:00"
     }
   ],
-  "updated_at": "2026-10-20T03:47:02.832524+00:00"
+  "updated_at": "2026-10-20T03:47:04.306829+00:00"
 }
