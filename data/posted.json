@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cde72133d744910c0e4e69c3",
-      "title": "Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices",
-      "url": "https://ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T17:57:02+00:00",
-      "score": 9,
-      "event_key": "scalpers_inflate_prices_after_pokemon_influencer_death",
-      "title_ru": "Семья покойного Pokémon-инфлюенсера высказалась против спекулянтов",
-      "threads_teaser_ru": "Семья покойного 12-летнего блогера Avery the Poké Kid обратилась к общественности из-за спекулянтов, которые взвинтили цены на карту 30th Anniversary Jirachi SIR после его смерти.",
-      "telegram_message_id": "308",
-      "telegram_url": "https://t.me/gamepulse_newss/308",
-      "telegram_published_at": "2026-09-25T18:23:33.561611+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/jirachi-card-artist-responds-avery-poke-kid-1790205304963.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T18:23:35.063914+00:00"
-    },
-    {
       "fingerprint": "bec42688edfdc5e2f0a61c0c",
       "title": "Is Doctor Doom Putting Together a Team in Avengers: Doomsday?",
       "url": "https://ign.com/articles/is-doctor-doom-putting-together-a-team-in-avengers-doomsday",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Abiotic-Factor-scientist.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-20T11:02:35.547811+00:00"
+    },
+    {
+      "fingerprint": "95e0101442d90bfbdc0fffc8",
+      "title": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon",
+      "url": "https://eurogamer.net/destiny-2-unvaulting-bungie-date-details",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-20T10:54:59+00:00",
+      "score": 13,
+      "event_key": "bungie details unvaulting plans for destiny 2 content",
+      "title_ru": "Bungie вскоре поделится деталями возвращения контента в Destiny 2",
+      "threads_teaser_ru": "Bungie скоро поделится первыми подробностями долгожданного возвращения удаленного контента в Destiny 2. Вместо обычной дорожной карты разработчики покажут «полосу прогресса» и расскажут о планах уже в конце октября.",
+      "telegram_message_id": "1509",
+      "telegram_url": "https://t.me/gamepulse_newss/1509",
+      "telegram_published_at": "2026-10-20T11:16:36.580974+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-20T11:02:35.547904+00:00"
+  "updated_at": "2026-10-20T11:16:36.581261+00:00"
 }
