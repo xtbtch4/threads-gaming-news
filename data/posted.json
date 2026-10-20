@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9627128a21b404f45eadabb1",
-      "title": "Five Ways to Build a Better Used-Car Business in Used Cars Simulator",
-      "url": "https://news.xbox.com/en-us/2026/09/25/five-ways-to-build-a-better-used-car-business",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-25T18:00:00+00:00",
-      "score": 9,
-      "event_key": "five-ways-to-build-better-used-car-business-used-cars-simulator",
-      "title_ru": "Пять советов по развитию бизнеса в Used Cars Simulator",
-      "threads_teaser_ru": "Как преуспеть в Used Cars Simulator? Советы по покупке, ремонту и перепродаже машин, а также исследованию открытого мира и опасностям криминального пути.",
-      "telegram_message_id": "306",
-      "telegram_url": "https://t.me/gamepulse_newss/306",
-      "telegram_published_at": "2026-09-25T18:17:40.614268+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/used-cars-titled-adb99f158b05ae1c7c3f.jpg",
-      "threads_published_at": "2026-09-25T18:17:42.248218+00:00"
-    },
-    {
       "fingerprint": "fdeb3e39fb5f80ed74f79b0a",
       "title": "Maximize your game with NBA 2K27 on the Nintendo Switch 2 system! - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/maximize-your-game-with-nba-2k27-on-the-nintendo-switch-2-system",
@@ -20494,7 +20477,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/avatar-seven-havens-spine.avif?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/avatar-seven-havens-official-trailer-paramount-1789032347.mp4",
       "threads_published_at": "2026-10-20T10:32:29.360403+00:00"
+    },
+    {
+      "fingerprint": "82763bb684adbafef90706d4",
+      "title": "Xbox 'Business Strategist' Claims Video Game Industry Is 'Pretending to Not Use AI,' Deletes Twitter Account After Deluge of Replies",
+      "url": "https://ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T09:30:25+00:00",
+      "score": 9,
+      "event_key": "xbox-strategist-claims-industry-uses-ai",
+      "title_ru": "Сотрудник Xbox заявил об использовании искусственного интеллекта в игровой индустрии",
+      "threads_teaser_ru": "Бизнес-стратег Xbox заявил, что игровая индустрия скрывает массовое использование искусственного интеллекта. После шквала реакций в соцсетях его аккаунт был удален.",
+      "telegram_message_id": "1507",
+      "telegram_url": "https://t.me/gamepulse_newss/1507",
+      "telegram_published_at": "2026-10-20T10:46:49.709642+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T10:32:29.360515+00:00"
+  "updated_at": "2026-10-20T10:46:49.709924+00:00"
 }
