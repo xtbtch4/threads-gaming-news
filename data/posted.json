@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9c896527a3bc60d72ec49569",
-      "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
-      "url": "https://polygon.com/gta-6-fire-emblem-manatees-sea-beast",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T21:00:16+00:00",
-      "score": 12,
-      "event_key": "sea mammals in gta 6 and fire emblem",
-      "title_ru": "Необычная связь между GTA 6 и Fire Emblem",
-      "threads_teaser_ru": "Сразу несколько крупных релизов 2026 года обратили внимание на морских млекопитающих. Тюлени и ламантины неожиданно появились в Fire Emblem: Fortune's Weave, мерче Grand Theft Auto 6 и грядущем Planet Zoo 2.",
-      "telegram_message_id": "330",
-      "telegram_url": "https://t.me/gamepulse_newss/330",
-      "telegram_published_at": "2026-09-25T21:02:34.260267+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-24-at-1-30-23-pm.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/planet-zoo-2-_-animal-spotlight-west-indian-manatee-1790364261.mp4",
-      "threads_published_at": "2026-09-25T21:02:35.737641+00:00"
-    },
-    {
       "fingerprint": "a179187e7be690410f7277fc",
       "title": "The Amazon October Prime Day Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Audible Credit",
       "url": "https://ign.com/articles/amazon-audible-deal-october-prime-day-sale-2026",
@@ -20494,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/g2-HERO-env-woodpile-max-002-62ab2edb0d25e588218a.jpg",
       "threads_published_at": "2026-10-20T19:02:35.155664+00:00"
+    },
+    {
+      "fingerprint": "9495548f4d64d45bfbc95775",
+      "title": "The Clash Royale Board Game Reaches Its Crowdfunding Goal in Less Than an Hour",
+      "url": "https://ign.com/articles/the-clash-royale-board-game-reaches-its-crowdfunding-goal-in-less-than-an-hour",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T11:00:00+00:00",
+      "score": 12,
+      "event_key": "clash royale board game kickstarter crowdfunding goal reached",
+      "title_ru": "Настольная игра Clash Royale собрала нужную сумму на Kickstarter менее чем за час",
+      "threads_teaser_ru": "Настольная адаптация Clash Royale под названием Clash Royale: The Grand Arena собрала необходимую сумму на Kickstarter менее чем за час после запуска. Кампания продлится до ноября.",
+      "telegram_message_id": "1531",
+      "telegram_url": "https://t.me/gamepulse_newss/1531",
+      "telegram_published_at": "2026-10-20T19:17:10.687529+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/11/10/clash-royale-1762796186181.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T19:02:35.155760+00:00"
+  "updated_at": "2026-10-20T19:17:10.687877+00:00"
 }
