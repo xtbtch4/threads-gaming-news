@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "61fe0afc24666f51486409cd",
-      "title": "Konami Teaser Gives Castlevania Fans Hope for a New 3D Collection",
-      "url": "https://polygon.com/castlevania-new-collection-40th-anniversary",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T16:11:50+00:00",
-      "score": 10,
-      "event_key": "castlevania 40th anniversary trailer teases 3d collection",
-      "title_ru": "Трейлер к 40-летию франшизы намекает на сборник 3D-игр Castlevania",
-      "threads_teaser_ru": "Новый трейлер к 40-летию франшизы Castlevania намекает на скорый анонс сборника 3D-игр. Внимательные фанаты заметили в ролике отсылки к трем проектам, которые еще не получали переизданий на современных консолях.",
-      "telegram_message_id": "290",
-      "telegram_url": "https://t.me/gamepulse_newss/290",
-      "telegram_published_at": "2026-09-25T16:16:46.583159+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/castlevania-lords-of-shadow.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/castlevania-40th-anniversary-celebration-konami-esrb-konami-1080p-1790342680.mp4",
-      "threads_published_at": "2026-09-25T16:16:48.144375+00:00"
-    },
-    {
       "fingerprint": "15e3b8ca5313637d77bd0f79",
       "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
       "url": "https://gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million",
@@ -20495,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/rocket.png?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-20T05:47:14.079258+00:00"
+    },
+    {
+      "fingerprint": "5fe1ffc718a54d14c32e62f5",
+      "title": "Disney Will Air a Real-Time, Animated Version of the 2027 Super Bowl Set in the Star Wars Universe",
+      "url": "https://ign.com/articles/disney-will-air-a-real-time-animated-version-of-the-2027-super-bowl-set-in-the-star-wars-universe",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T05:10:45+00:00",
+      "score": 9,
+      "event_key": "disney_star_wars_super_bowl_2027",
+      "title_ru": "Disney покажет альтернативную версию Super Bowl в стиле Star Wars",
+      "threads_teaser_ru": "Disney и NFL покажут анимационную версию Super Bowl LXI в сеттинге Star Wars. Проект Star Wars Funday Football выйдет в эфир 14 февраля 2027 года с участием персонажей Lucasfilm.",
+      "telegram_message_id": "1491",
+      "telegram_url": "https://t.me/gamepulse_newss/1491",
+      "telegram_published_at": "2026-10-20T06:02:28.998175+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/star-wars-football-1280-1792472964787.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T05:47:14.079345+00:00"
+  "updated_at": "2026-10-20T06:02:28.998511+00:00"
 }
