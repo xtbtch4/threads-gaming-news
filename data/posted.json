@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bcbca1d17a18daa0a83d1368",
-      "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
-      "url": "https://gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T23:06:32+00:00",
-      "score": 15,
-      "event_key": "microsoft-ceo-satya-nadella-defends-xbox-layoffs-and-studio-closures",
-      "title_ru": "Глава Microsoft Сатья Наделла высказался о сокращениях в Xbox",
-      "threads_teaser_ru": "Генеральный директор Microsoft Сатья Наделла прокомментировал недавние увольнения и закрытия студий в Xbox, назвав действия руководства необходимым шагом.",
-      "telegram_message_id": "338",
-      "telegram_url": "https://t.me/gamepulse_newss/338",
-      "telegram_published_at": "2026-09-25T23:22:02.030107+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300",
-      "threads_published_at": "2026-09-25T23:22:03.387115+00:00"
-    },
-    {
       "fingerprint": "db462395e192ec9465b3ab62",
       "title": "EA Sports FC 27 Review",
       "url": "https://ign.com/articles/ea-sports-fc-27-review",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/07/gta-6-1791374410439.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T22:02:30.683875+00:00"
+    },
+    {
+      "fingerprint": "91727d5d46c8d7c27a47513b",
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "url": "https://ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T22:48:37+00:00",
+      "score": 15,
+      "event_key": "fans suspect rockstar filming live action trailer in miami",
+      "title_ru": "Фанаты считают, что Rockstar Games снимает игровой трейлер GTA 6 в Майами",
+      "threads_teaser_ru": "В Майами заметили съемочные группы и автомобили с отсылками к внутриигровым брендам. Фанаты предполагают, что Rockstar Games готовит дорогой лайв-экшен трейлер к релизу GTA 6.",
+      "telegram_message_id": "1539",
+      "telegram_url": "https://t.me/gamepulse_newss/1539",
+      "telegram_published_at": "2026-10-20T23:02:35.491040+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T22:02:30.683954+00:00"
+  "updated_at": "2026-10-20T23:02:35.491326+00:00"
 }
