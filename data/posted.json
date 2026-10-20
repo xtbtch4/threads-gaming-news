@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a97683fb5ff602770a3b9f55",
-      "title": "Dawngazer – Ignisphere Teaser Trailer",
-      "url": "https://gamespot.com/videos/dawngazer-ignisphere-teaser-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T15:24:03+00:00",
-      "score": 15,
-      "event_key": "dawngazer ignisphere teaser trailer",
-      "title_ru": "Dawngazer – Ignisphere Teaser Trailer",
-      "threads_teaser_ru": "Presented by Takafumi Noma director (character designer, and scenario writer of Unicorn Overlord and former veteran of Vanillaware) × Good Smile Company, the new IP brand \"IGNISPHERE\" has officially launched.",
-      "telegram_message_id": "286",
-      "telegram_url": "https://t.me/gamepulse_newss/286",
-      "telegram_published_at": "2026-09-25T15:36:38.397333+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/11_92dc36.jpg?w=300",
-      "threads_published_at": "2026-09-25T15:36:39.903200+00:00"
-    },
-    {
       "fingerprint": "ff23c6bcc5171607a2296e1a",
       "title": "Gears of War: E-Day x Liquid Death – Unlock a Legendary Pose and More",
       "url": "https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-sephiroth.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-20T04:32:00.483621+00:00"
+    },
+    {
+      "fingerprint": "a03848d342826aecb9de052d",
+      "title": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build",
+      "url": "https://ign.com/articles/lego-and-netflix-team-up-for-37000-piece-kpop-demon-hunters-build",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T18:08:16+00:00",
+      "score": 8,
+      "event_key": "lego_netflix_kpop_demon_hunters_giant_derpy_tiger",
+      "title_ru": "LEGO и Netflix представили огромную фигурку Derpy Tiger из деталей",
+      "threads_teaser_ru": "LEGO и Netflix представили гигантскую фигурку Derpy Tiger по Kpop Demon Hunters, состоящую почти из 37 000 деталей. Огромная модель создавалась около двух месяцев и сейчас выставлена на LEGO World 2026.",
+      "telegram_message_id": "1487",
+      "telegram_url": "https://t.me/gamepulse_newss/1487",
+      "telegram_published_at": "2026-10-20T04:47:07.004332+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/derpy-1792431905841.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T04:32:00.483714+00:00"
+  "updated_at": "2026-10-20T04:47:07.004746+00:00"
 }
