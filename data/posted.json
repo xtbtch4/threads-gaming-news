@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fdeb3e39fb5f80ed74f79b0a",
-      "title": "Maximize your game with NBA 2K27 on the Nintendo Switch 2 system! - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/maximize-your-game-with-nba-2k27-on-the-nintendo-switch-2-system",
-      "source": "Nintendo",
-      "published_at_source": "2026-09-25T16:00:00+00:00",
-      "score": 13,
-      "event_key": "nba 2k27 nintendo switch 2 performance features",
-      "title_ru": "NBA 2K27 на Nintendo Switch 2 получает улучшенную производительность и эксклюзивные функции",
-      "threads_teaser_ru": "NBA 2K27 на Nintendo Switch 2 получила поддержку 60 FPS, эксклюзивные мини-игры с управлением движением через Joy Con 2 и функцию GameShare.",
-      "telegram_message_id": "307",
-      "telegram_url": "https://t.me/gamepulse_newss/307",
-      "telegram_published_at": "2026-09-25T18:19:10.782276+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-09-25T18:19:12.118625+00:00"
-    },
-    {
       "fingerprint": "cde72133d744910c0e4e69c3",
       "title": "Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices",
       "url": "https://ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T10:46:51.475436+00:00"
+    },
+    {
+      "fingerprint": "5ffc97daf7583bd4a549e2f2",
+      "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
+      "url": "https://rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-20T11:00:28+00:00",
+      "score": 14,
+      "event_key": "abiotic-factor-second-year-roadmap-dlc-mods",
+      "title_ru": "Abiotic Factor получила дорожную карту на второй год поддержки",
+      "threads_teaser_ru": "Разработчики Abiotic Factor анонсировали дорожную карту на второй год, которая включает официальную поддержку модов, зимнее обновление и платное дополнение Entropic Break.",
+      "telegram_message_id": "1508",
+      "telegram_url": "https://t.me/gamepulse_newss/1508",
+      "telegram_published_at": "2026-10-20T11:02:34.102346+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Abiotic-Factor-scientist.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-20T10:46:51.475527+00:00"
+  "updated_at": "2026-10-20T11:02:34.102748+00:00"
 }
