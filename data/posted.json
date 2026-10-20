@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b13f12214860792b9447b59e",
-      "title": "6 New October Games That Should Be on Your Steam Wishlist",
-      "url": "https://polygon.com/wishlister-september-25",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T12:00:15+00:00",
-      "score": 10,
-      "event_key": "polygon-six-october-steam-games-wishlist",
-      "title_ru": "Шесть октябрьских игр для ПК, которые стоит добавить в вишлист Steam",
-      "threads_teaser_ru": "Октябрь на ПК будет богат на релизы: помимо крупных игр, внимания заслуживают инди-проекты. В их числе — разрушительная драма от Deconstructeam, пингвиний хоррор и кооперативный подземельный экшен.",
-      "telegram_message_id": "275",
-      "telegram_url": "https://t.me/gamepulse_newss/275",
-      "telegram_published_at": "2026-09-25T12:26:47.398305+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/anomalith-deformed-character.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-25T12:26:48.737050+00:00"
-    },
-    {
       "fingerprint": "013e61bde01d01373fc8a458",
       "title": "Bungie Says Marathon Flopped Because It Was Too Hard",
       "url": "https://pk.ign.com/marathon-1/261653/bungie-says-marathon-flopped-because-it-was-too-hard",
@@ -20493,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-10-20T01:17:17.001800+00:00"
+    },
+    {
+      "fingerprint": "95d8a310f51e33879d75cc3f",
+      "title": "D&D’s Dark Sun Creator Reveals Why the Controversial Setting Is ‘Not Political’",
+      "url": "https://polygon.com/dnd-dungeons-dragons-dark-sun-creator-original-setting-political-interview-dragon-kings",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T20:00:16+00:00",
+      "score": 9,
+      "event_key": "Timothy Brown discusses Dark Sun development and themes",
+      "title_ru": "Создатель Dark Sun ответил на вопросы о политическом подтексте сеттинга",
+      "threads_teaser_ru": "В 1991 году студия TSR выпустила мрачный мир Dark Sun, который до сих пор вызывает споры из-за тем рабства и экологии. Соавтор сеттинга Тимоти Браун объяснил, почему дизайн изначально не задумывался как политическое высказывание и как создавалась уникальная атмосфера Athas.",
+      "telegram_message_id": "1476",
+      "telegram_url": "https://t.me/gamepulse_newss/1476",
+      "telegram_published_at": "2026-10-20T02:03:20.717098+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dark-sun-illustration-warrior.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/luis-carazo-says-this-is-the-most-important-part-of-d-d-1791882245.mp4"
     }
   ],
-  "updated_at": "2026-10-20T01:17:17.001891+00:00"
+  "updated_at": "2026-10-20T02:03:20.717380+00:00"
 }
