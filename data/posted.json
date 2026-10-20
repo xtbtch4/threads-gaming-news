@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ca58ef3aa0270a667b818dc4",
-      "title": "Call of Duty: Warzone Is Getting a New Toggle That Lets You Turn Off All Those Goofy Skins",
-      "url": "https://me.ign.com/en/call-of-duty-2026-unofficial-name/248308/call-of-duty-warzone-is-getting-a-new-toggle-that-lets-you-turn-off-all-those-goofy-skins",
-      "source": "IGN",
-      "published_at_source": "2026-09-24T10:12:00+00:00",
-      "score": 8,
-      "event_key": "call_of_duty_warzone_operator_skin_toggle",
-      "title_ru": "В Call of Duty: Warzone появится переключатель для отключения необычных скинов",
-      "threads_teaser_ru": "В Call of Duty: Warzone появится функция, позволяющая скрыть необычные скины других игроков и заменить их на персонажей из Modern Warfare 4.",
-      "telegram_message_id": "278",
-      "telegram_url": "https://t.me/gamepulse_newss/278",
-      "telegram_published_at": "2026-09-25T13:48:01.073560+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://sm.ign.com/t/ign_me/news/c/call-of-du/call-of-duty-warzone-is-getting-a-new-toggle-that-lets-you-t_5a3e.1200.png",
-      "threads_published_at": "2026-09-25T13:48:02.679856+00:00"
-    },
-    {
       "fingerprint": "7452091e4bbec36719c6570f",
       "title": "Gears Of War: E-Day – Is It On Game Pass?",
       "url": "https://gamespot.com/articles/gears-of-war-e-day-is-it-on-game-pass",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gameplay_StupidNeverDies_Dungeon_v1.jpg?w=300",
       "threads_published_at": "2026-10-20T02:32:44.478230+00:00"
+    },
+    {
+      "fingerprint": "ca2a540a426f53b6c6b5259d",
+      "title": "Saros Gets Boss Rush And Tons Of Difficulty Options With Zenith Update",
+      "url": "https://gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-19T16:19:09+00:00",
+      "score": 11,
+      "event_key": "saros-zenith-update-boss-rush-difficulty",
+      "title_ru": "Zenith update для Saros добавил режим Boss Rush и новые настройки сложности",
+      "threads_teaser_ru": "Для научно-фантастического шутера Saros вышло бесплатное обновление Zenith. Оно добавило режим Overlord Rush с битвами против боссов, гибкие настройки сложности, автострельбу и новые модификаторы.",
+      "telegram_message_id": "1479",
+      "telegram_url": "https://t.me/gamepulse_newss/1479",
+      "telegram_published_at": "2026-10-20T02:46:48.625339+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Saros-Zenith.webp?w=300"
     }
   ],
-  "updated_at": "2026-10-20T02:32:44.478309+00:00"
+  "updated_at": "2026-10-20T02:46:48.625562+00:00"
 }
