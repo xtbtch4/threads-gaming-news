@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "15e3b8ca5313637d77bd0f79",
-      "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
-      "url": "https://gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T16:08:07+00:00",
-      "score": 11,
-      "event_key": "switch_pirate_ordered_to_pay_nintendo_millions",
-      "title_ru": "Суд обязал бывшего модератора выплатить Nintendo $4,5 миллиона",
-      "threads_teaser_ru": "Суд обязал бывшего модератора r/SwitchPirates выплатить Nintendo $4,5 миллиона за организацию пиратских магазинов и незаконное распространение игр. Ответчик проигнорировал иск компании.",
-      "telegram_message_id": "291",
-      "telegram_url": "https://t.me/gamepulse_newss/291",
-      "telegram_published_at": "2026-09-25T16:22:12.999674+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/ITYSL-Pirate.jpg?w=300",
-      "threads_published_at": "2026-09-25T16:22:14.334704+00:00"
-    },
-    {
       "fingerprint": "05471169f14bc1030f77e9be",
       "title": "Brandon Sanderson’s New Cosmere Book Gets Exclusive New Reveal",
       "url": "https://polygon.com/brandon-sanderson-fires-of-december-excerpt",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/20/star-wars-football-1280-1792472964787.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T06:02:30.500803+00:00"
+    },
+    {
+      "fingerprint": "f5b285ec3e8e305568b8d5ef",
+      "title": "Star Wars Battlefront 3: Bungie Rumored as New Developer",
+      "url": "https://polygon.com/star-wars-battlefront-3-rumor-bungie-dice-disney",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T20:33:08+00:00",
+      "score": 7,
+      "event_key": "Disney searching for developer for Star Wars Battlefront 3",
+      "title_ru": "Слухи: Disney рассматривает Bungie или EA DICE в качестве разработчиков Star Wars Battlefront 3",
+      "threads_teaser_ru": "Disney может разрабатывать Star Wars Battlefront 3. Появились слухи, что в качестве потенциальных создателей новой части рассматриваются EA DICE и Bungie. Официально игра еще не запущена в производство, идут предварительные обсуждения.",
+      "telegram_message_id": "1492",
+      "telegram_url": "https://t.me/gamepulse_newss/1492",
+      "telegram_published_at": "2026-10-20T06:32:21.691359+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8347277/SWBFII_Reveal_Screenshot_7_MP.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-20T06:02:30.500896+00:00"
+  "updated_at": "2026-10-20T06:32:21.691481+00:00"
 }
