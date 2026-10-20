@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4209c345b8dddef7a59f8d44",
-      "title": "Get In The Pilot Seat With Ace Combat 8 At A Nice Preorder Discount",
-      "url": "https://gamespot.com/articles/get-in-the-pilot-seat-with-ace-combat-8-at-a-nice-preorder-discount",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T14:30:00+00:00",
-      "score": 6,
-      "event_key": "ace_combat_8_fanatical_preorder_discount",
-      "title_ru": "Скидка на предзаказ Ace Combat 8 в магазине Fanatical",
-      "threads_teaser_ru": "Спустя семь лет серия возвращается с новой кампанией, мультиплеером и 30 самолетами. В Fanatical открылся предзаказ со скидкой 14% на Steam-версию стандартного и расширенного издания.",
-      "telegram_message_id": "323",
-      "telegram_url": "https://t.me/gamepulse_newss/323",
-      "telegram_published_at": "2026-09-25T19:57:28.904714+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-ace-combat-8-deal-pre-order.jpg?w=300",
-      "threads_published_at": "2026-09-25T19:57:30.130271+00:00"
-    },
-    {
       "fingerprint": "b4b23824bb2e242193b350f0",
       "title": "Roku's Newly Released 65\" 4K OLED TV Drops to a Bargain Price of $799.99 Ahead of Prime Day",
       "url": "https://ign.com/articles/roku-pro-series-4k-oled-tv-deal",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vice_city_09-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-20T16:32:29.018613+00:00"
+    },
+    {
+      "fingerprint": "33697e21dc831d7fc4357c21",
+      "title": "DayZ Badlands Collector's Vinyl Box Set Available Exclusively at IGN Store",
+      "url": "https://ign.com/articles/dayz-badlands-collectors-vinyl-box-set-ign-store",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T17:00:00+00:00",
+      "score": 13,
+      "event_key": "dayz badlands collectors vinyl box set announced",
+      "title_ru": "Анонсирован коллекционный виниловый набор DayZ Badlands",
+      "threads_teaser_ru": "В IGN Store открылся предзаказ на эксклюзивный коллекционный виниловый набор DayZ Badlands стоимостью 140 долларов. В комплект вошли саундтрек, редкие предметы и Steam-код для ПК.",
+      "telegram_message_id": "1524",
+      "telegram_url": "https://t.me/gamepulse_newss/1524",
+      "telegram_published_at": "2026-10-20T17:02:50.068388+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/dayz-thumb-1792442615159.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T16:32:29.018705+00:00"
+  "updated_at": "2026-10-20T17:02:50.068592+00:00"
 }
