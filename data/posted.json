@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0a8d17d38b1f727812ba5392",
-      "title": "The LEGO Animal Crossing Creative Houses Set Has Hit a New Low Price at Amazon Thanks to a Coupon",
-      "url": "https://ign.com/articles/the-lego-animal-crossing-creative-houses-set-has-hit-a-new-low-price-at-amazon-thanks-to-a-coupon",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T19:00:00+00:00",
-      "score": 6,
-      "event_key": "lego animal crossing creative houses amazon discount",
-      "title_ru": "Скидка на набор LEGO Animal Crossing Creative Houses в Amazon",
-      "threads_teaser_ru": "Популярный набор LEGO Animal Crossing Creative Houses: Seasons of Fun получил рекордную скидку на Amazon благодаря специальному купону. Конструктор обойдется почти вдвое дешевле.",
-      "telegram_message_id": "319",
-      "telegram_url": "https://t.me/gamepulse_newss/319",
-      "telegram_published_at": "2026-09-25T19:37:16.593253+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/lego-animal-crossing-creative-houses-seasons-of-fun-1790334592555.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T19:37:17.868681+00:00"
-    },
-    {
       "fingerprint": "7cc12b017aba57cd72ec9cef",
       "title": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
       "url": "https://eurogamer.net/resident-evil-requiem-500-film-capcom-price",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuringnetflix.png?w=300",
       "threads_published_at": "2026-10-20T15:32:51.586386+00:00"
+    },
+    {
+      "fingerprint": "cfa1328b59eaed95841ab4bb",
+      "title": "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename",
+      "url": "https://ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T14:56:01+00:00",
+      "score": 13,
+      "event_key": "potential steam deck 2 chip appears in benchmarks",
+      "title_ru": "В сети появились данные о возможном процессоре для Steam Deck 2",
+      "threads_teaser_ru": "В сети заметили бенчмарки возможного процессора для Steam Deck 2 с кодовым названием «Gainsborough». Чип получил 6 ядер, 12 потоков и 24 ГБ памяти LPDDR5, но до финального релиза еще далеко.",
+      "telegram_message_id": "1520",
+      "telegram_url": "https://t.me/gamepulse_newss/1520",
+      "telegram_published_at": "2026-10-20T15:47:34.163184+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/11/09/vlcsnap-2023-11-08-15h13m58s271-1699488141465.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T15:32:51.586472+00:00"
+  "updated_at": "2026-10-20T15:47:34.163443+00:00"
 }
