@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a2dd47cc6a9d48c5bc2c5337",
-      "title": "Infinity Festival Returns to Los Angeles in November With a Focus on AI",
-      "url": "https://ign.com/articles/infinity-festival-los-angeles-2026-ai",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T21:32:25+00:00",
-      "score": 9,
-      "event_key": "infinity_festival_los_angeles_2026_ai",
-      "title_ru": "Infinity Festival пройдет в Лос-Анджелесе в ноябре с акцентом на ИИ",
-      "threads_teaser_ru": "Девятый Infinity Festival пройдет в Лос-Анджелесе с 12 по 15 ноября. Главной темой мероприятия станет влияние искусственного интеллекта на индустрию развлечений, анимацию, видеоигры и кинопроизводство.",
-      "telegram_message_id": "333",
-      "telegram_url": "https://t.me/gamepulse_newss/333",
-      "telegram_published_at": "2026-09-25T22:02:29.828061+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/if-pic-1790371862603.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T22:02:31.168213+00:00"
-    },
-    {
       "fingerprint": "bf56bb50f8d8aee3c09cfa35",
       "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
       "url": "https://polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-2.png?w=300",
       "threads_published_at": "2026-10-20T19:46:56.265451+00:00"
+    },
+    {
+      "fingerprint": "28b3d36e93c5a30b62064d22",
+      "title": "AMD FSR 4.1 Is Finally Coming to Xbox Series X, Rivaling PS5's QSSR",
+      "url": "https://ign.com/articles/amd-fsr-41-is-finally-coming-to-xbox-series-x-rivaling-ps5s-qssr",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T19:12:13+00:00",
+      "score": 15,
+      "event_key": "amd_fsr_4_1_coming_to_xbox_series_x",
+      "title_ru": "AMD FSR 4.1 анонсирована для Xbox Series X",
+      "threads_teaser_ru": "Компания AMD объявила о расширении поддержки технологии масштабирования FSR 4.1 на новые устройства, включая консоль Xbox Series X, видеокарты RDNA 2 и портативные гаджеты на базе Z2.",
+      "telegram_message_id": "1534",
+      "telegram_url": "https://t.me/gamepulse_newss/1534",
+      "telegram_published_at": "2026-10-20T20:02:45.548312+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2022/11/23/xboxseriesx-3-blogroll-1648735732292-1669247511678.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T19:46:56.265546+00:00"
+  "updated_at": "2026-10-20T20:02:45.548544+00:00"
 }
