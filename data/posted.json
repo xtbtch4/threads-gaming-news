@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19f941f69009a2ebcb293ea4",
-      "title": "EA SPORTS FC™ 27 is available now, bringing new ways to play The World’s Game",
-      "url": "https://ea.com/news/fc-27-launches-today",
-      "source": "Electronic Arts",
-      "published_at_source": "2026-09-25T16:00:00+00:00",
-      "score": 13,
-      "event_key": "ea_sports_fc_27_worldwide_release",
-      "title_ru": "Релиз EA SPORTS FC™ 27 состоялся по всему миру",
-      "threads_teaser_ru": "Состоялся мировой релиз EA SPORTS FC™ 27. Игра принесла масштабные нововведения, включая социальный режим The Grounds, переработанный режим карьеры и улучшения геймплея на базе отзывов сообщества.",
-      "telegram_message_id": "293",
-      "telegram_url": "https://t.me/gamepulse_newss/293",
-      "telegram_published_at": "2026-09-25T16:42:21.995207+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/7yoMZ6xTTBIOiJzyuuaS9l/7df7927425c4bcfda0b1603453f2ec44/EA_FC27_STD_KeyArt_RGB_16-9_3840x2160__1_.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
-      "threads_published_at": "2026-09-25T16:42:23.613140+00:00"
-    },
-    {
       "fingerprint": "e8685019ea1a97fe51575761",
       "title": "Not Everything Needs To Be A Soulslike, And Onimusha: Way Of The Sword Shows Why",
       "url": "https://gamespot.com/articles/not-everything-needs-to-be-a-soulslike-and-onimusha-way-of-the-sword-shows-why",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/20/r6jr0379-1792459498578.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T06:47:15.561839+00:00"
+    },
+    {
+      "fingerprint": "ae5b257d0d2900000063ded2",
+      "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
+      "url": "https://ign.com/articles/xbox-elite-controller-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T06:55:00+00:00",
+      "score": 9,
+      "event_key": "xbox-elite-series-2-core-amazon-discount",
+      "title_ru": "Скидка 40 долларов на Xbox Elite Series 2 Core Wireless Controller",
+      "threads_teaser_ru": "На Amazon снизилась цена на профессиональный беспроводной геймпад Xbox Elite Series 2 Core Wireless Controller. Устройство можно приобрести за 109,99 долларов вместо 150 долларов.",
+      "telegram_message_id": "1494",
+      "telegram_url": "https://t.me/gamepulse_newss/1494",
+      "telegram_published_at": "2026-10-20T07:02:36.693252+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/xboxelitecorecontroller-1792100339964.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T06:47:15.561929+00:00"
+  "updated_at": "2026-10-20T07:02:36.693633+00:00"
 }
