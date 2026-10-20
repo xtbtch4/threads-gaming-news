@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "caaa17948d7aca0a6fdb00d0",
-      "title": "LEGO Astro Bot Set Confirmed as Free Gift with Purchase of PlayStation",
-      "url": "https://ign.com/articles/lego-astro-bot-set-confirmed-as-free-gift-with-purchase-of-playstation",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T16:21:53+00:00",
-      "score": 13,
-      "event_key": "lego astro bot set gift with lego playstation purchase",
-      "title_ru": "Набор LEGO Astro Bot станет бесплатным подарком к LEGO PlayStation",
-      "threads_teaser_ru": "Компания LEGO подтвердила, что набор Astro Bot из 276 деталей будет выдаваться бесплатно при покупке набора LEGO PlayStation в октябре. Купить консоль можно будет с 1 октября для участников LEGO Insiders.",
-      "telegram_message_id": "296",
-      "telegram_url": "https://t.me/gamepulse_newss/296",
-      "telegram_published_at": "2026-09-25T17:02:43.683088+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/lego-astro-bot-blogroll-1790353291282.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T17:02:45.252436+00:00"
-    },
-    {
       "fingerprint": "771ab3fb247506b10fda2d78",
       "title": "This Massive Tactical Shooter Is Free to Play on Steam Right Now",
       "url": "https://polygon.com/squad-free-to-play-steam-weekend-september-2026",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/01/resident-evil-090126-poster-thumb-1788295069881.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T07:32:00.597976+00:00"
+    },
+    {
+      "fingerprint": "db2fed352340aef8ba2dae87",
+      "title": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
+      "url": "https://rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-19T13:25:56+00:00",
+      "score": 6,
+      "event_key": "Needle In A Haystack developers accuse clone of code theft",
+      "title_ru": "Разработчики игры Needle In A Haystack обвинили авторов клона в краже исходного кода",
+      "threads_teaser_ru": "Студия NoGlyph обвинила разработчиков проекта A Game About Needle In A Haystack в прямом копировании исходного кода их игры Needle In A Haystack. В найденных файлах клона обнаружили идентичные классы и даже специфические сообщения об ошибках.",
+      "telegram_message_id": "1497",
+      "telegram_url": "https://t.me/gamepulse_newss/1497",
+      "telegram_published_at": "2026-10-20T07:47:19.351335+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/needle-in-a-haystack-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-20T07:32:00.598074+00:00"
+  "updated_at": "2026-10-20T07:47:19.351734+00:00"
 }
