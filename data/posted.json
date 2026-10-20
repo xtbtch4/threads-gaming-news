@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d82deaabf421f8a3ba98f8da",
-      "title": "Blizzard Dev Doubles Down on World of Warcraft Forever Being For Classic Players",
-      "url": "https://ign.com/articles/blizzard-dev-doubles-down-on-world-of-warcraft-forever-being-for-classic-players",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T15:50:18+00:00",
-      "score": 11,
-      "event_key": "blizzard dev discusses target audience for world of warcraft forever",
-      "title_ru": "Разработчик World of Warcraft Forever высказался об аудитории проекта",
-      "threads_teaser_ru": "Разработчик Matthew Armstrong заявил, что создает World of Warcraft Forever для поклонников классической версии и игроков, забросивших игру из-за прошлых изменений.",
-      "telegram_message_id": "288",
-      "telegram_url": "https://t.me/gamepulse_newss/288",
-      "telegram_published_at": "2026-09-25T16:08:03.217144+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T16:08:04.724520+00:00"
-    },
-    {
       "fingerprint": "3ab118582a4db6d9639eefda",
       "title": "Share of the Week – Marvel’s Wolverine",
       "url": "https://blog.playstation.com/2026/09/25/share-of-the-week-marvels-wolverine",
@@ -20495,7 +20478,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/alexander-tsang-0mh975pyn9c-unsplash.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4",
       "threads_published_at": "2026-10-20T05:02:55.217872+00:00"
+    },
+    {
+      "fingerprint": "ac030aa9ddf8a3fddd1c80a0",
+      "title": "Stupid Never Dies Is Easily the Worst Game of 2026",
+      "url": "https://polygon.com/stupid-never-dies-review",
+      "source": "Polygon",
+      "published_at_source": "2026-10-19T22:00:17+00:00",
+      "score": 7,
+      "event_key": "Polygon review of Stupid Never Dies by GPTRACK50",
+      "title_ru": "Polygon раскритиковал Stupid Never Dies",
+      "threads_teaser_ru": "Критический обзор Polygon называет Stupid Never Dies худшей игрой 2026 года. Рецензент раскритиковал «неуклюжий» геймплей, утомительную структуру рогалика и крайне спорный сюжет об оживлении замороженного тела девушки.",
+      "telegram_message_id": "1489",
+      "telegram_url": "https://t.me/gamepulse_newss/1489",
+      "telegram_published_at": "2026-10-20T05:17:32.413471+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-golem-fight.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-20T05:02:55.217987+00:00"
+  "updated_at": "2026-10-20T05:17:32.413642+00:00"
 }
