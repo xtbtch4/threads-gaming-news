@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ed112b43acc061245c9cb53f",
-      "title": "We Build LEGO Mayor Manor: A Spooky, Not-So-Scary Halloween Build",
-      "url": "https://ign.com/articles/we-build-lego-mayor-manor-11383",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T16:57:24+00:00",
-      "score": 9,
-      "event_key": "LEGO launches Midnight Valley Collection with Mayor Manor set",
-      "title_ru": "Представлен новый набор LEGO Mayor Manor из серии Midnight Valley Collection",
-      "threads_teaser_ru": "LEGO запускает хэллоуинскую серию Midnight Valley Collection. Первый набор, Mayor Manor, предлагает собрать атмосферный особняк с эффектом разрушающегося фасада и детализированным интерьером. Модель состоит из 1420 деталей и уже доступна в продаже.",
-      "telegram_message_id": "303",
-      "telegram_url": "https://t.me/gamepulse_newss/303",
-      "telegram_published_at": "2026-09-25T18:03:55.964728+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/we-build-lego-mayor-manor-1790345878365.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T18:03:57.533520+00:00"
-    },
-    {
       "fingerprint": "390c49a13835cec12f71ebdc",
       "title": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life",
       "url": "https://eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/luffy-one-piece.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-20T09:48:02.289425+00:00"
+    },
+    {
+      "fingerprint": "05249bbae1b3ecc778b248de",
+      "title": "Techland CEO Addresses Fans as Dying Light: The Beast Support Comes to an End",
+      "url": "https://ign.com/articles/dying-light-the-beast-no-updates",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T09:47:38+00:00",
+      "score": 13,
+      "event_key": "techland-ends-support-for-dying-light-the-beast",
+      "title_ru": "Techland завершает поддержку Dying Light: The Beast",
+      "threads_teaser_ru": "Генеральный директор Techland Павел Мархевка объявил о завершении поддержки Dying Light: The Beast. Студия изначально задумывала игру как завершенный проект и не планирует выпускать для нее масштабный новый контент в будущем.",
+      "telegram_message_id": "1504",
+      "telegram_url": "https://t.me/gamepulse_newss/1504",
+      "telegram_published_at": "2026-10-20T10:02:52.769970+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/08/05/dyinglightthumb-1754406878871.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T09:48:02.289522+00:00"
+  "updated_at": "2026-10-20T10:02:52.770327+00:00"
 }
