@@ -20490,9 +20490,10 @@
       "telegram_message_id": "1504",
       "telegram_url": "https://t.me/gamepulse_newss/1504",
       "telegram_published_at": "2026-10-20T10:02:52.769970+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2025/08/05/dyinglightthumb-1754406878871.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2025/08/05/dyinglightthumb-1754406878871.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-20T10:02:54.558940+00:00"
     }
   ],
-  "updated_at": "2026-10-20T10:02:52.770327+00:00"
+  "updated_at": "2026-10-20T10:02:54.559022+00:00"
 }
