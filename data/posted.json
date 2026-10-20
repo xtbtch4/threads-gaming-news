@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f309d25a9e5a8b0c6784975e",
-      "title": "Final Fantasy 7 Revelation Will Be Easier to Platinum Than Rebirth",
-      "url": "https://ign.com/articles/final-fantasy-7-revelation-will-be-easier-to-platinum-than-rebirth",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T18:51:00+00:00",
-      "score": 9,
-      "event_key": "final fantasy 7 revelation platinum trophy easier than rebirth",
-      "title_ru": "Final Fantasy 7 Revelation получит более доступный платиновый трофей, чем Final Fantasy 7 Rebirth",
-      "threads_teaser_ru": "Авторы Final Fantasy 7 Revelation пообещали сделать получение платинового трофея проще, чем в Final Fantasy 7 Rebirth. Разработчики учли отзывы игроков и хотят сделать опциональные битвы более увлекательными.",
-      "telegram_message_id": "317",
-      "telegram_url": "https://t.me/gamepulse_newss/317",
-      "telegram_published_at": "2026-09-25T19:12:29.177859+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/20/final-fantasy-7-revelation-sephiroth-beat-1789937430860.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T19:12:30.610833+00:00"
-    },
-    {
       "fingerprint": "3685ef5917cfe9e8474b3cb6",
       "title": "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
       "url": "https://gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/batman-is-covered-in-blood-in-batman-knightfall.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-20T14:47:57.924357+00:00"
+    },
+    {
+      "fingerprint": "170167f81cb0dcb01c6c3d39",
+      "title": "Razer Announces Xbox 25th Anniversary Collection of Peripherals for Xbox Series X|S and PC",
+      "url": "https://ign.com/articles/razer-announces-xbox-25th-anniversary-collection-of-peripherals-for-xbox-series-xs-and-pc",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T15:00:00+00:00",
+      "score": 15,
+      "event_key": "razer-announces-xbox-25th-anniversary-collection-peripherals",
+      "title_ru": "Razer представила коллекцию периферии в честь 25-летия Xbox",
+      "threads_teaser_ru": "Компания Razer выпустила лимитированную коллекцию периферии Xbox 25th Anniversary с полупрозрачным зеленым дизайном в честь 25-летия Xbox. В набор вошли мышь, клавиатура и наушники, но геймпада среди них нет.",
+      "telegram_message_id": "1518",
+      "telegram_url": "https://t.me/gamepulse_newss/1518",
+      "telegram_published_at": "2026-10-20T15:17:29.632187+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/mouse-1791923139918.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T14:47:57.924451+00:00"
+  "updated_at": "2026-10-20T15:17:29.632516+00:00"
 }
