@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e8685019ea1a97fe51575761",
-      "title": "Not Everything Needs To Be A Soulslike, And Onimusha: Way Of The Sword Shows Why",
-      "url": "https://gamespot.com/articles/not-everything-needs-to-be-a-soulslike-and-onimusha-way-of-the-sword-shows-why",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-25T16:25:26+00:00",
-      "score": 10,
-      "event_key": "onimusha-way-of-the-sword-defies-soulslike-trends",
-      "title_ru": "Почему Onimusha: Way Of The Sword доказывает, что не все игры должны быть soulslike",
-      "threads_teaser_ru": "Новый экшен Onimusha: Way Of The Sword отказывается от принципов soulslike, предлагая динамичную боевую систему на основе защиты, парирований и техники Issen вместо бесконечных перекатов и шкал выносливости.",
-      "telegram_message_id": "294",
-      "telegram_url": "https://t.me/gamepulse_newss/294",
-      "telegram_published_at": "2026-09-25T16:47:10.693917+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Onimusha_-Way-of-the-Sword_20260904013558.png?w=300",
-      "threads_published_at": "2026-09-25T16:47:12.367873+00:00"
-    },
-    {
       "fingerprint": "7aea00c503251a9f93e2356e",
       "title": "Ubisoft Was Working on an Official Legend of Zelda Game, Report Says",
       "url": "https://polygon.com/legend-of-zelda-ganondorf-ubisoft-game-canceled",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/15/xboxelitecorecontroller-1792100339964.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T07:02:38.188131+00:00"
+    },
+    {
+      "fingerprint": "71d3d8b05d91ec70292364e7",
+      "title": "Clayface Stars Praise Batman: The Animated Series and Ron Perlman's 'Amazing' Performance as the DC Villain",
+      "url": "https://ign.com/articles/clayface-cast-batman-animated-series-fandom",
+      "source": "IGN",
+      "published_at_source": "2026-10-19T23:10:53+00:00",
+      "score": 6,
+      "event_key": "actors discuss Clayface and Batman: The Animated Series influence",
+      "title_ru": "Актеры Clayface о влиянии Batman: The Animated Series",
+      "threads_teaser_ru": "Том Рис Харрис и Наоми Аки рассказали, как мультсериал Batman: The Animated Series повлиял на работу над проектом Clayface. Сценарий Майка Флэнагана опирается на классический эпизод «Feat of Clay», а актеры отдельно отметили выдающуюся озвучку Рона Перлмана.",
+      "telegram_message_id": "1495",
+      "telegram_url": "https://t.me/gamepulse_newss/1495",
+      "telegram_published_at": "2026-10-20T07:17:16.918908+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/btas-clayface-thumb-1792450433852.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T07:02:38.188229+00:00"
+  "updated_at": "2026-10-20T07:17:16.919245+00:00"
 }
