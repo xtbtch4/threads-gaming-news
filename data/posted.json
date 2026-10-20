@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4b86799b0641b35e4a76653a",
-      "title": "The Top 38 Best Simpsons Episodes",
-      "url": "https://ign.com/articles/the-top-38-best-simpsons-episodes",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T15:53:00+00:00",
-      "score": 8,
-      "event_key": "ign_top_38_simpsons_episodes_list",
-      "title_ru": "IGN опубликовал список 38 лучших эпизодов The Simpsons",
-      "threads_teaser_ru": "IGN составил подборку из 38 лучших эпизодов The Simpsons к старту 38-го сезона шоу, который начнется 27 сентября. В список вошли культовые серии, включая кроссовер с The X-Files и памятные сюжеты о жителях Springfield.",
-      "telegram_message_id": "312",
-      "telegram_url": "https://t.me/gamepulse_newss/312",
-      "telegram_published_at": "2026-09-25T18:44:06.879803+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/04/19/the-simpsons-1681942375502.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T18:44:08.349238+00:00"
-    },
-    {
       "fingerprint": "7f625c521d0c95242863d82e",
       "title": "How One Crash Bandicoot Level Helped Build Naughty Dog",
       "url": "https://ign.com/articles/how-one-crash-bandicoot-level-helped-build-naughty-dog",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/20/luke-1792484957182.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T12:02:36.318363+00:00"
+    },
+    {
+      "fingerprint": "27b3bfc1061503f086f75a9d",
+      "title": "PlayStation Founder Understands Why Players Want to Keep Physical Media Alive",
+      "url": "https://polygon.com/playstation-founder-ken-kutaragi-physical-media-sony",
+      "source": "Polygon",
+      "published_at_source": "2026-10-20T12:39:20+00:00",
+      "score": 10,
+      "event_key": "Ken Kutaragi discusses future of physical media and PlayStation",
+      "title_ru": "Основатель PlayStation высказался о будущем физических носителей",
+      "threads_teaser_ru": "Кен Кутараги, создатель PlayStation, признал, что отказ от дисков экономически выгоден для бизнеса, но при этом понимает гнев фанатов. По его мнению, физические носители стали для игроков символом того, что контент действительно принадлежит им, а не просто является временной лицензией.",
+      "telegram_message_id": "1513",
+      "telegram_url": "https://t.me/gamepulse_newss/1513",
+      "telegram_published_at": "2026-10-20T12:47:55.867877+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-sentinel.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-20T12:02:36.318461+00:00"
+  "updated_at": "2026-10-20T12:47:55.868190+00:00"
 }
