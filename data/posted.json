@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2d2527fc5ad2f3ceb98ac9f6",
-      "title": "10 Free Browser Games That are Actually Fun to Play",
-      "url": "https://polygon.com/best-free-browser-games",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T23:00:15+00:00",
-      "score": 8,
-      "event_key": "polygon_best_free_browser_games_selection",
-      "title_ru": "Подборка бесплатных браузерных игр",
-      "threads_teaser_ru": "Polygon представил подборку из десяти увлекательных бесплатных браузерных игр без скачивания и регистраций — от необычных автобатлеров и текстовых детективов до культовых проектов.",
-      "telegram_message_id": "337",
-      "telegram_url": "https://t.me/gamepulse_newss/337",
-      "telegram_published_at": "2026-09-25T23:07:25.025746+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4",
-      "threads_published_at": "2026-09-25T23:07:26.428813+00:00"
-    },
-    {
       "fingerprint": "bcbca1d17a18daa0a83d1368",
       "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
       "url": "https://gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill",
@@ -20493,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/12/fnr3-blogroll-1786523335779.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T21:02:37.702344+00:00"
+    },
+    {
+      "fingerprint": "fbe39b5e3c9914e36cd81eab",
+      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
+      "url": "https://ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T21:07:11+00:00",
+      "score": 13,
+      "event_key": "gta-6-beer-brands-real-life-production",
+      "title_ru": "Пивные бренды из GTA 6 могут появиться в реальной жизни",
+      "threads_teaser_ru": "Американское ведомство одобрило этикетки для реального выпуска пивных брендов из GTA 6, включая Patriot Beer и Pißwasser. Напитки производит пивоварня во Флориде, но точная дата поступления в продажу пока неизвестна.",
+      "telegram_message_id": "1538",
+      "telegram_url": "https://t.me/gamepulse_newss/1538",
+      "telegram_published_at": "2026-10-20T22:02:29.143263+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/gta-6-1791374410439.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T21:02:37.702433+00:00"
+  "updated_at": "2026-10-20T22:02:29.143444+00:00"
 }
