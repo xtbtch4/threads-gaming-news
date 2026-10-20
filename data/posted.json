@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8223891e05f173c66c27741a",
-      "title": "Critical Role Just Revealed the Dirtiest Dungeon Master Trick of All Time",
-      "url": "https://polygon.com/critical-role-dnd-dungeon-master-trick",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T17:02:25+00:00",
-      "score": 9,
-      "event_key": "critical-role-campaign-4-dungeon-master-trick-axe",
-      "title_ru": "Critical Role раскрыла коварный трюк для Dungeon Master в Dungeons & Dragons",
-      "threads_teaser_ru": "В свежем эпизоде Critical Role Dungeon Master Бреннан Ли Маллиган показал коварный трюк с магическим предметом-приманкой, который привел к серьезным проблемам для героев.",
-      "telegram_message_id": "301",
-      "telegram_url": "https://t.me/gamepulse_newss/301",
-      "telegram_published_at": "2026-09-25T17:36:14.537679+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/cr4-exandria.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-25T17:36:16.195066+00:00"
-    },
-    {
       "fingerprint": "574c6851685b3618385cad34",
       "title": "This 'Overwhelmingly Positive' Steam Cozy Sim Is Officially Outselling Major Game Releases",
       "url": "https://polygon.com/steam-top-sellers-dressmaker-new-releases-cozy-sim-what-is",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/penguin-colony-character-shot-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-20T09:16:53.874205+00:00"
+    },
+    {
+      "fingerprint": "4c9efcd8171bec7b75a587e0",
+      "title": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
+      "url": "https://rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-20T09:32:27+00:00",
+      "score": 10,
+      "event_key": "helidivers 2 switches from gameguard to easy anti cheat",
+      "title_ru": "Helidivers 2 меняет античит-систему GameGuard на Easy Anti-Cheat",
+      "threads_teaser_ru": "Helidivers 2 отказывается от античита GameGuard в пользу Easy Anti-Cheat для борьбы с нечестными модами. Изменения могут затронуть и привычные косметические модификации.",
+      "telegram_message_id": "1502",
+      "telegram_url": "https://t.me/gamepulse_newss/1502",
+      "telegram_published_at": "2026-10-20T09:33:49.282591+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/helldivers-2-anti-cheat-switch-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-20T09:16:53.874306+00:00"
+  "updated_at": "2026-10-20T09:33:49.282936+00:00"
 }
