@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bec42688edfdc5e2f0a61c0c",
-      "title": "Is Doctor Doom Putting Together a Team in Avengers: Doomsday?",
-      "url": "https://ign.com/articles/is-doctor-doom-putting-together-a-team-in-avengers-doomsday",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T16:36:42+00:00",
-      "score": 9,
-      "event_key": "avengers endgame encore footage hints at doctor doom plot in avengers doomsday",
-      "title_ru": "Собирает ли Doctor Doom собственную команду в Avengers: Doomsday?",
-      "threads_teaser_ru": "Новые материалы из повторного проката Avengers: Endgame – Encore проливают свет на подготовку к фильму Avengers: Doomsday и возможные планы Doctor Doom.",
-      "telegram_message_id": "309",
-      "telegram_url": "https://t.me/gamepulse_newss/309",
-      "telegram_published_at": "2026-09-25T18:28:46.588294+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/14/marvel-doomsday-poster-revealed-countdown-stream-change-1786726801531.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T18:28:47.981649+00:00"
-    },
-    {
       "fingerprint": "8e4b18ece70d3b0ad3980725",
       "title": "Onimusha: Way Of The Sword Made Me Realize I’ve Been Playing Action Games Wrong",
       "url": "https://gamespot.com/articles/onimusha-way-of-the-sword-made-me-realize-ive-been-playing-action-games-wrong",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-20T11:16:37.964413+00:00"
+    },
+    {
+      "fingerprint": "a4b3e7d0f095e1c7a5f5e6e7",
+      "title": "Kratos Would Have Had a Different Name Were It Not for Relentless Domino's Pizza Jokes, God of War Creator Reveals",
+      "url": "https://ign.com/articles/dominos-pizza-jokes-god-of-war-dev-name-kratos",
+      "source": "IGN",
+      "published_at_source": "2026-10-20T10:50:33+00:00",
+      "score": 11,
+      "event_key": "god of war krypto name origin dominos pizza",
+      "title_ru": "Kratos мог получить другое имя из-за шуток про пиццу",
+      "threads_teaser_ru": "Главный герой God of War мог получить совсем другое имя, но разработчики из Santa Monica Studio испортили его постоянными шутками про пиццу.",
+      "telegram_message_id": "1510",
+      "telegram_url": "https://t.me/gamepulse_newss/1510",
+      "telegram_published_at": "2026-10-20T11:31:58.811683+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/12/08/godofwarragnarok-valhalla-blogroll-1701999185810.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-20T11:16:37.964534+00:00"
+  "updated_at": "2026-10-20T11:31:58.811974+00:00"
 }
