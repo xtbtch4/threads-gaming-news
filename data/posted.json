@@ -20491,9 +20491,10 @@
       "telegram_message_id": "1509",
       "telegram_url": "https://t.me/gamepulse_newss/1509",
       "telegram_published_at": "2026-10-20T11:16:36.580974+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-20T11:16:37.964413+00:00"
     }
   ],
-  "updated_at": "2026-10-20T11:16:36.581261+00:00"
+  "updated_at": "2026-10-20T11:16:37.964534+00:00"
 }
