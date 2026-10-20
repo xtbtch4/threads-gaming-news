@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b7dc2e2bbf5a588eac8cb902",
-      "title": "Bird Time correct answers in Fire Emblem Fortune's Weave",
-      "url": "https://polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T18:23:05+00:00",
-      "score": 5,
-      "event_key": "Fire Emblem Fortune's Weave Bird Time mechanic guide",
-      "title_ru": "Гайд по механике Bird Time в Fire Emblem: Fortune's Weave",
-      "threads_teaser_ru": "Разбираемся, как работает механика Bird Time в Fire Emblem: Fortune's Weave. Узнайте, зачем кормить Eshmel, как открывается доступ к Perch и почему важно отвечать на вопросы персонажей правильно, чтобы получать бонусы в бою.",
-      "telegram_message_id": "328",
-      "telegram_url": "https://t.me/gamepulse_newss/328",
-      "telegram_published_at": "2026-09-25T20:48:26.472339+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_birdtime_lead-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-25T20:48:27.823516+00:00"
-    },
-    {
       "fingerprint": "1f82fe16f4cb79a6e623b945",
       "title": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
       "url": "https://eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
@@ -20494,7 +20477,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/20/untitled-design-1792517205060.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-20T18:32:06.183317+00:00"
+    },
+    {
+      "fingerprint": "76de2155c99ecdf5c287775c",
+      "title": "Three CRITICAL REFLEX Hits Are Coming to XBOX, And One Arrives Today",
+      "url": "https://news.xbox.com/en-us/2026/10/20/critical-reflex-games-xbox-update",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-20T17:27:00+00:00",
+      "score": 12,
+      "event_key": "critical reflex games coming to xbox",
+      "title_ru": "Три игры от издательства CRITICAL REFLEX выйдут на XBOX",
+      "threads_teaser_ru": "Издательство CRITICAL REFLEX объявило о скором релизе трех инди-хитов на XBOX. Хоррор Mouthwashing появится в конце октября, Arctic Eggs уже доступна, а релиз No, I’m Not A Human намечен на 2027 год.",
+      "telegram_message_id": "1529",
+      "telegram_url": "https://t.me/gamepulse_newss/1529",
+      "telegram_published_at": "2026-10-20T18:47:16.692389+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX_WIRE_CR_October2026-14af43f64542ee77796f.jpg"
     }
   ],
-  "updated_at": "2026-10-20T18:32:06.183415+00:00"
+  "updated_at": "2026-10-20T18:47:16.692639+00:00"
 }
