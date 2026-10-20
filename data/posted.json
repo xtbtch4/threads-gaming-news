@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0b7d5536655a9c8b01ded1c8",
-      "title": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
-      "url": "https://eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-25T12:10:19+00:00",
-      "score": 15,
-      "event_key": "build a rocket boy enters administration",
-      "title_ru": "Студия Build a Rocket Boy подала заявление о банкротстве",
-      "threads_teaser_ru": "Студия Build a Rocket Boy подала заявление о внешней администрации после новой волны увольнений и финансовых проблем. Ранее коллектив выпустил шутер MindsEye, получивший разгромные отзывы.",
-      "telegram_message_id": "273",
-      "telegram_url": "https://t.me/gamepulse_newss/273",
-      "telegram_published_at": "2026-09-25T12:16:42.590611+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/MindsEye---Official-Launch-Trailer-_-PS5-Games-0-49-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-25T12:16:44.053380+00:00"
-    },
-    {
       "fingerprint": "08da3a775f8a809952ef29c1",
       "title": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right",
       "url": "https://eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/saros-screenshot-01-en-14feb25.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-20T00:02:43.359289+00:00"
+    },
+    {
+      "fingerprint": "26ade2af2dacff99d2e07b11",
+      "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+      "url": "https://eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-19T19:54:06+00:00",
+      "score": 14,
+      "event_key": "digital sun delayed revamp steam playtest ai clone concerns",
+      "title_ru": "Разработчики ReVamp отложили публичный playtest в Steam из-за опасений перед ИИ-клонами",
+      "threads_teaser_ru": "Студия Digital Sun отложила публичный playtest игры ReVamp в Steam из-за страха перед ИИ-клонами. Вместо этого тестирование пройдет закрыто через Discord, а публичный доступ откроют позже.",
+      "telegram_message_id": "1474",
+      "telegram_url": "https://t.me/gamepulse_newss/1474",
+      "telegram_published_at": "2026-10-20T01:02:54.375357+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Revamp-Dracula.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-20T00:02:43.359385+00:00"
+  "updated_at": "2026-10-20T01:02:54.375757+00:00"
 }
