@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a6688d5d1fd1e0632393ea27",
-      "title": "Humble’s Batman Day Bundle Gets You 30 Caped Crusader Comics for Just $20",
-      "url": "https://ign.com/articles/humbles-batman-day-comics-bundle-30-comics-for-20",
-      "source": "IGN",
-      "published_at_source": "2026-09-25T15:28:16+00:00",
-      "score": 8,
-      "event_key": "humble-bundle-batman-day-comics-bundle-sale",
-      "title_ru": "Humble Bundle запустила распродажу комиксов о Batman",
-      "threads_teaser_ru": "Humble Bundle предлагает набор из 30 комиксов о Batman и пробную подписку на DC Universe Infinite всего от 20 долларов вместо 487 долларов. Акция продлится еще 15 дней.",
-      "telegram_message_id": "314",
-      "telegram_url": "https://t.me/gamepulse_newss/314",
-      "telegram_published_at": "2026-09-25T18:52:55.334778+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/batman-vol-1-the-court-of-owls-the-new-521-1790342111130.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-25T18:52:56.693854+00:00"
-    },
-    {
       "fingerprint": "f0c3db6b76aa62d4d21dd30d",
       "title": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers",
       "url": "https://polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response",
@@ -20493,7 +20476,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Resonance-Thumb.jpg?w=300",
       "threads_published_at": "2026-10-20T13:17:46.015408+00:00"
+    },
+    {
+      "fingerprint": "09fdf0e4df17cdba0fd97fa6",
+      "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
+      "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-20T13:30:11+00:00",
+      "score": 7,
+      "event_key": "Final Fantasy Resonance Visions gameplay details and features",
+      "title_ru": "Подробности механики Visions в Final Fantasy Resonance",
+      "threads_teaser_ru": "Разработчики Final Fantasy Resonance раскрыли детали системы Visions: игроки смогут призывать легендарных героев серии, таких как Sephiroth и Noctis. Эти помощники не только меняют исход боя, но и глубоко влияют на развитие характеристик и навыков основных персонажей.",
+      "telegram_message_id": "1515",
+      "telegram_url": "https://t.me/gamepulse_newss/1515",
+      "telegram_published_at": "2026-10-20T13:47:25.246453+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2048/10/b2c7ca25d91b7dd6592fe89b4e9f59d9b914eb00.jpg",
+      "video_url": "https://stream.mux.com/zfE8wwXyTBV4a9TrnLOlBwMgZSBrqDRDBtuSVRr01qXY/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ6ZkU4d3dYeVRCVjRhOVRybkxPbEJ3TWdaU0JycURSREJ0dVNWUnIwMXFYWSIsImF1ZCI6InYiLCJleHAiOjE3OTI1NDcxMjksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.k9u8MpeG15yWZWb95K4P2DOjSarGapxMrp5onV72iNYqzSmvd8zHKOBrrSS2hwPqGJDI991IEpaQGVnzT-nqzvdypgEljMJAtUmDOVpO6UGteKSz4Z4k1WfgeIiVptcc1gt-LRzAKYARx8oGU0Fx53fdUQrhLGA-4i0MiiQ2litOa68lvOJd1agQbmOYk1m2_mMnowVczzIDqocuLa32uWd3dS-lWaqmrSoghBGE71_gA-aJv_1Tax35_gkiLBuw_Z6A2kZvNrXjMgmJYfa3dwdRj92sbJlcSBhv5ouo0mngtHnzff_1DipczePPXfPKaSliycDTWgAzgAW7a7RV7Q"
     }
   ],
-  "updated_at": "2026-10-20T13:17:46.015483+00:00"
+  "updated_at": "2026-10-20T13:47:25.246852+00:00"
 }
