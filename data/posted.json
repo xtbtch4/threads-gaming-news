@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "574c6851685b3618385cad34",
-      "title": "This 'Overwhelmingly Positive' Steam Cozy Sim Is Officially Outselling Major Game Releases",
-      "url": "https://polygon.com/steam-top-sellers-dressmaker-new-releases-cozy-sim-what-is",
-      "source": "Polygon",
-      "published_at_source": "2026-09-25T17:35:16+00:00",
-      "score": 10,
-      "event_key": "Dressmaker outshines major game releases on Steam",
-      "title_ru": "Уютный симулятор Dressmaker обошел по продажам в Steam крупные релизы",
-      "threads_teaser_ru": "Новый уютный симулятор Dressmaker неожиданно вошел в топ продаж Steam, обогнав такие релизы, как Silent Hill: Townfall и The Blood of the Dawnwalker. Игра получила восторженные отзывы за детальный процесс создания одежды.",
-      "telegram_message_id": "302",
-      "telegram_url": "https://t.me/gamepulse_newss/302",
-      "telegram_published_at": "2026-09-25T17:45:17.883583+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dressmaker.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4",
-      "threads_published_at": "2026-09-25T17:45:19.489010+00:00"
-    },
-    {
       "fingerprint": "ed112b43acc061245c9cb53f",
       "title": "We Build LEGO Mayor Manor: A Spooky, Not-So-Scary Halloween Build",
       "url": "https://ign.com/articles/we-build-lego-mayor-manor-11383",
@@ -20494,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/helldivers-2-anti-cheat-switch-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-20T09:33:50.723240+00:00"
+    },
+    {
+      "fingerprint": "d46297529a4380ee535181d9",
+      "title": "New Fortnite Season Might Not Be One Piece After All, New Official Ads Reveal",
+      "url": "https://polygon.com/fortnite-one-piece-anime-mini-season-pass",
+      "source": "Polygon",
+      "published_at_source": "2026-10-20T09:46:45+00:00",
+      "score": 10,
+      "event_key": "fortnite_new_season_might_not_feature_one_piece",
+      "title_ru": "Новый сезон Fortnite может не получить кроссовер с One Piece",
+      "threads_teaser_ru": "Новые рекламные постеры Fortnite в метро Мадрида намекают на то, что грядущий мини-сезон может получить не эксклюзивный кроссовер с One Piece, а оригинальную пиратскую тему с аниме-скинами от Epic Games.",
+      "telegram_message_id": "1503",
+      "telegram_url": "https://t.me/gamepulse_newss/1503",
+      "telegram_published_at": "2026-10-20T09:48:00.776525+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/luffy-one-piece.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-20T09:33:50.723338+00:00"
+  "updated_at": "2026-10-20T09:48:00.776817+00:00"
 }
