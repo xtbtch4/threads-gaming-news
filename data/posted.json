@@ -20489,9 +20489,10 @@
       "telegram_message_id": "1561",
       "telegram_url": "https://t.me/gamepulse_newss/1561",
       "telegram_published_at": "2026-10-21T17:32:17.257872+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/mass-effect-space-opera-games-2.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/mass-effect-space-opera-games-2.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-21T17:32:18.817682+00:00"
     }
   ],
-  "updated_at": "2026-10-21T17:32:17.258098+00:00"
+  "updated_at": "2026-10-21T17:32:18.817783+00:00"
 }
