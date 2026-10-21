@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3db247b3b6603fed49af2701",
-      "title": "Forgotten Island's directors unpack their 'very personal' anime references",
-      "url": "https://polygon.com/forgotten-island-anime-references-director-interview",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T13:00:15+00:00",
-      "score": 10,
-      "event_key": "forgotten island directors unpack their very personal anime references",
-      "title_ru": "Forgotten Island's directors unpack their 'very personal' anime references",
-      "threads_teaser_ru": "Sailor Moon, Street Fighter, and Dragon Ball all get Easter egg moments in Forgotten Island, alongside a little Marvel Vs. Capcom.",
-      "telegram_message_id": "350",
-      "telegram_url": "https://t.me/gamepulse_newss/350",
-      "telegram_published_at": "2026-09-26T13:05:04.060792+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/saiyan.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/03/forgotten-island-official-trailer-1774463892.mp4",
-      "threads_published_at": "2026-09-26T13:05:05.542054+00:00"
-    },
-    {
       "fingerprint": "ecc80dd66ffb81cdca888078",
       "title": "Crimson Desert Has Kept Me Trapped In Its Opening Area, And You Could Join Me For $1",
       "url": "https://gamespot.com/articles/crimson-desert-has-kept-me-trapped-in-its-opening-area-and-you-could-join-me-for-1",
@@ -20493,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T11:47:00.127521+00:00"
+    },
+    {
+      "fingerprint": "c3e0c443ddd450e3dc534d1b",
+      "title": "Crimson Desert Charting the Unknown DLC Features Revealed, Including Shipbuilding, Romance, and Housing",
+      "url": "https://ign.com/articles/crimson-desert-charting-the-unknown-dlc-features-revealed-including-shipbuilding-romance-and-housing",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T11:29:54+00:00",
+      "score": 15,
+      "event_key": "crimson-desert-charting-the-unknown-dlc-announced",
+      "title_ru": "Анонсировано DLC Charting the Unknown для Crimson Desert",
+      "threads_teaser_ru": "Компания Pearl Abyss раскрыла подробности дополнения Charting the Unknown для Crimson Desert. DLC принесет в игру судостроение, подводное исследование, романтические отношения, строительство жилья и управление бизнесом.",
+      "telegram_message_id": "1551",
+      "telegram_url": "https://t.me/gamepulse_newss/1551",
+      "telegram_published_at": "2026-10-21T12:02:56.127461+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/marriage-1792581311395.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T11:47:00.127612+00:00"
+  "updated_at": "2026-10-21T12:02:56.127756+00:00"
 }
