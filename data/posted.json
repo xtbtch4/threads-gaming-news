@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "be308a0c1cd3c367672e7986",
-      "title": "Control Resonant Violates the Number One Commandment of Video Game Lore",
-      "url": "https://polygon.com/control-resonant-lore-logs",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T14:00:15+00:00",
-      "score": 6,
-      "event_key": "control resonant violates the number one commandment video game lore",
-      "title_ru": "Control Resonant Violates the Number One Commandment of Video Game Lore",
-      "threads_teaser_ru": "Control Resonant is packed with intriguing worldbuilding, but its glut of lore logs go a little overboard.",
-      "telegram_message_id": "354",
-      "telegram_url": "https://t.me/gamepulse_newss/354",
-      "telegram_published_at": "2026-09-26T14:19:22.042331+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ctrl_r_launch_4k_media_02.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-26T14:19:23.604027+00:00"
-    },
-    {
       "fingerprint": "c9d8038269a4f8f818dc4a6d",
       "title": "Magic: The Gathering Meets D&D-Style Dice Battles in the Best New TCG at PAX West 2026",
       "url": "https://polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/21/shrek-2-remasterd-screenshot-farfaraway-1792575980552.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-21T12:46:42.859482+00:00"
+    },
+    {
+      "fingerprint": "e5bb261898833c9637c8e6bf",
+      "title": "Samsung Galaxy Tab S12 Ultra Australia Launch: Everything You Need to Know, Specs and Local Pricing",
+      "url": "https://ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T13:00:00+00:00",
+      "score": 9,
+      "event_key": "samsung-galaxy-tab-s12-ultra-australia-launch",
+      "title_ru": "Samsung анонсировала планшет Galaxy Tab S12 Ultra в Австралии",
+      "threads_teaser_ru": "Samsung объявила дату выхода и стоимость планшета Galaxy Tab S12 Ultra в Австралии. Устройство получило огромный экран, топовый процессор и комплектный S Pen.",
+      "telegram_message_id": "1555",
+      "telegram_url": "https://t.me/gamepulse_newss/1555",
+      "telegram_published_at": "2026-10-21T13:02:37.024293+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/samsung-ign-article-1-1792580711557.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T12:46:42.859570+00:00"
+  "updated_at": "2026-10-21T13:02:37.024599+00:00"
 }
