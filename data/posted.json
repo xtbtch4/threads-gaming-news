@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dbe21bab43e7ad4ab706e87c",
-      "title": "11 anime to watch if you like Frieren",
-      "url": "https://polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T08:04:15+00:00",
-      "score": 6,
-      "event_key": "polygon_recommended_anime_like_frieren",
-      "title_ru": "11 аниме для просмотра в ожидании продолжения Frieren: Beyond Journey's End",
-      "threads_teaser_ru": "Polygon поделился подборкой из 11 аниме, которые стоит посмотреть в ожидании третьего сезона Frieren: Beyond Journey's End. В список вошли атмосферные и меланхоличные проекты вроде Mushi-shi, Kino’s Journey и To Your Eternity.",
-      "telegram_message_id": "344",
-      "telegram_url": "https://t.me/gamepulse_newss/344",
-      "telegram_published_at": "2026-09-26T08:06:18.245289+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/26174007.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-26T08:06:19.639722+00:00"
-    },
-    {
       "fingerprint": "6f03021f8899a7ce4198e752",
       "title": "5 Classic Sci-Fi Books That Are Perfect From Start to Finish",
       "url": "https://polygon.com/classic-sci-fi-perfect-start-finish",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/resident-evil-requiem-nostalgia-26.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T09:32:37.252697+00:00"
+    },
+    {
+      "fingerprint": "55839ef1f3bdfdef15ced44e",
+      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+      "url": "https://ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T09:36:28+00:00",
+      "score": 15,
+      "event_key": "sony_releases_ps5_firmware_update_amid_jailbreak_efforts",
+      "title_ru": "Sony выпустила новое системное обновление для PS5 на фоне гонки джейлбрейков",
+      "threads_teaser_ru": "Sony выпустила обновление ПО для PS5 на фоне активности сообщества хомбреу и попыток взлома консоли перед релизом GTA 6.",
+      "telegram_message_id": "1545",
+      "telegram_url": "https://t.me/gamepulse_newss/1545",
+      "telegram_published_at": "2026-10-21T10:16:35.654359+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T09:32:37.252788+00:00"
+  "updated_at": "2026-10-21T10:16:35.654632+00:00"
 }
