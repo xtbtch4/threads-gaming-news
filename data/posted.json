@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c1d9aced10621d17e7c297f2",
-      "title": "MobyGames video game database now lets developers claim their game credits",
-      "url": "https://eurogamer.net/mobygames-professional-developer-credits-portfolio",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-26T11:53:56+00:00",
-      "score": 9,
-      "event_key": "mobygames video game database now lets developers claim their game",
-      "title_ru": "MobyGames video game database now lets developers claim their game credits",
-      "threads_teaser_ru": "Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more.",
-      "telegram_message_id": "349",
-      "telegram_url": "https://t.me/gamepulse_newss/349",
-      "telegram_published_at": "2026-09-26T12:19:17.136239+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/silksong-credits.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-26T12:19:18.974066+00:00"
-    },
-    {
       "fingerprint": "3db247b3b6603fed49af2701",
       "title": "Forgotten Island's directors unpack their 'very personal' anime references",
       "url": "https://polygon.com/forgotten-island-anime-references-director-interview",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-price-parry-prompt-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T11:32:26.111154+00:00"
+    },
+    {
+      "fingerprint": "794f8214454a1b33bb9da3cc",
+      "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
+      "url": "https://rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-21T11:42:31+00:00",
+      "score": 14,
+      "event_key": "paulo pedercini generative ai usage future no thanks",
+      "title_ru": "Разработчик Paulo Pedercini признался в использовании генеративного ИИ в Future? No Thanks!",
+      "threads_teaser_ru": "Paulo Pedercini признался, что использовал ИИ для исправления багов и озвучки пары персонажей в своей игре Future? No Thanks!, несмотря на жесткую критику этой технологии.",
+      "telegram_message_id": "1550",
+      "telegram_url": "https://t.me/gamepulse_newss/1550",
+      "telegram_published_at": "2026-10-21T11:46:58.583716+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-21T11:32:26.111251+00:00"
+  "updated_at": "2026-10-21T11:46:58.584100+00:00"
 }
