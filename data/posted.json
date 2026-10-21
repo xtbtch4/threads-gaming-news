@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b1e43568bfa85f87db3a1eaa",
-      "title": "BioWare: A Division of EA",
-      "url": "https://bioware.com",
-      "source": "BioWare",
-      "published_at_source": "2026-09-26T15:36:00+00:00",
-      "score": 11,
-      "event_key": "bioware develops console pc and online role-playing games since 1995",
-      "title_ru": "О студии BioWare",
-      "threads_teaser_ru": "С 1995 года студия BioWare создает высококачественные ролевые игры для ПК, консолей и онлайн-платформ, уделяя особое внимание сюжетам и огромным мирам.",
-      "telegram_message_id": "357",
-      "telegram_url": "https://t.me/gamepulse_newss/357",
-      "telegram_published_at": "2026-09-26T15:46:58.521111+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.bioware.com/wp-content/themes/bioware/assets/img/apple-touch-icon-144x144.png",
-      "threads_published_at": "2026-09-26T15:46:59.858236+00:00"
-    },
-    {
       "fingerprint": "91595c7196290a5b51247456",
       "title": "New Werwulf Trailer and Tie-In Video Game Revealed",
       "url": "https://ign.com/articles/werwulf-trailer-video-game-robert-eggers",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fightnight.png?w=300",
       "threads_published_at": "2026-10-21T14:03:19.731348+00:00"
+    },
+    {
+      "fingerprint": "38d506454411970baea1f823",
+      "title": "The Apothecary Diaries: The False Imperial Brother – Gameplay Reveal Trailer",
+      "url": "https://gamespot.com/videos/the-apothecary-diaries-the-false-imperial-brother-gameplay-reveal-trailer",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-21T13:48:11+00:00",
+      "score": 15,
+      "event_key": "announcement of The Apothecary Diaries The False Imperial Brother game",
+      "title_ru": "Анонсирована игра The Apothecary Diaries: The False Imperial Brother",
+      "threads_teaser_ru": "Стала известна дата выхода первой консольной игры по вселенной The Apothecary Diaries. The False Imperial Brother поступит в продажу 18 марта 2027 года на современных консолях и PC. Игрокам предстоит примерить на себя роль Маомао и распутать клубок заговоров.",
+      "telegram_message_id": "1558",
+      "telegram_url": "https://t.me/gamepulse_newss/1558",
+      "telegram_published_at": "2026-10-21T14:48:37.410074+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-21T14:03:19.731435+00:00"
+  "updated_at": "2026-10-21T14:48:37.410188+00:00"
 }
