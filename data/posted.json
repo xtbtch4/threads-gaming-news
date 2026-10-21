@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "91595c7196290a5b51247456",
-      "title": "New Werwulf Trailer and Tie-In Video Game Revealed",
-      "url": "https://ign.com/articles/werwulf-trailer-video-game-robert-eggers",
-      "source": "IGN",
-      "published_at_source": "2026-09-26T15:22:42+00:00",
-      "score": 15,
-      "event_key": "werwulf movie trailer and tie in video game revealed",
-      "title_ru": "Анонсированы новый трейлер и видеоигра по фильму Werwulf",
-      "threads_teaser_ru": "Компания Focus Features выпустила новый трейлер средневекового хоррора Werwulf от Роберта Эггерса и анонсировала игру в альтернативной реальности, привязанную к фазам луны с сентября по ноябрь 2026 года.",
-      "telegram_message_id": "358",
-      "telegram_url": "https://t.me/gamepulse_newss/358",
-      "telegram_published_at": "2026-09-26T16:02:33.675649+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/29/werewulf-thumb-1782767493284.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T16:02:35.112435+00:00"
-    },
-    {
       "fingerprint": "ab455e32512ef4f278e038dd",
       "title": "Minecraft LIVE September 2026 Live Report — All the News as It Happens",
       "url": "https://ign.com/articles/minecraft-live-september-2026-everything-announced",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-10-21T14:48:39.602242+00:00"
+    },
+    {
+      "fingerprint": "d16b6fd20081178913fb94df",
+      "title": "Fallout Day Continues: The World of Fallout Museum Exhibit Expands, Choose the Flavor of Nuka Twist, and More",
+      "url": "https://ign.com/articles/fallout-day-continues-the-world-of-fallout-museum-exhibit-expands-choose-the-flavor-of-nuka-twist-and-more",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T15:00:00+00:00",
+      "score": 15,
+      "event_key": "bethesda announces real world fallouts day partnerships and exhibits",
+      "title_ru": "Bethesda анонсировала новые реальные партпроекты в рамках Fallout Day",
+      "threads_teaser_ru": "Bethesda раскрыла новые подробности к Fallout Day: расширение выставки в Лас-Вегасе, возвращение кафе в Токио и голосование за новый вкус напитка вместе с Jones Soda.",
+      "telegram_message_id": "1559",
+      "telegram_url": "https://t.me/gamepulse_newss/1559",
+      "telegram_published_at": "2026-10-21T15:02:50.062356+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/atomic-museum-4-1792593604368.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T14:48:39.602346+00:00"
+  "updated_at": "2026-10-21T15:02:50.062543+00:00"
 }
