@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9c4464a4c19aac7b35a540a6",
-      "title": "Wolverine Now Officially Lets Players Turn Off Its Most-Hated Feature",
-      "url": "https://polygon.com/wolverine-turn-off-scent-trails",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T13:32:45+00:00",
-      "score": 10,
-      "event_key": "Marvel's Wolverine update adds scent trails toggle option",
-      "title_ru": "В Marvel's Wolverine появилась возможность отключить визуальные подсказки",
-      "threads_teaser_ru": "В Marvel's Wolverine наконец-то можно отключить навязчивые «нюховые тропы». Свежий патч для PS5-версии позволяет настроить отображение визуальных подсказок в новом разделе настроек — правда, критически важные для сюжета элементы все же останутся на экране.",
-      "telegram_message_id": "352",
-      "telegram_url": "https://t.me/gamepulse_newss/352",
-      "telegram_published_at": "2026-09-26T13:47:29.475415+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-angry-logan.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-26T13:47:30.747020+00:00"
-    },
-    {
       "fingerprint": "2e62de2e3c0e0759e4db3e55",
       "title": "Major League Baseball Is Headed For A Lockout: What Happens To The Video Games?",
       "url": "https://gamespot.com/articles/major-league-baseball-is-headed-for-a-lockout-what-happens-to-the-video-games",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets1.ignimgs.com/2019/10/23/aragorn-lord-of-the-rings-1571864894448.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-21T12:17:11.672317+00:00"
+    },
+    {
+      "fingerprint": "477ea6f6f9869b4262b64e64",
+      "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
+      "url": "https://rockpapershotgun.com/i-want-room-to-make-a-wrong-turn-following-samson-devs-bankruptcy-its-founder-is-considering-how-ai-might-factor-into-new-studio-plans",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-21T12:30:00+00:00",
+      "score": 14,
+      "event_key": "liquid swords studio bankruptcy and founder new studio plans",
+      "title_ru": "Основатель Liquid Swords планирует новую студию после банкротства",
+      "threads_teaser_ru": "После банкротства студии Liquid Swords ее основатель Христофер Сундберг уже планирует открытие новой компании. Он рассказал, каким видит будущий процесс разработки и как планирует использовать генеративный искусственный интеллект.",
+      "telegram_message_id": "1553",
+      "telegram_url": "https://t.me/gamepulse_newss/1553",
+      "telegram_published_at": "2026-10-21T12:32:32.756537+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-21T12:17:11.672413+00:00"
+  "updated_at": "2026-10-21T12:32:32.756969+00:00"
 }
