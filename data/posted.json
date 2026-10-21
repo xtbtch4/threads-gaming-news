@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "df223c6befd32498b9418887",
-      "title": "Minecraft Is Getting Its First New Dimension In Over 15 Years",
-      "url": "https://gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-26T18:00:00+00:00",
-      "score": 15,
-      "event_key": "minecraft-getting-first-new-dimension-sift",
-      "title_ru": "Minecraft получит первое новое измерение более чем за 15 лет",
-      "threads_teaser_ru": "Mojang анонсировала первое новое измерение для Minecraft за 15 лет. Локация под названием The Sift появится в базовой игре в 2027 году после релиза в Minecraft Dungeons 2.",
-      "telegram_message_id": "366",
-      "telegram_url": "https://t.me/gamepulse_newss/366",
-      "telegram_published_at": "2026-09-26T18:32:20.559655+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MINECRAFT-DUNGEONS-II-_-Official-Gameplay-Trailer-0-14-screenshot-1.jpg?w=300",
-      "threads_published_at": "2026-09-26T18:32:21.943551+00:00"
-    },
-    {
       "fingerprint": "c5920d124108846c9bec8fb8",
       "title": "The Legend of Zelda: Ocarina of Time Remake Extended Clip Reveals Closer Look at Ganondorf",
       "url": "https://ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-21T23:02:39.909333+00:00"
+    },
+    {
+      "fingerprint": "a6a3dd24f7fb221f7427840b",
+      "title": "Mass Effect 5 Was Supposed to Redeem the Series After Andromeda, and Now We'll Never Get That",
+      "url": "https://ign.com/articles/mass-effect-5-was-supposed-to-redeem-the-series-after-andromeda-and-now-well-never-get-that",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T20:23:01+00:00",
+      "score": 12,
+      "event_key": "cancellation of next Mass Effect game due to BioWare closure",
+      "title_ru": "Разработка следующей Mass Effect прекращена из-за закрытия BioWare",
+      "threads_teaser_ru": "Следующая игра во франшизе Mass Effect отменена: из-за закрытия BioWare проект, который многие фанаты называли Mass Effect 5, никогда не увидит свет. Что об этом известно и на какие альтернативы теперь возлагают надежды игроки?",
+      "telegram_message_id": "1567",
+      "telegram_url": "https://t.me/gamepulse_newss/1567",
+      "telegram_published_at": "2026-10-21T23:47:11.113097+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/11/06/mixcollage-06-nov-2025-12-25-pm-3562-1762449958836.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T23:02:39.909432+00:00"
+  "updated_at": "2026-10-21T23:47:11.113412+00:00"
 }
