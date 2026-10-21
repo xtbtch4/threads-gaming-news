@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "110a74f96acfa299f887777c",
-      "title": "Nintendo Should Make More Games About People",
-      "url": "https://polygon.com/switchboard-fire-emblem-fortunes-weave",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T12:00:15+00:00",
-      "score": 10,
-      "event_key": "Fire Emblem Fortune's Weave character depth analysis Nintendo Switch",
-      "title_ru": "Fire Emblem: Fortune's Weave на Nintendo Switch выделяется проработкой персонажей",
-      "threads_teaser_ru": "Издание Polygon разобрало Fire Emblem: Fortune's Weave для Nintendo Switch. Игроки и журналисты отмечают, что проект выделяется на фоне других игр компании неожиданно глубокой проработкой персонажей, романтических линий и человеческих эмоций, что нехарактерно для линейки Nintendo.",
-      "telegram_message_id": "348",
-      "telegram_url": "https://t.me/gamepulse_newss/348",
-      "telegram_published_at": "2026-09-26T12:02:56.514981+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-cast.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-26T12:02:57.871341+00:00"
-    },
-    {
       "fingerprint": "c1d9aced10621d17e7c297f2",
       "title": "MobyGames video game database now lets developers claim their game credits",
       "url": "https://eurogamer.net/mobygames-professional-developer-credits-portfolio",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T11:17:18.379292+00:00"
+    },
+    {
+      "fingerprint": "56edac088061053635328116",
+      "title": "Even Call of Duty has a parry now and it's kind of brilliant - but do we need it in every game?",
+      "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-parry-melee-best-moments",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-21T11:22:21+00:00",
+      "score": 9,
+      "event_key": "Modern Warfare 4 adds parry mechanic to campaign",
+      "title_ru": "В кампании Modern Warfare 4 появилась механика парирования",
+      "threads_teaser_ru": "В кампании Modern Warfare 4 появилась неожиданная механика: теперь для прохождения ряда рукопашных схваток необходимо освоить систему парирования. Разбираемся, как Infinity Ward изменили привычный геймплей шутера.",
+      "telegram_message_id": "1549",
+      "telegram_url": "https://t.me/gamepulse_newss/1549",
+      "telegram_published_at": "2026-10-21T11:32:24.796026+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-price-parry-prompt-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-21T11:17:18.379376+00:00"
+  "updated_at": "2026-10-21T11:32:24.796395+00:00"
 }
