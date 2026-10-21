@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ef944b0ec8f81b5dec5ea208",
-      "title": "Melissa Barrera Says She Would Reprise Her Scream Role, Reveals Conditions for Her Return",
-      "url": "https://ign.com/articles/melissa-barrera-says-she-would-reprise-her-scream-role-reveals-conditions-for-her-return",
-      "source": "IGN",
-      "published_at_source": "2026-09-26T16:19:23+00:00",
-      "score": 11,
-      "event_key": "melissa barrera open to scream return under new management",
-      "title_ru": "Melissa Barrera оценила возможность возвращения в Scream",
-      "threads_teaser_ru": "Melissa Barrera рассказала при каких условиях готова вернуться во франшизу Scream. Актриса назвала главное препятствие для своего камбэка.",
-      "telegram_message_id": "361",
-      "telegram_url": "https://t.me/gamepulse_newss/361",
-      "telegram_published_at": "2026-09-26T17:16:41.888285+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/03/28/melissa-barrera-comments-scream-7-1711648434561.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T17:16:43.117849+00:00"
-    },
-    {
       "fingerprint": "934b62531bf3f4c9dbff94f5",
       "title": "13 Most Influential Video Games of the Past 45 Years",
       "url": "https://polygon.com/most-influential-video-games",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/mass-effect-space-opera-games-2.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-21T17:32:18.817682+00:00"
+    },
+    {
+      "fingerprint": "243aae4143960562994bfc4e",
+      "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
+      "url": "https://gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-21T17:12:53+00:00",
+      "score": 15,
+      "event_key": "electronic arts shuts down bioware studio",
+      "title_ru": "EA закрывает студию BioWare и отменяет следующую Mass Effect",
+      "threads_teaser_ru": "Electronic Arts закрывает студию BioWare и отменяет разработку следующей игры в серии Mass Effect. Под сокращение попадают около 50 сотрудников студии и еще 350 работников в других подразделениях компании.",
+      "telegram_message_id": "1562",
+      "telegram_url": "https://t.me/gamepulse_newss/1562",
+      "telegram_published_at": "2026-10-21T19:02:15.329930+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/mass-effect-image.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-21T17:32:18.817783+00:00"
+  "updated_at": "2026-10-21T19:02:15.330224+00:00"
 }
