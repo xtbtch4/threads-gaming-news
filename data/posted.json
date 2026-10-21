@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "422932334b2db122c0c334cc",
-      "title": "Minecraft Dungeons II’s New Dimension Coming to Minecraft Java & Bedrock Edition",
-      "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-26T18:00:00+00:00",
-      "score": 16,
-      "event_key": "minecraft dungsons two the sift dimension release",
-      "title_ru": "Новое измерение для Minecraft и релиз Minecraft Dungeons II",
-      "threads_teaser_ru": "Mojang Studios представила The Sift — первое новое измерение в Minecraft более чем за 14 лет. Игроки смогут исследовать его уже 29 сентября с релизом Minecraft Dungeons II, а в 2027 году оно появится в Minecraft Java & Bedrock Edition.",
-      "telegram_message_id": "364",
-      "telegram_url": "https://t.me/gamepulse_newss/364",
-      "telegram_published_at": "2026-09-26T18:01:56.019102+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/MCD2_1920x1080-84f3ca1c12bda31f0ad8.jpg",
-      "threads_published_at": "2026-09-26T18:01:57.501854+00:00"
-    },
-    {
       "fingerprint": "a50f36f54df22341d6b96627",
       "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
       "url": "https://ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/elder-scrolls-online-skyrim-update-2.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-21T20:17:01.123878+00:00"
+    },
+    {
+      "fingerprint": "779e67bb7e8a5f7a29cc8fdc",
+      "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+      "url": "https://eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-21T12:00:00+00:00",
+      "score": 14,
+      "event_key": "EA closes BioWare and cancels The Sims project and layoffs",
+      "title_ru": "EA сократит 400 сотрудников, закроет BioWare и отменит проект по The Sims",
+      "threads_teaser_ru": "Масштабные изменения в EA: компания сокращает 400 сотрудников, закрывает BioWare и приостанавливает разработку одного из проектов по The Sims. При этом издатель планирует сосредоточиться на меньшем количестве крупных игр и объединить усилия Respawn и DICE для совместной работы.",
+      "telegram_message_id": "1565",
+      "telegram_url": "https://t.me/gamepulse_newss/1565",
+      "telegram_published_at": "2026-10-21T20:32:47.542759+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/the-sims-coach-collab.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-21T20:17:01.123975+00:00"
+  "updated_at": "2026-10-21T20:32:47.543039+00:00"
 }
