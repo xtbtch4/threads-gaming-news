@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2e62de2e3c0e0759e4db3e55",
-      "title": "Major League Baseball Is Headed For A Lockout: What Happens To The Video Games?",
-      "url": "https://gamespot.com/articles/major-league-baseball-is-headed-for-a-lockout-what-happens-to-the-video-games",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-26T13:00:00+00:00",
-      "score": 7,
-      "event_key": "major league baseball headed for lockout what happens the video",
-      "title_ru": "Major League Baseball Is Headed For A Lockout: What Happens To The Video Games?",
-      "threads_teaser_ru": "Major League Baseball's collective bargaining agreement with the Major League Baseball Players Association (MLBPA) ends on December 1, 2026.",
-      "telegram_message_id": "353",
-      "telegram_url": "https://t.me/gamepulse_newss/353",
-      "telegram_published_at": "2026-09-26T14:04:23.293573+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/mlb-the-show-lockout.jpeg?w=300",
-      "threads_published_at": "2026-09-26T14:04:24.519684+00:00"
-    },
-    {
       "fingerprint": "be308a0c1cd3c367672e7986",
       "title": "Control Resonant Violates the Number One Commandment of Video Game Lore",
       "url": "https://polygon.com/control-resonant-lore-logs",
@@ -20492,7 +20475,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T12:32:34.220222+00:00"
+    },
+    {
+      "fingerprint": "ab3810405704d11ff4acff40",
+      "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
+      "url": "https://ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T09:53:34+00:00",
+      "score": 9,
+      "event_key": "shrek 2 remastered pc requirements surprise fans",
+      "title_ru": "Системные требования Shrek 2 Remastered удивили игроков",
+      "threads_teaser_ru": "Системные требования ПК-версии Shrek 2 Remastered вызвали удивление в сети: для игры требуются видеокарты уровня RTX 4060 и выше.",
+      "telegram_message_id": "1554",
+      "telegram_url": "https://t.me/gamepulse_newss/1554",
+      "telegram_published_at": "2026-10-21T12:46:41.081187+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/shrek-2-remasterd-screenshot-farfaraway-1792575980552.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T12:32:34.220345+00:00"
+  "updated_at": "2026-10-21T12:46:41.081463+00:00"
 }
