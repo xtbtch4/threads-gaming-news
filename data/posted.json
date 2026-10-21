@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "558159d7de18473eeab63c4c",
-      "title": "Overwatch Seasonal Hero Releases 'The Right Thing for the Game,' Blizzard Says",
-      "url": "https://polygon.com/overwatch-2027-new-heroes-every-season",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T11:16:16+00:00",
-      "score": 10,
-      "event_key": "blizzard confirms seasonal hero releases for overwatch",
-      "title_ru": "Blizzard продолжит выпускать героев Overwatch сезонно",
-      "threads_teaser_ru": "Blizzard подтвердила, что планирует и дальше выпускать героев для Overwatch по сезонам. Авторы считают такой подход «правильным решением» для игры, особенно на фоне успешного эксперимента с 10 новыми персонажами в 2026 году. Узнали, сколько героев будет в ростере к следующему году.",
-      "telegram_message_id": "347",
-      "telegram_url": "https://t.me/gamepulse_newss/347",
-      "telegram_published_at": "2026-09-26T11:17:37.309537+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/overwatch-shion-gameplay-1.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-26T11:17:38.724283+00:00"
-    },
-    {
       "fingerprint": "110a74f96acfa299f887777c",
       "title": "Nintendo Should Make More Games About People",
       "url": "https://polygon.com/switchboard-fire-emblem-fortunes-weave",
@@ -20493,7 +20476,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T11:02:47.467487+00:00"
+    },
+    {
+      "fingerprint": "c505dcc341d879e95c3d0746",
+      "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
+      "url": "https://eurogamer.net/football-manager-27-free-to-play-five-days",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-21T11:00:00+00:00",
+      "score": 11,
+      "event_key": "football_manager_27_five_day_free_play_period",
+      "title_ru": "Football Manager 27 станет доступна бесплатно на пять дней до релиза",
+      "threads_teaser_ru": "Football Manager 27 получит пятидневный бесплатный период на PC и Mac перед полноценным релизом в ноябре. Игроки смогут оценить все режимы игры, а сохранения перенесутся в полную версию.",
+      "telegram_message_id": "1548",
+      "telegram_url": "https://t.me/gamepulse_newss/1548",
+      "telegram_published_at": "2026-10-21T11:17:16.953510+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-21T11:02:47.467592+00:00"
+  "updated_at": "2026-10-21T11:17:16.953727+00:00"
 }
