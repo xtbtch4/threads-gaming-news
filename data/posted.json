@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a50f36f54df22341d6b96627",
-      "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-      "url": "https://ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
-      "source": "IGN",
-      "published_at_source": "2026-09-26T17:30:14+00:00",
-      "score": 15,
-      "event_key": "minecraft-hotel-and-rollercoaster-announced-chessington",
-      "title_ru": "Анонсированы первый официальный отель и аттракцион по Minecraft",
-      "threads_teaser_ru": "На Minecraft LIVE представили первый официальный отель Minecraft World Hotel и назвали первый в истории тематический аттракцион Escape the Nether. Они откроются в следующем году на курорте Chessington World of Adventures Resort.",
-      "telegram_message_id": "365",
-      "telegram_url": "https://t.me/gamepulse_newss/365",
-      "telegram_published_at": "2026-09-26T18:16:46.720827+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/26/htkjbgrxuaaoaiy-1790443786886.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T18:16:48.032020+00:00"
-    },
-    {
       "fingerprint": "df223c6befd32498b9418887",
       "title": "Minecraft Is Getting Its First New Dimension In Over 15 Years",
       "url": "https://gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/the-sims-coach-collab.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-21T20:32:49.019182+00:00"
+    },
+    {
+      "fingerprint": "af84c392656baf4c28fa3b56",
+      "title": "Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closure",
+      "url": "https://ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T22:06:29+00:00",
+      "score": 13,
+      "event_key": "Mass Effect TV series remains in development at Prime Video",
+      "title_ru": "Сериал по вселенной Mass Effect всё ещё находится в разработке у Prime Video",
+      "threads_teaser_ru": "Закрытие BioWare не повлияло на судьбу сериала по Mass Effect. Шоу всё ещё в разработке у Prime Video, а ключевые авторы остались в проекте. Стало известно, как именно сюжет сериала будет связан с играми серии.",
+      "telegram_message_id": "1566",
+      "telegram_url": "https://t.me/gamepulse_newss/1566",
+      "telegram_published_at": "2026-10-21T23:02:38.504947+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T20:32:49.019268+00:00"
+  "updated_at": "2026-10-21T23:02:38.505244+00:00"
 }
