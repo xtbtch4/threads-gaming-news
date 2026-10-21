@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "934b62531bf3f4c9dbff94f5",
-      "title": "13 Most Influential Video Games of the Past 45 Years",
-      "url": "https://polygon.com/most-influential-video-games",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T17:23:35+00:00",
-      "score": 8,
-      "event_key": "polygon_most_influential_video_games_list",
-      "title_ru": "Самые влиятельные видеоигры за последние 45 лет",
-      "threads_teaser_ru": "Издание Polygon представило подборку из 13 самых влиятельных видеоигр за последние 45 лет. В список вошли культовые проекты вроде Pac-Man, Tetris, Super Mario Bros. и Street Fighter 2, которые навсегда изменили индустрию и сформировали целые жанры.",
-      "telegram_message_id": "362",
-      "telegram_url": "https://t.me/gamepulse_newss/362",
-      "telegram_published_at": "2026-09-26T17:32:02.547079+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/doom-the-dark-ages-revelations-official-4k-trailer-xbox-games-showcase-2026-1780853885.mp4",
-      "threads_published_at": "2026-09-26T17:32:03.764983+00:00"
-    },
-    {
       "fingerprint": "6efee3129b78f1f0581a4320",
       "title": "Sega's '90s'-Era Fire Emblem Replacement Needs To Make A Comeback",
       "url": "https://polygon.com/shining-force-sega-tactics-rpg-comeback",
@@ -20492,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/mass-effect-image.jpg?w=300",
       "threads_published_at": "2026-10-21T19:02:16.710524+00:00"
+    },
+    {
+      "fingerprint": "b037a70fcade68b71bf50c29",
+      "title": "Diablo: Unbound Officially Announced for 2027 Release",
+      "url": "https://polygon.com/diablo-unbound-announcement-blizzard-glass-cannon-games",
+      "source": "Polygon",
+      "published_at_source": "2026-10-21T19:14:05+00:00",
+      "score": 14,
+      "event_key": "diablo unbound board game announced glass cannon",
+      "title_ru": "Анонсирована настольная игра Diablo: Unbound",
+      "threads_teaser_ru": "Компания Blizzard и студия Glass Cannon Unplugged анонсировали кооперативную настольную игру Diablo: Unbound с механиками колодостроения и бросков кубиков. Проект рассчитан на 1–4 игроков.",
+      "telegram_message_id": "1563",
+      "telegram_url": "https://t.me/gamepulse_newss/1563",
+      "telegram_published_at": "2026-10-21T19:17:15.787568+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/diablo-unbound-cover.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-21T19:02:16.710622+00:00"
+  "updated_at": "2026-10-21T19:17:15.787920+00:00"
 }
