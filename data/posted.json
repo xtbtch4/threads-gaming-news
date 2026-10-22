@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e43cb2550f4612bae2247bbd",
-      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-      "url": "https://ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-26T18:29:29+00:00",
-      "score": 15,
-      "event_key": "naughty dog releases tlou ps5 background and teases announcements",
-      "title_ru": "Бесплатный фон по The Last of Us на PS5 и тизер анонсов",
-      "threads_teaser_ru": "Naughty Dog выпустила бесплатный анимированный фон по The Last of Us для PlayStation 5 и поделилась подробностями о грядущих анонсах и актерском составе сериала.",
-      "telegram_message_id": "368",
-      "telegram_url": "https://t.me/gamepulse_newss/368",
-      "telegram_published_at": "2026-09-26T19:01:55.217762+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/26/the-last-of-us-background-ps5-1790446863917.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T19:01:56.570072+00:00"
-    },
-    {
       "fingerprint": "820cd491ffa5f8a2ae5d6aa4",
       "title": "Minecraft Dungeons II: The Sift, New Mechanics, Better Exploration, and More | Official XBOX Podcast",
       "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-dungeons-ii-the-sift-new-mechanics-better-exploration-and-more-official-xbox-podcast",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/22/dbz-1792630322966.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-22T01:03:24.924103+00:00"
+    },
+    {
+      "fingerprint": "a47b80ff8bad66a265422031",
+      "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
+      "url": "https://eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-21T17:55:57+00:00",
+      "score": 12,
+      "event_key": "bioware studio closing and mass effect project cancellation",
+      "title_ru": "BioWare закрывается, разработка следующей части Mass Effect прекращена",
+      "threads_teaser_ru": "Легендарная студия BioWare закрывается после 30 лет работы. Вслед за этим была отменена разработка следующей части Mass Effect. События происходят на фоне масштабных перемен в EA после покупки компании за 55 млрд долларов.",
+      "telegram_message_id": "1569",
+      "telegram_url": "https://t.me/gamepulse_newss/1569",
+      "telegram_published_at": "2026-10-22T04:32:48.491174+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/image-(4)_hn7CZkQ.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-22T01:03:24.924218+00:00"
+  "updated_at": "2026-10-22T04:32:48.491421+00:00"
 }
