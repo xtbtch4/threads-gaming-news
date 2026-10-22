@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "718b1b6dc5701b8fcd35732b",
-      "title": "GTA 6 Won't Officially Break Clair Obscur's Big GOTY Record",
-      "url": "https://polygon.com/gta-6-goty-golden-joysticks-big-five",
-      "source": "Polygon",
-      "published_at_source": "2026-09-28T15:00:16+00:00",
-      "score": 14,
-      "event_key": "GTA 6 excluded from 2026 Golden Joystick Awards",
-      "title_ru": "Grand Theft Auto 6 не сможет получить награду на Golden Joystick Awards в 2026 году",
-      "threads_teaser_ru": "Grand Theft Auto 6 не сможет претендовать на звание игры года по версии Golden Joystick Awards в 2026 году. Из-за даты релиза игра не попадает в цикл голосования, что закрывает ей путь к «большому шлему» всех главных индустриальных наград в текущем году.",
-      "telegram_message_id": "412",
-      "telegram_url": "https://t.me/gamepulse_newss/412",
-      "telegram_published_at": "2026-09-28T15:04:12.433667+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-brian-heder.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-28T15:04:13.991077+00:00"
-    },
-    {
       "fingerprint": "6f77380881253e7d98f2053b",
       "title": "Gears of War: E-Day and XBOX Unleash “The Emergence Pie” with Prince St. Pizza",
       "url": "https://news.xbox.com/en-us/2026/09/28/gears-of-war-e-day-prince-st-pizza",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/becastled-fdd0fe38ba51b9eca0a9.jpg",
       "threads_published_at": "2026-10-22T19:02:53.577654+00:00"
+    },
+    {
+      "fingerprint": "3bb4e030048f0e69b631af58",
+      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
+      "url": "https://eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-22T17:00:49+00:00",
+      "score": 11,
+      "event_key": "masahiro-sakurai-generative-ai-unoriginal-games",
+      "title_ru": "Масахиро Сакураи высказался о влиянии генеративного ИИ на видеоигры",
+      "threads_teaser_ru": "Масахиро Сакураи считает, что генеративный ИИ вызовет волну неоригинальных игр и массового контента низкого качества, однако подлинное человеческое творчество повторить невозможно.",
+      "telegram_message_id": "1613",
+      "telegram_url": "https://t.me/gamepulse_newss/1613",
+      "telegram_published_at": "2026-10-22T19:16:54.326619+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-22T19:02:53.577732+00:00"
+  "updated_at": "2026-10-22T19:16:54.326852+00:00"
 }
