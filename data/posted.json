@@ -20485,9 +20485,10 @@
       "telegram_message_id": "1583",
       "telegram_url": "https://t.me/gamepulse_newss/1583",
       "telegram_published_at": "2026-10-22T10:02:23.133537+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/street-fighter-ending-explained-thumb-1792186722001.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/street-fighter-ending-explained-thumb-1792186722001.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-22T10:02:24.523109+00:00"
     }
   ],
-  "updated_at": "2026-10-22T10:02:23.133869+00:00"
+  "updated_at": "2026-10-22T10:02:24.523227+00:00"
 }
