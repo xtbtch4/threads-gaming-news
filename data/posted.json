@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c8e05e68365010d87313148e",
-      "title": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
-      "url": "https://eurogamer.net/minecraft-300000-new-players-daily-minecraft",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-27T09:32:21+00:00",
-      "score": 13,
-      "event_key": "minecraft-gains-300000-new-players-daily",
-      "title_ru": "Minecraft ежедневно привлекает около 300 тысяч новых игроков",
-      "threads_teaser_ru": "По данным главы Xbox, Minecraft продолжает привлекать более 300 тысяч новых игроков ежедневно. Общие продажи игры уже превысили 425 миллионов копий за 17 лет существования.",
-      "telegram_message_id": "385",
-      "telegram_url": "https://t.me/gamepulse_newss/385",
-      "telegram_published_at": "2026-09-27T09:47:02.709812+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/minecraft-cushions.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-27T09:47:04.152920+00:00"
-    },
-    {
       "fingerprint": "c1ae3082558ad6fa3d215b43",
       "title": "58 Years Ago, Star Trek Officially Switched Genres With an All-Time Classic Episode",
       "url": "https://polygon.com/star-trek-enterprise-incident-espionage",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EN_CP77_ER2_badge2.5_16x9-8659829d0e6e5766ee9c.jpg",
       "threads_published_at": "2026-10-22T10:31:56.709207+00:00"
+    },
+    {
+      "fingerprint": "47dfdb754cd27cf08ad6bfb1",
+      "title": "Mass Effect 5 was aiming to offer a \"level of autonomy and choice\" that could vault it into orbit with Larian and CD Projekt's top RPGs, former dev says post-cancellation",
+      "url": "https://rockpapershotgun.com/mass-effect-5-was-aiming-to-offer-a-level-of-autonomy-and-choice-that-could-vault-it-into-orbit-with-larian-and-cd-projekts-top-rpgs-former-dev-says-post-cancellation",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-22T09:49:44+00:00",
+      "score": 12,
+      "event_key": "mass effect 5 development details after bioware closure",
+      "title_ru": "Бывший разработчик рассказал о целях закрытой игры Mass Effect 5",
+      "threads_teaser_ru": "Бывший разработчик отмененной Mass Effect 5 поделился подробностями о том, каким авторы видели продолжение серии до закрытия студии BioWare компанией Electronic Arts.",
+      "telegram_message_id": "1586",
+      "telegram_url": "https://t.me/gamepulse_newss/1586",
+      "telegram_published_at": "2026-10-22T10:46:52.897266+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-broshep.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-22T10:31:56.709304+00:00"
+  "updated_at": "2026-10-22T10:46:52.897655+00:00"
 }
