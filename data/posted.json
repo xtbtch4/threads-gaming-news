@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8b4aaf6736936aa47254f4f7",
-      "title": "10 Years Later, Critical Role’S Most Heartbreaking Quote Still Lives in My Mind Rent-Free",
-      "url": "https://polygon.com/critical-role-the-legend-of-vox-machina-best-quote",
-      "source": "Polygon",
-      "published_at_source": "2026-09-26T19:00:15+00:00",
-      "score": 10,
-      "event_key": "critical-role-scanlan-mother-name-quote-adaptation",
-      "title_ru": "Как изменилась знаменитая сцена со Scanlan в адаптации The Legend of Vox Machina",
-      "threads_teaser_ru": "Знаменитая сцена с эмоциональным вопросом Scanlan из первой кампании Critical Role претерпела изменения в анимационном сериале The Legend of Vox Machina из-за формата адаптации и новых обстоятельств.",
-      "telegram_message_id": "371",
-      "telegram_url": "https://t.me/gamepulse_newss/371",
-      "telegram_published_at": "2026-09-26T19:47:40.285706+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/scanlan-in-legend-of-vox-machina-season-4.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-26T19:47:41.875673+00:00"
-    },
-    {
       "fingerprint": "75f274613e9c4afe12f9d413",
       "title": "Minecraft LIVE Fall 2026 Recap",
       "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-live-fall-2026-recap",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/pejy-bge2-beyond-good-and-evil-2-pig.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T05:47:23.465547+00:00"
+    },
+    {
+      "fingerprint": "2600d04876f76339a260d9e7",
+      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
+      "url": "https://ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
+      "source": "IGN",
+      "published_at_source": "2026-10-21T23:15:44+00:00",
+      "score": 10,
+      "event_key": "GTA 6 real life Burger Shot opening in Miami",
+      "title_ru": "В Майами открывается реальный Burger Shot из серии GTA",
+      "threads_teaser_ru": "Перед релизом GTA 6 компания Rockstar Games продолжает масштабную рекламную кампанию в Майами. На арене Kaseya Center открылся реальный Burger Shot, а баскетбольная команда Miami Heat проведет тематический матч в специальной форме.",
+      "telegram_message_id": "1572",
+      "telegram_url": "https://t.me/gamepulse_newss/1572",
+      "telegram_published_at": "2026-10-22T06:47:45.781075+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/burger-shot-1792623074820.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T05:47:23.465643+00:00"
+  "updated_at": "2026-10-22T06:47:45.781339+00:00"
 }
