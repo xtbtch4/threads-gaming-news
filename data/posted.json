@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f415a34c77baa2d87596ddb5",
-      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "url": "https://eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-28T17:53:19+00:00",
-      "score": 15,
-      "event_key": "youtuber_creates_gta_style_map_of_london",
-      "title_ru": "Фан-карта Лондона в стиле Grand Theft Auto",
-      "threads_teaser_ru": "YouTuber CityEd создал детальную карту Лондона в стиле Grand Theft Auto с фирменной сатирой Rockstar Games и измененными топонимами.",
-      "telegram_message_id": "415",
-      "telegram_url": "https://t.me/gamepulse_newss/415",
-      "telegram_published_at": "2026-09-28T18:02:45.091163+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/GTA5_grandtheftauto.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-28T18:02:47.034691+00:00"
-    },
-    {
       "fingerprint": "6258fc99e0b1497e96b38026",
       "title": "Steam Dev’s Viral GTA Clone Is The Perfect PS2 Throwback",
       "url": "https://polygon.com/ps2-gta-inspired-game-alaturka",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/eh-image.jpg?w=300",
       "threads_published_at": "2026-10-22T19:47:09.448795+00:00"
+    },
+    {
+      "fingerprint": "df308d07cd441ae2a6d9ce58",
+      "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
+      "url": "https://gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-22T12:09:00+00:00",
+      "score": 12,
+      "event_key": "blizzard keeps secrets for world of warcraft forever launch",
+      "title_ru": "Blizzard скрывает секреты World of Warcraft: Forever до релиза",
+      "threads_teaser_ru": "Участники беты World of Warcraft: Forever изучили игру вдоль и поперек, но разработчики припасли немало сюрпризов для релиза и последующих обновлений.",
+      "telegram_message_id": "1616",
+      "telegram_url": "https://t.me/gamepulse_newss/1616",
+      "telegram_published_at": "2026-10-22T20:02:24.624532+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-22T19:47:09.448881+00:00"
+  "updated_at": "2026-10-22T20:02:24.624668+00:00"
 }
