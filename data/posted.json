@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c5920d124108846c9bec8fb8",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Extended Clip Reveals Closer Look at Ganondorf",
-      "url": "https://ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf",
-      "source": "IGN",
-      "published_at_source": "2026-09-26T17:24:54+00:00",
-      "score": 13,
-      "event_key": "zelda ocarina of time remake ganondorf clip switch 2",
-      "title_ru": "Nintendo показала новый кадр с Ganondorf из ремейка The Legend of Zelda: Ocarina of Time",
-      "threads_teaser_ru": "Nintendo показала новый фрагмент ремейка The Legend of Zelda: Ocarina of Time для Switch 2, демонстрирующий Ganondorf в обновленной сцене сновидения с замедленной съемкой.",
-      "telegram_message_id": "367",
-      "telegram_url": "https://t.me/gamepulse_newss/367",
-      "telegram_published_at": "2026-09-26T18:46:38.204339+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/26/the-legend-of-zelda-ocarina-of-time-remake-ganondorf-1790443083896.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T18:46:39.529321+00:00"
-    },
-    {
       "fingerprint": "e43cb2550f4612bae2247bbd",
       "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
       "url": "https://ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/11/06/mixcollage-06-nov-2025-12-25-pm-3562-1762449958836.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-21T23:47:12.557567+00:00"
+    },
+    {
+      "fingerprint": "942849e753e42f67c905f984",
+      "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
+      "url": "https://ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T00:41:48+00:00",
+      "score": 13,
+      "event_key": "Bandai Namco narrows Dragon Ball Xenoverse 3 release window",
+      "title_ru": "Bandai Namco уточнила сроки выхода Dragon Ball Xenoverse 3",
+      "threads_teaser_ru": "Bandai Namco уточнила окно релиза Dragon Ball Xenoverse 3. Вместо неопределенного 2027 года издатель объявил, что игра выйдет во второй половине 2027-го. Решение приняли после анализа обратной связи от сообщества.",
+      "telegram_message_id": "1568",
+      "telegram_url": "https://t.me/gamepulse_newss/1568",
+      "telegram_published_at": "2026-10-22T01:03:23.483992+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/dbz-1792630322966.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-21T23:47:12.557662+00:00"
+  "updated_at": "2026-10-22T01:03:23.484413+00:00"
 }
