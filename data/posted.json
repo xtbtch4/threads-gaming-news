@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "820cd491ffa5f8a2ae5d6aa4",
-      "title": "Minecraft Dungeons II: The Sift, New Mechanics, Better Exploration, and More | Official XBOX Podcast",
-      "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-dungeons-ii-the-sift-new-mechanics-better-exploration-and-more-official-xbox-podcast",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-26T18:00:00+00:00",
-      "score": 12,
-      "event_key": "minecraft-dungeons-ii-official-xbox-podcast-details",
-      "title_ru": "Подробности Minecraft Dungeons II в свежем выпуске Official XBOX Podcast",
-      "threads_teaser_ru": "Дизайн-директор Mojang Лаура Де Льоренс поделилась подробностями о грядущем релизе Minecraft Dungeons II. В сиквеле появится новое измерение the Sift, функция прыжка и бесшовный взаимосвязанный мир.",
-      "telegram_message_id": "369",
-      "telegram_url": "https://t.me/gamepulse_newss/369",
-      "telegram_published_at": "2026-09-26T19:16:51.451507+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Wire_EP286-3c39b574eab193c9cbae.jpg",
-      "threads_published_at": "2026-09-26T19:16:52.855066+00:00"
-    },
-    {
       "fingerprint": "303a6384a253837d276f7530",
       "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
       "url": "https://gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/image-(4)_hn7CZkQ.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T04:32:49.558109+00:00"
+    },
+    {
+      "fingerprint": "b1c062463a3e3ee678077ea9",
+      "title": "Rayman Legends Retold’s New Baguette Costumes Are A Tip Of The Beret To Expedition 33",
+      "url": "https://gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-21T18:02:00+00:00",
+      "score": 11,
+      "event_key": "Ubisoft adds Clair Obscur: Expedition 33 baguette costumes to Rayman Legends Retold",
+      "title_ru": "В Rayman Legends Retold появятся тематические костюмы-отсылки",
+      "threads_teaser_ru": "В грядущем ремейке Rayman Legends Retold появятся новые костюмы с багетами. Разработчики из Ubisoft подтвердили, что этот образ — своеобразная дань уважения коллегам из студии Sandfall Interactive, создавших Clair Obscur: Expedition 33.",
+      "telegram_message_id": "1570",
+      "telegram_url": "https://t.me/gamepulse_newss/1570",
+      "telegram_published_at": "2026-10-22T05:17:27.207067+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Baguette-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-22T04:32:49.558190+00:00"
+  "updated_at": "2026-10-22T05:17:27.207367+00:00"
 }
