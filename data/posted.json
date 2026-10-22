@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6b684f5300ed3dbd311a4818",
-      "title": "Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games",
-      "url": "https://polygon.com/the-witcher-cyberpunk-no-crossover-content",
-      "source": "Polygon",
-      "published_at_source": "2026-09-27T16:31:42+00:00",
-      "score": 10,
-      "event_key": "cd projekt red explains lack of crossover content",
-      "title_ru": "CD Projekt Red объяснила отсутствие кроссоверов в своих играх",
-      "threads_teaser_ru": "Почему CD Projekt Red отправляет Геральта в другие игры, но не добавляет сторонний контент в The Witcher? Разработчики объяснили свою позицию.",
-      "telegram_message_id": "395",
-      "telegram_url": "https://t.me/gamepulse_newss/395",
-      "telegram_published_at": "2026-09-27T16:47:01.399767+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/the-witcher-3-wild-hunt-remastered-official-announcement-trailer-1787688339.mp4",
-      "threads_published_at": "2026-09-27T16:47:02.908973+00:00"
-    },
-    {
       "fingerprint": "b99febfab47fc63036718a94",
       "title": "Control Resonant's Completely Ignores The Most Interesting Character",
       "url": "https://polygon.com/control-resonant-biggest-issue-oldest-house",
@@ -20485,7 +20467,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2048/10/f75309229638ec507a024680d726688a0be74bcd.jpg",
       "threads_published_at": "2026-10-22T13:17:13.824016+00:00"
+    },
+    {
+      "fingerprint": "ba3a1c80af025e4dc03662df",
+      "title": "DevGAMM Awards 2026 Reveals 70 Nominated Games For Its 3rd Annual Show: See the Full List",
+      "url": "https://ign.com/articles/devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show-see-the-full-list",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T13:00:00+00:00",
+      "score": 11,
+      "event_key": "devgamm-awards-2026-reveals-70-nominated-games",
+      "title_ru": "DevGAMM Awards 2026 объявила список номинантов",
+      "threads_teaser_ru": "Стали известны 70 номинантов третьей премии DevGAMM Awards, отобранные из почти 1100 заявок. Победителей объявят 18 ноября в Лиссабоне, а общий призовой фонд превысит 140 тысяч долларов.",
+      "telegram_message_id": "1596",
+      "telegram_url": "https://t.me/gamepulse_newss/1596",
+      "telegram_published_at": "2026-10-22T13:32:25.128654+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/devegam-1792624866535.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T13:17:13.824111+00:00"
+  "updated_at": "2026-10-22T13:32:25.128965+00:00"
 }
