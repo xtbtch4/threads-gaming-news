@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c2dd291f9235aa345faaeebd",
-      "title": "This Promising New Soulslike Features A Black Metal Vocalist Among Its Impressive Cast",
-      "url": "https://gamespot.com/articles/this-promising-new-soulslike-features-a-black-metal-vocalist-among-its-impressive-cast",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-28T18:30:16+00:00",
-      "score": 12,
-      "event_key": "Valor Mortis voice cast and release date announcement",
-      "title_ru": "Объявлен актерский состав soulslike-игры Valor Mortis",
-      "threads_teaser_ru": "В предстоящем soulslike-экшене Valor Mortis одну из ролей озвучит вокалист Behemoth — Adam «Nergal» Darski. Среди других актеров — звезда фильмов «Двенадцать друзей Оушена» Vincent Cassel и голос из Baldur's Gate 3 Jennifer English.",
-      "telegram_message_id": "420",
-      "telegram_url": "https://t.me/gamepulse_newss/420",
-      "telegram_published_at": "2026-09-28T19:34:04.118953+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4551962-valor-mortis.jpg?w=300",
-      "threads_published_at": "2026-09-28T19:34:05.784650+00:00"
-    },
-    {
       "fingerprint": "bbd6ab7359c98b35fe2a6dc8",
       "title": "Forest of Deceit: Why Localisation Matters When Everyone is Lying",
       "url": "https://news.xbox.com/en-us/2026/09/28/forest-of-deceit-why-localisation-matters",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/05/17/young-sheldon-ending-1715952019530.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-22T22:02:43.697955+00:00"
+    },
+    {
+      "fingerprint": "21264882a0147122e5b582ae",
+      "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
+      "url": "https://ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T22:18:28+00:00",
+      "score": 15,
+      "event_key": "cyberpunk 2 quest team half former modders pawel sasko",
+      "title_ru": "Половина команды квестов Cyberpunk 2 состоит из бывших моддеров",
+      "threads_teaser_ru": "Павел Саско сообщил, что примерно половина команды квестов Cyberpunk 2 состоит из бывших моддеров, которых CD Projekt Red привлекла к работе над сиквелом.",
+      "telegram_message_id": "1621",
+      "telegram_url": "https://t.me/gamepulse_newss/1621",
+      "telegram_published_at": "2026-10-22T23:02:21.689647+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/11/26/ss-b20689e73e3ac19bcc5fad2c18d0353c769de144-1920x1080-1764175642324.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T22:02:43.698049+00:00"
+  "updated_at": "2026-10-22T23:02:21.689950+00:00"
 }
