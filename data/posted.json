@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "303a6384a253837d276f7530",
-      "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
-      "url": "https://gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-26T17:30:00+00:00",
-      "score": 12,
-      "event_key": "minecraft_update_adds_ice_caves_frozen_zombie_2026",
-      "title_ru": "Следующее обновление Minecraft добавит ледяные пещеры и нового моба",
-      "threads_teaser_ru": "Анонсировано следующее обновление Minecraft, которое выйдет в декабре 2026 года и добавит ледяные пещеры, ледяные кристаллы и опасного нового моба Frozen Zombie с механикой заморозки.",
-      "telegram_message_id": "370",
-      "telegram_url": "https://t.me/gamepulse_newss/370",
-      "telegram_published_at": "2026-09-26T19:32:33.612129+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MCV_Frozen_Zombie_1920x1080.png?w=300",
-      "threads_published_at": "2026-09-26T19:32:35.095322+00:00"
-    },
-    {
       "fingerprint": "8b4aaf6736936aa47254f4f7",
       "title": "10 Years Later, Critical Role’S Most Heartbreaking Quote Still Lives in My Mind Rent-Free",
       "url": "https://polygon.com/critical-role-the-legend-of-vox-machina-best-quote",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Baguette-1.jpg?w=300",
       "threads_published_at": "2026-10-22T05:17:28.680588+00:00"
+    },
+    {
+      "fingerprint": "bdfbcbd19bc741ea8a229d08",
+      "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
+      "url": "https://eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-21T16:01:00+00:00",
+      "score": 11,
+      "event_key": "Beyond Good & Evil 2 development status and concept change",
+      "title_ru": "Beyond Good & Evil 2 все еще находится в пре-продакшене и сменила концепцию",
+      "threads_teaser_ru": "Beyond Good & Evil 2 спустя 18 лет разработки сменила курс: теперь это «одиночное» приключение с фокусом на сюжет, а не мультиплеерный проект. Игра все еще находится в пре-продакшене, а ее статус в Ubisoft стал менее определенным на фоне реструктуризации компании.",
+      "telegram_message_id": "1571",
+      "telegram_url": "https://t.me/gamepulse_newss/1571",
+      "telegram_published_at": "2026-10-22T05:47:21.966547+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/pejy-bge2-beyond-good-and-evil-2-pig.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-22T05:17:28.680687+00:00"
+  "updated_at": "2026-10-22T05:47:21.966911+00:00"
 }
