@@ -20476,10 +20476,11 @@
       "telegram_message_id": "1617",
       "telegram_url": "https://t.me/gamepulse_newss/1617",
       "telegram_published_at": "2026-10-22T20:17:07.191050+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pio-episode-2-final-1788303679.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/pio-episode-2-final-1788303679.mp4",
+      "threads_published_at": "2026-10-22T20:17:08.491626+00:00"
     }
   ],
-  "updated_at": "2026-10-22T20:17:07.191372+00:00"
+  "updated_at": "2026-10-22T20:17:08.491731+00:00"
 }
