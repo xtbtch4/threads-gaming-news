@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1577",
       "telegram_url": "https://t.me/gamepulse_newss/1577",
       "telegram_published_at": "2026-10-22T08:16:59.710329+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Valor-Mortis_nqM7WPG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Valor-Mortis_nqM7WPG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-22T08:17:01.292038+00:00"
     }
   ],
-  "updated_at": "2026-10-22T08:16:59.710663+00:00"
+  "updated_at": "2026-10-22T08:17:01.292121+00:00"
 }
