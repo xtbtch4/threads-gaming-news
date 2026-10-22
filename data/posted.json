@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e3985efee15e9b1a98a3a4c4",
-      "title": "Pokémon's 30th Anniversary Happy Meal Toy Will Unleash Scalper Hell",
-      "url": "https://polygon.com/pokemon-tcg-anniversary-mcdonalds-happy-meal-toys-trading-cards-scalpers",
-      "source": "Polygon",
-      "published_at_source": "2026-09-28T09:12:09+00:00",
-      "score": 8,
-      "event_key": "pokemon mcdonalds happy meal trading cards promotion",
-      "title_ru": "McDonald's и Pokémon готовят новую коллаборацию с карточками для Happy Meal",
-      "threads_teaser_ru": "McDonald's анонсировал новую праздничную коллаборацию с Pokémon: в ноябрьских Happy Meal появятся эксклюзивные карточки Pokémon Trading Card Game. Коллекционеров ждут 15 различных карт.",
-      "telegram_message_id": "405",
-      "telegram_url": "https://t.me/gamepulse_newss/405",
-      "telegram_published_at": "2026-09-28T09:16:58.623948+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/pokemon-pikachu-apple.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-28T09:17:00.065211+00:00"
-    },
-    {
       "fingerprint": "9593a661f0d52134f6d5151e",
       "title": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning",
       "url": "https://rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
@@ -20479,7 +20462,24 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EN30-01-153992c3dff9ec080eff.jpg",
       "threads_published_at": "2026-10-22T16:47:12.078615+00:00"
+    },
+    {
+      "fingerprint": "19de32949e6f5e1c9ae26a7e",
+      "title": "Award-Winning Sci-Fi Author Reveals Role on Canceled Mass Effect",
+      "url": "https://polygon.com/mass-effect-5-story-authors-who-was-working-on-it-bioware",
+      "source": "Polygon",
+      "published_at_source": "2026-10-22T16:46:41+00:00",
+      "score": 14,
+      "event_key": "sci fi authors reveal roles on canceled mass effect 5",
+      "title_ru": "Писатели-фантасты раскрыли свое участие в отмененной Mass Effect 5",
+      "threads_teaser_ru": "После закрытия BioWare и отмены Mass Effect 5 писатели Дерек Кюнскен и Кэтрин Валенте рассказали о своем участии в разработке игры и создании ее сюжета.",
+      "telegram_message_id": "1606",
+      "telegram_url": "https://t.me/gamepulse_newss/1606",
+      "telegram_published_at": "2026-10-22T17:02:57.767674+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/garrus-romance.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
     }
   ],
-  "updated_at": "2026-10-22T16:47:12.078726+00:00"
+  "updated_at": "2026-10-22T17:02:57.767999+00:00"
 }
