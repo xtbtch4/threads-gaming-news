@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1570",
       "telegram_url": "https://t.me/gamepulse_newss/1570",
       "telegram_published_at": "2026-10-22T05:17:27.207067+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Baguette-1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Baguette-1.jpg?w=300",
+      "threads_published_at": "2026-10-22T05:17:28.680588+00:00"
     }
   ],
-  "updated_at": "2026-10-22T05:17:27.207367+00:00"
+  "updated_at": "2026-10-22T05:17:28.680687+00:00"
 }
