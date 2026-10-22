@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "43d40cde7214323cc1daa11b",
-      "title": "HBO Just Officially Changed a Fundamental Rule of Green Lantern Canon",
-      "url": "https://polygon.com/hbo-lanterns-episode-7-john-stewart-powers-green-lantern",
-      "source": "Polygon",
-      "published_at_source": "2026-09-28T02:00:26+00:00",
-      "score": 8,
-      "event_key": "lanterns_hbo_john_stewart_powers_canon_change",
-      "title_ru": "HBO изменила фундаментальное правило канона Green Lantern в сериале Lanterns",
-      "threads_teaser_ru": "Сериал Lanterns изменил фундаментальное правило канона Green Lantern: Джон Стюарт демонстрирует уникальную способность питать энергетические конструкции и цифровой слепок Хэла без кольца.",
-      "telegram_message_id": "400",
-      "telegram_url": "https://t.me/gamepulse_newss/400",
-      "telegram_published_at": "2026-09-28T02:02:38.146803+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/aaron-pierre_2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/lanterns-midseason-trailer-hbo-max-1789655396.mp4",
-      "threads_published_at": "2026-09-28T02:02:39.514045+00:00"
-    },
-    {
       "fingerprint": "6edc5545958daa9f43e37a9c",
       "title": "35 Years Later, the '90s Remake of a Cult Classic Thriller Is Officially Free to Watch on YouTube",
       "url": "https://polygon.com/dark-shadows-revival-free-youtube-september-2026",
@@ -20481,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/09/skate-developer-addresses-reskate-1791574192606.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-22T15:32:18.759227+00:00"
+    },
+    {
+      "fingerprint": "9c2fc55b7da72766ed293a17",
+      "title": "Mass Effect 5 Trailer Reportedly Ready to Go Before BioWare Closure",
+      "url": "https://ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T13:04:32+00:00",
+      "score": 15,
+      "event_key": "mass effect 5 trailer ready before bioware closure",
+      "title_ru": "Трейлер Mass Effect 5 был готов до закрытия BioWare",
+      "threads_teaser_ru": "Появилась информация, что трейлер отмененной Mass Effect 5 был полностью готов к релизу до того, как EA закрыла BioWare и свернула разработку игры.",
+      "telegram_message_id": "1601",
+      "telegram_url": "https://t.me/gamepulse_newss/1601",
+      "telegram_published_at": "2026-10-22T15:46:55.137650+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/me-1792674182792.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T15:32:18.759318+00:00"
+  "updated_at": "2026-10-22T15:46:55.137782+00:00"
 }
