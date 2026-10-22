@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1576",
       "telegram_url": "https://t.me/gamepulse_newss/1576",
       "telegram_published_at": "2026-10-22T08:02:06.452881+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/teamrocket-image.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/teamrocket-image.jpg?w=300",
+      "threads_published_at": "2026-10-22T08:02:07.678391+00:00"
     }
   ],
-  "updated_at": "2026-10-22T08:02:06.453089+00:00"
+  "updated_at": "2026-10-22T08:02:07.678499+00:00"
 }
