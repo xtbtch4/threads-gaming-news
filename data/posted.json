@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ed7e0876a841215cc5e5d299",
-      "title": "Everything Coming to Peacock in October",
-      "url": "https://ign.com/articles/whats-new-on-peacock-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-26T18:30:00+00:00",
-      "score": 9,
-      "event_key": "peacock streaming service october 2026 releases",
-      "title_ru": "Что появится на Peacock в октябре 2026 года",
-      "threads_teaser_ru": "В октябре Peacock делает ставку на хорроры: каталог пополнят Scream, Friday the 13th, оригинальная трилогия Blade и многое другое. Главной новинкой месяца станет сериал-приквел Crystal Lake, который выходит 15 октября.",
-      "telegram_message_id": "374",
-      "telegram_url": "https://t.me/gamepulse_newss/374",
-      "telegram_published_at": "2026-09-26T20:32:52.221283+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/peacock-october-1790374286050.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-26T20:32:53.771394+00:00"
-    },
-    {
       "fingerprint": "d1909d98401aaea514fc60b6",
       "title": "5 Nintendo Games That Still Need a Switch 2 Edition",
       "url": "https://polygon.com/nintendo-games-no-switch-2-edition",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/10/b8b3d8ade29d753cdd58cede7f1b74b5acd1e3d9.jpg",
       "threads_published_at": "2026-10-22T07:17:04.216752+00:00"
+    },
+    {
+      "fingerprint": "2395f0603263713bc225d52b",
+      "title": "How Long Is Final Fantasy: Resonance – Chapter List And Total Hours",
+      "url": "https://gamespot.com/articles/how-long-is-final-fantasy-resonance-chapter-list-and-total-hours",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-22T07:01:00+00:00",
+      "score": 10,
+      "event_key": "how_long_to_beat_final_fantasy_resonance",
+      "title_ru": "Сколько времени занимает прохождение Final Fantasy: Resonance",
+      "threads_teaser_ru": "Стало известно, сколько времени уйдет на прохождение новой HD-2D игры Final Fantasy: Resonance. Обычное прохождение сюжета занимает от 30 до 40 часов, ноcompletionists могут потратить более 70 часов.",
+      "telegram_message_id": "1575",
+      "telegram_url": "https://t.me/gamepulse_newss/1575",
+      "telegram_published_at": "2026-10-22T07:46:50.483421+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Resonance-cast.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-22T07:17:04.216834+00:00"
+  "updated_at": "2026-10-22T07:46:50.483670+00:00"
 }
