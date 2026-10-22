@@ -20485,9 +20485,10 @@
       "telegram_message_id": "1586",
       "telegram_url": "https://t.me/gamepulse_newss/1586",
       "telegram_published_at": "2026-10-22T10:46:52.897266+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-broshep.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-broshep.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-22T10:46:54.530305+00:00"
     }
   ],
-  "updated_at": "2026-10-22T10:46:52.897655+00:00"
+  "updated_at": "2026-10-22T10:46:54.530392+00:00"
 }
