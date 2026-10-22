@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9d6e6369f0b28251d0da1b7c",
-      "title": "3 Must-Play September Games You Missed Between Fire Emblem and Wolverine",
-      "url": "https://polygon.com/september-2026-hidden-gems",
-      "source": "Polygon",
-      "published_at_source": "2026-09-27T09:00:15+00:00",
-      "score": 6,
-      "event_key": "september 2026 hidden indie game gems",
-      "title_ru": "Три скрытых инди-хита сентября, которые стоит оценить",
-      "threads_teaser_ru": "Сентябрь запомнился громкими релизами вроде Marvel’s Wolverine и Fire Emblem: Fortune’s Weave, но в тени остались отличные инди-игры. Узнайте о трех примечательных проектах, включая головоломки и метроидванию.",
-      "telegram_message_id": "384",
-      "telegram_url": "https://t.me/gamepulse_newss/384",
-      "telegram_published_at": "2026-09-27T09:02:49.113710+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/he-who-watches-cross-puzzle.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-27T09:02:50.407330+00:00"
-    },
-    {
       "fingerprint": "c8e05e68365010d87313148e",
       "title": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
       "url": "https://eurogamer.net/minecraft-300000-new-players-daily-minecraft",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T10:17:24.648543+00:00"
+    },
+    {
+      "fingerprint": "68c809ce7f17a1b9f43f622f",
+      "title": "From the Anime to the Game — Free Update Brings Edgerunners 2 Content and More to Cyberpunk 2077!",
+      "url": "https://news.xbox.com/en-us/2026/10/22/cyberpunk-2077-edgerunners-2-update",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-22T10:00:00+00:00",
+      "score": 16,
+      "event_key": "cyberpunk 2077 edgerunners 2 update release",
+      "title_ru": "Бесплатное обновление для Cyberpunk 2077 добавило контент из Cyberpunk: Edgerunners 2",
+      "threads_teaser_ru": "Вышло бесплатное обновление для Cyberpunk 2077 с контентом из сериала Cyberpunk: Edgerunners 2. В игре появилась стрельба с двух рук, кастомизация киберинтплантов, поддержка модов и новое сюжетное задание.",
+      "telegram_message_id": "1585",
+      "telegram_url": "https://t.me/gamepulse_newss/1585",
+      "telegram_published_at": "2026-10-22T10:31:55.413281+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EN_CP77_ER2_badge2.5_16x9-8659829d0e6e5766ee9c.jpg"
     }
   ],
-  "updated_at": "2026-10-22T10:17:24.648628+00:00"
+  "updated_at": "2026-10-22T10:31:55.413533+00:00"
 }
