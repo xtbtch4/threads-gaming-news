@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b99febfab47fc63036718a94",
-      "title": "Control Resonant's Completely Ignores The Most Interesting Character",
-      "url": "https://polygon.com/control-resonant-biggest-issue-oldest-house",
-      "source": "Polygon",
-      "published_at_source": "2026-09-27T17:00:15+00:00",
-      "score": 8,
-      "event_key": "control-resonant-leaves-oldest-house-behind-manhattan",
-      "title_ru": "Control Resonant теряет пугающую атмосферу первой части из-за отказа от Oldest House",
-      "threads_teaser_ru": "Сиквел Control Resonant оставляет позади культовое здание Oldest House и переносит действие на измененные улицы Манхэттена. Это делает игровой процесс динамичнее, но лишает серию уникальной жуткой атмосферы.",
-      "telegram_message_id": "396",
-      "telegram_url": "https://t.me/gamepulse_newss/396",
-      "telegram_published_at": "2026-09-27T17:02:21.810396+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/controlresonant_feature_lead2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4",
-      "threads_published_at": "2026-09-27T17:02:23.039114+00:00"
-    },
-    {
       "fingerprint": "c6f5cdc091c85ec669d5d4b6",
       "title": "13 Years Ago, One Dark JRPG Proved Atlus Could Still Be Hardcore",
       "url": "https://polygon.com/shin-megami-tensei-4-3ds-jrpg-retrospective",
@@ -20484,7 +20466,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/21/devegam-1792624866535.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-22T13:32:27.130670+00:00"
+    },
+    {
+      "fingerprint": "a9880d8fbef694cf686b9702",
+      "title": "First GTA 6 TV Commercial Strips Out Steamy Shower Scenes, but Shows More of Lucia's Fancy Hair Tech",
+      "url": "https://ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T13:40:42+00:00",
+      "score": 15,
+      "event_key": "first_gta_6_tv_commercial_broadcast",
+      "title_ru": "Вышел первый телевизионный ролик GTA 6",
+      "threads_teaser_ru": "Первый ТВ-ролик GTA 6 на телевидении показал измененные кадры из трейлера: сцены в душе вырезали, а моменты с самолетом и главными героями продлили. Упоминание Xbox исчезло из-за сделки с PlayStation.",
+      "telegram_message_id": "1597",
+      "telegram_url": "https://t.me/gamepulse_newss/1597",
+      "telegram_published_at": "2026-10-22T14:02:29.998799+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/screenshot-2026-10-22-143504-1792676168085.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T13:32:27.130761+00:00"
+  "updated_at": "2026-10-22T14:02:29.999099+00:00"
 }
