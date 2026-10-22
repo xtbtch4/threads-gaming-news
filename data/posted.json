@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e743f9daa898b70d7ed77b8d",
-      "title": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
-      "url": "https://eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-27T15:25:18+00:00",
-      "score": 9,
-      "event_key": "Five Nights at Freddy's crossover with Fortnite Fortnitemares",
-      "title_ru": "Five Nights at Freddy's появится в Fortnite в рамках события Fortnitemares",
-      "threads_teaser_ru": "Five Nights at Freddy's официально едет в Fortnite на событие Fortnitemares 2026. На карте появится локация Freddy Fazbear's Pizzeria, а Freddy, Bonnie, Chica и Foxy станут боссами.",
-      "telegram_message_id": "392",
-      "telegram_url": "https://t.me/gamepulse_newss/392",
-      "telegram_published_at": "2026-09-27T15:33:04.878149+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-27-at-16.20.16-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-27T15:33:06.169609+00:00"
-    },
-    {
       "fingerprint": "ba1b71b41f5e8c1d4f7bbb26",
       "title": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
       "url": "https://polygon.com/avengers-endgame-encore-box-office",
@@ -20485,7 +20468,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2048/10/1fb9385643e941ef863c7ba971014601f52f5e15.png",
       "threads_published_at": "2026-10-22T12:17:11.305403+00:00"
+    },
+    {
+      "fingerprint": "91df4e7b520972d3c8f9aadf",
+      "title": "Playasia Store Pulled Offline After Weeks of 'Increasingly Sophisticated and Relentless Attacks'",
+      "url": "https://ign.com/articles/playasia-store-taken-offline-relentless-attacks",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T11:09:09+00:00",
+      "score": 9,
+      "event_key": "Playasia online store shutdown due to cyberattacks",
+      "title_ru": "Интернет-магазин Playasia временно закрыт из-за кибератак",
+      "threads_teaser_ru": "Магазин Playasia ушел в офлайн из-за «сложных и непрекращающихся» кибератак. Компания проводит аудит безопасности, но точные сроки восстановления доступа пока не сообщаются. Что известно о ситуации.",
+      "telegram_message_id": "1593",
+      "telegram_url": "https://t.me/gamepulse_newss/1593",
+      "telegram_published_at": "2026-10-22T12:47:29.397257+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/gettyimages-2245855547-1792667329122.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T12:17:11.305481+00:00"
+  "updated_at": "2026-10-22T12:47:29.397490+00:00"
 }
