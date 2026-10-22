@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6f77380881253e7d98f2053b",
-      "title": "Gears of War: E-Day and XBOX Unleash “The Emergence Pie” with Prince St. Pizza",
-      "url": "https://news.xbox.com/en-us/2026/09/28/gears-of-war-e-day-prince-st-pizza",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-28T16:00:00+00:00",
-      "score": 16,
-      "event_key": "Xbox and Prince St Pizza collaboration Gears of War E-Day",
-      "title_ru": "Xbox и Prince St. Pizza анонсировали коллаборацию в честь Gears of War: E-Day",
-      "threads_teaser_ru": "В честь скорого выхода Gears of War: E-Day компания Xbox выпустила лимитированную пиццу «Emergence Pie» совместно с Prince St. Pizza. Покупатели получат внутриигровую эмблему, а также смогут приобрести нож для пиццы, вдохновленный Prototype Lancer из игры.",
-      "telegram_message_id": "413",
-      "telegram_url": "https://t.me/gamepulse_newss/413",
-      "telegram_published_at": "2026-09-28T16:03:11.659367+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/HERO-da5d44dc7c6701f7ec43.jpg",
-      "threads_published_at": "2026-09-28T16:03:13.410744+00:00"
-    },
-    {
       "fingerprint": "14e0a807f89efb3b5e98b376",
       "title": "Here’s Every Change in the Witcher 3 Remastered",
       "url": "https://polygon.com/witcher-3-remastered-rpg-full-patch-notes",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T19:16:56.619258+00:00"
+    },
+    {
+      "fingerprint": "da2dd3c6b7c941bb6ac4b252",
+      "title": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
+      "url": "https://gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-22T19:02:15+00:00",
+      "score": 15,
+      "event_key": "valve employee mentions hlx project at game sound con",
+      "title_ru": "Упоминание проекта HLX сотрудником Valve вызвало слухи о Half-Life 3",
+      "threads_teaser_ru": "Выступление звукового дизайнера Valve на мероприятии Game Sound Con породило новую волну слухов о разработке продолжения культовой серии. Во время рассказа об аудиосистемах он упомянул загадочный проект \"HLX\".",
+      "telegram_message_id": "1614",
+      "telegram_url": "https://t.me/gamepulse_newss/1614",
+      "telegram_published_at": "2026-10-22T19:32:03.241835+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/HL.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-22T19:16:56.619339+00:00"
+  "updated_at": "2026-10-22T19:32:03.242029+00:00"
 }
