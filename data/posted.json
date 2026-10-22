@@ -20488,9 +20488,10 @@
       "telegram_message_id": "1580",
       "telegram_url": "https://t.me/gamepulse_newss/1580",
       "telegram_published_at": "2026-10-22T09:17:04.203738+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-22T09:17:05.605209+00:00"
     }
   ],
-  "updated_at": "2026-10-22T09:17:04.203945+00:00"
+  "updated_at": "2026-10-22T09:17:05.605298+00:00"
 }
