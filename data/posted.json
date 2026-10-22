@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a417ad750044d3d99908acc6",
-      "title": "Here’s How Visually Different The Witcher 3 Remastered Looks",
-      "url": "https://gamespot.com/articles/heres-how-visually-different-the-witcher-3-remastered-looks",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-28T10:10:17+00:00",
-      "score": 15,
-      "event_key": "the witcher 3 remastered graphics comparison and release",
-      "title_ru": "Сравнение графики The Witcher 3 Remastered",
-      "threads_teaser_ru": "GameSpot сравнил графику The Witcher 3 Remastered (Version 5.00) и Version 4.04 в 4K на ПК, оценив работу новой функции path tracing. Релиз игры состоится 29 сентября.",
-      "telegram_message_id": "408",
-      "telegram_url": "https://t.me/gamepulse_newss/408",
-      "telegram_published_at": "2026-09-28T10:46:19.114310+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GFXComp_Witcher3Remastered_V2.jpg?w=300",
-      "threads_published_at": "2026-09-28T10:46:20.798738+00:00"
-    },
-    {
       "fingerprint": "ea4572575f382cb4f41ddb79",
       "title": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station",
       "url": "https://rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mass-effect-5-liara.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T18:02:28.277003+00:00"
+    },
+    {
+      "fingerprint": "c4d4412c57946a4d3970405d",
+      "title": "EA Could Sell BioWare’s IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says",
+      "url": "https://gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-22T17:34:21+00:00",
+      "score": 12,
+      "event_key": "ea_shuts_down_bioware_considers_selling_ip",
+      "title_ru": "Бывший руководитель BioWare допустил продажу франшиз студии со стороны EA",
+      "threads_teaser_ru": "После закрытия BioWare и отмены новой Mass Effect бывший руководитель студии Марк Дарра допустил, что EA может продать права на Dragon Age, Mass Effect и Jade Empire для сокращения долга в 55 млрд долларов.",
+      "telegram_message_id": "1609",
+      "telegram_url": "https://t.me/gamepulse_newss/1609",
+      "telegram_published_at": "2026-10-22T18:17:02.706524+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/07/Dragon-Age.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-22T18:02:28.277096+00:00"
+  "updated_at": "2026-10-22T18:17:02.706802+00:00"
 }
