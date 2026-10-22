@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bbd6ab7359c98b35fe2a6dc8",
-      "title": "Forest of Deceit: Why Localisation Matters When Everyone is Lying",
-      "url": "https://news.xbox.com/en-us/2026/09/28/forest-of-deceit-why-localisation-matters",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-09-28T17:00:00+00:00",
-      "score": 12,
-      "event_key": "Forest of Deceit adds six new languages localisation update",
-      "title_ru": "Forest of Deceit получила обновление с поддержкой шести новых языков",
-      "threads_teaser_ru": "В социальной дедуктивной игре Forest of Deceit теперь доступно шесть новых языков. Разработчики внедрили возможность менять язык интерфейса даже для отдельных игроков, использующих свои смартфоны как контроллеры.",
-      "telegram_message_id": "421",
-      "telegram_url": "https://t.me/gamepulse_newss/421",
-      "telegram_published_at": "2026-09-28T19:48:52.755262+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Titled-Key-Art-720ecb0b9950219d2822-scaled.jpg",
-      "threads_published_at": "2026-09-28T19:48:54.420369+00:00"
-    },
-    {
       "fingerprint": "32b55ae3a1e8639020773c1a",
       "title": "The Witcher 3: Songs of the Past EP Drops, Giving First Taste of New Music from the Expansion",
       "url": "https://ign.com/articles/the-witcher-3-songs-of-the-past-ep-drops-giving-first-taste-of-new-music-from-the-expansion",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/11/26/ss-b20689e73e3ac19bcc5fad2c18d0353c769de144-1920x1080-1764175642324.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-22T23:02:23.066837+00:00"
+    },
+    {
+      "fingerprint": "cd3c45c4841270a4d4046b42",
+      "title": "Xbox Insiders Can Cloud Stream Games Without Game Pass (But There's a Catch) - IGN Daily Fix",
+      "url": "https://ign.com/videos/xbox-insiders-can-cloud-stream-games-without-game-pass-but-theres-a-catch-ign-daily-fix",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T16:18:00+00:00",
+      "score": 12,
+      "event_key": "Xbox Insider cloud streaming time blocks testing",
+      "title_ru": "Xbox тестирует облачный стриминг игр без подписки Game Pass",
+      "threads_teaser_ru": "Xbox начала тестирование облачного стриминга для участников программы Xbox Insider без необходимости покупать подписку Game Pass. Теперь можно приобрести пакеты часов для игры в облаке, начиная от $3,99 за 10 часов, которые не сгорают со временем.",
+      "telegram_message_id": "1622",
+      "telegram_url": "https://t.me/gamepulse_newss/1622",
+      "telegram_published_at": "2026-10-22T23:47:32.514812+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/gfix-102226-blogroll-1792711067079.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T23:02:23.066932+00:00"
+  "updated_at": "2026-10-22T23:47:32.515102+00:00"
 }
