@@ -20476,9 +20476,10 @@
       "telegram_message_id": "1612",
       "telegram_url": "https://t.me/gamepulse_newss/1612",
       "telegram_published_at": "2026-10-22T19:02:52.222649+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/becastled-fdd0fe38ba51b9eca0a9.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/becastled-fdd0fe38ba51b9eca0a9.jpg",
+      "threads_published_at": "2026-10-22T19:02:53.577654+00:00"
     }
   ],
-  "updated_at": "2026-10-22T19:02:52.222936+00:00"
+  "updated_at": "2026-10-22T19:02:53.577732+00:00"
 }
