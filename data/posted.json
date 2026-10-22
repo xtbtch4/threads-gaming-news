@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "42f91e93d2b71f90bc5b9cdc",
-      "title": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
-      "url": "https://rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-26T21:55:08+00:00",
-      "score": 8,
-      "event_key": "talon-towers-announced-parkour-platformer",
-      "title_ru": "Анонсирован паркур-платформер TALON TOWERS",
-      "threads_teaser_ru": "Анонсирован новый паркур-платформер TALON TOWERS от автора BETON BRUTAL. Игра вдохновлена стилем Фумито Уэды и предлагает покорять гигантские древние башни над бесконечным туманом.",
-      "telegram_message_id": "379",
-      "telegram_url": "https://t.me/gamepulse_newss/379",
-      "telegram_published_at": "2026-09-26T22:03:02.017587+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/talon-towers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-26T22:03:03.325395+00:00"
-    },
-    {
       "fingerprint": "c144e322d4d6c9217d213625",
       "title": "This 35-Year-Old Video Game Is Somehow More Fun Than Ever",
       "url": "https://polygon.com/zelda-link-to-the-past-snes-35th-anniversary",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/22/mr-beast-book-1792627565871.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-22T09:02:37.314333+00:00"
+    },
+    {
+      "fingerprint": "0764fe220753652331089b75",
+      "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
+      "url": "https://eurogamer.net/xbox-cloud-gaming-prices-revealed",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-22T02:10:00+00:00",
+      "score": 14,
+      "event_key": "xbox cloud gaming pricing and launch details",
+      "title_ru": "Microsoft назвала цены на облачный стриминг Xbox",
+      "threads_teaser_ru": "Microsoft раскрыла стоимость платного доступа к облачному стримингу Xbox. Пакет из 50 часов игрового времени обойдется в $11.99 по вводной цене. Но даже платные подписки не избавят от очередей в часы пик.",
+      "telegram_message_id": "1580",
+      "telegram_url": "https://t.me/gamepulse_newss/1580",
+      "telegram_published_at": "2026-10-22T09:17:04.203738+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-22T09:02:37.314441+00:00"
+  "updated_at": "2026-10-22T09:17:04.203945+00:00"
 }
