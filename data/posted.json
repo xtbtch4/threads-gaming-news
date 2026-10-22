@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ffc21414f7ad2c9359e3475c",
-      "title": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
-      "url": "https://rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-26T17:51:31+00:00",
-      "score": 7,
-      "event_key": "video game menu the game release steam",
-      "title_ru": "Анонсирована Video Game Menu: The Game — симулятор игровых меню",
-      "threads_teaser_ru": "В Steam вышла комедийная игра Video Game Menu: The Game, в которой игрокам предстоит заниматься самым любимым делом — кликать по меню и настройкам. Никаких привычных сложностей, только абсурдные опции и мини-игры.",
-      "telegram_message_id": "378",
-      "telegram_url": "https://t.me/gamepulse_newss/378",
-      "telegram_published_at": "2026-09-26T21:32:47.716421+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/video-game-menu-the-game.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-26T21:32:49.086748+00:00"
-    },
-    {
       "fingerprint": "42f91e93d2b71f90bc5b9cdc",
       "title": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
       "url": "https://rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
@@ -20491,7 +20474,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/stranger-than-heaven-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T08:32:17.029007+00:00"
+    },
+    {
+      "fingerprint": "d123e9ff00784fb4861bdc7a",
+      "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
+      "url": "https://ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T00:14:50+00:00",
+      "score": 8,
+      "event_key": "Brandon Sanderson questions authorship of Mr. Beast book",
+      "title_ru": "Brandon Sanderson усомнился в авторстве книги Mr. Beast",
+      "threads_teaser_ru": "Писатель Brandon Sanderson в своем подкасте усомнился в том, что Mr. Beast самостоятельно написал книгу The Most Dangerous Games. Автор подозревает наличие «призрачного писателя», несмотря на упоминание James Patterson в качестве соавтора.",
+      "telegram_message_id": "1579",
+      "telegram_url": "https://t.me/gamepulse_newss/1579",
+      "telegram_published_at": "2026-10-22T09:02:35.901636+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/mr-beast-book-1792627565871.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T08:32:17.029093+00:00"
+  "updated_at": "2026-10-22T09:02:35.901970+00:00"
 }
