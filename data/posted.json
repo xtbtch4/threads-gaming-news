@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9e4a7867abfe9dec9bb0f6d4",
-      "title": "9 Classic 'Far Side' Comics About Cats Being the Worst",
-      "url": "https://polygon.com/best-far-side-comics-about-cats",
-      "source": "Polygon",
-      "published_at_source": "2026-09-28T01:00:15+00:00",
-      "score": 6,
-      "event_key": "polygon_far_side_comics_about_cats",
-      "title_ru": "Девять классических комиксов The Far Side о кошках",
-      "threads_teaser_ru": "Polygon разобрал девять классических комиксов The Far Side авторства Gary Larson, в которых кошки неизменно изображаются как эгоистичные злодеи, бунтари или жертвы.",
-      "telegram_message_id": "399",
-      "telegram_url": "https://t.me/gamepulse_newss/399",
-      "telegram_published_at": "2026-09-28T01:02:10.666837+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-24-at-5-08-23-pm.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
-      "threads_published_at": "2026-09-28T01:02:11.947793+00:00"
-    },
-    {
       "fingerprint": "43d40cde7214323cc1daa11b",
       "title": "HBO Just Officially Changed a Fundamental Rule of Green Lantern Canon",
       "url": "https://polygon.com/hbo-lanterns-episode-7-john-stewart-powers-green-lantern",
@@ -20482,7 +20464,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10-22-26_1920x1080-2ccc59cf839d992aed42.jpg",
       "threads_published_at": "2026-10-22T15:17:05.154465+00:00"
+    },
+    {
+      "fingerprint": "42de68a248616789da4c512b",
+      "title": "Skate Studio Also Hit With Cuts as Scope of EA's Mass Layoffs Becomes Clearer",
+      "url": "https://ign.com/articles/skate-studio-hit-with-layoffs",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T14:11:15+00:00",
+      "score": 15,
+      "event_key": "Full Circle and EA studio layoffs skate",
+      "title_ru": "Студия Full Circle столкнулась с увольнениями на фоне массовых сокращений в EA",
+      "threads_teaser_ru": "Студия Full Circle пострадала от волны сокращений в Electronic Arts. Свои посты потеряли несколько разработчиков Skate, включая креативного директора и старших дизайнеров.",
+      "telegram_message_id": "1600",
+      "telegram_url": "https://t.me/gamepulse_newss/1600",
+      "telegram_published_at": "2026-10-22T15:32:17.355863+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/skate-developer-addresses-reskate-1791574192606.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T15:17:05.154586+00:00"
+  "updated_at": "2026-10-22T15:32:17.356138+00:00"
 }
