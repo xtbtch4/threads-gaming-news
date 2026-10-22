@@ -20485,9 +20485,10 @@
       "telegram_message_id": "1584",
       "telegram_url": "https://t.me/gamepulse_newss/1584",
       "telegram_published_at": "2026-10-22T10:17:23.213977+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-22T10:17:24.648543+00:00"
     }
   ],
-  "updated_at": "2026-10-22T10:17:23.214334+00:00"
+  "updated_at": "2026-10-22T10:17:24.648628+00:00"
 }
