@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "518c91bb52e97b7b9580c108",
-      "title": "God of War Laufey pre-orders available starting September 29, editions detailed",
-      "url": "https://blog.playstation.com/2026/09/28/god-of-war-laufey-pre-orders-available-starting-september-29-editions-detailed",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-09-28T12:00:14+00:00",
-      "score": 14,
-      "event_key": "God of War Laufey pre-orders start date announced",
-      "title_ru": "Старт предзаказов God of War Laufey назначен на 29 сентября",
-      "threads_teaser_ru": "Старт предзаказов на God of War Laufey состоится 29 сентября. Разработчики из Santa Monica Studio поделились подробностями боевой системы Фэй, включая возможности нового оружия Serpent Bow, которое позволяет переключаться между стилями боя и комбинировать различные типы стрел.",
-      "telegram_message_id": "410",
-      "telegram_url": "https://t.me/gamepulse_newss/410",
-      "telegram_published_at": "2026-09-28T12:04:24.652406+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/09/d4c7103d726c2bef92c9c18e9d09b3eee320cbe9.jpg",
-      "video_url": "https://stream.mux.com/23x72uzQxMnOoXojq2V01dynykCS82Sp015umc00rH02Rig/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyM3g3MnV6UXhNbk9vWG9qcTJWMDFkeW55a0NTODJTcDAxNXVtYzAwckgwMlJpZyIsImF1ZCI6InYiLCJleHAiOjE3OTA2NDAxMjcsImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.bmM0OEbAXaLiTC12fjqMsA7d3r98iEIUmO2sNdfzHpyKqvjLVukIPyDyoPLo_UWSOvba89M53vYXgaiqHbyzqcCUpXpl362b6hQuuCp_LUNZaE1okj62fB83mv_cDoVmRxidGNnV-SnNXpULUN3mTt3gegIl5H5HfjhW6cWnPRAZHi1YQGLSWvO596QLmqHxvECORKfiK9tOb61o8vEM5C9zcN0Q-exRc2yNMJrX-SRfh11-J8OIO2e01l7zQ7vmkhGkDJI0x3KZ9iuRm9XqxG1lHlYCMEFTjrQ-mNm8HViA_P2kCE_FWnAZ1psmrf9Wqhl3zvhIZ1NyVtnurkihSQ",
-      "threads_published_at": "2026-09-28T12:04:26.150175+00:00"
-    },
-    {
       "fingerprint": "be1a7aa93b872a44ecad495a",
       "title": "Suri: The Seventh Note launches Oct 30 on PS5",
       "url": "https://blog.playstation.com/2026/09/28/suri-the-seventh-note-launches-oct-30-on-ps5",
@@ -20480,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/PEAK_KeyArt-2e3692d877241a51244b.jpg",
       "threads_published_at": "2026-10-22T18:32:22.202088+00:00"
+    },
+    {
+      "fingerprint": "f9ea4476632ebc7aa4b9ea2b",
+      "title": "Seth Rogen and Brad Bird Lead 2026 Infinity Festival Lineup",
+      "url": "https://ign.com/articles/seth-rogen-brad-bird-infinity-festival",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T17:30:00+00:00",
+      "score": 11,
+      "event_key": "Seth Rogen Brad Bird Infinity Festival 2026 lineup",
+      "title_ru": "Seth Rogen и Brad Bird вошли в лайнап Infinity Festival 2026",
+      "threads_teaser_ru": "Seth Rogen, Brad Bird и Travis Knight станут ключевыми участниками ноябрьского Infinity Festival в Лос-Анджелесе. Зрителей ждут специальные показы и презентации новых анимационных проектов.",
+      "telegram_message_id": "1611",
+      "telegram_url": "https://t.me/gamepulse_newss/1611",
+      "telegram_published_at": "2026-10-22T18:47:06.599529+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/if-pic-1790371889888-1792619621556.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-22T18:32:22.202176+00:00"
+  "updated_at": "2026-10-22T18:47:06.599795+00:00"
 }
