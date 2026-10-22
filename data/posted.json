@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fd2f1ae573b524c5fc8541aa",
-      "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-      "url": "https://eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-26T12:17:00+00:00",
-      "score": 12,
-      "event_key": "satya nadella praises xbox restructuring amidst layoffs",
-      "title_ru": "Сатья Наделла высказался о реструктуризации Xbox",
-      "threads_teaser_ru": "Глава Microsoft Сатья Наделла поддержал реструктуризацию Xbox на фоне новых увольнений и масштабных переломов в структуре студий корпорации.",
-      "telegram_message_id": "402",
-      "telegram_url": "https://t.me/gamepulse_newss/402",
-      "telegram_published_at": "2026-09-28T05:16:51.028409+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/satya-nadella-xbox.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-28T05:16:52.472896+00:00"
-    },
-    {
       "fingerprint": "795309838d4dfa9825fde5b5",
       "title": "Castlevania's Iconic Soundtrack Gets Its Own Symphony, Brought to Life by a 25-Piece Power Rock Orchestra",
       "url": "https://ign.com/articles/castlevanias-iconic-soundtrack-gets-its-own-symphony-brought-to-life-by-a-25-piece-power-rock-orchestra",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/xbox-ceo-activision-blizzard-deal-mixed-answer-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T16:03:25.040600+00:00"
+    },
+    {
+      "fingerprint": "c449dbe6c3f8e642008ce12d",
+      "title": "Superhero Workplace Comedy Hit 'Dispatch' Reveals Huge Update and New Platforms",
+      "url": "https://polygon.com/dispatch-anniversary-new-modes-mobile-release",
+      "source": "Polygon",
+      "published_at_source": "2026-10-22T16:15:22+00:00",
+      "score": 14,
+      "event_key": "dispatch_anniversary_update_mobile_release_5_million_players",
+      "title_ru": "Dispatch отмечает годовщину: обновление, мобильная версия и новые режимы",
+      "threads_teaser_ru": "Нарративный хит Dispatch преодолел отметку в 5 миллионов игроков и готовится к выходу на Android и iOS 9 декабря. Авторы анонсировали два новых режима, живой концерт и коллекционные издания.",
+      "telegram_message_id": "1603",
+      "telegram_url": "https://t.me/gamepulse_newss/1603",
+      "telegram_published_at": "2026-10-22T16:17:18.891101+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/dispatch-review.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-22T16:03:25.040704+00:00"
+  "updated_at": "2026-10-22T16:17:18.891348+00:00"
 }
