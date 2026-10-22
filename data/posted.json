@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8cc662a0a00903cbb7393837",
-      "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
-      "url": "https://polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience",
-      "source": "Polygon",
-      "published_at_source": "2026-09-27T14:00:17+00:00",
-      "score": 6,
-      "event_key": "helicopter pilot mechanics Wardogs realistic physics stress",
-      "title_ru": "Пилотирование вертолета в Wardogs оказалось самым стрессовым игровым опытом 2026 года",
-      "threads_teaser_ru": "В Wardogs управление вертолетом стало настоящим испытанием на прочность. Из-за реалистичной физики, созданной при участии инженера-аэронавта, любая ошибка грозит потерей дорогой техники и снаряжения всей команды.",
-      "telegram_message_id": "389",
-      "telegram_url": "https://t.me/gamepulse_newss/389",
-      "telegram_published_at": "2026-09-27T14:03:13.819046+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wardogs-playtest-reactions.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/wardogs-gameplay-trailer-1782405096.mp4",
-      "threads_published_at": "2026-09-27T14:03:15.330161+00:00"
-    },
-    {
       "fingerprint": "50be70f77c430a6da627d1a8",
       "title": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
       "url": "https://eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
@@ -20487,7 +20469,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/menorah-in-unpacking.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T11:32:24.760819+00:00"
+    },
+    {
+      "fingerprint": "559f24d0647f634713b43ec9",
+      "title": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
+      "url": "https://eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-22T11:43:30+00:00",
+      "score": 15,
+      "event_key": "ea-job-cuts-respawn-maxis-bioware-layoffs",
+      "title_ru": "Масштабные увольнения в EA затронули Respawn, Maxis и другие студии",
+      "threads_teaser_ru": "Новая волна сокращений в EA затронула студии Respawn, Maxis, Full Circle, EA Motive и Ripple Effect наряду с закрывающейся BioWare. Компания ликвидирует 400 рабочих мест после недавнего приобретения за 55 млрд долларов.",
+      "telegram_message_id": "1590",
+      "telegram_url": "https://t.me/gamepulse_newss/1590",
+      "telegram_published_at": "2026-10-22T11:46:47.895633+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/apex-legends-season-24-ash-and-ballistic-promo-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-22T11:32:24.760912+00:00"
+  "updated_at": "2026-10-22T11:46:47.896657+00:00"
 }
