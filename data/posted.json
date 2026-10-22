@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a1e5431c638653973be23b6e",
-      "title": "'It Was Really Great and Really Emotional' — Anthony Mackie Remembers Chris Evans Showing Him the Avengers: Endgame Script Early to Reveal How He'd Become Captain America",
-      "url": "https://ign.com/articles/it-was-really-great-and-really-emotional-anthony-mackie-remembers-chris-evans-showing-him-the-avengers-endgame-script-early-to-reveal-how-hed-become-captain-america",
-      "source": "IGN",
-      "published_at_source": "2026-09-27T20:46:37+00:00",
-      "score": 11,
-      "event_key": "anthony mackie remembers chris evans showing avengers endgame script",
-      "title_ru": "Энтони Маки вспомнил, как Крис Эванс заранее показал ему сценарий Avengers: Endgame",
-      "threads_teaser_ru": "Энтони Маки рассказал, как Крис Эванс дома зачитал ему страницы сценария Avengers: Endgame, чтобы лично раскрыть переход роли Captain America к Сэму Уилсону.",
-      "telegram_message_id": "398",
-      "telegram_url": "https://t.me/gamepulse_newss/398",
-      "telegram_published_at": "2026-09-27T21:02:08.027443+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/01/17/captainamericabravenewworldtvspotteasertrailer-ign-blogroll-1737123740587.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-27T21:02:09.490199+00:00"
-    },
-    {
       "fingerprint": "9e4a7867abfe9dec9bb0f6d4",
       "title": "9 Classic 'Far Side' Comics About Cats Being the Worst",
       "url": "https://polygon.com/best-far-side-comics-about-cats",
@@ -20482,7 +20465,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-22T14:17:01.070418+00:00"
+    },
+    {
+      "fingerprint": "632d1d4848b58b0c4d6cdd60",
+      "title": "Free Play Days – Dying Light 2, Riders Republic, Monster Hunter Stories, Let’s Build a Zoo, and More",
+      "url": "https://news.xbox.com/en-us/2026/10/22/free-play-days-10-22-2026",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-22T15:00:00+00:00",
+      "score": 16,
+      "event_key": "xbox_free_play_days_october_2026",
+      "title_ru": "Новые игры в рамках акции Free Play Days на Xbox",
+      "threads_teaser_ru": "Подписчики Xbox Game Pass получили доступ к Dying Light 2: Stay Human – Reloaded Edition, Let’s Build a Zoo и Tropico 6 по акции Free Play Days.",
+      "telegram_message_id": "1599",
+      "telegram_url": "https://t.me/gamepulse_newss/1599",
+      "telegram_published_at": "2026-10-22T15:17:03.593723+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10-22-26_1920x1080-2ccc59cf839d992aed42.jpg"
     }
   ],
-  "updated_at": "2026-10-22T14:17:01.070525+00:00"
+  "updated_at": "2026-10-22T15:17:03.594067+00:00"
 }
