@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c11d6359a106ef70ad1d39a9",
-      "title": "Behold, The $60 Gears Of War Pizza Cutter That Looks Like A Real Pain In The Butt To Clean",
-      "url": "https://gamespot.com/articles/behold-the-60-gears-of-war-pizza-cutter-that-looks-like-a-real-pain-in-the-butt-to-clean",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-28T18:15:19+00:00",
-      "score": 14,
-      "event_key": "xboxprincestpizza gears of war eday collaboration",
-      "title_ru": "Xbox и Prince St. Pizza анонсировали пиццу и нож для пиццы в стиле Gears of War: E-Day",
-      "threads_teaser_ru": "Xbox и Prince St. Pizza представили коллаборацию к релизу Gears of War: E-Day: фанаты могут купить пиццу Emergence Pie и нож для пиццы Prototype Lancer за 60 долларов.",
-      "telegram_message_id": "441",
-      "telegram_url": "https://t.me/gamepulse_newss/441",
-      "telegram_published_at": "2026-09-29T04:46:45.156279+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GearsofPizza.jpg?w=300",
-      "threads_published_at": "2026-09-29T04:46:46.442894+00:00"
-    },
-    {
       "fingerprint": "3395f298d29f5a42587e7847",
       "title": "Dressmaker's Chaotic Evil Endings Prove Why it's Dominating Steam Right Now",
       "url": "https://polygon.com/dressmaker-sabotage-revenge-customers",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/woim.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T15:17:46.130334+00:00"
+    },
+    {
+      "fingerprint": "fb3145d0b127f9438b980cb7",
+      "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
+      "url": "https://eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-23T14:55:40+00:00",
+      "score": 9,
+      "event_key": "modern warfare 4 dmz possum perk controversy",
+      "title_ru": "Игроки Modern Warfare 4 раскритиковали перк Possum в режиме DMZ",
+      "threads_teaser_ru": "В Modern Warfare 4 разгорелись споры вокруг способности Possum для режима DMZ. Перк позволяет один раз за матч самостоятельно вернуться в игру после смерти. Игроки недовольны тем, что механика обесценивает победы в перестрелках, но некоторые уже предлагают способы контрстратегии.",
+      "telegram_message_id": "1642",
+      "telegram_url": "https://t.me/gamepulse_newss/1642",
+      "telegram_published_at": "2026-10-23T15:32:59.948974+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T15:17:46.130432+00:00"
+  "updated_at": "2026-10-23T15:32:59.949274+00:00"
 }
