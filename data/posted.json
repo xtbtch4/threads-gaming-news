@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ddf97b6003d70828ee94181a",
-      "title": "The Bose QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200",
-      "url": "https://ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphones-deal-september-2026",
-      "source": "IGN",
-      "published_at_source": "2026-09-28T20:20:00+00:00",
-      "score": 11,
-      "event_key": "Bose QuietComfort Ultra refurbished deal eBay",
-      "title_ru": "Bose QuietComfort Ultra подешевели до 190 долларов",
-      "threads_teaser_ru": "Наушники Bose QuietComfort Ultra выставили на распродажу за 190 долларов. В акции участвует восстановленная версия первой генерации, включая редкую лимитированную расцветку Diamond 60th Anniversary Edition. Полные характеристики и условия гарантии — в нашем посте.",
-      "telegram_message_id": "429",
-      "telegram_url": "https://t.me/gamepulse_newss/429",
-      "telegram_published_at": "2026-09-28T23:03:42.726834+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/21/bosequietcomfortultradiamond-1790009762754.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-28T23:03:44.189192+00:00"
-    },
-    {
       "fingerprint": "87024e3fa784f005f6978f2e",
       "title": "I’m More Hyped About This LA Noire 2 Rumor Than GTA 6",
       "url": "https://gamespot.com/articles/im-more-hyped-about-this-la-noire-2-rumor-than-gta-6",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/valve-explain-paypal-steam-transcations-unavailable-certain-countries-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T11:47:58.848315+00:00"
+    },
+    {
+      "fingerprint": "1163d513383ea4a12deb4986",
+      "title": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
+      "url": "https://rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-23T10:51:01+00:00",
+      "score": 14,
+      "event_key": "star_trek_online_producer_criticizes_studio_closures",
+      "title_ru": "Star Trek Online исполнительный продюсер критикует закрытие игровых студий",
+      "threads_teaser_ru": "Исполнительный продюсер Star Trek Online Томас Марроне раскритиковал закрытие студий вроде BioWare ради стартапов и ИИ-технологий, назвав это самосаботажем и уничтожением ценных активов.",
+      "telegram_message_id": "1630",
+      "telegram_url": "https://t.me/gamepulse_newss/1630",
+      "telegram_published_at": "2026-10-23T12:16:47.631824+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T11:47:58.848403+00:00"
+  "updated_at": "2026-10-23T12:16:47.632233+00:00"
 }
