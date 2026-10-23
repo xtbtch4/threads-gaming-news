@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a82a2bac984d629bb7125f28",
-      "title": "WoW: Forever’s Beta Just Keeps Getting Bigger",
-      "url": "https://gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-28T20:19:16+00:00",
-      "score": 9,
-      "event_key": "world of warcraft forever beta population cap increased",
-      "title_ru": "Популярность беты World of Warcraft: Forever заставила Blizzard увеличить лимит игроков",
-      "threads_teaser_ru": "Бета-тестирование World of Warcraft: Forever столкнулось с таким высоким спросом, что разработчикам пришлось несколько раз увеличивать лимит игроков. Полноценный релиз игры запланирован на 4 ноября.",
-      "telegram_message_id": "443",
-      "telegram_url": "https://t.me/gamepulse_newss/443",
-      "telegram_published_at": "2026-09-29T05:16:31.706657+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Beta-Popularity.jpg?w=300",
-      "threads_published_at": "2026-09-29T05:16:33.172864+00:00"
-    },
-    {
       "fingerprint": "c837b750b2455a087d5d7d3b",
       "title": "DOOM Sep 28, 2026 World of Tanks Unleashes DOOM with New Battle Pass Special RIP, TEAR and ROLL OUT starting October 1 in World of Tanks View",
       "url": "https://slayersclub.bethesda.net/en-US/news/doom-world-of-tanks-event",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/me-1792767524907.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T15:47:22.998110+00:00"
+    },
+    {
+      "fingerprint": "85c6a2e4e683e0dd0c6cfafb",
+      "title": "Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms",
+      "url": "https://gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-23T15:31:00+00:00",
+      "score": 15,
+      "event_key": "arkane lyon faces closure risk by november",
+      "title_ru": "Arkane Lyon может закрыться уже в ноябре",
+      "threads_teaser_ru": "Студии Arkane Lyon грозит закрытие, если до 13 ноября не удастся найти покупателя. Профсоюзы пытаются спасти рабочие места команды, которая продолжает разработку Marvel's Blade.",
+      "telegram_message_id": "1644",
+      "telegram_url": "https://t.me/gamepulse_newss/1644",
+      "telegram_published_at": "2026-10-23T16:02:56.046032+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1581/15811374/4232391-blade.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-23T15:47:22.998206+00:00"
+  "updated_at": "2026-10-23T16:02:56.046183+00:00"
 }
