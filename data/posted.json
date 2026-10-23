@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "41e7909a0731925865e31dc1",
-      "title": "\"As Far as I'm Concerned, That's a Step in the Right Direction\" – Path of Exile Dev Optimistic About Diablo 5",
-      "url": "https://ign.com/articles/as-far-as-im-concerned-thats-a-step-in-the-right-direction-path-of-exile-dev-optimistic-about-diablo-5",
-      "source": "IGN",
-      "published_at_source": "2026-09-28T20:17:09+00:00",
-      "score": 15,
-      "event_key": "chris_wilson_shares_optimistic_views_on_diablo_5",
-      "title_ru": "Разработчик Path of Exile поделился мнением о Diablo 5",
-      "threads_teaser_ru": "Бывший разработчик Path of Exile Крис Уилсон оценил анонс Diablo 5 и отметил влияние Diablo 2 на новый проект Blizzard, но предположил возможный перенос релиза.",
-      "telegram_message_id": "425",
-      "telegram_url": "https://t.me/gamepulse_newss/425",
-      "telegram_published_at": "2026-09-28T21:03:18.072847+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-28T21:03:20.244373+00:00"
-    },
-    {
       "fingerprint": "e2a9dcb8a537a7713162adf4",
       "title": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again",
       "url": "https://eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-dual-wield-any-gun-mods-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T09:33:02.694703+00:00"
+    },
+    {
+      "fingerprint": "982d2afacc02e9764ccb2e2a",
+      "title": "Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season",
+      "url": "https://polygon.com/vinland-saga-season-3-creator-update-not-in-production",
+      "source": "Polygon",
+      "published_at_source": "2026-10-23T10:04:21+00:00",
+      "score": 10,
+      "event_key": "Makoto Yukimura states Vinland Saga season 3 not in development",
+      "title_ru": "Автор Vinland Saga сообщил, что третий сезон аниме пока не находится в разработке",
+      "threads_teaser_ru": "Плохие новости для поклонников Vinland Saga. Автор оригинала Макото Юкимура подтвердил, что работа над третьим сезоном аниме в настоящий момент не ведется. Официальные студии и издатели пока хранят молчание о планах на продолжение истории Торфинна.",
+      "telegram_message_id": "1626",
+      "telegram_url": "https://t.me/gamepulse_newss/1626",
+      "telegram_published_at": "2026-10-23T10:17:29.875413+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23403755/11811844.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-10-23T09:33:02.694792+00:00"
+  "updated_at": "2026-10-23T10:17:29.875842+00:00"
 }
