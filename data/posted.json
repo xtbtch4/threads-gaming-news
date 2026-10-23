@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b23349aae2601227d2ffa220",
-      "title": "Beloved 2025 Game About Digging Holes Gets Sequel Announcement",
-      "url": "https://polygon.com/a-game-about-digging-a-hole-with-friends-sequel-announcement-trailer",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T11:37:58+00:00",
-      "score": 12,
-      "event_key": "a-game-about-digging-a-hole-together-sequel-announced",
-      "title_ru": "Анонсирован сиквел A Game About Digging a Hole с кооперативом",
-      "threads_teaser_ru": "Популярный инди-хит A Game About Digging a Hole получит продолжение с кооперативом на четырех человек. Новая часть перенесет игроков на пляж и предложит новые инструменты и магазины.",
-      "telegram_message_id": "469",
-      "telegram_url": "https://t.me/gamepulse_newss/469",
-      "telegram_published_at": "2026-09-29T11:47:08.575099+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/a-game-about-digging-a-hole-together-keyart.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-29T11:47:10.659283+00:00"
-    },
-    {
       "fingerprint": "fb3ba7773487909976a88403",
       "title": "Rebel Moon 3 Sounds Like It's Unlikely to Happen After Zack Snyder Issues Update",
       "url": "https://ign.com/articles/rebel-moon-3-sounds-like-its-unlikely-to-happen-after-zack-snyder-issues-update",
@@ -20478,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/total-war-shogun-2-complete-edition.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T22:47:43.949878+00:00"
+    },
+    {
+      "fingerprint": "9094432df1c15a68bd4055a9",
+      "title": "Xbox's First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created",
+      "url": "https://ign.com/articles/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-months-after-it-was-created",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T22:56:42+00:00",
+      "score": 11,
+      "event_key": "helen-chiang-leaves-xbox-coo-role",
+      "title_ru": "Первый в истории операционный директор Xbox покидает свой пост спустя три месяца",
+      "threads_teaser_ru": "Хелен Чанг покинула пост операционного директора Xbox всего через три месяца после назначения. В компании она проработала 21 год.",
+      "telegram_message_id": "1670",
+      "telegram_url": "https://t.me/gamepulse_newss/1670",
+      "telegram_published_at": "2026-10-23T23:02:23.040604+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-23T22:47:43.949977+00:00"
+  "updated_at": "2026-10-23T23:02:23.040919+00:00"
 }
