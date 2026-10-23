@@ -20477,9 +20477,10 @@
       "telegram_message_id": "1633",
       "telegram_url": "https://t.me/gamepulse_newss/1633",
       "telegram_published_at": "2026-10-23T13:02:42.910094+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/ps5-deal-refurb-ps-direct-ign-black-friday-2026-1792759045013.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/ps5-deal-refurb-ps-direct-ign-black-friday-2026-1792759045013.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-23T13:02:44.288554+00:00"
     }
   ],
-  "updated_at": "2026-10-23T13:02:42.910347+00:00"
+  "updated_at": "2026-10-23T13:02:44.288642+00:00"
 }
