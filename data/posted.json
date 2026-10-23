@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "25b22d01c7bf49cac22d6af0",
-      "title": "Naughty Dog celebrates The Last of Us Day with Ghost of Yōtei DLC Naughty Dog celebrates The Last of Us Day with Ghost of Yōtei DLC",
-      "url": "https://polygon.com/naughty-dog-the-last-of-us-day-2026-ghost-of-yotei-dlc",
-      "source": "Polygon",
-      "published_at_source": "2026-09-28T00:40:00+00:00",
-      "score": 7,
-      "event_key": "naughty-dog-the-last-of-us-day-ghost-of-yotei-dlc",
-      "title_ru": "Naughty Dog анонсировала броню для Ghost of Yōtei в честь The Last of Us Day",
-      "threads_teaser_ru": "Naughty Dog удивила фанатов неожиданным анонсом в честь The Last of Us Day: для Ghost of Yōtei создали специальный комплект брони в стиле кликеров в коллаборации с Sucker Punch.",
-      "telegram_message_id": "456",
-      "telegram_url": "https://t.me/gamepulse_newss/456",
-      "telegram_published_at": "2026-09-29T08:31:53.719219+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23985241/d20220516_TLOUX_Annouce_Stills_6_WM.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-29T08:31:55.206671+00:00"
-    },
-    {
       "fingerprint": "886a55065d5d1b06fab50e43",
       "title": "Naughty Dog Is Working On Two New The Last Of Us Projects",
       "url": "https://gamespot.com/articles/naughty-dog-is-working-on-two-new-the-last-of-us-projects",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/kpopdemon-1792775832764.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T19:17:30.046856+00:00"
+    },
+    {
+      "fingerprint": "2ce92c0e301277353f7ed8ee",
+      "title": "Rideshare Stimulator’s Biggest Problem Isn’t AI, It’s That The Game Just Isn’t Very Good",
+      "url": "https://gamespot.com/articles/rideshare-stimulators-biggest-problem-isnt-ai-its-that-the-game-just-isnt-very-good",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-23T15:54:47+00:00",
+      "score": 11,
+      "event_key": "rideshare-stimulator-gameplay-and-ai-controversy",
+      "title_ru": "Главная проблема Rideshare Stimulator",
+      "threads_teaser_ru": "Игра Rideshare Stimulator от Saber Interactive оказалась в центре скандала из-за использования искусственного интеллекта и обвинений от бывшего сценариста. Но главная беда проекта кроется в скучном и утомительном геймплее.",
+      "telegram_message_id": "1657",
+      "telegram_url": "https://t.me/gamepulse_newss/1657",
+      "telegram_published_at": "2026-10-23T19:32:12.104957+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_9228c635fc30d058e07286fd576d970ee6ffac71.1920x1080.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-23T19:17:30.046952+00:00"
+  "updated_at": "2026-10-23T19:32:12.105082+00:00"
 }
