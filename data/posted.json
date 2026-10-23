@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a502bd6ddf6c6239f2975c02",
-      "title": "Neil Druckmann Closes The Last of Us Day || Naughty Dog",
-      "url": "https://naughtydog.com/blog/neil-druckmann-closes-the-last-of-us-day",
-      "source": "Naughty Dog",
-      "published_at_source": "2026-09-28T23:49:00+00:00",
-      "score": 11,
-      "event_key": "Naughty Dog status update The Last of Us Intergalactic",
-      "title_ru": "Naughty Dog поделилась новостями о новых проектах по The Last of Us и игре Intergalactic",
-      "threads_teaser_ru": "Naughty Dog подтвердила работу над новыми проектами во вселенной The Last of Us и анонсировала полноценную презентацию Intergalactic: The Heretic Prophet на 2027 год. До конца текущего года студия планирует хранить молчание.",
-      "telegram_message_id": "431",
-      "telegram_url": "https://t.me/gamepulse_newss/431",
-      "telegram_published_at": "2026-09-29T00:03:51.685801+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://cdn.craft.cloud/22b11234-f633-4f7c-8ac2-099f2dba995c/assets/uploads/TLOUDay2026_NeilBlog_16x9.png",
-      "threads_published_at": "2026-09-29T00:03:53.467908+00:00"
-    },
-    {
       "fingerprint": "4f06a2930a6aae7e2a348a54",
       "title": "Minecraft Dungeons 2 Is More Ambitious, More Interesting, And More Flawed",
       "url": "https://gamespot.com/reviews/minecraft-dungeons-2-is-more-ambitious-more-interesting-and-more-flawed",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Helldivers-2-side-by-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T12:32:12.837897+00:00"
+    },
+    {
+      "fingerprint": "d1d1de1c6756030e02967c15",
+      "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
+      "url": "https://eurogamer.net/half-life-3-developer-references-codename-public",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-23T12:43:22+00:00",
+      "score": 11,
+      "event_key": "valve-developer-accidentally-references-hlx-codeword",
+      "title_ru": "Разработчик из Valve случайно упомянул кодовое имя проекта HLX",
+      "threads_teaser_ru": "Во время недавней трансляции сотрудник Valve случайно упомянул кодовое имя HLX, обсуждая звуковые технологии компании. Это вновь привлекло внимание к слухам вокруг долгожданного проекта.",
+      "telegram_message_id": "1632",
+      "telegram_url": "https://t.me/gamepulse_newss/1632",
+      "telegram_published_at": "2026-10-23T12:46:54.822350+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/half-life-2-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T12:32:12.837989+00:00"
+  "updated_at": "2026-10-23T12:46:54.822630+00:00"
 }
