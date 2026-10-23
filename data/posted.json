@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8a740cdfe1e1b39cd9160afb",
-      "title": "Xbox Disc-to-Digital Program Keeps Getting Larger, Adding Big Publisher",
-      "url": "https://polygon.com/xbox-disc-to-digital-sega-improvements-september-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T09:06:04+00:00",
-      "score": 10,
-      "event_key": "sega_joins_xbox_disc_to_digital_program",
-      "title_ru": "Sega присоединилась к программе Xbox disc-to-digital",
-      "threads_teaser_ru": "Sega стала участницей программы Xbox disc-to-digital, позволив игрокам переводить на цифровые аккаунты свои физические копии игр вроде Sonic и Persona. Функция пока тестируется для участников Xbox Insiders.",
-      "telegram_message_id": "459",
-      "telegram_url": "https://t.me/gamepulse_newss/459",
-      "telegram_published_at": "2026-09-29T09:17:08.633109+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_allchallenges_header.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-29T09:17:10.335067+00:00"
-    },
-    {
       "fingerprint": "090ed5c719ee8acd3e592863",
       "title": "New Naruto Anime Project Finally Resurfaces Ahead of Big Announcement",
       "url": "https://polygon.com/new-naruto-anime-project-announcement-new-york-comic-con",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T20:02:28.863380+00:00"
+    },
+    {
+      "fingerprint": "6f2d4b1e6b80b55fc94e81ba",
+      "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+      "url": "https://eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-23T20:12:34+00:00",
+      "score": 11,
+      "event_key": "shigeru-miyamoto-comments-on-generative-ai-in-game-development",
+      "title_ru": "Сигеру Миямото высказался о роли генеративного ИИ в разработке игр",
+      "threads_teaser_ru": "Сигеру Миямото считает, что для человеческих дизайнеров всегда останется роль в создании игр, даже если генеративный ИИ сможет справляться со всеми техническими задачами.",
+      "telegram_message_id": "1660",
+      "telegram_url": "https://t.me/gamepulse_newss/1660",
+      "telegram_published_at": "2026-10-23T20:16:59.797796+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T20:02:28.863467+00:00"
+  "updated_at": "2026-10-23T20:16:59.798090+00:00"
 }
