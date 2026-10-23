@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "658c5b95692aca2e527476b0",
-      "title": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
-      "url": "https://eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-28T12:19:33+00:00",
-      "score": 11,
-      "event_key": "warzone skin toggle modern warfare 4 launch",
-      "title_ru": "В Call of Duty: Warzone появится функция отключения чужих скинов",
-      "threads_teaser_ru": "В Warzone скоро появится функция отключения скинов из других частей серии. Фильтр позволит видеть в матчах только персонажей из Modern Warfare 4.",
-      "telegram_message_id": "438",
-      "telegram_url": "https://t.me/gamepulse_newss/438",
-      "telegram_published_at": "2026-09-29T04:02:40.116344+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T04:02:41.678823+00:00"
-    },
-    {
       "fingerprint": "f22a2e8f91a37402858f2f6e",
       "title": "The Last Of Us Season 3 Adds John Goodman And Even More Actors From The Games",
       "url": "https://gamespot.com/articles/the-last-of-us-season-3-adds-john-goodman-and-even-more-actors-from-the-games",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/gta-5-legacy-review-thumb-1792736861706.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T14:17:28.176654+00:00"
+    },
+    {
+      "fingerprint": "d5eba1fed2b44d257870a92f",
+      "title": "BioWare Is No More, But Its Impact On Queer Representation In Video Games Will Live On Forever",
+      "url": "https://gamespot.com/articles/bioware-is-no-more-but-its-impact-on-queer-representation-in-video-games-will-live-on-forever",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-23T14:00:00+00:00",
+      "score": 12,
+      "event_key": "bioware_shuttered_by_ea_and_lgbtq_representation_legacy",
+      "title_ru": "BioWare закрыта: как студия повлияла на квир-репрезентацию в видеоиграх",
+      "threads_teaser_ru": "Electronic Arts закрыла BioWare, отменив Mass Effect 5 и оставив около 50 сотрудников без работы. Вспоминаем исторический вклад студии в квир-репрезентацию.",
+      "telegram_message_id": "1639",
+      "telegram_url": "https://t.me/gamepulse_newss/1639",
+      "telegram_published_at": "2026-10-23T14:32:20.721829+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/poster.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-23T14:17:28.176757+00:00"
+  "updated_at": "2026-10-23T14:32:20.721948+00:00"
 }
