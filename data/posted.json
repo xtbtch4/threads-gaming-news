@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f6dd7034111e5a018c469d06",
-      "title": "Intergalactic: The Heretic Prophet Is 'Testing the Bounds' of What Naughty Dog Is Capable of, Troy Baker Says",
-      "url": "https://ign.com/articles/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-troy-baker-says",
-      "source": "IGN",
-      "published_at_source": "2026-09-28T19:48:37+00:00",
-      "score": 8,
-      "event_key": "troy-baker-intergalactic-the-heretic-prophet-naughty-dog",
-      "title_ru": "Troy Baker об игре Intergalactic: The Heretic Prophet",
-      "threads_teaser_ru": "Troy Baker поделился впечатлениями об Intergalactic: The Heretic Prophet от Naughty Dog, заявив, что игра раздвигает границы возможностей студии и поразит игроков.",
-      "telegram_message_id": "451",
-      "telegram_url": "https://t.me/gamepulse_newss/451",
-      "telegram_published_at": "2026-09-29T07:16:54.905210+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/intergalactic-the-heretic-prophet-1790624421706.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T07:16:56.468440+00:00"
-    },
-    {
       "fingerprint": "4e698ebfdc010a9da4cac19f",
       "title": "Inside the Vault – Return to Skyline Valley and World Pets Testing Server",
       "url": "https://fallout.bethesda.net/en-US/news/fallout-76-inside-the-vault-pets-pts-return",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/ss-8994024759b1e6afb09a99381637c8b6fb4e4075-1920x1080-1792777224379.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T18:02:10.935469+00:00"
+    },
+    {
+      "fingerprint": "b8af8c5de04c3e29453f7b5b",
+      "title": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
+      "url": "https://eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-23T18:09:03+00:00",
+      "score": 15,
+      "event_key": "arkane lyon deadline to find buyer november",
+      "title_ru": "Arkane Lyon дали время до ноября на поиск покупателя",
+      "threads_teaser_ru": "У студии Arkane Lyon есть время до 13 ноября, чтобы найти нового покупателя, иначе она будет закрыта в рамках продолжающейся реструктуризации Xbox.",
+      "telegram_message_id": "1652",
+      "telegram_url": "https://t.me/gamepulse_newss/1652",
+      "telegram_published_at": "2026-10-23T18:17:10.269523+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/marvels-blade-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T18:02:10.935553+00:00"
+  "updated_at": "2026-10-23T18:17:10.269842+00:00"
 }
