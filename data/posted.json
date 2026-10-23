@@ -20477,9 +20477,10 @@
       "telegram_message_id": "1636",
       "telegram_url": "https://t.me/gamepulse_newss/1636",
       "telegram_published_at": "2026-10-23T13:47:10.075113+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resonant-3.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resonant-3.jpg?w=300",
+      "threads_published_at": "2026-10-23T13:47:11.495151+00:00"
     }
   ],
-  "updated_at": "2026-10-23T13:47:10.075389+00:00"
+  "updated_at": "2026-10-23T13:47:11.495250+00:00"
 }
