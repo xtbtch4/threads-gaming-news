@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "72895efded12eeb1a626d282",
-      "title": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
-      "url": "https://eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-28T19:05:03+00:00",
-      "score": 10,
-      "event_key": "Double Fine announces Thank You Bus Driver release date",
-      "title_ru": "Double Fine анонсировала дату релиза Thank You Bus Driver",
-      "threads_teaser_ru": "Double Fine скоро выпустит свою первую игру после обретения независимости от Xbox. Симулятор вождения Thank You Bus Driver выйдет 14 октября на PC. Одной из главных механик игры станет возможность давать пощечины пассажирам необычно длинными руками.",
-      "telegram_message_id": "435",
-      "telegram_url": "https://t.me/gamepulse_newss/435",
-      "telegram_published_at": "2026-09-29T02:33:32.016917+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver_3OT3Det.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T02:33:33.503631+00:00"
-    },
-    {
       "fingerprint": "df121bb9b8fbb94dcbcbd3ae",
       "title": "Should You Play Witcher 3 Remastered On The Switch 2?",
       "url": "https://gamespot.com/videos/should-you-play-witcher-3-remastered-on-the-switch-2",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/companions-group-new-jun-head-1792754136159.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T13:32:14.527861+00:00"
+    },
+    {
+      "fingerprint": "4fd997cfd3cc7248f598b227",
+      "title": "Control Resonant’s Unsettling Board Dialogue Is Carefully Crafted Gibberish",
+      "url": "https://gamespot.com/articles/control-resonant-unsettling-board-dialogue-is-carefully-crafted-gibberish",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-23T13:30:35+00:00",
+      "score": 10,
+      "event_key": "control resonant board dialogue gibberish remedy entertainment",
+      "title_ru": "Разработчики Control Resonant рассказали о создании пугающей речи The Board",
+      "threads_teaser_ru": "Загадочная речь сущности The Board в Control Resonant оказалась тщательно созданной бессмыслицей. Разработчики объяснили, как устроен этот звуковой трюк.",
+      "telegram_message_id": "1636",
+      "telegram_url": "https://t.me/gamepulse_newss/1636",
+      "telegram_published_at": "2026-10-23T13:47:10.075113+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resonant-3.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-23T13:32:14.527950+00:00"
+  "updated_at": "2026-10-23T13:47:10.075389+00:00"
 }
