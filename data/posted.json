@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c837b750b2455a087d5d7d3b",
-      "title": "DOOM Sep 28, 2026 World of Tanks Unleashes DOOM with New Battle Pass Special RIP, TEAR and ROLL OUT starting October 1 in World of Tanks View",
-      "url": "https://slayersclub.bethesda.net/en-US/news/doom-world-of-tanks-event",
-      "source": "Bethesda",
-      "published_at_source": "2026-09-28T13:00:00+00:00",
-      "score": 9,
-      "event_key": "world of tanks doom battle pass special event october 2026",
-      "title_ru": "В World of Tanks начнется событие DOOM",
-      "threads_teaser_ru": "С 1 по 11 октября в World of Tanks пройдет коллаборация с DOOM. Игроков ждут новые командиры, включая The Doom Slayer, уникальный танк FV225 с брутальным стилем Mk. BFG, музыка и награды.",
-      "telegram_message_id": "444",
-      "telegram_url": "https://t.me/gamepulse_newss/444",
-      "telegram_published_at": "2026-09-29T05:32:18.258195+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-09-29T05:32:19.724162+00:00"
-    },
-    {
       "fingerprint": "506170c71cf5836bfc0ece92",
       "title": "Why Is Everyone Talking About LA Noire 2 All of a Sudden?",
       "url": "https://ign.com/articles/why-is-everyone-talking-about-la-noire-2-all-of-a-sudden",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/original/1581/15811374/4232391-blade.jpg?w=300",
       "threads_published_at": "2026-10-23T16:02:57.411854+00:00"
+    },
+    {
+      "fingerprint": "28a876a802107732b1d08a90",
+      "title": "Fallout Shelter: The Experiment Is the Official Title for the Prime Video Reality Competition Show, Release Date Announced on Fallout Day",
+      "url": "https://ign.com/articles/fallout-shelter-the-experiment-is-the-official-title-for-the-prime-video-reality-competition-show-release-date-announced-on-fallout-day",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T15:16:16+00:00",
+      "score": 15,
+      "event_key": "amazon announced fallout shelter the experiment release date",
+      "title_ru": "Amazon анонсировала дату выхода шоу Fallout Shelter: The Experiment",
+      "threads_teaser_ru": "Amazon объявила дату выхода и официальное название своего нового реалити-шоу во вселенной Fallout. Проект Fallout Shelter: The Experiment стартует на Prime Video в январе 2027 года.",
+      "telegram_message_id": "1645",
+      "telegram_url": "https://t.me/gamepulse_newss/1645",
+      "telegram_published_at": "2026-10-23T16:17:20.605163+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/falloutthumb-1792768406961.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-23T16:02:57.411954+00:00"
+  "updated_at": "2026-10-23T16:17:20.605471+00:00"
 }
