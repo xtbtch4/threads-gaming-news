@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0d89c98bc6ed0ef7f14fe455",
-      "title": "Doctor Who's Most Iconic Set Has Now Been Torn Down",
-      "url": "https://ign.com/articles/doctor-whos-most-iconic-set-has-now-been-torn-down",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T10:07:41+00:00",
-      "score": 7,
-      "event_key": "doctor-who-tardis-set-torn-down-hiatus",
-      "title_ru": "Знаменитая декорация TARDIS была демонтирована на фоне перерыва в производстве Doctor Who",
-      "threads_teaser_ru": "Знаменитая декорация TARDIS из Doctor Who была демонтирована на студии Bad Wolf на фоне продолжающегося перерыва в производстве сериала.",
-      "telegram_message_id": "467",
-      "telegram_url": "https://t.me/gamepulse_newss/467",
-      "telegram_published_at": "2026-09-29T11:16:40.711173+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/doctor-who-series-15-gatwa-tardis-1-1790675570574.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T11:16:42.199716+00:00"
-    },
-    {
       "fingerprint": "d9e460be707b77bf0e5a1103",
       "title": "The MSI Codex Z2C RTX 5070 Prebuilt Gaming PC Drops to $1399 and Includes Control: Resonant",
       "url": "https://ign.com/articles/msi-codex-z2c-rtx-5070-prebuilt-gaming-pc-deal-september-2026",
@@ -20478,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/GTAVI_Launch_PartnerMedia_Xbox_WireHero_1920x1080_Deliv-9cc35a7dfb344d1ae8cf.jpg",
       "threads_published_at": "2026-10-23T22:17:19.139406+00:00"
+    },
+    {
+      "fingerprint": "5e8b515b68bc16d9af0f7bfb",
+      "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
+      "url": "https://ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T21:03:56+00:00",
+      "score": 13,
+      "event_key": "mass-effect-fans-call-for-ea-boycott-bioware-closure",
+      "title_ru": "Фанаты Mass Effect призывают к бойкоту EA после закрытия BioWare",
+      "threads_teaser_ru": "Фанаты Mass Effect призывают бойкотировать продукты EA после закрытия BioWare и отмены новой части серии. Петиция в защиту игры собрала уже более 76 500 подписей, но эксперты скептически смотрят на требования игроков.",
+      "telegram_message_id": "1668",
+      "telegram_url": "https://t.me/gamepulse_newss/1668",
+      "telegram_published_at": "2026-10-23T22:32:20.849174+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/11/07/mass-effect-legendary-edition-liara-1762534445971.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-23T22:17:19.139498+00:00"
+  "updated_at": "2026-10-23T22:32:20.849313+00:00"
 }
