@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "622884153875e246e2e7da4e",
-      "title": "Wardogs early access review",
-      "url": "https://eurogamer.net/wardogs-early-access-review",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-29T10:27:30+00:00",
-      "score": 6,
-      "event_key": "wardogs_early_access_review_gameplay_mechanics",
-      "title_ru": "Ранний доступ Wardogs",
-      "threads_teaser_ru": "Wardogs в раннем доступе объединяет масштабы Battlefield, симуляцию ArmA и экономику в стиле Counter-Strike. Здесь за деньги можно подкупать медиков для реанимации, а любая активность приносит прибыль.",
-      "telegram_message_id": "464",
-      "telegram_url": "https://t.me/gamepulse_newss/464",
-      "telegram_published_at": "2026-09-29T10:32:19.425105+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/wardogs-review-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T10:32:21.692087+00:00"
-    },
-    {
       "fingerprint": "2a791c2df7bff71168b6f409",
       "title": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today",
       "url": "https://eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
@@ -20479,7 +20462,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/cvlifepocketknife-1792786901984.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T21:17:29.176134+00:00"
+    },
+    {
+      "fingerprint": "5a4705cf56c117089cd80402",
+      "title": "The Acer Nitro RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
+      "url": "https://ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T20:25:00+00:00",
+      "score": 9,
+      "event_key": "Best Buy discount on Acer Nitro 65 gaming PC",
+      "title_ru": "Best Buy предлагает игровой ПК Acer Nitro 65 с видеокартой Radeon RX 9060 XT за $1 199",
+      "threads_teaser_ru": "На этой неделе в Best Buy действует скидка на игровой ПК Acer Nitro 65. За $1 199,99 предлагается сборка с процессором AMD Ryzen 7 8700F и видеокартой Radeon RX 9060 XT, оснащенной 16 ГБ видеопамяти, что является важным преимуществом для игры в разрешении 1440p.",
+      "telegram_message_id": "1665",
+      "telegram_url": "https://t.me/gamepulse_newss/1665",
+      "telegram_published_at": "2026-10-23T21:32:40.598887+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/acernitro85-1792607882452.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-23T21:17:29.176216+00:00"
+  "updated_at": "2026-10-23T21:32:40.599277+00:00"
 }
