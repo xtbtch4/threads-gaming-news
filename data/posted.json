@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "506170c71cf5836bfc0ece92",
-      "title": "Why Is Everyone Talking About LA Noire 2 All of a Sudden?",
-      "url": "https://ign.com/articles/why-is-everyone-talking-about-la-noire-2-all-of-a-sudden",
-      "source": "IGN",
-      "published_at_source": "2026-09-28T10:28:00+00:00",
-      "score": 9,
-      "event_key": "la noire 2 rumors and gta 6 leak connection",
-      "title_ru": "Слухи о LA Noire 2 и старые утечки GTA 6: что известно",
-      "threads_teaser_ru": "В сети активно обсуждают слухи о разработке LA Noire 2, появившиеся благодаря старой утечке по GTA 6 с 4Chan. Разбираемся, какие есть основания для возвращения франшизы и при чем здесь студия Rockstar Australia.",
-      "telegram_message_id": "445",
-      "telegram_url": "https://t.me/gamepulse_newss/445",
-      "telegram_published_at": "2026-09-29T05:46:49.174833+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/07/la-noire-cover-art-1783462785433.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T05:46:50.494136+00:00"
-    },
-    {
       "fingerprint": "32943033a11493587effe6f9",
       "title": "How Minecraft Dungeons II’s Interconnected World Makes Every Journey an Adventure",
       "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/falloutthumb-1792768406961.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T16:17:22.066395+00:00"
+    },
+    {
+      "fingerprint": "700fec083c63b4fda718f604",
+      "title": "'Press Play' — Amazon Reveals Full PlayStation x Lisa Merch Collection as the Blackpink Star Drops New EP",
+      "url": "https://ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T15:59:38+00:00",
+      "score": 13,
+      "event_key": "Amazon reveals PlayStation x Lisa merch collection",
+      "title_ru": "Amazon представил полную коллекцию мерча PlayStation x Lisa",
+      "threads_teaser_ru": "Вместе с выходом нового EP «Press Play» певица Lisa представила полноценную коллаборацию с PlayStation. Помимо одежды и аксессуаров, в продажу вернулся тематический DualSense, а в ноябре коллекцию пополнит фирменный чехол для контроллера.",
+      "telegram_message_id": "1646",
+      "telegram_url": "https://t.me/gamepulse_newss/1646",
+      "telegram_published_at": "2026-10-23T16:32:10.502203+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/lisaxplaystation-1-1792768975329.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-23T16:17:22.066502+00:00"
+  "updated_at": "2026-10-23T16:32:10.502483+00:00"
 }
