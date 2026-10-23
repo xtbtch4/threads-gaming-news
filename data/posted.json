@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "df121bb9b8fbb94dcbcbd3ae",
-      "title": "Should You Play Witcher 3 Remastered On The Switch 2?",
-      "url": "https://gamespot.com/videos/should-you-play-witcher-3-remastered-on-the-switch-2",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T02:31:50+00:00",
-      "score": 11,
-      "event_key": "the witcher 3 performance analysis on nintendo switch 2",
-      "title_ru": "Разбор технического состояния The Witcher 3 на Nintendo Switch 2",
-      "threads_teaser_ru": "Журналисты GameSpot проанализировали, как работает обновленная версия The Witcher 3 на консоли Nintendo Switch 2. Жан-Люк Сейпке и Джейк Деккер разобрали технические аспекты порта и особенности производительности игры на новом устройстве.",
-      "telegram_message_id": "436",
-      "telegram_url": "https://t.me/gamepulse_newss/436",
-      "telegram_published_at": "2026-09-29T03:02:43.097734+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Witcher3Remastered_Switch2.jpg?w=300",
-      "threads_published_at": "2026-09-29T03:02:44.940066+00:00"
-    },
-    {
       "fingerprint": "30403af99608f42db655e97b",
       "title": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap",
       "url": "https://eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resonant-3.jpg?w=300",
       "threads_published_at": "2026-10-23T13:47:11.495151+00:00"
+    },
+    {
+      "fingerprint": "234e9acaddfcdbab4ebcfd15",
+      "title": "Next Week on XBOX: New Games for October 26 to 30",
+      "url": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-23T14:00:00+00:00",
+      "score": 16,
+      "event_key": "xbox_new_games_october_26_to_30",
+      "title_ru": "Новые игры для XBOX с 26 по 30 октября",
+      "threads_teaser_ru": "Xbox Wire опубликовала расписание релизов для XBOX Series X|S, XBOX One, PC и Game Pass на последнюю неделю октября, включая The Wolf Among Us Remastered, Mouthwashing и Farming Simulator 25: Beans & Alpacas Edition.",
+      "telegram_message_id": "1637",
+      "telegram_url": "https://t.me/gamepulse_newss/1637",
+      "telegram_published_at": "2026-10-23T14:02:27.362594+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-7b008f3fcb5a3c8b2654.jpg"
     }
   ],
-  "updated_at": "2026-10-23T13:47:11.495250+00:00"
+  "updated_at": "2026-10-23T14:02:27.362909+00:00"
 }
