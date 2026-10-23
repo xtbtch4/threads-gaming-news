@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ea3a25a3f7dadabebe274285",
-      "title": "Fire Emblem: Fortune's Weave Is the Rare RPG that Tackles Religion Correctly",
-      "url": "https://polygon.com/fire-emblem-fortunes-weave-plot-dietrichs-path-religion",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T11:00:15+00:00",
-      "score": 8,
-      "event_key": "fire emblem fortunes weave religion and history themes",
-      "title_ru": "Как Fire Emblem: Fortune's Weave работает с религиозными и реальными историческими мотивами",
-      "threads_teaser_ru": "Polygon оценил подход Intelligent Systems к религии и истории в Fire Emblem: Fortune's Weave. Игра избегает клише о зловещих церквях и использует сложные отсылки.",
-      "telegram_message_id": "466",
-      "telegram_url": "https://t.me/gamepulse_newss/466",
-      "telegram_published_at": "2026-09-29T11:02:39.192918+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-class-unlocks.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/fire-emblem-fortune-s-weave-the-stage-is-set-nintendo-switch-2-1920x1080-avc1-mp4a-1789505444.mp4",
-      "threads_published_at": "2026-09-29T11:02:40.781622+00:00"
-    },
-    {
       "fingerprint": "0d89c98bc6ed0ef7f14fe455",
       "title": "Doctor Who's Most Iconic Set Has Now Been Torn Down",
       "url": "https://ign.com/articles/doctor-whos-most-iconic-set-has-now-been-torn-down",
@@ -20479,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/4466637-inzoibeingmean.webp?w=300",
       "threads_published_at": "2026-10-23T21:47:03.443006+00:00"
+    },
+    {
+      "fingerprint": "64e8be23d12b79922a8171bc",
+      "title": "Watch the Official Grand Theft Auto VI Launch Trailer – Explore Leonida Before the Game Arrives November 19",
+      "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-23T21:50:48+00:00",
+      "score": 16,
+      "event_key": "grand theft auto vi official launch trailer released",
+      "title_ru": "Вышел официальный трейлер Grand Theft Auto VI перед релизом 19 ноября",
+      "threads_teaser_ru": "Опубликован официальный релизный трейлер Grand Theft Auto VI. До выхода игры осталось совсем немного времени — релиз назначен на 19 ноября.",
+      "telegram_message_id": "1667",
+      "telegram_url": "https://t.me/gamepulse_newss/1667",
+      "telegram_published_at": "2026-10-23T22:17:17.567480+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/GTAVI_Launch_PartnerMedia_Xbox_WireHero_1920x1080_Deliv-9cc35a7dfb344d1ae8cf.jpg"
     }
   ],
-  "updated_at": "2026-10-23T21:47:03.443091+00:00"
+  "updated_at": "2026-10-23T22:17:17.567622+00:00"
 }
