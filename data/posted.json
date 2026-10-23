@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fb3ba7773487909976a88403",
-      "title": "Rebel Moon 3 Sounds Like It's Unlikely to Happen After Zack Snyder Issues Update",
-      "url": "https://ign.com/articles/rebel-moon-3-sounds-like-its-unlikely-to-happen-after-zack-snyder-issues-update",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T11:19:38+00:00",
-      "score": 13,
-      "event_key": "zack snyder pessimistic update on rebel moon 3",
-      "title_ru": "Zack Snyder поделился пессимистичным прогнозом насчет Rebel Moon 3",
-      "threads_teaser_ru": "Режиссер Zack Snyder оценил шансы на появление фильма Rebel Moon 3. Ранее картины франшизы получили прохладный прием от критиков, а теперь постановщик заявил, что для создания продолжения потребуется рост интереса к уже вышедшим частям.",
-      "telegram_message_id": "470",
-      "telegram_url": "https://t.me/gamepulse_newss/470",
-      "telegram_published_at": "2026-09-29T12:02:32.945265+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/04/17/rebel-moon-interview-zack-snyder-on-breaking-the-rules-of-st-rr79-1280-1713381328132.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T12:02:34.369584+00:00"
-    },
-    {
       "fingerprint": "1a3d252c6ff594ea8eda5366",
       "title": "Avengers: Endgame Writer Tried a Version Where Hawkeye Made the Soul Stone Sacrifice, but Female Colleagues Convinced Him Who It Needed Be",
       "url": "https://ign.com/articles/avengers-endgame-writer-tried-a-version-where-hawkeye-made-the-soul-stone-sacrifice-but-female-colleagues-convinced-him-who-it-needed-be",
@@ -20478,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-23T23:02:24.291436+00:00"
+    },
+    {
+      "fingerprint": "ae05270c403156301978426d",
+      "title": "Saros: creating the epic Overlords of Carcosa",
+      "url": "https://blog.playstation.com/2026/10/23/saros-creating-the-epic-overlords-of-carcosa",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-23T11:59:40+00:00",
+      "score": 9,
+      "event_key": "Housemarque and Nixxes detail boss design for Saros",
+      "title_ru": "Подробности разработки боссов в Saros от Housemarque и Nixxes",
+      "threads_teaser_ru": "Housemarque и Nixxes раскрыли процесс совместной разработки боссов для Saros. Команды уделили внимание не только визуальной составляющей, но и трехфазным механикам, чтобы каждое сражение было честным и динамичным. Узнайте, как создавались The Prophet, The Architect и другие враги.",
+      "telegram_message_id": "1671",
+      "telegram_url": "https://t.me/gamepulse_newss/1671",
+      "telegram_published_at": "2026-10-23T23:17:26.523236+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2048/10/a72625381e38fc3fd0fa0a8932dcf40f98acbc99-scaled.jpg"
     }
   ],
-  "updated_at": "2026-10-23T23:02:24.291528+00:00"
+  "updated_at": "2026-10-23T23:17:26.523521+00:00"
 }
