@@ -20476,9 +20476,10 @@
       "telegram_message_id": "1655",
       "telegram_url": "https://t.me/gamepulse_newss/1655",
       "telegram_published_at": "2026-10-23T19:02:41.340537+00:00",
-      "threads_id": null,
-      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--JH0ZJlJX--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/Fallout_Day_Celebration_2026_HERO_1280x720-1.jpg-a310c04b0f51fedbc7b15053fa8a7ccf"
+      "threads_id": "disabled",
+      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--JH0ZJlJX--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/Fallout_Day_Celebration_2026_HERO_1280x720-1.jpg-a310c04b0f51fedbc7b15053fa8a7ccf",
+      "threads_published_at": "2026-10-23T19:02:42.931852+00:00"
     }
   ],
-  "updated_at": "2026-10-23T19:02:41.340904+00:00"
+  "updated_at": "2026-10-23T19:02:42.931968+00:00"
 }
