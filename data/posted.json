@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c7068454c723f8ab0bac4635",
-      "title": "Spider-Man: Brand New Day Is Reportedly Already Planning a Re-Release With New Footage",
-      "url": "https://ign.com/articles/spider-man-brand-new-day-is-reportedly-already-planning-a-re-release-with-new-footage",
-      "source": "IGN",
-      "published_at_source": "2026-09-28T22:22:14+00:00",
-      "score": 8,
-      "event_key": "spider-man-brand-new-day-re-release-new-footage",
-      "title_ru": "Spider-Man: Brand New Day получит повторный прокат с новыми материалами",
-      "threads_teaser_ru": "Sony готовит повторный прокат Spider-Man: Brand New Day с новыми кадрами, включая ранее вырезанные сцены. Точной даты выхода пока нет, но фильм уже демонстрирует высокие кассовые сборы.",
-      "telegram_message_id": "449",
-      "telegram_url": "https://t.me/gamepulse_newss/449",
-      "telegram_published_at": "2026-09-29T06:46:40.706039+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/17/spiderthumb-1781723266727.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T06:46:42.308796+00:00"
-    },
-    {
       "fingerprint": "b7a9ce62d49425b295d5ed86",
       "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
       "url": "https://ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Factorio-final-update-train.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-23T17:33:02.416925+00:00"
+    },
+    {
+      "fingerprint": "f2a9f20f6c75fbe9059055f7",
+      "title": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
+      "url": "https://eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-23T17:19:50+00:00",
+      "score": 13,
+      "event_key": "mass-effect-items-removed-from-battlefield-6",
+      "title_ru": "Из Battlefield 6 удалили контент по Mass Effect после закрытия BioWare",
+      "threads_teaser_ru": "После закрытия студии BioWare из шутера Battlefield 6 бесследно исчезли все косметические предметы и элементы кастомизации, посвященные франшизе Mass Effect.",
+      "telegram_message_id": "1650",
+      "telegram_url": "https://t.me/gamepulse_newss/1650",
+      "telegram_published_at": "2026-10-23T17:46:50.723127+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T17:33:02.417024+00:00"
+  "updated_at": "2026-10-23T17:46:50.723335+00:00"
 }
