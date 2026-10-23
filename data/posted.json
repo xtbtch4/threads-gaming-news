@@ -20477,9 +20477,10 @@
       "telegram_message_id": "1630",
       "telegram_url": "https://t.me/gamepulse_newss/1630",
       "telegram_published_at": "2026-10-23T12:16:47.631824+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-23T12:16:49.076079+00:00"
     }
   ],
-  "updated_at": "2026-10-23T12:16:47.632233+00:00"
+  "updated_at": "2026-10-23T12:16:49.076172+00:00"
 }
