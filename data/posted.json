@@ -20475,9 +20475,10 @@
       "telegram_message_id": "1667",
       "telegram_url": "https://t.me/gamepulse_newss/1667",
       "telegram_published_at": "2026-10-23T22:17:17.567480+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/GTAVI_Launch_PartnerMedia_Xbox_WireHero_1920x1080_Deliv-9cc35a7dfb344d1ae8cf.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/GTAVI_Launch_PartnerMedia_Xbox_WireHero_1920x1080_Deliv-9cc35a7dfb344d1ae8cf.jpg",
+      "threads_published_at": "2026-10-23T22:17:19.139406+00:00"
     }
   ],
-  "updated_at": "2026-10-23T22:17:17.567622+00:00"
+  "updated_at": "2026-10-23T22:17:19.139498+00:00"
 }
