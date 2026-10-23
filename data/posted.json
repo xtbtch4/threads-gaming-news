@@ -20477,9 +20477,10 @@
       "telegram_message_id": "1629",
       "telegram_url": "https://t.me/gamepulse_newss/1629",
       "telegram_published_at": "2026-10-23T11:47:57.390393+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/valve-explain-paypal-steam-transcations-unavailable-certain-countries-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/valve-explain-paypal-steam-transcations-unavailable-certain-countries-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-23T11:47:58.848315+00:00"
     }
   ],
-  "updated_at": "2026-10-23T11:47:57.390712+00:00"
+  "updated_at": "2026-10-23T11:47:58.848403+00:00"
 }
