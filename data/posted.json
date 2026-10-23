@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "30403af99608f42db655e97b",
-      "title": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap",
-      "url": "https://eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-28T08:56:07+00:00",
-      "score": 13,
-      "event_key": "Blizzard increases server capacity for World of Warcraft: Forever beta",
-      "title_ru": "Blizzard вновь увеличила лимит серверов для бета-теста World of Warcraft: Forever",
-      "threads_teaser_ru": "Популярность World of Warcraft: Forever растет: Blizzard снова увеличила серверные лимиты из-за наплыва игроков. Исполнительный продюсер проекта назвала происходящее «дикой поездкой», а разработчики отмечают рекордные показатели интереса, невиданные со времен расцвета классической версии игры.",
-      "telegram_message_id": "437",
-      "telegram_url": "https://t.me/gamepulse_newss/437",
-      "telegram_published_at": "2026-09-29T03:46:55.042557+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T03:46:56.334384+00:00"
-    },
-    {
       "fingerprint": "658c5b95692aca2e527476b0",
       "title": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
       "url": "https://eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-7b008f3fcb5a3c8b2654.jpg",
       "threads_published_at": "2026-10-23T14:02:29.416421+00:00"
+    },
+    {
+      "fingerprint": "e01a0bf424596d37a69efab8",
+      "title": "Grand Theft Auto V – The Legacy Review",
+      "url": "https://ign.com/articles/grand-theft-auto-v-the-legacy-review",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T14:00:00+00:00",
+      "score": 10,
+      "event_key": "ign published retrospective review of grand theft auto v",
+      "title_ru": "Ретроспективный обзор Grand Theft Auto V от IGN",
+      "threads_teaser_ru": "IGN выпустил ретроспективный обзор Grand Theft Auto V перед выходом Grand Theft Auto 6. Игра преодолела отметку в 230 миллионов проданных копий за 13 лет.",
+      "telegram_message_id": "1638",
+      "telegram_url": "https://t.me/gamepulse_newss/1638",
+      "telegram_published_at": "2026-10-23T14:17:26.564051+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/gta-5-legacy-review-thumb-1792736861706.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-23T14:02:29.416523+00:00"
+  "updated_at": "2026-10-23T14:17:26.564454+00:00"
 }
