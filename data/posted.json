@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f22a2e8f91a37402858f2f6e",
-      "title": "The Last Of Us Season 3 Adds John Goodman And Even More Actors From The Games",
-      "url": "https://gamespot.com/articles/the-last-of-us-season-3-adds-john-goodman-and-even-more-actors-from-the-games",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-28T14:07:05+00:00",
-      "score": 10,
-      "event_key": "john-goodman-the-last-of-us-season-3-casting",
-      "title_ru": "John Goodman и актеры из игр пополнили актерский состав третьего сезона The Last of Us",
-      "threads_teaser_ru": "Канал HBO раскрыл новые подробности третьего сезона The Last of Us. К актерскому составу присоединились Джон Гудман, а также игравшие в оригинальные игры Лора Бейли и Иан Александр.",
-      "telegram_message_id": "439",
-      "telegram_url": "https://t.me/gamepulse_newss/439",
-      "telegram_published_at": "2026-09-29T04:16:50.317264+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-9.32.59-AM.png?w=300",
-      "threads_published_at": "2026-09-29T04:16:51.991554+00:00"
-    },
-    {
       "fingerprint": "9ba4bbdad92d8e28c5e1d2f2",
       "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
       "url": "https://polygon.com/gta-6-good-time-state-collectors-editions",
@@ -20480,7 +20463,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/poster.jpg?w=300",
       "threads_published_at": "2026-10-23T14:32:22.269917+00:00"
+    },
+    {
+      "fingerprint": "6e9d7b8a3f06eeafd119c903",
+      "title": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
+      "url": "https://rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-23T14:43:20+00:00",
+      "score": 10,
+      "event_key": "arkane-lyon-takeover-negotiations-marvels-blade-deadline",
+      "title_ru": "Переговоры о будущем Arkane Lyon и судьба Marvel's Blade",
+      "threads_teaser_ru": "Будущее разработчиков Dishonored из Arkane Lyon решается на фоне приближающегося ноябрьского дедлайна. Рассматриваются разные варианты поглощения, а производство Marvel's Blade близтится к завершению.",
+      "telegram_message_id": "1640",
+      "telegram_url": "https://t.me/gamepulse_newss/1640",
+      "telegram_published_at": "2026-10-23T14:46:48.658489+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/marvel-blade-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-23T14:32:22.270026+00:00"
+  "updated_at": "2026-10-23T14:46:48.658862+00:00"
 }
