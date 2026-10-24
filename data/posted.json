@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6a659087679212f6441d0380",
-      "title": "Game of Thrones Movie Aegon’s Conquest Sets 2029 Release Date With Director Owen Harris",
-      "url": "https://ign.com/articles/game-of-thrones-aegons-conquest-movie-release-date-director",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T19:10:43+00:00",
-      "score": 13,
-      "event_key": "game of thrones aegons conquest movie 2029 release date",
-      "title_ru": "Фильм Game of Thrones: Aegon's Conquest выйдет в 2029 году",
-      "threads_teaser_ru": "Warner Bros. назвала дату премьеры фильма Game of Thrones: Aegon’s Conquest и режиссера проекта. Картина выйдет в кинотеатрах в июне 2029 года.",
-      "telegram_message_id": "502",
-      "telegram_url": "https://t.me/gamepulse_newss/502",
-      "telegram_published_at": "2026-09-29T20:17:29.127508+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/vhagar-hotd-thumb-1790708915634.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T20:17:30.854930+00:00"
-    },
-    {
       "fingerprint": "042443db12ffbf5476e34b12",
       "title": "Rockstar Officially Reveals 3 Big New 'GTA 6' Gameplay Features",
       "url": "https://polygon.com/gta-6-game-informer-weather-animals-npc-variety-gameplay-news",
@@ -20484,7 +20467,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-table-tennis.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/house-flipper-2-launch-trailer-nintendo-switch-2-1792704289.mp4",
       "threads_published_at": "2026-10-24T13:02:34.673762+00:00"
+    },
+    {
+      "fingerprint": "b7e6cb0b970df07758df0522",
+      "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
+      "url": "https://gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-22T14:37:00+00:00",
+      "score": 8,
+      "event_key": "archetype-entertainment-shows-new-exodus-gameplay-after-bioware-closure",
+      "title_ru": "Archetype Entertainment представила новые кадры Exodus",
+      "threads_teaser_ru": "На фоне новостей о закрытии студии BioWare и отмене Mass Effect 5, разработчики из Archetype Entertainment показали свежие кадры своего проекта Exodus. Игра, созданная выходцами из BioWare, считается духовным наследником знаменитой космической саги.",
+      "telegram_message_id": "1703",
+      "telegram_url": "https://t.me/gamepulse_newss/1703",
+      "telegram_published_at": "2026-10-24T14:17:22.677952+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-24T13:02:34.673863+00:00"
+  "updated_at": "2026-10-24T14:17:22.678227+00:00"
 }
