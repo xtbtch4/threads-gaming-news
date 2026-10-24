@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5c637eba0c929f87e29d24ef",
-      "title": "Jennifer Lawrence to Star in Zach Cregger’s Sci-Fi Thriller The Flood",
-      "url": "https://ign.com/articles/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-thriller-the-flood",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T22:13:13+00:00",
-      "score": 9,
-      "event_key": "jennifer-lawrence-to-star-in-the-flood",
-      "title_ru": "Jennifer Lawrence снимется в научно-фантастическом триллере The Flood",
-      "threads_teaser_ru": "Jennifer Lawrence получила главную роль в научно-фантастическом триллере The Flood режиссера Zach Cregger. Премьера картины в кинотеатрах состоится 11 августа 2028 года.",
-      "telegram_message_id": "515",
-      "telegram_url": "https://t.me/gamepulse_newss/515",
-      "telegram_published_at": "2026-09-29T23:32:02.034662+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/jlaw-to-star-in-the-flood-zach-cregger-1790719780625.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T23:32:03.447856+00:00"
-    },
-    {
       "fingerprint": "83735aa905ea657b51da0116",
       "title": "Ace Combat 8 Wings of Theve release time in your time zone",
       "url": "https://polygon.com/ace-combat-8-wings-of-theve-release-time-edt-pdt",
@@ -20488,7 +20471,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7808383/Night_in_the_Woods_art.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/penko-park-on-steam-1792783122.mp4",
       "threads_published_at": "2026-10-24T20:03:01.512862+00:00"
+    },
+    {
+      "fingerprint": "d12b05c7a7a06e9c43440508",
+      "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
+      "url": "https://polygon.com/best-books-cozy-horror-fall-season",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T21:00:19+00:00",
+      "score": 8,
+      "event_key": "cozy horror book recommendations list for autumn",
+      "title_ru": "5 книг в жанре «уютный хоррор» для осеннего чтения",
+      "threads_teaser_ru": "Polygon составили список из 5 книг в жанре «уютный хоррор», которые идеально подходят для осенней атмосферы. Среди них работы Ширли Джексон, Рэя Брэдбери и Грейди Хендрикса, сочетающие мистические сюжеты с ностальгией и элементами повседневности.",
+      "telegram_message_id": "1716",
+      "telegram_url": "https://t.me/gamepulse_newss/1716",
+      "telegram_published_at": "2026-10-24T21:02:33.054544+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/my-best-friends-exorcism.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-10-24T20:03:01.512957+00:00"
+  "updated_at": "2026-10-24T21:02:33.054676+00:00"
 }
