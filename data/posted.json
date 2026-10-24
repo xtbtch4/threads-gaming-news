@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "63d54161e8b6ff3b1f5bc54e",
-      "title": "Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts",
-      "url": "https://gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T19:43:28+00:00",
-      "score": 12,
-      "event_key": "world of warcraft forever survey leaks new classes",
-      "title_ru": "Утечка о World of Warcraft: Forever намекает на 11 возможных новых классов",
-      "threads_teaser_ru": "Участники опроса Blizzard для World of Warcraft: Forever поделились списком из 11 потенциальных новых классов, включая Tinker, Necromancer, Bard и San'layn. Релиз игры намечен на 4 ноября.",
-      "telegram_message_id": "505",
-      "telegram_url": "https://t.me/gamepulse_newss/505",
-      "telegram_published_at": "2026-09-29T21:02:24.417608+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Class-Survery.jpg?w=300",
-      "threads_published_at": "2026-09-29T21:02:25.794368+00:00"
-    },
-    {
       "fingerprint": "8565b2cf0fc3caa8f94d0948",
       "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
       "url": "https://gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad",
@@ -20486,7 +20469,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-personal-calendar.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
       "threads_published_at": "2026-10-24T15:32:52.952429+00:00"
+    },
+    {
+      "fingerprint": "10382cb9e8c40256ce8ed076",
+      "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
+      "url": "https://polygon.com/5-hardest-platformers-ever-ranked",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T16:01:20+00:00",
+      "score": 8,
+      "event_key": "Polygon ranks five hardest video game platformers in history",
+      "title_ru": "Polygon составил рейтинг самых сложных платформеров в истории",
+      "threads_teaser_ru": "Polygon представил рейтинг самых сложных платформеров всех времен. В список попали не только ретро-хиты вроде Castlevania и Sonic the Hedgehog, но и современные проекты, такие как Crash Bandicoot 4: It's About Time и Cuphead. Узнайте, почему эти игры до сих пор считаются настоящим испытанием.",
+      "telegram_message_id": "1706",
+      "telegram_url": "https://t.me/gamepulse_newss/1706",
+      "telegram_published_at": "2026-10-24T16:47:25.514564+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/06/rayman-legends-retold-press-image-9.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-24T15:32:52.952542+00:00"
+  "updated_at": "2026-10-24T16:47:25.514709+00:00"
 }
