@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5feed4d50f3e66fb26b1098b",
-      "title": "WoW: Forever Players Are Up In Arms Over Streamer Not Being Banned For Illegal Gold",
-      "url": "https://gamespot.com/articles/wow-forever-players-are-up-in-arms-over-streamer-not-being-banned-for-illegal-gold",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T18:35:45+00:00",
-      "score": 15,
-      "event_key": "wow forever streamer gold controversy blizard",
-      "title_ru": "Игроки WoW: Forever требуют забанить стримера за получение нелегального золота",
-      "threads_teaser_ru": "Стример Ziqo оказался в центре скандала в бете World of Warcraft: Forever из-за получения подозрительного золота перед турниром на 100 000 долларов. Игроки требуют банов.",
-      "telegram_message_id": "498",
-      "telegram_url": "https://t.me/gamepulse_newss/498",
-      "telegram_published_at": "2026-09-29T19:17:21.002165+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Streamer-RMT-Gold.jpg?w=300",
-      "threads_published_at": "2026-09-29T19:17:22.726303+00:00"
-    },
-    {
       "fingerprint": "662d3aae9d80cf941025d248",
       "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
       "url": "https://ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
@@ -20482,7 +20465,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3687796/game-of-thrones-505-jon-snow_2100.0.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/critical-role-iv-official-trailer-1786740297.mp4",
       "threads_published_at": "2026-10-24T11:02:19.698643+00:00"
+    },
+    {
+      "fingerprint": "9e3a68ca6faac441f928b29f",
+      "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly",
+      "url": "https://polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T10:13:19+00:00",
+      "score": 10,
+      "event_key": "shigeru_miyamoto_comments_on_ai_at_press_conference",
+      "title_ru": "Сигэру Миямото высказался об искусственном интеллекте",
+      "threads_teaser_ru": "Создатель Super Mario Сигэру Миямото прокомментировал влияние искусственного интеллекта на индустрию и сравнил его с появлением первых компьютеров. Что думает легендарный геймдизайнер?",
+      "telegram_message_id": "1699",
+      "telegram_url": "https://t.me/gamepulse_newss/1699",
+      "telegram_published_at": "2026-10-24T11:47:02.138786+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/08/super-mario-odyssey-trailer.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-24T11:02:19.698756+00:00"
+  "updated_at": "2026-10-24T11:47:02.139072+00:00"
 }
