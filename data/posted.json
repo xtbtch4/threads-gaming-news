@@ -20474,9 +20474,10 @@
       "telegram_message_id": "1676",
       "telegram_url": "https://t.me/gamepulse_newss/1676",
       "telegram_published_at": "2026-10-24T01:02:38.356907+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-24T01:02:39.898380+00:00"
     }
   ],
-  "updated_at": "2026-10-24T01:02:38.357174+00:00"
+  "updated_at": "2026-10-24T01:02:39.898467+00:00"
 }
