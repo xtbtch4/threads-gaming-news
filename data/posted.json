@@ -20484,9 +20484,10 @@
       "telegram_message_id": "1714",
       "telegram_url": "https://t.me/gamepulse_newss/1714",
       "telegram_published_at": "2026-10-24T19:17:26.592775+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/helena-cloud-district.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/helena-cloud-district.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-24T19:17:28.055505+00:00"
     }
   ],
-  "updated_at": "2026-10-24T19:17:26.592930+00:00"
+  "updated_at": "2026-10-24T19:17:28.055603+00:00"
 }
