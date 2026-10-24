@@ -20480,10 +20480,11 @@
       "telegram_message_id": "1702",
       "telegram_url": "https://t.me/gamepulse_newss/1702",
       "telegram_published_at": "2026-10-24T13:02:33.201080+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-table-tennis.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/house-flipper-2-launch-trailer-nintendo-switch-2-1792704289.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/house-flipper-2-launch-trailer-nintendo-switch-2-1792704289.mp4",
+      "threads_published_at": "2026-10-24T13:02:34.673762+00:00"
     }
   ],
-  "updated_at": "2026-10-24T13:02:33.201476+00:00"
+  "updated_at": "2026-10-24T13:02:34.673863+00:00"
 }
