@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "845cec50dbcd49da6be4c198",
-      "title": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console",
-      "url": "https://eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-29T13:15:16+00:00",
-      "score": 11,
-      "event_key": "ace-combat-8-steam-belkan-war-dlc-controversy",
-      "title_ru": "Релиз Ace Combat 8 омрачен ситуацией с бонусом в Steam",
-      "threads_teaser_ru": "Игроки в Steam столкнулись с проблемой из-за бонуса к Ace Combat 8: Wings of Theve. Переиздание Ace Combat Zero: The Belkan War оказалось привязано к основной игре как DLC, а не отдельным приложением, как на консолях.",
-      "telegram_message_id": "479",
-      "telegram_url": "https://t.me/gamepulse_newss/479",
-      "telegram_published_at": "2026-09-29T14:16:57.713901+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ace-combat-8-character-shot-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T14:16:59.446251+00:00"
-    },
-    {
       "fingerprint": "af61b8160b4f6431426e9df2",
       "title": "The Next Monster Hunter Game Officially Gets a Release Date",
       "url": "https://polygon.com/monster-hunter-outlanders-release-date",
@@ -20477,7 +20460,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/halo-series-2-trailer_AH4XfUB.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-24T01:47:21.437866+00:00"
+    },
+    {
+      "fingerprint": "d6a1814a55658b8ca86055ab",
+      "title": "Avengers: Doomsday Promoted With Baseball-Themed Crossover Featuring MLB Players During World Series",
+      "url": "https://ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
+      "source": "IGN",
+      "published_at_source": "2026-10-24T01:08:16+00:00",
+      "score": 9,
+      "event_key": "Avengers Doomsday promo MLB World Series 2026",
+      "title_ru": "Marvel Studios представила промо-ролик Avengers: Doomsday во время World Series",
+      "threads_teaser_ru": "Marvel Studios показали необычное промо Avengers: Doomsday прямо во время трансляции World Series. В ролике супергерои пересеклись с реальными звездами бейсбола на стадионе из прошлого, а затем на них напал Dr. Doom.",
+      "telegram_message_id": "1680",
+      "telegram_url": "https://t.me/gamepulse_newss/1680",
+      "telegram_published_at": "2026-10-24T02:17:36.115298+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/24/image-3-1792801727507.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-24T01:47:21.437959+00:00"
+  "updated_at": "2026-10-24T02:17:36.115519+00:00"
 }
