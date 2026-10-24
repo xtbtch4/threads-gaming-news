@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bf8186514558d2bb6d9ad9ab",
-      "title": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\"",
-      "url": "https://rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-29T15:30:00+00:00",
-      "score": 11,
-      "event_key": "witcher-3-songs-of-the-past-tone-details-cdpr",
-      "title_ru": "CD Projekt Red рассказала о тональности дополнения Songs of the Past для The Witcher 3 Remastered",
-      "threads_teaser_ru": "Разработчики из CD Projekt Red рассказали о тональности дополнения Songs of the Past для The Witcher 3 Remastered. Новинка стилистически близка к Blood and Wine и предложит более «мечтательную» атмосферу.",
-      "telegram_message_id": "510",
-      "telegram_url": "https://t.me/gamepulse_newss/510",
-      "telegram_published_at": "2026-09-29T22:17:18.742463+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/witcher-3-songs-of-the-past-05.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T22:17:20.367350+00:00"
-    },
-    {
       "fingerprint": "7c145225d6d397e39a7f7360",
       "title": "Valve Rolls Out Huge Update for Hero Shooter Deadlock as Game Hits All-Time Peak",
       "url": "https://polygon.com/valve-deadlock-update-september-2026-development",
@@ -20486,7 +20469,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/detective-pikachu-short.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-24T17:48:00.821523+00:00"
+    },
+    {
+      "fingerprint": "bcacf6f2ad4f3b94a2ba1d88",
+      "title": "Dead by Daylight Is Losing Another Horror Icon",
+      "url": "https://polygon.com/dead-by-daylight-chucky-removed",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T15:17:05+00:00",
+      "score": 8,
+      "event_key": "Dead by Daylight removing Chucky Chapter DLC",
+      "title_ru": "Dead by Daylight лишится контента по франшизе Chucky",
+      "threads_teaser_ru": "Студия Behaviour Interactive сообщила, что из Dead by Daylight будет удален контент по франшизе Chucky. У игроков остался последний месяц, чтобы приобрести дополнение со скидкой, прежде чем оно исчезнет из магазинов навсегда.",
+      "telegram_message_id": "1711",
+      "telegram_url": "https://t.me/gamepulse_newss/1711",
+      "telegram_published_at": "2026-10-24T18:02:44.697144+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25117661/dbd_artwork.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/nikkifortniteshort-1792792136.mp4"
     }
   ],
-  "updated_at": "2026-10-24T17:48:00.821622+00:00"
+  "updated_at": "2026-10-24T18:02:44.697526+00:00"
 }
