@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "83735aa905ea657b51da0116",
-      "title": "Ace Combat 8 Wings of Theve release time in your time zone",
-      "url": "https://polygon.com/ace-combat-8-wings-of-theve-release-time-edt-pdt",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T22:01:15+00:00",
-      "score": 8,
-      "event_key": "ace-combat-8-wings-of-theve-release-time",
-      "title_ru": "Точное время релиза Ace Combat 8: Wings of Theve в разных часовых поясах",
-      "threads_teaser_ru": "Стало известно глобальное время релиза Ace Combat 8: Wings of Theve на PC и консолях. Какие бонусы полагаются за предзаказ и ранний доступ?",
-      "telegram_message_id": "516",
-      "telegram_url": "https://t.me/gamepulse_newss/516",
-      "telegram_published_at": "2026-09-29T23:47:40.286059+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/acebombat8_releasetime_lead.gif?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-29T23:47:41.923135+00:00"
-    },
-    {
       "fingerprint": "79d22100cd45fe031f8c8efd",
       "title": "Sean Gunn Officially Confirms Maxwell Lord’s Return in 2 Future DCU Projects",
       "url": "https://polygon.com/sean-gunn-teases-maxwell-lords-return-across-two-upcoming-dcu-projects",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/my-best-friends-exorcism.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-24T21:02:34.235264+00:00"
+    },
+    {
+      "fingerprint": "041245783c718fcc25ee1d8d",
+      "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
+      "url": "https://rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-24T21:52:00+00:00",
+      "score": 8,
+      "event_key": "announcement of surreal platformer Abelina for 2027",
+      "title_ru": "Анонсирован сюрреалистичный платформер Abelina",
+      "threads_teaser_ru": "Анонсирован сюрреалистичный платформер Abelina — история о человеке, который после смерти пытается найти счастье в загадочном мире. Над игрой работают бывшие создатели CG для League of Legends и композитор фильма Resident Evil. Релиз намечен на 2027 год.",
+      "telegram_message_id": "1717",
+      "telegram_url": "https://t.me/gamepulse_newss/1717",
+      "telegram_published_at": "2026-10-24T22:02:26.099347+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/abelina.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-24T21:02:34.235354+00:00"
+  "updated_at": "2026-10-24T22:02:26.099717+00:00"
 }
