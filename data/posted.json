@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "df284a0da286500537179caf",
-      "title": "Minecraft Dungeons II has arrived – News – Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/minecraft-dungeons-ii-has-arrived",
-      "source": "Nintendo",
-      "published_at_source": "2026-09-29T16:00:00+00:00",
-      "score": 11,
-      "event_key": "minecraft dungeons ii released on nintendo switch 2",
-      "title_ru": "Состоялся релиз Minecraft Dungeons II",
-      "threads_teaser_ru": "Minecraft Dungeons II вышла на Nintendo Switch 2. Игроки отправляются в неизведанное измерение Sift, чтобы остановить илладжеров. Доступны одиночный режим и различные варианты кооператива.",
-      "telegram_message_id": "491",
-      "telegram_url": "https://t.me/gamepulse_newss/491",
-      "telegram_published_at": "2026-09-29T17:32:52.874003+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-09-29T17:32:54.500371+00:00"
-    },
-    {
       "fingerprint": "f964c68bc4f08db7399b3f0f",
       "title": "Xbox’s Platinum Trophy Equivalent Officially Revealed",
       "url": "https://polygon.com/xbox-mythic-achievement-announced-release-date",
@@ -20479,7 +20462,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/malequarian.JPG?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
       "threads_published_at": "2026-10-24T06:02:50.816394+00:00"
+    },
+    {
+      "fingerprint": "6068c45fc8efd28c897a55f8",
+      "title": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\"",
+      "url": "https://eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-24T07:00:00+00:00",
+      "score": 6,
+      "event_key": "Eurogamer What We've Been Playing weekly gaming update",
+      "title_ru": "Eurogamer поделились впечатлениями от Warframe, Over the Hill и Switch Sports Resort",
+      "threads_teaser_ru": "В свежем выпуске What We've Been Playing на Eurogamer авторы обсуждают Warframe, где игроки массово фармят Moon Flesh ради ограниченных наград, медитативную Over the Hill и неожиданно увлекательный одиночный режим в Switch Sports Resort.",
+      "telegram_message_id": "1692",
+      "telegram_url": "https://t.me/gamepulse_newss/1692",
+      "telegram_published_at": "2026-10-24T07:32:05.076123+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/warframe-moon-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-24T06:02:50.816504+00:00"
+  "updated_at": "2026-10-24T07:32:05.076267+00:00"
 }
