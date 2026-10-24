@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1861e1407a0d336a3210367f",
-      "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
-      "url": "https://gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T13:07:36+00:00",
-      "score": 12,
-      "event_key": "gta-5-switch-mod-project-shuts-down",
-      "title_ru": "Проект мода GTA 5 для Switch закрылся после претензий Take-Two",
-      "threads_teaser_ru": "Создатель мода по переносу Grand Theft Auto 5 на Nintendo Switch закрывает проект после получения претензий от правообладателя Take-Two.",
-      "telegram_message_id": "476",
-      "telegram_url": "https://t.me/gamepulse_newss/476",
-      "telegram_published_at": "2026-09-29T13:32:26.834101+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA.jpg?w=300",
-      "threads_published_at": "2026-09-29T13:32:29.205470+00:00"
-    },
-    {
       "fingerprint": "efb0c99a8b751f5e2352ea22",
       "title": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative",
       "url": "https://eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership",
@@ -20477,7 +20460,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-24T01:02:39.898380+00:00"
+    },
+    {
+      "fingerprint": "4c44f2e7b616ec2fe87f8f39",
+      "title": "Indie Game Dev Takes Down Vibe-Coded Zombie Shooter After San Francisco Officials Condemn 'Dehumanizing' Game",
+      "url": "https://ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T22:27:09+00:00",
+      "score": 7,
+      "event_key": "indie dev pulls Tenderloin Night Shift game after backlash",
+      "title_ru": "Разработчик удалил игру Tenderloin Night Shift после критики властей Сан-Франциско",
+      "threads_teaser_ru": "Разработчик удалил спорный шутер Tenderloin Night Shift, действие которого происходило в Сан-Франциско. Власти города осудили игру за изображение бездомных в образе зомби, назвав проект «дегуманизирующим». Автор признал ошибку и направил всю выручку на благотворительность.",
+      "telegram_message_id": "1677",
+      "telegram_url": "https://t.me/gamepulse_newss/1677",
+      "telegram_published_at": "2026-10-24T01:17:17.398015+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-24T01:02:39.898467+00:00"
+  "updated_at": "2026-10-24T01:17:17.398443+00:00"
 }
