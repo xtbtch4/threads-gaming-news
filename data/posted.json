@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9adc571d717c5bc7356fa49a",
-      "title": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
-      "url": "https://rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-29T12:40:37+00:00",
-      "score": 12,
-      "event_key": "free-retro-mashup-the-tower-of-zeldaga-released",
-      "title_ru": "Вышел бесплатный ретро-кроссовер The Tower of Zeldaga",
-      "threads_teaser_ru": "Появилась бесплатная браузерная игра The Tower of Zeldaga, объединяющая классическую The Legend of Zelda и The Tower of Druaga. В этом ретро-кроссовере игрокам предстоит спасать принца Ganondorf.",
-      "telegram_message_id": "473",
-      "telegram_url": "https://t.me/gamepulse_newss/473",
-      "telegram_published_at": "2026-09-29T12:48:09.819764+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-09-29-133458.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T12:48:11.581007+00:00"
-    },
-    {
       "fingerprint": "f6f9fcc5dc5415d058dce0b2",
       "title": "Sony Makes Japanese Players Prove They’re Gamers To Get A PS5 Pro",
       "url": "https://gamespot.com/articles/sony-makes-japanese-players-prove-theyre-gamers-to-get-a-ps5-pro",
@@ -20478,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/darkwingduck_2026_release_image_hd_updated_20260918-logo.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-23T23:47:45.818938+00:00"
+    },
+    {
+      "fingerprint": "d59fb0ec0ba56e48d2853653",
+      "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
+      "url": "https://polygon.com/best-classic-jrpgs-no-remake",
+      "source": "Polygon",
+      "published_at_source": "2026-10-23T22:19:03+00:00",
+      "score": 8,
+      "event_key": "list of classic JRPGs that do not need remakes",
+      "title_ru": "Семь классических JRPG, не нуждающихся в ремейках",
+      "threads_teaser_ru": "Polygon составили список из 7 классических JRPG, которые настолько хороши, что не нуждаются в ремейках. В подборку вошли такие хиты, как Earthbound, Chrono Trigger и Final Fantasy 9. Рассказываем, во что до сих пор стоит поиграть без обновлений.",
+      "telegram_message_id": "1674",
+      "telegram_url": "https://t.me/gamepulse_newss/1674",
+      "telegram_published_at": "2026-10-24T00:02:59.093878+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/suikoden-2.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-23T23:47:45.819025+00:00"
+  "updated_at": "2026-10-24T00:02:59.094056+00:00"
 }
