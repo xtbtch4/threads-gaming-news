@@ -20479,10 +20479,11 @@
       "telegram_message_id": "1700",
       "telegram_url": "https://t.me/gamepulse_newss/1700",
       "telegram_published_at": "2026-10-24T12:02:23.115042+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22911070/Metroid_Dread_upgrades_cover_2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/why-nintendo-will-never-win-goty-again-1786460111.mp4"
+      "video_url": "https://video.polygonimages.com/2026/08/why-nintendo-will-never-win-goty-again-1786460111.mp4",
+      "threads_published_at": "2026-10-24T12:02:24.708101+00:00"
     }
   ],
-  "updated_at": "2026-10-24T12:02:23.115460+00:00"
+  "updated_at": "2026-10-24T12:02:24.708202+00:00"
 }
