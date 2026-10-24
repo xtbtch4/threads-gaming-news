@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5738e97d39efd86d8beb0326",
-      "title": "The Witcher 3 Remastered Has Already Broken Steam Concurrent Player Record",
-      "url": "https://ign.com/articles/the-witcher-3-remastered-has-already-broken-steam-concurrent-player-record",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T15:23:41+00:00",
-      "score": 13,
-      "event_key": "the_witcher_3_remastered_breaks_steam_concurrent_player_record",
-      "title_ru": "The Witcher 3 Remastered обновил рекорд пикового онлайна в Steam",
-      "threads_teaser_ru": "The Witcher 3 Remastered установил новый рекорд одновременных игроков в Steam спустя всего несколько часов после релиза. Сколько пользователей одновременно запустили обновленную версию?",
-      "telegram_message_id": "485",
-      "telegram_url": "https://t.me/gamepulse_newss/485",
-      "telegram_published_at": "2026-09-29T16:02:50.882327+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/tw3re-gamescom-combat-signs-xbox-16x9-clean-1790695387133.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T16:02:53.733636+00:00"
-    },
-    {
       "fingerprint": "e8ef512da7a426c20a8d952c",
       "title": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now",
       "url": "https://rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
@@ -20478,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ETK_PhantomBladeZero_20261022V3.jpg?w=300",
       "threads_published_at": "2026-10-24T03:47:24.261380+00:00"
+    },
+    {
+      "fingerprint": "24f6d2235fc7b98b26df3edb",
+      "title": "The New York Game Awards Returns For Its 16th Show in January 2027",
+      "url": "https://ign.com/articles/the-new-york-game-awards-returns-for-its-16th-show-in-january-2027",
+      "source": "IGN",
+      "published_at_source": "2026-10-22T09:26:00+00:00",
+      "score": 6,
+      "event_key": "The New York Game Awards 2027 announcement",
+      "title_ru": "The New York Game Awards 2027 пройдут в январе",
+      "threads_teaser_ru": "Стали известны подробности 16-й церемонии The New York Game Awards. Мероприятие пройдет 19 января 2027 года на Манхэттене. Организаторы раскрыли имена ведущих, стоимость билетов и цели благотворительного сбора, но главные награды все еще держатся в секрете.",
+      "telegram_message_id": "1686",
+      "telegram_url": "https://t.me/gamepulse_newss/1686",
+      "telegram_published_at": "2026-10-24T04:02:45.545580+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/nyga-1792679810232.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-24T03:47:24.261472+00:00"
+  "updated_at": "2026-10-24T04:02:45.545929+00:00"
 }
