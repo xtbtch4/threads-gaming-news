@@ -20484,9 +20484,10 @@
       "telegram_message_id": "1712",
       "telegram_url": "https://t.me/gamepulse_newss/1712",
       "telegram_published_at": "2026-10-24T18:18:18.041057+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-24T18:18:19.425523+00:00"
     }
   ],
-  "updated_at": "2026-10-24T18:18:18.041255+00:00"
+  "updated_at": "2026-10-24T18:18:19.425609+00:00"
 }
