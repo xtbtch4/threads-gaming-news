@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4a2a80aadebe9b9ecbbbff56",
-      "title": "CoD: Modern Warfare 4 Brings Back The Franchise’s Most Chaotic And Divisive Multiplayer Map",
-      "url": "https://gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T19:08:41+00:00",
-      "score": 15,
-      "event_key": "shipment-returns-in-modern-warfare-4",
-      "title_ru": "Карта Shipment возвращается в Modern Warfare 4",
-      "threads_teaser_ru": "Компания Activision подтвердила возвращение культовой и хаотичной карты Shipment в грядущую игру Modern Warfare 4, которая выходит 23 октября на PS5, Xbox Series X|S, Switch 2 и PC.",
-      "telegram_message_id": "500",
-      "telegram_url": "https://t.me/gamepulse_newss/500",
-      "telegram_published_at": "2026-09-29T19:46:54.556289+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4Map.jpg?w=300",
-      "threads_published_at": "2026-09-29T19:46:56.672838+00:00"
-    },
-    {
       "fingerprint": "93f3ee4bf6db022e73933e15",
       "title": "Halo's Former Franchise Creative Director Sees 3 Possible Paths for Activision's Halo",
       "url": "https://ign.com/articles/halos-former-franchise-creative-director-sees-3-possible-paths-for-activisions-halo",
@@ -20483,7 +20466,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22911070/Metroid_Dread_upgrades_cover_2.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/why-nintendo-will-never-win-goty-again-1786460111.mp4",
       "threads_published_at": "2026-10-24T12:02:24.708101+00:00"
+    },
+    {
+      "fingerprint": "f2d48eb456d1a9b5673af7cd",
+      "title": "12 Anime Worth Watching This Fall",
+      "url": "https://ign.com/articles/new-anime-to-watch-in-fall-2006",
+      "source": "IGN",
+      "published_at_source": "2026-10-24T12:00:00+00:00",
+      "score": 7,
+      "event_key": "fall 2026 anime season release schedule",
+      "title_ru": "Главные аниме-премьеры осени 2026 года",
+      "threads_teaser_ru": "Осенний аниме-сезон 2026 года богат на громкие возвращения и премьеры. В списке обязательных к просмотру — новые сезоны Cyberpunk Edgerunners, Black Clover, Aoashi и Tokyo Revengers, а также свежие тайтлы вроде Firefly Wedding и Fool Night.",
+      "telegram_message_id": "1701",
+      "telegram_url": "https://t.me/gamepulse_newss/1701",
+      "telegram_published_at": "2026-10-24T12:32:23.318543+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/newanimefall26-oo-1792630117402.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-24T12:02:24.708202+00:00"
+  "updated_at": "2026-10-24T12:32:23.318757+00:00"
 }
