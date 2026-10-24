@@ -20476,9 +20476,10 @@
       "telegram_message_id": "1692",
       "telegram_url": "https://t.me/gamepulse_newss/1692",
       "telegram_published_at": "2026-10-24T07:32:05.076123+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/warframe-moon-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/warframe-moon-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-24T07:32:06.414077+00:00"
     }
   ],
-  "updated_at": "2026-10-24T07:32:05.076267+00:00"
+  "updated_at": "2026-10-24T07:32:06.414159+00:00"
 }
