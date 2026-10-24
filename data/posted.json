@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ec7b00485f8b67e7baa8e9e5",
-      "title": "Lego Reveals First Dragon Ball Set with Shenron and Kid Goku",
-      "url": "https://polygon.com/lego-dragon-ball-shenron-set-release-date-price-first-photos",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T13:16:56+00:00",
-      "score": 10,
-      "event_key": "Lego announces first Dragon Ball set featuring Shenron and Kid Goku",
-      "title_ru": "Lego анонсировала первый набор по франшизе Dragon Ball",
-      "threads_teaser_ru": "В ноябре в продажу поступит первый набор Lego по вселенной Dragon Ball. Комплект Lego Icons Dragon Ball: Shenron & Goku включает 1764 детали, фигурку маленького Гоку и самого дракона Шенрона. Это только начало партнерства Lego и Toei Animation — новые наборы ожидаются в 2027 году.",
-      "telegram_message_id": "481",
-      "telegram_url": "https://t.me/gamepulse_newss/481",
-      "telegram_published_at": "2026-09-29T14:47:16.363996+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/11390_lifestyle_cons_02.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-29T14:47:17.949309+00:00"
-    },
-    {
       "fingerprint": "2ebfb9962d39b8ac5c30f521",
       "title": "Funko Brings Exclusive Green Lantern Pop! Figures to NYCC 2026",
       "url": "https://ign.com/articles/funko-brings-exclusive-green-lantern-pop-figures-to-nycc-2026",
@@ -20477,7 +20460,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/bioware-staff-canadian-gov-support-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-24T02:32:19.799857+00:00"
+    },
+    {
+      "fingerprint": "ff389797f5c5460b2577e138",
+      "title": "Work, Game, Watch, Create: The Lenovo Legion 5i Is Strong Enough for All of It",
+      "url": "https://ign.com/articles/work-game-watch-create-the-lenovo-legion-5i-is-strong-enough-for-all-of-it",
+      "source": "IGN",
+      "published_at_source": "2026-10-23T10:00:00+00:00",
+      "score": 7,
+      "event_key": "Lenovo announces features of the Lenovo Legion 5i laptop",
+      "title_ru": "Lenovo анонсировала возможности ноутбука Lenovo Legion 5i",
+      "threads_teaser_ru": "Ноутбук Lenovo Legion 5i получил процессоры Intel Core Ultra и видеокарты NVIDIA GeForce RTX 50. Производитель заявляет, что мощности устройства достаточно для одновременного рендеринга видео, учебы и игр без потери частоты кадров.",
+      "telegram_message_id": "1682",
+      "telegram_url": "https://t.me/gamepulse_newss/1682",
+      "telegram_published_at": "2026-10-24T02:47:13.216341+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/01-legion-5-15iax11-glacier-white-hero-front-facing-jd-1792534677689.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-24T02:32:19.799939+00:00"
+  "updated_at": "2026-10-24T02:47:13.216683+00:00"
 }
