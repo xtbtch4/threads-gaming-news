@@ -20474,10 +20474,11 @@
       "telegram_message_id": "1683",
       "telegram_url": "https://t.me/gamepulse_newss/1683",
       "telegram_published_at": "2026-10-24T03:17:15.336636+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24755996/The_Witcher_n_S3_E4_00_28_49_08.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/the-witcher-3-wild-hunt-remastered-official-announcement-trailer-1787688339.mp4"
+      "video_url": "https://video.polygonimages.com/2026/08/the-witcher-3-wild-hunt-remastered-official-announcement-trailer-1787688339.mp4",
+      "threads_published_at": "2026-10-24T03:17:16.782171+00:00"
     }
   ],
-  "updated_at": "2026-10-24T03:17:15.336994+00:00"
+  "updated_at": "2026-10-24T03:17:16.782272+00:00"
 }
