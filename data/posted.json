@@ -20475,9 +20475,10 @@
       "telegram_message_id": "1675",
       "telegram_url": "https://t.me/gamepulse_newss/1675",
       "telegram_published_at": "2026-10-24T00:47:28.172645+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/masseffect-Large-2.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/masseffect-Large-2.jpeg?w=300",
+      "threads_published_at": "2026-10-24T00:47:29.489375+00:00"
     }
   ],
-  "updated_at": "2026-10-24T00:47:28.173016+00:00"
+  "updated_at": "2026-10-24T00:47:29.489471+00:00"
 }
