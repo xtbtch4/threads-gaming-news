@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "657d4372e2b16fdda3088608",
-      "title": "Crocs x Chainsaw Man Collection Revealed With 4 New Clog Designs",
-      "url": "https://ign.com/articles/crocs-x-chainsaw-man-foot-locker-collaboration-reveal",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T17:41:06+00:00",
-      "score": 13,
-      "event_key": "crocschainsaw-man-foot-locker-collaboration-announced",
-      "title_ru": "Анонсирована коллаборация Crocs x Chainsaw Man с четырьмя новыми дизайнами",
-      "threads_teaser_ru": "Foot Locker анонсировала коллаборацию Crocs и аниме Chainsaw Man с четырьмя уникальными дизайнами сабо и набором подвесок Jibbitz. Цены начинаются от $69.99.",
-      "telegram_message_id": "494",
-      "telegram_url": "https://t.me/gamepulse_newss/494",
-      "telegram_published_at": "2026-09-29T18:17:16.360306+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/chainsawmanxcrocs-1790701240129.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T18:17:18.081013+00:00"
-    },
-    {
       "fingerprint": "13f11b5c7afbbb98fdf4404e",
       "title": "Play the 57th MAXIMUS CUP online event and you could earn an in-game collaborative theme! - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/play-the-57th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme",
@@ -20480,7 +20463,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sker-ritual-screenshot-1.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/sker-ritual-new-gameplay-trailer-1792615932.mp4",
       "threads_published_at": "2026-10-24T08:32:26.639906+00:00"
+    },
+    {
+      "fingerprint": "59028379cd68286683002d45",
+      "title": "7 Hilarious ‘Far Side’ Comics With the Worst Puns",
+      "url": "https://polygon.com/best-far-side-comics-with-terrible-puns",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T09:00:21+00:00",
+      "score": 5,
+      "event_key": "Polygon selects The Far Side comics with puns",
+      "title_ru": "Polygon представил подборку комиксов The Far Side с игрой слов",
+      "threads_teaser_ru": "Издание Polygon вспомнило семь работ из классических комиксов The Far Side, где Gary Larson использовал максимально примитивные каламбуры. Рассказываем, как автор сочетал интеллектуальный подход с абсурдным юмором.",
+      "telegram_message_id": "1695",
+      "telegram_url": "https://t.me/gamepulse_newss/1695",
+      "telegram_published_at": "2026-10-24T09:02:44.698014+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-23-at-11-53-50-am-1.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4"
     }
   ],
-  "updated_at": "2026-10-24T08:32:26.640017+00:00"
+  "updated_at": "2026-10-24T09:02:44.698359+00:00"
 }
