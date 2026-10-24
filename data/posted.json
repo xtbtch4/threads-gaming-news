@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "09c3e811f36f13dc829024c7",
-      "title": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library",
-      "url": "https://rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-29T17:02:37+00:00",
-      "score": 11,
-      "event_key": "strange-scaffold-announces-something-is-wrong-with-the-library",
-      "title_ru": "Анонсирована Something is Wrong with the Library от Strange Scaffold",
-      "threads_teaser_ru": "Студия Strange Scaffold анонсировала Something is Wrong with the Library. Игрокам предстоит навести порядок в жуткой библиотеке, где в стенах замурованы тела погибших.",
-      "telegram_message_id": "508",
-      "telegram_url": "https://t.me/gamepulse_newss/508",
-      "telegram_published_at": "2026-09-29T21:47:21.742670+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/something-is-wrong-with-the-library.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-29T21:47:23.383582+00:00"
-    },
-    {
       "fingerprint": "9e6373dda7b701999037cc69",
       "title": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
       "url": "https://rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
@@ -20486,7 +20469,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/paralives-first-major-updated.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-24T17:17:27.643227+00:00"
+    },
+    {
+      "fingerprint": "d47429b4ef153cd6564e1abb",
+      "title": "The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos",
+      "url": "https://polygon.com/steam-next-fest-october-2026-most-played-games",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T17:22:30+00:00",
+      "score": 10,
+      "event_key": "most popular demos of Steam Next Fest October 2026",
+      "title_ru": "Самые популярные демоверсии фестиваля Steam Next Fest в октябре 2026 года",
+      "threads_teaser_ru": "Valve раскрыла список самых популярных демоверсий на октябрьском Steam Next Fest. В лидерах — асимметричная игра Worst Class Ever, которую опробовали более 300 тысяч человек, необычный кооператив Fart Together и survival-шутер Frostrail от авторов Barotrauma.",
+      "telegram_message_id": "1709",
+      "telegram_url": "https://t.me/gamepulse_newss/1709",
+      "telegram_published_at": "2026-10-24T17:32:23.772499+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ss_ba43feaedadc6d744d649f7ee6590a7ed8ae98d7-1920x1080.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-24T17:17:27.643318+00:00"
+  "updated_at": "2026-10-24T17:32:23.772627+00:00"
 }
