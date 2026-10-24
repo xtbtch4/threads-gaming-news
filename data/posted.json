@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c13cf5826680ac1a70a86973",
-      "title": "The Steam Frame: VR’s Future or the Beginning of the End?",
-      "url": "https://ign.com/articles/the-steam-frame-vrs-future-or-the-beginning-of-the-end",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T17:30:00+00:00",
-      "score": 11,
-      "event_key": "valve_announced_steam_frame_vr_headset",
-      "title_ru": "Анализ анонса Steam Frame",
-      "threads_teaser_ru": "Анонс беспроводного шлема Steam Frame от Valve за $1,059 вызвал вопросы у игроков и критиков. Высокая цена и ставка на старые игры вместо новых AAA-релизов заставляют задуматься о будущем VR-индустрии.",
-      "telegram_message_id": "496",
-      "telegram_url": "https://t.me/gamepulse_newss/496",
-      "telegram_published_at": "2026-09-29T18:47:06.412322+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/steam-frame-thumb-1790699884279.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T18:47:08.897200+00:00"
-    },
-    {
       "fingerprint": "e349eb27a7c8608245da51a0",
       "title": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
       "url": "https://ign.com/articles/gta-6-all-the-new-details-revealed-today-including-animal-species-side-activities-and-fast-travel",
@@ -20481,7 +20464,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2849754/ffxiv_pub_patch2.3_15.1403627489.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-24T09:17:31.977410+00:00"
+    },
+    {
+      "fingerprint": "8840c565274b17cb36c6e2b3",
+      "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
+      "url": "https://eurogamer.net/phantom-blade-zero-hit-not-out",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-23T12:33:45+00:00",
+      "score": 9,
+      "event_key": "Phantom Blade Zero pre-order performance and steam data",
+      "title_ru": "Phantom Blade Zero приближается к релизу с 500 тысячами предзаказов в Steam",
+      "threads_teaser_ru": "Phantom Blade Zero еще не вышла, но уже показывает впечатляющие результаты. По оценкам аналитиков, экшен собрал 500 тысяч предзаказов в Steam и 2,5 млн добавлений в список желаемого. Разбираемся, как игра обходит крупные новинки еще до старта продаж.",
+      "telegram_message_id": "1697",
+      "telegram_url": "https://t.me/gamepulse_newss/1697",
+      "telegram_published_at": "2026-10-24T10:02:45.163945+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero---Release-Date-Announcement-Trailer-_-PS5-Games-0-48-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-24T09:17:31.977505+00:00"
+  "updated_at": "2026-10-24T10:02:45.164314+00:00"
 }
