@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a81819c5e744ebc5f58c04c6",
-      "title": "Gather the crew—a free update is taking off in Star Fox! – News – Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/blast-off-into-high-octane-adventure-with-added-multiplayer-content-for-star-fox-available-now-on-nintendo-switch-2",
-      "source": "Nintendo",
-      "published_at_source": "2026-09-29T16:00:00+00:00",
-      "score": 14,
-      "event_key": "star fox free multiplayer update nintendo switch 2",
-      "title_ru": "Бесплатное обновление с мультиплеером для Star Fox на Nintendo Switch 2",
-      "threads_teaser_ru": "Для Star Fox на Nintendo Switch 2 вышло бесплатное обновление с новыми функциями. Игрокам стал доступен локальный и сетевой мультиплеер до четырех человек, а также три дополнительные локации.",
-      "telegram_message_id": "504",
-      "telegram_url": "https://t.me/gamepulse_newss/504",
-      "telegram_published_at": "2026-09-29T20:46:39.686350+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-09-29T20:46:41.674197+00:00"
-    },
-    {
       "fingerprint": "63d54161e8b6ff3b1f5bc54e",
       "title": "Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts",
       "url": "https://gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts",
@@ -20485,7 +20468,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23632439/ss_9ecf8386f29c5e3ef066d7591816add13a98d2b0.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/05/zero-parades-for-dead-spies-features-gameplay-trailer-1779119847.mp4",
       "threads_published_at": "2026-10-24T15:02:50.858673+00:00"
+    },
+    {
+      "fingerprint": "6e1f7ff71ecd81c0e5225b28",
+      "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
+      "url": "https://polygon.com/steam-personal-calendar-wide-release",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T15:20:31+00:00",
+      "score": 12,
+      "event_key": "Steam launches Personal Calendar feature for game recommendations",
+      "title_ru": "В Steam появилась функция «Персональный календарь» для рекомендаций игр",
+      "threads_teaser_ru": "В Steam заработал «Персональный календарь» — новый инструмент для рекомендаций игр. Он ежедневно показывает недавно вышедшие и будущие проекты, основываясь на вкусах похожих игроков, а не на платных размещениях.",
+      "telegram_message_id": "1705",
+      "telegram_url": "https://t.me/gamepulse_newss/1705",
+      "telegram_published_at": "2026-10-24T15:32:51.533190+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-personal-calendar.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4"
     }
   ],
-  "updated_at": "2026-10-24T15:02:50.858790+00:00"
+  "updated_at": "2026-10-24T15:32:51.533407+00:00"
 }
