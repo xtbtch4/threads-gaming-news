@@ -20478,9 +20478,10 @@
       "telegram_message_id": "1697",
       "telegram_url": "https://t.me/gamepulse_newss/1697",
       "telegram_published_at": "2026-10-24T10:02:45.163945+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero---Release-Date-Announcement-Trailer-_-PS5-Games-0-48-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero---Release-Date-Announcement-Trailer-_-PS5-Games-0-48-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-24T10:02:46.620922+00:00"
     }
   ],
-  "updated_at": "2026-10-24T10:02:45.164314+00:00"
+  "updated_at": "2026-10-24T10:02:46.621014+00:00"
 }
