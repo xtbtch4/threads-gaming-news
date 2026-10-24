@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2167a311a4af694a4905310a",
-      "title": "007 First Light Is Getting Free DLC Later This Week",
-      "url": "https://ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T15:15:00+00:00",
-      "score": 12,
-      "event_key": "007 first light getting free dlc in october 2026",
-      "title_ru": "Для 007 First Light анонсировано бесплатное DLC",
-      "threads_teaser_ru": "Для 007 First Light скоро выйдет бесплатное дополнение. Релиз запланирован на 2 октября, однако разработчики пока не раскрывают полный состав обновления.",
-      "telegram_message_id": "512",
-      "telegram_url": "https://t.me/gamepulse_newss/512",
-      "telegram_published_at": "2026-09-29T22:46:42.708300+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-29T22:46:44.142429+00:00"
-    },
-    {
       "fingerprint": "22f4596671cb8881bb978728",
       "title": "10 Game Cancellations That Are Still Devastating Years Later",
       "url": "https://polygon.com/canceled-games",
@@ -20487,7 +20470,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-24T18:18:19.425523+00:00"
+    },
+    {
+      "fingerprint": "cd59842f6c5a82fa0afee3d3",
+      "title": "Commander Shepard Voice Actors Call for Action to Save Mass Effect",
+      "url": "https://polygon.com/mass-effect-universe-canceled-jennifer-hale-mark-meer-support-petition",
+      "source": "Polygon",
+      "published_at_source": "2026-10-24T18:22:49+00:00",
+      "score": 8,
+      "event_key": "Jennifer Hale and Mark Meer support save Mass Effect petition",
+      "title_ru": "Актеры озвучки Commander Shepard призывают спасти серию Mass Effect",
+      "threads_teaser_ru": "Актеры, озвучившие Commander Shepard, поддержали петицию за спасение франшизы Mass Effect после закрытия студии BioWare. Сообщество активно выступает против отмены проекта Mass Effect: Universe, собрав более 130 000 подписей всего за три дня.",
+      "telegram_message_id": "1713",
+      "telegram_url": "https://t.me/gamepulse_newss/1713",
+      "telegram_published_at": "2026-10-24T18:47:39.916449+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mass-effect-commander-shepard-femshep-2.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
     }
   ],
-  "updated_at": "2026-10-24T18:18:19.425609+00:00"
+  "updated_at": "2026-10-24T18:47:39.916766+00:00"
 }
