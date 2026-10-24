@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "22f4596671cb8881bb978728",
-      "title": "10 Game Cancellations That Are Still Devastating Years Later",
-      "url": "https://polygon.com/canceled-games",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T22:52:38+00:00",
-      "score": 12,
-      "event_key": "polygon_list_of_canceled_games_history",
-      "title_ru": "10 отмененных видеоигр, о которых жалеют спустя годы",
-      "threads_teaser_ru": "Издание Polygon вспомнило 10 знаменитых видеоигр, которые так и не добрались до релиза. В список попали StarCraft: Ghost, Fable Legends, Scalebound и другие отмененные проекты.",
-      "telegram_message_id": "513",
-      "telegram_url": "https://t.me/gamepulse_newss/513",
-      "telegram_published_at": "2026-09-29T23:02:47.667244+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3945830/scalebound-gamescom-2015-comrades.0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/remakes-are-cancelled-classics-are-reborn-gog-classics-vault-1080p-1787068512.mp4",
-      "threads_published_at": "2026-09-29T23:02:49.223562+00:00"
-    },
-    {
       "fingerprint": "1b04d88d84221d63e0e6f4da",
       "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
       "url": "https://ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
@@ -20488,7 +20470,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mass-effect-commander-shepard-femshep-2.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
       "threads_published_at": "2026-10-24T18:47:41.358923+00:00"
+    },
+    {
+      "fingerprint": "d75210f4ee7220af158f3bce",
+      "title": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
+      "url": "https://rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-24T18:58:26+00:00",
+      "score": 8,
+      "event_key": "HELENA : Cloud District release date announcement",
+      "title_ru": "Анонсирована дата релиза фото-игры HELENA : Cloud District",
+      "threads_teaser_ru": "Игра о съемке заброшенной мегаструктуры HELENA : Cloud District выходит 29 октября. Вас ждет необычная камера, ограниченные слоты для снимков и нелинейное исследование с механиками полетов и скольжения.",
+      "telegram_message_id": "1714",
+      "telegram_url": "https://t.me/gamepulse_newss/1714",
+      "telegram_published_at": "2026-10-24T19:17:26.592775+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/helena-cloud-district.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-24T18:47:41.359033+00:00"
+  "updated_at": "2026-10-24T19:17:26.592930+00:00"
 }
