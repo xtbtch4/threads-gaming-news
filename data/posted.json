@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f6f9fcc5dc5415d058dce0b2",
-      "title": "Sony Makes Japanese Players Prove They’re Gamers To Get A PS5 Pro",
-      "url": "https://gamespot.com/articles/sony-makes-japanese-players-prove-theyre-gamers-to-get-a-ps5-pro",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T12:05:33+00:00",
-      "score": 15,
-      "event_key": "sony-requires-playtime-for-ps5-pro-lottery-in-japan",
-      "title_ru": "Sony требует от японских игроков подтвердить игровой опыт для покупки PS5 Pro",
-      "threads_teaser_ru": "Sony придумала способ борьбы с перекупщиками PS5 Pro в Японии: теперь для участия в лотерее на покупку консоли нужно иметь не менее 60 часов игрового времени на аккаунте.",
-      "telegram_message_id": "474",
-      "telegram_url": "https://t.me/gamepulse_newss/474",
-      "telegram_published_at": "2026-09-29T13:02:29.217687+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4667152-ps5pro.jpg?w=300",
-      "threads_published_at": "2026-09-29T13:02:30.557849+00:00"
-    },
-    {
       "fingerprint": "143de9a391bfb6e10215f322",
       "title": "How Control Resonant’s art design and tech shaped its bosses, paranaturally-twisted Manhattan and more",
       "url": "https://blog.playstation.com/2026/09/29/how-control-resonants-art-design-and-tech-shaped-its-bosses-paranaturally-twisted-manhattan-and-more",
@@ -20478,7 +20461,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/suikoden-2.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-24T00:03:00.608245+00:00"
+    },
+    {
+      "fingerprint": "13cdaac2d4b7ab630a008351",
+      "title": "Shepard Actor Reacts To Leaked Mass Effect Trailer, Is “Holding Hope” The Game Will Live On",
+      "url": "https://gamespot.com/articles/shepard-actor-reacts-to-leaked-mass-effect-trailer-is-holding-hope-the-game-will-live-on",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-23T18:01:01+00:00",
+      "score": 8,
+      "event_key": "BioWare closure and cancellation of next Mass Effect game",
+      "title_ru": "Актриса озвучки Commander Shepard отреагировала на отмену следующей игры Mass Effect",
+      "threads_teaser_ru": "Дженнифер Хейл, голос Commander Shepard, отреагировала на закрытие BioWare и отмену игры Mass Effect Universe. Тем временем фанаты запустили петицию, а политик Эви Льюис предложил помощь в выкупе студии, но будущее франшизы остается неопределенным.",
+      "telegram_message_id": "1675",
+      "telegram_url": "https://t.me/gamepulse_newss/1675",
+      "telegram_published_at": "2026-10-24T00:47:28.172645+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/masseffect-Large-2.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-10-24T00:03:00.608341+00:00"
+  "updated_at": "2026-10-24T00:47:28.173016+00:00"
 }
