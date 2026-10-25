@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a84270ef8ecf5c6e6dcbecb1",
-      "title": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\"",
-      "url": "https://eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-30T11:40:08+00:00",
-      "score": 15,
-      "event_key": "crimson desert charting the unknown dlc delayed",
-      "title_ru": "DLC для Crimson Desert перенесли на две недели",
-      "threads_teaser_ru": "Первое дополнение Charting the Unknown для Crimson Desert задерживается на две недели ради дополнительной полировки. Новая дата релиза — 29 октября.",
-      "telegram_message_id": "537",
-      "telegram_url": "https://t.me/gamepulse_newss/537",
-      "telegram_published_at": "2026-09-30T11:47:09.795439+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/crimson-desert-charting-the-unknown-dlc-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T11:47:11.365159+00:00"
-    },
-    {
       "fingerprint": "9ef186458e90828a51b443e0",
       "title": "The Biggest New Game Releases Of October 2026",
       "url": "https://gamespot.com/articles/the-biggest-new-game-releases-of-october-2026",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9759137/City.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-25T20:31:51.983282+00:00"
+    },
+    {
+      "fingerprint": "6facffc6e99e7c44576a4c76",
+      "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
+      "url": "https://polygon.com/calvin-hobbes-vocabulary",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T20:00:18+00:00",
+      "score": 6,
+      "event_key": "calvin and hobbes vocabulary and pop culture impact",
+      "title_ru": "Влияние языкового юмора Calvin and Hobbes на поп-культуру",
+      "threads_teaser_ru": "Материал посвящен культовой серии комиксов Calvin and Hobbes и тому, как уникальный словарный запас главного героя повлиял на целое поколение комедийных авторов.",
+      "telegram_message_id": "1738",
+      "telegram_url": "https://t.me/gamepulse_newss/1738",
+      "telegram_published_at": "2026-10-25T20:46:46.708405+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-revenge-of-the-babysat.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-25T20:31:51.983418+00:00"
+  "updated_at": "2026-10-25T20:46:46.708574+00:00"
 }
