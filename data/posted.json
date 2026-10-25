@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8b983a2b5f2ce44bb58ca59e",
-      "title": "The Last Of Us Duology On PC Is At Its Lowest Price Yet, So Get Ready To Cry Again",
-      "url": "https://gamespot.com/articles/the-last-of-us-duology-on-pc-is-at-its-lowest-price-yet-so-get-ready-to-cry-again",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T15:00:00+00:00",
-      "score": 6,
-      "event_key": "the last of us duology pc discount fanatical",
-      "title_ru": "The Last of Us Duology получила рекордные скидки на ПК",
-      "threads_teaser_ru": "Игры серии The Last of Us продаются на ПК по рекордным скидкам в магазине Fanatical. Узнайте, сколько стоят Steam-ключи обеих частей.",
-      "telegram_message_id": "527",
-      "telegram_url": "https://t.me/gamepulse_newss/527",
-      "telegram_published_at": "2026-09-30T02:32:22.385960+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-the-last-of-us-duology-deal-pc.jpg?w=300",
-      "threads_published_at": "2026-09-30T02:32:23.879150+00:00"
-    },
-    {
       "fingerprint": "488a91abc442278e3dc39c1a",
       "title": "8 Games With Magic Systems So Detailed Brandon Sanderson Would Be Proud",
       "url": "https://polygon.com/video-game-magic-systems-brandon-sanderson",
@@ -20496,7 +20479,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/d-d-2024-phb-spellcaster.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/do-you-agree-with-luis-carazo-s-d-d-hot-takes-1791546200.mp4",
       "threads_published_at": "2026-10-25T14:03:00.496604+00:00"
+    },
+    {
+      "fingerprint": "d24a4cee343d9beb4954e9dd",
+      "title": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
+      "url": "https://eurogamer.net/knightmare-game-free-pc-original-cast",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-25T14:32:00+00:00",
+      "score": 11,
+      "event_key": "knightmare-point-and-click-game-pc-announcement",
+      "title_ru": "Анонсирована бесплатная игра по шоу Knightmare",
+      "threads_teaser_ru": "Анонсирована бесплатная приключенческая игра по мотивам культового британского телешоу Knightmare. Проект создается для PC с участием оригинального актерского состава и выйдет в следующем году.",
+      "telegram_message_id": "1728",
+      "telegram_url": "https://t.me/gamepulse_newss/1728",
+      "telegram_published_at": "2026-10-25T14:32:19.301477+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-25-at-14.26.43.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-25T14:03:00.496702+00:00"
+  "updated_at": "2026-10-25T14:32:19.301700+00:00"
 }
