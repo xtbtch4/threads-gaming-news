@@ -20490,10 +20490,11 @@
       "telegram_message_id": "1725",
       "telegram_url": "https://t.me/gamepulse_newss/1725",
       "telegram_published_at": "2026-10-25T13:02:16.744539+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gtasanandreas_sweet_firing.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
+      "threads_published_at": "2026-10-25T13:02:18.319601+00:00"
     }
   ],
-  "updated_at": "2026-10-25T13:02:16.744803+00:00"
+  "updated_at": "2026-10-25T13:02:18.319719+00:00"
 }
