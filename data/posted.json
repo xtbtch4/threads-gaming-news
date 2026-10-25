@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "79d22100cd45fe031f8c8efd",
-      "title": "Sean Gunn Officially Confirms Maxwell Lord’s Return in 2 Future DCU Projects",
-      "url": "https://polygon.com/sean-gunn-teases-maxwell-lords-return-across-two-upcoming-dcu-projects",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T21:34:05+00:00",
-      "score": 8,
-      "event_key": "sean gunn confirms maxwell lord return in two dcu projects",
-      "title_ru": "Sean Gunn подтвердил возвращение Maxwell Lord в двух будущих проектах DCU",
-      "threads_teaser_ru": "Актер Sean Gunn поделился подробностями о будущем своего персонажа Maxwell Lord в обновленной DCU. По его словам, персонаж появится еще по меньшей мере в двух секретных проектах.",
-      "telegram_message_id": "517",
-      "telegram_url": "https://t.me/gamepulse_newss/517",
-      "telegram_published_at": "2026-09-30T00:02:54.197689+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdguof_ec060.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-30T00:02:55.693263+00:00"
-    },
-    {
       "fingerprint": "4921b07e4596c81cd5184014",
       "title": "The JSAUX EnergyFlow Dock Will Charge Up to Four Switch 2 Joy-Con 2 Controllers for Just $15",
       "url": "https://ign.com/articles/jsaux-energyflow-joycon-2-charging-dock-deal",
@@ -20488,7 +20471,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/abelina.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-24T22:02:27.313961+00:00"
+    },
+    {
+      "fingerprint": "8d0248679b3e9c8b4d834e8f",
+      "title": "Every Legend of Zelda Movie Character and Cast Member Confirmed So Far",
+      "url": "https://polygon.com/the-legend-of-zelda-2027-movie-cast-link-zelda-ganondorf",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T00:30:15+00:00",
+      "score": 10,
+      "event_key": "the legend of zelda live-action movie cast announcement",
+      "title_ru": "Актерский состав фильма The Legend of Zelda: кто сыграет Линка, Зельду и Ганондофа",
+      "threads_teaser_ru": "Стал известен основной актерский состав фильма The Legend of Zelda, премьера которого запланирована на апрель 2027 года. Бенджамин Эван Эйнсворт и Бо Брагасон исполнят роли Линка и принцессы Зельды, а Ули Латукефу приписывают роль Ганондофа.",
+      "telegram_message_id": "1718",
+      "telegram_url": "https://t.me/gamepulse_newss/1718",
+      "telegram_published_at": "2026-10-25T00:32:40.929022+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ar4sz-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-24T22:02:27.314059+00:00"
+  "updated_at": "2026-10-25T00:32:40.929145+00:00"
 }
