@@ -20489,10 +20489,11 @@
       "telegram_message_id": "1724",
       "telegram_url": "https://t.me/gamepulse_newss/1724",
       "telegram_published_at": "2026-10-25T12:16:25.831283+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4"
+      "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4",
+      "threads_published_at": "2026-10-25T12:16:27.058969+00:00"
     }
   ],
-  "updated_at": "2026-10-25T12:16:25.831554+00:00"
+  "updated_at": "2026-10-25T12:16:27.059077+00:00"
 }
