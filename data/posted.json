@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a2cdb6fa3cd04d0f3395dcdf",
-      "title": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
-      "url": "https://rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-30T09:30:00+00:00",
-      "score": 14,
-      "event_key": "gta-6-weather-system-animals-rockstar",
-      "title_ru": "В Grand Theft Auto 6 появится продвинутая погодная система и 170 видов животных",
-      "threads_teaser_ru": "Новые подробности о Grand Theft Auto 6 раскрывают масштабную погодную систему с ураганами и радугами, а также 170 видов животных в открытом мире игры.",
-      "telegram_message_id": "530",
-      "telegram_url": "https://t.me/gamepulse_newss/530",
-      "telegram_published_at": "2026-09-30T09:32:14.669024+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/lucia-leaning-out-of-a-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T09:32:16.258163+00:00"
-    },
-    {
       "fingerprint": "0b911c8912885eba287bbd9e",
       "title": "Pokémon Pokopia Celebrates Its First Halloween with Themed Event",
       "url": "https://polygon.com/pokemon-pokopia-halloween-event-announced",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/24/lucia-hi-res-headshot-artwork-1787583598249.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-25T16:02:09.779375+00:00"
+    },
+    {
+      "fingerprint": "869a9d92b21f246d8d1b14b2",
+      "title": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
+      "url": "https://gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-23T09:29:00+00:00",
+      "score": 7,
+      "event_key": "Blizzard improves layering system for World of Warcraft: Forever launch",
+      "title_ru": "Blizzard улучшит систему layering в World of Warcraft: Forever к запуску",
+      "threads_teaser_ru": "Blizzard готовят важные изменения для системы layering в World of Warcraft: Forever перед запуском. Разработчики отреагировали на критику технологии, пообещав значительные улучшения. Подробности о том, что именно изменится, пока не раскрываются.",
+      "telegram_message_id": "1731",
+      "telegram_url": "https://t.me/gamepulse_newss/1731",
+      "telegram_published_at": "2026-10-25T16:17:14.409958+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-25T16:02:09.779457+00:00"
+  "updated_at": "2026-10-25T16:17:14.410145+00:00"
 }
