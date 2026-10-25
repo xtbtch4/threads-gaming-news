@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a67e3d93fab92cb960c088e4",
-      "title": "Coinbase Joins Pokémon TCG Hype With Its Own Digital Pack-Opening Service",
-      "url": "https://ign.com/articles/coinbase-joins-pokemon-tcg-hype-with-its-own-pack-opening-service",
-      "source": "IGN",
-      "published_at_source": "2026-09-29T20:51:31+00:00",
-      "score": 6,
-      "event_key": "Coinbase announces digital pack opening service for Pokemon TCG",
-      "title_ru": "Coinbase планирует запустить сервис для открытия цифровых наборов карточек Pokémon TCG",
-      "threads_teaser_ru": "Coinbase анонсировала сервис для открытия цифровых наборов карточек, которые будут подкреплены реальными физическими экземплярами. Похоже, компания планирует сфокусироваться на Pokémon TCG: изображения в анонсе напрямую намекают на эту коллекционную франшизу.",
-      "telegram_message_id": "524",
-      "telegram_url": "https://t.me/gamepulse_newss/524",
-      "telegram_published_at": "2026-09-30T01:47:53.316966+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/coinbase-pokemon-card-pack-opening-service-1790714692482.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T01:47:54.810879+00:00"
-    },
-    {
       "fingerprint": "3fdfc6d80f9f2feccf238f4e",
       "title": "Pokémon VGC Pro Begs Players to Wash Themselves After Opponent’s 'Putrid' Stench Makes Them Vomit",
       "url": "https://ign.com/articles/pokemon-vgc-pro-begs-players-to-wash-themselves-after-opponents-stench-makes-them-vomit",
@@ -20493,7 +20476,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4",
       "threads_published_at": "2026-10-25T12:16:27.058969+00:00"
+    },
+    {
+      "fingerprint": "dfdcb44514375880bb024cb1",
+      "title": "GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years",
+      "url": "https://polygon.com/gta-san-andreas-retrospective",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T13:00:18+00:00",
+      "score": 14,
+      "event_key": "gta san andreas retrospective polygon review controls",
+      "title_ru": "Ретроспектива Grand Theft Auto: San Andreas спустя 22 года",
+      "threads_teaser_ru": "Спустя 22 года после релиза автор Polygon перепрошел Grand Theft Auto: San Andreas и поделился впечатлениями. Масштаб и сюжет игры всё ещё хороши, но устаревшее управление и миссии с погонями теперь вызывают лишь раздражение.",
+      "telegram_message_id": "1725",
+      "telegram_url": "https://t.me/gamepulse_newss/1725",
+      "telegram_published_at": "2026-10-25T13:02:16.744539+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gtasanandreas_sweet_firing.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
     }
   ],
-  "updated_at": "2026-10-25T12:16:27.059077+00:00"
+  "updated_at": "2026-10-25T13:02:16.744803+00:00"
 }
