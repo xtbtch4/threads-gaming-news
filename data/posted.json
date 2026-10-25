@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e867310c2ab73074ddbdd170",
-      "title": "\"Getting sidetracked doesn’t feel too unnatural\": Baldur's Gate 3 Act Two Expansion modder on how they seamlessly fit a \"detour\" to fight an army into the RPG's plot",
-      "url": "https://rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-30T10:09:42+00:00",
-      "score": 10,
-      "event_key": "baldurs gate 3 act two expansion mod released in beta",
-      "title_ru": "Моддер выпустил сюжетное дополнение между вторым и третьим актами Baldur's Gate 3",
-      "threads_teaser_ru": "Для Baldur's Gate 3 вышла бета-версия сюжетного мода Act Two Expansion, добавляющего новую главу между вторым и третьим актами. Кампания отправляет игроков в The Chionthar Wilds.",
-      "telegram_message_id": "533",
-      "telegram_url": "https://t.me/gamepulse_newss/533",
-      "telegram_published_at": "2026-09-30T10:17:23.369434+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/baldurs-gate-3-act-two-expansion-modder-nexus-interview-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T10:17:24.705069+00:00"
-    },
-    {
       "fingerprint": "881376b39f1a8e9207cff57e",
       "title": "Xbox's Disc-to-Digital Feature Is Officially Out to the Public",
       "url": "https://polygon.com/xbox-disc-to-digital-full-release",
@@ -20496,7 +20479,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/clayface-movie-screenshot.webp?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/07/clayface-official-trailer-1784738960.mp4",
       "threads_published_at": "2026-10-25T17:17:26.820615+00:00"
+    },
+    {
+      "fingerprint": "3ca4bf47991141d2746b2520",
+      "title": "Forza Might Actually Lose at The Game Awards for the First Time in a Decade",
+      "url": "https://polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T16:00:18+00:00",
+      "score": 6,
+      "event_key": "forza_horizon_6_star_wars_galactic_racer_tga_2026",
+      "title_ru": "Forza Horizon 6 может впервые за долгое время проиграть на The Game Awards",
+      "threads_teaser_ru": "В категории «Лучшая спортивная/гоночная игра» на The Game Awards 2026 года привычный фаворит Forza Horizon 6 может уступить победу проекту Star Wars: Galactic Racer благодаря его инновациям и культовым жанровым корням.",
+      "telegram_message_id": "1734",
+      "telegram_url": "https://t.me/gamepulse_newss/1734",
+      "telegram_published_at": "2026-10-25T17:31:51.663034+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/assets_2026_01_1769110938_fh6_screenshots_11-city-car-meet.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-25T17:17:26.820759+00:00"
+  "updated_at": "2026-10-25T17:31:51.663364+00:00"
 }
