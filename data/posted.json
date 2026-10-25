@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "488a91abc442278e3dc39c1a",
-      "title": "8 Games With Magic Systems So Detailed Brandon Sanderson Would Be Proud",
-      "url": "https://polygon.com/video-game-magic-systems-brandon-sanderson",
-      "source": "Polygon",
-      "published_at_source": "2026-09-29T21:00:15+00:00",
-      "score": 5,
-      "event_key": "polygon_games_magic_systems_brandon_sanderson",
-      "title_ru": "8 игр с детализированными магическими системами",
-      "threads_teaser_ru": "Издание Polygon выбрало восемь видеоигр с детализированными магическими и игровыми системами, которые соответствуют законам известного писателя Брэндона Сандерсона. В список вошли Dishonored, Prey, Divinity: Original Sin 2, Tyranny, Noita, The Legend of Zelda: Tears of the Kingdom и Control.",
-      "telegram_message_id": "528",
-      "telegram_url": "https://t.me/gamepulse_newss/528",
-      "telegram_published_at": "2026-09-30T02:47:15.045511+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19168712/ar4h2.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-30T02:47:16.530666+00:00"
-    },
-    {
       "fingerprint": "4843e1264201595667895620",
       "title": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games",
       "url": "https://rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-25-at-14.26.43.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-25T14:32:20.798855+00:00"
+    },
+    {
+      "fingerprint": "4f0b711c317475a28437ae8b",
+      "title": "Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027",
+      "url": "https://polygon.com/the-legend-of-california-delay",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T15:08:49+00:00",
+      "score": 10,
+      "event_key": "the legend of california early access delayed to 2027",
+      "title_ru": "The Legend of California отложили на 2027 год",
+      "threads_teaser_ru": "Выход амбициозного выживача The Legend of California от создателей Overwatch перенесли с 2026 на 2027 год из-за проблем с производительностью серверов. Новое альфа-тестирование пройдет в Steam уже в ноябре.",
+      "telegram_message_id": "1729",
+      "telegram_url": "https://t.me/gamepulse_newss/1729",
+      "telegram_published_at": "2026-10-25T15:17:25.268207+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/legend-of-california.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-25T14:32:20.798946+00:00"
+  "updated_at": "2026-10-25T15:17:25.268337+00:00"
 }
