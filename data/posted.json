@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c7179e81e4ec7e383c4ca11",
-      "title": "6 PS5 Games Releasing in October You Officially Cannot Miss",
-      "url": "https://polygon.com/new-ps5-games-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T10:00:15+00:00",
-      "score": 10,
-      "event_key": "ps5 new games releases october 2026",
-      "title_ru": "Главные релизы для PS5 в октябре",
-      "threads_teaser_ru": "Октябрь приготовил для владельцев PlayStation 5 богатый выбор релизов: от дополнения для Ghost of Yōtei и аркадных гонок Star Wars: Galactic Racer до экшена Phantom Blade Zero.",
-      "telegram_message_id": "532",
-      "telegram_url": "https://t.me/gamepulse_newss/532",
-      "telegram_published_at": "2026-09-30T10:03:03.914336+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/valor-mortis-release-date-delay.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/05/star-wars-galactic-racer-tm-official-gameplay-trailer-1777922395.mp4",
-      "threads_published_at": "2026-09-30T10:03:05.353205+00:00"
-    },
-    {
       "fingerprint": "e867310c2ab73074ddbdd170",
       "title": "\"Getting sidetracked doesn’t feel too unnatural\": Baldur's Gate 3 Act Two Expansion modder on how they seamlessly fit a \"detour\" to fight an army into the RPG's plot",
       "url": "https://rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot",
@@ -20496,7 +20478,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-10-25T17:02:05.508788+00:00"
+    },
+    {
+      "fingerprint": "b9ffc3bf4a4af263ccc9afb7",
+      "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
+      "url": "https://polygon.com/clayface-opening-weekend-box-office",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T16:02:01+00:00",
+      "score": 6,
+      "event_key": "Clayface box office performance Skydance results",
+      "title_ru": "Фильм Clayface возглавил прокат в США",
+      "threads_teaser_ru": "Фильм Clayface стал лидером проката, принеся студии Skydance вторую победу подряд. Хоррор заработал 24,5 миллиона долларов, что соответствует ожиданиям для фильмов с небольшим бюджетом, несмотря на неоднозначные отзывы критиков о сюжете.",
+      "telegram_message_id": "1733",
+      "telegram_url": "https://t.me/gamepulse_newss/1733",
+      "telegram_published_at": "2026-10-25T17:17:25.478942+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/clayface-movie-screenshot.webp?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/07/clayface-official-trailer-1784738960.mp4"
     }
   ],
-  "updated_at": "2026-10-25T17:02:05.508876+00:00"
+  "updated_at": "2026-10-25T17:17:25.479290+00:00"
 }
