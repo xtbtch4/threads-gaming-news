@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "24f07d5d8a2572e84dabc7c2",
-      "title": "From WoW and MTG Addicts to the Keepers of the Tavern in Hearthstone",
-      "url": "https://gamespot.com/videos/from-wow-and-mtg-addicts-to-the-keepers-of-the-tavern-in-hearthstone",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-29T18:00:00+00:00",
-      "score": 8,
-      "event_key": "hearthstone developers discuss wow and mtg influence",
-      "title_ru": "Создатели Hearthstone рассказали о влиянии World of Warcraft и Magic: The Gathering на свою работу",
-      "threads_teaser_ru": "Разработчики Hearthstone поделились тем, как тысячи часов в World of Warcraft и Magic: The Gathering помогли им в создании знаменитой карточной игры.",
-      "telegram_message_id": "519",
-      "telegram_url": "https://t.me/gamepulse_newss/519",
-      "telegram_published_at": "2026-09-30T00:32:25.501807+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/plhs_hearthstone_site.jpg?w=300",
-      "threads_published_at": "2026-09-30T00:32:26.978653+00:00"
-    },
-    {
       "fingerprint": "02bb884cd2602c9ad451de65",
       "title": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
       "url": "https://eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
@@ -20489,7 +20472,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jean-claude-van-damme-bloodsport.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/trailers/movies/182161.mp4",
       "threads_published_at": "2026-10-25T01:02:46.130365+00:00"
+    },
+    {
+      "fingerprint": "a459f4bb9166ff1a45547069",
+      "title": "5 Most Perfect 1980s Games That Nobody Remembers",
+      "url": "https://polygon.com/best-forgotten-1980s-games",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T00:53:58+00:00",
+      "score": 8,
+      "event_key": "polygon best forgotten 1980s games review list",
+      "title_ru": "Пять забытых игр 80-х, заслуживающих внимания",
+      "threads_teaser_ru": "Какие игры 80-х остаются уникальными даже спустя десятилетия? Вспоминаем пять забытых проектов, от механики взлома в Paradroid до «космических шахмат» The Sentinel, которые предложили необычные решения для своего времени.",
+      "telegram_message_id": "1720",
+      "telegram_url": "https://t.me/gamepulse_newss/1720",
+      "telegram_published_at": "2026-10-25T01:33:11.527419+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/paradroid.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/06/sq-kenanandkel-3cut-1781884883.mp4"
     }
   ],
-  "updated_at": "2026-10-25T01:02:46.130467+00:00"
+  "updated_at": "2026-10-25T01:33:11.527741+00:00"
 }
