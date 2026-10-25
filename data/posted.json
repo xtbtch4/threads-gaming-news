@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "459460a6e8557b5941402764",
-      "title": "The Witcher 3 Remastered Nintendo Switch 2 Can Be Unlocked for Free Even if You Borrow a Switch Physical Copy From a Friend",
-      "url": "https://ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T10:35:22+00:00",
-      "score": 11,
-      "event_key": "witcher 3 remastered free switch 2 cartridge unlock",
-      "title_ru": "The Witcher 3 Remastered для Switch 2 можно разблокировать бесплатно с помощью любого физического картриджа",
-      "threads_teaser_ru": "Игроки выяснили, что для бесплатного получения The Witcher 3 Remastered на Switch 2 можно временно использовать любой физический картридж оригинальной игры для первой консоли.",
-      "telegram_message_id": "536",
-      "telegram_url": "https://t.me/gamepulse_newss/536",
-      "telegram_published_at": "2026-09-30T11:16:46.610775+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T11:16:47.993060+00:00"
-    },
-    {
       "fingerprint": "a84270ef8ecf5c6e6dcbecb1",
       "title": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\"",
       "url": "https://eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/21/masseffect-blogroll-1792622452670.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-25T20:16:35.578918+00:00"
+    },
+    {
+      "fingerprint": "d4eff6d61fcf7adb0baa84bb",
+      "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
+      "url": "https://polygon.com/batman-arkham-city-retrospective-best-superhero-video-game",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T20:00:18+00:00",
+      "score": 8,
+      "event_key": "batman arkham city legacy and influence retrospective",
+      "title_ru": "Влияние Batman: Arkham City на жанр супергеройских игр",
+      "threads_teaser_ru": "Спустя 15 лет после релиза Batman: Arkham City остается непревзойденным шедевром и эталоном в жанре супергеройских игр, определившим механику многих будущих хитов.",
+      "telegram_message_id": "1737",
+      "telegram_url": "https://t.me/gamepulse_newss/1737",
+      "telegram_published_at": "2026-10-25T20:31:50.778746+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9759137/City.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-25T20:16:35.579007+00:00"
+  "updated_at": "2026-10-25T20:31:50.778885+00:00"
 }
