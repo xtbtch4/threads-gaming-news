@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "02bb884cd2602c9ad451de65",
-      "title": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
-      "url": "https://eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-29T14:02:00+00:00",
-      "score": 8,
-      "event_key": "The Blood of Dawnwalker developer confirms human form intended to be harder",
-      "title_ru": "В The Blood of Dawnwalker намеренно сложнее играть за человека",
-      "threads_teaser_ru": "Сложности при прохождении The Blood of Dawnwalker за человека — не ошибка, а задумка разработчиков. Игровой директор объяснил, почему вампирская форма намеренно сильнее человеческой и какую роль в этом играют механики колдовства.",
-      "telegram_message_id": "520",
-      "telegram_url": "https://t.me/gamepulse_newss/520",
-      "telegram_published_at": "2026-09-30T00:48:01.320321+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/lacra-dawnawlker.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T00:48:02.754769+00:00"
-    },
-    {
       "fingerprint": "4674f03a649827aad95e8bba",
       "title": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch",
       "url": "https://rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
@@ -20490,7 +20473,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/paradroid.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/06/sq-kenanandkel-3cut-1781884883.mp4",
       "threads_published_at": "2026-10-25T01:33:13.356745+00:00"
+    },
+    {
+      "fingerprint": "9855478e57ccabe627395e8a",
+      "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
+      "url": "https://polygon.com/kingdom-hearts-4-worlds-theories",
+      "source": "Polygon",
+      "published_at_source": "2026-10-25T00:39:16+00:00",
+      "score": 8,
+      "event_key": "Kingdom Hearts 4 potential worlds and locations analysis",
+      "title_ru": "Миры Kingdom Hearts 4: ожидания фанатов и прогнозы",
+      "threads_teaser_ru": "Какие миры Disney могут появиться в Kingdom Hearts 4? Анализируем официальные подтверждения, такие как Coco и Hercules, и обсуждаем теории фанатов: от интеграции Star Wars до возвращения в Arendelle и потенциального визита в Zootopia.",
+      "telegram_message_id": "1721",
+      "telegram_url": "https://t.me/gamepulse_newss/1721",
+      "telegram_published_at": "2026-10-25T01:47:34.210257+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/kh4_d23_4k_1.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/kingdom-hearts-iv-extended-d23-2026-coco-trailer-1786886067.mp4"
     }
   ],
-  "updated_at": "2026-10-25T01:33:13.356858+00:00"
+  "updated_at": "2026-10-25T01:47:34.210569+00:00"
 }
