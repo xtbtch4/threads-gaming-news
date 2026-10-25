@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3eb91662ef02b594134c9eb5",
-      "title": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience",
-      "url": "https://ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T10:18:17+00:00",
-      "score": 15,
-      "event_key": "rockstar developers researched florida for gta 6",
-      "title_ru": "Разработчики GTA 6 изучали Флориду для создания игры",
-      "threads_teaser_ru": "Стало известно, как разработчики GTA 6 изучали реальную Флориду: команда посещала стриптиз-клубы и ездила по ночным районам с бывшими полицейскими.",
-      "telegram_message_id": "535",
-      "telegram_url": "https://t.me/gamepulse_newss/535",
-      "telegram_published_at": "2026-09-30T11:02:35.453668+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/gta-6-1790763356629.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T11:02:36.946787+00:00"
-    },
-    {
       "fingerprint": "459460a6e8557b5941402764",
       "title": "The Witcher 3 Remastered Nintendo Switch 2 Can Be Unlocked for Free Even if You Borrow a Switch Physical Copy From a Friend",
       "url": "https://ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/25/clayface-1792955641287.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-25T20:02:44.565226+00:00"
+    },
+    {
+      "fingerprint": "159b8021f9976e4f79bca7dd",
+      "title": "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
+      "url": "https://ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
+      "source": "IGN",
+      "published_at_source": "2026-10-25T17:30:24+00:00",
+      "score": 15,
+      "event_key": "leaks-reveal-canceled-bioware-mass-effect-game-details",
+      "title_ru": "Утечка раскрыла подробности отменённой игры серии Mass Effect",
+      "threads_teaser_ru": "Утечка информации об отменённой игре серии Mass Effect раскрыла амбициозные планы BioWare по переносу всех решений из трилогии в новый проект под названием Mass Effect: Universe.",
+      "telegram_message_id": "1736",
+      "telegram_url": "https://t.me/gamepulse_newss/1736",
+      "telegram_published_at": "2026-10-25T20:16:34.240912+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/masseffect-blogroll-1792622452670.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-25T20:02:44.565316+00:00"
+  "updated_at": "2026-10-25T20:16:34.241191+00:00"
 }
