@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9cf70d2306000232a44e4eae",
-      "title": "Get Humble Choice September 2026 for $9, Today Only",
-      "url": "https://ign.com/articles/get-humble-choice-september-2026-for-9-today-only",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T14:21:48+00:00",
-      "score": 11,
-      "event_key": "Humble Choice September 2026 discount offer",
-      "title_ru": "Humble Choice за сентябрь 2026 года доступен со скидкой",
-      "threads_teaser_ru": "Humble Bundle запустил однодневную акцию: сентябрьскую подборку игр Humble Choice можно забрать за $9 вместо $15. В списке — 8 тайтлов для Steam, включая Frostpunk 2 и Sonic x Shadow Generations, а также бонус в виде месяца подписки IGN Plus. Успеть нужно до конца 1 октября.",
-      "telegram_message_id": "556",
-      "telegram_url": "https://t.me/gamepulse_newss/556",
-      "telegram_published_at": "2026-09-30T16:47:44.386487+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/03/05/frostpunk2thumb-1709664672623.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T16:47:45.951905+00:00"
-    },
-    {
       "fingerprint": "7e81c1f5fd5c2751b926bd72",
       "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
       "url": "https://eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-gameplay-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T12:47:06.191203+00:00"
+    },
+    {
+      "fingerprint": "e10de4d4cd01e898f201a3d1",
+      "title": "XBOX Game Pass Is Coming to Eligible T-Mobile Customers",
+      "url": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-26T13:00:00+00:00",
+      "score": 16,
+      "event_key": "xbox game pass coming to t mobile customers",
+      "title_ru": "Xbox Game Pass появится у абонентов T-Mobile в США",
+      "threads_teaser_ru": "Абоненты T-Mobile в США смогут выбрать подписку Xbox Game Pass в рамках нового тарифного плана T-Mix уже в ноябре.",
+      "telegram_message_id": "1757",
+      "telegram_url": "https://t.me/gamepulse_newss/1757",
+      "telegram_published_at": "2026-10-26T13:02:54.959047+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX_TMO_16x9-R2D-4f063534a7b256d7123f.jpg"
     }
   ],
-  "updated_at": "2026-10-26T12:47:06.191315+00:00"
+  "updated_at": "2026-10-26T13:02:54.959288+00:00"
 }
