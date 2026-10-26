@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "04cb67da3bd1de41e9374eb8",
-      "title": "Can Xbox save Halo? | Point It Out!",
-      "url": "https://polygon.com/video/can-xbox-save-halo-point-it-out",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T23:00:15+00:00",
-      "score": 12,
-      "event_key": "Oli Welsh discusses Xbox moving Halo to Activision",
-      "title_ru": "Может ли Xbox спасти Halo?",
-      "threads_teaser_ru": "Oli Welsh обсудил в шоу Point It Out! решение главы Xbox Asha Sharma сократить команду Halo и передать франшизу Activision.",
-      "telegram_message_id": "578",
-      "telegram_url": "https://t.me/gamepulse_newss/578",
-      "telegram_published_at": "2026-09-30T23:03:03.740347+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/pio-thumb-ep-6__3.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-30T23:03:05.102483+00:00"
-    },
-    {
       "fingerprint": "05eb0e4370e2843cdc31b11e",
       "title": "Ace Combat 8’s Stellar Multiplayer Reveals the Terrors of Live-Service Games",
       "url": "https://polygon.com/ace-combat-8-online-impressions",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/26/emberville-1793041653782.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-26T20:32:46.729169+00:00"
+    },
+    {
+      "fingerprint": "3ad429f03b7ef7e673e923c6",
+      "title": "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
+      "url": "https://ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T20:43:26+00:00",
+      "score": 15,
+      "event_key": "assassins creed black flag resynced final major content update",
+      "title_ru": "Для Assassin's Creed Black Flag Resynced выходит последнее крупное обновление",
+      "threads_teaser_ru": "Ubisoft анонсировала финальное крупное обновление для Assassin's Creed Black Flag Resynced, которое привносит в игру долгожданный режим New Game+ и повышенную сложность Nightmare.",
+      "telegram_message_id": "1779",
+      "telegram_url": "https://t.me/gamepulse_newss/1779",
+      "telegram_published_at": "2026-10-26T21:02:36.992159+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/assassins-creed-black-flag-resynced-final-update-1793047206541.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T20:32:46.729274+00:00"
+  "updated_at": "2026-10-26T21:02:36.992403+00:00"
 }
