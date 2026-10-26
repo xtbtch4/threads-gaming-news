@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "60858900bb518595d6735e9b",
-      "title": "Danny Boyle Officially Updates Fans on 28 Years Later 3's Fate",
-      "url": "https://polygon.com/28-years-later-3-danny-boyle-update-cillian-murphy",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T14:02:04+00:00",
-      "score": 10,
-      "event_key": "danny-boyle-updates-fans-on-28-years-later-three",
-      "title_ru": "Дэнни Бойл поделился новостями о судьбе триквела 28 Years Later",
-      "threads_teaser_ru": "Режиссер Дэнни Бойл рассказал о планах на съемки заключительной части трилогии 28 Years Later. Сценарий уже готов, а в центре сюжета должен оказаться герой Киллиана Мерфи.",
-      "telegram_message_id": "546",
-      "telegram_url": "https://t.me/gamepulse_newss/546",
-      "telegram_published_at": "2026-09-30T14:02:55.012000+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/28-years-later-2.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-30T14:02:56.629975+00:00"
-    },
-    {
       "fingerprint": "81efc0bd7f3836d5c20b2d2f",
       "title": "Ex-PlayStation Boss Has Some Advice For Xbox: “Pick A Lane”",
       "url": "https://gamespot.com/articles/ex-playstation-boss-has-some-advice-for-xbox-pick-a-lane",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-husks.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T10:02:00.229017+00:00"
+    },
+    {
+      "fingerprint": "91aa598b170ced988a3bc041",
+      "title": "Celebrate Helldivers 2 Liberty Day 2026 with in-game gifts today",
+      "url": "https://blog.playstation.com/2026/10/26/celebrate-helldivers-2-liberty-day-2026-with-in-game-gifts-today",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-26T10:00:05+00:00",
+      "score": 10,
+      "event_key": "helldivers-2-liberty-day-2026-celebration",
+      "title_ru": "Празднование Liberty Day в Helldivers 2",
+      "threads_teaser_ru": "Arrowhead Studios отмечает Liberty Day в Helldivers 2 подарками для игроков, включая ретро-оружие AR-23L Liberator Legacy, украшения для кораблей, новые товары в магазине Super Merch и тематические коллекционные фигурки.",
+      "telegram_message_id": "1747",
+      "telegram_url": "https://t.me/gamepulse_newss/1747",
+      "telegram_published_at": "2026-10-26T10:16:59.418248+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/eff4855b16a092b26b26caeee292ff736efc92b9.jpg"
     }
   ],
-  "updated_at": "2026-10-26T10:02:00.229106+00:00"
+  "updated_at": "2026-10-26T10:16:59.418401+00:00"
 }
