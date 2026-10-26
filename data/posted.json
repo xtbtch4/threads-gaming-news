@@ -20494,9 +20494,10 @@
       "telegram_message_id": "1762",
       "telegram_url": "https://t.me/gamepulse_newss/1762",
       "telegram_published_at": "2026-10-26T14:17:28.288267+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/steam-personal-calendar-final-release-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/steam-personal-calendar-final-release-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-26T14:17:29.815016+00:00"
     }
   ],
-  "updated_at": "2026-10-26T14:17:28.288375+00:00"
+  "updated_at": "2026-10-26T14:17:29.815102+00:00"
 }
