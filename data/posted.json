@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "35c5f2fcbbdd91ef8dce7de0",
-      "title": "Ordering DoorDash Is Too Hard, So an AI Agent Will Soon Be Able to Order Pizza for You",
-      "url": "https://ign.com/articles/ordering-doordash-is-too-hard-so-an-ai-agent-will-soon-be-able-to-order-pizza-for-you",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T20:14:09+00:00",
-      "score": 8,
-      "event_key": "doordash launches ai agent for sms ordering",
-      "title_ru": "DoorDash запускает ИИ-агента для заказа еды через SMS",
-      "threads_teaser_ru": "DoorDash запускает ИИ-агента, который будет заказывать еду за вас через SMS в iMessage. Бот подберет рестораны на основе истории ваших предпочтений. Сейчас функция доступна для бета-тестеров на iOS, а владельцам Android придется подождать.",
-      "telegram_message_id": "582",
-      "telegram_url": "https://t.me/gamepulse_newss/582",
-      "telegram_published_at": "2026-10-01T04:33:27.019607+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/04/01/cooking-1775053610172.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-01T04:33:28.465796+00:00"
-    },
-    {
       "fingerprint": "800304a734b15af5373844ba",
       "title": "Battlefield 6 - Community Update - Siege of Vegas Incoming",
       "url": "https://ea.com/games/battlefield/battlefield-6/news/battlefield-6-community-update-siege-of-vegas-incoming",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-26T22:32:20.067183+00:00"
+    },
+    {
+      "fingerprint": "62e3b7281c7f21ea7a8b29d0",
+      "title": "Composer Austin Wintory Shares 22 Minutes of Music Created for BioWare's Canceled Mass Effect 5",
+      "url": "https://ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T21:36:07+00:00",
+      "score": 13,
+      "event_key": "austin wintory shares music for canceled mass effect 5",
+      "title_ru": "Композитор Austin Wintory поделился музыкой для отмененной Mass Effect 5",
+      "threads_teaser_ru": "Композитор Austin Wintory выпустил 22 минуты музыки для отмененной EA и BioWare игры Mass Effect 5. Автор записал масштабные наброски с оркестром и синтезаторами.",
+      "telegram_message_id": "1783",
+      "telegram_url": "https://t.me/gamepulse_newss/1783",
+      "telegram_published_at": "2026-10-26T22:47:19.014616+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/mass-effect-composer-1793050179326.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T22:32:20.067273+00:00"
+  "updated_at": "2026-10-26T22:47:19.014888+00:00"
 }
