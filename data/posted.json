@@ -20497,9 +20497,10 @@
       "telegram_message_id": "1777",
       "telegram_url": "https://t.me/gamepulse_newss/1777",
       "telegram_published_at": "2026-10-26T19:47:08.788843+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300",
+      "threads_published_at": "2026-10-26T19:47:10.424530+00:00"
     }
   ],
-  "updated_at": "2026-10-26T19:47:08.788951+00:00"
+  "updated_at": "2026-10-26T19:47:10.424624+00:00"
 }
