@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0621aff7e4be8fe75baafcb9",
-      "title": "Sony’s Helldivers Movie Has Been Pushed Back",
-      "url": "https://gamespot.com/articles/sonys-helldivers-movie-has-been-pushed-back",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-30T22:16:13+00:00",
-      "score": 15,
-      "event_key": "sony helldivers movie release date delayed to 2028",
-      "title_ru": "Фильм по Helldivers отложили на 2028 год",
-      "threads_teaser_ru": "Sony Pictures перенесла дату выхода фильма по Helldivers с ноября 2027 года на июнь 2028 года. Главную роль в картине исполнит Алан Ричсон, а режиссером остается Джастин Лин.",
-      "telegram_message_id": "577",
-      "telegram_url": "https://t.me/gamepulse_newss/577",
-      "telegram_published_at": "2026-09-30T22:46:28.115746+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Helldivers-2.jpg?w=300",
-      "threads_published_at": "2026-09-30T22:46:29.334475+00:00"
-    },
-    {
       "fingerprint": "04cb67da3bd1de41e9374eb8",
       "title": "Can Xbox save Halo? | Point It Out!",
       "url": "https://polygon.com/video/can-xbox-save-halo-point-it-out",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300",
       "threads_published_at": "2026-10-26T19:47:10.424530+00:00"
+    },
+    {
+      "fingerprint": "2a553b50f49830b307fea4cf",
+      "title": "Emberville Delays Early Access Launch at the Last Minute",
+      "url": "https://ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T19:08:28+00:00",
+      "score": 15,
+      "event_key": "Emberville delays early access launch to January 2027",
+      "title_ru": "Emberville откладывает запуск в ранний доступ",
+      "threads_teaser_ru": "Студия Cygnus Cross экстренно перенесла запуск Emberville в ранний доступ. Вместо запланированного релиза игрокам придется подождать до 7 января 2027 года. Разработчики объяснили это решение желанием внедрить важные улучшения, включая переработку системы боя с луком.",
+      "telegram_message_id": "1778",
+      "telegram_url": "https://t.me/gamepulse_newss/1778",
+      "telegram_published_at": "2026-10-26T20:32:45.250770+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/emberville-1793041653782.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T19:47:10.424624+00:00"
+  "updated_at": "2026-10-26T20:32:45.251107+00:00"
 }
