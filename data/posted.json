@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c403b8793f45bda80c66fb05",
-      "title": "John Carpenter Calls 2011 The Thing Prequel a ‘Piece of Crap,’ but Some Fans Are Rushing to Its Defence",
-      "url": "https://ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T11:22:13+00:00",
-      "score": 7,
-      "event_key": "john carpenter criticizes the thing 2011 prequel",
-      "title_ru": "John Carpenter назвал приквел The Thing 2011 года «куском дерьма»",
-      "threads_teaser_ru": "Джон Карпентер жестко раскритиковал приквел The Thing 2011 года, назвав его «куском дерьма». Часть фанатов встала на защиту фильма, напомнив, что студия заменила практические эффекты на CGI.",
-      "telegram_message_id": "541",
-      "telegram_url": "https://t.me/gamepulse_newss/541",
-      "telegram_published_at": "2026-09-30T12:47:10.600671+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/john-carpenter-1790766892797.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T12:47:12.135737+00:00"
-    },
-    {
       "fingerprint": "7e62a85c28b3797a58b46df6",
       "title": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
       "url": "https://eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
@@ -20496,7 +20479,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_review_lead.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-26T00:17:08.398645+00:00"
+    },
+    {
+      "fingerprint": "24ab71d343922bb2e235cb39",
+      "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
+      "url": "https://polygon.com/best-snes-games-nintendo-switch-online-classics",
+      "source": "Polygon",
+      "published_at_source": "2026-10-26T02:44:34+00:00",
+      "score": 5,
+      "event_key": "best snes games nintendo switch online classics",
+      "title_ru": "Лучшие игры для SNES на Nintendo Switch Online",
+      "threads_teaser_ru": "Издание Polygon представило подборку из 10 лучших игр для Super Nintendo, доступных по подписке Nintendo Switch Online в разделе Nintendo Classics. В список вошли легендарные проекты Nintendo.",
+      "telegram_message_id": "1742",
+      "telegram_url": "https://t.me/gamepulse_newss/1742",
+      "telegram_published_at": "2026-10-26T02:47:06.426987+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4"
     }
   ],
-  "updated_at": "2026-10-26T00:17:08.398745+00:00"
+  "updated_at": "2026-10-26T02:47:06.427268+00:00"
 }
