@@ -20495,9 +20495,10 @@
       "telegram_message_id": "1765",
       "telegram_url": "https://t.me/gamepulse_newss/1765",
       "telegram_published_at": "2026-10-26T16:03:18.839765+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Scramble_KeyArt_4K-b5ea5cf3911ae6714042.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Scramble_KeyArt_4K-b5ea5cf3911ae6714042.jpg",
+      "threads_published_at": "2026-10-26T16:03:22.271504+00:00"
     }
   ],
-  "updated_at": "2026-10-26T16:03:18.839875+00:00"
+  "updated_at": "2026-10-26T16:03:22.271587+00:00"
 }
