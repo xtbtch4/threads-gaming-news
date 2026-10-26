@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "69c92063b9a70b69d545e3c1",
-      "title": "New Uncharted Game Featuring Nathan Drake Reportedly in the Works at Naughty Dog",
-      "url": "https://ign.com/articles/new-uncharted-game-featuring-nathan-drake-reportedly-in-the-works-at-naughty-dog",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T20:22:55+00:00",
-      "score": 9,
-      "event_key": "new uncharted game in development at naughty dog",
-      "title_ru": "В разработке находится новая Uncharted с Nathan Drake",
-      "threads_teaser_ru": "Студия Naughty Dog работает над новой игрой серии Uncharted с участием Nathan Drake. Проект находится на ранней стадии, а руководит им создатель Uncharted: The Lost Legacy. Известно, что это не ремейк, но деталей сюжета пока нет.",
-      "telegram_message_id": "574",
-      "telegram_url": "https://t.me/gamepulse_newss/574",
-      "telegram_published_at": "2026-09-30T21:47:50.071855+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets1.ignimgs.com/2010/12/09/uncharted-3-drakes-deception-20101209114238934-3364863.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T21:47:51.561270+00:00"
-    },
-    {
       "fingerprint": "81d2bacdc7281750bb2739dc",
       "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
       "url": "https://ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T18:47:22.454151+00:00"
+    },
+    {
+      "fingerprint": "3f4ecb69703f6ee5c16b1422",
+      "title": "Ghost of Yotei Developer Sucker Punch Hit With Layoffs",
+      "url": "https://ign.com/articles/ghost-of-yotei-developer-sucker-punch-hit-with-layoffs",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T17:23:57+00:00",
+      "score": 13,
+      "event_key": "Sucker Punch studio layoffs Ghost of Yotei",
+      "title_ru": "Sucker Punch, разработчик Ghost of Yotei, объявила о сокращениях штата",
+      "threads_teaser_ru": "Разработчики Ghost of Yotei из студии Sucker Punch столкнулись с сокращениями: компанию покинули 26 сотрудников. Руководство объяснило решение рыночными условиями и изменением планов по разработке следующего проекта.",
+      "telegram_message_id": "1775",
+      "telegram_url": "https://t.me/gamepulse_newss/1775",
+      "telegram_published_at": "2026-10-26T19:03:11.250916+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/09/25/scwk6j-1758769803399.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T18:47:22.454251+00:00"
+  "updated_at": "2026-10-26T19:03:11.251413+00:00"
 }
