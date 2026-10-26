@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7b681dba99a79de3b870a7ec",
-      "title": "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again",
-      "url": "https://rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-09-30T15:30:00+00:00",
-      "score": 14,
-      "event_key": "grasshopper manufacture splits from netease and goes indie",
-      "title_ru": "Grasshopper Manufacture снова стала независимой студией",
-      "threads_teaser_ru": "Студия Grasshopper Manufacture объявила о выходе из состава NetEase и возвращении к независимому статусу. Разработчики планируют и дальше создавать уникальные игры.",
-      "telegram_message_id": "552",
-      "telegram_url": "https://t.me/gamepulse_newss/552",
-      "telegram_published_at": "2026-09-30T15:47:10.985318+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Romeo-is-a-Dead-Man-review.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T15:47:12.793542+00:00"
-    },
-    {
       "fingerprint": "25edcc9c140616425c4676f5",
       "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension Physical Bundle Announced",
       "url": "https://ign.com/articles/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-physical-bundle-announced",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-femshep.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T11:32:28.138841+00:00"
+    },
+    {
+      "fingerprint": "377213f64f72dab7892ffd21",
+      "title": "32-year-old \"ellipsoid\" horror game Ecstatica gets a PC re-release today, showing us an alternative timeline in which polygonal 3D never became dominant",
+      "url": "https://rockpapershotgun.com/32-year-old-ellipsoid-horror-game-ecstatica-gets-a-pc-re-release-today-showing-us-an-alternative-timeline-in-which-polygonal-3d-never-became-dominant",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-26T11:35:00+00:00",
+      "score": 10,
+      "event_key": "ecstatica_pc_re_release_sneg_games",
+      "title_ru": "Хоррор Ecstatica и его сиквел получили переиздание на ПК",
+      "threads_teaser_ru": "Классический хоррор Ecstatica и его продолжение вернулись на ПК благодаря издательству SNEG Games. Игра известна уникальной графикой на эллипсоидах вместо привычных 3D-полигонов.",
+      "telegram_message_id": "1753",
+      "telegram_url": "https://t.me/gamepulse_newss/1753",
+      "telegram_published_at": "2026-10-26T11:47:13.881096+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ecstatica.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-26T11:32:28.138934+00:00"
+  "updated_at": "2026-10-26T11:47:13.881306+00:00"
 }
