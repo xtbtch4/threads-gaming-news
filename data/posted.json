@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7e62a85c28b3797a58b46df6",
-      "title": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
-      "url": "https://eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-30T12:54:26+00:00",
-      "score": 15,
-      "event_key": "monster hunter wilds switch 2 performance capcom interview",
-      "title_ru": "Capcom рассказала о создании Monster Hunter Wilds для Switch 2",
-      "threads_teaser_ru": "Capcom поделилась подробностями создания порта Monster Hunter Wilds для Switch 2. Разработчикам пришлось пройти через сложный процесс оптимизации, чтобы добиться стабильных 30 FPS.",
-      "telegram_message_id": "542",
-      "telegram_url": "https://t.me/gamepulse_newss/542",
-      "telegram_published_at": "2026-09-30T13:02:25.942384+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mhw-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T13:02:27.271364+00:00"
-    },
-    {
       "fingerprint": "adc461478d40680da91a6a71",
       "title": "28 Years Later Part 3 'Will Get Made,' Danny Boyle Insists — and Cillian Murphy Will Be in It 'A Lot'",
       "url": "https://ign.com/articles/28-years-later-part-3-will-get-made-danny-boyle-insists-and-cillian-murphy-will-be-in-it-a-lot",
@@ -20497,7 +20480,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4",
       "threads_published_at": "2026-10-26T02:47:07.928007+00:00"
+    },
+    {
+      "fingerprint": "d45a79bee7f0cc3235d7d637",
+      "title": "Mass Effect's Commander Shepard Actors, Destiny Community Help #SaveMassEffect Petition Cross 200,000 Signatures",
+      "url": "https://ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T02:03:53+00:00",
+      "score": 11,
+      "event_key": "save-mass-effect-petition-crosses-200000-signatures",
+      "title_ru": "Петиция #SaveMassEffect преодолела отметку в 200 000 подписей при поддержке актёров и сообществ",
+      "threads_teaser_ru": "Петиция #SaveMassEffect собрала более 200 000 подписей после закрытия BioWare и отмены Mass Effect 5. Акцию поддержали актёры озвучки Commander Shepard, а также сообщество Destiny и разработчики Owlcat Games.",
+      "telegram_message_id": "1743",
+      "telegram_url": "https://t.me/gamepulse_newss/1743",
+      "telegram_published_at": "2026-10-26T03:02:08.515198+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/25/mass-effect-shepard-1792972518127.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T02:47:07.928117+00:00"
+  "updated_at": "2026-10-26T03:02:08.515499+00:00"
 }
