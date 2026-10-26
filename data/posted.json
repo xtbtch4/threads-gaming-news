@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e299b7967927ada2ea8d18d0",
-      "title": "Fallout 76: Letter from the Directors – September 2026",
-      "url": "https://fallout.bethesda.net/en-US/news/letter-from-the-directors-september-2026",
-      "source": "Bethesda",
-      "published_at_source": "2026-09-30T00:00:00+00:00",
-      "score": 13,
-      "event_key": "fallout-76-roadmap-september-2026",
-      "title_ru": "Bethesda представила дорожную карту Fallout 76 до лета 2027 года",
-      "threads_teaser_ru": "Bethesda раскрыла планы развития Fallout 76 до лета 2027 года. Зимой игроков ждет обновление с питомцами, охота за головами в Skyline Valley и новые опасные убежища.",
-      "telegram_message_id": "550",
-      "telegram_url": "https://t.me/gamepulse_newss/550",
-      "telegram_published_at": "2026-09-30T15:17:33.446902+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--06oIGwIP--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/FO76_WorldPetsPressEvent_Screenshots_3_ecv8jw",
-      "threads_published_at": "2026-09-30T15:17:35.284596+00:00"
-    },
-    {
       "fingerprint": "94edc23c070c85972db759a3",
       "title": "PlayStation Plus Monthly Games for October: F1 25, Hunt: Showdown 1896, Earth Defense Force: World Brothers 2",
       "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/26/gettyimages-1236597522-1793011807415.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-26T11:02:26.635415+00:00"
+    },
+    {
+      "fingerprint": "bf2448b62b634d870b2d5283",
+      "title": "Xbox Seeks Partner to Support Arkane Lyon as It Finishes Marvel's Blade, Extends Search for Buyer",
+      "url": "https://ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T10:19:18+00:00",
+      "score": 11,
+      "event_key": "Microsoft seeks partner for Arkane Lyon and extends sale deadline",
+      "title_ru": "Microsoft ищет партнера для поддержки Arkane Lyon в работе над Marvel's Blade",
+      "threads_teaser_ru": "Microsoft ищет партнера, который поможет Arkane Lyon закончить разработку Marvel's Blade, и продлила время на поиск покупателя для студии. Закрытие французской команды из 217 человек оказалось для корпорации слишком дорогим процессом.",
+      "telegram_message_id": "1751",
+      "telegram_url": "https://t.me/gamepulse_newss/1751",
+      "telegram_published_at": "2026-10-26T11:17:19.661194+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/22/marvels-blade-game-1782147140341.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T11:02:26.635516+00:00"
+  "updated_at": "2026-10-26T11:17:19.661572+00:00"
 }
