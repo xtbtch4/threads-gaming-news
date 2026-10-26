@@ -20494,10 +20494,11 @@
       "telegram_message_id": "1748",
       "telegram_url": "https://t.me/gamepulse_newss/1748",
       "telegram_published_at": "2026-10-26T10:32:16.673829+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sword-world-rpg-header.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
+      "threads_published_at": "2026-10-26T10:32:18.026143+00:00"
     }
   ],
-  "updated_at": "2026-10-26T10:32:16.674078+00:00"
+  "updated_at": "2026-10-26T10:32:18.026262+00:00"
 }
