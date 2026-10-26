@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7e81c1f5fd5c2751b926bd72",
-      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "url": "https://eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-30T17:04:55+00:00",
-      "score": 13,
-      "event_key": "GTA 6 re-engineered weather systems and animal species",
-      "title_ru": "Rockstar Games переработала систему погоды в GTA 6",
-      "threads_teaser_ru": "В GTA 6 появится полностью переработанная система погоды с ураганами, радугами и локальными штормами. Rockstar Games обещают, что мир игры станет динамичнее: последствия дождя, вроде мокрых дорог, будут сохраняться долгое время. А еще в игре будет более 170 видов животных.",
-      "telegram_message_id": "557",
-      "telegram_url": "https://t.me/gamepulse_newss/557",
-      "telegram_published_at": "2026-09-30T17:17:47.464951+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T17:17:49.036600+00:00"
-    },
-    {
       "fingerprint": "e377e7949874bdaa64805cd1",
       "title": "The Elder Scrolls Online: Seek Sunken Treasures During the High Seas of Tamriel Event",
       "url": "https://news.xbox.com/en-us/2026/09/30/the-elder-scrolls-online-seek-sunken-treasures-during-the-high-seas-of-tamriel-event",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX_TMO_16x9-R2D-4f063534a7b256d7123f.jpg",
       "threads_published_at": "2026-10-26T13:02:56.669902+00:00"
+    },
+    {
+      "fingerprint": "9af4b619d0d1e17439e4edc4",
+      "title": "Xbox Veteran Who Just Got Promoted Under Asha Sharma Promptly Leaves Amid Mysterious Circumstances",
+      "url": "https://gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-26T12:47:48+00:00",
+      "score": 12,
+      "event_key": "Xbox chief operating officer Helen Chiang leaves company",
+      "title_ru": "Главный операционный директор Xbox Helen Chiang покинула компанию",
+      "threads_teaser_ru": "Helen Chiang, ставшая первым в истории главным операционным директором Xbox всего несколько месяцев назад, покинула свой пост. Сообщается, что причиной стали нарушения корпоративной политики, однако официальных подробностей инцидента компания не раскрывает.",
+      "telegram_message_id": "1758",
+      "telegram_url": "https://t.me/gamepulse_newss/1758",
+      "telegram_published_at": "2026-10-26T13:17:40.058170+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox.png?w=300"
     }
   ],
-  "updated_at": "2026-10-26T13:02:56.669996+00:00"
+  "updated_at": "2026-10-26T13:17:40.058465+00:00"
 }
