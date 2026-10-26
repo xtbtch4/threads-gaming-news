@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "93d34947ab13c1537a153584",
-      "title": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could",
-      "url": "https://polygon.com/gta-6-wildlife-hunting-animals",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T17:48:41+00:00",
-      "score": 14,
-      "event_key": "gta-6-wildlife-system-170-animals-announced",
-      "title_ru": "В Grand Theft Auto 6 появится более 170 видов животных",
-      "threads_teaser_ru": "Rockstar Games поделилась новыми подробностями о Grand Theft Auto 6. В игре заявлено более 170 уникальных животных, включая ламантинов и аллигаторов, а также детальная симуляция шерсти и поведения фауны.",
-      "telegram_message_id": "559",
-      "telegram_url": "https://t.me/gamepulse_newss/559",
-      "telegram_published_at": "2026-09-30T18:02:37.480042+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/polygon-stock-art-gta-6-jason-duval-4.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-09-30T18:02:38.977471+00:00"
-    },
-    {
       "fingerprint": "b723cd8434b73533c525d349",
       "title": "You Can Hate The Sonic Movies, But They Help The Games Get Made, Sega Says",
       "url": "https://gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fallout-new-vegas-van-buren-pip-boy-01.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T13:32:47.377984+00:00"
+    },
+    {
+      "fingerprint": "9ff0549a8f4d2eec6cd8ae8c",
+      "title": "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI — Now He's Public Enemy Number One",
+      "url": "https://ign.com/articles/50000-dollar-ps5-exploit-found-with-ai",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T12:59:38+00:00",
+      "score": 9,
+      "event_key": "hacker_gets_50k_from_sony_for_ai_ps5_exploit",
+      "title_ru": "Хакер получил от Sony 50 тысяч долларов за найденный с помощью ИИ эксплойт для PS5",
+      "threads_teaser_ru": "Хакер получил от Sony 50 000 долларов за уязвимость в PS5, найденную с помощью ИИ. Из-за этого был сорван план сообщества использовать эксплойт для запуска Linux в день релиза GTA 6, что привело к скандалу.",
+      "telegram_message_id": "1760",
+      "telegram_url": "https://t.me/gamepulse_newss/1760",
+      "telegram_published_at": "2026-10-26T13:47:14.331518+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/ps5-1793019496411.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T13:32:47.378074+00:00"
+  "updated_at": "2026-10-26T13:47:14.331699+00:00"
 }
