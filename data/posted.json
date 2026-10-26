@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c672cdf47e8fc3f02dce6998",
-      "title": "Resident Evil Requiem Producer “Explains” Game’s Title, Confusing Us More",
-      "url": "https://gamespot.com/articles/resident-evil-requiem-producer-explains-games-title-confusing-us-more",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-30T21:00:33+00:00",
-      "score": 13,
-      "event_key": "resident-evil-requiem-producer-explains-title-and-crossover",
-      "title_ru": "Продюсер Resident Evil Requiem запутанно объяснил значение названия игры",
-      "threads_teaser_ru": "Продюсер Resident Evil Jun Takeuchi объяснил необычное значение названия Resident Evil Requiem и намекнул на масштабный кроссовер между номерными частями и серией ремейков, подготовка к которому ведется еще со времен Resident Evil Village.",
-      "telegram_message_id": "572",
-      "telegram_url": "https://t.me/gamepulse_newss/572",
-      "telegram_published_at": "2026-09-30T21:16:38.747121+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1639/16394322/4658267-4655296-resident-evil-requiem-basement-.jpg?w=300",
-      "threads_published_at": "2026-09-30T21:16:40.199400+00:00"
-    },
-    {
       "fingerprint": "121909793ed5fa03aa5d224b",
       "title": "The Zarimi Cordless Electric Air Duster for PC Maintenance Drops to $19.79 Ahead of Prime Day",
       "url": "https://ign.com/articles/best-cordless-electric-air-duster-deal-september-2026",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/microsoft-ice-reliance-no-azure-for-apartheid-statement-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T17:47:39.779026+00:00"
+    },
+    {
+      "fingerprint": "7ccd1e6cb02e070758944250",
+      "title": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\"",
+      "url": "https://eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-26T17:48:33+00:00",
+      "score": 15,
+      "event_key": "sucker punch lays off twenty six developers",
+      "title_ru": "Sucker Punch сократила 26 разработчиков",
+      "threads_teaser_ru": "Студия Sucker Punch провела сокращения штата, затронувшие 26 сотрудников. Руководство объяснило это сложной ситуацией в индустрии и потребностями нового неанонсированного проекта.",
+      "telegram_message_id": "1773",
+      "telegram_url": "https://t.me/gamepulse_newss/1773",
+      "telegram_published_at": "2026-10-26T18:03:06.872731+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-26T17:47:39.779121+00:00"
+  "updated_at": "2026-10-26T18:03:06.873017+00:00"
 }
