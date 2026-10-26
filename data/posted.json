@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "aee55600bd4787a96558ff71",
-      "title": "The Splinter Cell Remake Is Still Lurking In The Shadows",
-      "url": "https://gamespot.com/articles/the-splinter-cell-remake-is-still-lurking-in-the-shadows",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-30T11:40:00+00:00",
-      "score": 14,
-      "event_key": "splinter cell remake still in development after five years",
-      "title_ru": "Ремейк Splinter Cell по-прежнему находится в разработке",
-      "threads_teaser_ru": "С момента анонса ремейка оригинальной игры Splinter Cell прошло почти пять лет, но разработчики до сих пор не показали ни трейлера, ни геймплейных кадров.",
-      "telegram_message_id": "562",
-      "telegram_url": "https://t.me/gamepulse_newss/562",
-      "telegram_published_at": "2026-09-30T18:47:24.700244+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-09-30T18:47:26.551485+00:00"
-    },
-    {
       "fingerprint": "2643532ca090e3d52344a0c4",
       "title": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
       "url": "https://eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/steam-personal-calendar-final-release-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-26T14:17:29.815016+00:00"
+    },
+    {
+      "fingerprint": "f38ffa08d564631c7a7d163c",
+      "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
+      "url": "https://gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-26T14:23:35+00:00",
+      "score": 15,
+      "event_key": "arkane-lyon-search-buyer-marvels-blade-microsoft",
+      "title_ru": "Arkane Lyon получила дополнительное время на поиски нового владельца для завершения Marvel's Blade",
+      "threads_teaser_ru": "Microsoft продлила период консультаций для поиска нового владельца Arkane Lyon еще на месяц. Студия продолжает работу над Marvel's Blade, а эксперты отмечают высокую стоимость закрытия французского подразделения.",
+      "telegram_message_id": "1763",
+      "telegram_url": "https://t.me/gamepulse_newss/1763",
+      "telegram_published_at": "2026-10-26T14:47:23.459715+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Marvel-Blade.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-26T14:17:29.815102+00:00"
+  "updated_at": "2026-10-26T14:47:23.459847+00:00"
 }
