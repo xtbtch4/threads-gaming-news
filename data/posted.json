@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7188f5af31bdff0ade2db9d5",
-      "title": "24 Jump Street Gets December 2027 Release Date, Original Cast Returning",
-      "url": "https://ign.com/articles/24-jump-street-gets-december-2027-release-date-original-cast-returning",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T21:13:20+00:00",
-      "score": 11,
-      "event_key": "24-jump-street-december-2027-release-date",
-      "title_ru": "24 Jump Street получил дату релиза и вернет оригинальный актерский состав",
-      "threads_teaser_ru": "Компания Sony назначила дату релиза комедии 24 Jump Street на 10 декабря 2027 года. К главным ролям вернутся Ченнинг Татум, Джона Хилл и Айс Кьюб.",
-      "telegram_message_id": "576",
-      "telegram_url": "https://t.me/gamepulse_newss/576",
-      "telegram_published_at": "2026-09-30T22:17:03.889514+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/10/22jumpstreet-new-1781133185698.webp?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T22:17:05.590871+00:00"
-    },
-    {
       "fingerprint": "0621aff7e4be8fe75baafcb9",
       "title": "Sony’s Helldivers Movie Has Been Pushed Back",
       "url": "https://gamespot.com/articles/sonys-helldivers-movie-has-been-pushed-back",
@@ -20500,7 +20483,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4",
       "threads_published_at": "2026-10-26T19:33:17.614844+00:00"
+    },
+    {
+      "fingerprint": "9e5a7256b252ad8ae310b123",
+      "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
+      "url": "https://gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-26T19:14:12+00:00",
+      "score": 15,
+      "event_key": "diablo-4-season-16-war-plans-update",
+      "title_ru": "Система War Plans в Diablo 4 получит масштабные улучшения в Season 16",
+      "threads_teaser_ru": "В Season 16 для Diablo 4 система War Plans получит крупное обновление с новой мета-прогрессией War Plans Tactics, измененной системой рероллов и сезонным древом Tyrael's Boons.",
+      "telegram_message_id": "1777",
+      "telegram_url": "https://t.me/gamepulse_newss/1777",
+      "telegram_published_at": "2026-10-26T19:47:08.788843+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-26T19:33:17.614979+00:00"
+  "updated_at": "2026-10-26T19:47:08.788951+00:00"
 }
