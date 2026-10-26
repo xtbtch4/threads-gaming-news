@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "54ea9c70051d63ee3c4c374b",
-      "title": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world",
-      "url": "https://eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-30T14:00:34+00:00",
-      "score": 9,
-      "event_key": "Invoke Studios Warlock Dungeons & Dragons development details",
-      "title_ru": "Разработчики Warlock: Dungeons & Dragons рассказали об особенностях открытого мира и магии",
-      "threads_teaser_ru": "Разработчики Warlock: Dungeons & Dragons из Invoke Studios поделились планами на игру. Вместо бесконечных пустых пространств авторы делают ставку на плотный открытый мир, реактивность магии и поощрение любопытства, стараясь избежать типичных для жанра штампов.",
-      "telegram_message_id": "548",
-      "telegram_url": "https://t.me/gamepulse_newss/548",
-      "telegram_published_at": "2026-09-30T14:33:28.345752+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/warlock-header-closer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-09-30T14:33:30.068845+00:00"
-    },
-    {
       "fingerprint": "f4c3a1b47ee4bfa3c2e06d00",
       "title": "End of Abyss: Explore and Fight Through the Abyss’ Horror",
       "url": "https://news.xbox.com/en-us/2026/09/30/end-of-abyss-xbox-launch",
@@ -20498,7 +20481,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sword-world-rpg-header.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
       "threads_published_at": "2026-10-26T10:32:18.026143+00:00"
+    },
+    {
+      "fingerprint": "d9f7bb0bc363f8a3e3d9ddbb",
+      "title": "Pokémon Go November 2026 event and raid schedule",
+      "url": "https://eurogamer.net/pokemon-go-november-2026-event-raid-schedule",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-26T02:46:00+00:00",
+      "score": 6,
+      "event_key": "pokemon go november 2026 event and raid schedule",
+      "title_ru": "Расписание событий и рейдов в Pokémon Go на ноябрь 2026 года",
+      "threads_teaser_ru": "Стало известно расписание событий, рейдов и мероприятий в Pokémon Go на ноябрь 2026 года. Главным фокусом месяца станет Go Wild Area 2026: Global и связанные с ним активности.",
+      "telegram_message_id": "1749",
+      "telegram_url": "https://t.me/gamepulse_newss/1749",
+      "telegram_published_at": "2026-10-26T10:46:55.843157+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Pokemon-Go-November-2026-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-26T10:32:18.026262+00:00"
+  "updated_at": "2026-10-26T10:46:55.843465+00:00"
 }
