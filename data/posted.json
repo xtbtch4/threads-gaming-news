@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "adc461478d40680da91a6a71",
-      "title": "28 Years Later Part 3 'Will Get Made,' Danny Boyle Insists — and Cillian Murphy Will Be in It 'A Lot'",
-      "url": "https://ign.com/articles/28-years-later-part-3-will-get-made-danny-boyle-insists-and-cillian-murphy-will-be-in-it-a-lot",
-      "source": "IGN",
-      "published_at_source": "2026-09-30T12:00:54+00:00",
-      "score": 11,
-      "event_key": "danny-boyle-confirms-28-years-later-part-3-happening",
-      "title_ru": "Режиссер подтвердил планы на съемки третьей части 28 Years Later",
-      "threads_teaser_ru": "Режиссер Danny Boyle заверил, что третья часть 28 Years Later обязательно выйдет, а Cillian Murphy сыграет в ней большую роль. Готовый сценарий уже написал Alex Garland, однако Sony проект пока не утвердила.",
-      "telegram_message_id": "543",
-      "telegram_url": "https://t.me/gamepulse_newss/543",
-      "telegram_published_at": "2026-09-30T13:18:45.974100+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/06/18/28-days-later-danny-boyle-best-movies-thumb-1750279639346.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-09-30T13:18:47.923977+00:00"
-    },
-    {
       "fingerprint": "5a505e4f218dfaaef36590aa",
       "title": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
       "url": "https://eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/25/mass-effect-shepard-1792972518127.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-26T03:02:09.729838+00:00"
+    },
+    {
+      "fingerprint": "7f7a783e8662c865ac8f8877",
+      "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
+      "url": "https://ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T03:28:52+00:00",
+      "score": 15,
+      "event_key": "dragon ball xenoverse 2 10th anniversary update",
+      "title_ru": "Dragon Ball Xenoverse 2 получит праздничное обновление в честь 10-летия",
+      "threads_teaser_ru": "Bandai Namco анонсировала двухчастное обновление к 10-летию Dragon Ball Xenoverse 2, которое принесет редкие предметы, костюмы и награды для будущей Dragon Ball Xenoverse 3.",
+      "telegram_message_id": "1744",
+      "telegram_url": "https://t.me/gamepulse_newss/1744",
+      "telegram_published_at": "2026-10-26T04:02:36.654559+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/dragon-ball-xenoverse-2-1792984932660.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T03:02:09.729922+00:00"
+  "updated_at": "2026-10-26T04:02:36.654674+00:00"
 }
