@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "81efc0bd7f3836d5c20b2d2f",
-      "title": "Ex-PlayStation Boss Has Some Advice For Xbox: “Pick A Lane”",
-      "url": "https://gamespot.com/articles/ex-playstation-boss-has-some-advice-for-xbox-pick-a-lane",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-30T13:58:51+00:00",
-      "score": 12,
-      "event_key": "ex playstation boss shawn layden gives advice to xbox",
-      "title_ru": "Бывший глава PlayStation посоветовал Xbox определиться со стратегией",
-      "threads_teaser_ru": "Бывший глава PlayStation Шон Лайден посоветовал Xbox определиться со стратегией и выбрать один путь развития: либо конкурировать на рынке железа, либо полностью уйти в издательство игр.",
-      "telegram_message_id": "547",
-      "telegram_url": "https://t.me/gamepulse_newss/547",
-      "telegram_published_at": "2026-09-30T14:16:53.415626+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.jpg?w=300",
-      "threads_published_at": "2026-09-30T14:16:55.421193+00:00"
-    },
-    {
       "fingerprint": "54ea9c70051d63ee3c4c374b",
       "title": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world",
       "url": "https://eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
@@ -20497,7 +20480,24 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/10/eff4855b16a092b26b26caeee292ff736efc92b9.jpg",
       "threads_published_at": "2026-10-26T10:17:00.909862+00:00"
+    },
+    {
+      "fingerprint": "25576dc72460fb91d5dd72fb",
+      "title": "D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day",
+      "url": "https://polygon.com/sword-world-rpg-crowdfunding-backerkit-success",
+      "source": "Polygon",
+      "published_at_source": "2026-10-26T09:59:38+00:00",
+      "score": 10,
+      "event_key": "sword-world-rpg-backerkit-crowdfunding-success",
+      "title_ru": "Настольная игра Sword World RPG собрала более $2 млн за сутки на BackerKit",
+      "threads_teaser_ru": "Англоязычная адаптация популярной японской настольной игры Sword World RPG собрала более $2 млн за сутки на BackerKit. Кампания продлится до 20 ноября, а релиз ожидается в декабре 2027 года.",
+      "telegram_message_id": "1748",
+      "telegram_url": "https://t.me/gamepulse_newss/1748",
+      "telegram_published_at": "2026-10-26T10:32:16.673829+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sword-world-rpg-header.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4"
     }
   ],
-  "updated_at": "2026-10-26T10:17:00.909965+00:00"
+  "updated_at": "2026-10-26T10:32:16.674078+00:00"
 }
