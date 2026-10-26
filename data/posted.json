@@ -20495,9 +20495,10 @@
       "telegram_message_id": "1751",
       "telegram_url": "https://t.me/gamepulse_newss/1751",
       "telegram_published_at": "2026-10-26T11:17:19.661194+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/22/marvels-blade-game-1782147140341.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/22/marvels-blade-game-1782147140341.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-26T11:17:21.073042+00:00"
     }
   ],
-  "updated_at": "2026-10-26T11:17:19.661572+00:00"
+  "updated_at": "2026-10-26T11:17:21.073141+00:00"
 }
