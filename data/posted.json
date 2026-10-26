@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1a4e19ae5649132820c83c3d",
-      "title": "Lego's Sony PlayStation Set Officially Launches This Week",
-      "url": "https://polygon.com/lego-playstation-price-release-date-availability-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-01T01:14:55+00:00",
-      "score": 12,
-      "event_key": "lego-sony-playstation-set-release",
-      "title_ru": "Lego и Sony анонсировали набор PlayStation из кубиков",
-      "threads_teaser_ru": "Lego и Sony представили набор оригинальной PlayStation из 1911 деталей. Конструктор включает контроллер, диорамы с отсылками к Gran Turismo и Ape Escape, а также работает кнопка открытия крышки.",
-      "telegram_message_id": "581",
-      "telegram_url": "https://t.me/gamepulse_newss/581",
-      "telegram_published_at": "2026-10-01T01:16:54.629916+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/72306_lifestyle_envr_01.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-01T01:16:55.937207+00:00"
-    },
-    {
       "fingerprint": "35c5f2fcbbdd91ef8dce7de0",
       "title": "Ordering DoorDash Is Too Hard, So an AI Agent Will Soon Be Able to Order Pizza for You",
       "url": "https://ign.com/articles/ordering-doordash-is-too-hard-so-an-ai-agent-will-soon-be-able-to-order-pizza-for-you",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-26T22:16:56.166083+00:00"
+    },
+    {
+      "fingerprint": "ae7d2a8d047e0283f1822089",
+      "title": "GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
+      "url": "https://ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T21:42:48+00:00",
+      "score": 13,
+      "event_key": "gta-6-release-time-off-requests-spike",
+      "title_ru": "Релиз GTA 6 привел к росту числа запросов на отгулы на 17%",
+      "threads_teaser_ru": "Выход GTA 6 привел к росту запросов на отгулы на 19 ноября на 17%, а экономисты оценивают потенциальные потери производительности в США в $1 млрд. Игра выходит на PS5 и Xbox Series X|S.",
+      "telegram_message_id": "1782",
+      "telegram_url": "https://t.me/gamepulse_newss/1782",
+      "telegram_published_at": "2026-10-26T22:32:18.673013+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-26T22:16:56.166174+00:00"
+  "updated_at": "2026-10-26T22:32:18.673160+00:00"
 }
