@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3cccc83dd03145cc18c7df46",
-      "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
-      "url": "https://ign.com/articles/miami-heat-gta-6-uniform",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T14:11:47+00:00",
-      "score": 11,
-      "event_key": "Miami Heat to wear GTA 6 uniforms in November match",
-      "title_ru": "Miami Heat сыграет в форме с символикой GTA 6",
-      "threads_teaser_ru": "Баскетболисты Miami Heat готовятся к необычному матчу против Milwaukee Bucks: 18 ноября команда выйдет на паркет в форме, вдохновленной GTA 6. Мероприятие получило название «A Night in Vice City» и пройдет всего за день до официального релиза долгожданного хита Rockstar Games.",
-      "telegram_message_id": "628",
-      "telegram_url": "https://t.me/gamepulse_newss/628",
-      "telegram_published_at": "2026-10-02T15:03:49.217440+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T15:03:50.852660+00:00"
-    },
-    {
       "fingerprint": "182664a39dd13ef31c4f6bd4",
       "title": "Batman, Lord of the Rings and Harry Potter Feature in First Trailer for Skydance, The Newly-Named Parent Company For a Merged Warner Bros. and Paramount",
       "url": "https://ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_11-1.jpg?w=300",
       "threads_published_at": "2026-10-27T20:02:52.931954+00:00"
+    },
+    {
+      "fingerprint": "a363dfb78f03d50186018c2e",
+      "title": "The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish",
+      "url": "https://gamespot.com/articles/the-most-unexpectedly-emotional-trailer-of-the-year-is-for-a-game-about-drawing-fish",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-27T14:16:51+00:00",
+      "score": 11,
+      "event_key": "release date announcement and trailer for Drawquarium",
+      "title_ru": "Вышел эмоциональный трейлер игры Drawquarium",
+      "threads_teaser_ru": "Трейлер игры Drawquarium оказался куда глубже, чем просто анонс симулятора с рыбками. Видео за три минуты успело поднять тему ИИ-арта и радости творчества, а сама игра выйдет 13 ноября.",
+      "telegram_message_id": "1829",
+      "telegram_url": "https://t.me/gamepulse_newss/1829",
+      "telegram_published_at": "2026-10-27T20:17:27.880925+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-9.09.29-AM.png?w=300"
     }
   ],
-  "updated_at": "2026-10-27T20:02:52.932078+00:00"
+  "updated_at": "2026-10-27T20:17:27.881313+00:00"
 }
