@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f6757908c94bc397b80da4ef",
-      "title": "Jason Jones, Co-Creator of Halo and Destiny and Co-Founder of Bungie, Announces New Studio",
-      "url": "https://ign.com/articles/jason-jones-co-creator-of-halo-and-destiny-and-co-founder-of-bungie-announces-new-studio",
-      "source": "IGN",
-      "published_at_source": "2026-10-01T14:42:37+00:00",
-      "score": 13,
-      "event_key": "jason jones announces new studio stone kite",
-      "title_ru": "Сооснователь Bungie Джейсон Джонс анонсировал новую студию Stone Kite",
-      "threads_teaser_ru": "Сооснователь Bungie и соавтор Halo и Джейсон Джонс основал новую студию Stone Kite вместе с Маргарет Стол. Дебютным проектом стала серия комиксов One Zero One.",
-      "telegram_message_id": "599",
-      "telegram_url": "https://t.me/gamepulse_newss/599",
-      "telegram_published_at": "2026-10-01T15:16:59.034978+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/ono-thumb-2-1790707706703.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-01T15:17:00.434297+00:00"
-    },
-    {
       "fingerprint": "2c16545d2e19048ead50785f",
       "title": "Free Play Days – FARCRY 6, Assassin’s Creed Odyssey, Avatar: Frontiers of Pandora, Skull and Bones, The Crew Motorfest",
       "url": "https://news.xbox.com/en-us/2026/10/01/free-play-days-01-10-2026",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/26/buckshot-roulette-game-bar-japan-viral-1793058124830.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T09:02:06.134054+00:00"
+    },
+    {
+      "fingerprint": "b4dd120904067cee6f75b65b",
+      "title": "The GameMaker engine series behind Undertale, Hotline Miami and Spelunky is going free for commercial use on PC",
+      "url": "https://rockpapershotgun.com/the-gamemaker-engine-series-behind-undertale-hotline-miami-and-spelunky-is-going-free-for-commercial-use-on-pc",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-26T18:15:00+00:00",
+      "score": 8,
+      "event_key": "GameMaker engine becomes free for commercial use on PC",
+      "title_ru": "GameMaker станет бесплатным для коммерческих релизов на PC",
+      "threads_teaser_ru": "С 1 января 2027 года GameMaker станет бесплатным для коммерческой публикации игр на PC, веб-платформах и мобильных устройствах. Для консольных релизов по-прежнему потребуется лицензия Enterprise.",
+      "telegram_message_id": "1800",
+      "telegram_url": "https://t.me/gamepulse_newss/1800",
+      "telegram_published_at": "2026-10-27T09:17:31.344936+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/spelunky-classic-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T09:02:06.134143+00:00"
+  "updated_at": "2026-10-27T09:17:31.345291+00:00"
 }
