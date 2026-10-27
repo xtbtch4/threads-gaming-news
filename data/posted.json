@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "55f766b1eba91625ab6e9032",
-      "title": "A Colossal Update and Two DLCs Come to Bulwark: Falconeer Chronicles",
-      "url": "https://news.xbox.com/en-us/2026/10/01/a-colossal-update-and-two-dlcs-come-to-bulwark-falconeer-chronicles",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-01T13:00:00+00:00",
-      "score": 16,
-      "event_key": "bulwark_falconeer_chronicles_colossal_update_two_dlcs_release",
-      "title_ru": "Масштабное обновление и два DLC вышли для Bulwark: Falconeer Chronicles",
-      "threads_teaser_ru": "Для Bulwark: Falconeer Chronicles вышло масштабное обновление и два дополнения: Verne Bannerless и Medieval Houses. Игроков ждет гигантский разведчик Behemoth, новые типы стен и многое другое на XBOX и PC.",
-      "telegram_message_id": "590",
-      "telegram_url": "https://t.me/gamepulse_newss/590",
-      "telegram_published_at": "2026-10-01T13:02:21.326358+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Picture-1-Colossal-Update-and-DLC-526ff9b18a01cd6a6e1e.jpg",
-      "threads_published_at": "2026-10-01T13:02:22.744417+00:00"
-    },
-    {
       "fingerprint": "73c604e4cce3a21bad2e9b63",
       "title": "Ubisoft’s Massive Entertainment Rebrand Has Made The Name Much More Literal And Slightly Confusing",
       "url": "https://gamespot.com/articles/ubisofts-massive-entertainment-rebrand-has-made-the-name-much-more-literal-and-slightly-confusing",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-reason-korra-caused-the-cataclysm-_-avatar_-seven-havens-ep-7-4-35-screenshot.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-27T05:32:24.841368+00:00"
+    },
+    {
+      "fingerprint": "5ad0dc07c91d891861885a08",
+      "title": "Red Rising Director Francis Lawrence Says YA Series' Movie Adaptation Is a 'Priority' at Paramount Following Shelved Netflix Show",
+      "url": "https://ign.com/articles/red-rising-director-francis-lawrence-says-ya-series-movie-adaptation-is-a-priority-at-paramount-following-shelved-netflix-show",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T21:45:31+00:00",
+      "score": 10,
+      "event_key": "Red Rising movie adaptation moves to Paramount development",
+      "title_ru": "Экранизация Red Rising стала приоритетным проектом для Paramount",
+      "threads_teaser_ru": "Экранизация Red Rising сменила студию: после долгих лет разработки на Netflix права на проект вернулись автору книг Пирсу Брауну, и теперь фильм стал приоритетом для Paramount. Режиссер Фрэнсис Лоуренс уже подтвердил, что работа над сценарием идет полным ходом.",
+      "telegram_message_id": "1791",
+      "telegram_url": "https://t.me/gamepulse_newss/1791",
+      "telegram_published_at": "2026-10-27T05:47:13.126458+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/francis-lawrence-red-rising-interview-1793048349634.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T05:32:24.841464+00:00"
+  "updated_at": "2026-10-27T05:47:13.126701+00:00"
 }
