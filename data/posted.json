@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c881256e4b54a28e485cd85d",
-      "title": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard",
-      "url": "https://rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-01T12:03:02+00:00",
-      "score": 14,
-      "event_key": "witcher 3 songs of the past setting interview cd projekt red",
-      "title_ru": "CD Projekt Red о выборе места действия для Songs of the Past в The Witcher 3",
-      "threads_teaser_ru": "Режиссер по сюжету CD Projekt Red Марцин Блаха поделился подробностями о дополнении Songs of the Past для The Witcher 3. Новым местом действия станет Леттен — родина Лютика.",
-      "telegram_message_id": "588",
-      "telegram_url": "https://t.me/gamepulse_newss/588",
-      "telegram_published_at": "2026-10-01T12:32:30.046575+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/witcher-3-songs-of-the-past-04.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-01T12:32:31.507527+00:00"
-    },
-    {
       "fingerprint": "a5aeba54e6fd95d9648671cf",
       "title": "The PUBG Extraction Shooter Has Officially Been Canceled",
       "url": "https://polygon.com/pubg-black-budget-krafton-development-canceled",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7312765/NintendoSwitch_hardware.0.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-27T03:32:39.282169+00:00"
+    },
+    {
+      "fingerprint": "ad43663171ad69124d46b844",
+      "title": "CoD: Modern Warfare 4 Players Discover A Secret Gun Printer In Multiplayer",
+      "url": "https://gamespot.com/articles/cod-modern-warfare-4-players-discover-a-secret-gun-printer-in-multiplayer",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-26T17:29:44+00:00",
+      "score": 11,
+      "event_key": "cod modern warfare 4 cachette secret gun printer discovery",
+      "title_ru": "Игроки нашли секретный 3D-принтер на карте в Call of Duty: Modern Warfare 4",
+      "threads_teaser_ru": "На многопользовательской карте Cachette в Call of Duty: Modern Warfare 4 нашли секретный 3D-принтер. Устройство выдает случайные, полностью укомплектованные сборки оружия прямо во время матча. Рассказываем, где именно его искать и какое снаряжение можно получить.",
+      "telegram_message_id": "1789",
+      "telegram_url": "https://t.me/gamepulse_newss/1789",
+      "telegram_published_at": "2026-10-27T04:03:02.835926+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4-REVEAL-014-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-27T03:32:39.282257+00:00"
+  "updated_at": "2026-10-27T04:03:02.836241+00:00"
 }
