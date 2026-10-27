@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1106d34d09c83a05a4294f15",
-      "title": "PlayStation Plus October 2026 free games lineup officially revealed",
-      "url": "https://polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T09:03:00+00:00",
-      "score": 10,
-      "event_key": "Sony announces October PlayStation Plus Essential games lineup",
-      "title_ru": "Sony анонсировала октябрьскую подборку игр PlayStation Plus Essential",
-      "threads_teaser_ru": "Sony назвала октябрьские игры для подписчиков PlayStation Plus Essential. В подборку вошли F1 25, Hunt: Showdown 1896 и Earth Defense Force: World Brothers 2. Забрать игры можно будет с 6 октября по 2 ноября.",
-      "telegram_message_id": "634",
-      "telegram_url": "https://t.me/gamepulse_newss/634",
-      "telegram_published_at": "2026-10-02T16:47:59.231731+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hunt-showdown-1896-screenshot.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-02T16:48:00.577703+00:00"
-    },
-    {
       "fingerprint": "5eff64bb1f15caf02701dbf0",
       "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
       "url": "https://ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/03/03/resident-evil-requiem-leon-legacy-sequel-1772550107468.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T22:02:28.560288+00:00"
+    },
+    {
+      "fingerprint": "a3c5983e17ea212b0e603790",
+      "title": "You Can Unlock Lots Of Free Stuff In Pokemon Go’s Halloween 2026 Event",
+      "url": "https://gamespot.com/articles/heres-everything-you-can-unlock-for-pokemon-go-halloween-2026",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-27T22:07:25+00:00",
+      "score": 11,
+      "event_key": "Pokemon Go Halloween 2026 event details",
+      "title_ru": "Анонсирован хэллоуинский ивент в Pokemon Go",
+      "threads_teaser_ru": "В Pokemon Go стартовал Хэллоуин-ивент: два этапа, новые костюмированные покемоны, дебют Mega Chandelure и блестящей формы Greavard. Рассказываем, какие бонусы и награды ждут тренеров в ближайшие дни.",
+      "telegram_message_id": "1835",
+      "telegram_url": "https://t.me/gamepulse_newss/1835",
+      "telegram_published_at": "2026-10-27T22:47:29.407368+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PoGo-Halloween-2026-I.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-27T22:02:28.560388+00:00"
+  "updated_at": "2026-10-27T22:47:29.407556+00:00"
 }
