@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2c16545d2e19048ead50785f",
-      "title": "Free Play Days – FARCRY 6, Assassin’s Creed Odyssey, Avatar: Frontiers of Pandora, Skull and Bones, The Crew Motorfest",
-      "url": "https://news.xbox.com/en-us/2026/10/01/free-play-days-01-10-2026",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-01T15:30:00+00:00",
-      "score": 16,
-      "event_key": "ubisoft-free-play-days-xbox-october-2026",
-      "title_ru": "Бесплатные дни игры с Ubisoft на Xbox",
-      "threads_teaser_ru": "Обладатели подписок Xbox могут бесплатно оценить пять игр от Ubisoft в рамках акции Free Play Days, которая продлится с 1 по 4 октября.",
-      "telegram_message_id": "600",
-      "telegram_url": "https://t.me/gamepulse_newss/600",
-      "telegram_published_at": "2026-10-01T15:32:23.527693+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10.1.2026_1920x1080-29cec7cbe2a1b4e6d6dc.jpg",
-      "threads_published_at": "2026-10-01T15:32:25.012487+00:00"
-    },
-    {
       "fingerprint": "f97a0c1827ee0251c612555c",
       "title": "Former Steelers Head Coach Reveals Minecraft City He’s Been Building For 12 Years",
       "url": "https://gamespot.com/articles/former-steelers-head-coach-reveals-minecraft-city-hes-been-building-for-12-years",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/spelunky-classic-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T09:17:32.824926+00:00"
+    },
+    {
+      "fingerprint": "f1d5f1fc4e70c4ae1112d4e1",
+      "title": "BioShock Movie Director Francis Lawrence Explains Why It's Taken Hollywood So Long to Adapt the Game",
+      "url": "https://ign.com/articles/bioshock-movie-director-francis-lawrence-explains-why-its-taken-hollywood-so-long-to-adapt-the-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T20:16:00+00:00",
+      "score": 7,
+      "event_key": "Francis Lawrence discusses BioShock movie adaptation development challenges",
+      "title_ru": "Режиссер экранизации BioShock объяснил сложность адаптации игры",
+      "threads_teaser_ru": "Экранизация BioShock от Netflix наконец-то приближается к производству. Режиссер Фрэнсис Лоуренс объяснил, почему проект «застрял» на десятилетие: главная сложность заключается в специфике игрового процесса, где игрок сам является центральным персонажем.",
+      "telegram_message_id": "1801",
+      "telegram_url": "https://t.me/gamepulse_newss/1801",
+      "telegram_published_at": "2026-10-27T09:32:33.221114+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/05/15/bioshock-thumb-1747268034865.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T09:17:32.825032+00:00"
+  "updated_at": "2026-10-27T09:32:33.221423+00:00"
 }
