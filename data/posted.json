@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5c6a70cd0770312de1b5b641",
-      "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
-      "url": "https://gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-02T13:08:05+00:00",
-      "score": 12,
-      "event_key": "Disney addresses rumors about potential acquisition of Epic Games",
-      "title_ru": "Disney прокомментировала слухи о покупке Epic Games",
-      "threads_teaser_ru": "Disney ответила на слухи о покупке студии Epic Games. Несмотря на многомиллиардные инвестиции и тесное партнерство в рамках Fortnite, компания официально заявила, что сейчас не ведет переговоров о полном поглощении разработчика.",
-      "telegram_message_id": "625",
-      "telegram_url": "https://t.me/gamepulse_newss/625",
-      "telegram_published_at": "2026-10-02T14:18:49.205508+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Disney-Large.jpeg?w=300",
-      "threads_published_at": "2026-10-02T14:18:50.680816+00:00"
-    },
-    {
       "fingerprint": "edc7a9ea213a5772ab7b2f38",
       "title": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
       "url": "https://gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/19/wow-forever-scenic-announce-skyborne-customization-062-1789806035954.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T19:17:31.311210+00:00"
+    },
+    {
+      "fingerprint": "218a98c3123274d98b5ffbbe",
+      "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
+      "url": "https://rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-27T17:00:00+00:00",
+      "score": 12,
+      "event_key": "Warhorse Studios cyberattack data breach investigation",
+      "title_ru": "Warhorse Studios подверглась кибератаке",
+      "threads_teaser_ru": "Студия Warhorse Studios, известная работой над Kingdom Come: Deliverance 2, стала жертвой кибератаки. Злоумышленники получили несанкционированный доступ к системам и данным компании. Разработчики уже работают с экспертами над устранением последствий и расследованием инцидента.",
+      "telegram_message_id": "1826",
+      "telegram_url": "https://t.me/gamepulse_newss/1826",
+      "telegram_published_at": "2026-10-27T19:32:57.425681+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/kingdom-come-deliverance-2-multiplayer-mod-work-in-progress-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T19:17:31.311300+00:00"
+  "updated_at": "2026-10-27T19:32:57.426020+00:00"
 }
