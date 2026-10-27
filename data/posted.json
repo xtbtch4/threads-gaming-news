@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f2a5c95249e2a2ba6aea6513",
-      "title": "Critical Role Reveals Why Campaign 4's Biggest Change Is Also a Huge Challenge",
-      "url": "https://polygon.com/critical-role-campaign-4-biggest-challenge",
-      "source": "Polygon",
-      "published_at_source": "2026-10-02T14:54:40+00:00",
-      "score": 10,
-      "event_key": "Critical Role Campaign 4 West Marches format challenges",
-      "title_ru": "Critical Role объяснили сложности формата West Marches в Campaign 4",
-      "threads_teaser_ru": "Участники Critical Role рассказали, почему новый формат West Marches в Campaign 4 стал для них серьезным испытанием. Из-за разделения на группы игроки больше не знают всех подробностей сюжета, что меняет динамику принятия решений.",
-      "telegram_message_id": "633",
-      "telegram_url": "https://t.me/gamepulse_newss/633",
-      "telegram_published_at": "2026-10-02T16:34:03.863732+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/critical-role-schemers-table.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-02T16:34:05.395917+00:00"
-    },
-    {
       "fingerprint": "1106d34d09c83a05a4294f15",
       "title": "PlayStation Plus October 2026 free games lineup officially revealed",
       "url": "https://polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/sonic-dark-brotherhood.jpg?w=300",
       "threads_published_at": "2026-10-27T21:47:15.798186+00:00"
+    },
+    {
+      "fingerprint": "8f84781132a5a5beec71e915",
+      "title": "Resident Evil Executive Producer Says the Series' Story Could End 'In the Next 10 Years'",
+      "url": "https://ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
+      "source": "IGN",
+      "published_at_source": "2026-10-27T21:49:51+00:00",
+      "score": 11,
+      "event_key": "Resident Evil narrative conclusion planned within 10 years",
+      "title_ru": "История Resident Evil может завершиться в ближайшие 10 лет",
+      "threads_teaser_ru": "Исполнительный продюсер Capcom Дзюн Такэути намекнул на финал истории Resident Evil. По его словам, завершение основного сюжета серии может произойти в ближайшие 10 лет. При этом в разработке уже находятся новые проекты по франшизе, включая ремейк Code Veronica.",
+      "telegram_message_id": "1834",
+      "telegram_url": "https://t.me/gamepulse_newss/1834",
+      "telegram_published_at": "2026-10-27T22:02:27.205356+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/03/03/resident-evil-requiem-leon-legacy-sequel-1772550107468.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T21:47:15.798278+00:00"
+  "updated_at": "2026-10-27T22:02:27.205521+00:00"
 }
