@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5eff64bb1f15caf02701dbf0",
-      "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
-      "url": "https://ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T16:30:00+00:00",
-      "score": 11,
-      "event_key": "Magic The Gathering releases The Hobbit card set",
-      "title_ru": "Magic: The Gathering выпустила набор карт по мотивам The Hobbit",
-      "threads_teaser_ru": "Magic: The Gathering представила набор карт по The Hobbit. В отличие от более масштабного кроссовера по The Lord of the Rings, новый сет делает упор на литературные корни первоисточника и необычный дизайн, напоминающий обложки старых книг.",
-      "telegram_message_id": "635",
-      "telegram_url": "https://t.me/gamepulse_newss/635",
-      "telegram_published_at": "2026-10-02T17:02:45.554246+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/img-2807-1790937934930.JPG?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T17:02:47.361424+00:00"
-    },
-    {
       "fingerprint": "d39e204db35c3099a16dc359",
       "title": "Nintendo reveals new physical release for Pokémon Legends: Z-A Nintendo reveals new physical release for Pokémon Legends: Z-A",
       "url": "https://polygon.com/pokemon-legends-z-a-new-switch-2-physical-edition-mega-dimension-dlc",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PoGo-Halloween-2026-I.jpg?w=300",
       "threads_published_at": "2026-10-27T22:47:30.907616+00:00"
+    },
+    {
+      "fingerprint": "49a959480a1da73a445cd27b",
+      "title": "Kane Parsons Says He Is Working on Three 'Dream Projects,' Leading to Speculation Over Valve Collaboration",
+      "url": "https://ign.com/articles/kane-parsons-says-he-is-working-on-three-dream-projects-leading-to-speculation-over-valve-collaboration",
+      "source": "IGN",
+      "published_at_source": "2026-10-27T22:18:57+00:00",
+      "score": 13,
+      "event_key": "kane-parsons-three-dream-projects-valve-speculation",
+      "title_ru": "Режиссер Backrooms намекнул на работу над тремя новыми проектами",
+      "threads_teaser_ru": "Режиссер фильма Backrooms Кейн Парсонс сообщил о разработке трех «проектов мечты», что подогрело слухи о его возможном сотрудничестве с Valve.",
+      "telegram_message_id": "1836",
+      "telegram_url": "https://t.me/gamepulse_newss/1836",
+      "telegram_published_at": "2026-10-27T23:02:50.461355+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/22/backrooms-oo-1779468471139.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T22:47:30.907736+00:00"
+  "updated_at": "2026-10-27T23:02:50.461664+00:00"
 }
