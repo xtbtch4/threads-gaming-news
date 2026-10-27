@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "34bccf99f977cd21875169f5",
-      "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
-      "url": "https://ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
-      "source": "IGN",
-      "published_at_source": "2026-10-01T22:14:08+00:00",
-      "score": 11,
-      "event_key": "GTA 6 age rating confirms sex scenes",
-      "title_ru": "Возрастной рейтинг GTA 6 подтвердил наличие откровенных сцен",
-      "threads_teaser_ru": "Возрастной рейтинг GTA 6 официально подтвердил наличие в игре откровенных сцен. В описаниях для Новой Зеландии и Австралии сексуальный контент указан отдельным пунктом, что отличает новинку от предыдущей части серии.",
-      "telegram_message_id": "615",
-      "telegram_url": "https://t.me/gamepulse_newss/615",
-      "telegram_published_at": "2026-10-01T23:17:51.306816+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-01T23:17:52.585162+00:00"
-    },
-    {
       "fingerprint": "511d19dbee297f0bc7570065",
       "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
       "url": "https://gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet",
@@ -20501,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Of-Might-and-Magic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T15:46:44.368804+00:00"
+    },
+    {
+      "fingerprint": "bb590efb1be855d9a05ddd6e",
+      "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
+      "url": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-27T16:00:43+00:00",
+      "score": 16,
+      "event_key": "aloft and conan exiles enhanced launch on ps5",
+      "title_ru": "Анонс Aloft и Conan Exiles Enhanced для PS5",
+      "threads_teaser_ru": "В начале 2027 года на PlayStation 5 выйдут две игры в жанре выживания в открытом мире: Aloft и Conan Exiles Enhanced. Владельцы оригинала на PS4 получат улучшенную версию Conan Exiles бесплатно.",
+      "telegram_message_id": "1816",
+      "telegram_url": "https://t.me/gamepulse_newss/1816",
+      "telegram_published_at": "2026-10-27T16:02:57.751870+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2086/10/d90c6cc29a861f55fc6013f43487f410dcd639ad.jpg"
     }
   ],
-  "updated_at": "2026-10-27T15:46:44.368895+00:00"
+  "updated_at": "2026-10-27T16:02:57.752167+00:00"
 }
