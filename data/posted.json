@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0bb1870b9237fd925eadd86b",
-      "title": "IKEA and XBOX Team Up on YXSTABY, a New Collection Made for Gaming at Home",
-      "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-01T16:00:00+00:00",
-      "score": 14,
-      "event_key": "ikea-xbox-yxstaby-gaming-collection-launch",
-      "title_ru": "IKEA и XBOX выпустили совместную коллекцию мебели и аксессуаров YXSTABY",
-      "threads_teaser_ru": "IKEA и XBOX представили совместную коллекцию YXSTABY из девяти предметов мебели и аксессуаров, вдохновленных дизайном контроллера XBOX.",
-      "telegram_message_id": "602",
-      "telegram_url": "https://t.me/gamepulse_newss/602",
-      "telegram_published_at": "2026-10-01T16:02:29.519138+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/IKEA-Hero-5703aacba90368d2e431.jpg",
-      "threads_published_at": "2026-10-01T16:02:30.839502+00:00"
-    },
-    {
       "fingerprint": "763f5a4699c8c6cd7efdcf52",
       "title": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\"",
       "url": "https://rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Untitled-2_81p0NEm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T09:47:04.322194+00:00"
+    },
+    {
+      "fingerprint": "90a64195d011831a3e4181ca",
+      "title": "7 Reasons FF7 Is the Ultimate Video Game Fairy Tale",
+      "url": "https://polygon.com/ff7-final-fantasy-7-fairy-tale",
+      "source": "Polygon",
+      "published_at_source": "2026-10-27T10:00:18+00:00",
+      "score": 10,
+      "event_key": "final-fantasy-7-fairy-tale-elements-analysis",
+      "title_ru": "Почему Final Fantasy 7 можно считать сказкой для взрослых",
+      "threads_teaser_ru": "Материал анализирует сказочные мотивы в Final Fantasy 7: от мегаполиса Midgar в роли замка до переосмысления образов короля Артура и принцесс в беде. Релиз Final Fantasy 7 Revelation намечен на 8 апреля 2027 года.",
+      "telegram_message_id": "1803",
+      "telegram_url": "https://t.me/gamepulse_newss/1803",
+      "telegram_published_at": "2026-10-27T10:02:09.610755+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ff7_fairy_tale.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-10-27T09:47:04.322308+00:00"
+  "updated_at": "2026-10-27T10:02:09.610893+00:00"
 }
