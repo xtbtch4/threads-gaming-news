@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f1318eda06262615ffa43f8d",
-      "title": "Xbox Is Paying A Lot Less Than Normal For Kojima’s Physint, Possibly Under $200 Million – Report",
-      "url": "https://gamespot.com/articles/xbox-is-paying-a-lot-less-than-normal-for-kojimas-physint-possibly-under-200-million-report",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-01T14:18:19+00:00",
-      "score": 12,
-      "event_key": "xbox_finances_physint_kojima_development_budget",
-      "title_ru": "Сделка Xbox по игре Physint обойдется значительно дешевле ожидаемого",
-      "threads_teaser_ru": "Соглашение Xbox с Хидео Кодзимой по шпионскому триллеру Physint оказалось значительно дешевле, чем предполагалось, и может составить менее 200 миллионов долларов.",
-      "telegram_message_id": "597",
-      "telegram_url": "https://t.me/gamepulse_newss/597",
-      "telegram_published_at": "2026-10-01T14:47:08.087420+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/bill-Large.jpeg?w=300",
-      "threads_published_at": "2026-10-01T14:47:09.550393+00:00"
-    },
-    {
       "fingerprint": "1b07a31373916a52bfea91bf",
       "title": "Disney Lorcana Hyperia City: Exclusive Héctor Rivera and Tiana Cards Revealed",
       "url": "https://ign.com/articles/disney-lorcana-hyperia-city-exclusive-hctor-rivera-and-tiana-cards-revealed",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/26/lord-of-the-rings-costume-1793056624990.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T08:32:24.615646+00:00"
+    },
+    {
+      "fingerprint": "4e64715e457207762559513e",
+      "title": "Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin",
+      "url": "https://ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
+      "source": "IGN",
+      "published_at_source": "2026-10-26T23:57:06+00:00",
+      "score": 8,
+      "event_key": "dead by daylight chucky store removal behaviour interactive",
+      "title_ru": "Разработчики Dead by Daylight прокомментировали удаление Chucky из магазинов",
+      "threads_teaser_ru": "Студия Behaviour Interactive объяснила причины удаления Chucky из магазинов Dead by Daylight и рассказала о возможном возвращении лицензионных персонажей в будущем.",
+      "telegram_message_id": "1798",
+      "telegram_url": "https://t.me/gamepulse_newss/1798",
+      "telegram_published_at": "2026-10-27T08:46:44.457978+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/chucky-dead-by-daylight-1793058562712.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T08:32:24.615735+00:00"
+  "updated_at": "2026-10-27T08:46:44.458246+00:00"
 }
