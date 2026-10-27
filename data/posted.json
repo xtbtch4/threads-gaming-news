@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a5aeba54e6fd95d9648671cf",
-      "title": "The PUBG Extraction Shooter Has Officially Been Canceled",
-      "url": "https://polygon.com/pubg-black-budget-krafton-development-canceled",
-      "source": "Polygon",
-      "published_at_source": "2026-10-01T12:40:20+00:00",
-      "score": 14,
-      "event_key": "krafton-cancels-pubg-black-budget-development",
-      "title_ru": "Krafton отменила разработку PUBG: Black Budget",
-      "threads_teaser_ru": "Компания Krafton закрыла проект PUBG: Black Budget спустя более чем год после начала разработки. Разработчики пришли к выводу, что текущая концепция не позволит создать качественный долгосрочный опыт для игроков.",
-      "telegram_message_id": "589",
-      "telegram_url": "https://t.me/gamepulse_newss/589",
-      "telegram_published_at": "2026-10-01T12:47:17.219101+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/arc-raiders-extraction-shooter-floodgates-pubg-black-budget.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-01T12:47:18.771700+00:00"
-    },
-    {
       "fingerprint": "55f766b1eba91625ab6e9032",
       "title": "A Colossal Update and Two DLCs Come to Bulwark: Falconeer Chronicles",
       "url": "https://news.xbox.com/en-us/2026/10/01/a-colossal-update-and-two-dlcs-come-to-bulwark-falconeer-chronicles",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4-REVEAL-014-1.jpg?w=300",
       "threads_published_at": "2026-10-27T04:03:04.156805+00:00"
+    },
+    {
+      "fingerprint": "87416dfcc3e03cfee6be55e6",
+      "title": "Major 'Avatar: Seven Havens’ Korra Reveal May Be Hiding the Truth About the Cataclysm",
+      "url": "https://polygon.com/avatar-seven-havens-big-korra-reveal-feels-like-a-total-fakeout",
+      "source": "Polygon",
+      "published_at_source": "2026-10-27T04:00:18+00:00",
+      "score": 10,
+      "event_key": "Avatar Seven Havens episode 7 flashback revelations",
+      "title_ru": "Раскрыта тайна разрушения в Avatar: Seven Havens",
+      "threads_teaser_ru": "Седьмой эпизод Avatar: Seven Havens ставит под сомнение репутацию Korra как великой разрушительницы. Воспоминания героинь намекают, что причиной событий могла стать ссора с Asami из-за энергетических махинаций Future Industries.",
+      "telegram_message_id": "1790",
+      "telegram_url": "https://t.me/gamepulse_newss/1790",
+      "telegram_published_at": "2026-10-27T05:32:23.525565+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-reason-korra-caused-the-cataclysm-_-avatar_-seven-havens-ep-7-4-35-screenshot.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-27T04:03:04.156901+00:00"
+  "updated_at": "2026-10-27T05:32:23.525771+00:00"
 }
