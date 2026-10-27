@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "790d6985ddd4bbfdb12752ab",
-      "title": "How GTA 6's Jason and Lucia Have Evolved Since 2023 In Pictures",
-      "url": "https://ign.com/articles/how-gta-6s-jason-and-lucia-have-evolved-since-2023-in-pictures",
-      "source": "IGN",
-      "published_at_source": "2026-10-01T12:10:00+00:00",
-      "score": 12,
-      "event_key": "GTA 6 protagonists Jason and Lucia visual evolution analysis",
-      "title_ru": "Эволюция внешности Jason и Lucia в GTA 6: сравниваем трейлеры",
-      "threads_teaser_ru": "В преддверии релиза GTA 6 19 ноября внешность главных героев заметно преобразилась по сравнению с дебютным трейлером 2023 года. Разработчики значительно повысили уровень детализации персонажей: от текстур кожи до физики волос.",
-      "telegram_message_id": "609",
-      "telegram_url": "https://t.me/gamepulse_newss/609",
-      "telegram_published_at": "2026-10-01T19:47:46.787692+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-01T19:47:48.031456+00:00"
-    },
-    {
       "fingerprint": "dc200d630b6e30e74380ab6c",
       "title": "Ahead of Metro 2039, Metro 2033 and Metro Last Light Are Getting Next-Gen Updates",
       "url": "https://ign.com/articles/ahead-of-metro-2039-metro-2033-and-metro-last-light-are-getting-next-gen-updates",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-shipment-image-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T12:47:33.954540+00:00"
+    },
+    {
+      "fingerprint": "71294bcbbe137201ee88b1e4",
+      "title": "EA SPORTS™ and NFL Bring Real Stadium Sponsors Into Madden NFL, Starting with the Philadelphia Eagles",
+      "url": "https://ea.com/news/ea-sports-virtual-stadium",
+      "source": "Electronic Arts Home",
+      "published_at_source": "2026-10-27T07:00:00+00:00",
+      "score": 16,
+      "event_key": "ea sports nfl virtual stadium sponsorship program madden nfl",
+      "title_ru": "EA SPORTS и NFL добавили реальных спонсоров стадионов в Madden NFL",
+      "threads_teaser_ru": "Electronic Arts и NFL запустили программу интеграции реальных спонсоров стадионов в Madden NFL. Первыми к ней присоединились Philadelphia Eagles.",
+      "telegram_message_id": "1810",
+      "telegram_url": "https://t.me/gamepulse_newss/1810",
+      "telegram_published_at": "2026-10-27T13:17:02.733420+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/4Eg9Zx9HWS3or1Foejgkie/5484244e809d370dd59c595a480b8a64/New_Project__10_.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     }
   ],
-  "updated_at": "2026-10-27T12:47:33.954630+00:00"
+  "updated_at": "2026-10-27T13:17:02.733959+00:00"
 }
