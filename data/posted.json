@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0afceb18526cfa675da2d7e8",
-      "title": "Pokémon TCG Reportedly Launching First-Ever Valentine’s Day Set in 2027",
-      "url": "https://ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T15:08:39+00:00",
-      "score": 11,
-      "event_key": "Pokemon TCG reportedly launching Valentines Day box set 2027",
-      "title_ru": "Pokémon TCG может получить тематический набор к Дню святого Валентина в 2027 году",
-      "threads_teaser_ru": "Для Pokémon TCG готовят первый тематический набор ко Дню святого Валентина. По слухам, он выйдет 27 января 2027 года и будет включать упаковку, которая превращается в почтовый ящик для обмена карточками в классе.",
-      "telegram_message_id": "632",
-      "telegram_url": "https://t.me/gamepulse_newss/632",
-      "telegram_published_at": "2026-10-02T16:17:11.419744+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/pokemon-valentine-set-tcg-rumor-1790952987076.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T16:17:12.803198+00:00"
-    },
-    {
       "fingerprint": "f2a5c95249e2a2ba6aea6513",
       "title": "Critical Role Reveals Why Campaign 4's Biggest Change Is Also a Huge Challenge",
       "url": "https://polygon.com/critical-role-campaign-4-biggest-challenge",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/discord-public-messages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T21:33:00.798637+00:00"
+    },
+    {
+      "fingerprint": "df8d918470bbd61d503bf307",
+      "title": "Remember That Time BioWare Made A Sonic The Hedgehog RPG?",
+      "url": "https://gamespot.com/articles/remember-that-time-bioware-made-a-sonic-the-hedgehog-rpg",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-27T21:31:38+00:00",
+      "score": 13,
+      "event_key": "bioware sonic chronicles the dark brotherhood retro look",
+      "title_ru": "Как BioWare создала Sonic Chronicles: The Dark Brotherhood",
+      "threads_teaser_ru": "Вспоминаем самый необычный проект BioWare — портативную ролевую игру Sonic Chronicles: The Dark Brotherhood для Nintendo DS, которая так и осталась без продолжения из-за судебных споров.",
+      "telegram_message_id": "1833",
+      "telegram_url": "https://t.me/gamepulse_newss/1833",
+      "telegram_published_at": "2026-10-27T21:47:14.504664+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/sonic-dark-brotherhood.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-27T21:33:00.798740+00:00"
+  "updated_at": "2026-10-27T21:47:14.504944+00:00"
 }
