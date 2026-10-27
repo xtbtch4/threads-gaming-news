@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ef001b3605a70397dff1546a",
-      "title": "A Fan-Favorite League of Legends Champion Is Finally Joining Riftbound",
-      "url": "https://polygon.com/league-legends-riftbound-radiance-exclusive-reveal-graves-blasting-through",
-      "source": "Polygon",
-      "published_at_source": "2026-10-01T10:00:15+00:00",
-      "score": 10,
-      "event_key": "Graves added to Riftbound card game Radiance set",
-      "title_ru": "Graves появится в карточной игре Riftbound",
-      "threads_teaser_ru": "В настольную игру Riftbound добавят персонажа Graves из League of Legends. Карта под названием Graves, Blasting Through войдет в состав набора Radiance, релиз которого состоится 23 октября. Уникальная способность героя позволяет наносить урон всем противникам на поле боя.",
-      "telegram_message_id": "586",
-      "telegram_url": "https://t.me/gamepulse_newss/586",
-      "telegram_published_at": "2026-10-01T10:33:23.129107+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/classic-graves-league-of-legends-final.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-01T10:33:24.475972+00:00"
-    },
-    {
       "fingerprint": "12ce64bf27bb244803266a7e",
       "title": "Kena: Scars of Kosmora launches 2027, Ember Lab shares story overview",
       "url": "https://blog.playstation.com/2026/10/01/kena-scars-of-kosmora-launches-2027-ember-lab-shares-story-overview",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/10/a593fddd2b7aceb7935c15b02b43b41ac6a2d4a3.jpeg",
       "threads_published_at": "2026-10-27T02:17:20.694356+00:00"
+    },
+    {
+      "fingerprint": "cb7d942d07e24c156df5ea20",
+      "title": "Steam's AI disclosures are akin to \"forcing developers to list their voting history\", says man who must hate seeing eggs virtue signal that they're free-range",
+      "url": "https://rockpapershotgun.com/steams-ai-disclosures-are-akin-to-forcing-developers-to-list-their-voting-history-says-man-who-must-hate-seeing-eggs-virtue-signal-that-theyre-free-range",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-26T17:03:44+00:00",
+      "score": 13,
+      "event_key": "Tim Sweeney criticizes Steam mandatory AI content disclosures",
+      "title_ru": "Tim Sweeney раскритиковал требования Steam раскрывать использование ИИ в играх",
+      "threads_teaser_ru": "Tim Sweeney назвал требования Steam по раскрытию информации об использовании генеративного ИИ «политическими эссе» и сравнил их с принуждением к раскрытию личных политических предпочтений разработчиков.",
+      "telegram_message_id": "1787",
+      "telegram_url": "https://t.me/gamepulse_newss/1787",
+      "telegram_published_at": "2026-10-27T02:47:55.437193+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/tim-sweeney-steam-ai-disclosures-political-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T02:17:20.694468+00:00"
+  "updated_at": "2026-10-27T02:47:55.437563+00:00"
 }
