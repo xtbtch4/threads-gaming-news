@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "78888088f1b5179198bd2790",
-      "title": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation",
-      "url": "https://eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-01T09:02:25+00:00",
-      "score": 15,
-      "event_key": "massive-entertainment-expands-control-splinter-cell-ghost-recon",
-      "title_ru": "Massive Entertainment получила контроль над Splinter Cell и Ghost Recon",
-      "threads_teaser_ru": "Ubisoft расширила полномочия студии Massive Entertainment: теперь она отвечает за серии Ghost Recon и Splinter Cell, а также работает над новой игрой March of Giants на фоне продолжающейся реорганизации компании.",
-      "telegram_message_id": "584",
-      "telegram_url": "https://t.me/gamepulse_newss/584",
-      "telegram_published_at": "2026-10-01T09:16:42.849066+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/massive-entertainment-splinter-cell-the-division-ghost-recon.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-01T09:16:44.327399+00:00"
-    },
-    {
       "fingerprint": "e085c3f3492dd3836f1ea4d3",
       "title": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses",
       "url": "https://eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/06/transformers-optimus-prime-1791300484476.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T00:03:04.022597+00:00"
+    },
+    {
+      "fingerprint": "6ce52de3ac9fd1007e87a384",
+      "title": "New update for Nintendo Switch Online + Expansion Pack members! – News – Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/new-update-for-nintendo-switch-online-expansion-pack-members-october-2026",
+      "source": "Nintendo",
+      "published_at_source": "2026-10-26T16:00:00+00:00",
+      "score": 14,
+      "event_key": "Nintendo Switch Online classic games library update",
+      "title_ru": "Обновление библиотеки классических игр Nintendo Switch Online",
+      "threads_teaser_ru": "Nintendo анонсировала скорое пополнение библиотеки классических игр для подписчиков Nintendo Switch Online и Expansion Pack. Ретро-хиты будут доступны как на оригинальной Nintendo Switch, так и на Nintendo Switch 2.",
+      "telegram_message_id": "1785",
+      "telegram_url": "https://t.me/gamepulse_newss/1785",
+      "telegram_published_at": "2026-10-27T01:47:23.335506+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-10-27T00:03:04.022696+00:00"
+  "updated_at": "2026-10-27T01:47:23.335736+00:00"
 }
