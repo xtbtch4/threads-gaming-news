@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6b46b0b4d33f8ca12a84cbc3",
-      "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
-      "url": "https://ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T15:50:46+00:00",
-      "score": 13,
-      "event_key": "new gta 6 screenshots focus on lucia and jason",
-      "title_ru": "Новые скриншоты GTA 6 посвящены отношениям Люсии и Джейсона",
-      "threads_teaser_ru": "Rockstar показала новые скриншоты GTA 6, сосредоточенные на отношениях Люсии и Джейсона. На изображениях герои запечатлены в закусочной, байкерском баре и в разных нарядах.",
-      "telegram_message_id": "631",
-      "telegram_url": "https://t.me/gamepulse_newss/631",
-      "telegram_published_at": "2026-10-02T16:02:20.657640+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/jason-lucia-1790783485719.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T16:02:22.943522+00:00"
-    },
-    {
       "fingerprint": "0afceb18526cfa675da2d7e8",
       "title": "Pokémon TCG Reportedly Launching First-Ever Valentine’s Day Set in 2027",
       "url": "https://ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027",
@@ -20503,7 +20486,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/10/fc38f7e348b1e9beca8314ad7cb30d567f5e11b7-scaled.jpg",
       "video_url": "https://blog.playstation.com/uploads/2048/10/01aebcd8c06fdd0edef418cdb1e9a21cb5a04a52.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC0aCXVzLWVhc3QtMSJHMEUCIFmag%2BgtewdbDV71HSi04eAttwE6zKnehapufeBVzYzdAiEAq3ybVugemcFPKCp4qU38hOj8vMFpet%2BcjuPX1quMvTgqhgQI9v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1Nzc0MTg4MTg0MTMiDBHIFZ%2FZahCwW0kB8yraA9FDwIj8YNVDtwj5Wsj3XrEpoi5RykLx5sYq0I2Twtym3G2VmYO6JPVwi0uGgh7nVeA2VF75zQcVaja94E2%2FaPjvwW8k7GP94ePAH0xhmldf2n%2B7s8kbOkrLqfrRzZq4d44ti2YOpLZsDPQSKxaakZkn4jkgLT7nbUw%2F6ti%2FxA1kEka3rbGv9bWdblwRuea39pZLA82daTyGdo7LdZEvKjjGvjwpouhVn%2Ffx%2FTcdorYpRwKfRZw16ZdmmQ6LefHMyQEdDv%2BR7%2FybErmTa3%2BxcrKqcktAD0fUcVSf%2F%2BJsyllSskDFKMvGWabEKDcC%2FpNZIFSTzCdZpZD0T6TXzX%2Fuluy0wf0jUob5A7IqDsrwvBXUk5lXIDchCIwubXkTRp5tZej2PlNz8%2FgZi%2BVCkduHxgsYMu2OzOvDpwB6VP4o8WbRKeWJ76YDqAhN70bvJdc4GfOgjbii6xWnrBdF7pp9wY84W0VLFtUMq1k0Y4DyxapPyRqStRyrY5Yx7P%2BhustVeTAweLJTrj7F2Bp7lwS91uD4v7IZY%2FyFT4nDRI1EKHbbIj9wz7c2Z9fs7nUnzi4hhiizgPzdRDj2VrvWHOqoA6f8ei7I%2BkkUrWBb17WGhkNh1ZL926VNmYB%2BQTC%2FmYTXBjqlAeonH5mJsKfGWfqG4ok2aWOrUW8yEZG9iLKnq3Pw4qzKX37ZGZvKg8aAElYm3n3HhGMsAYpA36qTF7dlCUQ1%2Bwm88rC1vn0tI6zZ0U6Lef7JE2iVckO6xhCEup27ddmI%2BVzqOv8D2Mt5yVGzKQUPJBldTDQgE1c5GGa69D4XFaVoOqRBpwQBwi36EhruVyv5j6O1WSzj05IhxbmzcqcivnpODUouEQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYM4GX6NWUFRNXW3H%2F20261027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T204734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Signature=e8ed04abe236501f9cbb8e55f579e836842a97ca40ead2d10e9a9e041e69b6f4",
       "threads_published_at": "2026-10-27T20:48:01.645120+00:00"
+    },
+    {
+      "fingerprint": "109c815307e639cc2b6b5383",
+      "title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
+      "url": "https://rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-27T21:28:32+00:00",
+      "score": 12,
+      "event_key": "Discord discoverable servers searchable on Google",
+      "title_ru": "Discord сделает сообщения в публичных серверах доступными через поиск",
+      "threads_teaser_ru": "Discord открывает индексацию сообщений в публичных серверах для поисковиков. С середины декабря переписку на таких серверах можно будет найти через Google, но участники смогут скрыть свои сообщения, а подросткам функция недоступна.",
+      "telegram_message_id": "1832",
+      "telegram_url": "https://t.me/gamepulse_newss/1832",
+      "telegram_published_at": "2026-10-27T21:32:59.058252+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/discord-public-messages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T20:48:01.645243+00:00"
+  "updated_at": "2026-10-27T21:32:59.058437+00:00"
 }
