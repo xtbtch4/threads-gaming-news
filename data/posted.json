@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4f97cb72c3c4d316f088113a",
-      "title": "See Why Deicidium Returned Is One of 2026's Most Promising New Graphic Novels",
-      "url": "https://ign.com/articles/see-why-deicidium-returned-is-one-of-2026s-most-promising-new-graphic-novels",
-      "source": "IGN",
-      "published_at_source": "2026-10-01T18:00:00+00:00",
-      "score": 11,
-      "event_key": "Ram V Evan Cagle Anand Radhakrishnan graphic novel Deicidium Returned",
-      "title_ru": "Анонсирован графический роман Deicidium Returned",
-      "threads_teaser_ru": "Команда, работавшая над New Gods, возвращается с новым графическим романом Deicidium Returned. Сценарист Ram V и художники Evan Cagle и Anand Radhakrishnan расскажут историю о мире, где вера превратилась в бизнес, а обычные люди могут оказаться богами. Релиз — 11 ноября.",
-      "telegram_message_id": "607",
-      "telegram_url": "https://t.me/gamepulse_newss/607",
-      "telegram_published_at": "2026-10-01T18:04:09.084117+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/mixcollage-30-sep-2026-02-36-pm-347-1790793408452.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-01T18:04:10.677922+00:00"
-    },
-    {
       "fingerprint": "f3bbc5cd47af5305ff959e3f",
       "title": "The Art of Metaphor: ReFantazio Book Is Now Available To Preorder, Out Next March",
       "url": "https://ign.com/articles/art-of-metaphor-refantazio-book-where-to-buy",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/pokemon-unite-tier-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T11:32:33.859713+00:00"
+    },
+    {
+      "fingerprint": "5426b1f5ebc635d85c5d4691",
+      "title": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
+      "url": "https://rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-27T12:21:37+00:00",
+      "score": 14,
+      "event_key": "Don't Nod faces layoffs and potential insolvency",
+      "title_ru": "Студия Don't Nod столкнулась с угрозой банкротства и массовыми увольнениями",
+      "threads_teaser_ru": "Студия Don't Nod, создатели Life is Strange, находится на грани банкротства. Профсоюз STJV сообщает о планах массовых увольнений и переходе на аутсорсинг, называя действия руководства некомпетентными.",
+      "telegram_message_id": "1808",
+      "telegram_url": "https://t.me/gamepulse_newss/1808",
+      "telegram_published_at": "2026-10-27T12:32:46.493265+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Max-reaching-out-her-hand-in-Life-is-Strange-Reunion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T11:32:33.859806+00:00"
+  "updated_at": "2026-10-27T12:32:46.493678+00:00"
 }
