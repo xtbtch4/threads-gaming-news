@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d39e204db35c3099a16dc359",
-      "title": "Nintendo reveals new physical release for Pokémon Legends: Z-A Nintendo reveals new physical release for Pokémon Legends: Z-A",
-      "url": "https://polygon.com/pokemon-legends-z-a-new-switch-2-physical-edition-mega-dimension-dlc",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T08:18:00+00:00",
-      "score": 10,
-      "event_key": "Nintendo announces Pokémon Legends Z-A physical release for Switch 2",
-      "title_ru": "Nintendo анонсировала физическое издание Pokémon Legends: Z-A для Nintendo Switch 2",
-      "threads_teaser_ru": "Nintendo выпустит специальное физическое издание Pokémon Legends: Z-A для Nintendo Switch 2, включающее дополнение Mega Dimension. Игра выйдет 29 октября и будет совместима с оригинальной консолью, но без расширенных функций новой системы.",
-      "telegram_message_id": "636",
-      "telegram_url": "https://t.me/gamepulse_newss/636",
-      "telegram_published_at": "2026-10-02T17:17:20.397364+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/lucario.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-02T17:17:21.651828+00:00"
-    },
-    {
       "fingerprint": "1e097a1dca615b675d91aa1c",
       "title": "Crimson Desert’s first big DLC officially delayed Crimson Desert’s first big DLC officially delayed",
       "url": "https://polygon.com/crimson-desert-enhanced-charting-the-unknown-expansion-delayed",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/22/backrooms-oo-1779468471139.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T23:02:52.075764+00:00"
+    },
+    {
+      "fingerprint": "849c73a97b00477bf4e9a95f",
+      "title": "Inside the Vault – World Pets and Hideouts Public Test Server",
+      "url": "https://fallout.bethesda.net/en-US/news/inside-the-vault-world-pets-and-hideouts-public-test-server",
+      "source": "Bethesda",
+      "published_at_source": "2026-10-27T00:00:00+00:00",
+      "score": 11,
+      "event_key": "Fallout 76 Hideouts World Pets public test server",
+      "title_ru": "В Fallout 76 стартовало тестирование функций Hideouts и World Pets",
+      "threads_teaser_ru": "На тестовых серверах Fallout 76 появилась система Hideouts — динамические подземелья с четырьмя уровнями сложности, которые можно настраивать самостоятельно. Также игроки получили расширенные возможности для взаимодействия со своими питомцами.",
+      "telegram_message_id": "1837",
+      "telegram_url": "https://t.me/gamepulse_newss/1837",
+      "telegram_published_at": "2026-10-27T23:32:43.983487+00:00",
+      "threads_id": null,
+      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--0YTgZ_Ca--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/RTSV_LS_IndustrialSite01.png-1b3887ebd1ca22a200df7950b83e32f2"
     }
   ],
-  "updated_at": "2026-10-27T23:02:52.075859+00:00"
+  "updated_at": "2026-10-27T23:32:43.983644+00:00"
 }
