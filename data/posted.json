@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e20b1146f2fd388086dbf398",
-      "title": "Your Debt Is Paid – Official Reveal Trailer",
-      "url": "https://gamespot.com/videos/your-debt-is-paid-official-reveal-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-01T13:00:00+00:00",
-      "score": 13,
-      "event_key": "your-debt-is-paid-announced",
-      "title_ru": "Анонсирован темный фэнтезийный рогалик-автобатлер Your Debt Is Paid",
-      "threads_teaser_ru": "Издательство и разработчики представили Your Debt Is Paid — мрачный рогалик-автобатлер с эстетикой 90-х годов. Игрокам предстоит выживать в опасных подземельях и выплачивать долг таинственному похитителю.",
-      "telegram_message_id": "593",
-      "telegram_url": "https://t.me/gamepulse_newss/593",
-      "telegram_published_at": "2026-10-01T13:46:50.900000+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/1_a3bb34.jpg?w=300",
-      "threads_published_at": "2026-10-01T13:46:52.454346+00:00"
-    },
-    {
       "fingerprint": "ff3e3222cf323fdf0cdd8d59",
       "title": "After 'Crunching Hard' Through Their Final Months, Gears of War: E-Day Developers Are Reportedly Now Expecting Layoffs",
       "url": "https://ign.com/articles/after-crunching-hard-through-their-final-months-gears-of-war-e-day-developers-are-reportedly-now-expecting-layoffs",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5-protagonist-1.png?w=300",
       "threads_published_at": "2026-10-27T06:47:02.935062+00:00"
+    },
+    {
+      "fingerprint": "b6feb2fc22379486734848a5",
+      "title": "The Scariest Game Of The Year Is This Demo For A Game That Isn’t Coming Out",
+      "url": "https://gamespot.com/articles/the-scariest-game-of-the-year-is-this-demo-for-a-game-that-isnt-coming-out",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-26T15:28:21+00:00",
+      "score": 10,
+      "event_key": "darkstone digital releases playable archive demo on steam",
+      "title_ru": "Вышла демоверсия отмененной игры от авторов The Mortuary Assistant",
+      "threads_teaser_ru": "Студия DarkStone Digital выпустила бесплатную демоверсию Playable Archive в Steam. Это материалы отмененной игры во вселенной Paranormal Activity, которая не увидит свет из-за решения Paramount.",
+      "telegram_message_id": "1794",
+      "telegram_url": "https://t.me/gamepulse_newss/1794",
+      "telegram_published_at": "2026-10-27T07:02:21.742940+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Playable-Archive-Shot7-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-27T06:47:02.935168+00:00"
+  "updated_at": "2026-10-27T07:02:21.743250+00:00"
 }
