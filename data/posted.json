@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "12ce64bf27bb244803266a7e",
-      "title": "Kena: Scars of Kosmora launches 2027, Ember Lab shares story overview",
-      "url": "https://blog.playstation.com/2026/10/01/kena-scars-of-kosmora-launches-2027-ember-lab-shares-story-overview",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-01T11:59:54+00:00",
-      "score": 16,
-      "event_key": "kena scars of kosmora release delayed to 2027",
-      "title_ru": "Релиз Kena: Scars of Kosmora перенесен на 2027 год",
-      "threads_teaser_ru": "Разработчики приключения Kena: Scars of Kosmora перенесли выход игры на 2027 год ради дополнительной полировки и расширения масштабов. Проект выйдет на PS5 и PC.",
-      "telegram_message_id": "587",
-      "telegram_url": "https://t.me/gamepulse_newss/587",
-      "telegram_published_at": "2026-10-01T12:16:40.380405+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2028/10/042dd4a3519e7fae26720b85df4cbe292972672e-scaled.jpg",
-      "video_url": "https://stream.mux.com/AOIZUGiDvrtrlhN9Dp01EI4xdFW01rJXHy01n014oyApv7g/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJBT0laVUdpRHZydHJsaE45RHAwMUVJNHhkRlcwMXJKWEh5MDFuMDE0b3lBcHY3ZyIsImF1ZCI6InYiLCJleHAiOjE3OTA5MDAxMzksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.INeHGzfQFJpVlLRbI-iKwH05UvIRCy7AvpCPsJBumNl0CR7PNyJnAqT5eoMWj1h1vbZ7sY878IJKLzT1zr4Z_Z_S0t4u77rTCTWcvtL56BwufmORlkXHlneCKF1W3a21UqwiHWHKctk3UJEwHf06iEsNS8h0dfq5SYI4EaWAxBzMho9h8sdC0QrC2zVaaysg6hm3uwLe_Zlhe1fqxDo_707BcVa1WdgffSgKPDV_TjBtuQ46rnpojviYYk0CbF4koXRrZG56tUx7NOPREsrTXpfyG-QaCsE2NzuPBQLIzIqxWSWPMR8RDcgXmcqk02TmcJV4Wf0taI2HJWcJQUfORw",
-      "threads_published_at": "2026-10-01T12:16:41.705164+00:00"
-    },
-    {
       "fingerprint": "c881256e4b54a28e485cd85d",
       "title": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard",
       "url": "https://rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
@@ -20500,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/tim-sweeney-steam-ai-disclosures-political-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-27T02:47:56.945460+00:00"
+    },
+    {
+      "fingerprint": "b966c350e9b9bafbbf013716",
+      "title": "10 Years Later, Nintendo's Switch Reveal Is a Fascinating Time Capsule",
+      "url": "https://polygon.com/nintendo-switch-nx-reveal-october-2016",
+      "source": "Polygon",
+      "published_at_source": "2026-10-27T01:00:17+00:00",
+      "score": 12,
+      "event_key": "10 year anniversary of Nintendo Switch initial reveal",
+      "title_ru": "Десять лет с момента анонса Nintendo Switch: ретроспектива",
+      "threads_teaser_ru": "С момента анонса Nintendo Switch прошло 10 лет. В 2016 году мало кто верил в успех гибридной консоли после провала Wii U. Вспоминаем, как Nintendo продавала нам идею портативного устройства с «взрослыми» играми вроде Skyrim, и что из этого вышло.",
+      "telegram_message_id": "1788",
+      "telegram_url": "https://t.me/gamepulse_newss/1788",
+      "telegram_published_at": "2026-10-27T03:32:37.841742+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7312765/NintendoSwitch_hardware.0.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-27T02:47:56.945572+00:00"
+  "updated_at": "2026-10-27T03:32:37.842013+00:00"
 }
