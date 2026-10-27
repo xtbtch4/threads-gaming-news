@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f97a0c1827ee0251c612555c",
-      "title": "Former Steelers Head Coach Reveals Minecraft City He’s Been Building For 12 Years",
-      "url": "https://gamespot.com/articles/former-steelers-head-coach-reveals-minecraft-city-hes-been-building-for-12-years",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-01T15:12:49+00:00",
-      "score": 13,
-      "event_key": "former-steelers-coach-reveals-minecraft-city",
-      "title_ru": "Бывший тренер Pittsburgh Steelers показал город в Minecraft, который он строил 12 лет",
-      "threads_teaser_ru": "Бывший тренер Pittsburgh Steelers Майк Томлин показал огромный город в Minecraft, который он строил целых 12 лет. Проект включает небоскребы и спортивные стадионы.",
-      "telegram_message_id": "601",
-      "telegram_url": "https://t.me/gamepulse_newss/601",
-      "telegram_published_at": "2026-10-01T15:47:00.624634+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-10.56.23-AM.jpg?w=300",
-      "threads_published_at": "2026-10-01T15:47:02.101538+00:00"
-    },
-    {
       "fingerprint": "0bb1870b9237fd925eadd86b",
       "title": "IKEA and XBOX Team Up on YXSTABY, a New Collection Made for Gaming at Home",
       "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/05/15/bioshock-thumb-1747268034865.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T09:32:34.796782+00:00"
+    },
+    {
+      "fingerprint": "1864d5fd447db0c9efeec636",
+      "title": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards",
+      "url": "https://eurogamer.net/mass-effect-fans-save-rpg-times-square",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-26T20:07:29+00:00",
+      "score": 7,
+      "event_key": "fans campaign to save Mass Effect series after BioWare closure",
+      "title_ru": "Фанаты Mass Effect запустили кампанию по спасению серии",
+      "threads_teaser_ru": "Фанаты Mass Effect развернули борьбу за спасение серии после закрытия BioWare. На Таймс-сквер появился билборд с хэштегом #SaveMassEffect, а петиция в поддержку франшизы набрала уже более 226 тысяч подписей. В планах — новые акции в преддверии The Game Awards.",
+      "telegram_message_id": "1802",
+      "telegram_url": "https://t.me/gamepulse_newss/1802",
+      "telegram_published_at": "2026-10-27T09:47:03.070721+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Untitled-2_81p0NEm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T09:32:34.796885+00:00"
+  "updated_at": "2026-10-27T09:47:03.070940+00:00"
 }
