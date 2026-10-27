@@ -20497,9 +20497,10 @@
       "telegram_message_id": "1809",
       "telegram_url": "https://t.me/gamepulse_newss/1809",
       "telegram_published_at": "2026-10-27T12:47:32.485785+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-shipment-image-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-shipment-image-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-27T12:47:33.954540+00:00"
     }
   ],
-  "updated_at": "2026-10-27T12:47:32.486053+00:00"
+  "updated_at": "2026-10-27T12:47:33.954630+00:00"
 }
