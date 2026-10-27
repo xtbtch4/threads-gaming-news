@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "74aae4573be04c528ae10b00",
-      "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics is Going Well — And Explains Why He Won't Personally Run for Office",
-      "url": "https://ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T12:08:15+00:00",
-      "score": 13,
-      "event_key": "Ben Affleck rules out run for US political office",
-      "title_ru": "Ben Affleck объяснил, почему не собирается идти в политику",
-      "threads_teaser_ru": "Ben Affleck ответил на слухи о своем возможном уходе в политику. Актер считает, что американская политическая система находится в кризисе, но вместо участия в выборах предпочитает снимать об этом кино.",
-      "telegram_message_id": "621",
-      "telegram_url": "https://t.me/gamepulse_newss/621",
-      "telegram_published_at": "2026-10-02T13:04:33.443803+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/gettyimages-2297607254-1790942302316.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T13:04:34.866988+00:00"
-    },
-    {
       "fingerprint": "f4a0f9c4ea615c52f5a601d4",
       "title": "Ghost of Yōtei Complete Edition – Erika Ishii interview",
       "url": "https://blog.playstation.com/2026/10/02/ghost-of-yotei-complete-edition-erika-ishii-interview",
@@ -20502,7 +20485,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1128.webp?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-8_v4-1792007886.mp4",
       "threads_published_at": "2026-10-27T18:17:15.160927+00:00"
+    },
+    {
+      "fingerprint": "fff5c70493963a9394c728d4",
+      "title": "Play One of the Highest-Rated Call of Duty Games Ever Today",
+      "url": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-27T18:00:00+00:00",
+      "score": 12,
+      "event_key": "Call of Duty Black Ops 6 released on Game Pass",
+      "title_ru": "Call of Duty: Black Ops 6 вышла в Game Pass",
+      "threads_teaser_ru": "Call of Duty: Black Ops 6 пополнила библиотеку подписочного сервиса Game Pass. С сегодняшнего дня подписчики могут опробовать одну из самых высокооцененных игр в истории серии. Узнайте подробности релиза и доступные платформы в нашем основном материале.",
+      "telegram_message_id": "1822",
+      "telegram_url": "https://t.me/gamepulse_newss/1822",
+      "telegram_published_at": "2026-10-27T18:32:53.422597+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/HVk8eKDa8AAfh3U-4b99ce53fff453b2faa3.jpg"
     }
   ],
-  "updated_at": "2026-10-27T18:17:15.161037+00:00"
+  "updated_at": "2026-10-27T18:32:53.422887+00:00"
 }
