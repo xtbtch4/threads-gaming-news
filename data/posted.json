@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0cac1748913e3cb6c3c03456",
-      "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
-      "url": "https://eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-02T06:14:00+00:00",
-      "score": 14,
-      "event_key": "activision_considering_rebooting_halo_series_sledgehammer_games",
-      "title_ru": "Слух: Activision может перезапустить серию Halo",
-      "threads_teaser_ru": "Инсайдеры сообщают, что Activision может перезапустить серию Halo с помощью команд из Sledgehammer Games. Прототипы новой игры создаются на движке Infinity Ward Engine.",
-      "telegram_message_id": "624",
-      "telegram_url": "https://t.me/gamepulse_newss/624",
-      "telegram_published_at": "2026-10-02T13:47:00.973187+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Halo-COD.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-02T13:47:02.528708+00:00"
-    },
-    {
       "fingerprint": "5c6a70cd0770312de1b5b641",
       "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
       "url": "https://gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/27/playstationbook-1793123909530.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-27T19:02:46.269017+00:00"
+    },
+    {
+      "fingerprint": "9f1543e51968bb2b7ddf2ad2",
+      "title": "World of Warcraft Forever Name Reservation Is Broken Ahead of Launch",
+      "url": "https://ign.com/articles/world-of-warcraft-forever-name-reservation-is-broken-ahead-of-launch",
+      "source": "IGN",
+      "published_at_source": "2026-10-27T18:06:57+00:00",
+      "score": 13,
+      "event_key": "World of Warcraft Forever name reservation system launch issues",
+      "title_ru": "Blizzard отложила возможность резервирования имен в World of Warcraft: Forever из-за технических проблем",
+      "threads_teaser_ru": "Система резервирования имен в World of Warcraft: Forever столкнулась с техническими сбоями перед полноценным релизом 4 ноября. У европейских игроков кнопка запуска стала неактивной, а разработчики сообщили о временной приостановке функции до решения проблем.",
+      "telegram_message_id": "1825",
+      "telegram_url": "https://t.me/gamepulse_newss/1825",
+      "telegram_published_at": "2026-10-27T19:17:29.666922+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/19/wow-forever-scenic-announce-skyborne-customization-062-1789806035954.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T19:02:46.269117+00:00"
+  "updated_at": "2026-10-27T19:17:29.667184+00:00"
 }
