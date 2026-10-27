@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cb0d9499dc5dc0ab598adbc7",
-      "title": "Invincible VS Open Beta Begins October 13: What You Need to Know",
-      "url": "https://news.xbox.com/en-us/2026/10/01/invincible-vs-open-beta-begins-october-13",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-01T23:00:00+00:00",
-      "score": 14,
-      "event_key": "invincible-vs-open-beta-angstrom-levy-october-13",
-      "title_ru": "Открытая бета Invincible VS начнется 13 октября",
-      "threads_teaser_ru": "13 октября начнется открытая бета Invincible VS, а также в игру в качестве третьего DLC-бойца второго сезона добавится Angstrom Levy. Его главной особенностью станет использование порталов.",
-      "telegram_message_id": "614",
-      "telegram_url": "https://t.me/gamepulse_newss/614",
-      "telegram_published_at": "2026-10-01T23:02:40.989095+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Season-2-Header-34e4132e69bcd9744a6a.jpg",
-      "threads_published_at": "2026-10-01T23:02:42.420646+00:00"
-    },
-    {
       "fingerprint": "34bccf99f977cd21875169f5",
       "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
       "url": "https://ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
@@ -20501,7 +20484,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2026/10/d90b9946eaf75ed2c43b0b527138cad134f8e02d.jpg",
       "video_url": "https://stream.mux.com/iPNFhQvoxS9KlkQyIOhWEdff5NhsIVSUmTcilpsej00M/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJpUE5GaFF2b3hTOUtsa1F5SU9oV0VkZmY1TmhzSVZTVW1UY2lscHNlajAwTSIsImF1ZCI6InYiLCJleHAiOjE3OTMxNTczNjcsImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.LCs_mOHZt7qMJKTH1qeShF0F_TBiS-5UoW6ZDfvbTD6zbQz59BT1p4nGVS1S5dGwdd8-TgvUjuMRlmIPvrM_I9nLSRrmnmWIDQLCf4p045VNnpo83OjcmOyrtXQTpkTXItqHbtNszj2kSocrB7rUxF8Yl_xPRyZmSeR38BdZMsjQ5p-p0qdMkCirKZ5_jf0twu-wYdGh8dpVMBmkmY_smOiv3w5vLOV4hZBLjfCeYkZmkTakXtyKL56SFHpYPDWDNkQhnZVAgwxzBsdtcY6JUO5ZKxGgP4zi5y2hRuzqhzLScDeRYT5E2qvf2GKeLTM3s9MokxeGFxqJ-Z3wncjf1g",
       "threads_published_at": "2026-10-27T15:17:15.078350+00:00"
+    },
+    {
+      "fingerprint": "70afa30682d5fbae3be9f5c0",
+      "title": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition",
+      "url": "https://rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-27T15:38:47+00:00",
+      "score": 14,
+      "event_key": "dark_messiah_community_edition_announced_with_coop_2026",
+      "title_ru": "Анонсирована Dark Messiah of Might and Magic: Community Edition с кооперативом и поддержкой 64-бит",
+      "threads_teaser_ru": "Фанатский проект Dark Messiah of Might and Magic: Community Edition перенесет игру 2006 года на новый движок Source и добавит кооператив, режим New Game+, поддержку 64-бит и инструменты для создания модов.",
+      "telegram_message_id": "1815",
+      "telegram_url": "https://t.me/gamepulse_newss/1815",
+      "telegram_published_at": "2026-10-27T15:46:42.831080+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Of-Might-and-Magic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-27T15:17:15.078482+00:00"
+  "updated_at": "2026-10-27T15:46:42.831410+00:00"
 }
