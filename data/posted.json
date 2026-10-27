@@ -20497,9 +20497,10 @@
       "telegram_message_id": "1797",
       "telegram_url": "https://t.me/gamepulse_newss/1797",
       "telegram_published_at": "2026-10-27T08:32:23.381145+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/lord-of-the-rings-costume-1793056624990.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/lord-of-the-rings-costume-1793056624990.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-27T08:32:24.615646+00:00"
     }
   ],
-  "updated_at": "2026-10-27T08:32:23.381400+00:00"
+  "updated_at": "2026-10-27T08:32:24.615735+00:00"
 }
