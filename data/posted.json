@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "94b30e690f8bc12683227c2c",
-      "title": "Fallout 76 Slasher C.A.M.P. Contest",
-      "url": "https://fallout.bethesda.net/en-US/news/fallout-76-slasher-c-a-m-p-contest",
-      "source": "Bethesda",
-      "published_at_source": "2026-10-02T00:00:00+00:00",
-      "score": 9,
-      "event_key": "fallout 76 slasher camp contest announcement",
-      "title_ru": "Bethesda анонсировала конкурс тематических построек Slasher C.A.M.P. в Fallout 76",
-      "threads_teaser_ru": "В Fallout 76 стартовал творческий конкурс Slasher C.A.M.P. Игрокам предлагают строить хоррор-локации в духе классических слэшеров. Лучшие авторы получат Atoms и эксклюзивные внутриигровые титулы. Участие доступно на всех платформах, но есть важное ограничение по регионам.",
-      "telegram_message_id": "645",
-      "telegram_url": "https://t.me/gamepulse_newss/645",
-      "telegram_published_at": "2026-10-02T19:47:20.868522+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--1_lbf1L0--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/CAMPexterior_1_odatrj",
-      "threads_published_at": "2026-10-02T19:47:22.224322+00:00"
-    },
-    {
       "fingerprint": "5986bacb4cb6a46b2b4df77b",
       "title": "30 Years Later, Nintendo's Forgotten N64 Racing Game Deserves a Switch 2 Rebirth",
       "url": "https://polygon.com/wave-race-64-nintendo-64-retrospective",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/01/25/palworldearlyaccessreleasedatetrailer-ign-blogroll-1704822459672-1706155084682.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-28T11:32:21.681786+00:00"
+    },
+    {
+      "fingerprint": "84b895f08f834f784414eaf2",
+      "title": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
+      "url": "https://rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-28T11:40:49+00:00",
+      "score": 12,
+      "event_key": "pathologic 3 developers refuse to patch invisible apple tree",
+      "title_ru": "Разработчики Pathologic 3 отказались убирать баг с невидимым яблочным деревом",
+      "threads_teaser_ru": "Для Pathologic 3 вышло последнее крупное обновление с новыми режимами и фоторежимом. Авторы отказались исправлять баг с невидимым яблочным деревом, решив оставить его навсегда как элемент искусства.",
+      "telegram_message_id": "1846",
+      "telegram_url": "https://t.me/gamepulse_newss/1846",
+      "telegram_published_at": "2026-10-28T11:46:57.569790+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/pathologic-3-flamethrowers-and-trees.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-28T11:32:21.681879+00:00"
+  "updated_at": "2026-10-28T11:46:57.570102+00:00"
 }
