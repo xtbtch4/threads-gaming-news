@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "819c22ea6bce92468da22fe1",
-      "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
-      "url": "https://eurogamer.net/gears-of-war-eday-missing-features-update",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-02T10:56:20+00:00",
-      "score": 8,
-      "event_key": "The Coalition explains missing legacy features in Gears of War: E-Day",
-      "title_ru": "В Gears of War: E-Day временно отсутствуют некоторые классические механики",
-      "threads_teaser_ru": "Игроки Gears of War: E-Day заметили пропажу знаковых механик вроде «живого щита» и дуэлей на бензопилах. Разработчики из The Coalition объяснили, почему это произошло и вернутся ли функции в игру.",
-      "telegram_message_id": "653",
-      "telegram_url": "https://t.me/gamepulse_newss/653",
-      "telegram_published_at": "2026-10-02T21:48:43.546252+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/E-Day-meat-shield.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-02T21:48:45.046368+00:00"
-    },
-    {
       "fingerprint": "b5ff21cfe93a12e0b10c742a",
       "title": "The Witcher 3 Is Having A Record-Breaking Comeback In A Very Busy Gaming Month",
       "url": "https://gamespot.com/articles/the-witcher-3-is-having-a-record-breaking-comeback-in-a-very-busy-gaming-month",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/20261028123222_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-28T13:47:42.338191+00:00"
+    },
+    {
+      "fingerprint": "a2db742c1debfff2c934f879",
+      "title": "Explore the Spookier Side of Space in No Man’s Sky: FORSAKEN!",
+      "url": "https://news.xbox.com/en-us/2026/10/28/no-mans-sky-forsaken-update",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-28T14:00:00+00:00",
+      "score": 16,
+      "event_key": "no-mans-sky-forsaken-update-released",
+      "title_ru": "Вышло обновление FORSAKEN для No Man’s Sky",
+      "threads_teaser_ru": "В No Man’s Sky вышло обновление FORSAKEN, добавляющее в игру мрачные космические находки, загадочных торговцев, биомеханические модули для корветов, жуткую кастомизацию и новые полезные функции.",
+      "telegram_message_id": "1854",
+      "telegram_url": "https://t.me/gamepulse_newss/1854",
+      "telegram_published_at": "2026-10-28T14:02:42.567682+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/No-Mans-Sky-Forsaken-Sceen-4-5f4dd497f15ef5310b53.jpg"
     }
   ],
-  "updated_at": "2026-10-28T13:47:42.338266+00:00"
+  "updated_at": "2026-10-28T14:02:42.567950+00:00"
 }
