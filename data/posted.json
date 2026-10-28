@@ -20500,9 +20500,10 @@
       "telegram_message_id": "1857",
       "telegram_url": "https://t.me/gamepulse_newss/1857",
       "telegram_published_at": "2026-10-28T16:02:58.777511+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/witchbrook.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/witchbrook.jpeg?w=300",
+      "threads_published_at": "2026-10-28T16:03:00.347488+00:00"
     }
   ],
-  "updated_at": "2026-10-28T16:02:58.777733+00:00"
+  "updated_at": "2026-10-28T16:03:00.347587+00:00"
 }
