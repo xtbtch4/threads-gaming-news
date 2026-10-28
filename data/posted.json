@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ae0ad36f0af39fd1890406b7",
-      "title": "Epic's new free PC games are now live, and they include an all-time classic",
-      "url": "https://polygon.com/epic-games-store-free-games-10-1-2026-download",
-      "source": "Polygon",
-      "published_at_source": "2026-10-01T07:49:00+00:00",
-      "score": 7,
-      "event_key": "Epic Games Store weekly free games giveaway October 2026",
-      "title_ru": "В Epic Games Store стартовала раздача System Shock 2 и Buried Stars",
-      "threads_teaser_ru": "В Epic Games Store стали доступны для бесплатного скачивания System Shock 2 и визуальная новелла Buried Stars. Забрать игры можно до 8 октября. В раздачу вошла улучшенная юбилейная версия классического иммерсивного симулятора.",
-      "telegram_message_id": "661",
-      "telegram_url": "https://t.me/gamepulse_newss/661",
-      "telegram_published_at": "2026-10-03T00:32:46.734346+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-free-game-sale-banner-epic-games.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T00:32:48.023044+00:00"
-    },
-    {
       "fingerprint": "ab261c226d256b411c65b72c",
       "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
       "url": "https://polygon.com/tactics-games-2026-best-year",
@@ -20504,7 +20487,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/wtp3-poster1-thumb-1793212638545.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-28T20:02:44.710414+00:00"
+    },
+    {
+      "fingerprint": "366edc7ca482d53e1bb69d61",
+      "title": "Mass Effect composer wants to rescore leaked internal ME Universe trailer to \"properly represent my musical vision\"",
+      "url": "https://eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-28T14:40:48+00:00",
+      "score": 14,
+      "event_key": "composer-rescore-cancelled-mass-effect-universe-trailer",
+      "title_ru": "Композитор Mass Effect хочет перезаписать музыку для утечки трейлера отмененного Mass Effect Universe",
+      "threads_teaser_ru": "Композитор оригинальной трилогии Mass Effect Сэм Хьюлик планирует выпустить собственную версию музыки для трейлера отмененного Mass Effect Universe ко дню N7. Он хочет сделать это, чтобы «должным образом отразить свое музыкальное видение», так как оригинал был лишь внутренним прототипом.",
+      "telegram_message_id": "1862",
+      "telegram_url": "https://t.me/gamepulse_newss/1862",
+      "telegram_published_at": "2026-10-28T23:17:22.159768+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/bioware-breaks-down-mass-effect-legendary-editions-extensive-changes-1617748136618.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-28T20:02:44.710498+00:00"
+  "updated_at": "2026-10-28T23:17:22.160004+00:00"
 }
