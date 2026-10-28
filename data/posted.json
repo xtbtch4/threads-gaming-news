@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f8c1120ea7e9fced118791e8",
-      "title": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
-      "url": "https://rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-02T14:09:50+00:00",
-      "score": 7,
-      "event_key": "Micron RAM shortage forecast until 2028",
-      "title_ru": "Дефицит оперативной памяти сохранится как минимум до 2028 года",
-      "threads_teaser_ru": "Дефицит оперативной памяти в ближайшие годы будет только усиливаться. Глава Micron заявил, что спрос будет превышать предложение как минимум до 2028 года, а цены на комплектующие продолжат расти из-за переориентации производителей на нужды ИИ-индустрии.",
-      "telegram_message_id": "659",
-      "telegram_url": "https://t.me/gamepulse_newss/659",
-      "telegram_published_at": "2026-10-02T23:47:26.310310+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ram-stick-pile-resized-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-02T23:47:27.584736+00:00"
-    },
-    {
       "fingerprint": "0eb4ba50122419068e6df78c",
       "title": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
       "url": "https://eurogamer.net/xbox-mythic-achievements-playstation-trophies",
@@ -20504,7 +20487,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/fortnite-battle-pass-skins_fn.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
       "threads_published_at": "2026-10-28T18:03:26.002266+00:00"
+    },
+    {
+      "fingerprint": "39174bb8514edc76ca3a746f",
+      "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
+      "url": "https://rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-28T15:40:46+00:00",
+      "score": 14,
+      "event_key": "Subnautica 2 creative director early access development philosophy",
+      "title_ru": "Креативный директор Subnautica 2 о работе в раннем доступе Steam",
+      "threads_teaser_ru": "Нужно ли разработчикам выпускать в ранний доступ «сырые» прототипы? Креативный директор Subnautica 2 считает, что да: это позволяет игрокам стать полноценными участниками процесса и выстроить доверие к студии.",
+      "telegram_message_id": "1860",
+      "telegram_url": "https://t.me/gamepulse_newss/1860",
+      "telegram_published_at": "2026-10-28T18:18:16.302771+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/subnautica2-digestion-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-28T18:03:26.002384+00:00"
+  "updated_at": "2026-10-28T18:18:16.303145+00:00"
 }
