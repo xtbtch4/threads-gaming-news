@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "451a0f6f8742358d62c37178",
-      "title": "The AOC 16\" Portable USB Monitor For Laptop, Switch, or Gaming Handheld Drops to $47.49 for Prime Day",
-      "url": "https://ign.com/articles/aoc-usb-portable-monitor-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T16:55:00+00:00",
-      "score": 9,
-      "event_key": "AOC 15.6 inch portable monitor price drop Prime Day",
-      "title_ru": "Портативный монитор AOC 15.6\" подешевел до $47.49 на распродаже Prime Day",
-      "threads_teaser_ru": "На Amazon стартовала распродажа Prime Day: портативный монитор AOC 16T20 теперь доступен за $47.49. Устройство весом 1.54 фунта поддерживает подключение к ноутбукам, Steam Deck и Nintendo Switch 2, предлагая 1080p IPS-экран с частотой 60 Гц.",
-      "telegram_message_id": "638",
-      "telegram_url": "https://t.me/gamepulse_newss/638",
-      "telegram_published_at": "2026-10-02T17:48:30.553532+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/aocportablemonitor-1790956313082.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T17:48:32.148115+00:00"
-    },
-    {
       "fingerprint": "25e4354f6f560fcc3b8fc51d",
       "title": "Pokémon TCG’s Final 2026 Set Is Already Causing Even More Preorder Chaos",
       "url": "https://ign.com/articles/pokemon-tcg-delta-reign-where-to-buy",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/27/jbllivebuds3-1793131975975.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-28T03:02:58.869654+00:00"
+    },
+    {
+      "fingerprint": "dd27fca0d06d4058ec36900c",
+      "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
+      "url": "https://rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-27T16:30:29+00:00",
+      "score": 10,
+      "event_key": "Street Fighter V online services disabled due to PHP vulnerability",
+      "title_ru": "Street Fighter V временно снята с продажи и отключена от сети из-за уязвимости PHP",
+      "threads_teaser_ru": "Capcom временно отключила онлайн-функции Street Fighter V и убрала игру из продажи в Steam и PlayStation Store. Причиной стала уязвимость в языке PHP, последствия которой затронули сетевые сервисы. Одиночные режимы остаются доступными для владельцев игры.",
+      "telegram_message_id": "1839",
+      "telegram_url": "https://t.me/gamepulse_newss/1839",
+      "telegram_published_at": "2026-10-28T03:17:25.916183+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Ryu_s242zoh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-28T03:02:58.869746+00:00"
+  "updated_at": "2026-10-28T03:17:25.916510+00:00"
 }
