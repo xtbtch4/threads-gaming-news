@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "aa2925ea919e2c899371d864",
-      "title": "76 Years Ago, 'Peanuts' Shockingly with a Delightfully Cruel First Comic",
-      "url": "https://polygon.com/peanuts-first-comic-strip-76th-anniversary",
-      "source": "Polygon",
-      "published_at_source": "2026-10-02T18:30:05+00:00",
-      "score": 8,
-      "event_key": "76th anniversary of the first Peanuts comic strip",
-      "title_ru": "76 лет со дня выхода первого комикса Peanuts",
-      "threads_teaser_ru": "Первый выпуск комикса Peanuts вышел 76 лет назад. Сегодня многие знают серию как добрую историю, но в самом начале персонажи часто проявляли неожиданную жестокость, а знаменитый Snoopy был лишь обычным псом без каких-либо особенных черт.",
-      "telegram_message_id": "649",
-      "telegram_url": "https://t.me/gamepulse_newss/649",
-      "telegram_published_at": "2026-10-02T20:47:13.286804+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/violet-patty-shermy-the-snoopy-show.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-02T20:47:14.590249+00:00"
-    },
-    {
       "fingerprint": "ec4637d4719de59e5e0c4fb4",
       "title": "Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale",
       "url": "https://ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/State-of-Decay-3-car-fill-up.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-28T12:32:46.452966+00:00"
+    },
+    {
+      "fingerprint": "bba18012c5de70d0ede7c5f2",
+      "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+      "url": "https://gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-28T12:30:33+00:00",
+      "score": 12,
+      "event_key": "valve investigating ai slop problem steam next fest",
+      "title_ru": "Valve ищет решение проблемы с низкокачественным контентом на Steam Next Fest",
+      "threads_teaser_ru": "Valve прокомментировала критику Steam Next Fest из-за обилия низкокачественных и созданных с помощью ИИ демоверсий. Представители компании рассказали, почему в первые дни фестиваля показываются случайные игры.",
+      "telegram_message_id": "1850",
+      "telegram_url": "https://t.me/gamepulse_newss/1850",
+      "telegram_published_at": "2026-10-28T12:46:46.250825+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Next-Fest.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-28T12:32:46.453052+00:00"
+  "updated_at": "2026-10-28T12:46:46.251095+00:00"
 }
