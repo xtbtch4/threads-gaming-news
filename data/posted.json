@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ec4637d4719de59e5e0c4fb4",
-      "title": "Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale",
-      "url": "https://ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T20:30:53+00:00",
-      "score": 9,
-      "event_key": "Lanterns season 1 finale mystery and questions",
-      "title_ru": "Вопросы перед финалом первого сезона сериала Lanterns",
-      "threads_teaser_ru": "Перед финалом первого сезона сериала Lanterns остается множество вопросов: жив ли на самом деле Hal Jordan, кто стоит за его предполагаемым убийством и что связывает персонажей с тайнами прошлого? Разбираемся в главных загадках шоу DC.",
-      "telegram_message_id": "650",
-      "telegram_url": "https://t.me/gamepulse_newss/650",
-      "telegram_published_at": "2026-10-02T21:03:01.149979+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/lanterns-finale-questions-thumb-1790973041764.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T21:03:02.629682+00:00"
-    },
-    {
       "fingerprint": "71ebfe00b2b7eecbe131b6f8",
       "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
       "url": "https://ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Next-Fest.jpg?w=300",
       "threads_published_at": "2026-10-28T12:46:47.771064+00:00"
+    },
+    {
+      "fingerprint": "94d6b5519bb64375ed756e30",
+      "title": "Suit up as Astro Bot in Rayman Legends Retold",
+      "url": "https://blog.playstation.com/2026/10/28/suit-up-as-astro-bot-in-rayman-legends-retold",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-28T13:01:45+00:00",
+      "score": 12,
+      "event_key": "rayman legends retold astro bot costume announcement",
+      "title_ru": "Анонсирован эксклюзивный костюм Astro Bot в Rayman Legends Retold",
+      "threads_teaser_ru": "Rayman Legends Retold выйдет на PlayStation 5 и PlayStation 5 Pro 3 декабря 2026 года с бесплатным эксклюзивным костюмом Astro Bot в магазине портного Victor Velour.",
+      "telegram_message_id": "1851",
+      "telegram_url": "https://t.me/gamepulse_newss/1851",
+      "telegram_published_at": "2026-10-28T13:17:01.954577+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2048/10/e13114d013315c48235e480e4f0fcb97053e66ae-scaled.png"
     }
   ],
-  "updated_at": "2026-10-28T12:46:47.771182+00:00"
+  "updated_at": "2026-10-28T13:17:01.954959+00:00"
 }
