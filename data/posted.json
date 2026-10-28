@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1e097a1dca615b675d91aa1c",
-      "title": "Crimson Desert’s first big DLC officially delayed Crimson Desert’s first big DLC officially delayed",
-      "url": "https://polygon.com/crimson-desert-enhanced-charting-the-unknown-expansion-delayed",
-      "source": "Polygon",
-      "published_at_source": "2026-09-30T06:40:00+00:00",
-      "score": 10,
-      "event_key": "Crimson Desert Charting the Unknown expansion release delayed",
-      "title_ru": "Релиз первого дополнения для Crimson Desert отложен",
-      "threads_teaser_ru": "Первое масштабное дополнение для Crimson Desert под названием Charting the Unknown выйдет позже запланированного срока. Разработчики из Pearl Abyss сдвинули релиз на две недели, чтобы улучшить техническое состояние контента. Теперь расширение стоит ждать 29 октября.",
-      "telegram_message_id": "637",
-      "telegram_url": "https://t.me/gamepulse_newss/637",
-      "telegram_published_at": "2026-10-02T17:32:42.861464+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/crimson-desert-charting-the-unknown-underwater-exploration.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-02T17:32:44.209930+00:00"
-    },
-    {
       "fingerprint": "451a0f6f8742358d62c37178",
       "title": "The AOC 16\" Portable USB Monitor For Laptop, Switch, or Gaming Handheld Drops to $47.49 for Prime Day",
       "url": "https://ign.com/articles/aoc-usb-portable-monitor-deal-october-2026",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--0YTgZ_Ca--/c_lfill,w_1200,h_630/f_auto:image,q_auto/v1/cms/RTSV_LS_IndustrialSite01.png-1b3887ebd1ca22a200df7950b83e32f2",
       "threads_published_at": "2026-10-27T23:32:45.444041+00:00"
+    },
+    {
+      "fingerprint": "08b053862cbce62aec375228",
+      "title": "Save Over 50% Off the JBL Live Buds 3 Noise Canceling Wireless Earbuds Ahead of Black Friday",
+      "url": "https://ign.com/articles/jbl-live-buds-3-noise-canceling-wireless-earbuds-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-27T20:20:00+00:00",
+      "score": 10,
+      "event_key": "amazon discount on jbl live buds 3 earbuds",
+      "title_ru": "JBL Live Buds 3 подешевели более чем на 50% на Amazon",
+      "threads_teaser_ru": "На Amazon началась ранняя скидка на JBL Live Buds 3: цена упала с 200 до 91,99 доллара. Устройство выделяется необычным зарядным кейсом с сенсорным дисплеем и расширенной поддержкой функций Android, включая Google Fast Pair и Google Finder.",
+      "telegram_message_id": "1838",
+      "telegram_url": "https://t.me/gamepulse_newss/1838",
+      "telegram_published_at": "2026-10-28T03:02:57.523512+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/27/jbllivebuds3-1793131975975.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-27T23:32:45.444124+00:00"
+  "updated_at": "2026-10-28T03:02:57.523854+00:00"
 }
