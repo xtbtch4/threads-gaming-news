@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b349ac5aff8c092903843925",
-      "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
-      "url": "https://ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T20:17:52+00:00",
-      "score": 7,
-      "event_key": "AI-powered mashup mods on X using Claude Opus 5.5",
-      "title_ru": "В соцсетях растет число ИИ-модов, объединяющих разные игры",
-      "threads_teaser_ru": "Новый тренд в сети: ИИ-моды, созданные с помощью Claude Opus 5.5, наводнили X. Пользователи смешивают контент из совершенно разных игр, таких как Skyrim, Escape From Tarkov и Batman Arkham City. Рассказываем, как это работает и почему сообщество моддеров встретило новинку крайне негативно.",
-      "telegram_message_id": "657",
-      "telegram_url": "https://t.me/gamepulse_newss/657",
-      "telegram_published_at": "2026-10-02T23:17:26.202497+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/vibecodedmods-explainer-blogroll-1790975025611.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T23:17:27.526884+00:00"
-    },
-    {
       "fingerprint": "3dac65df1799b6551d828bf9",
       "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
       "url": "https://rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/witchbrook.jpeg?w=300",
       "threads_published_at": "2026-10-28T16:03:00.347488+00:00"
+    },
+    {
+      "fingerprint": "538e39981fd680429751c690",
+      "title": "CoD: Modern Warfare 4 And Warzone Season 1 Release Date And Details",
+      "url": "https://gamespot.com/articles/cod-modern-warfare-4-and-warzone-season-1-release-date-and-details",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-28T17:04:50+00:00",
+      "score": 15,
+      "event_key": "cod modern warfare 4 and warzone season 1 release",
+      "title_ru": "Анонсированы дата выхода и подробности первого сезона Call of Duty: Modern Warfare 4 и Warzone",
+      "threads_teaser_ru": "Стали известны подробности первого сезона Call of Duty: Modern Warfare 4 и Warzone, который начнется 6 ноября. Игроков ждет боевой пропуск, новые карты для мультиплеера и DMZ, а также контент для королевской битвы.",
+      "telegram_message_id": "1858",
+      "telegram_url": "https://t.me/gamepulse_newss/1858",
+      "telegram_published_at": "2026-10-28T17:16:56.506762+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4-MP-KILL-BLOCK-INITIAL-INTEL.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-28T16:03:00.347587+00:00"
+  "updated_at": "2026-10-28T17:16:56.506875+00:00"
 }
