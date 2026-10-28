@@ -20500,9 +20500,10 @@
       "telegram_message_id": "1849",
       "telegram_url": "https://t.me/gamepulse_newss/1849",
       "telegram_published_at": "2026-10-28T12:32:44.941461+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/State-of-Decay-3-car-fill-up.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/State-of-Decay-3-car-fill-up.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-28T12:32:46.452966+00:00"
     }
   ],
-  "updated_at": "2026-10-28T12:32:44.941847+00:00"
+  "updated_at": "2026-10-28T12:32:46.453052+00:00"
 }
