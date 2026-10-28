@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b5ff21cfe93a12e0b10c742a",
-      "title": "The Witcher 3 Is Having A Record-Breaking Comeback In A Very Busy Gaming Month",
-      "url": "https://gamespot.com/articles/the-witcher-3-is-having-a-record-breaking-comeback-in-a-very-busy-gaming-month",
-      "source": "GameSpot",
-      "published_at_source": "2026-09-30T06:15:00+00:00",
-      "score": 8,
-      "event_key": "The Witcher 3 Remastered achieves record concurrent players on Steam",
-      "title_ru": "The Witcher 3 показывает рекордные показатели онлайна в Steam",
-      "threads_teaser_ru": "The Witcher 3 Remastered стремительно взлетает в чартах Steam. Несмотря на насыщенный игровыми релизами месяц, проект демонстрирует лучшие показатели одновременного онлайна за всю свою историю. Что именно способствовало такому возвращению?",
-      "telegram_message_id": "654",
-      "telegram_url": "https://t.me/gamepulse_newss/654",
-      "telegram_published_at": "2026-10-02T22:03:00.297265+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-02T22:03:01.863848+00:00"
-    },
-    {
       "fingerprint": "63594c9a0207e01227607a3a",
       "title": "There Are 2,800 Fortnite Skins, But Only The FNAF Skins Have This Special Feature",
       "url": "https://gamespot.com/articles/there-are-2800-fortnite-skins-but-only-the-fnaf-skins-have-this-special-feature",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/No-Mans-Sky-Forsaken-Sceen-4-5f4dd497f15ef5310b53.jpg",
       "threads_published_at": "2026-10-28T14:02:44.068493+00:00"
+    },
+    {
+      "fingerprint": "ff3e134c7807e094b0a679cc",
+      "title": "With The Division 3 Still in Active Development, Ubisoft Announces The Division Franchise Has Hit More Than 50 Million Players",
+      "url": "https://ign.com/articles/the-division-series-50-million-players",
+      "source": "IGN",
+      "published_at_source": "2026-10-28T13:29:29+00:00",
+      "score": 15,
+      "event_key": "the_division_series_reaches_50_million_players",
+      "title_ru": "Аудитория серии The Division превысила 50 миллионов игроков",
+      "threads_teaser_ru": "Аудитория франшизы The Division перешагнула отметку в 50 миллионов игроков в преддверии 10-летнего юбилея серии. Тем временем студия продолжает работу над новым DLC и грядущей The Division 3.",
+      "telegram_message_id": "1855",
+      "telegram_url": "https://t.me/gamepulse_newss/1855",
+      "telegram_published_at": "2026-10-28T14:17:34.244211+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/ss-6a63daf99f4725057f6959b95ffa2f3adc6842c1-1920x1080-1793193337632.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-28T14:02:44.068581+00:00"
+  "updated_at": "2026-10-28T14:17:34.244545+00:00"
 }
