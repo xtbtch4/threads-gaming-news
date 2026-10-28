@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "26e8af668a276ec8d84fe159",
-      "title": "Video Game Release Dates: The Biggest Games Coming Soon",
-      "url": "https://ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T18:20:00+00:00",
-      "score": 15,
-      "event_key": "october video game release dates updated ign",
-      "title_ru": "Главные релизы видеоигр октября",
-      "threads_teaser_ru": "Октябрь принесет множество крупных игровых релизов для современных платформ и PC. Большинство главных игр сезона перенесли на этот месяц, чтобы избежать конкуренции с GTA 6.",
-      "telegram_message_id": "642",
-      "telegram_url": "https://t.me/gamepulse_newss/642",
-      "telegram_published_at": "2026-10-02T19:02:59.533138+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/bgr-oct26-br-1790960497962-1790965879563.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T19:03:00.913245+00:00"
-    },
-    {
       "fingerprint": "118961af1ab0b9db64363eaf",
       "title": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
       "url": "https://ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-28T09:16:41.636805+00:00"
+    },
+    {
+      "fingerprint": "dd7dd54db57c3c57f1939d00",
+      "title": "Leaked Mass Effect 5 trailer is being \"re-scored\" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game",
+      "url": "https://rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-28T10:31:35+00:00",
+      "score": 14,
+      "event_key": "sam hulick rescorting leaked mass effect universe trailer",
+      "title_ru": "Композитор оригинальной трилогии переозвучит утечку по Mass Effect Universe",
+      "threads_teaser_ru": "Композитор оригинальной трилогии Сэм Халик решил переозвучить утёкший трейлер отмененной Mass Effect Universe. Он планирует представить свою работу к N7 Day, чтобы показать свое музыкальное видение проекта.",
+      "telegram_message_id": "1843",
+      "telegram_url": "https://t.me/gamepulse_newss/1843",
+      "telegram_published_at": "2026-10-28T10:32:16.820872+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-5-trailer-re-score-hulick-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-28T09:16:41.636890+00:00"
+  "updated_at": "2026-10-28T10:32:16.821011+00:00"
 }
