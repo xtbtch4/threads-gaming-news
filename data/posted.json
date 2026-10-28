@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e466c4e2441471c10236df37",
-      "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
-      "url": "https://ign.com/articles/paramount-plus-subscription-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T15:30:00+00:00",
-      "score": 8,
-      "event_key": "Paramount plus promotional discount offer october 2026",
-      "title_ru": "Paramount+ предлагает два месяца подписки по сниженной цене",
-      "threads_teaser_ru": "Paramount+ запустил акцию: новые и вернувшиеся пользователи могут оформить подписку Premium за $0,99 в месяц на первые два месяца по промокоду. В предложение входит доступ к библиотеке Showtime, новым сезонам Dexter: Resurrection, Tulsa King и трансляциям UFC.",
-      "telegram_message_id": "652",
-      "telegram_url": "https://t.me/gamepulse_newss/652",
-      "telegram_published_at": "2026-10-02T21:32:44.551382+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/paramountfall-1790788072211.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T21:32:45.844747+00:00"
-    },
-    {
       "fingerprint": "819c22ea6bce92468da22fe1",
       "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
       "url": "https://eurogamer.net/gears-of-war-eday-missing-features-update",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_1966f9.jpg?w=300",
       "threads_published_at": "2026-10-28T13:32:34.395472+00:00"
+    },
+    {
+      "fingerprint": "05ffaf615b624c823e6b147b",
+      "title": "Hot Wax sets fire to the Tetris playbook with slow-burn puzzle mechanics and a dollop of eldritch menace",
+      "url": "https://rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-28T13:30:00+00:00",
+      "score": 12,
+      "event_key": "Hot Wax release on Steam by PUNKCAKE Délicieux",
+      "title_ru": "Аркадная головоломка Hot Wax выходит в Steam",
+      "threads_teaser_ru": "Аркадная головоломка Hot Wax от PUNKCAKE Délicieux добирается до Steam после периода эксклюзивности на Itch.io. В игре нужно не просто складывать фигуры, а управлять таянием свечей-блоков с помощью огня под присмотром мистического божества.",
+      "telegram_message_id": "1853",
+      "telegram_url": "https://t.me/gamepulse_newss/1853",
+      "telegram_published_at": "2026-10-28T13:47:40.957763+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/20261028123222_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-28T13:32:34.395577+00:00"
+  "updated_at": "2026-10-28T13:47:40.957844+00:00"
 }
