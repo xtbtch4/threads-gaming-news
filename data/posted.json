@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0eb4ba50122419068e6df78c",
-      "title": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
-      "url": "https://eurogamer.net/xbox-mythic-achievements-playstation-trophies",
-      "source": "Eurogamer",
-      "published_at_source": "2026-09-30T04:00:00+00:00",
-      "score": 7,
-      "event_key": "Microsoft introduces Mythic Achievements on Xbox platform",
-      "title_ru": "Xbox анонсировала Mythic Achievements: аналог «платины» для PlayStation",
-      "threads_teaser_ru": "На Xbox появится аналог «платины» с PlayStation — Mythic Achievements. Награды будут выдаваться за выполнение всех ачивок в игре, причем их начислят даже за проекты времен Xbox 360. Сейчас функция доступна участникам программы Xbox Insider.",
-      "telegram_message_id": "660",
-      "telegram_url": "https://t.me/gamepulse_newss/660",
-      "telegram_published_at": "2026-10-03T00:18:02.504965+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-insider.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-03T00:18:03.808154+00:00"
-    },
-    {
       "fingerprint": "ae0ad36f0af39fd1890406b7",
       "title": "Epic's new free PC games are now live, and they include an all-time classic",
       "url": "https://polygon.com/epic-games-store-free-games-10-1-2026-download",
@@ -20504,7 +20487,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/subnautica2-digestion-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-28T18:18:18.969992+00:00"
+    },
+    {
+      "fingerprint": "e1a7690cba146422efb5d021",
+      "title": "Winnie-the-Pooh: Blood and Honey 3 Exclusive Trailer",
+      "url": "https://ign.com/articles/winnie-the-pooh-blood-and-honey-3-trailer",
+      "source": "IGN",
+      "published_at_source": "2026-10-28T20:00:00+00:00",
+      "score": 15,
+      "event_key": "winnie the pooh blood and honey 3 trailer release",
+      "title_ru": "Первый трейлер фильма Winnie-the-Pooh: Blood and Honey 3",
+      "threads_teaser_ru": "IGN показал первый трейлер слэшера Winnie-the-Pooh: Blood and Honey 3. Режиссер Скотт Чемберс пообещал масштабное и кровавое зрелище, которое станет важным шагом перед кроссовером Poohniverse: Monsters Assemble.",
+      "telegram_message_id": "1861",
+      "telegram_url": "https://t.me/gamepulse_newss/1861",
+      "telegram_published_at": "2026-10-28T20:02:43.149744+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/wtp3-poster1-thumb-1793212638545.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-28T18:18:18.970091+00:00"
+  "updated_at": "2026-10-28T20:02:43.150012+00:00"
 }
