@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ab261c226d256b411c65b72c",
-      "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
-      "url": "https://polygon.com/tactics-games-2026-best-year",
-      "source": "Polygon",
-      "published_at_source": "2026-10-02T23:00:18+00:00",
-      "score": 6,
-      "event_key": "tactics games genre renaissance and upcoming releases",
-      "title_ru": "Жанр тактических стратегий переживает ренессанс",
-      "threads_teaser_ru": "Тактические стратегии снова в центре внимания. В разработке находятся такие новинки, как Worms Galactic Tactics с элементами роглайта и Rainbow Six Tactics от Ubisoft с уникальной системой планирования штурма. Рассказываем, почему сейчас лучшее время познакомиться с жанром.",
-      "telegram_message_id": "662",
-      "telegram_url": "https://t.me/gamepulse_newss/662",
-      "telegram_published_at": "2026-10-03T00:47:10.973686+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tactics-genre-renaissance.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/star-wars-zero-company-official-gameplay-trailer-1787676541.mp4",
-      "threads_published_at": "2026-10-03T00:47:12.254363+00:00"
-    },
-    {
       "fingerprint": "66a787199d30fc78f2626f99",
       "title": "Fire Emblem Fans Just Cracked Fortune’s Weave’s Biggest Mystery (Maybe)",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-plot-mystery-eshmel-identity",
@@ -20504,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/bioware-breaks-down-mass-effect-legendary-editions-extensive-changes-1617748136618.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-28T23:17:23.447412+00:00"
+    },
+    {
+      "fingerprint": "6926e69f6186213fdb91febc",
+      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
+      "url": "https://ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
+      "source": "IGN",
+      "published_at_source": "2026-10-28T21:16:50+00:00",
+      "score": 13,
+      "event_key": "GTA 5 cast gives advice to GTA 6 actors",
+      "title_ru": "Актеры прошлых частей GTA дали советы исполнителям главных ролей в GTA 6",
+      "threads_teaser_ru": "Актеры, озвучившие Франклина, Майкла, Тревора и Си-Джея, дали советы тем, кто играет Джейсона и Люсию в GTA 6. Они призвали коллег довериться разработчикам из Rockstar и искренне ценить фанатов — главных творцов успеха франшизы.",
+      "telegram_message_id": "1863",
+      "telegram_url": "https://t.me/gamepulse_newss/1863",
+      "telegram_published_at": "2026-10-28T23:33:05.356916+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-28T23:17:23.447522+00:00"
+  "updated_at": "2026-10-28T23:33:05.357222+00:00"
 }
