@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "63594c9a0207e01227607a3a",
-      "title": "There Are 2,800 Fortnite Skins, But Only The FNAF Skins Have This Special Feature",
-      "url": "https://gamespot.com/articles/there-are-2800-fortnite-skins-but-only-the-fnaf-skins-have-this-special-feature",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-02T22:24:45+00:00",
-      "score": 11,
-      "event_key": "Fortnite Five Nights at Freddy's skins damage feature",
-      "title_ru": "Скины из Five Nights at Freddy's получили уникальную механику повреждений в Fortnite",
-      "threads_teaser_ru": "Скины Freddy, Bonnie, Chica и Foxy в Fortnite обзавелись уникальной механикой: они получают визуальные повреждения при попадании по ним. В отличие от других реактивных скинов, этот износ остается с персонажем до конца матча, даже после лечения.",
-      "telegram_message_id": "655",
-      "telegram_url": "https://t.me/gamepulse_newss/655",
-      "telegram_published_at": "2026-10-02T22:47:37.456285+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fortnite-five-nights-at-freddys.jpeg?w=300",
-      "threads_published_at": "2026-10-02T22:47:38.829567+00:00"
-    },
-    {
       "fingerprint": "f82c78617c5074b28344b372",
       "title": "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
       "url": "https://ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/ss-6a63daf99f4725057f6959b95ffa2f3adc6842c1-1920x1080-1793193337632.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-28T14:17:35.712405+00:00"
+    },
+    {
+      "fingerprint": "6b38f2b3299b69c7293d1c2d",
+      "title": "PlayStation Plus Free Games For November 2026 Revealed",
+      "url": "https://gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-28T15:38:07+00:00",
+      "score": 15,
+      "event_key": "playstation plus free games november 2026 revealed",
+      "title_ru": "Раскрыты бесплатные игры для подписчиков PlayStation Plus на ноябрь 2026 года",
+      "threads_teaser_ru": "Стали известны бесплатные игры для подписчиков PlayStation Plus на ноябрь 2026 года. С 3 ноября игроки смогут получить три проекта, включая Dead Island 2 и Tomb Raider 4-6 Remastered.",
+      "telegram_message_id": "1856",
+      "telegram_url": "https://t.me/gamepulse_newss/1856",
+      "telegram_published_at": "2026-10-28T15:47:07.645088+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PS-Plus-November-2026.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-28T14:17:35.712510+00:00"
+  "updated_at": "2026-10-28T15:47:07.645407+00:00"
 }
