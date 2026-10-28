@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "71ebfe00b2b7eecbe131b6f8",
-      "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
-      "url": "https://ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T15:53:56+00:00",
-      "score": 8,
-      "event_key": "James Gunn Peter Safran remain at DC Studios after merger",
-      "title_ru": "Руководители DC Studios Джеймс Ганн и Питер Сафран останутся на своих постах после слияния Paramount и Warner Bros.",
-      "threads_teaser_ru": "Судьба DCU после слияния Paramount и Warner Bros. прояснилась: Джеймс Ганн и Питер Сафран сохранят свои посты. Дэвид Эллисон из Skydance подтвердил, что руководство DC Studios продолжит работу в прежнем режиме, как минимум до истечения контрактов в 2027 году.",
-      "telegram_message_id": "651",
-      "telegram_url": "https://t.me/gamepulse_newss/651",
-      "telegram_published_at": "2026-10-02T21:17:53.112668+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/james-gunn-1790955996038.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T21:17:54.545493+00:00"
-    },
-    {
       "fingerprint": "e466c4e2441471c10236df37",
       "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
       "url": "https://ign.com/articles/paramount-plus-subscription-deal-october-2026",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2048/10/e13114d013315c48235e480e4f0fcb97053e66ae-scaled.png",
       "threads_published_at": "2026-10-28T13:17:03.575107+00:00"
+    },
+    {
+      "fingerprint": "54df89b61e2ed7b14c3c904f",
+      "title": "Mobile Suit Gundam: BATTLE OPERATION 3 – Official Announcement Trailer",
+      "url": "https://gamespot.com/videos/mobile-suit-gundam-battle-operation-3-official-announcement-trailer",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-28T13:20:50+00:00",
+      "score": 15,
+      "event_key": "mobile suit gundam battle operation 3 official announcement",
+      "title_ru": "Анонсирована Mobile Suit Gundam Battle Operation 3",
+      "threads_teaser_ru": "Состоялся анонс Mobile Suit Gundam Battle Operation 3. Новая часть популярной условно-бесплатной серии предложит игрокам стать наемниками и пилотировать легендарные mobile suits в масштабных командных сражениях.",
+      "telegram_message_id": "1852",
+      "telegram_url": "https://t.me/gamepulse_newss/1852",
+      "telegram_published_at": "2026-10-28T13:32:32.833924+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_1966f9.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-28T13:17:03.575206+00:00"
+  "updated_at": "2026-10-28T13:32:32.834153+00:00"
 }
