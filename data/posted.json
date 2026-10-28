@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ad3eb179c891b5c5ee8b1cf4",
-      "title": "Upcoming LEGO Sets: Release Dates for 2026 and Beyond",
-      "url": "https://ign.com/articles/upcoming-lego-set-release-dates",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T19:30:00+00:00",
-      "score": 13,
-      "event_key": "upcoming lego sets release dates 2026 ign",
-      "title_ru": "График релиза новых наборов LEGO на 2026 год и позже",
-      "threads_teaser_ru": "IGN опубликовал подробный график выхода грядущих наборов LEGO на 2026 год и позже. В подборку вошли только официально подтвержденные релизы, включая тематические серии по Nintendo, Star Wars и LEGO PlayStation.",
-      "telegram_message_id": "647",
-      "telegram_url": "https://t.me/gamepulse_newss/647",
-      "telegram_published_at": "2026-10-02T20:16:39.657192+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/01/lego-star-destroyer-1790863458263.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-02T20:16:40.861625+00:00"
-    },
-    {
       "fingerprint": "0550d23568ac444fceec9bcd",
       "title": "12 Replay Ideas That Make Zelda: TOTK Feel Like a Brand-New Game",
       "url": "https://polygon.com/zelda-totk-replay-ideas",
@@ -20502,7 +20485,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/cd2-1793188035545.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-28T12:02:55.072913+00:00"
+    },
+    {
+      "fingerprint": "394faae43761f2bcaed9bb48",
+      "title": "25 Years Later, Nintendo’s Spookiest Game Is a Must-Play On Switch 2",
+      "url": "https://polygon.com/luigis-mansion-gamecube-retrospective-switch-online",
+      "source": "Polygon",
+      "published_at_source": "2026-10-28T11:00:18+00:00",
+      "score": 10,
+      "event_key": "Luigi's Mansion GameCube retrospective and Switch Online availability",
+      "title_ru": "Ретроспектива Luigi's Mansion: от GameCube до Switch",
+      "threads_teaser_ru": "Вспоминая классику: как Luigi's Mansion стала одним из главных стартовых проектов для GameCube и почему в нее стоит сыграть сейчас на Switch 2 благодаря библиотеке Switch Online + Expansion Pack.",
+      "telegram_message_id": "1848",
+      "telegram_url": "https://t.me/gamepulse_newss/1848",
+      "telegram_published_at": "2026-10-28T12:17:10.629478+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/ytdown-com_youtube_media_gvn4hhpfvqq_luigi-s-mansion-nintendo-gamecube-nintendo-classics_001_2160p-1793132239.mp4"
     }
   ],
-  "updated_at": "2026-10-28T12:02:55.073002+00:00"
+  "updated_at": "2026-10-28T12:17:10.629874+00:00"
 }
