@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ddef19613fbc29e29e258463",
-      "title": "61 Years Ago, Star Trek's Greatest Failure Changed the Franchise Forever",
-      "url": "https://polygon.com/star-trek-the-cage-rejected-pilot",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T14:00:15+00:00",
-      "score": 8,
-      "event_key": "nbc_rejected_the_cage_pilot_star_trek",
-      "title_ru": "Как отклоненный пилот Star Trek изменил франшизу",
-      "threads_teaser_ru": "Шестьдесят лет назад NBC отклонил первый пилот Star Trek под названием «The Cage». Несмотря на это, именно в нем зародились многие ключевые идеи, определившие будущее всей культовой франшизы.",
-      "telegram_message_id": "709",
-      "telegram_url": "https://t.me/gamepulse_newss/709",
-      "telegram_published_at": "2026-10-04T14:02:26.033457+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/star-trek-the-cage.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-04T14:02:27.472567+00:00"
-    },
-    {
       "fingerprint": "c9050f433c0498b9a76825d7",
       "title": "A Beloved Critical Role Cast Member Will Officially Miss Campaign 4 for a Long Time",
       "url": "https://polygon.com/critical-role-campaign-4-travis-willingham-return",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Raiders-of-the-North-16x9-1-c91b3dde1ff326105a7d.jpg",
       "threads_published_at": "2026-10-29T20:17:14.617758+00:00"
+    },
+    {
+      "fingerprint": "6de3772e97be7005f1ea06ce",
+      "title": "Patrick Stewart's Greatest Captain Picard Quote Is Still a Defining Star Trek Moment",
+      "url": "https://polygon.com/patrick-stewart-best-star-trek-quote",
+      "source": "Polygon",
+      "published_at_source": "2026-10-29T20:10:37+00:00",
+      "score": 10,
+      "event_key": "Polygon selects greatest Jean-Luc Picard quote Star Trek The Next Generation",
+      "title_ru": "Polygon назвало лучшую цитату капитана Пикара в Star Trek: The Next Generation",
+      "threads_teaser_ru": "Издание Polygon выбрало величайшую цитату капитана Жан-Люка Пикара из сериала Star Trek: The Next Generation. Она звучит не во время командования кораблем, а в одном из самых эмоциональных эпизодов всей франшизы — «The Inner Light».",
+      "telegram_message_id": "1910",
+      "telegram_url": "https://t.me/gamepulse_newss/1910",
+      "telegram_published_at": "2026-10-29T20:33:29.333514+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/t2dsttr_pa001.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-29T20:17:14.617852+00:00"
+  "updated_at": "2026-10-29T20:33:29.333693+00:00"
 }
