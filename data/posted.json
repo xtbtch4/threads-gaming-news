@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "561479fca519998c6e895f1b",
-      "title": "Ace Combat 8 Secretly Has the Best Video Game Music of the Year",
-      "url": "https://polygon.com/ace-combat-8-wings-of-theve-soundtrack",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T18:00:16+00:00",
-      "score": 5,
-      "event_key": "ace-combat-8-wings-of-theve-soundtrack-praise",
-      "title_ru": "Саундтрек Ace Combat 8: Wings of Theve признали лучшим в году",
-      "threads_teaser_ru": "Саундтрек Ace Combat 8: Wings of Theve от Bandai Namco называют одним из лучших в истории видеоигр. Над музыкой работали Keiki Kobayashi, Ryo Watanabe и Mitsuhiro Kitadani, объединив эпический оркестр и рок-мотивы.",
-      "telegram_message_id": "691",
-      "telegram_url": "https://t.me/gamepulse_newss/691",
-      "telegram_published_at": "2026-10-03T18:17:06.084279+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ace-combat-8-wings-of-theve-pilot.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T18:17:07.368269+00:00"
-    },
-    {
       "fingerprint": "d3959ff518a311f07cd02b86",
       "title": "Overwatch's Most Radical Hero Rework in Years is Coming Soon",
       "url": "https://polygon.com/overwatch-sombra-rework-support-dps-alec-dawson",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_29.10.26_1920x1080-d80c149b51007d843111.jpg",
       "threads_published_at": "2026-10-29T15:02:59.046052+00:00"
+    },
+    {
+      "fingerprint": "eb5dc04314fc47fec65215b1",
+      "title": "FromSoftware's Nintendo Switch 2 Exclusive The Duskbloods Officially Delayed Into 2027",
+      "url": "https://ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T14:10:46+00:00",
+      "score": 15,
+      "event_key": "fromsoftware delays the duskbloods to 2027",
+      "title_ru": "The Duskbloods перенесена на 2027 год",
+      "threads_teaser_ru": "Игра The Duskbloods от FromSoftware официально перенесена на 2027 год. Эксклюзив для Nintendo Switch 2 должен был выйти до конца 2026 года, но разработчики решили уделить больше времени балансу и боевой системе.",
+      "telegram_message_id": "1892",
+      "telegram_url": "https://t.me/gamepulse_newss/1892",
+      "telegram_published_at": "2026-10-29T15:17:42.971086+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/theduskbloods-02-1793283021116.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T15:02:59.046167+00:00"
+  "updated_at": "2026-10-29T15:17:42.971330+00:00"
 }
