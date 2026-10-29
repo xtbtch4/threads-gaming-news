@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "db328bfbaf5070dc6f6b3d2c",
-      "title": "RuneScape Reignited launches 2 December",
-      "url": "https://eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-04T12:40:21+00:00",
-      "score": 11,
-      "event_key": "runescape-reignited-launch-date-december-2",
-      "title_ru": "Запуск RuneScape Reignited состоится 2 декабря",
-      "threads_teaser_ru": "Компания Jagex анонсировала запуск RuneScape Reignited для RuneScape. Новый постоянный тип персонажей с собственной экономикой без платной прогрессии появится в игре уже 2 декабря.",
-      "telegram_message_id": "707",
-      "telegram_url": "https://t.me/gamepulse_newss/707",
-      "telegram_published_at": "2026-10-04T12:46:56.518047+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-13.25.20.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-04T12:46:57.885233+00:00"
-    },
-    {
       "fingerprint": "9a9950f5373e376c97d48e23",
       "title": "Xbox Finally Had a Good Week",
       "url": "https://polygon.com/patch-notes-xbox-disc-to-digital",
@@ -20500,7 +20483,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22722785/TAEGO_key_art.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled-1793267975.mp4",
       "threads_published_at": "2026-10-29T19:33:14.375875+00:00"
+    },
+    {
+      "fingerprint": "d5875b9a72cb47e08e907567",
+      "title": "Ubisoft Is Pumping The Brakes On Assassin’s Creed Remakes For Now",
+      "url": "https://gamespot.com/articles/ubisoft-is-pumping-the-brakes-on-assassins-creed-remakes-for-now",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-29T18:00:48+00:00",
+      "score": 12,
+      "event_key": "ubisoft pause development of new assassin creed remakes",
+      "title_ru": "Ubisoft временно отказалась от разработки новых ремейков Assassin's Creed",
+      "threads_teaser_ru": "Ubisoft официально подтвердила, что сейчас не работает над новыми ремейками Assassin's Creed, сосредоточившись на будущих главах серии. Стали известны планы по развитию Codename Hexe и Codename Invictus, а также детали крупных обновлений для Assassin's Creed Black Flag Resynced и Assassin's Creed Valhalla.",
+      "telegram_message_id": "1908",
+      "telegram_url": "https://t.me/gamepulse_newss/1908",
+      "telegram_published_at": "2026-10-29T20:03:22.154428+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/07/Black-Flag-Resynced.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-29T19:33:14.375986+00:00"
+  "updated_at": "2026-10-29T20:03:22.154742+00:00"
 }
