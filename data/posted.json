@@ -20499,9 +20499,10 @@
       "telegram_message_id": "1877",
       "telegram_url": "https://t.me/gamepulse_newss/1877",
       "telegram_published_at": "2026-10-29T10:02:33.066178+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-29T10:02:34.682724+00:00"
     }
   ],
-  "updated_at": "2026-10-29T10:02:33.066480+00:00"
+  "updated_at": "2026-10-29T10:02:34.682808+00:00"
 }
