@@ -20499,9 +20499,10 @@
       "telegram_message_id": "1867",
       "telegram_url": "https://t.me/gamepulse_newss/1867",
       "telegram_published_at": "2026-10-29T02:17:26.431588+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300",
+      "threads_published_at": "2026-10-29T02:17:27.983719+00:00"
     }
   ],
-  "updated_at": "2026-10-29T02:17:26.431860+00:00"
+  "updated_at": "2026-10-29T02:17:27.983814+00:00"
 }
