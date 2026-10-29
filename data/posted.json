@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1dcb31fd66bdcc3371ae0046",
-      "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
-      "url": "https://polygon.com/dan-houser-absured-ventures-open-world-game",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T15:50:02+00:00",
-      "score": 14,
-      "event_key": "dan houser avoiding grand theft auto 6 for new games",
-      "title_ru": "Сооснователь Rockstar Дэн Хаузер избегает просмотра Grand Theft Auto 6 ради новой игры",
-      "threads_teaser_ru": "Основатель Absurd Ventures и бывший лидер разработки Grand Theft Auto Дэн Хаузер намеренно не стал смотреть геймплей Grand Theft Auto 6, чтобы не отвлекаться от создания собственных новых игр в открытом мире.",
-      "telegram_message_id": "686",
-      "telegram_url": "https://t.me/gamepulse_newss/686",
-      "telegram_published_at": "2026-10-03T16:02:36.447161+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/gta-6-take-two-earnings-call-header.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T16:02:37.895671+00:00"
-    },
-    {
       "fingerprint": "c60ed33e671430fdd9b7c5f9",
       "title": "Fire Emblem: Fortune's Weave Doesn't Have to Be a Slog",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-free-time-too-big",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/atari-hotels-breaks-ground-phoenix-1793229732223.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T13:32:40.526270+00:00"
+    },
+    {
+      "fingerprint": "3899c93171e40b597bb1d1a1",
+      "title": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
+      "url": "https://eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-29T13:40:45+00:00",
+      "score": 13,
+      "event_key": "mouthwashing released on consoles and xbox game pass",
+      "title_ru": "Mouthwashing вышла на консолях и в Xbox Game Pass",
+      "threads_teaser_ru": "Признанный хоррор Mouthwashing от Wrong Organ стал доступен на консолях PS4, PS5, Switch и Xbox, а также пополнил каталог Xbox Game Pass. Ранее игра покорила ПК-игроков своей жуткой атмосферой и нелинейной историей.",
+      "telegram_message_id": "1887",
+      "telegram_url": "https://t.me/gamepulse_newss/1887",
+      "telegram_published_at": "2026-10-29T13:47:53.414346+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-29T13:32:40.526365+00:00"
+  "updated_at": "2026-10-29T13:47:53.414747+00:00"
 }
