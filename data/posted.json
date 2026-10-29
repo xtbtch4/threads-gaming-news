@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b0e62b892c669ed788b6278e",
-      "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
-      "url": "https://polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T23:00:16+00:00",
-      "score": 7,
-      "event_key": "shaun-escayg-leads-uncharted-5-after-lost-legacy",
-      "title_ru": "Uncharted: The Lost Legacy остается лучшей игрой серии",
-      "threads_teaser_ru": "Режиссер Uncharted: The Lost Legacy Шон Эскаиг, как сообщается, возглавляет разработку Uncharted 5. Почему спин-офф 2017 года до сих пор считается лучшей частью серии и в чем его главное отличие от Uncharted 4?",
-      "telegram_message_id": "700",
-      "telegram_url": "https://t.me/gamepulse_newss/700",
-      "telegram_published_at": "2026-10-03T23:16:50.436260+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lost-legacy-chloe-cropped.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T23:16:51.637513+00:00"
-    },
-    {
       "fingerprint": "1bda18304d0b21fcce79587b",
       "title": "31 Years Ago, 'X-Files' Reached Its Zenith with a Near-Perfect 3-Part Thriller",
       "url": "https://polygon.com/the-x-files-anasazi-the-blessing-way-paper-clip",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-1-81be11dfea4d5d8f97e7.jpg",
       "threads_published_at": "2026-10-29T17:32:49.664637+00:00"
+    },
+    {
+      "fingerprint": "92a93d96e7ef74fb5e17008c",
+      "title": "PlayStation Pulse Wireless Headset Is Up for Preorder for $99, and It’s Out the Same Day as GTA 6",
+      "url": "https://ign.com/articles/playstation-pulse-wireless-headset-where-to-buy",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T16:30:56+00:00",
+      "score": 13,
+      "event_key": "playstation_pulse_wireless_headset_preorder_launch",
+      "title_ru": "Открылся предзаказ на PlayStation Pulse Wireless Headset",
+      "threads_teaser_ru": "Для PS5 стали доступны предзаказы на беспроводную гарнитуру PlayStation Pulse Wireless Headset стоимостью $99. Устройство поступит в продажу 19 ноября — в один день с Grand Theft Auto VI.",
+      "telegram_message_id": "1901",
+      "telegram_url": "https://t.me/gamepulse_newss/1901",
+      "telegram_published_at": "2026-10-29T17:47:51.245072+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/screenshot-2026-10-29-at-11-58-12-am-1793289668592.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T17:32:49.664721+00:00"
+  "updated_at": "2026-10-29T17:47:51.245413+00:00"
 }
