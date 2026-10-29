@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e7614a1f93ab276f213f2d55",
-      "title": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
-      "url": "https://eurogamer.net/nivalis-nights-now-playing",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-04T09:01:54+00:00",
-      "score": 9,
-      "event_key": "nivalis-nights-preview-ion-lands",
-      "title_ru": "Nivalis Nights: впечатления от игры",
-      "threads_teaser_ru": "Новая игра Nivalis Nights от Ion Lands сочетает эстетику антиутопического мегаполиса, менеджмент лапшичной, рыбалку и неожиданные сюжетные задания. Что из этого получилось?",
-      "telegram_message_id": "703",
-      "telegram_url": "https://t.me/gamepulse_newss/703",
-      "telegram_published_at": "2026-10-04T09:02:15.329323+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/nivalis-nights-header-brighter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-04T09:02:16.572004+00:00"
-    },
-    {
       "fingerprint": "e45f176b5d88724bb4701aa3",
       "title": "GOTY 2026’s Final Nomination Is a Battleground of 8/10 Games",
       "url": "https://polygon.com/goty-watch-nominations-metacritic-85-club",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/celeste_kd0c89V.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T18:17:39.868334+00:00"
+    },
+    {
+      "fingerprint": "1c0a16abc865f8d70ad27936",
+      "title": "Forza Motorsport Director and Turn 10 Boss Dan Greenawalt Retiring From Microsoft After 27 Years",
+      "url": "https://ign.com/articles/forza-motorsport-director-and-turn-10-boss-dan-greenawalt-retiring-from-microsoft-after-27-years",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T17:22:00+00:00",
+      "score": 13,
+      "event_key": "Dan Greenawalt retiring from Turn 10 Studios and Microsoft",
+      "title_ru": "Дэн Гринауолт покидает Microsoft после 27 лет работы",
+      "threads_teaser_ru": "Основатель Turn 10 Studios и ветеран Microsoft Дэн Гринауолт объявил об уходе из компании спустя 27 лет. Он руководил развитием восьми частей Forza Motorsport и стоял у истоков игровой франшизы, но теперь его студия переходит в режим поддержки Forza Horizon.",
+      "telegram_message_id": "1904",
+      "telegram_url": "https://t.me/gamepulse_newss/1904",
+      "telegram_published_at": "2026-10-29T18:33:00.035751+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/forzamotorsport-2023-blog-1696401871647-1793294503886.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T18:17:39.868426+00:00"
+  "updated_at": "2026-10-29T18:33:00.036139+00:00"
 }
