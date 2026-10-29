@@ -20498,9 +20498,10 @@
       "telegram_message_id": "1895",
       "telegram_url": "https://t.me/gamepulse_newss/1895",
       "telegram_published_at": "2026-10-29T16:18:01.599713+00:00",
-      "threads_id": null,
-      "image_url": "https://drop-assets.ea.com/images/4JZSZYhNcauO6bysVQNEG7/e918ac130d826e30b96dbfc8295730e2/Apex_S31-Season_Crypto-Rewired-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.28020833333333334,yPosition=0.49537037037037035"
+      "threads_id": "disabled",
+      "image_url": "https://drop-assets.ea.com/images/4JZSZYhNcauO6bysVQNEG7/e918ac130d826e30b96dbfc8295730e2/Apex_S31-Season_Crypto-Rewired-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.28020833333333334,yPosition=0.49537037037037035",
+      "threads_published_at": "2026-10-29T16:18:03.490572+00:00"
     }
   ],
-  "updated_at": "2026-10-29T16:18:01.600084+00:00"
+  "updated_at": "2026-10-29T16:18:03.490661+00:00"
 }
