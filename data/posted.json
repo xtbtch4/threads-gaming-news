@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0abd4031db479dfa9c4eb80b",
-      "title": "26 Years Later, Charles Schulz’s Final Comic Strip Is Still an All-Time Peanuts Classic",
-      "url": "https://polygon.com/final-peanuts-comic-strip-charles-schulz",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T11:00:16+00:00",
-      "score": 8,
-      "event_key": "charles_schulz_final_peanuts_comic_strip_2000",
-      "title_ru": "История создания и завершения комикса Peanuts",
-      "threads_teaser_ru": "Комикс Peanuts выходил на протяжении 50 лет, пока ухудшение здоровья не заставило Чарльза Шульца завершить работу. Финальный выпуск был опубликован в феврале 2000 года.",
-      "telegram_message_id": "705",
-      "telegram_url": "https://t.me/gamepulse_newss/705",
-      "telegram_published_at": "2026-10-04T11:02:00.197966+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown-emotional-gut-punch-in-peanuts-comic.avif?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
-      "threads_published_at": "2026-10-04T11:02:01.469676+00:00"
-    },
-    {
       "fingerprint": "157856bb38f96e63ae321011",
       "title": "10 Perfect Hard Sci-Fi Books That I Knew Would Be Masterpieces From the First 10 Pages",
       "url": "https://polygon.com/10-perfect-hard-sci-fi-books-that-are-masterpieces-from-the-first-10-pages",
@@ -20500,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-dread-enemies.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T18:47:16.002725+00:00"
+    },
+    {
+      "fingerprint": "54e2ee3e74d0a14064f4b4a6",
+      "title": "Assassin's Creed Valhalla is Getting New Game+ Six Years After Release",
+      "url": "https://ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T18:40:23+00:00",
+      "score": 15,
+      "event_key": "assassins-creed-valhalla-new-game-plus-update",
+      "title_ru": "Assassin's Creed Valhalla получит режим New Game+",
+      "threads_teaser_ru": "Спустя шесть лет после релиза Ubisoft добавляет режим New Game+ в Assassin's Creed Valhalla. Обновление выйдет 5 ноября и принесет новые достижения, руны, систему схронов и материал Mithril.",
+      "telegram_message_id": "1906",
+      "telegram_url": "https://t.me/gamepulse_newss/1906",
+      "telegram_published_at": "2026-10-29T19:02:54.042040+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2021/05/25/assassins-creed-valhalla-1621913022247.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T18:47:16.002812+00:00"
+  "updated_at": "2026-10-29T19:02:54.042349+00:00"
 }
