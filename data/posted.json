@@ -20496,10 +20496,11 @@
       "telegram_message_id": "1907",
       "telegram_url": "https://t.me/gamepulse_newss/1907",
       "telegram_published_at": "2026-10-29T19:33:12.796633+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22722785/TAEGO_key_art.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled-1793267975.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled-1793267975.mp4",
+      "threads_published_at": "2026-10-29T19:33:14.375875+00:00"
     }
   ],
-  "updated_at": "2026-10-29T19:33:12.796996+00:00"
+  "updated_at": "2026-10-29T19:33:14.375986+00:00"
 }
