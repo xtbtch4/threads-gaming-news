@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c69bf5150c2c4273ff1e5ffb",
-      "title": "'Game Changer' Season 9 Will Have \"Unexplainable\" Games, Dropout CEO Sam Reich Reveals",
-      "url": "https://polygon.com/game-changer-season-9-dropout-ceo-sam-reich-interview",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T17:00:19+00:00",
-      "score": 10,
-      "event_key": "sam reich game changer season 9 interview",
-      "title_ru": "Генеральный директор Dropout поделился подробностями о девятом сезоне Game Changer",
-      "threads_teaser_ru": "Генеральный директор Dropout Sam Reich рассказал о подготовке к девятому сезону Game Changer, съемки которого стартуют в октябре. Зрителей ждут максимально странные и сюрреалистичные игры.",
-      "telegram_message_id": "689",
-      "telegram_url": "https://t.me/gamepulse_newss/689",
-      "telegram_published_at": "2026-10-03T17:01:56.312214+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/game-changer-season-8-sam-reich-host-1.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/game-changer-season-8-trailer-dropout-exclusive-series-1783529442.mp4",
-      "threads_published_at": "2026-10-03T17:01:57.444263+00:00"
-    },
-    {
       "fingerprint": "1876f66fd02d53c40ef0efd3",
       "title": "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
       "url": "https://ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
@@ -20503,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T14:32:45.464773+00:00"
+    },
+    {
+      "fingerprint": "d896433335aac83f7a1005ed",
+      "title": "The GTA 6: Original Score Has a Release Date and a Brand New Track You Can Listen to Right Now",
+      "url": "https://ign.com/articles/the-gta-6-original-score-has-a-release-date-and-a-brand-new-track-you-can-listen-to-right-now",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T13:32:04+00:00",
+      "score": 15,
+      "event_key": "grand-theft-auto-vi-original-score-release-date-justice",
+      "title_ru": "Анонсирована дата выхода оригинального саундтрека Grand Theft Auto VI от Justice",
+      "threads_teaser_ru": "Rockstar Games назвала дату выхода официального саундтрека Grand Theft Auto VI от группы Justice и поделилась подробностями масштабного музыкального сопровождения игры.",
+      "telegram_message_id": "1890",
+      "telegram_url": "https://t.me/gamepulse_newss/1890",
+      "telegram_published_at": "2026-10-29T14:47:23.561278+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/unnamed-7-1793280697268.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T14:32:45.464876+00:00"
+  "updated_at": "2026-10-29T14:47:23.561568+00:00"
 }
