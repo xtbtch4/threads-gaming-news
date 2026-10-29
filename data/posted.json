@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5a8a7e44bffaacbedb02586b",
-      "title": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works",
-      "url": "https://eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-03T09:00:00+00:00",
-      "score": 6,
-      "event_key": "gears of war e-day gore and combat design",
-      "title_ru": "Разработчики Gears of War: E-Day рассказали об инвестициях в жестокость",
-      "threads_teaser_ru": "Авторы Gears of War: E-Day объяснили, почему вложились в детальную и реалистичную систему насилия, чтобы фанаты перестали воспринимать кровь как должное.",
-      "telegram_message_id": "675",
-      "telegram_url": "https://t.me/gamepulse_newss/675",
-      "telegram_published_at": "2026-10-03T10:32:17.996872+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Eday-chainsaw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-03T10:32:19.251068+00:00"
-    },
-    {
       "fingerprint": "ada77f96f5c3f4d06d1c75d5",
       "title": "Memory shortages set to persist into 2028, warns Micron CEO",
       "url": "https://eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
@@ -20502,7 +20485,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2026/10/ec5c0d2e679dafae07f9cca8e57d110598289457.jpg",
       "video_url": "https://stream.mux.com/Nt20193CbfocuKPWxfZrUyInbgtdxUg6Kese7gnqLFD00/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJOdDIwMTkzQ2Jmb2N1S1BXeGZaclV5SW5iZ3RkeFVnNktlc2U3Z25xTEZEMDAiLCJhdWQiOiJ2IiwiZXhwIjoxNzkzMzAxNDM5LCJraWQiOiI0TDV5T2NqclYxTlVxVnpjVXZKQm4xd1RtNGVUR0c5TWgwMjAxWWs1anU5TkEifQ.YqQUGcWkmM8oO-DtbWMEWlqQdlOwNwI2wpbjdf1eUQOkKJqgj7pv59whiXTnb8Jn1UTtoCYZJojV4ObPaqHUyYi4LIcQLhJT7SR__hOzRh4PE_-o_5O3ZqcIbmEHLu4rDriZzfgIDxXFa2HaMthMqvbr4kY8jvBYSia-flf7RrPaAJcZGIRXaPMJah_M16buH7SAof-ePbP9mcWCNy34gEMoOtjVWf8HuoCK5TnCne3zmoDQOw54fIJB8-FRr_o51WaKvQzTFS4iapm-7lsJyHv2hxR70sH2BrlfcJzp9OhMPOdZsXKjcy687nZ_9E7sXaSv5dtRB46DC6qNpdIQGg",
       "threads_published_at": "2026-10-29T07:17:27.074059+00:00"
+    },
+    {
+      "fingerprint": "624da84cb204c2861c4a7593",
+      "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
+      "url": "https://eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-29T09:26:46+00:00",
+      "score": 13,
+      "event_key": "phantom-blade-zero-successful-steam-launch-sales",
+      "title_ru": "Phantom Blade Zero успешно стартовала на Steam",
+      "threads_teaser_ru": "Wuxia-экшен Phantom Blade Zero от S-Game успешно стартовал на релизе: пиковый онлайн в Steam превысил 431 тысячу игроков, а общие продажи игры, по оценкам аналитиков, перешагнули отметку в миллион копий.",
+      "telegram_message_id": "1876",
+      "telegram_url": "https://t.me/gamepulse_newss/1876",
+      "telegram_published_at": "2026-10-29T09:32:21.033213+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/phantom-blade-zero-hammer-attack-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-29T07:17:27.074160+00:00"
+  "updated_at": "2026-10-29T09:32:21.033400+00:00"
 }
