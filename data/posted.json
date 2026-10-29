@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a0c505cc10a52e96119f1644",
-      "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
-      "url": "https://polygon.com/best-anime-arcs-that-are-perfect",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T08:00:15+00:00",
-      "score": 6,
-      "event_key": "polygon_best_anime_story_arcs_selection",
-      "title_ru": "Издание Polygon назвало пять лучших сюжетных арок в истории аниме",
-      "threads_teaser_ru": "Издание Polygon представило подборку из пяти лучших сюжетных арок в истории аниме, которые приближаются к идеалу благодаря проработанным персонажам и сильным развязкам. В список вошли культовые истории из таких известных сериалов.",
-      "telegram_message_id": "702",
-      "telegram_url": "https://t.me/gamepulse_newss/702",
-      "telegram_published_at": "2026-10-04T08:02:25.797607+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mob-psycho-scary-painting.webp?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-04T08:02:27.190188+00:00"
-    },
-    {
       "fingerprint": "e7614a1f93ab276f213f2d55",
       "title": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
       "url": "https://eurogamer.net/nivalis-nights-now-playing",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2022/09/10/hexe-1662841484669.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T18:02:52.146817+00:00"
+    },
+    {
+      "fingerprint": "2059e95479c86f4c58d096e9",
+      "title": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
+      "url": "https://rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-29T17:49:39+00:00",
+      "score": 14,
+      "event_key": "Celeste and TowerFall removed from Xbox Store for BDS boycott",
+      "title_ru": "Celeste и TowerFall удалены из магазина Xbox в поддержку бойкота BDS",
+      "threads_teaser_ru": "Игры Celeste и TowerFall исчезли из магазина Xbox. Разработчики удалили их в знак поддержки движения BDS и бойкота Microsoft. Ранее подобные решения приняли создатели Big Walk и других проектов, протестуя против сотрудничества корпорации с израильскими военными.",
+      "telegram_message_id": "1903",
+      "telegram_url": "https://t.me/gamepulse_newss/1903",
+      "telegram_published_at": "2026-10-29T18:17:38.361376+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/celeste_kd0c89V.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-29T18:02:52.146903+00:00"
+  "updated_at": "2026-10-29T18:17:38.361681+00:00"
 }
