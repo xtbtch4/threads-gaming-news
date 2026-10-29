@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "784ba3570c7fc2e9b34eeb06",
-      "title": "Arc Raiders Will Temporarily Go Free-to-Play Alongside Major Update",
-      "url": "https://polygon.com/arc-raiders-free-to-play-weekend-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T13:08:43+00:00",
-      "score": 10,
-      "event_key": "arc raiders free to play weekend frozen trail update",
-      "title_ru": "Arc Raiders получит бесплатные выходные вместе с масштабным обновлением",
-      "threads_teaser_ru": "Embark Studios проведет бесплатные выходные в Arc Raiders на Steam, Xbox и PlayStation с 8 по 12 октября. Акция совпадет с релизом крупного обновления Frozen Trail.",
-      "telegram_message_id": "680",
-      "telegram_url": "https://t.me/gamepulse_newss/680",
-      "telegram_published_at": "2026-10-03T13:17:33.194941+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/arc-raiders-update-1-36-0.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T13:17:34.690657+00:00"
-    },
-    {
       "fingerprint": "1fbcf21f6b06f6d9cbf058cf",
       "title": "Infinity Sweeper",
       "url": "https://fr.ign.com/infinity-sweeper",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T11:32:20.712591+00:00"
+    },
+    {
+      "fingerprint": "92f526cf35c5a03b619a5c1a",
+      "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
+      "url": "https://eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-29T11:59:54+00:00",
+      "score": 11,
+      "event_key": "world of warcraft housing cosmetics controversy kul tiran",
+      "title_ru": "Игроки World of Warcraft недовольны новыми предметами для жилья",
+      "threads_teaser_ru": "Игроки World of Warcraft критикуют Blizzard за новые наборы декора для жилья в стиле Kul Tiran. Сообщество считает это нарушением прежних обещаний не продавать расовые предметы в магазине.",
+      "telegram_message_id": "1881",
+      "telegram_url": "https://t.me/gamepulse_newss/1881",
+      "telegram_published_at": "2026-10-29T12:02:47.786816+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-29T11:32:20.712681+00:00"
+  "updated_at": "2026-10-29T12:02:47.786974+00:00"
 }
