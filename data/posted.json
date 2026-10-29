@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2b9824726b1a49e60fcbfa9e",
-      "title": "God Of War Ragnarok Is Finally Cheap Enough To Make Me Say “Boy, Buy It”",
-      "url": "https://gamespot.com/articles/god-of-war-ragnarok-is-finally-cheap-enough-to-make-me-say-boy-buy-it",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-02T14:31:42+00:00",
-      "score": 6,
-      "event_key": "God of War Ragnarok PC version lowest price Fanatical",
-      "title_ru": "God of War Ragnarok подешевела на ПК до исторического минимума",
-      "threads_teaser_ru": "PC-версия God of War Ragnarok получила рекордную скидку на площадке Fanatical. Это отличный повод приобщиться к приключениям Кратоса и Атрея в скандинавском сеттинге, включая масштабный roguelite-режим Valhalla, который добавляет игре глубины и новую сюжетную линию.",
-      "telegram_message_id": "664",
-      "telegram_url": "https://t.me/gamepulse_newss/664",
-      "telegram_published_at": "2026-10-03T01:17:25.517191+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-god-of-war-ragnarok-deal-discount.jpg?w=300",
-      "threads_published_at": "2026-10-03T01:17:26.803468+00:00"
-    },
-    {
       "fingerprint": "d642466598e0a00d69053f20",
       "title": "Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming’s Biggest Annoyances",
       "url": "https://gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T01:02:33.082091+00:00"
+    },
+    {
+      "fingerprint": "417e34cc46e083bac87c708c",
+      "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2",
+      "url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-28T15:31:43+00:00",
+      "score": 13,
+      "event_key": "playstation-plus-monthly-games-lineup-november-announcement",
+      "title_ru": "Анонсирована подборка игр PlayStation Plus на ноябрь",
+      "threads_teaser_ru": "Стали известны игры, которые пополнят библиотеку PlayStation Plus в ноябре. Подписчики сервиса получат доступ к Dead Island 2, сборнику Tomb Raider IV – VI Remastered и стратегии Monster Train 2. Игры будут доступны для загрузки с 3 ноября.",
+      "telegram_message_id": "1865",
+      "telegram_url": "https://t.me/gamepulse_newss/1865",
+      "telegram_published_at": "2026-10-29T01:47:32.501851+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/ee14b16f5f65f3dd7cdf074a83bbfa255de288ea-scaled.jpg"
     }
   ],
-  "updated_at": "2026-10-29T01:02:33.082186+00:00"
+  "updated_at": "2026-10-29T01:47:32.502231+00:00"
 }
