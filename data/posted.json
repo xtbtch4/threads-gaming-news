@@ -20499,9 +20499,10 @@
       "telegram_message_id": "1879",
       "telegram_url": "https://t.me/gamepulse_newss/1879",
       "telegram_published_at": "2026-10-29T11:17:17.434942+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-smell-reaction-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-smell-reaction-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-29T11:17:18.833425+00:00"
     }
   ],
-  "updated_at": "2026-10-29T11:17:17.435108+00:00"
+  "updated_at": "2026-10-29T11:17:18.833521+00:00"
 }
