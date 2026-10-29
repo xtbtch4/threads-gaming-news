@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8b8fa14d6a3a91c976dc4287",
-      "title": "Pokémon Winds and Waves Could Completely Change Pokémon Forever",
-      "url": "https://polygon.com/switchboard-pokemon-winds-waves-leaks",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T13:00:21+00:00",
-      "score": 8,
-      "event_key": "pokemon_winds_and_waves_leaks_gen_10",
-      "title_ru": "Утечки раскрыли подробности Pokémon Winds and Waves",
-      "threads_teaser_ru": "Новые утечки по Pokémon Winds and Waves раскрыли детали о Gen 10, картах и грядущих изменениях в механике серии. Что готовит Game Freak к 2027 году?",
-      "telegram_message_id": "679",
-      "telegram_url": "https://t.me/gamepulse_newss/679",
-      "telegram_published_at": "2026-10-03T13:02:47.853339+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/poke-mon-presents-_-2-27-2026-23-35-screenshot.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T13:02:49.227545+00:00"
-    },
-    {
       "fingerprint": "784ba3570c7fc2e9b34eeb06",
       "title": "Arc Raiders Will Temporarily Go Free-to-Play Alongside Major Update",
       "url": "https://polygon.com/arc-raiders-free-to-play-weekend-october-2026",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-smell-reaction-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T11:17:18.833425+00:00"
+    },
+    {
+      "fingerprint": "30357ced48e72d2ef68c6dec",
+      "title": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments",
+      "url": "https://eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-29T11:11:01+00:00",
+      "score": 11,
+      "event_key": "modern-warfare-4-itaewon-footage-backlash",
+      "title_ru": "Кадры давки в Итхэвоне в Modern Warfare 4 вызвали критику в Южной Корее",
+      "threads_teaser_ru": "Компания Activision подверглась критике в Южной Корее из-за использования реальных кадров давки в Итхэвоне во вступительных моментах игры Modern Warfare 4. Общественные организации требуют удалить материалы и принести извинения.",
+      "telegram_message_id": "1880",
+      "telegram_url": "https://t.me/gamepulse_newss/1880",
+      "telegram_published_at": "2026-10-29T11:32:19.266731+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-29T11:17:18.833521+00:00"
+  "updated_at": "2026-10-29T11:32:19.266860+00:00"
 }
