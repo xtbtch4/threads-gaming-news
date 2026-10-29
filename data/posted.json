@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9102aa157a3e1747ebeb6fc4",
-      "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
-      "url": "https://ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
-      "source": "IGN",
-      "published_at_source": "2026-10-03T02:18:57+00:00",
-      "score": 9,
-      "event_key": "Love and Deepspace developers issue warning about poisonous cocktail recipes",
-      "title_ru": "Разработчики Love and Deepspace предупредили об опасности рецептов коктейлей",
-      "threads_teaser_ru": "Разработчики Love and Deepspace выпустили экстренное предупреждение: в опубликованных рецептах внутриигровых коктейлей использовались ингредиенты, смертельно опасные для человека. Игроки уже успели забить тревогу в комментариях.",
-      "telegram_message_id": "669",
-      "telegram_url": "https://t.me/gamepulse_newss/669",
-      "telegram_published_at": "2026-10-03T03:03:18.691804+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/love-and-deepspace-devs-issue-warning-deadly-drink-recipes-1790993773020.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-03T03:03:20.003810+00:00"
-    },
-    {
       "fingerprint": "e36f89132bdd3e067e7b1dba",
       "title": "What we've been playing - \"That's one of gaming's great cities, that is\"",
       "url": "https://eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/10/a839e1fe644a591bd6d1d6fd4c8ca39481a832f0.jpg",
       "threads_published_at": "2026-10-29T02:47:44.508371+00:00"
+    },
+    {
+      "fingerprint": "2940f15cee8786fcd8384a5d",
+      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+      "url": "https://polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners",
+      "source": "Polygon",
+      "published_at_source": "2026-10-29T03:40:06+00:00",
+      "score": 10,
+      "event_key": "The Game Awards 2026 Game of the Year predictions",
+      "title_ru": "The Game Awards 2026: претенденты на звание «Игра года»",
+      "threads_teaser_ru": "Кто станет «Игрой года» на The Game Awards 2026? Polygon оценили шансы фаворитов, включая Resident Evil Requiem, Phantom Blade Zero и Big Walk. Аналитики также следят за влиянием предстоящих релизов Grand Theft Auto 6 и ремейка The Legend of Zelda: Ocarina of Time.",
+      "telegram_message_id": "1870",
+      "telegram_url": "https://t.me/gamepulse_newss/1870",
+      "telegram_published_at": "2026-10-29T03:47:48.899451+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-29T02:47:44.508461+00:00"
+  "updated_at": "2026-10-29T03:47:48.899593+00:00"
 }
