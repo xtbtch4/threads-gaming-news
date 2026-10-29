@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3effd720a39016979cee9a02",
-      "title": "Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details",
-      "url": "https://polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T14:18:15+00:00",
-      "score": 5,
-      "event_key": "best_buy_pokemon_30th_anniversary_trade_and_play_event",
-      "title_ru": "Детали мероприятия Best Buy в честь 30-летия Pokémon TCG",
-      "threads_teaser_ru": "Best Buy проведет специальное мероприятие «Trade and Play» в честь 30-летия Pokémon TCG 3 октября. Участники смогут получить бесплатные наборы для обмена и коллекционные предметы.",
-      "telegram_message_id": "683",
-      "telegram_url": "https://t.me/gamepulse_newss/683",
-      "telegram_published_at": "2026-10-03T14:32:09.513349+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/30th-anniversary-pok-mon-tcg-mew-ex-and-mewtwo-ex.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T14:32:10.987493+00:00"
-    },
-    {
       "fingerprint": "9e45a736aceff4bb2071b168",
       "title": "'Lanterns' Makes Even More Sense If You Know About DC's Iconic 20-Year-Old Meme",
       "url": "https://polygon.com/green-lantern-head-trauma",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/call-of-duty-modern-warfare-4-south-korea-fire.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T12:47:42.340268+00:00"
+    },
+    {
+      "fingerprint": "fb97c391fcb7c6ecdb608d87",
+      "title": "Phantom Blade Zero Day-One Update Brings Performance Improvements, Nvidia Driver Warning",
+      "url": "https://ign.com/articles/phantom-blade-zero-day-one-update-nvidia-driver-warning",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T12:54:39+00:00",
+      "score": 13,
+      "event_key": "phantom-blade-zero-day-one-update-and-nvidia-driver-warning",
+      "title_ru": "Патч первого дня для Phantom Blade Zero улучшает производительность и добавляет предупреждение о драйверах Nvidia",
+      "threads_teaser_ru": "Для Phantom Blade Zero вышел патч первого дня с улучшениями производительности и графики. Разработчики также рекомендуют владельцам видеокарт Nvidia откатить драйвер до определенной версии.",
+      "telegram_message_id": "1884",
+      "telegram_url": "https://t.me/gamepulse_newss/1884",
+      "telegram_published_at": "2026-10-29T13:02:46.561044+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/02/phantombladezeroteasertrailer-ign-blogroll-1780442294968.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T12:47:42.340352+00:00"
+  "updated_at": "2026-10-29T13:02:46.561363+00:00"
 }
