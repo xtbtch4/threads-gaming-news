@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b940746599e3d2b61e93ae3c",
-      "title": "Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches",
-      "url": "https://ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches",
-      "source": "IGN",
-      "published_at_source": "2026-10-03T22:03:45+00:00",
-      "score": 13,
-      "event_key": "avengers-doomsday-poster-doctor-doom-latverian-witches",
-      "title_ru": "Новый постер фильма Avengers: Doomsday демонстрирует Doctor Doom и трех загадочных ведьм",
-      "threads_teaser_ru": "Marvel Studios показала свежий постер фильма Avengers: Doomsday с Doctor Doom и тремя загадочными ведьмами. Фанатам предстоит узнать, кто скрывается под масками персонажей.",
-      "telegram_message_id": "699",
-      "telegram_url": "https://t.me/gamepulse_newss/699",
-      "telegram_published_at": "2026-10-03T23:02:13.639531+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/avengers-doomsday-poster-witches-1791064594819.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-03T23:02:14.923372+00:00"
-    },
-    {
       "fingerprint": "b0e62b892c669ed788b6278e",
       "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
       "url": "https://polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/13/gta-3-cover-blog-1791888082659.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T17:17:34.414115+00:00"
+    },
+    {
+      "fingerprint": "11b6755c9c8bcfeee3100f83",
+      "title": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S",
+      "url": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-29T16:30:00+00:00",
+      "score": 14,
+      "event_key": "metro redux next gen update xbox series xs release",
+      "title_ru": "Вышло обновление METRO Redux для Xbox Series X|S",
+      "threads_teaser_ru": "Для Xbox Series X|S вышло бесплатное обновление METRO Redux, улучшающее графику, производительность и управление в METRO 2033 и Last Light Redux. Патч добавляет поддержку 4K, 120fps и тактильную отдачу контроллеров.",
+      "telegram_message_id": "1900",
+      "telegram_url": "https://t.me/gamepulse_newss/1900",
+      "telegram_published_at": "2026-10-29T17:32:48.163681+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-1-81be11dfea4d5d8f97e7.jpg"
     }
   ],
-  "updated_at": "2026-10-29T17:17:34.414207+00:00"
+  "updated_at": "2026-10-29T17:32:48.163928+00:00"
 }
