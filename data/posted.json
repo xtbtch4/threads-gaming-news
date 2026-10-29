@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "66a787199d30fc78f2626f99",
-      "title": "Fire Emblem Fans Just Cracked Fortune’s Weave’s Biggest Mystery (Maybe)",
-      "url": "https://polygon.com/fire-emblem-fortunes-weave-plot-mystery-eshmel-identity",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T01:00:17+00:00",
-      "score": 12,
-      "event_key": "fire-emblem-fortunes-weave-eshmel-identity-theory",
-      "title_ru": "Фанаты Fire Emblem: Fortune's Weave раскрыли тайну личности протагониста",
-      "threads_teaser_ru": "Игроки в Fire Emblem: Fortune's Weave нашли убедительные доказательства того, кем протагонист игры был в прошлой жизни. Теория строится на деталях из прологов, оружия и сюжета.",
-      "telegram_message_id": "663",
-      "telegram_url": "https://t.me/gamepulse_newss/663",
-      "telegram_published_at": "2026-10-03T01:02:43.326096+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fortunes-weave-classic-fire-emblem.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/fire-emblem-fortune-s-weave-the-stage-is-set-nintendo-switch-2-1920x1080-avc1-mp4a-1789505444.mp4",
-      "threads_published_at": "2026-10-03T01:02:44.566341+00:00"
-    },
-    {
       "fingerprint": "2b9824726b1a49e60fcbfa9e",
       "title": "God Of War Ragnarok Is Finally Cheap Enough To Make Me Say “Boy, Buy It”",
       "url": "https://gamespot.com/articles/god-of-war-ragnarok-is-finally-cheap-enough-to-make-me-say-boy-buy-it",
@@ -20503,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-28T23:33:07.101848+00:00"
+    },
+    {
+      "fingerprint": "e5185badb48f31ca77f01090",
+      "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+      "url": "https://ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T00:42:20+00:00",
+      "score": 15,
+      "event_key": "bioware_co_founder_reacts_to_studio_closure",
+      "title_ru": "Сооснователь BioWare высказался о закрытии студии и отмене игры",
+      "threads_teaser_ru": "Сооснователь BioWare Грег Зещук прокомментировал закрытие студии и отмену Mass Effect 5. По его словам, он пережил расставание с компанией много лет назад, но считает случившееся тяжелым ударом для родного города и индустрии.",
+      "telegram_message_id": "1864",
+      "telegram_url": "https://t.me/gamepulse_newss/1864",
+      "telegram_published_at": "2026-10-29T01:02:31.666536+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-28T23:33:07.101927+00:00"
+  "updated_at": "2026-10-29T01:02:31.666736+00:00"
 }
