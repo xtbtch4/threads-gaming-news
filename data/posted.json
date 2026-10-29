@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "055bed5b0901735070eddc49",
-      "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
-      "url": "https://ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T22:46:50+00:00",
-      "score": 9,
-      "event_key": "mike-tomlin-minecraft-youtube-channel-12-year-city",
-      "title_ru": "Бывший тренер NFL Mike Tomlin запустил YouTube-канал о Minecraft",
-      "threads_teaser_ru": "Бывший тренер Pittsburgh Steelers Mike Tomlin неожиданно стал Minecraft-ютубером и показал город, который он строил целых 12 лет.",
-      "telegram_message_id": "685",
-      "telegram_url": "https://t.me/gamepulse_newss/685",
-      "telegram_published_at": "2026-10-03T15:47:16.313765+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/02/mike-tomlin-1790980579414.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-03T15:47:17.652971+00:00"
-    },
-    {
       "fingerprint": "1dcb31fd66bdcc3371ae0046",
       "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
       "url": "https://polygon.com/dan-houser-absured-ventures-open-world-game",
@@ -20503,7 +20486,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/ep7e2_updated-1791477808.mp4",
       "threads_published_at": "2026-10-29T13:17:48.476860+00:00"
+    },
+    {
+      "fingerprint": "205e9f54bac922e0f4294aa6",
+      "title": "'High-Tech' Atari Hotel With Esports Venue and Creator Studios Breaks Ground in Phoenix",
+      "url": "https://ign.com/articles/high-tech-atari-hotel-with-esports-venue-and-creator-studios-breaks-ground-in-phoenix",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T13:00:00+00:00",
+      "score": 9,
+      "event_key": "Atari Hotel groundbreaking construction start in Phoenix Arizona",
+      "title_ru": "В Финиксе началось строительство отеля Atari с киберспортивной ареной",
+      "threads_teaser_ru": "В Финиксе начали строить отель Atari, который обещает стать уникальным пространством для геймеров. Внутри планируют разместить киберспортивную арену на две тысячи человек, студии для стримеров и высокотехнологичные номера. Завершить работы планируют к 2029 году.",
+      "telegram_message_id": "1886",
+      "telegram_url": "https://t.me/gamepulse_newss/1886",
+      "telegram_published_at": "2026-10-29T13:32:39.066983+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/atari-hotels-breaks-ground-phoenix-1793229732223.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T13:17:48.476971+00:00"
+  "updated_at": "2026-10-29T13:32:39.067388+00:00"
 }
