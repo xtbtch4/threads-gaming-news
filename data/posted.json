@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dff81c21dbc345349f4361b3",
-      "title": "The 7 Best Games Like Hollow Knight: Silksong to Speed Up the Wait for Sea of Sorrows",
-      "url": "https://polygon.com/best-games-like-silksong-sea-sorrows-wait",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T19:37:08+00:00",
-      "score": 7,
-      "event_key": "games-to-play-while-waiting-for-silksong-dlc",
-      "title_ru": "Игры для прохождения в ожидании DLC для Hollow Knight: Silksong",
-      "threads_teaser_ru": "Пока фанаты ждут DLC Sea of Sorrows для Hollow Knight: Silksong, разработчики пока не назвали точную дату выхода. Издание Polygon собрало 7 игр, включая Blue Fire, Cuphead и Tunic, которые помогут скрасить ожидание.",
-      "telegram_message_id": "693",
-      "telegram_url": "https://t.me/gamepulse_newss/693",
-      "telegram_published_at": "2026-10-03T19:46:59.915032+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/tunic-on-steam-1788361493.mp4",
-      "threads_published_at": "2026-10-03T19:47:01.175576+00:00"
-    },
-    {
       "fingerprint": "b86a3cdbab90e070e9c9526e",
       "title": "RuneScape 4 Officially Revealed by Jagex",
       "url": "https://polygon.com/runescape-4-announcement-runefest-reveal-jagex",
@@ -20502,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_59bde7.jpg?w=300",
       "threads_published_at": "2026-10-29T15:48:01.755496+00:00"
+    },
+    {
+      "fingerprint": "f369146fde9263caf5ee6a05",
+      "title": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
+      "url": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-29T16:00:00+00:00",
+      "score": 12,
+      "event_key": "Titan Quest II XBOX Series X|S pre-order announcement",
+      "title_ru": "Titan Quest II выйдет на XBOX Series X|S в январе 2027 года",
+      "threads_teaser_ru": "Стартовали предзаказы на Titan Quest II для XBOX Series X|S. Полноценный релиз action RPG от THQ Nordic и Grimlore Games состоится 19 января 2027 года. Игрокам предстоит остановить богиню Немезиду, используя гибкую систему классов и глубокую кастомизацию навыков.",
+      "telegram_message_id": "1894",
+      "telegram_url": "https://t.me/gamepulse_newss/1894",
+      "telegram_published_at": "2026-10-29T16:03:09.075464+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image-0226cdae208fec3eaa6c.jpg"
     }
   ],
-  "updated_at": "2026-10-29T15:48:01.755602+00:00"
+  "updated_at": "2026-10-29T16:03:09.075680+00:00"
 }
