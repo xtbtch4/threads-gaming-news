@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "92fb042c209983eca73f7eda",
-      "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
-      "url": "https://ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "source": "IGN",
-      "published_at_source": "2026-10-03T01:33:39+00:00",
-      "score": 15,
-      "event_key": "capcom_announces_re_engine_ai_transformation_rex_project",
-      "title_ru": "Capcom планирует превратить RE Engine в игровой движок на базе ИИ",
-      "threads_teaser_ru": "Capcom объявила о планах постепенно улучшить RE Engine и превратить его в игровой движок нового поколения на базе ИИ. Проект REX призван оптимизировать разработку.",
-      "telegram_message_id": "667",
-      "telegram_url": "https://t.me/gamepulse_newss/667",
-      "telegram_published_at": "2026-10-03T02:02:14.273331+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-03T02:02:15.552912+00:00"
-    },
-    {
       "fingerprint": "3dc15a27fbf4564cdf5c2814",
       "title": "The Science Behind Best Friendship in The Jackbox Party Pack 12",
       "url": "https://news.xbox.com/en-us/2026/10/02/the-science-behind-best-friendship-in-the-jackbox-party-pack-12",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300",
       "threads_published_at": "2026-10-29T02:17:27.983719+00:00"
+    },
+    {
+      "fingerprint": "65859ce809ca1dc7e3a1d7d9",
+      "title": "Football Manager 27: The Real World of Football Meets Your Digital Decisions | Official XBOX Podcast",
+      "url": "https://news.xbox.com/en-us/2026/10/28/football-manager-27-the-real-world-of-football-meets-your-digital-decisions-official-xbox-podcast",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-28T17:05:00+00:00",
+      "score": 11,
+      "event_key": "football manager 27 official xbox podcast release date",
+      "title_ru": "Football Manager 27: Подробности новой части на Official XBOX Podcast",
+      "threads_teaser_ru": "Football Manager 27 выходит на PC и Xbox уже 29 октября, а консольная версия появится 10 ноября — обе попадут в Game Pass. Разработчики рассказали об улучшениях интерфейса, новой функции Tactical Tweaks и базе данных из миллиона человек.",
+      "telegram_message_id": "1868",
+      "telegram_url": "https://t.me/gamepulse_newss/1868",
+      "telegram_published_at": "2026-10-29T02:32:23.606044+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Wire_EP289-7d0934c54be1131de39f.jpg"
     }
   ],
-  "updated_at": "2026-10-29T02:17:27.983814+00:00"
+  "updated_at": "2026-10-29T02:32:23.606362+00:00"
 }
