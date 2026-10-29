@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1fbcf21f6b06f6d9cbf058cf",
-      "title": "Infinity Sweeper",
-      "url": "https://fr.ign.com/infinity-sweeper",
-      "source": "IGN",
-      "published_at_source": "2026-10-03T05:57:00+00:00",
-      "score": 6,
-      "event_key": "Infinity Sweeper roguelite puzzle game announcement",
-      "title_ru": "Анонсирована Infinity Sweeper",
-      "threads_teaser_ru": "Классический «Сапер» получил roguelite-элементы в анонсированной Infinity Sweeper. Игроков ждут битвы с боссами, система улучшений и постоянно меняющееся поле, где любая ошибка может стать фатальной.",
-      "telegram_message_id": "681",
-      "telegram_url": "https://t.me/gamepulse_newss/681",
-      "telegram_published_at": "2026-10-03T13:32:41.428351+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://sm.ign.com/t/ign_fr/cover/i/infinity-s/infinity-sweeper_kcrc.1200.jpg",
-      "threads_published_at": "2026-10-03T13:32:42.911007+00:00"
-    },
-    {
       "fingerprint": "2aabc96888c5b5e66b37b9e2",
       "title": "Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory",
       "url": "https://polygon.com/the-simpsons-mike-price-internet-questions-interview",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T12:02:49.239471+00:00"
+    },
+    {
+      "fingerprint": "bfbebaee24ec0022b1c2fbf3",
+      "title": "GTA 6's Police Will Hunt You Down with Dogs",
+      "url": "https://polygon.com/grand-theft-auto-gta-6-rockstar-details-police-dogs-public-transportation-weather",
+      "source": "Polygon",
+      "published_at_source": "2026-10-29T11:55:20+00:00",
+      "score": 10,
+      "event_key": "GTA 6 police dog units and game world mechanics details",
+      "title_ru": "В GTA 6 полиция будет использовать служебных собак",
+      "threads_teaser_ru": "В Grand Theft Auto 6 полиция станет куда опаснее: правоохранители используют трекеры и камеры, чтобы выследить героев, а при задержании на помощь им придут служебные собаки. Также в игре появятся реалистичные маршруты общественного транспорта.",
+      "telegram_message_id": "1882",
+      "telegram_url": "https://t.me/gamepulse_newss/1882",
+      "telegram_published_at": "2026-10-29T12:17:28.952786+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-29T12:02:49.239559+00:00"
+  "updated_at": "2026-10-29T12:17:28.953016+00:00"
 }
