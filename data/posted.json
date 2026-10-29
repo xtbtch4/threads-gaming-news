@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fa7810378288050866319eab",
-      "title": "Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice",
-      "url": "https://ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice",
-      "source": "IGN",
-      "published_at_source": "2026-10-03T21:03:46+00:00",
-      "score": 9,
-      "event_key": "inde navarrette discusses rogue role in mcu x-men movie",
-      "title_ru": "Inde Navarrette рассказала о своей роли Rogue в грядущем фильме X-Men",
-      "threads_teaser_ru": "Inde Navarrette рассказала о масштабной подготовке к роли Rogue в грядущем фильме X-Men. Актриса присоединится к киновселенной Marvel в картине, премьера которой намечена на 2028 год.",
-      "telegram_message_id": "698",
-      "telegram_url": "https://t.me/gamepulse_newss/698",
-      "telegram_published_at": "2026-10-03T22:16:53.224476+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/inde-navarrette-x-men-1791061338104.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-03T22:16:54.338155+00:00"
-    },
-    {
       "fingerprint": "b940746599e3d2b61e93ae3c",
       "title": "Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches",
       "url": "https://ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/11/tes6-1786479096622.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T17:03:23.906366+00:00"
+    },
+    {
+      "fingerprint": "d862313583dc6079c96008a6",
+      "title": "Original GTA Artist Says He's 'Flattered' to See His Influence Continue in GTA 6 Cover Art",
+      "url": "https://ign.com/articles/original-gta-artist-says-hes-flattered-to-see-his-influence-continue-in-gta-6-cover-art",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T16:41:56+00:00",
+      "score": 15,
+      "event_key": "former rockstar artist stephen bliss discusses gta 6 cover art",
+      "title_ru": "Бывший художник Rockstar Games высказался об обложке GTA 6",
+      "threads_teaser_ru": "Бывший художник Rockstar Games Стивен Блисс оценил обложку GTA 6. Он признался, что польщен сохранением элементов, разработанных им много лет назад.",
+      "telegram_message_id": "1899",
+      "telegram_url": "https://t.me/gamepulse_newss/1899",
+      "telegram_published_at": "2026-10-29T17:17:32.940930+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/gta-3-cover-blog-1791888082659.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T17:03:23.906467+00:00"
+  "updated_at": "2026-10-29T17:17:32.941265+00:00"
 }
