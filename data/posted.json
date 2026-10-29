@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "936112f50bd989df9fec2594",
-      "title": "Sicario 3 is Happening with Taylor Sheridan Returning to Write",
-      "url": "https://polygon.com/sicario-3-script-taylor-sheridan-paramount",
-      "source": "Polygon",
-      "published_at_source": "2026-10-03T08:20:15+00:00",
-      "score": 8,
-      "event_key": "Taylor Sheridan writing script for Sicario 3",
-      "title_ru": "Taylor Sheridan пишет сценарий для Sicario 3",
-      "threads_teaser_ru": "Серия Sicario официально получит продолжение. Тейлор Шеридан вернулся к работе над франшизой и пишет сценарий для третьего фильма. Джош Бролин уже подтвердил свое возвращение к роли, а съемки картины, которая ранее была известна как Sicario: Capos, должны начаться в ближайшее время.",
-      "telegram_message_id": "672",
-      "telegram_url": "https://t.me/gamepulse_newss/672",
-      "telegram_published_at": "2026-10-03T08:32:18.198282+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/sicario-3.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-03T08:32:19.348036+00:00"
-    },
-    {
       "fingerprint": "9fb5b6e052d7f3ddeb04db62",
       "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
       "url": "https://ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/rtexstfgzzeklc9gytpuuw-1793227468026.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T05:02:58.007985+00:00"
+    },
+    {
+      "fingerprint": "c03c4ce0f44fed208e9ed810",
+      "title": "Wendy's Is Making a Turn-Based RPG and It Actually Looks Really Good",
+      "url": "https://ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good",
+      "source": "IGN",
+      "published_at_source": "2026-10-28T20:05:39+00:00",
+      "score": 10,
+      "event_key": "Wendys announces pixel turn-based RPG WendyQuest Legend of the Four Corner Stones",
+      "title_ru": "Сеть ресторанов Wendy’s анонсировала пиксельную RPG WendyQuest: Legend of the Four Corner Stones",
+      "threads_teaser_ru": "Сеть Wendy’s готовит к выходу в Steam пиксельную RPG под названием WendyQuest: Legend of the Four Corner Stones. Разработкой занимается студия 81monkeys, а на странице игры подчеркивается полное отсутствие ИИ в процессе создания.",
+      "telegram_message_id": "1873",
+      "telegram_url": "https://t.me/gamepulse_newss/1873",
+      "telegram_published_at": "2026-10-29T05:17:23.123016+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/wendys-makes-turn-based-rpg-1793217651123.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T05:02:58.008083+00:00"
+  "updated_at": "2026-10-29T05:17:23.123544+00:00"
 }
