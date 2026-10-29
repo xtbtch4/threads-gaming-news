@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ac2a7e35b43ab7792853d653",
-      "title": "Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740",
-      "url": "https://ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-02T21:30:00+00:00",
-      "score": 5,
-      "event_key": "Best Buy sells ASRock Radeon RX 9070 XT",
-      "title_ru": "В Best Buy появилась в продаже видеокарта ASRock Radeon RX 9070 XT 16GB",
-      "threads_teaser_ru": "В Best Buy доступна видеокарта ASRock Challenger AMD Radeon 9070 XT 16GB по цене $740. Это выгоднее, чем GeForce RTX 5070 Ti, хотя цена выше рекомендованной. Модель признана одной из лучших по производительности для 4K-гейминга среди новинок 2025 года.",
-      "telegram_message_id": "666",
-      "telegram_url": "https://t.me/gamepulse_newss/666",
-      "telegram_published_at": "2026-10-03T01:47:31.643821+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/30/asrock9070xt-1790798986650.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-03T01:47:33.037932+00:00"
-    },
-    {
       "fingerprint": "92fb042c209983eca73f7eda",
       "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
       "url": "https://ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/needle-in-a-haystack-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-29T02:03:27.846855+00:00"
+    },
+    {
+      "fingerprint": "c9eab205b1444f07ac62c56e",
+      "title": "Sleeping Dogs Movie Director Explains Why The Adaptation Is Taking So Long",
+      "url": "https://gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-28T17:14:09+00:00",
+      "score": 11,
+      "event_key": "sleeping dogs movie production status explanation",
+      "title_ru": "Режиссер фильма по Sleeping Dogs объяснил причины задержки производства",
+      "threads_teaser_ru": "Работа над фильмом Sleeping Dogs продолжается, но идет медленно. Режиссер Timo Tjahjanto пояснил, что авторы не торопятся, чтобы сделать максимально качественную адаптацию истории Wei Shen, и стараются найти баланс между верностью оригиналу и требованиями киноформата.",
+      "telegram_message_id": "1867",
+      "telegram_url": "https://t.me/gamepulse_newss/1867",
+      "telegram_published_at": "2026-10-29T02:17:26.431588+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-29T02:03:27.846943+00:00"
+  "updated_at": "2026-10-29T02:17:26.431860+00:00"
 }
