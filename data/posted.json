@@ -20499,9 +20499,10 @@
       "telegram_message_id": "1881",
       "telegram_url": "https://t.me/gamepulse_newss/1881",
       "telegram_published_at": "2026-10-29T12:02:47.786816+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-29T12:02:49.239471+00:00"
     }
   ],
-  "updated_at": "2026-10-29T12:02:47.786974+00:00"
+  "updated_at": "2026-10-29T12:02:49.239559+00:00"
 }
