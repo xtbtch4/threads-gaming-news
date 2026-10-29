@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1bda18304d0b21fcce79587b",
-      "title": "31 Years Ago, 'X-Files' Reached Its Zenith with a Near-Perfect 3-Part Thriller",
-      "url": "https://polygon.com/the-x-files-anasazi-the-blessing-way-paper-clip",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T01:00:16+00:00",
-      "score": 8,
-      "event_key": "x-files-anasazi-blessing-way-paper-clip-trilogy",
-      "title_ru": "Трилогия The X-Files из эпизодов «Anasazi», «The Blessing Way» и «Paper Clip»",
-      "threads_teaser_ru": "Трилогия The X-Files из эпизодов «Anasazi», «The Blessing Way» и «Paper Clip» объединила реальную историю шифровальщиков навахо и мифологию сериала, став вершиной шоу.",
-      "telegram_message_id": "701",
-      "telegram_url": "https://t.me/gamepulse_newss/701",
-      "telegram_published_at": "2026-10-04T01:01:49.792178+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/tsdxfil_fe029-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-04T01:01:51.035879+00:00"
-    },
-    {
       "fingerprint": "a0c505cc10a52e96119f1644",
       "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
       "url": "https://polygon.com/best-anime-arcs-that-are-perfect",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/screenshot-2026-10-29-at-11-58-12-am-1793289668592.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T17:47:52.826863+00:00"
+    },
+    {
+      "fingerprint": "8e890f82ba79183d9ef0f8c4",
+      "title": "Ubisoft Shares Cryptic Assassins Creed Codename Hexe Update",
+      "url": "https://ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T17:32:16+00:00",
+      "score": 15,
+      "event_key": "ubisoft_shares_cryptic_assassins_creed_codename_hexe_update",
+      "title_ru": "Ubisoft поделилась загадочным обновлением об Assassin's Creed Codename Hexe",
+      "threads_teaser_ru": "Ubisoft рассказала о разработке Assassin's Creed Codename Hexe и оставила в блоге загадочное зашифрованное послание для фанатов. Следующие крупные новости по игре появятся в 2027 году.",
+      "telegram_message_id": "1902",
+      "telegram_url": "https://t.me/gamepulse_newss/1902",
+      "telegram_published_at": "2026-10-29T18:02:50.666635+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2022/09/10/hexe-1662841484669.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-29T17:47:52.826962+00:00"
+  "updated_at": "2026-10-29T18:02:50.666886+00:00"
 }
