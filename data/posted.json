@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1938",
       "telegram_url": "https://t.me/gamepulse_newss/1938",
       "telegram_published_at": "2026-10-30T13:02:58.440381+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/reality-fracture-where-to-buy-ign-1790588669382.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/reality-fracture-where-to-buy-ign-1790588669382.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-30T13:02:59.873867+00:00"
     }
   ],
-  "updated_at": "2026-10-30T13:02:58.440648+00:00"
+  "updated_at": "2026-10-30T13:02:59.873967+00:00"
 }
