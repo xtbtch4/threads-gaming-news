@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d5cc551d9e3b68818673f873",
-      "title": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
-      "url": "https://eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-05T10:41:05+00:00",
-      "score": 6,
-      "event_key": "final-fantasy-resonance-combat-system-square-enix",
-      "title_ru": "Секрет боевой системы Final Fantasy Resonance",
-      "threads_teaser_ru": "Разработчики Final Fantasy Resonance рассказали, почему боевая система новой игры вдохновлена классическими частями серии и современными механиками.",
-      "telegram_message_id": "733",
-      "telegram_url": "https://t.me/gamepulse_newss/733",
-      "telegram_published_at": "2026-10-05T10:46:34.915621+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/FF6-5-resonance.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T10:46:36.246798+00:00"
-    },
-    {
       "fingerprint": "30123f2539b6c95d2846344f",
       "title": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
       "url": "https://rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/baldurs-gate-3-custom-campaign-mod-forsaken-act-one-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-30T11:17:17.891075+00:00"
+    },
+    {
+      "fingerprint": "4b2736d7bc75f3afaaae57b9",
+      "title": "Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away",
+      "url": "https://eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-30T11:35:58+00:00",
+      "score": 13,
+      "event_key": "Sir Patrick Stewart death impact on video games",
+      "title_ru": "Умер актер Sir Patrick Stewart",
+      "threads_teaser_ru": "На 87-м году жизни скончался Sir Patrick Stewart. Актер, подаривший голос императору Uriel Septim 7th в Oblivion и рассказчику в Castlevania: Lords of Shadow, запомнился многим фанатам игр не меньше, чем своими ролями в кино. Коллеги и игроки по всему миру чтут его память.",
+      "telegram_message_id": "1934",
+      "telegram_url": "https://t.me/gamepulse_newss/1934",
+      "telegram_published_at": "2026-10-30T11:47:36.070906+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/uriel-septim.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-30T11:17:17.891164+00:00"
+  "updated_at": "2026-10-30T11:47:36.071198+00:00"
 }
