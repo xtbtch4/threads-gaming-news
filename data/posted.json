@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8df55579d2bd69320692194f",
-      "title": "Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years",
-      "url": "https://polygon.com/digger-tom-cruise-box-office",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T16:22:10+00:00",
-      "score": 8,
-      "event_key": "digger-tom-cruise-worst-box-office-opening",
-      "title_ru": "Фильм Digger с Томом Крузом показал худший старт в прокате почти за 20 лет",
-      "threads_teaser_ru": "Новый фильм Digger с Томом Крузом стартовал в прокате хуже всех проектов актёра за последние почти 20 лет, собрав в США всего 8 миллионов долларов при бюджете в 160 миллионов.",
-      "telegram_message_id": "715",
-      "telegram_url": "https://t.me/gamepulse_newss/715",
-      "telegram_published_at": "2026-10-04T16:31:55.778153+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/digger-tom-cruise.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/ytmp3-gg_youtube_digger-official-trailer_media_qorte1ww3wg_001_1080p-1783949458.mp4",
-      "threads_published_at": "2026-10-04T16:31:57.089801+00:00"
-    },
-    {
       "fingerprint": "26599ff44618376028595adb",
       "title": "Modders are furious as Claude-powered mashup mods flood social media",
       "url": "https://eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
@@ -20498,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/elder-scrolls-6_gfTvT7Y.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-30T02:18:03.515622+00:00"
+    },
+    {
+      "fingerprint": "e39529e10c4eb0d0ae7546e0",
+      "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania",
+      "url": "https://ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T21:57:00+00:00",
+      "score": 10,
+      "event_key": "Bethesda pays tribute to actor Patrick Stewart after his death",
+      "title_ru": "Bethesda почтила память Patrick Stewart, сыгравшего в The Elder Scrolls 4: Oblivion",
+      "threads_teaser_ru": "Скончался актер Patrick Stewart, известный в игровом сообществе по роли императора Uriel Septim VII в The Elder Scrolls 4: Oblivion. Разработчики Bethesda почтили его память, вспомнив, как серьезно актер подошел к работе над персонажем, несмотря на небольшое экранное время.",
+      "telegram_message_id": "1916",
+      "telegram_url": "https://t.me/gamepulse_newss/1916",
+      "telegram_published_at": "2026-10-30T02:32:26.962354+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/hv06502wmaayufx-1793310464924.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T02:18:03.515708+00:00"
+  "updated_at": "2026-10-30T02:32:26.962752+00:00"
 }
