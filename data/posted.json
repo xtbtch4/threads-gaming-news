@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "877ee5232fa1c26147052824",
-      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
-      "url": "https://eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-05T12:44:39+00:00",
-      "score": 9,
-      "event_key": "behaviour interactive hiring for unannounced sci fi fps",
-      "title_ru": "Создатели Dead by Daylight разрабатывают новый научно-фантастический шутер",
-      "threads_teaser_ru": "Студия Behaviour Interactive, создавшая Dead by Daylight, работает над неанонсированным AAA-шутером в научно-фантастическом сеттинге на движке Unreal Engine с высоким уровнем реалистичности.",
-      "telegram_message_id": "740",
-      "telegram_url": "https://t.me/gamepulse_newss/740",
-      "telegram_published_at": "2026-10-05T12:46:49.921890+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dead-by-daylight-the-last-breath-chapter-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T12:46:51.269646+00:00"
-    },
-    {
       "fingerprint": "2404cf3c10aee963c34863cd",
       "title": "Marvel’s Biggest Comics Change In Years Makes 35,000 Stories Easier To Read",
       "url": "https://polygon.com/marvel-comics-webtoon-new-digital-comics-app",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/19/screenshot-2026-10-16-223424-1792402885442.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T13:47:26.674479+00:00"
+    },
+    {
+      "fingerprint": "65ce9314c905300b4dd16527",
+      "title": "Honkai Star Rail version 4.7 livestream codes",
+      "url": "https://polygon.com/honkai-star-rail-version-4-7-livestream-codes-redeem",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T14:01:03+00:00",
+      "score": 10,
+      "event_key": "honkai-star-rail-version-4-7-livestream-codes",
+      "title_ru": "Коды со стрима версии 4.7 в Honkai: Star Rail",
+      "threads_teaser_ru": "Стали известны промокоды с официального стрима версии 4.7 для Honkai: Star Rail, которые дают 300 Stellar Jade. Обновление выйдет 11 ноября и добавит нового персонажа Aeon ★ Aha.",
+      "telegram_message_id": "1941",
+      "telegram_url": "https://t.me/gamepulse_newss/1941",
+      "telegram_published_at": "2026-10-30T14:02:21.439644+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/41.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-30T13:47:26.674569+00:00"
+  "updated_at": "2026-10-30T14:02:21.439921+00:00"
 }
