@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fba4e11b36a68de8b54de369",
-      "title": "Forget Star Wars Movies, the Franchise’s Future Belongs to Video Games",
-      "url": "https://polygon.com/star-wars-video-games-coming-for-movies-lunch",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T18:00:15+00:00",
-      "score": 6,
-      "event_key": "star wars video games future of the franchise",
-      "title_ru": "Игры расширяют вселенную Star Wars",
-      "threads_teaser_ru": "Пока кинопроекты и сериалы франшизы Star Wars переживают трудные времена, видеоигры уверенно ведут её в будущее. Такие проекты, как Zero Company и Star Wars: Galactic Racer, доказывают силу интерактивных историй.",
-      "telegram_message_id": "719",
-      "telegram_url": "https://t.me/gamepulse_newss/719",
-      "telegram_published_at": "2026-10-04T18:02:42.433148+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-zero-company.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/05/star-wars-galactic-racer-tm-official-gameplay-trailer-1777922395.mp4",
-      "threads_published_at": "2026-10-04T18:02:43.839674+00:00"
-    },
-    {
       "fingerprint": "cf2f8f4822060d89b88a78f8",
       "title": "Nintendo's Zelda: Ocarina of Time Remake Gets Official Instrument Support and More",
       "url": "https://polygon.com/zelda-ocarina-of-time-remake-new-features-notes-app-nintendo",
@@ -20497,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://sm.ign.com/t/ign_in/screenshot/default/computer-games_66ma.1200.jpg",
       "threads_published_at": "2026-10-30T03:32:28.740482+00:00"
+    },
+    {
+      "fingerprint": "7987a3577380a9a0b57ba2fc",
+      "title": "Everything Coming to Peacock in November",
+      "url": "https://ign.com/articles/whats-new-on-peacock-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T21:30:00+00:00",
+      "score": 8,
+      "event_key": "Peacock November 2026 new movie and series releases",
+      "title_ru": "Что выйдет на Peacock в ноябре 2026 года",
+      "threads_teaser_ru": "Стриминговый сервис Peacock анонсировал новинки ноября: на платформе выйдут сериал Dig с Хью Лори, триллер The Good Daughter и фильм The Uprising с Эндрю Гарфилдом. Также в библиотеку добавят франшизы Fast & Furious, Hunger Games и хоррор Alien: Romulus.",
+      "telegram_message_id": "1920",
+      "telegram_url": "https://t.me/gamepulse_newss/1920",
+      "telegram_published_at": "2026-10-30T03:47:29.756002+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/16/uprisingthumb-1784220560729.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T03:32:28.740577+00:00"
+  "updated_at": "2026-10-30T03:47:29.756254+00:00"
 }
