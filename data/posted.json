@@ -20493,9 +20493,10 @@
       "telegram_message_id": "1949",
       "telegram_url": "https://t.me/gamepulse_newss/1949",
       "telegram_published_at": "2026-10-30T16:02:41.105368+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/BioWare-shut-down.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/BioWare-shut-down.jpg?w=300",
+      "threads_published_at": "2026-10-30T16:02:42.792545+00:00"
     }
   ],
-  "updated_at": "2026-10-30T16:02:41.105473+00:00"
+  "updated_at": "2026-10-30T16:02:42.792647+00:00"
 }
