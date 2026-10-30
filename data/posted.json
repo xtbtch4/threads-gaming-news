@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a0471835f8c67229f5f85ee6",
-      "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to $179 for Amazon Prime Day",
-      "url": "https://ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T16:00:00+00:00",
-      "score": 11,
-      "event_key": "apple airpods pro 3 amazon prime day sale price drop",
-      "title_ru": "Apple AirPods Pro 3 подешевели до $179 на распродаже Amazon",
-      "threads_teaser_ru": "Беспроводные наушники AirPods Pro 3 от Apple подешевели до $179 на распродаже Amazon Prime Day. Устройство получило встроенный датчик сердечного ритма и защиту IP57.",
-      "telegram_message_id": "759",
-      "telegram_url": "https://t.me/gamepulse_newss/759",
-      "telegram_published_at": "2026-10-05T17:46:50.840942+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/appleairpodspro32-1791215395284.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-05T17:46:52.340040+00:00"
-    },
-    {
       "fingerprint": "f8c52303eca50cb742f16797",
       "title": "BG3 Console Update Officially Brings 300-Option Cheat Menu",
       "url": "https://polygon.com/bg3-console-cheaters-menu-mod",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/10/f0bdb96f1f1aa830e7ec2195dd5f7fcb045a8aee.jpg",
       "threads_published_at": "2026-10-30T18:32:15.699560+00:00"
+    },
+    {
+      "fingerprint": "a585c464d7c25ab025972548",
+      "title": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
+      "url": "https://gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-30T09:46:00+00:00",
+      "score": 12,
+      "event_key": "EA shelved mysterious Sims project",
+      "title_ru": "EA закрыла секретный проект по франшизе The Sims",
+      "threads_teaser_ru": "Компания EA неожиданно свернула разработку таинственного проекта во вселенной The Sims. На фоне этого издатель подтвердил дальнейшую поддержку других своих ключевых франшиз.",
+      "telegram_message_id": "1960",
+      "telegram_url": "https://t.me/gamepulse_newss/1960",
+      "telegram_published_at": "2026-10-30T18:47:12.735141+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-30T18:32:15.699644+00:00"
+  "updated_at": "2026-10-30T18:47:12.735276+00:00"
 }
