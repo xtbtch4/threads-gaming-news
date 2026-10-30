@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "30123f2539b6c95d2846344f",
-      "title": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
-      "url": "https://rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-05T10:56:57+00:00",
-      "score": 8,
-      "event_key": "pc_games_weekly_releases_october",
-      "title_ru": "Релизы недели на ПК: Star Wars: Galactic Racer и Hellraiser: Revival",
-      "threads_teaser_ru": "Новая неделя на ПК приносит свежие релизы, среди которых из-за приближения Хэллоуина особенно выделяются проекты в жанре хоррор, включая Hellraiser: Revival и Star Wars: Galactic Racer.",
-      "telegram_message_id": "734",
-      "telegram_url": "https://t.me/gamepulse_newss/734",
-      "telegram_published_at": "2026-10-05T11:02:25.289156+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/car-park-capital_Gmq5Uqg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T11:02:26.669820+00:00"
-    },
-    {
       "fingerprint": "c90913f2b597756bf17cd933",
       "title": "Ace Combat 8 is far and away the series' biggest launch on Steam",
       "url": "https://eurogamer.net/ace-combat-8-steam-launch-record-players",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/uriel-septim.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-30T11:47:37.576913+00:00"
+    },
+    {
+      "fingerprint": "b0b82cba00f4675ce13eb3e2",
+      "title": "The Journey of Crimson Desert Continues with Charting the Unknown",
+      "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-29T22:00:00+00:00",
+      "score": 14,
+      "event_key": "crimson_desert_charting_the_unknown_dlc_release",
+      "title_ru": "Вышло дополнение Charting the Unknown для Crimson Desert",
+      "threads_teaser_ru": "Для Crimson Desert вышло крупное дополнение Charting the Unknown. Оно добавляет три новые сюжетные линии, морские путешествия на собственных кораблях, улучшенное строительство жилья и управление замками.",
+      "telegram_message_id": "1935",
+      "telegram_url": "https://t.me/gamepulse_newss/1935",
+      "telegram_published_at": "2026-10-30T12:17:01.405764+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image_Crimson-Desert_DLC_KeyArtLayer_1920x1080-05f91c8520d05d01d228.jpg"
     }
   ],
-  "updated_at": "2026-10-30T11:47:37.577007+00:00"
+  "updated_at": "2026-10-30T12:17:01.405952+00:00"
 }
