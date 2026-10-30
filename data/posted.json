@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "43b311bf66099c7357d5b26f",
-      "title": "Lanterns Star Kyle Chandler's Hal Jordan Is a Superhero Casting That Rivals Robert Downey Jr.'s Iron Man, Fans Say",
-      "url": "https://ign.com/articles/lanterns-star-kyle-chandlers-hal-jordan-is-a-superhero-casting-that-rivals-robert-downey-jrs-iron-man-fans-say",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T03:12:07+00:00",
-      "score": 6,
-      "event_key": "lanterns-kyle-chandler-hal-jordan-casting-praise",
-      "title_ru": "Фанаты сравнили роль Кайла Чандлера в Lanterns с Железным человеком от Роберта Дауни — младшего",
-      "threads_teaser_ru": "Первый сезон сериала Lanterns завершился, и фанаты сравнивают роль Кайла Чандлера с культовым Железным человеком. Зрители восхищаются его игрой, хотя судьба героя в шоу остается под вопросом.",
-      "telegram_message_id": "730",
-      "telegram_url": "https://t.me/gamepulse_newss/730",
-      "telegram_published_at": "2026-10-05T04:02:29.922644+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/24/lanterns-kyle-chandler-thumb-1784930448218.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-05T04:02:31.356542+00:00"
-    },
-    {
       "fingerprint": "76ec6d6fd63763005651ad41",
       "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
       "url": "https://ign.com/articles/gta-6-research-gang-members",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/johnromero-thumb-1793329713081.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T10:17:03.696917+00:00"
+    },
+    {
+      "fingerprint": "92a66d24523a60a01a8a079e",
+      "title": "A PUBG TV Show Is Coming To Netflix, Starring Donald Glover",
+      "url": "https://gamespot.com/articles/a-pubg-tv-show-is-coming-to-netflix-starring-donald-glover",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-29T18:49:28+00:00",
+      "score": 13,
+      "event_key": "Netflix producing live action PUBG TV show starring Donald Glover",
+      "title_ru": "Netflix анонсировала сериал по PUBG с Дональдом Гловером в главной роли",
+      "threads_teaser_ru": "Netflix и Krafton готовят сериал по PUBG: главную роль исполнит Дональд Гловер. Он также возьмет на себя функции режиссера и сценариста проекта. Кроме того, в разработке находится анимационное шоу по франшизе от создателя Castlevania.",
+      "telegram_message_id": "1931",
+      "telegram_url": "https://t.me/gamepulse_newss/1931",
+      "telegram_published_at": "2026-10-30T10:46:49.058331+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/glover.png?w=300"
     }
   ],
-  "updated_at": "2026-10-30T10:17:03.697000+00:00"
+  "updated_at": "2026-10-30T10:46:49.058602+00:00"
 }
