@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1e7c043fa07e6914d8bde48d",
-      "title": "Fire Emblem Fans Need to Play 2017's Stellar Revenge-Saga RPG",
-      "url": "https://polygon.com/fire-emblem-tales-of-berseria",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T00:00:15+00:00",
-      "score": 6,
-      "event_key": "polygon_compares_fire_emblem_fortune_s_weave_and_tales_of_berseria",
-      "title_ru": "Почему фанатам Fire Emblem стоит сыграть в Tales of Berseria",
-      "threads_teaser_ru": "Автор Polygon сравнил сюжет о мести Леды в Fire Emblem: Fortune’s Weave с историей Вельвет Кроу из недооцененной RPG Tales of Berseria 2017 года от Bandai Namco.",
-      "telegram_message_id": "728",
-      "telegram_url": "https://t.me/gamepulse_newss/728",
-      "telegram_published_at": "2026-10-05T00:32:16.170956+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-which-character-4.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-05T00:32:17.519058+00:00"
-    },
-    {
       "fingerprint": "f30fc5158e74c7d697152d51",
       "title": "10 Near-Perfect Nintendo Switch Games Nobody Played",
       "url": "https://polygon.com/best-nintendo-switch-hidden-gems",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mouthwashing-movie.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-30T07:32:28.867362+00:00"
+    },
+    {
+      "fingerprint": "1d2960d4eec67ff85564427d",
+      "title": "Frank Miller Teases Sin City Future and Finally Drawing Teenage Mutant Ninja Turtles",
+      "url": "https://ign.com/articles/frank-miller-teases-sin-city-future-and-finally-drawing-teenage-mutant-ninja-turtles",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T18:43:49+00:00",
+      "score": 7,
+      "event_key": "Frank Miller updates on Sin City and Teenage Mutant Ninja Turtles",
+      "title_ru": "Frank Miller рассказал о будущем Sin City и работе над Teenage Mutant Ninja Turtles",
+      "threads_teaser_ru": "Frank Miller раскрыл подробности работы над вестерн-приквелом Sin City: Blood & Dust, поделился деталями создания своего sci-fi комикса Invasive Species и рассказал о первом официальном опыте рисования Teenage Mutant Ninja Turtles для выпуска #300.",
+      "telegram_message_id": "1929",
+      "telegram_url": "https://t.me/gamepulse_newss/1929",
+      "telegram_published_at": "2026-10-30T07:47:30.583525+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/mixcollage-29-oct-2026-01-33-pm-3295-1793295792638.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T07:32:28.867464+00:00"
+  "updated_at": "2026-10-30T07:47:30.583773+00:00"
 }
