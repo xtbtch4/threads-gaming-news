@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c90913f2b597756bf17cd933",
-      "title": "Ace Combat 8 is far and away the series' biggest launch on Steam",
-      "url": "https://eurogamer.net/ace-combat-8-steam-launch-record-players",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-05T11:02:40+00:00",
-      "score": 15,
-      "event_key": "ace combat 8 steam launch record players",
-      "title_ru": "Ace Combat 8 установила рекорд серии по числу игроков на Steam",
-      "threads_teaser_ru": "Ace Combat 8: Wings of Theve показала крупнейший запуск в Steam за всю историю франшизы. Пиковый онлайн симулятора превысил 52 тысячи игроков, а отзывы пользователей держатся на уровне «Очень положительный».",
-      "telegram_message_id": "735",
-      "telegram_url": "https://t.me/gamepulse_newss/735",
-      "telegram_published_at": "2026-10-05T11:16:46.304137+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T11:16:47.538016+00:00"
-    },
-    {
       "fingerprint": "759199342d734cac09940bc9",
       "title": "Magic Is Planning Another Kpop Demon Hunters Collab After Secret Lair Drop",
       "url": "https://polygon.com/kpop-demon-hunters-magic-secret-lair-expands",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image_Crimson-Desert_DLC_KeyArtLayer_1920x1080-05f91c8520d05d01d228.jpg",
       "threads_published_at": "2026-10-30T12:17:02.818305+00:00"
+    },
+    {
+      "fingerprint": "58a6f9de9a356f65a72bf098",
+      "title": "Phantom Blade Zero Director Reveals How He Made 'A Playable Kung Fu Movie’ with Donnie Yen",
+      "url": "https://polygon.com/phantom-blade-zero-director-soulframe-interview-donnie-yen",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T12:00:17+00:00",
+      "score": 12,
+      "event_key": "phantom_blade_zero_director_donnie_yen_combat_development",
+      "title_ru": "Режиссер Phantom Blade Zero рассказал о создании игры с Донни Еном",
+      "threads_teaser_ru": "Режиссер Soulframe Liang и актер Донни Ен рассказали, как создавалась уникальная боевая система экшена Phantom Blade Zero. Как знаменитый мастер боевых искусств помог студии S-Game воплотить дух классического кино.",
+      "telegram_message_id": "1936",
+      "telegram_url": "https://t.me/gamepulse_newss/1936",
+      "telegram_published_at": "2026-10-30T12:32:14.955270+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-30T12:17:02.818395+00:00"
+  "updated_at": "2026-10-30T12:32:14.955410+00:00"
 }
