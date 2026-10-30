@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0bd10f3db3402436dfdec0f7",
-      "title": "Sicario 3 Officially Moves Forward, Replacing Taylor Sheridan",
-      "url": "https://polygon.com/sicario-3-cast-director-taylor-sheridan-steven-knight",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T20:11:44+00:00",
-      "score": 8,
-      "event_key": "sicario-3-officially-moves-forward-without-taylor-sheridan",
-      "title_ru": "Фильм Sicario 3 официально в разработке",
-      "threads_teaser_ru": "Фильм Sicario 3 официально движется вперед с возвращением звезд оригинальной картины, но без создателя серии Taylor Sheridan на посту сценариста.",
-      "telegram_message_id": "772",
-      "telegram_url": "https://t.me/gamepulse_newss/772",
-      "telegram_published_at": "2026-10-05T21:26:54.570528+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11600289/SOL_D34_09767_9771_r.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/trailers/movies/43389.mp4",
-      "threads_published_at": "2026-10-05T21:26:56.116763+00:00"
-    },
-    {
       "fingerprint": "e0ba147380086874b78b9467",
       "title": "Multi-Stage Boss Fights Are the Worst Video Game Mechanic of All Time",
       "url": "https://polygon.com/multi-stage-boss-fights-worst-video-game-mechanic",
@@ -20498,7 +20480,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/my-chemical-romance-hideo-kojima-1793400372401.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T23:02:30.287379+00:00"
+    },
+    {
+      "fingerprint": "721d5b65b9f8c1b36b172ebd",
+      "title": "New Pokémon Release Brings Hundreds of New Eeveelutions",
+      "url": "https://polygon.com/pokemon-new-eeveelutions-gba-game-download",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T22:42:17+00:00",
+      "score": 8,
+      "event_key": "pokemon oops all eevees fan game release",
+      "title_ru": "Фанаты выпустили игру с сотнями новых эволюций Eevee",
+      "threads_teaser_ru": "Вышла фанатская игра Pokémon Oops! All Eevees, в которой представлено более 300 новых форм для покемона Eevee. Модификация на базе Pokémon FireRed полностью меняет ростер существ и предлагает уникальный финал, где проверяются знания игрока об особенностях всех Eeveelutions.",
+      "telegram_message_id": "1973",
+      "telegram_url": "https://t.me/gamepulse_newss/1973",
+      "telegram_published_at": "2026-10-30T23:17:05.151022+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/eevee-grove-key-art.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/pokemoncards-1789859278.mp4"
     }
   ],
-  "updated_at": "2026-10-30T23:02:30.287468+00:00"
+  "updated_at": "2026-10-30T23:17:05.151444+00:00"
 }
