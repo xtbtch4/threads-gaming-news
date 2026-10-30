@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8307f1767a2408df740d49a7",
-      "title": "Players’ Choice: Vote for September’s best new game",
-      "url": "https://blog.playstation.com/2026/10/05/players-choice-vote-for-septembers-best-new-game-4",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-05T14:00:16+00:00",
-      "score": 9,
-      "event_key": "playstation blog players choice vote september games",
-      "title_ru": "Голосование Players’ Choice за лучшую игру сентября",
-      "threads_teaser_ru": "PlayStation Blog открыл голосование Players’ Choice для определения лучшего игрового релизы сентября. Среди главных претендентов месяца заявлены Marvel’s Wolverine, Control Resonant, Dune: Awakening и NBA 2K27.",
-      "telegram_message_id": "746",
-      "telegram_url": "https://t.me/gamepulse_newss/746",
-      "telegram_published_at": "2026-10-05T14:16:42.960449+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2028/10/b0908e5a9481b781b627bf2a67f7cbe75e3be5da.jpg",
-      "threads_published_at": "2026-10-05T14:16:44.251227+00:00"
-    },
-    {
       "fingerprint": "2cc1a05a840891994d54e8ea",
       "title": "Naoki Hamaguchi has Played Through Final Fantasy Revelation 46 Times?!",
       "url": "https://gamespot.com/videos/naoki-hamaguchi-has-played-through-final-fantasy-revelation-46-times",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/tenebris-somnia-2_rwR6NVJ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-30T15:17:41.438480+00:00"
+    },
+    {
+      "fingerprint": "c0bdb38ea318258cc25c58e5",
+      "title": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
+      "url": "https://rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-10-30T15:29:54+00:00",
+      "score": 12,
+      "event_key": "world of horror as below so above update",
+      "title_ru": "World of Horror получила крупное бесплатное обновление As Below So Above",
+      "threads_teaser_ru": "Ролевая игра World of Horror получила крупное бесплатное обновление As Below So Above. Патч добавляет новых богов, локацию, трех героев и множество контента.",
+      "telegram_message_id": "1947",
+      "telegram_url": "https://t.me/gamepulse_newss/1947",
+      "telegram_published_at": "2026-10-30T15:32:24.110461+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/world-of-horror-as-below-so-above.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-30T15:17:41.438575+00:00"
+  "updated_at": "2026-10-30T15:32:24.110804+00:00"
 }
