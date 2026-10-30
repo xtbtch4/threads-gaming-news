@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e0ba147380086874b78b9467",
-      "title": "Multi-Stage Boss Fights Are the Worst Video Game Mechanic of All Time",
-      "url": "https://polygon.com/multi-stage-boss-fights-worst-video-game-mechanic",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T20:00:15+00:00",
-      "score": 8,
-      "event_key": "multi-stage boss fights criticized in polygon article",
-      "title_ru": "Мнение: многоэтапные битвы с боссами портят видеоигры",
-      "threads_teaser_ru": "Почему многоэтапные битвы с боссами и восполнение здоровья врагов во время боя могут полностью испортить впечатление от видеоигры? Разбор главных раздражающих механик.",
-      "telegram_message_id": "773",
-      "telegram_url": "https://t.me/gamepulse_newss/773",
-      "telegram_published_at": "2026-10-05T21:32:38.265622+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/multi-stage-boss-fights-header.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/control-resonant-launch-trailer-remedy-entertainment-1080p-1789672276.mp4",
-      "threads_published_at": "2026-10-05T21:32:39.853015+00:00"
-    },
-    {
       "fingerprint": "65e9c694dd28a0c9b7af647f",
       "title": "All 'Freeze Frame' camera locations in Control Resonant",
       "url": "https://polygon.com/control-resonant-freeze-frame-camera-instant-photo-locations",
@@ -20498,7 +20480,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/eevee-grove-key-art.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/pokemoncards-1789859278.mp4",
       "threads_published_at": "2026-10-30T23:17:06.507745+00:00"
+    },
+    {
+      "fingerprint": "4122d2f898a74b9803fbc248",
+      "title": "What GTA Clones Did Better Than Grand Theft Auto Itself",
+      "url": "https://gamespot.com/articles/what-gta-clones-did-better-than-grand-theft-auto-itself",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-30T10:50:00+00:00",
+      "score": 9,
+      "event_key": "analysis of games competing with Grand Theft Auto series",
+      "title_ru": "Что «клоны» Grand Theft Auto делали лучше оригинала",
+      "threads_teaser_ru": "Серия Grand Theft Auto считается эталоном AAA-игр благодаря своему масштабу и инновациям. Однако в истории индустрии были проекты, которые пытались конкурировать с франшизой и в некоторых аспектах справлялись с этим лучше, чем сама Grand Theft Auto.",
+      "telegram_message_id": "1974",
+      "telegram_url": "https://t.me/gamepulse_newss/1974",
+      "telegram_published_at": "2026-10-30T23:47:59.825336+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-10-30T23:17:06.507862+00:00"
+  "updated_at": "2026-10-30T23:47:59.825648+00:00"
 }
