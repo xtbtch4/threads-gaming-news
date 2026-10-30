@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f8c52303eca50cb742f16797",
-      "title": "BG3 Console Update Officially Brings 300-Option Cheat Menu",
-      "url": "https://polygon.com/bg3-console-cheaters-menu-mod",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T18:00:14+00:00",
-      "score": 14,
-      "event_key": "baldurs-gate-3-console-cheaters-menu-mod",
-      "title_ru": "В Baldur’s Gate 3 на консолях появился официальный мод с читами",
-      "threads_teaser_ru": "Larian Studios одобрила официальный мод Cheater’s Menu для консольных версий Baldur’s Gate 3 на PS5 и Xbox. Он добавляет заклинание с меню на 300+ читов.",
-      "telegram_message_id": "760",
-      "telegram_url": "https://t.me/gamepulse_newss/760",
-      "telegram_published_at": "2026-10-05T18:02:25.026738+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24836068/baldurs_gate_3_warlock_half_elf.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-05T18:02:26.289238+00:00"
-    },
-    {
       "fingerprint": "a0f88b694f745d3a0068a683",
       "title": "How The Walking Dead: Streets of Survival Builds a Tactical Brawler",
       "url": "https://news.xbox.com/en-us/2026/10/05/how-the-walking-dead-streets-of-survival-builds-a-tactical-brawler",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-10-30T18:47:14.625813+00:00"
+    },
+    {
+      "fingerprint": "87fef778b30701c34b7c357c",
+      "title": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets",
+      "url": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-30T17:00:00+00:00",
+      "score": 11,
+      "event_key": "Curse of Resthaven release on XBOX platforms",
+      "title_ru": "Советы по прохождению Curse of Resthaven",
+      "threads_teaser_ru": "В вышедшей Curse of Resthaven вам предстоит распутывать тайны острова в условиях шестидневной временной петли. Игрокам нужно совмещать менеджмент города и карточные экспедиции, чтобы раскрыть все три временные линии и добраться до истинного финала.",
+      "telegram_message_id": "1961",
+      "telegram_url": "https://t.me/gamepulse_newss/1961",
+      "telegram_published_at": "2026-10-30T19:02:33.439984+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/CoR-Key-Art-New-17425a0ba064061ca51a.jpg"
     }
   ],
-  "updated_at": "2026-10-30T18:47:14.625916+00:00"
+  "updated_at": "2026-10-30T19:02:33.440387+00:00"
 }
