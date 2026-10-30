@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "225772356188a61cb15a62a5",
-      "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
-      "url": "https://ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner",
-      "source": "IGN",
-      "published_at_source": "2026-10-04T23:04:35+00:00",
-      "score": 9,
-      "event_key": "blindfolded tekken 8 player reaches god of destruction rank",
-      "title_ru": "Игрок добрался до высокого ранга в Tekken 8 с завязанными глазами",
-      "threads_teaser_ru": "Профессиональный игрок в Tekken 8 под ником SuperBrine смог пройти путь от новичка до ранга God of Destruction, играя в маске для сна.",
-      "telegram_message_id": "726",
-      "telegram_url": "https://t.me/gamepulse_newss/726",
-      "telegram_published_at": "2026-10-05T00:02:49.860120+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/04/tekken-8-pro-gets-god-of-destruction-alisa-blindfolded-1791154556788.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-05T00:02:51.060426+00:00"
-    },
-    {
       "fingerprint": "59fc8c75c9a76ca2a60d9b7e",
       "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
       "url": "https://ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/07/18/celeste-1689688002539.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T06:32:23.820528+00:00"
+    },
+    {
+      "fingerprint": "c76934e5f1447adb4e6266bf",
+      "title": "The Official Nintendo Switch 2 Pro Controller Drops to $67.59 at Woot Ahead of Black Friday",
+      "url": "https://ign.com/articles/nintendo-switch-2-pro-controller-deal-october-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T06:50:00+00:00",
+      "score": 8,
+      "event_key": "Nintendo Switch 2 Pro controller discount on Woot",
+      "title_ru": "Официальный контроллер Nintendo Switch 2 Pro доступен со скидкой на площадке Woot",
+      "threads_teaser_ru": "На площадке Woot стартовала ранняя распродажа: официальный контроллер для Nintendo Switch 2 можно приобрести по сниженной цене с применением промокода. Устройство имеет международную версию и гарантию от продавца.",
+      "telegram_message_id": "1927",
+      "telegram_url": "https://t.me/gamepulse_newss/1927",
+      "telegram_published_at": "2026-10-30T07:02:24.746496+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/nintendoswitch2procontroller-1793342728907.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T06:32:23.820620+00:00"
+  "updated_at": "2026-10-30T07:02:24.746792+00:00"
 }
