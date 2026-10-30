@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1946",
       "telegram_url": "https://t.me/gamepulse_newss/1946",
       "telegram_published_at": "2026-10-30T15:17:39.946861+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/tenebris-somnia-2_rwR6NVJ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/tenebris-somnia-2_rwR6NVJ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-30T15:17:41.438480+00:00"
     }
   ],
-  "updated_at": "2026-10-30T15:17:39.947150+00:00"
+  "updated_at": "2026-10-30T15:17:41.438575+00:00"
 }
