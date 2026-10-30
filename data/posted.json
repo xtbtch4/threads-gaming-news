@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a5124f562304190c19a62b70",
-      "title": "Dungeons and Dragons: World of Warcraft – Everything You Need to Know",
-      "url": "https://ign.com/articles/dungeons-and-dragons-world-of-warcraft-everything-you-need-to-know",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T16:00:00+00:00",
-      "score": 13,
-      "event_key": "dungeons and dragons world of warcraft expansion details",
-      "title_ru": "Детали Dungeons and Dragons: World of Warcraft",
-      "threads_teaser_ru": "Wizards of the Coast рассказала о масштабном дополнении Dungeons and Dragons: World of Warcraft, охватывающем всю историю Азерота до The War Within, включая подземелья, конфликты и культовых персонажей.",
-      "telegram_message_id": "753",
-      "telegram_url": "https://t.me/gamepulse_newss/753",
-      "telegram_published_at": "2026-10-05T16:17:10.742740+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/342305-cn-copy-1791050958738.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-05T16:17:12.182141+00:00"
-    },
-    {
       "fingerprint": "107fae465d0a9457e3f81c5b",
       "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
       "url": "https://eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-10-30T17:02:28.071133+00:00"
+    },
+    {
+      "fingerprint": "40bdd84ce857bf1f06663aec",
+      "title": "Animal Crossing’s Biggest Competitor Officially Launches in December",
+      "url": "https://polygon.com/petit-planet-release-date-trailer",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T17:03:53+00:00",
+      "score": 14,
+      "event_key": "hoyoverse_announces_petit_planet_release_date",
+      "title_ru": "HoYoverse назвала дату релиза Petit Planet",
+      "threads_teaser_ru": "Компания HoYoverse объявила дату релиза уютного симулятора жизни Petit Planet. Игра выйдет на PC и мобильных устройствах уже в декабре. Трейлер показал новые возможности кастомизации и геймплей.",
+      "telegram_message_id": "1954",
+      "telegram_url": "https://t.me/gamepulse_newss/1954",
+      "telegram_published_at": "2026-10-30T17:17:40.955557+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/petit-planet-release-date-trailer.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-30T17:02:28.071223+00:00"
+  "updated_at": "2026-10-30T17:17:40.955837+00:00"
 }
