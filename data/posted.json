@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "107fae465d0a9457e3f81c5b",
-      "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
-      "url": "https://eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-05T16:25:19+00:00",
-      "score": 11,
-      "event_key": "dd_world_of_warcraft_book_release",
-      "title_ru": "Анонс книги D&D: World of Warcraft",
-      "threads_teaser_ru": "Настольная книга D&D: World of Warcraft выйдет 17 ноября. Она добавит расы, заклинания и подземелья из игры Blizzard, но сохранит правила настолки без рейдов на 40 человек и гринда.",
-      "telegram_message_id": "754",
-      "telegram_url": "https://t.me/gamepulse_newss/754",
-      "telegram_published_at": "2026-10-05T16:32:18.942360+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/sylvanas-wow-d%26d-book.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T16:32:20.329906+00:00"
-    },
-    {
       "fingerprint": "0dfe80fcfa0c7ab201cc6176",
       "title": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
       "url": "https://rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/petit-planet-release-date-trailer.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-30T17:17:42.678090+00:00"
+    },
+    {
+      "fingerprint": "dfd45016afebc67d81c3d09f",
+      "title": "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS",
+      "url": "https://ign.com/articles/call-of-duty-modern-warfare-2-rating-potentially-leaks-port-for-original-2009-fps",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T16:42:45+00:00",
+      "score": 13,
+      "event_key": "call of duty modern warfare 2 rating leak port",
+      "title_ru": "Возрастной рейтинг намекает на скорый выход порта Call of Duty: Modern Warfare 2",
+      "threads_teaser_ru": "Австралийский регулятор присвоил возрастной рейтинг игре Call of Duty: Modern Warfare 2 (2009), что намекает на скорый анонс порта от Activision.",
+      "telegram_message_id": "1955",
+      "telegram_url": "https://t.me/gamepulse_newss/1955",
+      "telegram_published_at": "2026-10-30T17:32:15.004903+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/19/call-of-duty-ambience-lobbies-1784502331743.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T17:17:42.678179+00:00"
+  "updated_at": "2026-10-30T17:32:15.005128+00:00"
 }
