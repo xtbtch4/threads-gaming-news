@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cf2f8f4822060d89b88a78f8",
-      "title": "Nintendo's Zelda: Ocarina of Time Remake Gets Official Instrument Support and More",
-      "url": "https://polygon.com/zelda-ocarina-of-time-remake-new-features-notes-app-nintendo",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T18:19:15+00:00",
-      "score": 5,
-      "event_key": "zelda ocarina of time remake nintendo switch 2 details",
-      "title_ru": "Nintendo анонсировала особенности ремейка The Legend of Zelda: Ocarina of Time для Nintendo Switch 2",
-      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time для Nintendo Switch 2 выйдет 5 ноября и получит поддержку физических окарин, викторины, систему достижений и интеграцию с приложением Zelda Notes.",
-      "telegram_message_id": "720",
-      "telegram_url": "https://t.me/gamepulse_newss/720",
-      "telegram_published_at": "2026-10-04T18:46:52.779914+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ocarina.JPG?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-04T18:46:54.085224+00:00"
-    },
-    {
       "fingerprint": "b29a9a5c8e0682e3df72d4f3",
       "title": "25 Years Later, Ridley Scott’s Most Controversial Thriller Is Officially Free on Youtube",
       "url": "https://polygon.com/ridley-scott-hannibal-2001-controversy",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/07/16/uprisingthumb-1784220560729.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T03:47:31.191649+00:00"
+    },
+    {
+      "fingerprint": "7fbd0ad7206e9bfdcf1f0bc5",
+      "title": "10 Essential Fantasy Books You Need to Read at Least Once in Your Life",
+      "url": "https://polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T04:00:17+00:00",
+      "score": 8,
+      "event_key": "polygon publishes list of 10 essential fantasy books",
+      "title_ru": "Polygon составил список из 10 знаковых фэнтези-книг",
+      "threads_teaser_ru": "Polygon опубликовал список из 10 фэнтези-книг, которые должен прочесть каждый. В подборку попали классические романы, «The Witcher» Сапковского, сюрреалистичная проза Мураками и другие знаковые произведения, изменившие жанр.",
+      "telegram_message_id": "1921",
+      "telegram_url": "https://t.me/gamepulse_newss/1921",
+      "telegram_published_at": "2026-10-30T04:02:43.718926+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/alice-2010.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-30T03:47:31.191743+00:00"
+  "updated_at": "2026-10-30T04:02:43.719051+00:00"
 }
