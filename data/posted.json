@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b75f82962884bb338fe498ed",
-      "title": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off",
-      "url": "https://rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-05T09:52:00+00:00",
-      "score": 13,
-      "event_key": "runescape-4-unreal-engine-mmo-announced-jagex",
-      "title_ru": "Анонсирована RuneScape 4 на движке Unreal Engine",
-      "threads_teaser_ru": "Компания Jagex анонсировала RuneScape 4 на движке Unreal Engine. Новая MMORPG выросла из планов по расширению выживача RuneScape: Dragonwilds и не заменит существующие игры франшизы.",
-      "telegram_message_id": "770",
-      "telegram_url": "https://t.me/gamepulse_newss/770",
-      "telegram_published_at": "2026-10-05T20:46:47.780743+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/runescape-4-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T20:46:49.269870+00:00"
-    },
-    {
       "fingerprint": "9de8bd4cc7d8fb31f16f8ad4",
       "title": "RuneScape creator Jagex in hot water over generative AI use in recent trailer",
       "url": "https://eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/lenovtabplusgen2-1793392876832.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T22:32:10.396804+00:00"
+    },
+    {
+      "fingerprint": "588c9b591ebc42b0155b26f3",
+      "title": "VRChat Devs Spark Outrage After Refusing to Include AI Label Despite 95% of Fans Asking for It",
+      "url": "https://ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T20:11:52+00:00",
+      "score": 9,
+      "event_key": "VRChat developers refuse AI labels despite user survey results",
+      "title_ru": "Разработчики VRChat отказались добавлять метки для AI-контента вопреки результатам опроса",
+      "threads_teaser_ru": "Разработчики VRChat оказались в центре скандала: они отказались вводить метки для AI-контента, несмотря на то, что в их собственном опросе за это проголосовало 95% пользователей. Игроки возмущены игнорированием их мнения.",
+      "telegram_message_id": "1971",
+      "telegram_url": "https://t.me/gamepulse_newss/1971",
+      "telegram_published_at": "2026-10-30T22:47:40.860434+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/vrchat-devs-spark-outrage-over-ai-label-1793390533984.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T22:32:10.396936+00:00"
+  "updated_at": "2026-10-30T22:47:40.860822+00:00"
 }
