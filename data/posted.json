@@ -20493,9 +20493,10 @@
       "telegram_message_id": "1925",
       "telegram_url": "https://t.me/gamepulse_newss/1925",
       "telegram_published_at": "2026-10-30T05:32:35.073780+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Feature_JeanLucRecommendsQueensDomain_SITE-1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Feature_JeanLucRecommendsQueensDomain_SITE-1.jpg?w=300",
+      "threads_published_at": "2026-10-30T05:32:36.533563+00:00"
     }
   ],
-  "updated_at": "2026-10-30T05:32:35.073916+00:00"
+  "updated_at": "2026-10-30T05:32:36.533651+00:00"
 }
