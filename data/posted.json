@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "26599ff44618376028595adb",
-      "title": "Modders are furious as Claude-powered mashup mods flood social media",
-      "url": "https://eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-04T16:38:22+00:00",
-      "score": 9,
-      "event_key": "modders furious about AI generated mashup mods trend",
-      "title_ru": "Моддеры раскритиковали тренд на ИИ-модификации",
-      "threads_teaser_ru": "Создатели модификаций возмущены наводнившим соцсети трендом на ИИ-мэшапы. Энтузиасты переносят контент из одной игры в другую с помощью Claude Opus 5.5, вызывая беспокойство у опытных разработчиков модов.",
-      "telegram_message_id": "716",
-      "telegram_url": "https://t.me/gamepulse_newss/716",
-      "telegram_published_at": "2026-10-04T16:46:40.118010+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-04T16:46:41.478107+00:00"
-    },
-    {
       "fingerprint": "fbe039a3379fa21a4679ba92",
       "title": "'Buffy the Vampire Slayer' Would Be Much Better if It Were 2 Seasons Shorter",
       "url": "https://polygon.com/buffy-season-5-hot-take",
@@ -20497,7 +20480,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/hv06502wmaayufx-1793310464924.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T02:32:28.304350+00:00"
+    },
+    {
+      "fingerprint": "eff6ba0deae0a868d585cb23",
+      "title": "Hit Indie Horror Game Mouthwashing is Getting a Live-Action Movie From the Director of Jennifer's Body",
+      "url": "https://ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
+      "source": "IGN",
+      "published_at_source": "2026-10-29T21:18:43+00:00",
+      "score": 10,
+      "event_key": "Mouthwashing horror game gets live action movie adaptation",
+      "title_ru": "Инди-хоррор Mouthwashing получит экранизацию от режиссера Jennifer's Body",
+      "threads_teaser_ru": "Популярный инди-хоррор Mouthwashing получит полнометражную экранизацию от режиссера Карин Кусамы. Продюсированием ленты займется Скотт Дерриксон, а сценарий напишут авторы фильма The Invitation. В тот же день игра официально вышла на консолях.",
+      "telegram_message_id": "1917",
+      "telegram_url": "https://t.me/gamepulse_newss/1917",
+      "telegram_published_at": "2026-10-30T02:47:23.967816+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/mouthwashingthumb-1793305960020.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T02:32:28.304453+00:00"
+  "updated_at": "2026-10-30T02:47:23.968039+00:00"
 }
