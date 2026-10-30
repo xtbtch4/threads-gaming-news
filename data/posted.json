@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "158a9e1717f20ae734184617",
-      "title": "Halloween: The Game's DLC Is Only For the True Michael Myers Sickos",
-      "url": "https://polygon.com/halloween-the-game-free-map-michael-myers-skin-dlc",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T16:59:22+00:00",
-      "score": 12,
-      "event_key": "illfonic-announces-dlc-and-free-map-for-halloween-the-game",
-      "title_ru": "Illfonic анонсировала DLC и бесплатную карту для Halloween: The Game",
-      "threads_teaser_ru": "Разработчики Halloween: The Game анонсировали первое платное DLC с новыми обликами и костюмами, которые обойдутся игрокам в 9,99 долларов каждое. Вместе с ними выйдет бесплатная карта.",
-      "telegram_message_id": "758",
-      "telegram_url": "https://t.me/gamepulse_newss/758",
-      "telegram_published_at": "2026-10-05T17:32:29.045841+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/halloween-the-game-michae-myers.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-05T17:32:30.387926+00:00"
-    },
-    {
       "fingerprint": "a0471835f8c67229f5f85ee6",
       "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to $179 for Amazon Prime Day",
       "url": "https://ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/pikachu-1793378514177.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T18:17:28.912212+00:00"
+    },
+    {
+      "fingerprint": "496af8528428a1ece1f48b85",
+      "title": "Official PlayStation Podcast Episode 552: Pumpkins and Pines",
+      "url": "https://blog.playstation.com/2026/10/30/official-playstation-podcast-episode-552-shivering-silver",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-10-30T16:55:53+00:00",
+      "score": 12,
+      "event_key": "official playstation podcast episode 552 released",
+      "title_ru": "Вышел новый выпуск Official PlayStation Podcast",
+      "threads_teaser_ru": "Ведущие Official PlayStation Podcast обсудили главные игры октября, незамеченные релизы и планы на оставшуюся часть года в новом выпуске.",
+      "telegram_message_id": "1959",
+      "telegram_url": "https://t.me/gamepulse_newss/1959",
+      "telegram_published_at": "2026-10-30T18:32:14.237527+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/f0bdb96f1f1aa830e7ec2195dd5f7fcb045a8aee.jpg"
     }
   ],
-  "updated_at": "2026-10-30T18:17:28.912295+00:00"
+  "updated_at": "2026-10-30T18:32:14.237916+00:00"
 }
