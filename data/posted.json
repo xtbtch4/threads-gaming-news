@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fe98df5b806b64ad86a3d9ca",
-      "title": "Man of Tomorrow Passed An Important Post-Production Milestone",
-      "url": "https://polygon.com/man-of-tomorrow-assembly-cut",
-      "source": "Polygon",
-      "published_at_source": "2026-10-04T15:21:35+00:00",
-      "score": 8,
-      "event_key": "man of tomorrow assembly cut complete james gunn",
-      "title_ru": "Man of Tomorrow преодолел важный этап постпродакшна",
-      "threads_teaser_ru": "Режиссер James Gunn подтвердил завершение чернового монтажа фильма Man of Tomorrow. Производство идет по плану несмотря на слияние Warner Bros. и Paramount, а премьера картины назначена на 9 июля 2027 года.",
-      "telegram_message_id": "712",
-      "telegram_url": "https://t.me/gamepulse_newss/712",
-      "telegram_published_at": "2026-10-04T15:32:17.124383+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/man-of-tomorrow-lex-luthor.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2025/05/superman-official-trailer-1747238278.mp4",
-      "threads_published_at": "2026-10-04T15:32:18.667559+00:00"
-    },
-    {
       "fingerprint": "ca63580c74f422fd3f8ba71e",
       "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
       "url": "https://ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link",
@@ -20499,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2022/06/24/corsair-dominator-platinum-rgb-1656107201735.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-29T21:03:05.950416+00:00"
+    },
+    {
+      "fingerprint": "21fa75cf137603680a1fb9b8",
+      "title": "Official The Elder Scrolls 6 Announcement Imminent, Report Says",
+      "url": "https://polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda",
+      "source": "Polygon",
+      "published_at_source": "2026-10-29T21:14:52+00:00",
+      "score": 14,
+      "event_key": "Bethesda likely announcing The Elder Scrolls 6 title in November",
+      "title_ru": "Bethesda может раскрыть название The Elder Scrolls 6 в ноябре",
+      "threads_teaser_ru": "Похоже, ожидание фанатов The Elder Scrolls 6 подходит к концу. Появились слухи, что Bethesda готовится раскрыть название следующей части к 15-летию Skyrim. Сообщается, что игра получит подзаголовок Sentinel, а её действие перенесет игроков в регион Hammerfell.",
+      "telegram_message_id": "1913",
+      "telegram_url": "https://t.me/gamepulse_newss/1913",
+      "telegram_published_at": "2026-10-30T00:02:37.949050+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/elder-scrolls-online-skyrim-update-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-29T21:03:05.950497+00:00"
+  "updated_at": "2026-10-30T00:02:37.949371+00:00"
 }
