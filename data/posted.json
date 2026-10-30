@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b85e643db91806fdee14d353",
-      "title": "Star Wars: Galactic Racer Is the Hades of Racing Games for One Ultimate Reason",
-      "url": "https://polygon.com/star-wars-galactic-racer-roguelike-interview",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T12:00:16+00:00",
-      "score": 8,
-      "event_key": "star-wars-galactic-racer-announced-roguelike-arcade-racer",
-      "title_ru": "Разработчики Star Wars: Galactic Racer рассказали о создании аркадной гонки в жанре рогалик",
-      "threads_teaser_ru": "Студия Fuse Games создала Star Wars: Galactic Racer в жанре рогалик-гонки. Авторы отказались от лишних обучений ради радости открытий и сделали упор на преодоление трудностей.",
-      "telegram_message_id": "738",
-      "telegram_url": "https://t.me/gamepulse_newss/738",
-      "telegram_published_at": "2026-10-05T12:16:44.938680+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/griffin-screenshot-1-no-logo.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-05T12:16:46.434711+00:00"
-    },
-    {
       "fingerprint": "26aaf551f55b91bda19aedf4",
       "title": "You Can Grab Sonic X Shadow Generations Cheaper Than Steam’s Fall Sale, But You Gotta Go Fast",
       "url": "https://gamespot.com/articles/you-can-grab-sonic-x-shadow-generations-cheaper-than-steams-fall-sale-but-you-gotta-go-fast",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/28/reality-fracture-where-to-buy-ign-1790588669382.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T13:02:59.873867+00:00"
+    },
+    {
+      "fingerprint": "c6ee0826bd9555e7ddf30d73",
+      "title": "Magic: The Gathering’s Hobbit Play Boosters Just Hit a New Lowest-Ever Price Ahead of Black Friday",
+      "url": "https://ign.com/articles/magic-the-gathering-hobbit-play-boosters-just-hit-a-new-lowest-ever-price-ahead-of-black-friday",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T11:34:02+00:00",
+      "score": 9,
+      "event_key": "magic the gathering hobbit play boosters price discount amazon",
+      "title_ru": "На Magic: The Gathering Hobbit Play Boosters установили минимальную цену в преддверии Black Friday",
+      "threads_teaser_ru": "В преддверии Black Friday стоимость коробки Play Boosters для Magic: The Gathering (Middle-Earth) опустилась до рекордно низкой отметки в $139,99 на Amazon. Рассказываем, что входит в комплект и как изменилась цена за одну упаковку.",
+      "telegram_message_id": "1939",
+      "telegram_url": "https://t.me/gamepulse_newss/1939",
+      "telegram_published_at": "2026-10-30T13:32:15.544855+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/14/the-hobbit-booster-boxes-ign-1786699466644.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T13:02:59.873967+00:00"
+  "updated_at": "2026-10-30T13:32:15.545143+00:00"
 }
