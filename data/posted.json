@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0ff65c791bfd9d2430609ca0",
-      "title": "GTA's Wanted Level Is One of Video Games’ Perfect Ideas",
-      "url": "https://polygon.com/grand-theft-auto-wanted-level-opinion",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T19:00:16+00:00",
-      "score": 12,
-      "event_key": "polygon analysis of gta wanted system design",
-      "title_ru": "Эволюция системы розыска в серии Grand Theft Auto",
-      "threads_teaser_ru": "Система розыска в серии Grand Theft Auto остается одной из самых ярких и продуманных геймплейных механик в истории видеоигр. Издание Polygon оценило ее влияние накануне релиза Grand Theft Auto 6.",
-      "telegram_message_id": "767",
-      "telegram_url": "https://t.me/gamepulse_newss/767",
-      "telegram_published_at": "2026-10-05T19:48:02.045450+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-05T19:48:03.477053+00:00"
-    },
-    {
       "fingerprint": "d79b37ba282ec553eaf98f09",
       "title": "Final Fantasy 7 Revelation Hot Springs Scenes Reveal New Bathing Suit Skins for the Party",
       "url": "https://ign.com/articles/final-fantasy-7-revelation-hot-springs-scenes-reveal-new-bathing-suit-skins-for-the-party",
@@ -20497,7 +20480,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/minecraftdungeons2-1793390585254.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T21:32:47.925260+00:00"
+    },
+    {
+      "fingerprint": "848fd47fb79bfabe1bb29118",
+      "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
+      "url": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-10-30T18:00:00+00:00",
+      "score": 13,
+      "event_key": "avatar_legends_the_fighting_game_avatar_state_patch_release",
+      "title_ru": "Для Avatar Legends: The Fighting Game вышло крупнейшее обновление The Avatar State Patch",
+      "threads_teaser_ru": "Для Avatar Legends: The Fighting Game на XBOX Series X|S вышло масштабное обновление The Avatar State Patch. Оно добавило Ranked Mode 2.0, переработанных бойцов Avatar Aang и Nightmare Korra, а также запустило голосование за нового персонажа для Year 1 Pass.",
+      "telegram_message_id": "1968",
+      "telegram_url": "https://t.me/gamepulse_newss/1968",
+      "telegram_published_at": "2026-10-30T22:02:21.987287+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/AvStatePatch_thumb_16x9_v2-e2a3b051a7e308702cf0.jpg",
+      "video_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/norra_lvl4-1.mp4"
     }
   ],
-  "updated_at": "2026-10-30T21:32:47.925359+00:00"
+  "updated_at": "2026-10-30T22:02:21.987680+00:00"
 }
