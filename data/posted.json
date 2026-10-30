@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a0f88b694f745d3a0068a683",
-      "title": "How The Walking Dead: Streets of Survival Builds a Tactical Brawler",
-      "url": "https://news.xbox.com/en-us/2026/10/05/how-the-walking-dead-streets-of-survival-builds-a-tactical-brawler",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-05T18:00:00+00:00",
-      "score": 12,
-      "event_key": "the walking dead streets of survival release xbox pc",
-      "title_ru": "Релиз The Walking Dead: Streets of Survival на Xbox Series X|S и PC",
-      "threads_teaser_ru": "Игра The Walking Dead: Streets of Survival уже доступна на Xbox Series X|S и PC. Проект объединяет исследование, менеджмент ресурсов и тактический экшен с участием Rick, Daryl, Michonne и Negan.",
-      "telegram_message_id": "761",
-      "telegram_url": "https://t.me/gamepulse_newss/761",
-      "telegram_published_at": "2026-10-05T18:17:16.075555+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/The-Walking-Dead-SoS-Deluxe-Store-Art-XBOX-WIRE-2aaec7d0cd8b76ff4c30.jpg",
-      "threads_published_at": "2026-10-05T18:17:17.560603+00:00"
-    },
-    {
       "fingerprint": "847e6372273c641cf712e076",
       "title": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
       "url": "https://ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/CoR-Key-Art-New-17425a0ba064061ca51a.jpg",
       "threads_published_at": "2026-10-30T19:02:35.132354+00:00"
+    },
+    {
+      "fingerprint": "5294078889ae0a75d3d4ce7e",
+      "title": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
+      "url": "https://eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-30T19:06:18+00:00",
+      "score": 11,
+      "event_key": "Blizzard hints at potential World of Warcraft: Forever console ports",
+      "title_ru": "Blizzard намекнула на возможный выход World of Warcraft: Forever на консолях",
+      "threads_teaser_ru": "Blizzard Entertainment рассматривает возможность выпуска World of Warcraft: Forever на других устройствах, помимо PC. В студии уже внедрили поддержку геймпадов и стремятся к тому, чтобы игроки могли запускать проект там, где им удобно.",
+      "telegram_message_id": "1962",
+      "telegram_url": "https://t.me/gamepulse_newss/1962",
+      "telegram_published_at": "2026-10-30T19:17:42.061000+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/wow-forever.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-30T19:02:35.132455+00:00"
+  "updated_at": "2026-10-30T19:17:42.061307+00:00"
 }
