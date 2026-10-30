@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2e0c885172c0a37341bb9247",
-      "title": "Doctor Who Showrunner Finally Reveals What Killed the Show",
-      "url": "https://polygon.com/what-killed-doctor-who-bbc-russell-t-davies",
-      "source": "Polygon",
-      "published_at_source": "2026-10-05T12:01:28+00:00",
-      "score": 12,
-      "event_key": "russell t davies reveals cause of doctor who cancellation",
-      "title_ru": "Russell T. Davies назвал причину закрытия Doctor Who",
-      "threads_teaser_ru": "Бывший шоураннер Russell T. Davies раскрыл истинную причину закрытия Doctor Who. По его словам, к этому привели финансовые проблемы BBC и неспособность огромной организации быстро действовать в кризис.",
-      "telegram_message_id": "737",
-      "telegram_url": "https://t.me/gamepulse_newss/737",
-      "telegram_published_at": "2026-10-05T12:02:52.265733+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/billie-piper-doctor-who.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-05T12:02:53.625641+00:00"
-    },
-    {
       "fingerprint": "b85e643db91806fdee14d353",
       "title": "Star Wars: Galactic Racer Is the Hades of Racing Games for One Ultimate Reason",
       "url": "https://polygon.com/star-wars-galactic-racer-roguelike-interview",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1793357903664.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T12:46:36.024700+00:00"
+    },
+    {
+      "fingerprint": "21a031f57c6adda8bbab8608",
+      "title": "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
+      "url": "https://ign.com/articles/magic-the-gathering-reality-fracture-commander-deck-is-among-the-most-powerful-weve-ever-released-according-to-wotc",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T11:58:06+00:00",
+      "score": 9,
+      "event_key": "Wizards of the Coast releases powerful Multiverse Reforged Commander deck",
+      "title_ru": "Wizards of the Coast назвали новую колоду Commander одной из самых мощных",
+      "threads_teaser_ru": "Wizards of the Coast представили новую колоду Commander Multiverse Reforged для набора Reality Fracture. Разработчики решили ограничиться одним преконом вместо двух и уверены, что создали одну из самых мощных сборок в истории игры.",
+      "telegram_message_id": "1938",
+      "telegram_url": "https://t.me/gamepulse_newss/1938",
+      "telegram_published_at": "2026-10-30T13:02:58.440381+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/reality-fracture-where-to-buy-ign-1790588669382.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T12:46:36.024789+00:00"
+  "updated_at": "2026-10-30T13:02:58.440648+00:00"
 }
