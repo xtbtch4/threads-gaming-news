@@ -20495,9 +20495,10 @@
       "telegram_message_id": "1972",
       "telegram_url": "https://t.me/gamepulse_newss/1972",
       "telegram_published_at": "2026-10-30T23:02:29.008917+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/my-chemical-romance-hideo-kojima-1793400372401.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/my-chemical-romance-hideo-kojima-1793400372401.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-30T23:02:30.287379+00:00"
     }
   ],
-  "updated_at": "2026-10-30T23:02:29.009235+00:00"
+  "updated_at": "2026-10-30T23:02:30.287468+00:00"
 }
