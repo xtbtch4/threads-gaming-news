@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1935",
       "telegram_url": "https://t.me/gamepulse_newss/1935",
       "telegram_published_at": "2026-10-30T12:17:01.405764+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image_Crimson-Desert_DLC_KeyArtLayer_1920x1080-05f91c8520d05d01d228.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image_Crimson-Desert_DLC_KeyArtLayer_1920x1080-05f91c8520d05d01d228.jpg",
+      "threads_published_at": "2026-10-30T12:17:02.818305+00:00"
     }
   ],
-  "updated_at": "2026-10-30T12:17:01.405952+00:00"
+  "updated_at": "2026-10-30T12:17:02.818395+00:00"
 }
