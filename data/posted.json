@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "af10ec8b4f26900b6b6dbf94",
-      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "url": "https://eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-05T15:00:30+00:00",
-      "score": 15,
-      "event_key": "rockstar explains gta 6 satire and politics approach",
-      "title_ru": "Rockstar объяснила подход к сатире в GTA 6",
-      "threads_teaser_ru": "Разработчики из Rockstar объяснили, почему в GTA 6 сознательно избегают прямого высмеивания реальных мировых событий и национальной политики.",
-      "telegram_message_id": "749",
-      "telegram_url": "https://t.me/gamepulse_newss/749",
-      "telegram_published_at": "2026-10-05T15:17:01.127481+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T15:17:03.108746+00:00"
-    },
-    {
       "fingerprint": "80a71ee4d99219cd5081afa0",
       "title": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
       "url": "https://eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/BioWare-shut-down.jpg?w=300",
       "threads_published_at": "2026-10-30T16:02:42.792545+00:00"
+    },
+    {
+      "fingerprint": "7ce465abab1ec55c04fa5c6d",
+      "title": "HBO’s New Green Lantern Series Officially Gets an Important Update",
+      "url": "https://polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T16:16:15+00:00",
+      "score": 12,
+      "event_key": "my adventures with green lantern episode count revealed",
+      "title_ru": "Стало известно количество эпизодов в My Adventures with Green Lantern",
+      "threads_teaser_ru": "Руководитель DC Studios Питер Сафран раскрыл детали анимационного сериала My Adventures with Green Lantern. Первый сезон получит 10 получасовых эпизодов, а в центре сюжета окажется Джессика Круз.",
+      "telegram_message_id": "1950",
+      "telegram_url": "https://t.me/gamepulse_newss/1950",
+      "telegram_published_at": "2026-10-30T16:17:30.867040+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/green-lantern-jessica-cruz.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-30T16:02:42.792647+00:00"
+  "updated_at": "2026-10-30T16:17:30.867179+00:00"
 }
