@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "26aaf551f55b91bda19aedf4",
-      "title": "You Can Grab Sonic X Shadow Generations Cheaper Than Steam’s Fall Sale, But You Gotta Go Fast",
-      "url": "https://gamespot.com/articles/you-can-grab-sonic-x-shadow-generations-cheaper-than-steams-fall-sale-but-you-gotta-go-fast",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-05T12:18:39+00:00",
-      "score": 7,
-      "event_key": "sonic-x-shadow-generations-discounted-on-fanatical",
-      "title_ru": "Sonic X Shadow Generations продается со скидкой дешевле осенней распродажи в Steam",
-      "threads_teaser_ru": "Игра Sonic X Shadow Generations появилась на распродаже в магазине Fanatical по цене ниже, чем в самом Steam. Игроки могут приобрести проект со скидкой за $13.49 / £12.14, получив стандартный ключ для активации на платформе Valve.",
-      "telegram_message_id": "739",
-      "telegram_url": "https://t.me/gamepulse_newss/739",
-      "telegram_published_at": "2026-10-05T12:32:05.672373+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-sonic-x-shadow-generations-lower-than-steam.jpg?w=300",
-      "threads_published_at": "2026-10-05T12:32:06.893928+00:00"
-    },
-    {
       "fingerprint": "877ee5232fa1c26147052824",
       "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
       "url": "https://eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
@@ -20495,7 +20478,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/14/the-hobbit-booster-boxes-ign-1786699466644.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T13:32:16.916454+00:00"
+    },
+    {
+      "fingerprint": "19b227bf8b2f1d09d00c1c8f",
+      "title": "Trying Gears of War: E-Day with Max Settings on NVIDIA GeForce NOW",
+      "url": "https://ign.com/articles/trying-gears-of-war-e-day-with-max-settings-on-nvidia-geforce-now",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T11:14:32+00:00",
+      "score": 9,
+      "event_key": "gears of war e-day nvidia geforce now performance testing",
+      "title_ru": "Gears of War: E-Day протестировали в облачном сервисе NVIDIA GeForce NOW",
+      "threads_teaser_ru": "Gears of War: E-Day активно использует возможности Unreal Engine 5. В облачном сервисе NVIDIA GeForce NOW при максимальных настройках и использовании DLSS 4.5 игре удается поддерживать стабильный фреймрейт в 143 FPS, даже при высоких разрешениях.",
+      "telegram_message_id": "1940",
+      "telegram_url": "https://t.me/gamepulse_newss/1940",
+      "telegram_published_at": "2026-10-30T13:47:25.297071+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/screenshot-2026-10-16-223424-1792402885442.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T13:32:16.916550+00:00"
+  "updated_at": "2026-10-30T13:47:25.297385+00:00"
 }
