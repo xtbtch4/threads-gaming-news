@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9de8bd4cc7d8fb31f16f8ad4",
-      "title": "RuneScape creator Jagex in hot water over generative AI use in recent trailer",
-      "url": "https://eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-05T09:28:10+00:00",
-      "score": 12,
-      "event_key": "jagex criticized generative ai runescape dragon slayer 2 trailer",
-      "title_ru": "Jagex критикуют за использование генеративного ИИ в трейлере RuneScape",
-      "threads_teaser_ru": "Сообщество RuneScape раскритиковало разработчиков из Jagex за использование генеративного ИИ в новом трейлере Dragon Slayer 2. В ролике заметили руку с шестью пальцами и странную обувь.",
-      "telegram_message_id": "771",
-      "telegram_url": "https://t.me/gamepulse_newss/771",
-      "telegram_published_at": "2026-10-05T21:12:26.007230+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/runescape-dragon-slayer-2-ai.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-05T21:12:27.553244+00:00"
-    },
-    {
       "fingerprint": "0bd10f3db3402436dfdec0f7",
       "title": "Sicario 3 Officially Moves Forward, Replacing Taylor Sheridan",
       "url": "https://polygon.com/sicario-3-cast-director-taylor-sheridan-steven-knight",
@@ -20498,7 +20481,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/vrchat-devs-spark-outrage-over-ai-label-1793390533984.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-30T22:47:42.397644+00:00"
+    },
+    {
+      "fingerprint": "b508d729521a55f20413073b",
+      "title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
+      "url": "https://ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short",
+      "source": "IGN",
+      "published_at_source": "2026-10-30T22:49:01+00:00",
+      "score": 9,
+      "event_key": "Hideo Kojima cameo in My Chemical Romance animated short",
+      "title_ru": "Хидео Кодзима появился в новом анимационном ролике My Chemical Romance",
+      "threads_teaser_ru": "Хидео Кодзима неожиданно появился в новом анимационном проекте My Chemical Romance под названием Prelude to The End. Создатель Death Stranding озвучил второстепенного персонажа в короткометражке к 20-летию альбома The Black Parade.",
+      "telegram_message_id": "1972",
+      "telegram_url": "https://t.me/gamepulse_newss/1972",
+      "telegram_published_at": "2026-10-30T23:02:29.008917+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/my-chemical-romance-hideo-kojima-1793400372401.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-30T22:47:42.397763+00:00"
+  "updated_at": "2026-10-30T23:02:29.009235+00:00"
 }
