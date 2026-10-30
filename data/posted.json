@@ -20494,9 +20494,10 @@
       "telegram_message_id": "1967",
       "telegram_url": "https://t.me/gamepulse_newss/1967",
       "telegram_published_at": "2026-10-30T21:32:46.541142+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/minecraftdungeons2-1793390585254.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/minecraftdungeons2-1793390585254.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-30T21:32:47.925260+00:00"
     }
   ],
-  "updated_at": "2026-10-30T21:32:46.541445+00:00"
+  "updated_at": "2026-10-30T21:32:47.925359+00:00"
 }
