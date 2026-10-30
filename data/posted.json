@@ -20492,9 +20492,10 @@
       "telegram_message_id": "1947",
       "telegram_url": "https://t.me/gamepulse_newss/1947",
       "telegram_published_at": "2026-10-30T15:32:24.110461+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/world-of-horror-as-below-so-above.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/world-of-horror-as-below-so-above.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-30T15:32:25.663221+00:00"
     }
   ],
-  "updated_at": "2026-10-30T15:32:24.110804+00:00"
+  "updated_at": "2026-10-30T15:32:25.663313+00:00"
 }
