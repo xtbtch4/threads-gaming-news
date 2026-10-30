@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "72aa8b3eff08af5909c5efad",
-      "title": "The Batman Part 2 Halts Production as Matt Reeves Steps Away for Personal Reasons",
-      "url": "https://ign.com/articles/the-batman-part-2-halts-production-as-matt-reeves-steps-away-for-personal-reasons",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T17:17:39+00:00",
-      "score": 11,
-      "event_key": "the batman part 2 production halts matt reeves",
-      "title_ru": "Производство The Batman Part 2 приостановлено из-за ухода Мэтта Ривза",
-      "threads_teaser_ru": "Производство фильма The Batman Part 2 временно остановилось из-за ухода режиссера Мэтта Ривза по личным причинам. Пока неясно, вернется ли он к работе и отразится ли это на дате релиза.",
-      "telegram_message_id": "763",
-      "telegram_url": "https://t.me/gamepulse_newss/763",
-      "telegram_published_at": "2026-10-05T18:46:38.533984+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/15/batmanthumb-1784125923794.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-05T18:46:39.911302+00:00"
-    },
-    {
       "fingerprint": "1e7f8319433beda861359508",
       "title": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision",
       "url": "https://eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
@@ -20496,7 +20479,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/09/hunt-showdown-1896-press-image-3.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-30T19:47:08.413704+00:00"
+    },
+    {
+      "fingerprint": "a93c325475e1718047791e4e",
+      "title": "New Switch 2 Consoles Quietly Hide A Perfect 'Zelda' Homage",
+      "url": "https://polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art",
+      "source": "Polygon",
+      "published_at_source": "2026-10-30T17:30:19+00:00",
+      "score": 10,
+      "event_key": "hidden easter eggs in Zelda themed Switch 2 console",
+      "title_ru": "Владельцы Switch 2 в стиле The Legend of Zelda: Ocarina of Time обнаружили скрытые пасхалки",
+      "threads_teaser_ru": "В лимитированной Switch 2, посвященной The Legend of Zelda: Ocarina of Time, обнаружили спрятанные детали. Под крышкой док-станции фанаты нашли пиксель-арт с Link и Zelda, а на Pro Controller — изображение героя в бою.",
+      "telegram_message_id": "1964",
+      "telegram_url": "https://t.me/gamepulse_newss/1964",
+      "telegram_published_at": "2026-10-30T20:17:35.931650+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-59-36-screenshot.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-30T19:47:08.413865+00:00"
+  "updated_at": "2026-10-30T20:17:35.931796+00:00"
 }
