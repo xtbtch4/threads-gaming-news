@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "80f2c32e7e60e4222753dc91",
-      "title": "The Gorgeous 27\" Acer Nitro QD-OLED Gaming Monitor With 240Hz Refresh Rate Drops to $269 at Walmart",
-      "url": "https://ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T21:30:00+00:00",
-      "score": 5,
-      "event_key": "acer_nitro_qd_oled_monitor_discount_walmart",
-      "title_ru": "Монитор Acer Nitro QD-OLED подешевел до $269 в Walmart",
-      "threads_teaser_ru": "Игровой 27-дюймовый QD-OLED монитор Acer Nitro с частотой 240Hz и разрешением 1440p временно продается в Walmart всего за $269. Узнайте главные характеристики устройства.",
-      "telegram_message_id": "787",
-      "telegram_url": "https://t.me/gamepulse_newss/787",
-      "telegram_published_at": "2026-10-06T01:02:24.419183+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/acernitrooled-1791234251312.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T01:02:25.810853+00:00"
-    },
-    {
       "fingerprint": "b805eb0f921f24b6cd431514",
       "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
       "url": "https://ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-Steam-Machine.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-31T06:02:56.084474+00:00"
+    },
+    {
+      "fingerprint": "f2311a3f799145bef2909e2d",
+      "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
+      "url": "https://polygon.com/classic-games-bad-graphics-good-gameplay",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T02:36:37+00:00",
+      "score": 7,
+      "event_key": "polygon 15 classic games gameplay over graphics feature",
+      "title_ru": "Polygon составил список из 15 классических игр, где геймплей важнее графики",
+      "threads_teaser_ru": "Polygon выбрал 15 классических игр, которые доказывают, что геймплей важнее графики. От N+ и Mega Man 2 до Worms и SimCity — рассказываем, почему эти проекты остались актуальными спустя десятилетия.",
+      "telegram_message_id": "1988",
+      "telegram_url": "https://t.me/gamepulse_newss/1988",
+      "telegram_published_at": "2026-10-31T06:17:46.142313+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25068419/wind_waker_hd_sailing.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-31T06:02:56.084579+00:00"
+  "updated_at": "2026-10-31T06:17:46.142686+00:00"
 }
