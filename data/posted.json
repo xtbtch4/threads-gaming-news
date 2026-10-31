@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "70c0cd3b716b31456cf965a6",
-      "title": "Join the Mario Tennis Fever Open October 2026 - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/join-the-mario-tennis-fever-open-october-2026",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-06T16:00:00+00:00",
-      "score": 11,
-      "event_key": "mario tennis fever open october 2026 tournament announced",
-      "title_ru": "Анонсирован турнир Mario Tennis Fever Open October 2026",
-      "threads_teaser_ru": "Nintendo проведет турнир Mario Tennis Fever Open October 2026 Tournament для владельцев Nintendo Switch 2. Регистрация открыта на Battlefy, а сами соревнования начнутся 24 октября.",
-      "telegram_message_id": "817",
-      "telegram_url": "https://t.me/gamepulse_newss/817",
-      "telegram_published_at": "2026-10-06T15:47:55.574244+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-06T15:47:58.133244+00:00"
-    },
-    {
       "fingerprint": "3c3f1d197cb67aa921444042",
       "title": "Solo Horror Dev Makes A Creepy Connection To A Real Haunted Island In Mexico",
       "url": "https://gamespot.com/articles/solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in-mexico",
@@ -20501,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/10/persona-1-and-2-remakes-1786397745091.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-31T21:16:57.638323+00:00"
+    },
+    {
+      "fingerprint": "ff471f64d9fb743f4f75533f",
+      "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+      "url": "https://ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+      "source": "IGN",
+      "published_at_source": "2026-10-31T21:46:36+00:00",
+      "score": 13,
+      "event_key": "anthropic blocks ai game clones in claude opus update",
+      "title_ru": "Anthropic выпустила обновление Claude Opus против клонов видеоигр",
+      "threads_teaser_ru": "Компания Anthropic обновила Claude Opus, чтобы остановить создание ИИ-клонов существующих видеоигр, заполонивших Steam. Новые правила запрещают копировать чужие проекты, разрешая при этом разработку оригинальных игр.",
+      "telegram_message_id": "2018",
+      "telegram_url": "https://t.me/gamepulse_newss/2018",
+      "telegram_published_at": "2026-10-31T22:02:15.781370+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-31T21:16:57.638404+00:00"
+  "updated_at": "2026-10-31T22:02:15.781519+00:00"
 }
