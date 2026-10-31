@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9aad27e4ba4b155ca4b65d4c",
-      "title": "Warner Bros. Games Now Belongs To Skydance, But Company Makes No Mention Of That In Big Announcement",
-      "url": "https://gamespot.com/articles/warner-bros-games-now-belongs-to-skydance-but-company-makes-no-mention-of-that-in-big-announcement",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-06T13:55:19+00:00",
-      "score": 12,
-      "event_key": "skydance-acquires-warner-bros-games-paramount-merger",
-      "title_ru": "Warner Bros. Games перешла к Skydance в рамках сделки с Paramount",
-      "threads_teaser_ru": "Paramount завершила покупку Warner Bros. Discovery за $111 млрд, и теперь Warner Bros. Games принадлежит Skydance. В официальном анонсе игры упомянуты не были, хотя под контроль компании перешли Rocksteady, NetherRealm и Avalanche Software.",
-      "telegram_message_id": "813",
-      "telegram_url": "https://t.me/gamepulse_newss/813",
-      "telegram_published_at": "2026-10-06T14:46:55.106866+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/skyd-Large.jpeg?w=300",
-      "threads_published_at": "2026-10-06T14:46:56.622293+00:00"
-    },
-    {
       "fingerprint": "aa569ab51fcc9993eacfa0e5",
       "title": "Gears of War: E-Day – Surviving the First Night of Emergence",
       "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence",
@@ -20501,7 +20484,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1128.webp?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/actorsroundtable-1793394646.mp4",
       "threads_published_at": "2026-10-31T20:02:27.858063+00:00"
+    },
+    {
+      "fingerprint": "c0e14d2ba76e541a4966657e",
+      "title": "How to Read the Redwall Books in Order",
+      "url": "https://ign.com/articles/how-to-read-the-redwall-books-in-order",
+      "source": "IGN",
+      "published_at_source": "2026-10-31T19:59:00+00:00",
+      "score": 6,
+      "event_key": "new redwall novel orphans of mossflower announced",
+      "title_ru": "Анонсирован новый роман в серии Redwall",
+      "threads_teaser_ru": "Спустя годы после ухода автора Брайана Джейкса анонсирован 23-ий роман серии Redwall под названием Orphans of Mossflower. Книга должна выйти в сентябре 2027 года.",
+      "telegram_message_id": "2014",
+      "telegram_url": "https://t.me/gamepulse_newss/2014",
+      "telegram_published_at": "2026-10-31T20:17:16.038498+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/3118-redwall-cover-page-1-530x2x-1793431182882.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-31T20:02:27.858173+00:00"
+  "updated_at": "2026-10-31T20:17:16.038789+00:00"
 }
