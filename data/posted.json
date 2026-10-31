@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c3f1d197cb67aa921444042",
-      "title": "Solo Horror Dev Makes A Creepy Connection To A Real Haunted Island In Mexico",
-      "url": "https://gamespot.com/articles/solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in-mexico",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-06T15:52:15+00:00",
-      "score": 15,
-      "event_key": "where dolls hang inspired by real haunted island in mexico",
-      "title_ru": "Геймдев-одиночка вдохновился реальным островом кукол для Where Dolls Hang",
-      "threads_teaser_ru": "Хоррор Where Dolls Hang от разработчика Steelkrill Studio создается с оглядкой на реальный мексиканский остров Isla de las Muñecas и настоящие фотографии жутких кукол.",
-      "telegram_message_id": "818",
-      "telegram_url": "https://t.me/gamepulse_newss/818",
-      "telegram_published_at": "2026-10-06T16:03:15.576066+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/unnamed-Large.jpeg?w=300",
-      "threads_published_at": "2026-10-06T16:03:16.931983+00:00"
-    },
-    {
       "fingerprint": "68431806748ff7e2dcab3219",
       "title": "Warhammer Survivors Is Launching Mere Days Before GTA 6, And I Respect The Audacity",
       "url": "https://gamespot.com/articles/warhammer-survivors-is-launching-mere-days-before-gta-6-and-i-respect-the-audacity",
@@ -20501,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-31T22:02:17.163492+00:00"
+    },
+    {
+      "fingerprint": "709ea30bb1147069184f05a7",
+      "title": "KPop Demon Hunters Returns In November with Definitive New Release",
+      "url": "https://polygon.com/kpop-demon-hunters-criterion-collection-4k-blu-ray-november-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T21:54:17+00:00",
+      "score": 8,
+      "event_key": "kpop-demon-hunters-criterion-collection-4k-blu-ray-release",
+      "title_ru": "KPop Demon Hunters получит физическое издание на 4K Blu-ray от The Criterion Collection",
+      "threads_teaser_ru": "Анимационный хит KPop Demon Hunters получит масштабное физическое издание от The Criterion Collection в ноябре. Поклонникам предложат на выбор 4K-комплект, Blu-ray и DVD с бонусами, открытками и эссе.",
+      "telegram_message_id": "2019",
+      "telegram_url": "https://t.me/gamepulse_newss/2019",
+      "telegram_published_at": "2026-10-31T22:16:52.074364+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/kpop-demon-hunters-huntrix.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-31T22:02:17.163586+00:00"
+  "updated_at": "2026-10-31T22:16:52.074476+00:00"
 }
