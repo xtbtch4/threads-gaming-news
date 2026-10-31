@@ -20497,9 +20497,10 @@
       "telegram_message_id": "2001",
       "telegram_url": "https://t.me/gamepulse_newss/2001",
       "telegram_published_at": "2026-10-31T14:02:24.603357+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Silent-Hill-Townfall-Door-Dial-Date-Puzzle---Header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Silent-Hill-Townfall-Door-Dial-Date-Puzzle---Header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-10-31T14:02:25.874625+00:00"
     }
   ],
-  "updated_at": "2026-10-31T14:02:24.603725+00:00"
+  "updated_at": "2026-10-31T14:02:25.874719+00:00"
 }
