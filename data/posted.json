@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "face8b08975c89a34f9a5666",
-      "title": "Charlie Brown's Halloween Special Still Rules Over Peanuts Christmas in 1 Way",
-      "url": "https://polygon.com/theres-one-thing-its-the-great-pumpkin-charlie-brown-has-over-the-peanuts-christmas-special",
-      "source": "Polygon",
-      "published_at_source": "2026-10-06T10:00:15+00:00",
-      "score": 8,
-      "event_key": "its the great pumpkin charlie brown anniversary",
-      "title_ru": "Почему It's the Great Pumpkin, Charlie Brown остается главным осенним шоу",
-      "threads_teaser_ru": "Вышедший в 1966 году спецвыпуск It's the Great Pumpkin, Charlie Brown по праву считается классикой Хэллоуина. Шоу сохранило ту же творческую команду, что и A Charlie Brown Christmas, и принесло в анимацию несколько культовых моментов из комиксов Peanuts.",
-      "telegram_message_id": "797",
-      "telegram_url": "https://t.me/gamepulse_newss/797",
-      "telegram_published_at": "2026-10-06T10:02:23.892914+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/6537795.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-06T10:02:25.139077+00:00"
-    },
-    {
       "fingerprint": "73dde99b074934080572b072",
       "title": "11 Most Essential White Cards Every Magic: The Gathering Player Should Know",
       "url": "https://polygon.com/magic-gathering-mtg-best-white-cards",
@@ -20500,7 +20483,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sofia-coppola.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4",
       "threads_published_at": "2026-10-31T12:02:22.178419+00:00"
+    },
+    {
+      "fingerprint": "fa909c8049d31309a125dca2",
+      "title": "20 Years Later, Rockstar’s Best Game Still Doesn’t Have the Sequel It Deserved",
+      "url": "https://polygon.com/bully-20-years-later-sequel-retrospective",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T11:00:19+00:00",
+      "score": 7,
+      "event_key": "20th anniversary of Bully Rockstar Games",
+      "title_ru": "Исполнилось 20 лет игре Bully от Rockstar Games",
+      "threads_teaser_ru": "Bully от Rockstar Games исполнилось 20 лет. Проект, вышедший в 2006 году, до сих пор считается одной из самых уникальных игр студии, однако, несмотря на успех и признание, продолжения или ремейка культовая история Джимми Хопкинса так и не получила.",
+      "telegram_message_id": "1998",
+      "telegram_url": "https://t.me/gamepulse_newss/1998",
+      "telegram_published_at": "2026-10-31T12:47:45.589641+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bully-retrospective-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-31T12:02:22.178528+00:00"
+  "updated_at": "2026-10-31T12:47:45.589781+00:00"
 }
