@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "75d7612e876f2dc48589242f",
-      "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-06T13:21:52+00:00",
-      "score": 15,
-      "event_key": "xbox_elite_series_3_controller_leak_details",
-      "title_ru": "Утечка раскрыла подробности об Xbox Elite Series 3",
-      "threads_teaser_ru": "Новая утечка раскрыла детали контроллера Xbox Elite Series 3 из бэкенда Xbox Design Lab. Устройство может получить стики Hall Effect и TMR, продвинутую тактильную отдачу и две разные версии.",
-      "telegram_message_id": "809",
-      "telegram_url": "https://t.me/gamepulse_newss/809",
-      "telegram_published_at": "2026-10-06T13:32:17.420162+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/digitalfoundry-2019-microsoft-elite-2-controller-review-1577954148286.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T13:32:18.860491+00:00"
-    },
-    {
       "fingerprint": "aaae9b2df56c52b69c88d12f",
       "title": "Steam Frame Gets VR Right Where So Many Others Went Wrong",
       "url": "https://gamespot.com/articles/steam-frame-gets-vr-right-where-so-many-others-went-wrong",
@@ -20501,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/helen-mirren-and-alden-ehrenreich-in-a-talent-for-murder-courtesy-bleecker-and-ld-entertainment.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-31T18:02:56.340215+00:00"
+    },
+    {
+      "fingerprint": "5c600447ef918b6fd6ff0601",
+      "title": "Cipher Designer’s Notes",
+      "url": "https://ea.com/games/apex-legends/apex-legends/news/31-0-designers-notes",
+      "source": "Respawn / Apex Legends",
+      "published_at_source": "2026-10-30T15:00:00+00:00",
+      "score": 8,
+      "event_key": "apex-legends-season-31-cipher-update",
+      "title_ru": "Дизайнерские заметки патча 31.0 в Apex Legends",
+      "threads_teaser_ru": "В новом сезоне Cipher для Apex Legends появились Strongholds с ценным лутом, парное оружие Akimbo Wingman и масштабное обновление способностей Crypto, снижающее время простоя в дроне.",
+      "telegram_message_id": "2010",
+      "telegram_url": "https://t.me/gamepulse_newss/2010",
+      "telegram_published_at": "2026-10-31T18:17:27.734005+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/3y7UvygiXzw9jlo05Mn3I5/3d6885fa12103d27c410646df999b979/Apex_S31-Season-Page-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.76875,yPosition=0.4444444444444444"
     }
   ],
-  "updated_at": "2026-10-31T18:02:56.340308+00:00"
+  "updated_at": "2026-10-31T18:17:27.734356+00:00"
 }
