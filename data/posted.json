@@ -20495,9 +20495,10 @@
       "telegram_message_id": "1979",
       "telegram_url": "https://t.me/gamepulse_newss/1979",
       "telegram_published_at": "2026-10-31T01:32:31.316123+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/magic-the-gathering-marvel-darkhold-destiny-arcanum-bundle-1792165923634-1793360310189.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/magic-the-gathering-marvel-darkhold-destiny-arcanum-bundle-1792165923634-1793360310189.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-10-31T01:32:32.632352+00:00"
     }
   ],
-  "updated_at": "2026-10-31T01:32:31.316474+00:00"
+  "updated_at": "2026-10-31T01:32:32.632441+00:00"
 }
