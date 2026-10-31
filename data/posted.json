@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "65812268c6624dde16e259ad",
-      "title": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
-      "url": "https://eurogamer.net/tarae-the-unbound-preview",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-06T09:00:01+00:00",
-      "score": 9,
-      "event_key": "tarae the unbound gamescom preview krafton boundary",
-      "title_ru": "Превью Tarae: The Unbound",
-      "threads_teaser_ru": "Новый изометрический ARPG-проект Tarae: The Unbound от студии Boundary и издателя Krafton привлек внимание на Gamescom. Игра сочетает в себе динамичные сражения, элементы буддийской мифологии и проработанную боевую систему.",
-      "telegram_message_id": "793",
-      "telegram_url": "https://t.me/gamepulse_newss/793",
-      "telegram_published_at": "2026-10-06T09:01:53.693420+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Tarae_Screenshot08.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T09:01:54.950438+00:00"
-    },
-    {
       "fingerprint": "e0a24fecce3efa0d407a0d45",
       "title": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
       "url": "https://eurogamer.net/supermassive-games-layoffs-70",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/31/arkade-gaming-gun-motion-controls-for-any-pc-mac-shooter-mp4-00-00-01-35-still001-1793430116389.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-31T07:47:39.707441+00:00"
+    },
+    {
+      "fingerprint": "bcd321fb49ade525685b93f6",
+      "title": "Nintendo’s Biggest Game of the Year Isn't What You Think It Is",
+      "url": "https://polygon.com/switchboard-tomodachi-life-huge",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T08:00:17+00:00",
+      "score": 10,
+      "event_key": "tomodachi_life_living_the_dream_sales_success_2026",
+      "title_ru": "Tomodachi Life: Living the Dream стала огромным хитом на Switch",
+      "threads_teaser_ru": "Аналитики Newzoo выяснили, что Tomodachi Life: Living the Dream вошла в тройку самых кассовых новых релизов 2026 года на шести ключевых западных рынках, опередив ряд громких франшиз.",
+      "telegram_message_id": "1994",
+      "telegram_url": "https://t.me/gamepulse_newss/1994",
+      "telegram_published_at": "2026-10-31T08:02:37.967153+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/tomodachi-life-living-the-dream-cast.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-10-31T07:47:39.707534+00:00"
+  "updated_at": "2026-10-31T08:02:37.967455+00:00"
 }
