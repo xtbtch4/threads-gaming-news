@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "86c0d1c5a393fc5688e0e06f",
-      "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
-      "url": "https://rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T10:51:11+00:00",
-      "score": 12,
-      "event_key": "original creators announce new dizzy game with ai",
-      "title_ru": "Анонсирована новая игра в серии Dizzy от ее оригинальных создателей",
-      "threads_teaser_ru": "Создатели классической серии платформеров Dizzy анонсировали новую игру, которая станет ремейком Treasure Island 1989 года. Авторы открыто признали, что активно используют генеративный ИИ.",
-      "telegram_message_id": "800",
-      "telegram_url": "https://t.me/gamepulse_newss/800",
-      "telegram_published_at": "2026-10-06T11:17:07.416111+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T11:17:08.680584+00:00"
-    },
-    {
       "fingerprint": "73456f9bd03699321dab4095",
       "title": "GTA 6 Won't Be 'Too Specific About Any Particular Person, Event, or Movement,' Rockstar Says GTA Has Never Focused on 'National Politics'",
       "url": "https://ign.com/articles/gta-6-political-events",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cover_-_--scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-31T13:32:09.031046+00:00"
+    },
+    {
+      "fingerprint": "4040167fdd03f61baa1c5763",
+      "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
+      "url": "https://eurogamer.net/silent-hill-townfall-hard-mode-update",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-31T13:53:19+00:00",
+      "score": 11,
+      "event_key": "silent hill townfall hard difficulty update patch 160",
+      "title_ru": "Silent Hill: Townfall получила обновление с новым сложным режимом",
+      "threads_teaser_ru": "Для Silent Hill: Townfall вышло обновление 1.6.0, добавившее уровень сложности Hard и перебалансировавшее остальные режимы. Патч также принес улучшения для ПК и консолей.",
+      "telegram_message_id": "2001",
+      "telegram_url": "https://t.me/gamepulse_newss/2001",
+      "telegram_published_at": "2026-10-31T14:02:24.603357+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Silent-Hill-Townfall-Door-Dial-Date-Puzzle---Header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-31T13:32:09.031141+00:00"
+  "updated_at": "2026-10-31T14:02:24.603725+00:00"
 }
