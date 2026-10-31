@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e0a24fecce3efa0d407a0d45",
-      "title": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
-      "url": "https://eurogamer.net/supermassive-games-layoffs-70",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-06T09:05:20+00:00",
-      "score": 15,
-      "event_key": "Supermassive Games suffers widespread layoffs over 70 staff",
-      "title_ru": "Supermassive Games провела масштабные сокращения штата",
-      "threads_teaser_ru": "Студия Supermassive Games завершила процесс сокращений: компанию покинули более 70 сотрудников, включая разработчиков, художников и тестировщиков.",
-      "telegram_message_id": "794",
-      "telegram_url": "https://t.me/gamepulse_newss/794",
-      "telegram_published_at": "2026-10-06T09:17:01.971652+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/directive-8020-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T09:17:03.213815+00:00"
-    },
-    {
       "fingerprint": "f1f9f8a241d655426dbe2939",
       "title": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
       "url": "https://rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/tomodachi-life-living-the-dream-cast.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-10-31T08:02:39.532145+00:00"
+    },
+    {
+      "fingerprint": "7ac23f0d6236983f8a433bb2",
+      "title": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\"",
+      "url": "https://eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-31T08:00:00+00:00",
+      "score": 9,
+      "event_key": "eurogamer what weve been playing feature halloween week",
+      "title_ru": "Редакция Eurogamer делится своими впечатлениями об игровом опыте за неделю",
+      "threads_teaser_ru": "Редакция Eurogamer поделилась подборкой игр, в которые они играли на этой неделе, включая классический хоррор Amnesia, недавний инди-проект Tenebris Somnia и карточный ужастик The Killing Stone.",
+      "telegram_message_id": "1995",
+      "telegram_url": "https://t.me/gamepulse_newss/1995",
+      "telegram_published_at": "2026-10-31T08:17:00.145720+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/tenebris-somnia-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-31T08:02:39.532264+00:00"
+  "updated_at": "2026-10-31T08:17:00.146068+00:00"
 }
