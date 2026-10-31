@@ -20498,9 +20498,10 @@
       "telegram_message_id": "2009",
       "telegram_url": "https://t.me/gamepulse_newss/2009",
       "telegram_published_at": "2026-10-31T18:02:55.043524+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/helen-mirren-and-alden-ehrenreich-in-a-talent-for-murder-courtesy-bleecker-and-ld-entertainment.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/helen-mirren-and-alden-ehrenreich-in-a-talent-for-murder-courtesy-bleecker-and-ld-entertainment.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-10-31T18:02:56.340215+00:00"
     }
   ],
-  "updated_at": "2026-10-31T18:02:55.043825+00:00"
+  "updated_at": "2026-10-31T18:02:56.340308+00:00"
 }
