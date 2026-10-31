@@ -20499,10 +20499,11 @@
       "telegram_message_id": "2022",
       "telegram_url": "https://t.me/gamepulse_newss/2022",
       "telegram_published_at": "2026-10-31T23:02:35.669986+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9958985/Switch_SMO_ND0913_SCRN07.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
+      "threads_published_at": "2026-10-31T23:02:36.920909+00:00"
     }
   ],
-  "updated_at": "2026-10-31T23:02:35.670292+00:00"
+  "updated_at": "2026-10-31T23:02:36.921016+00:00"
 }
