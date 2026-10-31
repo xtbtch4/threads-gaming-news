@@ -20497,10 +20497,11 @@
       "telegram_message_id": "2005",
       "telegram_url": "https://t.me/gamepulse_newss/2005",
       "telegram_published_at": "2026-10-31T15:47:38.571708+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/copy-of-whf-03389.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/whalefall-official-trailer-in-theaters-october-16-1789004279.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/whalefall-official-trailer-in-theaters-october-16-1789004279.mp4",
+      "threads_published_at": "2026-10-31T15:47:39.921915+00:00"
     }
   ],
-  "updated_at": "2026-10-31T15:47:38.572078+00:00"
+  "updated_at": "2026-10-31T15:47:39.922026+00:00"
 }
