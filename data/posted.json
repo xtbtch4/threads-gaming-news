@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c2dc9c5aed71cb48ca24f34",
-      "title": "The Witcher Box Set Is At the Lowest Price We've Seen All Year",
-      "url": "https://ign.com/articles/the-witcher-books-on-sale-for-prime-big-deal-days-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T11:15:00+00:00",
-      "score": 9,
-      "event_key": "the-witcher-books-discount-prime-big-deal-days-2026",
-      "title_ru": "Комплект книг The Witcher продается по рекордно низкой цене в рамках распродажи Prime Big Deal Days",
-      "threads_teaser_ru": "В рамках распродажи Prime Big Deal Days на Amazon комплект книг The Witcher упал в цене до 39,99 долларов. Автор серии Andrzej Sapkowski также рассматривает возможность написания новых рассказов.",
-      "telegram_message_id": "805",
-      "telegram_url": "https://t.me/gamepulse_newss/805",
-      "telegram_published_at": "2026-10-06T12:32:15.827732+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/the-witcher-books-1791241625118.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T12:32:17.261346+00:00"
-    },
-    {
       "fingerprint": "8fdc9487f7895a761f65712e",
       "title": "PlatinumGames CEO pauses a discussion on Stellar Blade's Bayonetta costume crossover to casually infer more Bayonetta may be on the way",
       "url": "https://rockpapershotgun.com/platinumgames-ceo-pauses-a-discussion-on-stellar-blades-bayonetta-costume-crossover-to-casually-infer-more-bayonetta-may-be-on-the-way",
@@ -20501,7 +20484,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/copy-of-whf-03389.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/whalefall-official-trailer-in-theaters-october-16-1789004279.mp4",
       "threads_published_at": "2026-10-31T15:47:39.921915+00:00"
+    },
+    {
+      "fingerprint": "58e810fb166db1c002a1e9da",
+      "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
+      "url": "https://polygon.com/skyblivion-legal-threats-former-volunteer",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T15:57:49+00:00",
+      "score": 10,
+      "event_key": "Skyblivion project faces lawsuit from former volunteer",
+      "title_ru": "Разработчики модификации Skyblivion столкнулись с судебным иском от бывшего участника команды",
+      "threads_teaser_ru": "У амбициозной модификации Skyblivion возникли юридические проблемы прямо перед релизом. Судебный иск подал не издатель, а бывший волонтер проекта. Команда разработчиков, создающая перенос The Elder Scrolls 4: Oblivion на движок Skyrim более десяти лет, ищет юридической поддержки.",
+      "telegram_message_id": "2006",
+      "telegram_url": "https://t.me/gamepulse_newss/2006",
+      "telegram_published_at": "2026-10-31T16:32:45.597322+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/skyblivion.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-10-31T15:47:39.922026+00:00"
+  "updated_at": "2026-10-31T16:32:45.597649+00:00"
 }
