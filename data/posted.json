@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f1f9f8a241d655426dbe2939",
-      "title": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
-      "url": "https://rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T09:14:14+00:00",
-      "score": 10,
-      "event_key": "ultra-street-fighter-iv-rollback-netcode-mods-claude",
-      "title_ru": "Ultra Street Fighter IV получила моды на rollback netcode благодаря генеративному ИИ",
-      "threads_teaser_ru": "Для Ultra Street Fighter IV вышло сразу два мода, добавляющих долгожданный rollback netcode. Однако оба проекта были созданы с помощью генеративного ИИ.",
-      "telegram_message_id": "795",
-      "telegram_url": "https://t.me/gamepulse_newss/795",
-      "telegram_published_at": "2026-10-06T09:32:24.826908+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T09:32:26.185303+00:00"
-    },
-    {
       "fingerprint": "33712e7e9758f09e5490fa73",
       "title": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff",
       "url": "https://rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/tenebris-somnia-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-10-31T08:17:01.407422+00:00"
+    },
+    {
+      "fingerprint": "826f44c20c95b983861dde05",
+      "title": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
+      "url": "https://eurogamer.net/silver-pines-now-playing",
+      "source": "Eurogamer",
+      "published_at_source": "2026-10-31T10:00:00+00:00",
+      "score": 9,
+      "event_key": "silver-pines-survival-horror-metroidvania-preview",
+      "title_ru": "Silver Pines — атмосферный сурвайвал-хоррор в духе классики с элементами Metroidvania",
+      "threads_teaser_ru": "Silver Pines от Wych Elm Games сочетает элементы сурвайвал-хоррора, метроидвании и эстетику в духе Twin Peaks. Игра предлагает мрачное исследование и расследование, но использует суровые механики сохранений.",
+      "telegram_message_id": "1996",
+      "telegram_url": "https://t.me/gamepulse_newss/1996",
+      "telegram_published_at": "2026-10-31T10:02:54.546092+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/silver-pines-header_pnoviPY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-10-31T08:17:01.407516+00:00"
+  "updated_at": "2026-10-31T10:02:54.546340+00:00"
 }
