@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9a6da970e90fd372fa4ddbc0",
-      "title": "Sonos Is Hosting Its Own Prime Day Sale With Up to 25% Off Soundbars, Subs and Speakers",
-      "url": "https://ign.com/articles/sonos-october-prime-day-sale-2026-best-deals-on-soundbars-speakers-subwoofers",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T06:35:00+00:00",
-      "score": 6,
-      "event_key": "sonos-october-prime-day-sale-2026",
-      "title_ru": "Sonos запустила собственную распродажу в честь Amazon October Prime Day со скидками до 25%",
-      "threads_teaser_ru": "Sonos устроила собственную распродажу в период Amazon October Prime Day, предложив скидки до 25% на саундбары, сабвуферы, колонки и наушники. Снижение цен коснулось популярных моделей, включая Sonos Arc Ultra и Sonos Ace.",
-      "telegram_message_id": "792",
-      "telegram_url": "https://t.me/gamepulse_newss/792",
-      "telegram_published_at": "2026-10-06T07:32:07.618772+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/06/sonos-1791265425127.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T07:32:08.879567+00:00"
-    },
-    {
       "fingerprint": "65812268c6624dde16e259ad",
       "title": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
       "url": "https://eurogamer.net/tarae-the-unbound-preview",
@@ -20499,7 +20482,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/WireHERO-affd6427554208d1c530.jpg",
       "threads_published_at": "2026-10-31T07:32:44.134929+00:00"
+    },
+    {
+      "fingerprint": "d8c8a1f918df198f8641de80",
+      "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+      "url": "https://ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
+      "source": "IGN",
+      "published_at_source": "2026-10-31T00:30:00+00:00",
+      "score": 8,
+      "event_key": "Arkade Gaming Gun controller announcement at Gamescom Asia 2026",
+      "title_ru": "Анонсирован контроллер Arkade Gaming Gun для ПК",
+      "threads_teaser_ru": "На Gamescom Asia 2026 показали контроллер Arkade Gaming Gun. Это устройство для ПК, которое позволяет играть в современные шутеры как в классические «тиры». Девайс не требует датчиков движения, но обойдется в $399 при релизе в 2027 году.",
+      "telegram_message_id": "1993",
+      "telegram_url": "https://t.me/gamepulse_newss/1993",
+      "telegram_published_at": "2026-10-31T07:47:38.446003+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/arkade-gaming-gun-motion-controls-for-any-pc-mac-shooter-mp4-00-00-01-35-still001-1793430116389.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-31T07:32:44.135030+00:00"
+  "updated_at": "2026-10-31T07:47:38.446383+00:00"
 }
