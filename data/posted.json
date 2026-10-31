@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c54b668d136afeb53450e59c",
-      "title": "How the Samsung Galaxy Z Fold8 has been optimised for large-screen entertainment, multitasking and all-day battery life",
-      "url": "https://ign.com/articles/how-the-samsung-galaxy-z-fold8-has-been-optimised-for-large-screen-entertainment-multitasking-and-all-day-battery-life",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T08:33:00+00:00",
-      "score": 7,
-      "event_key": "samsung galaxy z fold8 features and optimization overview",
-      "title_ru": "Особенности оптимизации Samsung Galaxy Z Fold8 для игр и мультимедиа",
-      "threads_teaser_ru": "Samsung Galaxy Z Fold8 сочетает тонкий корпус, экраны с частотой 120 Гц, чип Snapdragon 8 Elite Gen 5 for Galaxy и батарею на 4800 мАч с быстрой зарядкой на 45W.",
-      "telegram_message_id": "785",
-      "telegram_url": "https://t.me/gamepulse_newss/785",
-      "telegram_published_at": "2026-10-06T00:31:46.334332+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/dsqw9wcbizd1uhahzccjai-nsuiqhscm-lyzzomnrty-1791214378535.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T00:31:47.628521+00:00"
-    },
-    {
       "fingerprint": "fb902ef75b341c032e36918d",
       "title": "Walmart Has the First GeForce RTX 5060 Ti Prebuilt Gaming PC Under $1,000 That I've Seen in Months",
       "url": "https://ign.com/articles/msi-codex-z2c-rtx-5060-ti-gaming-pc-october-2026",
@@ -20499,7 +20482,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grassrivers_06.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/warhammer-survivors-release-date-reveal-trailer-1791298940.mp4",
       "threads_published_at": "2026-10-31T04:16:50.779898+00:00"
+    },
+    {
+      "fingerprint": "2c57aeadc4d0c1b29b86e97e",
+      "title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
+      "url": "https://ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
+      "source": "IGN",
+      "published_at_source": "2026-10-31T04:51:13+00:00",
+      "score": 8,
+      "event_key": "Costco reveals 2026 Black Friday sale dates and ad",
+      "title_ru": "Costco опубликовала расписание распродаж на Black Friday 2026",
+      "threads_teaser_ru": "Costco раскрыла подробности своих распродаж на Black Friday 2026. Акции уже стартовали и будут проходить несколькими волнами в течение всего ноября. В списке товаров — электроника, бытовая техника и многое другое.",
+      "telegram_message_id": "1986",
+      "telegram_url": "https://t.me/gamepulse_newss/1986",
+      "telegram_published_at": "2026-10-31T05:02:42.220002+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/10/24/costco-black-friday-1698188768103.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-31T04:16:50.780012+00:00"
+  "updated_at": "2026-10-31T05:02:42.220310+00:00"
 }
