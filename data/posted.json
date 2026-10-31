@@ -20498,9 +20498,10 @@
       "telegram_message_id": "2010",
       "telegram_url": "https://t.me/gamepulse_newss/2010",
       "telegram_published_at": "2026-10-31T18:17:27.734005+00:00",
-      "threads_id": null,
-      "image_url": "https://drop-assets.ea.com/images/3y7UvygiXzw9jlo05Mn3I5/3d6885fa12103d27c410646df999b979/Apex_S31-Season-Page-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.76875,yPosition=0.4444444444444444"
+      "threads_id": "disabled",
+      "image_url": "https://drop-assets.ea.com/images/3y7UvygiXzw9jlo05Mn3I5/3d6885fa12103d27c410646df999b979/Apex_S31-Season-Page-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.76875,yPosition=0.4444444444444444",
+      "threads_published_at": "2026-10-31T18:17:29.124855+00:00"
     }
   ],
-  "updated_at": "2026-10-31T18:17:27.734356+00:00"
+  "updated_at": "2026-10-31T18:17:29.124944+00:00"
 }
