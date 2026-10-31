@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6593cce281b01e83fc3c0832",
-      "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $69.99 for Today Only",
-      "url": "https://ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T18:00:00+00:00",
-      "score": 8,
-      "event_key": "zelda-switch-pro-controller-discount-woot",
-      "title_ru": "Контроллер The Legend of Zelda Edition Nintendo Switch Pro подешевел до $69.99",
-      "threads_teaser_ru": "Оригинальный контроллер The Legend of Zelda: Tears of the Kingdom Switch Pro временно подешевел до $69.99 на Woot. Он совместим со Switch 2, но стоит на $30 дешевле новой версии.",
-      "telegram_message_id": "777",
-      "telegram_url": "https://t.me/gamepulse_newss/777",
-      "telegram_published_at": "2026-10-05T22:31:59.005240+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/switchprocontrollerzelda-1791222665704.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-05T22:32:00.389812+00:00"
-    },
-    {
       "fingerprint": "4c3b8f58af6c9072b6dd88e3",
       "title": "DMZ Deep Dive, Part 1: Tour of Duty – Hajin Environments and Threats, Full Intel Guide",
       "url": "https://news.xbox.com/en-us/2026/10/05/dmz-deep-dive-part-1-tour-of-duty-hajin-environments-and-threats-full-intel-guide",
@@ -20497,7 +20480,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/31/doom-1793406375983.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-31T01:02:39.007544+00:00"
+    },
+    {
+      "fingerprint": "cde4d3aa1d2320195ccfd0b6",
+      "title": "10 Essential NES Games Still Missing From Switch Online",
+      "url": "https://polygon.com/best-nes-games-missing-switch-online",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T01:09:20+00:00",
+      "score": 10,
+      "event_key": "ten essential nes games still missing from switch online",
+      "title_ru": "10 классических игр для NES, которых всё ещё нет в Nintendo Switch Online",
+      "threads_teaser_ru": "На платформе Nintendo Switch Online до сих пор нет десятка культовых игр с NES, включая такие хиты, как Paperboy, Faxanadu и Shadowgate. Коллекционеры и фанаты надеются на их появление в каталоге сервиса.",
+      "telegram_message_id": "1978",
+      "telegram_url": "https://t.me/gamepulse_newss/1978",
+      "telegram_published_at": "2026-10-31T01:17:25.330910+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wesley-tingey-l4uck06unm-unsplash.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4"
     }
   ],
-  "updated_at": "2026-10-31T01:02:39.007634+00:00"
+  "updated_at": "2026-10-31T01:17:25.331247+00:00"
 }
