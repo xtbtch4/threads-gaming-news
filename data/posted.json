@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b805eb0f921f24b6cd431514",
-      "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
-      "url": "https://ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
-      "source": "IGN",
-      "published_at_source": "2026-10-05T20:51:09+00:00",
-      "score": 6,
-      "event_key": "infinity ward details dmz mode in modern warfare 4",
-      "title_ru": "Infinity Ward поделилась подробностями режима DMZ в Call of Duty: Modern Warfare 4",
-      "threads_teaser_ru": "Infinity Ward рассказала о деталях режима DMZ в Call of Duty: Modern Warfare 4. Разработчики повысили ставки, добавили систему прокачки операторов и риск навсегда потерять ценный лут после гибели.",
-      "telegram_message_id": "788",
-      "telegram_url": "https://t.me/gamepulse_newss/788",
-      "telegram_published_at": "2026-10-06T02:46:50.834167+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/mw4-dmz-1791216091376.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T02:46:52.156805+00:00"
-    },
-    {
       "fingerprint": "b03e98e90a02e4ab1d3d695a",
       "title": "61 Years Later, Clint Eastwood's 132-Minute Legendary Western Sequel Is Free on YouTube",
       "url": "https://polygon.com/for-a-few-dollars-more-clint-eastwood-free-on-youtube-october-2026",
@@ -20499,7 +20482,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25068419/wind_waker_hd_sailing.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-31T06:17:47.460684+00:00"
+    },
+    {
+      "fingerprint": "2d2527fc5ad2f3ceb98ac9f6",
+      "title": "10 Free Browser Games That are Actually Fun to Play",
+      "url": "https://polygon.com/best-free-browser-games-to-play",
+      "source": "Polygon",
+      "published_at_source": "2026-10-31T02:09:02+00:00",
+      "score": 7,
+      "event_key": "polygon lists 10 free browser games to play",
+      "title_ru": "Подборка бесплатных браузерных игр от Polygon",
+      "threads_teaser_ru": "Издание Polygon выбрало 10 бесплатных браузерных игр, от текстовых детективов в духе Return of the Obra Dinn до необычных автобаттлеров по вселенной Diablo и долгоживущих MMO. Разбираемся, во что стоит поиграть прямо сейчас без скачивания.",
+      "telegram_message_id": "1989",
+      "telegram_url": "https://t.me/gamepulse_newss/1989",
+      "telegram_published_at": "2026-10-31T06:47:02.582815+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4"
     }
   ],
-  "updated_at": "2026-10-31T06:17:47.460766+00:00"
+  "updated_at": "2026-10-31T06:47:02.583285+00:00"
 }
