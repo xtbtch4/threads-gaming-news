@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "aa569ab51fcc9993eacfa0e5",
-      "title": "Gears of War: E-Day – Surviving the First Night of Emergence",
-      "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-06T15:00:00+00:00",
-      "score": 16,
-      "event_key": "worldwide launch of Gears of War E-Day",
-      "title_ru": "Состоялся мировой релиз Gears of War: E-Day",
-      "threads_teaser_ru": "Gears of War: E-Day уже вышла на XBOX Series X|S, PC и в Steam. Игроки отправляются в самое начало истории противостояния, чтобы пережить первые три дня вторжения Locust в город Kalona. Впереди — сражения, поиск ресурсов и раскрытие масштабов угрозы, навсегда изменившей мир Sera.",
-      "telegram_message_id": "814",
-      "telegram_url": "https://t.me/gamepulse_newss/814",
-      "telegram_published_at": "2026-10-06T15:04:53.337305+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/02_GoW_EDAY_BravoSquad_Final-53f5381012ec445dcc22.jpg",
-      "threads_published_at": "2026-10-06T15:04:54.791839+00:00"
-    },
-    {
       "fingerprint": "4d79493a45184cf46c3f2f92",
       "title": "Warhammer Survivors Release Date Revealed Alongside a New Demo You Can Play Right Now",
       "url": "https://ign.com/articles/warhammer-survivors-release-date-revealed-alongside-a-new-demo-you-can-play-right-now",
@@ -20501,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/31/3118-redwall-cover-page-1-530x2x-1793431182882.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-10-31T20:17:17.563519+00:00"
+    },
+    {
+      "fingerprint": "58b0296e1147015668c16379",
+      "title": "Gears Of War Should Have Killed Off Marcus Fenix Years Ago",
+      "url": "https://gamespot.com/articles/gears-of-war-should-have-killed-off-marcus-fenix-years-ago",
+      "source": "GameSpot",
+      "published_at_source": "2026-10-31T20:00:00+00:00",
+      "score": 15,
+      "event_key": "gears of war marcus fenix death discussion",
+      "title_ru": "Мнение: Marcus Fenix должен был погибнуть в Gears of War",
+      "threads_teaser_ru": "По мнению обозревателя GameSpot, культовый герой серии Gears of War должен был погибнуть еще в Gears of War 4, чтобы сюжетная арка получила логичное и смелое завершение.",
+      "telegram_message_id": "2015",
+      "telegram_url": "https://t.me/gamepulse_newss/2015",
+      "telegram_published_at": "2026-10-31T20:32:05.939961+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus-gears-of-war.jpg?w=300"
     }
   ],
-  "updated_at": "2026-10-31T20:17:17.563612+00:00"
+  "updated_at": "2026-10-31T20:32:05.940288+00:00"
 }
