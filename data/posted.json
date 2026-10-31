@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "73dde99b074934080572b072",
-      "title": "11 Most Essential White Cards Every Magic: The Gathering Player Should Know",
-      "url": "https://polygon.com/magic-gathering-mtg-best-white-cards",
-      "source": "Polygon",
-      "published_at_source": "2026-10-06T09:00:15+00:00",
-      "score": 6,
-      "event_key": "polygon_essential_white_cards_magic_the_gathering",
-      "title_ru": "Polygon назвал ключевые карты белого цвета в Magic: The Gathering",
-      "threads_teaser_ru": "Издание Polygon представило подборку из 11 самых важных белых карт в Magic: The Gathering, отражающих философию порядка, контроля и механики этого цвета.",
-      "telegram_message_id": "798",
-      "telegram_url": "https://t.me/gamepulse_newss/798",
-      "telegram_published_at": "2026-10-06T10:16:48.349357+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/solitude-elemental-mtg.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-06T10:16:49.769379+00:00"
-    },
-    {
       "fingerprint": "60c968277be9aaf30bdf5806",
       "title": "As Halo Moves to Activision, Halo Studios Writers Tease What Might Have Been",
       "url": "https://ign.com/articles/halo-studios-teases-new-race-aliens",
@@ -20500,7 +20483,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bully-retrospective-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-31T12:47:46.997351+00:00"
+    },
+    {
+      "fingerprint": "31312c973ade799c1051e175",
+      "title": "Aliens, Bigfoots, and Monsters… Remembering the Age of the Weirdumentary",
+      "url": "https://ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
+      "source": "IGN",
+      "published_at_source": "2026-10-31T13:00:00+00:00",
+      "score": 7,
+      "event_key": "history of Sunn Classic Pictures and weird documentaries",
+      "title_ru": "Эпоха «странных документалок»: как Sunn Classic Pictures меняли киноиндустрию 1970-х",
+      "threads_teaser_ru": "В 70-х документалки о бигфутах и НЛО собирали полные залы. Студия Sunn Classic Pictures зарабатывала миллионы на фильмах вроде Chariots of the Gods и The Mysterious Monsters, используя уникальную стратегию дистрибуции и мощную рекламу на ТВ, пока в мире еще не было YouTube.",
+      "telegram_message_id": "1999",
+      "telegram_url": "https://t.me/gamepulse_newss/1999",
+      "telegram_published_at": "2026-10-31T13:02:34.069826+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/age-of-the-weirdumentary-thumb-1793406602871.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-31T12:47:46.997439+00:00"
+  "updated_at": "2026-10-31T13:02:34.070159+00:00"
 }
