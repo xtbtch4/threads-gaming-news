@@ -20496,9 +20496,10 @@
       "telegram_message_id": "1992",
       "telegram_url": "https://t.me/gamepulse_newss/1992",
       "telegram_published_at": "2026-10-31T07:32:42.767774+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/WireHERO-affd6427554208d1c530.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/WireHERO-affd6427554208d1c530.jpg",
+      "threads_published_at": "2026-10-31T07:32:44.134929+00:00"
     }
   ],
-  "updated_at": "2026-10-31T07:32:42.767935+00:00"
+  "updated_at": "2026-10-31T07:32:44.135030+00:00"
 }
