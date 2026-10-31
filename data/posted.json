@@ -20497,10 +20497,11 @@
       "telegram_message_id": "2013",
       "telegram_url": "https://t.me/gamepulse_newss/2013",
       "telegram_published_at": "2026-10-31T20:02:26.304317+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1128.webp?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/actorsroundtable-1793394646.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/actorsroundtable-1793394646.mp4",
+      "threads_published_at": "2026-10-31T20:02:27.858063+00:00"
     }
   ],
-  "updated_at": "2026-10-31T20:02:26.304603+00:00"
+  "updated_at": "2026-10-31T20:02:27.858173+00:00"
 }
