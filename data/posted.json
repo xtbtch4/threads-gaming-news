@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8f30239444aff1392471dc3c",
-      "title": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
-      "url": "https://eurogamer.net/diablo-2-vr-mod",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-06T16:05:07+00:00",
-      "score": 8,
-      "event_key": "diablo-2-vr-mod-released-by-sergious",
-      "title_ru": "Энтузиаст создал VR-модификацию для Diablo 2",
-      "threads_teaser_ru": "Энтузиаст по имени Sergious перенес культовую Diablo 2 в виртуальную реальность, реализовав вид от первого лица и необычный интерфейс на руках персонажа.",
-      "telegram_message_id": "849",
-      "telegram_url": "https://t.me/gamepulse_newss/849",
-      "telegram_published_at": "2026-10-06T23:47:21.713101+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/diablo-2-resurrected_G8Y7lNc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T23:47:23.219534+00:00"
-    },
-    {
       "fingerprint": "017b606043f7036e7035736f",
       "title": "Refurbished PS5 Pros are now 50% more expensive than new ones at GameStop",
       "url": "https://polygon.com/gamestop-playstation-5-ps5-pro-price-change-preowned-refurbished",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-trek-capatain-picard.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-01T19:02:55.668166+00:00"
+    },
+    {
+      "fingerprint": "1d8456a6014415610c0d9a4a",
+      "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
+      "url": "https://polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T19:09:33+00:00",
+      "score": 5,
+      "event_key": "pokemon go halloween 2026 part 2 event details",
+      "title_ru": "Началась вторая часть события Halloween 2026 в Pokémon Go",
+      "threads_teaser_ru": "В Pokémon Go стартовала вторая часть события Halloween 2026, которая продлится до 5 ноября. Главные новинки: дебют shiny-версии Greavard и усиление Mega Sableye до уровня Super Max Level.",
+      "telegram_message_id": "2050",
+      "telegram_url": "https://t.me/gamepulse_newss/2050",
+      "telegram_published_at": "2026-11-01T19:17:40.286299+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-01T19:02:55.668242+00:00"
+  "updated_at": "2026-11-01T19:17:40.286655+00:00"
 }
