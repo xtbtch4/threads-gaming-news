@@ -20501,9 +20501,10 @@
       "telegram_message_id": "2036",
       "telegram_url": "https://t.me/gamepulse_newss/2036",
       "telegram_published_at": "2026-11-01T13:32:01.056119+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/woot-switch-2-sale-love-video-games-ign-1790330351692.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/woot-switch-2-sale-love-video-games-ign-1790330351692.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-01T13:32:02.325821+00:00"
     }
   ],
-  "updated_at": "2026-11-01T13:32:01.056244+00:00"
+  "updated_at": "2026-11-01T13:32:02.325916+00:00"
 }
