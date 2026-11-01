@@ -20505,9 +20505,10 @@
       "telegram_message_id": "2048",
       "telegram_url": "https://t.me/gamepulse_newss/2048",
       "telegram_published_at": "2026-11-01T18:32:36.771428+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/persona-1-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/persona-1-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-01T18:32:37.960162+00:00"
     }
   ],
-  "updated_at": "2026-11-01T18:32:36.771777+00:00"
+  "updated_at": "2026-11-01T18:32:37.960248+00:00"
 }
