@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f4b6addabadae8af9a59ce50",
-      "title": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
-      "url": "https://rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T19:22:05+00:00",
-      "score": 14,
-      "event_key": "cancelled mmo spin-off borderlands online playable again",
-      "title_ru": "Отмененный MMO-спин-офф Borderlands Online снова стал доступен благодаря энтузиастам",
-      "threads_teaser_ru": "Отмененный MMO-спин-офф Borderlands Online снова доступен благодаря энтузиастам, восстановившим найденную сборку. Авторы перевели игру на английский язык и изменили интерфейс.",
-      "telegram_message_id": "832",
-      "telegram_url": "https://t.me/gamepulse_newss/832",
-      "telegram_published_at": "2026-10-06T19:32:39.744302+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/borderlands-online.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T19:32:41.093253+00:00"
-    },
-    {
       "fingerprint": "d9ec03dd0e5ed3bdd9441133",
       "title": "A Scary-Looking New Conjuring Game Just Got Announced, And It’s Out Next Week On Netflix",
       "url": "https://gamespot.com/articles/a-scary-looking-new-conjuring-game-just-got-announced-and-its-out-next-week-on-netflix",
@@ -20504,7 +20487,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-end-of-the-world-is-going-to-be-weird-on-prime-videos-quirky-clever-adaptation-of-fallout-1.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/actorsroundtable-1793394646.mp4",
       "threads_published_at": "2026-11-01T12:17:13.350940+00:00"
+    },
+    {
+      "fingerprint": "78d95a00ae2e371a43a197a9",
+      "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
+      "url": "https://polygon.com/dragon-delves-hansel-gretel",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T12:31:50+00:00",
+      "score": 8,
+      "event_key": "dungeons and dragons bakers doesnt dragon delves adventure",
+      "title_ru": "Приключение «Baker’s Doesn't» для Dungeons & Dragons",
+      "threads_teaser_ru": "Изданное в сборнике Dragon Delves приключение «Baker’s Doesn't» предлагает игрокам необычную сказочную историю по мотивам Гензель и Гретель, где предстоит спасти юного дракончика из пряничного домика.",
+      "telegram_message_id": "2033",
+      "telegram_url": "https://t.me/gamepulse_newss/2033",
+      "telegram_published_at": "2026-11-01T12:47:00.030999+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-delves-gingerbread-people.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-01T12:17:13.351047+00:00"
+  "updated_at": "2026-11-01T12:47:00.031331+00:00"
 }
