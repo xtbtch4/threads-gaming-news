@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "57b5e3f7b8e89f6412f9a0c8",
-      "title": "GTA 6 Fans Theorize Jason May Be the Franchise's First Neurodivergent Protagonist",
-      "url": "https://ign.com/articles/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurodivergent-protagonist",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T19:49:18+00:00",
-      "score": 9,
-      "event_key": "gta 6 fans theorize jason neurodivergent protagonist",
-      "title_ru": "Фанаты GTA 6 предполагают, что Jason может быть нейроотличным протагонистом",
-      "threads_teaser_ru": "Фанаты GTA 6 строят теории о том, что Jason может стать первым нейроотличным протагонистом в истории серии. Поводом для обсуждений стали слова сценариста и кадры из трейлеров.",
-      "telegram_message_id": "837",
-      "telegram_url": "https://t.me/gamepulse_newss/837",
-      "telegram_published_at": "2026-10-06T20:46:55.772203+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/24/gta-6-jason-duvall-1782336015774.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T20:46:57.118115+00:00"
-    },
-    {
       "fingerprint": "6a5115aaec97d3cc9c0b3bac",
       "title": "The 8BitDo Ultimate 2C Wireless PC Gaming Controller Drops to $23.99 for Prime Day",
       "url": "https://ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-amazon-october-prime-day-sale-2026",
@@ -20503,7 +20486,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/dune-awakening_eBRRA9O.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-01T13:47:14.244880+00:00"
+    },
+    {
+      "fingerprint": "54be698a31fa6f633af04d8b",
+      "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
+      "url": "https://polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T14:00:17+00:00",
+      "score": 6,
+      "event_key": "polygon_most_anticipated_books_november_2026",
+      "title_ru": "Самые ожидаемые научно-фантастические и фэнтезийные книги ноября 2026 года",
+      "threads_teaser_ru": "Polygon опубликовал список из 10 самых ожидаемых научно-фантастических и фэнтезийных книг ноября 2026 года. В подборку вошли новые работы известных авторов и яркие дебюты в жанрах от космического хоррора до эпического фэнтези.",
+      "telegram_message_id": "2038",
+      "telegram_url": "https://t.me/gamepulse_newss/2038",
+      "telegram_published_at": "2026-11-01T14:02:14.881260+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/monsters-of-ohio-by-john-scalzi.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4"
     }
   ],
-  "updated_at": "2026-11-01T13:47:14.244965+00:00"
+  "updated_at": "2026-11-01T14:02:14.881563+00:00"
 }
