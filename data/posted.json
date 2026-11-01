@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fbf8fbda4830079a6d4b9c7b",
-      "title": "Ex-Activision CEO Bobby Kotick Joins Skydance Board of Directors Following WB-Paramount Merger",
-      "url": "https://ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T22:05:29+00:00",
-      "score": 15,
-      "event_key": "bobby kotick joins skydance board of directors",
-      "title_ru": "Бывший глава Activision Бобби Котик вошел в совет директоров Skydance",
-      "threads_teaser_ru": "Бывший руководитель Activision Бобби Котик получил место в совете директоров Skydance после слияния Paramount и Warner Bros. Discovery. К нему также присоединились Лорин Пауэлл Джобс и Тони Блэр.",
-      "telegram_message_id": "847",
-      "telegram_url": "https://t.me/gamepulse_newss/847",
-      "telegram_published_at": "2026-10-06T23:17:16.011222+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/06/image-1791324177483.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T23:17:17.506419+00:00"
-    },
-    {
       "fingerprint": "34f617dc43ace870bcc0c078",
       "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
       "url": "https://ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-18.12.02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-01T18:17:44.444835+00:00"
+    },
+    {
+      "fingerprint": "601c776ab184f3dd43c3042c",
+      "title": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
+      "url": "https://rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-01T17:17:15+00:00",
+      "score": 8,
+      "event_key": "leaked gameplay footage of rumored Persona 1 remake",
+      "title_ru": "В сеть утекли кадры возможного ремейка Persona 1",
+      "threads_teaser_ru": "В сети появились кадры предполагаемого ремейка первой Persona. В ролике виден пошаговый бой, знакомый по современным играм серии, и преобладающая фиолетовая цветовая гамма. В кадре также заметили протагониста Persona 2 — фанаты гадают, что это значит.",
+      "telegram_message_id": "2048",
+      "telegram_url": "https://t.me/gamepulse_newss/2048",
+      "telegram_published_at": "2026-11-01T18:32:36.771428+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/persona-1-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-01T18:17:44.444917+00:00"
+  "updated_at": "2026-11-01T18:32:36.771777+00:00"
 }
