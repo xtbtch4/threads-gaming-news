@@ -20505,9 +20505,10 @@
       "telegram_message_id": "2049",
       "telegram_url": "https://t.me/gamepulse_newss/2049",
       "telegram_published_at": "2026-11-01T19:02:54.358361+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-trek-capatain-picard.jpg?w=1200&h=675&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-trek-capatain-picard.jpg?w=1200&h=675&fit=crop",
+      "threads_published_at": "2026-11-01T19:02:55.668166+00:00"
     }
   ],
-  "updated_at": "2026-11-01T19:02:54.358547+00:00"
+  "updated_at": "2026-11-01T19:02:55.668242+00:00"
 }
