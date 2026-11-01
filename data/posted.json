@@ -20505,9 +20505,10 @@
       "telegram_message_id": "2046",
       "telegram_url": "https://t.me/gamepulse_newss/2046",
       "telegram_published_at": "2026-11-01T18:02:41.929723+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-01T18:02:43.312095+00:00"
     }
   ],
-  "updated_at": "2026-11-01T18:02:41.929982+00:00"
+  "updated_at": "2026-11-01T18:02:43.312183+00:00"
 }
