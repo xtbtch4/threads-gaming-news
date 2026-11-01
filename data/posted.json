@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "765536e73b7ece30ed41d4c6",
-      "title": "Xbox Was At An “All Time Low,” But Is Now Growing Again CEO Says Without Providing Any Real Evidence",
-      "url": "https://gamespot.com/articles/xbox-was-at-an-all-time-low-but-is-now-growing-again-after-huge-cuts-ceo-says",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-06T19:03:50+00:00",
-      "score": 12,
-      "event_key": "xboxceo-asha-sharma-reports-growth-after-layoffs",
-      "title_ru": "Xbox возвращается к росту после масштабных сокращений, заявила глава подразделения",
-      "threads_teaser_ru": "Глава Xbox Asha Sharma заявила сотрудникам, что подразделение возвращается к росту после массовых увольнений и закрытия студий. Она также поделилась планами о семействе устройств платформы «Gen-10».",
-      "telegram_message_id": "834",
-      "telegram_url": "https://t.me/gamepulse_newss/834",
-      "telegram_published_at": "2026-10-06T20:02:45.550631+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset.png?w=300",
-      "threads_published_at": "2026-10-06T20:02:47.068807+00:00"
-    },
-    {
       "fingerprint": "52998cfa09dbe5b9afa86a3d",
       "title": "Xbox CEO Asha Sharma Shares More Details on Project Helix 'Family of Devices'",
       "url": "https://ign.com/articles/xbox-ceo-asha-sharma-shares-more-details-on-project-helix-family-of-devices",
@@ -20504,7 +20487,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22695444/Switch_ZeldaSSHD_ND_Feb_SCRN07.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-01T13:02:25.934946+00:00"
+    },
+    {
+      "fingerprint": "b3aed2fe748c16b124e5f5fb",
+      "title": "Everyone Is Running a Con in You Can See Everything",
+      "url": "https://ign.com/articles/everyone-is-running-a-con-in-you-can-see-everything",
+      "source": "IGN",
+      "published_at_source": "2026-11-01T13:00:00+00:00",
+      "score": 7,
+      "event_key": "you-can-see-everything-elizabeth-holmes-documentary",
+      "title_ru": "You Can See Everything исследует образ Elizabeth Holmes",
+      "threads_teaser_ru": "Документальный фильм You Can See Everything от Nathan Fielder и Lance Oppenheim бьет рекорды проката и исследует историю Elizabeth Holmes и Theranos, заставляя зрителей усомниться в границах правды.",
+      "telegram_message_id": "2035",
+      "telegram_url": "https://t.me/gamepulse_newss/2035",
+      "telegram_published_at": "2026-11-01T13:17:06.056175+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/youcanseeeverythingtrailer-ign-blogroll-1790169540816.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-01T13:02:25.935040+00:00"
+  "updated_at": "2026-11-01T13:17:06.056533+00:00"
 }
