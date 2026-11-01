@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "17fafdbe8766ef7ebaaccdfc",
-      "title": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal",
-      "url": "https://rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T20:32:09+00:00",
-      "score": 8,
-      "event_key": "sheeps-roguelite-counting-sheep-announced",
-      "title_ru": "Анонсирована Sheeps — рогалик о подсчете овец, вылезающих из портала",
-      "threads_teaser_ru": "Анонсирован новый рогалик Sheeps, посвященный подсчету и стрижке овец, которые валят из таинственного портала. Игрокам предстоит справляться с растущим потоком животных с помощью улучшений и помощников.",
-      "telegram_message_id": "841",
-      "telegram_url": "https://t.me/gamepulse_newss/841",
-      "telegram_published_at": "2026-10-06T21:47:25.161103+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/sheeps.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T21:47:26.505322+00:00"
-    },
-    {
       "fingerprint": "f3bcd53756e58f81575ae712",
       "title": "Death Stranding Movie Gets Update as Director Scouts Beautiful Filming Locations in Iceland",
       "url": "https://ign.com/articles/death-stranding-movie-gets-update-as-director-scouts-beautiful-filming-locations-in-iceland",
@@ -20506,7 +20489,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-8_v4-1792007886.mp4",
       "threads_published_at": "2026-11-01T15:47:08.957196+00:00"
+    },
+    {
+      "fingerprint": "bd9b428ffa0b372488dc1142",
+      "title": "A Persona 1 Remake Is In Development, New Leak Suggests",
+      "url": "https://polygon.com/persona-1-remake-leak",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T16:14:13+00:00",
+      "score": 10,
+      "event_key": "revelations persona remake leaked online",
+      "title_ru": "Слух: в разработке находится ремейк Revelations: Persona",
+      "threads_teaser_ru": "В сети появились кадры игрового процесса разрабатываемого ремейка Revelations: Persona. Видео демонстрирует исследование подземелья и знакомых персонажей, но релиз проекта явно еще далеко.",
+      "telegram_message_id": "2042",
+      "telegram_url": "https://t.me/gamepulse_newss/2042",
+      "telegram_published_at": "2026-11-01T16:16:54.850616+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-16-at-4-00-48-pm.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/06/persona-6-teaser-trailer-xbox-games-showcase-2026-1780855106.mp4"
     }
   ],
-  "updated_at": "2026-11-01T15:47:08.957297+00:00"
+  "updated_at": "2026-11-01T16:16:54.850920+00:00"
 }
