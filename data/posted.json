@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "62dc91e3c8ffdbc392c29a78",
-      "title": "Aion 2's Character Creator Is Going Viral for Its Bust Size Options, or Lack Thereof",
-      "url": "https://ign.com/articles/aion-2s-character-creator-is-going-viral-for-its-bust-size-options-or-lack-thereof",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T21:36:07+00:00",
-      "score": 11,
-      "event_key": "aion-2-character-creator-bust-size-viral",
-      "title_ru": "Редактор персонажей в Aion 2 привлек внимание игроков из-за настроек груди",
-      "threads_teaser_ru": "Редактор персонажей в бесплатной MMO action RPG под названием Aion 2 стал вирусным в сети. Игроки обсуждают необычные возможности настройки внешности и особенности работы ползунка размера груди.",
-      "telegram_message_id": "844",
-      "telegram_url": "https://t.me/gamepulse_newss/844",
-      "telegram_published_at": "2026-10-06T22:32:27.057991+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/06/aion2thumb-1783347131362.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T22:32:28.400491+00:00"
-    },
-    {
       "fingerprint": "8cd1bcfc11ccd59d66db520b",
       "title": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun",
       "url": "https://rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/01/robert-downey-jr-and-pedro-pascal-halloween-1793549395319.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-01T17:17:00.529618+00:00"
+    },
+    {
+      "fingerprint": "5f525ce54d90837b4adaab53",
+      "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+      "url": "https://eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-01T17:27:29+00:00",
+      "score": 11,
+      "event_key": "modern-warfare-4-switch-2-input-lag-digital-foundry",
+      "title_ru": "Digital Foundry оценила Call of Duty: Modern Warfare 4 на Switch 2",
+      "threads_teaser_ru": "Аналитики Digital Foundry протестировали Call of Duty: Modern Warfare 4 на Switch 2 и обнаружили серьезную разницу в задержке ввода по сравнению с PS5.",
+      "telegram_message_id": "2045",
+      "telegram_url": "https://t.me/gamepulse_newss/2045",
+      "telegram_published_at": "2026-11-01T17:32:44.352309+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-01T17:17:00.529710+00:00"
+  "updated_at": "2026-11-01T17:32:44.352502+00:00"
 }
