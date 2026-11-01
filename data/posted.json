@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ed9995bece7a5fa1eb487bf2",
-      "title": "Amazon Prime Members Can Officially Claim 10 Games for Free in October",
-      "url": "https://polygon.com/amazon-gaming-luna-october-2026-doom-10-free-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-06T20:24:52+00:00",
-      "score": 10,
-      "event_key": "amazon-prime-free-games-october-2026-luna",
-      "title_ru": "Amazon предлагает 10 бесплатных игр для подписчиков Prime в октябре",
-      "threads_teaser_ru": "Подписчики Amazon Prime могут забрать 10 бесплатных игр в октябре, включая Doom (2016). Главный плюс — все они выдаются в виде кодов для GOG и Epic Games Store и остаются навсегда.",
-      "telegram_message_id": "836",
-      "telegram_url": "https://t.me/gamepulse_newss/836",
-      "telegram_published_at": "2026-10-06T20:32:21.084778+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11907745/doom_cacodemon_3840.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/doom-launch-trailer-1791311718.mp4",
-      "threads_published_at": "2026-10-06T20:32:22.834693+00:00"
-    },
-    {
       "fingerprint": "57b5e3f7b8e89f6412f9a0c8",
       "title": "GTA 6 Fans Theorize Jason May Be the Franchise's First Neurodivergent Protagonist",
       "url": "https://ign.com/articles/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurodivergent-protagonist",
@@ -20504,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/25/woot-switch-2-sale-love-video-games-ign-1790330351692.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-01T13:32:02.325821+00:00"
+    },
+    {
+      "fingerprint": "223de3f318ac9899dc792552",
+      "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
+      "url": "https://eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-01T13:44:34+00:00",
+      "score": 13,
+      "event_key": "dune awakening blood and ice expansion december",
+      "title_ru": "Для Dune: Awakening анонсировано бесплатное дополнение Blood and Ice",
+      "threads_teaser_ru": "Для выживача Dune: Awakening анонсировано бесплатное дополнение Blood и Ice, которое выйдет 1 декабря на PC, PS5 и Xbox и заменит пустыни на заснеженную карту Polar Sink с новыми механиками выживания и вызовами.",
+      "telegram_message_id": "2037",
+      "telegram_url": "https://t.me/gamepulse_newss/2037",
+      "telegram_published_at": "2026-11-01T13:47:12.811834+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dune-awakening_eBRRA9O.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-01T13:32:02.325916+00:00"
+  "updated_at": "2026-11-01T13:47:12.812083+00:00"
 }
