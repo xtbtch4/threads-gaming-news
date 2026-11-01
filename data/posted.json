@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "01315ddc45421e54348db3a0",
-      "title": "Hell Is Officially Breaking Loose For The Gaming Industry Thanks To AI",
-      "url": "https://polygon.com/ps5-jailbreak-emulator-minecraft-elden-ring-claude-opus-5-ai-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-06T18:30:43+00:00",
-      "score": 10,
-      "event_key": "Claude Opus 5.5 impact on video game emulation and modding",
-      "title_ru": "Влияние ИИ Claude Opus 5.5 на индустрию видеоигр",
-      "threads_teaser_ru": "Релиз Claude Opus 5.5 привел к созданию необычных игровых гибридов, развитию эмуляторов PS5 на ПК и упрощению взлома консолей. Технологии ИИ позволяют объединять несовместимые игры и ускоряют процесс реверс-инжиниринга, ставя под угрозу экосистемы крупных издателей.",
-      "telegram_message_id": "828",
-      "telegram_url": "https://t.me/gamepulse_newss/828",
-      "telegram_published_at": "2026-10-06T18:32:51.375213+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/polygon-graphic-ps5-retrospective.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-06T18:32:52.729348+00:00"
-    },
-    {
       "fingerprint": "94b708af5d9e1251c5748473",
       "title": "You’re Likely Playing Star Wars: Galactic Racer All Wrong, Like I Did For My First 16 Hours",
       "url": "https://gamespot.com/articles/youre-likely-playing-star-wars-galactic-racer-all-wrong-like-i-did-for-my-first-16-hours",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-01T07:47:05.413447+00:00"
+    },
+    {
+      "fingerprint": "09739a839b7da576db08f09c",
+      "title": "Welcome to the New Era of Video Game Adaptations",
+      "url": "https://polygon.com/patch-notes-video-game-adaptations",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T10:00:17+00:00",
+      "score": 8,
+      "event_key": "hollywood_video_game_adaptations_wave_2026",
+      "title_ru": "Новая волна экранизаций видеоигр в Голливуде",
+      "threads_teaser_ru": "Голливуд охватил масштабный бум экранизаций видеоигр: в разработке находятся Elden Ring, сериал по PUBG с Дональдом Гловером, фильм Mouthwashing и аниме Death Stranding Isolation.",
+      "telegram_message_id": "2029",
+      "telegram_url": "https://t.me/gamepulse_newss/2029",
+      "telegram_published_at": "2026-11-01T10:03:01.270060+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/16-street-fighter.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-01T07:47:05.413535+00:00"
+  "updated_at": "2026-11-01T10:03:01.270347+00:00"
 }
