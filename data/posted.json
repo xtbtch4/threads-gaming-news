@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8cd1bcfc11ccd59d66db520b",
-      "title": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun",
-      "url": "https://rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T21:53:26+00:00",
-      "score": 10,
-      "event_key": "rotetra-tetris-four-sides-falling-blocks-demo",
-      "title_ru": "Анонсирована ROTETRA — необычная версия Tetris с падением блоков с четырех сторон",
-      "threads_teaser_ru": "Вышла демоверсия ROTETRA — необычного проекта, где тетромино падают сразу с нескольких сторон, а игроку нужно вращать все поле и следить за фигурами.",
-      "telegram_message_id": "845",
-      "telegram_url": "https://t.me/gamepulse_newss/845",
-      "telegram_published_at": "2026-10-06T22:46:44.606848+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/rotetra.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T22:46:46.086629+00:00"
-    },
-    {
       "fingerprint": "5dd47676d83ea73499831dc4",
       "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
       "url": "https://ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-01T17:32:45.723726+00:00"
+    },
+    {
+      "fingerprint": "f29881949610cd7225f0c8e5",
+      "title": "Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic",
+      "url": "https://polygon.com/fable-reboot-no-co-op",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T18:00:02+00:00",
+      "score": 8,
+      "event_key": "fable-reboot-will-be-single-player-only",
+      "title_ru": "Fable лишится кооперативного режима",
+      "threads_teaser_ru": "Стало известно, что грядущий перезапуск Fable от Playground Games откажется от кооперативного режима и станет полностью однопользовательской игрой. Релиз запланирован на февраль.",
+      "telegram_message_id": "2046",
+      "telegram_url": "https://t.me/gamepulse_newss/2046",
+      "telegram_published_at": "2026-11-01T18:02:41.929723+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-01T17:32:45.723816+00:00"
+  "updated_at": "2026-11-01T18:02:41.929982+00:00"
 }
