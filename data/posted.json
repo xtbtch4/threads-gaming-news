@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4fc1bb3dc3d7a4aba6b28aa9",
-      "title": "Battlefield 6 Resurrects the Corpse of Dead Space With The Marker Tease",
-      "url": "https://ign.com/articles/battlefield-6-resurrects-dead-space",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T17:28:22+00:00",
-      "score": 11,
-      "event_key": "battlefield 6 season 5 dead space crossover tease",
-      "title_ru": "В трейлере Battlefield 6 намекнули на кроссовер с Dead Space",
-      "threads_teaser_ru": "В свежем трейлере пятого сезона Battlefield 6 нашли намек на кроссовер с Dead Space. На одной из новых карт заметили культовый артефакт The Marker. Релиз контента для Лас-Вегаса намечен на 13 октября.",
-      "telegram_message_id": "826",
-      "telegram_url": "https://t.me/gamepulse_newss/826",
-      "telegram_published_at": "2026-10-06T18:02:53.980364+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/06/battlefield-dead-space-1791301809536.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T18:02:55.473895+00:00"
-    },
-    {
       "fingerprint": "02495b0b205da86118a7d538",
       "title": "Razer’s Wolverine V4 Controller Is Overkill For Most Gamers, And That’s The Point",
       "url": "https://gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-01T01:46:51.701245+00:00"
+    },
+    {
+      "fingerprint": "4139ddb89fb217cb876202d0",
+      "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+      "url": "https://polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T04:00:17+00:00",
+      "score": 8,
+      "event_key": "dungeon crawler carl books goodreads rankings",
+      "title_ru": "Все книги Dungeon Crawler Carl по оценкам на Goodreads",
+      "threads_teaser_ru": "Серия Dungeon Crawler Carl насчитывает восемь книг, получивших высокие оценки на Goodreads. Читатели следят за выживанием героя в инопланетном шоу, а выход девятой части запланирован на следующий год.",
+      "telegram_message_id": "2027",
+      "telegram_url": "https://t.me/gamepulse_newss/2027",
+      "telegram_published_at": "2026-11-01T04:02:33.377295+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeon-crawler-carl.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-01T01:46:51.701324+00:00"
+  "updated_at": "2026-11-01T04:02:33.377541+00:00"
 }
