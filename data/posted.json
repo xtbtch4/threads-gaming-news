@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2bc7e0804510b5df18b713d9",
-      "title": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
-      "url": "https://eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-06T15:43:55+00:00",
-      "score": 11,
-      "event_key": "official sonic the hedgehog discord launched with strict moderation",
-      "title_ru": "Официальный Discord-сервер Sonic the Hedgehog собрал 50 тысяч пользователей за шесть часов",
-      "threads_teaser_ru": "Официальный Discord-сервер Sonic the Hedgehog привлек более 50 тысяч участников всего за шесть часов после запуска. Из-за такого наплыва Sega и модераторы ввели строгие правила.",
-      "telegram_message_id": "824",
-      "telegram_url": "https://t.me/gamepulse_newss/824",
-      "telegram_published_at": "2026-10-06T17:32:21.803047+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/sonic-this-might-not-end-well.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T17:32:23.468781+00:00"
-    },
-    {
       "fingerprint": "6f8974de90d2a1643e0d8335",
       "title": "'If You Can't Own It, What Are You Buying?' – Former PlayStation Boss Questions Sony's Decision to Kill Discs",
       "url": "https://ign.com/articles/if-you-cant-own-it-what-are-you-buying-former-playstation-boss-questions-sonys-decision-to-kill-discs",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/04/04/ss-2358d92931529dba0cadecadca4137860e6304b1-1920x1080-1775300343877.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-01T00:03:11.333505+00:00"
+    },
+    {
+      "fingerprint": "94f63e7220ad6a0adbb53baa",
+      "title": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
+      "url": "https://polygon.com/best-video-game-twist-endings",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T01:00:17+00:00",
+      "score": 7,
+      "event_key": "polygon best video game twist endings list",
+      "title_ru": "Polygon назвал 10 видеоигр с самыми неожиданными сюжетными поворотами",
+      "threads_teaser_ru": "Издание Polygon выбрало 10 игр с самыми неожиданными сюжетными поворотами, которые меняют всё. В список вошли Spec Ops: The Line, Silent Hill 2, BioShock Infinite и другие проекты.",
+      "telegram_message_id": "2025",
+      "telegram_url": "https://t.me/gamepulse_newss/2025",
+      "telegram_published_at": "2026-11-01T01:01:57.908642+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19231262/Link_s_Awakening_Wind_Fish_s_Egg_cover.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-01T00:03:11.333607+00:00"
+  "updated_at": "2026-11-01T01:01:57.908963+00:00"
 }
