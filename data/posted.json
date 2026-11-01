@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "52998cfa09dbe5b9afa86a3d",
-      "title": "Xbox CEO Asha Sharma Shares More Details on Project Helix 'Family of Devices'",
-      "url": "https://ign.com/articles/xbox-ceo-asha-sharma-shares-more-details-on-project-helix-family-of-devices",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T19:09:54+00:00",
-      "score": 11,
-      "event_key": "xbox ceo asha sharma details project helix family of devices",
-      "title_ru": "Глава Xbox Asha Sharma рассказала о линейке устройств Project Helix",
-      "threads_teaser_ru": "Глава Xbox Asha Sharma поделилась новыми подробностями о стратегии компании для десятого поколения консолей под кодовым названием Project Helix, подтвердив создание целого семейства устройств.",
-      "telegram_message_id": "835",
-      "telegram_url": "https://t.me/gamepulse_newss/835",
-      "telegram_published_at": "2026-10-06T20:17:13.633868+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T20:17:16.012493+00:00"
-    },
-    {
       "fingerprint": "ed9995bece7a5fa1eb487bf2",
       "title": "Amazon Prime Members Can Officially Claim 10 Games for Free in October",
       "url": "https://polygon.com/amazon-gaming-luna-october-2026-doom-10-free-games",
@@ -20504,7 +20487,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/23/youcanseeeverythingtrailer-ign-blogroll-1790169540816.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-01T13:17:07.626695+00:00"
+    },
+    {
+      "fingerprint": "6479996b08835972c59d8758",
+      "title": "UK Deals: AliExpress Has a Ton of Early Black Friday Deals for Gamers",
+      "url": "https://ign.com/articles/uk-deals-aliexpress-has-a-ton-of-early-black-friday-deals-for-gamers",
+      "source": "IGN",
+      "published_at_source": "2026-11-01T12:33:53+00:00",
+      "score": 5,
+      "event_key": "aliexpress_uk_early_black_friday_deals_gaming",
+      "title_ru": "AliExpress запустил ранние скидки в рамках Black Friday для геймеров из Великобритании",
+      "threads_teaser_ru": "AliExpress начал раннюю распродажу Black Friday для геймеров из Великобритании, предложив скидки на железо, мини-ПК и консоли. Например, Nintendo Switch 2 доступна от £335.52.",
+      "telegram_message_id": "2036",
+      "telegram_url": "https://t.me/gamepulse_newss/2036",
+      "telegram_published_at": "2026-11-01T13:32:01.056119+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/25/woot-switch-2-sale-love-video-games-ign-1790330351692.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-01T13:17:07.626788+00:00"
+  "updated_at": "2026-11-01T13:32:01.056244+00:00"
 }
