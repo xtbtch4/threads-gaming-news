@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "87a1ba2bce686efbc3859280",
-      "title": "STAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing",
-      "url": "https://news.xbox.com/en-us/2026/10/06/star-wars-galactic-racer-crashing-with-consequence",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-06T16:00:00+00:00",
-      "score": 12,
-      "event_key": "star-wars-galactic-racer-launched-xbox-series-xs",
-      "title_ru": "STAR WARS: Galactic Racer выходит на XBOX Series X|S",
-      "threads_teaser_ru": "Новинка STAR WARS: Galactic Racer уже доступна на XBOX Series X|S. Игра предлагает необычный подход к гонкам с системой последствий за аварии и элементами «runs-based».",
-      "telegram_message_id": "823",
-      "telegram_url": "https://t.me/gamepulse_newss/823",
-      "telegram_published_at": "2026-10-06T17:17:18.084770+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/CollectorsEdArt-653ecb82c42452ec4cdf.jpeg",
-      "threads_published_at": "2026-10-06T17:17:20.374858+00:00"
-    },
-    {
       "fingerprint": "2bc7e0804510b5df18b713d9",
       "title": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
       "url": "https://eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/project-hail-mary.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-10-31T23:16:57.070843+00:00"
+    },
+    {
+      "fingerprint": "a72b2549e4c8805afbf328a4",
+      "title": "Save Mass Effect Graffiti Reportedly Spray-Painted Outside EA Building",
+      "url": "https://ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
+      "source": "IGN",
+      "published_at_source": "2026-10-31T23:08:02+00:00",
+      "score": 13,
+      "event_key": "save mass effect graffiti sprayed outside ea madrid office",
+      "title_ru": "Граффити с призывом спасти Mass Effect появилось у офиса EA",
+      "threads_teaser_ru": "У офиса EA в Мадриде заметили граффити Save Mass Effect. Инцидент произошел вскоре после закрытия BioWare и отмены проектов серии, что вызвало масштабный протест фанатов.",
+      "telegram_message_id": "2024",
+      "telegram_url": "https://t.me/gamepulse_newss/2024",
+      "telegram_published_at": "2026-11-01T00:03:09.991937+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/04/04/ss-2358d92931529dba0cadecadca4137860e6304b1-1920x1080-1775300343877.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-10-31T23:16:57.070937+00:00"
+  "updated_at": "2026-11-01T00:03:09.992224+00:00"
 }
