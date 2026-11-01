@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c0cabf959fb7bf2c68935ea4",
-      "title": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
-      "url": "https://rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T16:00:00+00:00",
-      "score": 9,
-      "event_key": "yellow brick games lays off staff eternal strands",
-      "title_ru": "Студия Yellow Brick Games начала сокращения сотрудников",
-      "threads_teaser_ru": "Студия Yellow Brick Games, выпустившая экшен-RPG Eternal Strands, сообщила о сокращении штата. Информация об увольнениях появилась на страницах сотрудников в LinkedIn.",
-      "telegram_message_id": "831",
-      "telegram_url": "https://t.me/gamepulse_newss/831",
-      "telegram_published_at": "2026-10-06T19:18:09.217198+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Eternal-Strands.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-06T19:18:10.734683+00:00"
-    },
-    {
       "fingerprint": "f4b6addabadae8af9a59ce50",
       "title": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
       "url": "https://rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
@@ -20503,7 +20486,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
       "threads_published_at": "2026-11-01T11:02:09.367715+00:00"
+    },
+    {
+      "fingerprint": "543249d71ffc6a04ce50e0c5",
+      "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
+      "url": "https://polygon.com/prime-video-sci-fi-near-perfect-first-scene",
+      "source": "Polygon",
+      "published_at_source": "2026-11-01T12:00:17+00:00",
+      "score": 8,
+      "event_key": "polygon_prime_video_scifi_shows_list",
+      "title_ru": "7 научно-фантастических сериалов на Prime Video с захватывающим началом",
+      "threads_teaser_ru": "Издание Polygon выбрало семь научно-фантастических сериалов на Prime Video, которые захватывают зрителя с первой же сцены. В подборку вошли Upload, Tales from the Loop, Undone, Night Sky, The Man in the High Castle и Fallout.",
+      "telegram_message_id": "2032",
+      "telegram_url": "https://t.me/gamepulse_newss/2032",
+      "telegram_published_at": "2026-11-01T12:17:11.872274+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-end-of-the-world-is-going-to-be-weird-on-prime-videos-quirky-clever-adaptation-of-fallout-1.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/actorsroundtable-1793394646.mp4"
     }
   ],
-  "updated_at": "2026-11-01T11:02:09.367819+00:00"
+  "updated_at": "2026-11-01T12:17:11.872545+00:00"
 }
