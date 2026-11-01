@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5dd47676d83ea73499831dc4",
-      "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
-      "url": "https://ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T22:42:41+00:00",
-      "score": 15,
-      "event_key": "xbox_secures_exclusive_cloud_streaming_rights_to_gta_6",
-      "title_ru": "Xbox получила эксклюзивные права на облачный стриминг GTA 6",
-      "threads_teaser_ru": "Xbox заключила сделку об эксклюзивных правах на облачный стриминг GTA 6 на релизе в ноябре. Это может дать ПК-игрокам возможность запустить игру через облако без покупки консоли.",
-      "telegram_message_id": "846",
-      "telegram_url": "https://t.me/gamepulse_newss/846",
-      "telegram_published_at": "2026-10-06T23:02:27.978625+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-06T23:02:29.200637+00:00"
-    },
-    {
       "fingerprint": "fbf8fbda4830079a6d4b9c7b",
       "title": "Ex-Activision CEO Bobby Kotick Joins Skydance Board of Directors Following WB-Paramount Merger",
       "url": "https://ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-01T18:02:43.312095+00:00"
+    },
+    {
+      "fingerprint": "f062515a70e41537630904f1",
+      "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
+      "url": "https://eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-01T18:16:20+00:00",
+      "score": 9,
+      "event_key": "sequel At Dead Of Night The Great Hugo announced",
+      "title_ru": "Анонсировано продолжение хоррора At Dead Of Night под названием The Great Hugo",
+      "threads_teaser_ru": "Студия Baggy Cat Games анонсировала прямое продолжение хоррора At Dead Of Night под названием The Great Hugo. Спустя пять лет Майя возвращается к расследованиям сверхъестественного, чтобы найти ответы на вопросы, оставшиеся после побега из Sea View Hotel.",
+      "telegram_message_id": "2047",
+      "telegram_url": "https://t.me/gamepulse_newss/2047",
+      "telegram_published_at": "2026-11-01T18:17:43.021318+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-18.12.02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-01T18:02:43.312183+00:00"
+  "updated_at": "2026-11-01T18:17:43.021672+00:00"
 }
