@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2bf52802f485a7b9ed6c35f5",
-      "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
-      "url": "https://polygon.com/gta-6-major-questions",
-      "source": "Polygon",
-      "published_at_source": "2026-10-06T21:35:51+00:00",
-      "score": 5,
-      "event_key": "unanswered questions about GTA 6 before November release",
-      "title_ru": "Главные вопросы к GTA 6 перед релизом",
-      "threads_teaser_ru": "Разработчики GTA 6 поделились множеством подробностей, но фанаты все еще гадают, вернутся ли в серию чит-коды и будет ли в игре охота. Главные вопросы перед выходом хита 19 ноября — в нашем обзоре.",
-      "telegram_message_id": "862",
-      "telegram_url": "https://t.me/gamepulse_newss/862",
-      "telegram_published_at": "2026-10-07T03:17:02.403876+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/polygon-stock-art-gta-6-cal-hampton-3.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-07T03:17:03.657851+00:00"
-    },
-    {
       "fingerprint": "6438cc3ecc6f98ba68ff302e",
       "title": "Exclusive Warhammer 40,000: Dawn of War 4 Space Marine Screenshots and Interview With Creative Director Jan Theysen",
       "url": "https://za.ign.com/warhammer-40000-dawn-of-war-iv/242775/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screenshots-and-interview-with-creative-directo",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/the-legend-of-zelda-ocarina-of-time-remake-developer-1793638906639.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T18:02:53.963941+00:00"
+    },
+    {
+      "fingerprint": "b34da5b214575f775194a713",
+      "title": "World of Warcraft: Forever – How Controller Support Reimagines the Way We Can Play in Azeroth",
+      "url": "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-02T18:00:00+00:00",
+      "score": 12,
+      "event_key": "world of warcraft forever gamepad alpha support release",
+      "title_ru": "Поддержка контроллеров в World of Warcraft: Forever",
+      "threads_teaser_ru": "С выходом World of Warcraft: Forever игроки смогут исследовать обновленный классический Азерот с помощью официальной поддержки геймпадов в режиме Alpha. Рассказываем, как устроено управление на контроллере и что изменилось в игре.",
+      "telegram_message_id": "2063",
+      "telegram_url": "https://t.me/gamepulse_newss/2063",
+      "telegram_published_at": "2026-11-02T18:17:05.118506+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WoW_Forever_Announce_Key_Art_-_Alliance-CROP-26c3651eb782d572703f.jpg"
     }
   ],
-  "updated_at": "2026-11-02T18:02:53.964035+00:00"
+  "updated_at": "2026-11-02T18:17:05.118827+00:00"
 }
