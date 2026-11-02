@@ -20506,9 +20506,10 @@
       "telegram_message_id": "2068",
       "telegram_url": "https://t.me/gamepulse_newss/2068",
       "telegram_published_at": "2026-11-02T20:48:50.201400+00:00",
-      "threads_id": null,
-      "image_url": "https://drop-assets.ea.com/images/1GGUFT3XR2YDy01WfHs99i/57592df59098bdeaa623966a97fcac62/EACOM_News_Accessible-Games-Initiative-Tags-Article_Featured-Image_16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
+      "threads_id": "disabled",
+      "image_url": "https://drop-assets.ea.com/images/1GGUFT3XR2YDy01WfHs99i/57592df59098bdeaa623966a97fcac62/EACOM_News_Accessible-Games-Initiative-Tags-Article_Featured-Image_16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+      "threads_published_at": "2026-11-02T20:48:51.727875+00:00"
     }
   ],
-  "updated_at": "2026-11-02T20:48:50.201723+00:00"
+  "updated_at": "2026-11-02T20:48:51.727985+00:00"
 }
