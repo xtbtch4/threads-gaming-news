@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "66ec777868a8bc5030118b32",
-      "title": "Nintendo's New Zelda Switch 2 Hardware Officially Arrives This Month",
-      "url": "https://polygon.com/legend-of-zelda-ocarina-remake-new-nintendo-switch-2-hardware",
-      "source": "Polygon",
-      "published_at_source": "2026-10-06T19:16:19+00:00",
-      "score": 7,
-      "event_key": "zelda 40th anniversary switch 2 hardware announced",
-      "title_ru": "Анонсирована линейка Nintendo Switch 2 в стиле The Legend of Zelda",
-      "threads_teaser_ru": "Nintendo анонсировала специальное издание Nintendo Switch 2 и аксессуары в стиле The Legend of Zelda к 40-летию серии и релизу ремейка Ocarina of Time. Предзаказы уже распроданы.",
-      "telegram_message_id": "854",
-      "telegram_url": "https://t.me/gamepulse_newss/854",
-      "telegram_published_at": "2026-10-07T01:02:55.917461+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzelda40thedition_hw_14.jpeg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-07T01:02:57.383981+00:00"
-    },
-    {
       "fingerprint": "05f6861d36687e63b4785a32",
       "title": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right",
       "url": "https://rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Gang-of-Dragon.jpg?w=300",
       "threads_published_at": "2026-11-02T13:32:33.613379+00:00"
+    },
+    {
+      "fingerprint": "34b5f3dd6aba0c09b0de158b",
+      "title": "Dave Bautista Is Looking More Like Kratos After Packing On 20 Pounds Of Muscle",
+      "url": "https://gamespot.com/articles/dave-bautista-is-looking-more-like-kratos-after-packing-on-20-pounds-of-muscle",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-02T13:16:51+00:00",
+      "score": 13,
+      "event_key": "dave bautista kataros god of war series muscle weight",
+      "title_ru": "Dave Bautista набрал 20 фунтов мышц для роли в сериале God of War",
+      "threads_teaser_ru": "Dave Bautista набрал 20 фунтов мышц для роли Kratos в грядущем сериале God of War от Prime Video. Актёр заменил Ryan Hurst, покинувшего проект из-за травмы.",
+      "telegram_message_id": "2055",
+      "telegram_url": "https://t.me/gamepulse_newss/2055",
+      "telegram_published_at": "2026-11-02T13:46:56.205320+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Kratostista.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-02T13:32:33.613468+00:00"
+  "updated_at": "2026-11-02T13:46:56.205772+00:00"
 }
