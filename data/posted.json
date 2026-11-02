@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ec18a6c9186bb248a74e2d44",
-      "title": "GTA 6 PC Release Date Estimate, Rumors, And News",
-      "url": "https://gamespot.com/articles/gta-6-pc-release-date-estimate-rumors-and-news",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T10:36:27+00:00",
-      "score": 9,
-      "event_key": "gta-6-pc-release-date-estimate-and-context",
-      "title_ru": "Оценка сроков выхода Grand Theft Auto 6 на PC и комментарии руководства Take-Two",
-      "threads_teaser_ru": "Grand Theft Auto 6 выходит на PS5 и Xbox Series X|S в ноябре 2026 года, но версия для PC пока не анонсирована. Эксперты оценивают возможный релиз на персональных компьютерах в начале 2028 года.",
-      "telegram_message_id": "871",
-      "telegram_url": "https://t.me/gamepulse_newss/871",
-      "telegram_published_at": "2026-10-07T10:47:28.803628+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/313/3136061/4645810-gta6.jpg?w=300",
-      "threads_published_at": "2026-10-07T10:47:30.221158+00:00"
-    },
-    {
       "fingerprint": "902ac56bdd2895e939031f93",
       "title": "Resident Evil Requiem Writer Teases DLC Plans, Immediately Says He Probably Shouldn't Have",
       "url": "https://ign.com/articles/resident-evil-requiem-dlc-plans",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T21:46:47.649454+00:00"
+    },
+    {
+      "fingerprint": "f477c7aec14d7f66537c6574",
+      "title": "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\"",
+      "url": "https://eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-02T18:01:38+00:00",
+      "score": 10,
+      "event_key": "Nintendo rejected fast travel in The Legend of Zelda: Ocarina of Time remake",
+      "title_ru": "В ремейке The Legend of Zelda: Ocarina of Time решили не добавлять функцию быстрого перемещения",
+      "threads_teaser_ru": "Разработчики ремейка The Legend of Zelda: Ocarina of Time решили отказаться от быстрой телепортации по карте, которую изначально планировали добавить в игру. Рассказываем, почему авторы посчитали, что этот механизм навредит игровому процессу и духу оригинала.",
+      "telegram_message_id": "2072",
+      "telegram_url": "https://t.me/gamepulse_newss/2072",
+      "telegram_published_at": "2026-11-02T22:05:05.070316+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Ocarina-of-Time-Link.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-02T21:46:47.649547+00:00"
+  "updated_at": "2026-11-02T22:05:05.070705+00:00"
 }
