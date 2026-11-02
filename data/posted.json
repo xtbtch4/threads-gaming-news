@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6438cc3ecc6f98ba68ff302e",
-      "title": "Exclusive Warhammer 40,000: Dawn of War 4 Space Marine Screenshots and Interview With Creative Director Jan Theysen",
-      "url": "https://za.ign.com/warhammer-40000-dawn-of-war-iv/242775/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screenshots-and-interview-with-creative-directo",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T07:10:00+00:00",
-      "score": 8,
-      "event_key": "warhammer 40000 dawn of war 4 space marines details",
-      "title_ru": "Новые подробности о Space Marines в Warhammer 40,000: Dawn of War 4",
-      "threads_teaser_ru": "IGN поделился новыми скриншотами и подробностями о фракции Space Marines в стратегии Warhammer 40,000: Dawn of War 4 от King Art Games. Как именно элитные бойцы покажут себя в грядущей RTS?",
-      "telegram_message_id": "863",
-      "telegram_url": "https://t.me/gamepulse_newss/863",
-      "telegram_published_at": "2026-10-07T07:17:16.903305+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://sm.ign.com/t/ign_za/news/e/exclusive-/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screens_rgks.1200.jpg",
-      "threads_published_at": "2026-10-07T07:17:18.754389+00:00"
-    },
-    {
       "fingerprint": "33081eef90fb17a6817f3ae8",
       "title": "7 Hilarious Far Side Comics About Music",
       "url": "https://polygon.com/far-side-comics-music-references",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WoW_Forever_Announce_Key_Art_-_Alliance-CROP-26c3651eb782d572703f.jpg",
       "threads_published_at": "2026-11-02T18:17:07.813811+00:00"
+    },
+    {
+      "fingerprint": "8201c9d28e1dafbcc5cb6a01",
+      "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
+      "url": "https://eurogamer.net/borderlands-100-million-copies-gearbox",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-02T18:44:15+00:00",
+      "score": 13,
+      "event_key": "borderlands_series_reaches_100_million_copies",
+      "title_ru": "Тираж серии Borderlands превысил 100 миллионов копий",
+      "threads_teaser_ru": "Совокупные продажи серии Borderlands преодолели отметку в 100 миллионов проданных копий. На фоне этого успеха студия Gearbox Software уже готовит новый контент для Borderlands 4 на следующий год.",
+      "telegram_message_id": "2064",
+      "telegram_url": "https://t.me/gamepulse_newss/2064",
+      "telegram_published_at": "2026-11-02T18:47:05.133299+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-02T18:17:07.813903+00:00"
+  "updated_at": "2026-11-02T18:47:05.133670+00:00"
 }
