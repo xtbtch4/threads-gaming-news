@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1e819cc5baecb5df7f2cc1fd",
-      "title": "The Daniel Craig 007 4K Blu-ray Collection Is at Its Lowest Price of 2026",
-      "url": "https://ign.com/articles/the-daniel-craig-007-4k-blu-ray-collection-is-at-its-lowest-price-of-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T22:14:00+00:00",
-      "score": 7,
-      "event_key": "daniel craig 007 collection discount amazon prime big deal days",
-      "title_ru": "The Daniel Craig 007 4K Blu-ray Collection подешевела на Amazon",
-      "threads_teaser_ru": "Коллекция фильмов с Дэниелом Крейгом в роли Джеймса Бонда получила скидку на Amazon в рамках распродажи Prime Big Deal Days. Комплект из четырёх картин в формате 4K можно приобрести за 30,81 доллара.",
-      "telegram_message_id": "852",
-      "telegram_url": "https://t.me/gamepulse_newss/852",
-      "telegram_published_at": "2026-10-07T00:32:43.233140+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/03/26/wallpapersden-com-no-time-to-die-james-bond-1280x720-1608261946637-1632319047844-1648272770134.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T00:32:44.583548+00:00"
-    },
-    {
       "fingerprint": "4caa4a541d6b6454245ae569",
       "title": "Insomniac Finally Lets Players Toggle Wolverine's Story-Related Scent Trails on and Off With a 'Hint' Button",
       "url": "https://ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/11/d55f07b0f8ea32aceffa98a33ec682a1bc1ac6e9-scaled.jpg",
       "threads_published_at": "2026-11-02T11:46:50.617518+00:00"
+    },
+    {
+      "fingerprint": "fe5731ed94e29e3310d2ae91",
+      "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
+      "url": "https://eurogamer.net/id-software-doing-great-losing-half-the-studio",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-02T04:12:00+00:00",
+      "score": 14,
+      "event_key": "id software boss comments on studio layoffs after xbox cuts",
+      "title_ru": "Руководитель id Software прокомментировал сокращение половины штата студии",
+      "threads_teaser_ru": "Глава id Software высказался о текущем состоянии студии после увольнения половины сотрудников из-за масштабных сокращений в Microsoft и рассказал о сотрудничестве с MachineGames.",
+      "telegram_message_id": "2053",
+      "telegram_url": "https://t.me/gamepulse_newss/2053",
+      "telegram_published_at": "2026-11-02T12:32:25.050902+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-02T11:46:50.617626+00:00"
+  "updated_at": "2026-11-02T12:32:25.051009+00:00"
 }
