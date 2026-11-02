@@ -20506,10 +20506,11 @@
       "telegram_message_id": "2070",
       "telegram_url": "https://t.me/gamepulse_newss/2070",
       "telegram_published_at": "2026-11-02T21:32:29.545659+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wilderdark-rec-header.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/wilderdark-gameplay-trailer-team-junkfish-1793642732.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/wilderdark-gameplay-trailer-team-junkfish-1793642732.mp4",
+      "threads_published_at": "2026-11-02T21:32:30.955071+00:00"
     }
   ],
-  "updated_at": "2026-11-02T21:32:29.546046+00:00"
+  "updated_at": "2026-11-02T21:32:30.955180+00:00"
 }
