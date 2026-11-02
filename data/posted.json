@@ -20505,9 +20505,10 @@
       "telegram_message_id": "2054",
       "telegram_url": "https://t.me/gamepulse_newss/2054",
       "telegram_published_at": "2026-11-02T13:32:32.066115+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Gang-of-Dragon.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Gang-of-Dragon.jpg?w=300",
+      "threads_published_at": "2026-11-02T13:32:33.613379+00:00"
     }
   ],
-  "updated_at": "2026-11-02T13:32:32.066375+00:00"
+  "updated_at": "2026-11-02T13:32:33.613468+00:00"
 }
