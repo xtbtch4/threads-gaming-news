@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c566a974a490da5c3d1546ae",
-      "title": "GUNDAM ROGUE ORBIT – Gameplay Walkthrough Trailer",
-      "url": "https://gamespot.com/videos/gundam-rogue-orbit-gameplay-walkthrough-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-06T17:22:58+00:00",
-      "score": 7,
-      "event_key": "gundam rogue orbit gameplay walkthrough trailer released",
-      "title_ru": "Геймплейный трейлер GUNDAM ROGUE ORBIT",
-      "threads_teaser_ru": "Появился новый геймплейный трейлер GUNDAM ROGUE ORBIT, показывающий скоростные сражения на Марсе. Игрокам предстоит кастомизировать мобильные доспехи и сразиться с Apocalypse.",
-      "telegram_message_id": "857",
-      "telegram_url": "https://t.me/gamepulse_newss/857",
-      "telegram_published_at": "2026-10-07T01:46:50.669397+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_6eeed5.jpg?w=300",
-      "threads_published_at": "2026-10-07T01:46:51.780396+00:00"
-    },
-    {
       "fingerprint": "61df4e505b403ee8cb731503",
       "title": "Amazon Is Discounting All Things Pokémon for October Prime Day This Year",
       "url": "https://ign.com/articles/best-pokemon-deals-amazon-october-prime-day-2026",
@@ -20509,7 +20492,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/11/646bca9666d03e4befc0e440f34d1e961ac329e0.jpg",
       "video_url": "https://stream.mux.com/B1bNgQbxWyDrDFRvdLiLMeUheSjydgYlpuNws00muAHU/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJCMWJOZ1FieFd5RHJERlJ2ZExpTE1lVWhlU2p5ZGdZbHB1TndzMDBtdUFIVSIsImF1ZCI6InYiLCJleHAiOjE3OTM2NzQ4OTksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.A7xl7JaSFmGvflx4viXu89C6tLGi_QrXU3TruZtppZ_Ti2a7DIIsgkZSJbIWW6eve7TObRXOoaIEJIur_gie9AyDSk6djAW-DGutgDceIioMei2S4rtNpWzIsCj_-Qu6n7W5_z1ZCHsjVZl2CF37y-f1WbdvpC9M1EJ8aLz1gCqkC4GcnO8KraIPccJqJJWYw0aud5B1DkR-6MVdqrUosVPlKBPEjj1iRxAAyShe0AJi84iS8nqAYlMzQ25f15gXgwAmhDnCZsPIhMc27CGtmg9C817GvmvzpHkFeekJQTx_MAohKTd2S8O647QZTnqaLTyIGne3OcRVfmSdvfk6Jg",
       "threads_published_at": "2026-11-02T15:02:49.229037+00:00"
+    },
+    {
+      "fingerprint": "6ab81fec685be102513706a4",
+      "title": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
+      "url": "https://gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-02T15:31:04+00:00",
+      "score": 15,
+      "event_key": "id software marty stratton comments on massive layoffs",
+      "title_ru": "Руководитель id Software высказался о состоянии студии после массовых увольнений",
+      "threads_teaser_ru": "Содиректор id Software Марти Страттон прокомментировал недавние сокращения, затронувшие половину штата студии. По его словам, это было частью целенаправленных усилий для обеспечения успеха компании, а также сблизило их с MachineGames.",
+      "telegram_message_id": "2058",
+      "telegram_url": "https://t.me/gamepulse_newss/2058",
+      "telegram_published_at": "2026-11-02T16:32:35.247704+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/darkages.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-02T15:02:49.229187+00:00"
+  "updated_at": "2026-11-02T16:32:35.248056+00:00"
 }
