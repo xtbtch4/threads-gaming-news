@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "05f6861d36687e63b4785a32",
-      "title": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right",
-      "url": "https://rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-06T17:30:00+00:00",
-      "score": 7,
-      "event_key": "warhammer-40000-dark-heresy-investigations-without-evidence",
-      "title_ru": "В Warhammer 40,000: Dark Heresy можно завершать расследования почти без улиk",
-      "threads_teaser_ru": "В Warhammer 40,000: Dark Heresy игроки смогут обвинять подозреваемых почти без улик благодаря статусу аколита Инквизиции. Но что именно дают дальнейшие поиски доказательств?",
-      "telegram_message_id": "855",
-      "telegram_url": "https://t.me/gamepulse_newss/855",
-      "telegram_published_at": "2026-10-07T01:17:09.419722+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/warhammer-40000-dark-heresy-evidence.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T01:17:10.950646+00:00"
-    },
-    {
       "fingerprint": "b3c7d2d1d264864e63a3b839",
       "title": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month",
       "url": "https://rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Kratostista.jpg?w=300",
       "threads_published_at": "2026-11-02T13:46:57.579637+00:00"
+    },
+    {
+      "fingerprint": "d2b5913a6a69c0925781c08f",
+      "title": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
+      "url": "https://gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-02T14:21:24+00:00",
+      "score": 15,
+      "event_key": "gears of war eday 500 million budget report",
+      "title_ru": "Бюджет Gears of War: E-Day в размере $500 миллионов может отражать не только разработку одной игры",
+      "threads_teaser_ru": "Бюджет Gears of War: E-Day в $500 миллионов вызвал вопросы: как выяснилось, эта сумма охватывает годы работы студии The Coalition не только над самой игрой, но и над поддержкой других проектов Xbox и технологий Unreal Engine 5.",
+      "telegram_message_id": "2056",
+      "telegram_url": "https://t.me/gamepulse_newss/2056",
+      "telegram_published_at": "2026-11-02T14:47:17.488184+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Gears-E-Day.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-02T13:46:57.579730+00:00"
+  "updated_at": "2026-11-02T14:47:17.488323+00:00"
 }
