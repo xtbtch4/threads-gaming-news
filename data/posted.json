@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b313fd08face9589e85a384c",
-      "title": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\"",
-      "url": "https://eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-07T09:49:32+00:00",
-      "score": 11,
-      "event_key": "microsoft retests next gen project helix family of devices",
-      "title_ru": "Microsoft подтвердила планы на семейство устройств Project Helix в новом поколении Xbox",
-      "threads_teaser_ru": "Microsoft вновь подтвердила планы на семейство устройств Project Helix для десятого поколения Xbox. Концепция объединит мощную домашнюю консоль и портативное решение для игр на ходу.",
-      "telegram_message_id": "869",
-      "telegram_url": "https://t.me/gamepulse_newss/869",
-      "telegram_published_at": "2026-10-07T10:16:58.369023+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/project-helix-xbox.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T10:16:59.708776+00:00"
-    },
-    {
       "fingerprint": "d8a1814095763109e30ae28b",
       "title": "\"After an all-time low, we've started to return to growth\" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs",
       "url": "https://eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs",
@@ -20509,7 +20492,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/06/05/alienisolation-thumb-1780701533804.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T21:02:58.475587+00:00"
+    },
+    {
+      "fingerprint": "dab0e3a7caf8c3652f50882f",
+      "title": "Jurassic Park Meets Outlast in Terrifying Steam Game Coming Next Week",
+      "url": "https://polygon.com/wilderdark-survival-horror-jurassic-park-steam-release",
+      "source": "Polygon",
+      "published_at_source": "2026-11-02T20:00:18+00:00",
+      "score": 10,
+      "event_key": "Wilderdark steam release date november 10",
+      "title_ru": "Survival-хоррор Wilderdark выйдет в Steam 10 ноября",
+      "threads_teaser_ru": "На остров с зараженными динозаврами: survival-хоррор Wilderdark от Team Junkfish доберется до Steam уже 10 ноября. В игре предстоит заниматься крафтом, скрытно перемещаться и изучать местную флору и фауну с помощью камеры.",
+      "telegram_message_id": "2070",
+      "telegram_url": "https://t.me/gamepulse_newss/2070",
+      "telegram_published_at": "2026-11-02T21:32:29.545659+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wilderdark-rec-header.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/wilderdark-gameplay-trailer-team-junkfish-1793642732.mp4"
     }
   ],
-  "updated_at": "2026-11-02T21:02:58.475706+00:00"
+  "updated_at": "2026-11-02T21:32:29.546046+00:00"
 }
