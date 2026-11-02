@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b475dc22366aeb8c6a158ad9",
-      "title": "Skydance Is Merging Paramount And Warner Bros.’ Game Studios Into One Unit",
-      "url": "https://gamespot.com/articles/skydance-is-merging-paramount-and-warner-bros-game-studios-into-one-unit",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T11:47:59+00:00",
-      "score": 15,
-      "event_key": "skydance-merges-paramount-and-warner-bros-game-studios",
-      "title_ru": "Skydance объединяет игровыe студии Paramount и Warner Bros.",
-      "threads_teaser_ru": "Skydance объединяет Warner Bros. Interactive и Paramount Games Studio в единое подразделение под руководством Тони Дрисколла. Под его началом окажутся Avalanche Software, NetherRealm Studios, Rocksteady Studios и TT Games.",
-      "telegram_message_id": "876",
-      "telegram_url": "https://t.me/gamepulse_newss/876",
-      "telegram_published_at": "2026-10-07T12:02:16.480909+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/IM-READY-TO-GET-OVER-HERE.jpg?w=300",
-      "threads_published_at": "2026-10-07T12:02:17.820845+00:00"
-    },
-    {
       "fingerprint": "9437139c8be62025c43fd985",
       "title": "Doctor Who Reveals First Candidate to Resurrect the Beloved Sci-Fi Show",
       "url": "https://polygon.com/doctor-who-competitive-tender-jed-mercurio",
@@ -20512,7 +20495,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-oot-remake.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
       "threads_published_at": "2026-11-02T23:02:59.745104+00:00"
+    },
+    {
+      "fingerprint": "b0d06e4c00f7d6833a6bb667",
+      "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Ahead of Black Friday",
+      "url": "https://ign.com/articles/talix-20000mah-140w-power-bank-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T22:25:00+00:00",
+      "score": 9,
+      "event_key": "talix-power-bank-amazon-discount-black-friday",
+      "title_ru": "Talix 20,000mAh 140W Power Bank со скидкой перед Black Friday",
+      "threads_teaser_ru": "На Amazon перед Black Friday снизилась цена на мощный внешний аккумулятор Talix 20,000mAh 140W Power Bank. Устройство с поддержкой быстрой зарядки для портативных игровых ПК и ноутбуков отдают за $38.99 по купону.",
+      "telegram_message_id": "2077",
+      "telegram_url": "https://t.me/gamepulse_newss/2077",
+      "telegram_published_at": "2026-11-02T23:17:09.278215+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/talixpowerbank-1793653599021.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-02T23:02:59.745211+00:00"
+  "updated_at": "2026-11-02T23:17:09.278553+00:00"
 }
