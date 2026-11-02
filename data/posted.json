@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c29f981df169e363008e3ee6",
-      "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
-      "url": "https://ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T08:30:00+00:00",
-      "score": 11,
-      "event_key": "lg-evo-b6-oled-tv-amazon-discount",
-      "title_ru": "Телевизор 2026 LG Evo B6 4K OLED подешевел до $1000 на распродаже Amazon",
-      "threads_teaser_ru": "На Amazon телевизор 2026 65\" LG B6 4K OLED подешевел до $999.99, а в подарок к нему можно получить саундбар и сабвуфер LG S30A. Модель поддерживает 120 Гц и HDMI 2.1 для консолей.",
-      "telegram_message_id": "867",
-      "telegram_url": "https://t.me/gamepulse_newss/867",
-      "telegram_published_at": "2026-10-07T09:47:09.956258+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/lgb6-1791360961806.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T09:47:11.349903+00:00"
-    },
-    {
       "fingerprint": "8ebeac0de499889411dd0cff",
       "title": "Xbox Official Clears Up Grand Theft Auto 6 PC Rumors",
       "url": "https://polygon.com/grand-theft-auto-gta-6-xbox-pc-streaming-rights",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T20:32:51.022341+00:00"
+    },
+    {
+      "fingerprint": "8c9a3fcf9c47a1faef95e421",
+      "title": "Accessible Games Initiative Tags is now available on EA platforms",
+      "url": "https://ea.com/news/accessible-games-initiative-tags",
+      "source": "Electronic Arts",
+      "published_at_source": "2026-11-02T19:00:00+00:00",
+      "score": 11,
+      "event_key": "Electronic Arts adopts Accessible Games Initiative accessibility tags",
+      "title_ru": "EA внедрила стандартизированные теги доступности в свои игры",
+      "threads_teaser_ru": "Electronic Arts начала использовать единую систему тегов Accessible Games Initiative. Теперь пользователи могут заранее узнавать о конкретных функциях доступности в играх благодаря стандартизированному описанию, разработанному вместе с другими представителями индустрии.",
+      "telegram_message_id": "2068",
+      "telegram_url": "https://t.me/gamepulse_newss/2068",
+      "telegram_published_at": "2026-11-02T20:48:50.201400+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/1GGUFT3XR2YDy01WfHs99i/57592df59098bdeaa623966a97fcac62/EACOM_News_Accessible-Games-Initiative-Tags-Article_Featured-Image_16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     }
   ],
-  "updated_at": "2026-11-02T20:32:51.022432+00:00"
+  "updated_at": "2026-11-02T20:48:50.201723+00:00"
 }
