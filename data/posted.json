@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a3acaa06a182c459ae02bd2f",
-      "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
-      "url": "https://gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T09:03:51+00:00",
-      "score": 15,
-      "event_key": "gta 6 will not stream to pc through xbox",
-      "title_ru": "GTA 6 не будет доступна для стриминга на PC через Xbox",
-      "threads_teaser_ru": "Microsoft опровергла слухи о том, что Grand Theft Auto 6 можно будет стримить на PC через Xbox Cloud Gaming. Релиз игры на консолях запланирован на 19 ноября.",
-      "telegram_message_id": "866",
-      "telegram_url": "https://t.me/gamepulse_newss/866",
-      "telegram_published_at": "2026-10-07T09:31:51.669834+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Lucia.jpg?w=300",
-      "threads_published_at": "2026-10-07T09:31:52.999705+00:00"
-    },
-    {
       "fingerprint": "c29f981df169e363008e3ee6",
       "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
       "url": "https://ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/06/20/epic-games-store-1781990551635.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T20:02:56.239929+00:00"
+    },
+    {
+      "fingerprint": "a94516b91e01041ab2122506",
+      "title": "Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft",
+      "url": "https://ign.com/articles/former-xbox-coo-helen-chiang-speaks-out-following-shock-exit-from-microsoft",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T19:29:45+00:00",
+      "score": 11,
+      "event_key": "Helen Chiang leaves Xbox COO role and denies exit rumors",
+      "title_ru": "Бывший операционный директор Xbox Helen Chiang прокомментировала свой уход из Microsoft",
+      "threads_teaser_ru": "Helen Chiang, проработавшая в Xbox 21 год, впервые высказалась после внезапного увольнения с поста операционного директора. Она опровергла слухи о нарушениях политики компании, назвав их неточными, и заявила о серьезных вопросах к тому, как Microsoft применяет свои внутренние стандарты.",
+      "telegram_message_id": "2067",
+      "telegram_url": "https://t.me/gamepulse_newss/2067",
+      "telegram_published_at": "2026-11-02T20:32:49.451076+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-02T20:02:56.240054+00:00"
+  "updated_at": "2026-11-02T20:32:49.451343+00:00"
 }
