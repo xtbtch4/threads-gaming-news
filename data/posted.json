@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4caa4a541d6b6454245ae569",
-      "title": "Insomniac Finally Lets Players Toggle Wolverine's Story-Related Scent Trails on and Off With a 'Hint' Button",
-      "url": "https://ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off",
-      "source": "IGN",
-      "published_at_source": "2026-10-06T22:07:53+00:00",
-      "score": 7,
-      "event_key": "insomniac adds scent trails toggle in marvels wolverine update",
-      "title_ru": "Insomniac добавила в Marvel’s Wolverine отключение сюжетных следов запаха",
-      "threads_teaser_ru": "Студия Insomniac выпустила обновление для Marvel’s Wolverine, которое позволяет игрокам отключать сюжетные следы запаха с помощью специальной кнопки на контроллере.",
-      "telegram_message_id": "853",
-      "telegram_url": "https://t.me/gamepulse_newss/853",
-      "telegram_published_at": "2026-10-07T00:47:38.436630+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/08/wolverinethumb-1788880705929.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T00:47:39.689175+00:00"
-    },
-    {
       "fingerprint": "66ec777868a8bc5030118b32",
       "title": "Nintendo's New Zelda Switch 2 Hardware Officially Arrives This Month",
       "url": "https://polygon.com/legend-of-zelda-ocarina-remake-new-nintendo-switch-2-hardware",
@@ -20508,7 +20491,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-02T12:32:26.448828+00:00"
+    },
+    {
+      "fingerprint": "1a5960c8f997fa702e1ba90e",
+      "title": "Gang Of Dragon Won’t Be The First Game From Nagoshi Studio. It Won’t Be Any Game At All",
+      "url": "https://gamespot.com/articles/gang-of-dragon-wont-be-the-first-game-from-nagoshi-studio-it-wont-be-any-game-at-all",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-02T13:15:03+00:00",
+      "score": 15,
+      "event_key": "nagoshi studio dissolved before releasing first game",
+      "title_ru": "Nagoshi Studio закрылась до выпуска первой игры",
+      "threads_teaser_ru": "Студия Тосиро Нагоси закрылась, так и не выпустив ни одной игры. Коллектив работал над Gang of Dragon, но NetEase прекратила финансирование проекта после сообщений о потребности в дополнительных средствах.",
+      "telegram_message_id": "2054",
+      "telegram_url": "https://t.me/gamepulse_newss/2054",
+      "telegram_published_at": "2026-11-02T13:32:32.066115+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Gang-of-Dragon.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-02T12:32:26.448915+00:00"
+  "updated_at": "2026-11-02T13:32:32.066375+00:00"
 }
