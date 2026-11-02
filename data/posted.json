@@ -20507,10 +20507,11 @@
       "telegram_message_id": "2074",
       "telegram_url": "https://t.me/gamepulse_newss/2074",
       "telegram_published_at": "2026-11-02T22:31:50.397524+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dead-by-daylight-jason.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/05/dbd_sushi_killer_official_trailer_vf_social_1920x1080_esrb-1779807852.mp4"
+      "video_url": "https://video.polygonimages.com/2026/05/dbd_sushi_killer_official_trailer_vf_social_1920x1080_esrb-1779807852.mp4",
+      "threads_published_at": "2026-11-02T22:31:51.666223+00:00"
     }
   ],
-  "updated_at": "2026-11-02T22:31:50.397806+00:00"
+  "updated_at": "2026-11-02T22:31:51.666319+00:00"
 }
