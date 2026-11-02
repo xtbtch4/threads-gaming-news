@@ -20506,9 +20506,10 @@
       "telegram_message_id": "2064",
       "telegram_url": "https://t.me/gamepulse_newss/2064",
       "telegram_published_at": "2026-11-02T18:47:05.133299+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-02T18:47:06.716745+00:00"
     }
   ],
-  "updated_at": "2026-11-02T18:47:05.133670+00:00"
+  "updated_at": "2026-11-02T18:47:06.716841+00:00"
 }
