@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bd9b7df530561b1803b5d2f0",
-      "title": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people",
-      "url": "https://eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-07T11:35:58+00:00",
-      "score": 11,
-      "event_key": "aion 2 character creator and customisation features",
-      "title_ru": "Редактор персонажей в Aion 2",
-      "threads_teaser_ru": "Гибкий редактор персонажей в Aion 2 позволяет создавать не только классических героев, но и весьма необычных персонажей, чья нестандартная внешность комично контрастирует с серьезным сюжетом игры.",
-      "telegram_message_id": "875",
-      "telegram_url": "https://t.me/gamepulse_newss/875",
-      "telegram_published_at": "2026-10-07T11:46:53.906028+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/aion-2-character-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T11:46:55.179860+00:00"
-    },
-    {
       "fingerprint": "b475dc22366aeb8c6a158ad9",
       "title": "Skydance Is Merging Paramount And Warner Bros.’ Game Studios Into One Unit",
       "url": "https://gamespot.com/articles/skydance-is-merging-paramount-and-warner-bros-game-studios-into-one-unit",
@@ -20511,7 +20494,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Stellar-Blade_robotic-old-man.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-02T22:47:26.287051+00:00"
+    },
+    {
+      "fingerprint": "f6e556d146d7aac4147b11fc",
+      "title": "Nintendo Officially Comments on Zelda Remake's Divisive Graphics",
+      "url": "https://polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets",
+      "source": "Polygon",
+      "published_at_source": "2026-11-02T22:51:32+00:00",
+      "score": 10,
+      "event_key": "nintendo_explains_zelda_ocarina_of_time_remake_art_style",
+      "title_ru": "Nintendo объяснила спорный визуальный стиль ремейка The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Nintendo рассказала, почему персонажи в ремейке The Legend of Zelda: Ocarina of Time для Switch 2 похожи на марионеток. Разработчики объяснили выбор такого стиля.",
+      "telegram_message_id": "2076",
+      "telegram_url": "https://t.me/gamepulse_newss/2076",
+      "telegram_published_at": "2026-11-02T23:02:58.249422+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-oot-remake.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
     }
   ],
-  "updated_at": "2026-11-02T22:47:26.287137+00:00"
+  "updated_at": "2026-11-02T23:02:58.249660+00:00"
 }
