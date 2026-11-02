@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "33081eef90fb17a6817f3ae8",
-      "title": "7 Hilarious Far Side Comics About Music",
-      "url": "https://polygon.com/far-side-comics-music-references",
-      "source": "Polygon",
-      "published_at_source": "2026-10-07T08:00:17+00:00",
-      "score": 6,
-      "event_key": "polygon analyzes musical references in the far side comics",
-      "title_ru": "Polygon разобрал музыкальные отсылки в комиксах The Far Side",
-      "threads_teaser_ru": "Издание Polygon вспомнило музыкальные шутки из комиксов The Far Side автора Гэри Ларсона. Разбор объясняет устаревшие отсылки на хиты прошлых лет и известных исполнителей.",
-      "telegram_message_id": "864",
-      "telegram_url": "https://t.me/gamepulse_newss/864",
-      "telegram_published_at": "2026-10-07T08:02:17.323910+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-06-at-1-15-18-pm.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-07T08:02:18.685759+00:00"
-    },
-    {
       "fingerprint": "f20c7da55b9dd45f72caa5e7",
       "title": "Footage From Canceled Perfect Dark Reboot Surfaces, Showing Off Fruit Physics and Parkour",
       "url": "https://ign.com/articles/perfect-dark-reboot-footage-leak",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-02T18:47:06.716745+00:00"
+    },
+    {
+      "fingerprint": "1b6673194f15d3dc5026a2f4",
+      "title": "Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
+      "url": "https://ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T18:31:12+00:00",
+      "score": 11,
+      "event_key": "gearbox requests community feedback for future of borderlands franchise",
+      "title_ru": "Gearbox просит фанатов помочь с развитием франшизы Borderlands",
+      "threads_teaser_ru": "Gearbox начала собирать отзывы фанатов, чтобы определить вектор развития вселенной Borderlands. Пока студия готовится к новым сюжетным аркам и контенту для Borderlands 4, компания просит игроков активнее делиться мнением о том, кого из героев они хотят видеть в будущих историях.",
+      "telegram_message_id": "2065",
+      "telegram_url": "https://t.me/gamepulse_newss/2065",
+      "telegram_published_at": "2026-11-02T19:03:21.502353+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/10/10/bl-1760094487387.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-02T18:47:06.716841+00:00"
+  "updated_at": "2026-11-02T19:03:21.502683+00:00"
 }
