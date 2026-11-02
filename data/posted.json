@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8ebeac0de499889411dd0cff",
-      "title": "Xbox Official Clears Up Grand Theft Auto 6 PC Rumors",
-      "url": "https://polygon.com/grand-theft-auto-gta-6-xbox-pc-streaming-rights",
-      "source": "Polygon",
-      "published_at_source": "2026-10-07T09:57:09+00:00",
-      "score": 14,
-      "event_key": "xbox-official-denies-gta-6-pc-streaming-rumors",
-      "title_ru": "Xbox опроверг слухи о стриминге Grand Theft Auto 6 на PC",
-      "threads_teaser_ru": "Ранее появились слухи, что ПК-игроки смогут запустить Grand Theft Auto 6 через Xbox Cloud Gaming на релизе. Представитель Xbox опроверг эту информацию.",
-      "telegram_message_id": "868",
-      "telegram_url": "https://t.me/gamepulse_newss/868",
-      "telegram_published_at": "2026-10-07T10:02:27.404287+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jason_duval_01-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-07T10:02:28.752458+00:00"
-    },
-    {
       "fingerprint": "b313fd08face9589e85a384c",
       "title": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\"",
       "url": "https://eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://drop-assets.ea.com/images/1GGUFT3XR2YDy01WfHs99i/57592df59098bdeaa623966a97fcac62/EACOM_News_Accessible-Games-Initiative-Tags-Article_Featured-Image_16x9.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
       "threads_published_at": "2026-11-02T20:48:51.727875+00:00"
+    },
+    {
+      "fingerprint": "fffc04e6774ea3524e83d030",
+      "title": "Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director",
+      "url": "https://ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T20:06:39+00:00",
+      "score": 11,
+      "event_key": "Alien: Isolation 2 details and new protagonist reveal",
+      "title_ru": "Alien: Isolation 2 останется верна жанру survival horror",
+      "threads_teaser_ru": "Стали известны подробности Alien: Isolation 2, которая выйдет в 2027 году. Разработчики подтвердили, что игра останется верна жанру survival horror, а вместо Amanda Ripley игроки возьмут на себя роль сотрудницы Weyland-Yutani по имени Blake.",
+      "telegram_message_id": "2069",
+      "telegram_url": "https://t.me/gamepulse_newss/2069",
+      "telegram_published_at": "2026-11-02T21:02:56.722332+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/05/alienisolation-thumb-1780701533804.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-02T20:48:51.727985+00:00"
+  "updated_at": "2026-11-02T21:02:56.722717+00:00"
 }
