@@ -20505,9 +20505,10 @@
       "telegram_message_id": "2053",
       "telegram_url": "https://t.me/gamepulse_newss/2053",
       "telegram_published_at": "2026-11-02T12:32:25.050902+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-02T12:32:26.448828+00:00"
     }
   ],
-  "updated_at": "2026-11-02T12:32:25.051009+00:00"
+  "updated_at": "2026-11-02T12:32:26.448915+00:00"
 }
