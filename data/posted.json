@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f20c7da55b9dd45f72caa5e7",
-      "title": "Footage From Canceled Perfect Dark Reboot Surfaces, Showing Off Fruit Physics and Parkour",
-      "url": "https://ign.com/articles/perfect-dark-reboot-footage-leak",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T08:58:16+00:00",
-      "score": 15,
-      "event_key": "canceled perfect dark reboot footage leaks online",
-      "title_ru": "В сети появились кадры отмененного перезапуска Perfect Dark",
-      "threads_teaser_ru": "В сети опубликовали видеоматериалы отмененного перезапуска Perfect Dark от закрытой студии The Initiative. Ролик демонстрирует разрушаемое окружение, оружие и паркур.",
-      "telegram_message_id": "865",
-      "telegram_url": "https://t.me/gamepulse_newss/865",
-      "telegram_published_at": "2026-10-07T09:02:17.582523+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/06/09/pd-1717955017416.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T09:02:18.840994+00:00"
-    },
-    {
       "fingerprint": "a3acaa06a182c459ae02bd2f",
       "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
       "url": "https://gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/10/10/bl-1760094487387.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T19:03:23.004126+00:00"
+    },
+    {
+      "fingerprint": "235f28335d8be8bb73caefdb",
+      "title": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve",
+      "url": "https://ign.com/articles/no-amount-of-competition-will-ever-unseat-steam-former-epic-games-engineer-rails-against-valve",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T19:39:04+00:00",
+      "score": 13,
+      "event_key": "former epic games engineer rails against steam",
+      "title_ru": "Бывший инженер Epic Games высказался о доминировании Steam",
+      "threads_teaser_ru": "Бывший инженер Epic Games Киаран Ритчи заявил, что никакая конкуренция не сможет сместить Steam. По его словам, пользователи привыкли держать всю библиотеку в одном месте и враждебны к другим магазинам.",
+      "telegram_message_id": "2066",
+      "telegram_url": "https://t.me/gamepulse_newss/2066",
+      "telegram_published_at": "2026-11-02T20:02:54.806789+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/20/epic-games-store-1781990551635.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-02T19:03:23.004210+00:00"
+  "updated_at": "2026-11-02T20:02:54.807133+00:00"
 }
