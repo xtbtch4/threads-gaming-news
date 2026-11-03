@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a5da84db1e9e274497df4cac",
-      "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
-      "url": "https://eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-07T19:24:25+00:00",
-      "score": 11,
-      "event_key": "bit reactor brings back furloughed star wars zero company developers",
-      "title_ru": "Bit Reactor возвращает сотрудников Star Wars: Zero Company после вынужденного отпуска",
-      "threads_teaser_ru": "Создатели Star Wars: Zero Company из студии Bit Reactor начали возвращать на работу сотрудников, отправленных в неоплачиваемый отпуск перед самым релизом игры. Сколько именно специалистов уже вернулось?",
-      "telegram_message_id": "898",
-      "telegram_url": "https://t.me/gamepulse_newss/898",
-      "telegram_published_at": "2026-10-07T19:32:27.866090+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T19:32:29.271988+00:00"
-    },
-    {
       "fingerprint": "d94e1bfa2689e1a95c1c85c4",
       "title": "Today Only: Save Over 50% Off a 2TB Internal SSD for Steam Deck or ROG Ally",
       "url": "https://ign.com/articles/wd-black-2tb-internal-ssd-for-steam-deck-or-rog-ally-deal-october-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/01/dragon-ball-daima-finale-goku-vegeta.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-03T11:02:25.242730+00:00"
+    },
+    {
+      "fingerprint": "e79863f816e3ab979e25335e",
+      "title": "PlayStation Store’s Black Friday Deals 2026",
+      "url": "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-11-03T11:00:10+00:00",
+      "score": 8,
+      "event_key": "playstation store black friday deals 2026 announcement",
+      "title_ru": "В PlayStation Store стартует ранняя распродажа Black Friday",
+      "threads_teaser_ru": "В PlayStation Store скоро стартует ранняя распродажа Black Friday. Скидки до 75% будут действовать на тысячи игр и дополнений для PS5, PS4 и PS VR2 начиная с 4 ноября. Распродажа продлится почти месяц, до 30 ноября.",
+      "telegram_message_id": "2099",
+      "telegram_url": "https://t.me/gamepulse_newss/2099",
+      "telegram_published_at": "2026-11-03T11:17:03.421196+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/11/62bd61203b9e44f88de85cba81f10904e5757ed4.jpg"
     }
   ],
-  "updated_at": "2026-11-03T11:02:25.242820+00:00"
+  "updated_at": "2026-11-03T11:17:03.421479+00:00"
 }
