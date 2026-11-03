@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "32ef3de283fb821288a490d3",
-      "title": "Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards",
-      "url": "https://ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T02:36:46+00:00",
-      "score": 9,
-      "event_key": "Mixtape wins Game of the Year at 2026 AGDAs",
-      "title_ru": "Mixtape стала игрой года на 2026 Australian Game Developer Awards",
-      "threads_teaser_ru": "На 2026 Australian Game Developer Awards главную награду забрала Mixtape. Проект студии Beethoven & Dinosaur также отметил победы в визуальном и звуковом оформлении. Рассказываем, кто еще из разработчиков стал лауреатом премии в этом году.",
-      "telegram_message_id": "920",
-      "telegram_url": "https://t.me/gamepulse_newss/920",
-      "telegram_published_at": "2026-10-08T03:02:55.187522+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/02/10/mixtape-blogroll-1770745439058.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T03:02:56.516001+00:00"
-    },
-    {
       "fingerprint": "a25a4c39aa8437c79aa5a5cf",
       "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
       "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Halo3.jpg?w=300",
       "threads_published_at": "2026-11-03T16:46:47.977156+00:00"
+    },
+    {
+      "fingerprint": "8727d20a7b29e42f4d62b57b",
+      "title": "An Alligator Swallowed an XBOX Series X – You Can Win It",
+      "url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-03T17:00:00+00:00",
+      "score": 12,
+      "event_key": "Xbox Series X-BITE console sweepstakes announcement",
+      "title_ru": "Xbox разыгрывает уникальную консоль Xbox Series X в виде аллигатора",
+      "threads_teaser_ru": "Xbox представила уникальную консоль Xbox Series X-BITE: рабочее устройство, «проглоченное» пятифутовым аллигатором. Над созданием кастомного корпуса работали эксперты из John Nolan Studio. Узнайте, как получить этот единственный в своем роде экземпляр.",
+      "telegram_message_id": "2120",
+      "telegram_url": "https://t.me/gamepulse_newss/2120",
+      "telegram_published_at": "2026-11-03T17:18:56.606722+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Introducing_XBOX_Series_16x9_NO_TEXT-cd8b848ba743a5977563.jpg"
     }
   ],
-  "updated_at": "2026-11-03T16:46:47.977242+00:00"
+  "updated_at": "2026-11-03T17:18:56.606981+00:00"
 }
