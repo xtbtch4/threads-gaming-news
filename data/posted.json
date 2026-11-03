@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b375ff420cef00d8e9f79ef3",
-      "title": "WoW: Forever Players Love It When Things Look Old",
-      "url": "https://gamespot.com/articles/wow-forever-players-love-it-when-things-look-old",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T17:42:30+00:00",
-      "score": 11,
-      "event_key": "world of warcraft forever beta visual style feedback",
-      "title_ru": "Игроки World of Warcraft: Forever выступают за классический визуальный стиль",
-      "threads_teaser_ru": "Участники бета-тестирования World of Warcraft: Forever выступают против современной графики и требуют сохранить старый визуальный стиль игры.",
-      "telegram_message_id": "903",
-      "telegram_url": "https://t.me/gamepulse_newss/903",
-      "telegram_published_at": "2026-10-07T20:47:05.316537+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Older-Is-Better.jpg?w=300",
-      "threads_published_at": "2026-10-07T20:47:06.564752+00:00"
-    },
-    {
       "fingerprint": "808c394c4a51622a8a00f614",
       "title": "3 Stunning 25-Year-Old Pokémon Promo Cards Fetch Nearly $1.2 Million at Auction",
       "url": "https://polygon.com/pokemon-southern-islands-mew-togepi-marill-auction",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T12:32:25.241125+00:00"
+    },
+    {
+      "fingerprint": "d8848f06b444dc6fc2330bd6",
+      "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
+      "url": "https://ign.com/articles/friendslop-added-to-collins-dictionary",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T11:42:36+00:00",
+      "score": 9,
+      "event_key": "friendslop-added-to-collins-dictionary",
+      "title_ru": "Term Friendslop добавлен в Collins Dictionary",
+      "threads_teaser_ru": "Игровой термин friendslop официально пополнил словарный запас Collins Dictionary. Он описывает независимые бюджетные игры для совместной игры с друзьями.",
+      "telegram_message_id": "2104",
+      "telegram_url": "https://t.me/gamepulse_newss/2104",
+      "telegram_published_at": "2026-11-03T12:46:52.079381+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ss-84436aac3675c39a9e21a14a4a9a3a8a7d9dea26-1920x1080-1793706464744.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T12:32:25.241221+00:00"
+  "updated_at": "2026-11-03T12:46:52.079629+00:00"
 }
