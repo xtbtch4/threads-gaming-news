@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2130",
       "telegram_url": "https://t.me/gamepulse_newss/2130",
       "telegram_published_at": "2026-11-03T21:33:18.804872+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/skyfall-craig-dench-1280a-1793732387727.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/skyfall-craig-dench-1280a-1793732387727.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-03T21:33:20.398949+00:00"
     }
   ],
-  "updated_at": "2026-11-03T21:33:18.805193+00:00"
+  "updated_at": "2026-11-03T21:33:20.399048+00:00"
 }
