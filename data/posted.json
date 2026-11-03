@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a25a4c39aa8437c79aa5a5cf",
-      "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
-      "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-08T04:00:00+00:00",
-      "score": 14,
-      "event_key": "monster hunter stories 3 twisted reflection pc release date",
-      "title_ru": "Monster Hunter Stories 3: Twisted Reflection выйдет на PC в ноябре",
-      "threads_teaser_ru": "Ролевая игра Monster Hunter Stories 3: Twisted Reflection появится на XBOX on PC уже 18 ноября 2026 года с поддержкой Xbox Play Anywhere, объединяя сохранения на разных устройствах.",
-      "telegram_message_id": "921",
-      "telegram_url": "https://t.me/gamepulse_newss/921",
-      "telegram_published_at": "2026-10-08T04:02:17.726250+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/09/Monster-Hunter-Stories-2-a1ed36c359075af9c81b.jpg",
-      "threads_published_at": "2026-10-08T04:02:19.052526+00:00"
-    },
-    {
       "fingerprint": "e62908bad6e076394a5f1038",
       "title": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
       "url": "https://ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Introducing_XBOX_Series_16x9_NO_TEXT-cd8b848ba743a5977563.jpg",
       "threads_published_at": "2026-11-03T17:18:59.173103+00:00"
+    },
+    {
+      "fingerprint": "f9b73898dda9a212f4a94e6c",
+      "title": "Call of Duty: Warzone Season 1 – Everything You Need to Know",
+      "url": "https://news.xbox.com/en-us/2026/11/03/call-of-duty-warzone-season-1-everything-you-need-to-know",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-03T16:24:30+00:00",
+      "score": 12,
+      "event_key": "Call of Duty Warzone Season 1 content update details",
+      "title_ru": "Подробности первого сезона Call of Duty: Warzone",
+      "threads_teaser_ru": "Опубликованы подробности первого сезона Call of Duty: Warzone. Игрокам доступна информация о ключевых нововведениях и изменениях, которые ждут пользователей с запуском свежего контентного обновления.",
+      "telegram_message_id": "2121",
+      "telegram_url": "https://t.me/gamepulse_newss/2121",
+      "telegram_published_at": "2026-11-03T17:33:18.689926+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/MW4-SEASON-1-WARZONE-TOUT-2ec6911a32945e57df98.jpg"
     }
   ],
-  "updated_at": "2026-11-03T17:18:59.173194+00:00"
+  "updated_at": "2026-11-03T17:33:18.690227+00:00"
 }
