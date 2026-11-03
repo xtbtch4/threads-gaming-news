@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "02c19b92e931c5d224c648c2",
-      "title": "HBO’s Lanterns Just Revealed a Major Finale Detail",
-      "url": "https://polygon.com/lanterns-dc-hbo-season-2-john-stewart-dark-lantern",
-      "source": "Polygon",
-      "published_at_source": "2026-10-07T15:33:33+00:00",
-      "score": 12,
-      "event_key": "HBO Lanterns series Dark Lantern reveal John Stewart",
-      "title_ru": "HBO раскрыли название фонаря Джона Стюарта в сериале Lanterns",
-      "threads_teaser_ru": "Финал первого сезона сериала Lanterns раскрыл название нового фонаря Джона Стюарта — Dark Lantern. Этот предмет, выкованный Синестро с использованием силы страха, намекает на развитие персонажа в будущем, включая его появление в фильме Man of Tomorrow.",
-      "telegram_message_id": "884",
-      "telegram_url": "https://t.me/gamepulse_newss/884",
-      "telegram_published_at": "2026-10-07T15:48:55.784434+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lanterns-yellow-lantern.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-07T15:48:57.142286+00:00"
-    },
-    {
       "fingerprint": "ed731dd7c3a4a99a5cd3baed",
       "title": "Superhero Satire The Wrong Earth Takes on Absolute Batman in Absolutely the Wrong Earth - NYCC 2026",
       "url": "https://ign.com/articles/superhero-satire-the-wrong-earth-takes-on-absolute-batman-in-absolutely-the-wrong-earth-nycc-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gamescomasia-blogroll-1793660801334.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T01:32:51.851452+00:00"
+    },
+    {
+      "fingerprint": "73ace88b1aabcb972cd47e85",
+      "title": "Delve into \"a deep underground facility full of secrets and horrors\" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project",
+      "url": "https://rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-02T12:36:42+00:00",
+      "score": 8,
+      "event_key": "Fallout 4 Under The Stars quest mod release",
+      "title_ru": "Для Fallout 4 вышел квестовый мод Under The Stars",
+      "threads_teaser_ru": "Команда Commonwealth Story Expansion Project представила новый квестовый мод Under The Stars для Fallout 4. Он добавляет загадочный подземный бункер в локации Glowing Sea, где игроков ждут головоломки, новые предметы и тайны, связанные с инопланетной активностью.",
+      "telegram_message_id": "2085",
+      "telegram_url": "https://t.me/gamepulse_newss/2085",
+      "telegram_published_at": "2026-11-03T02:02:46.753168+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/fallout-4-quest-mod-under-the-stars-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T01:32:51.851563+00:00"
+  "updated_at": "2026-11-03T02:02:46.753572+00:00"
 }
