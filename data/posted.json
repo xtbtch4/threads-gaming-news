@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "99df588fd299c5db3e1a8e2e",
-      "title": "What time does the Arc Raiders 'Frozen Trail' update release in your time zone?",
-      "url": "https://polygon.com/arc-raiders-frozen-trail-release-time-edt-pdt",
-      "source": "Polygon",
-      "published_at_source": "2026-10-07T14:38:30+00:00",
-      "score": 10,
-      "event_key": "Arc Raiders Frozen Trail update release date",
-      "title_ru": "Анонсировано обновление «Frozen Trail» для Arc Raiders",
-      "threads_teaser_ru": "Arc Raiders получает крупнейшее обновление «Frozen Trail» уже 8 октября. В игру добавят новую карту Pendola Pass с зонами случайного лута, два рейдовых эндгейм-испытания и систему глубокой модификации оружия.",
-      "telegram_message_id": "881",
-      "telegram_url": "https://t.me/gamepulse_newss/881",
-      "telegram_published_at": "2026-10-07T14:49:40.312140+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/arc-raiders-frozen-trail-release-time-header.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-07T14:49:41.814108+00:00"
-    },
-    {
       "fingerprint": "43c7967346e496d2a43c1807",
       "title": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
       "url": "https://eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/avengers-doomsday-halloween-costume-easter-egg-1793660784689.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T00:47:18.448745+00:00"
+    },
+    {
+      "fingerprint": "0c3c3eed3e1e63e9e5b55ef6",
+      "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+      "url": "https://ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T00:44:36+00:00",
+      "score": 11,
+      "event_key": "american gamers survey about gta 6 early access",
+      "title_ru": "Опрос показал, на что готовы фанаты ради раннего доступа к GTA 6",
+      "threads_teaser_ru": "Новый опрос американских геймеров показал, что ради раннего доступа к GTA 6 часть фанатов готова временно расстаться с домашними питомцами или отказаться от интимной жизни. Узнайте детали исследования накануне релиза игры.",
+      "telegram_message_id": "2082",
+      "telegram_url": "https://t.me/gamepulse_newss/2082",
+      "telegram_published_at": "2026-11-03T01:03:01.176566+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/gta-6-fan-survey-shows-players-would-give-up-pets-1793666495225.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T00:47:18.448836+00:00"
+  "updated_at": "2026-11-03T01:03:01.176847+00:00"
 }
