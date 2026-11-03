@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2131",
       "telegram_url": "https://t.me/gamepulse_newss/2131",
       "telegram_published_at": "2026-11-03T21:48:18.655686+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-03T21:48:26.395362+00:00"
     }
   ],
-  "updated_at": "2026-11-03T21:48:18.656018+00:00"
+  "updated_at": "2026-11-03T21:48:26.395455+00:00"
 }
