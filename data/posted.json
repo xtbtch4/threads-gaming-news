@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "42f9796d9202db716ad47815",
-      "title": "12 Years Later, Canceled Kojima Game 'P.T.' Makes A Comeback",
-      "url": "https://polygon.com/ps4-horror-game-pt-hideo-kojima-silent-hills-playable-teaser",
-      "source": "Polygon",
-      "published_at_source": "2026-10-07T16:57:24+00:00",
-      "score": 14,
-      "event_key": "pt_pc_port_released_after_twelve_years",
-      "title_ru": "Отмененный хоррор P.T. вернулся на ПК спустя 12 лет",
-      "threads_teaser_ru": "Культовый хоррор P.T. от Хидео Кодзимы вернулся благодаря энтузиастам: проект получил неофициальный порт для ПК с поддержкой высоких разрешений, мыши и клавиатуры.",
-      "telegram_message_id": "889",
-      "telegram_url": "https://t.me/gamepulse_newss/889",
-      "telegram_published_at": "2026-10-07T17:04:31.174161+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2871476/5dfnrgV_-_Imgur.0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/hideo-kojima-reveals-lead-cast-member-for-physint-xbox-1080p-1789657089.mp4",
-      "threads_published_at": "2026-10-07T17:04:32.859336+00:00"
-    },
-    {
       "fingerprint": "f5ec451c0c6d0ac8d6234421",
       "title": "Phoenix Cyclops joins MARVEL Tōkon: Fighting Souls on November 2",
       "url": "https://blog.playstation.com/2026/10/07/phoenix-cyclops-joins-marvel-tokon-fighting-souls-on-november-2",
@@ -20512,7 +20494,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25152206/OD___TGA_2023_Teaser_Trailer____ESRB__4K_1_4_screenshot.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/06/od-knock-teaser-trailer-esrb-4k-1782230814.mp4",
       "threads_published_at": "2026-11-03T03:47:56.263052+00:00"
+    },
+    {
+      "fingerprint": "a41ca390e0496e776ecf6000",
+      "title": "Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech",
+      "url": "https://rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-02T17:30:00+00:00",
+      "score": 7,
+      "event_key": "announcement of simulator game Bay 12: Mech Repair",
+      "title_ru": "Анонсирован симулятор ремонта роботов Bay 12: Mech Repair",
+      "threads_teaser_ru": "В сети представили Bay 12: Mech Repair — симулятор механика, где нужно чинить боевых роботов прямо во время войны. Игрокам предстоит не только возиться с «железными гигантами», но и учитывать отчеты пилотов, а также решать, куда потратить заработанные кредиты — на инструменты или покраску.",
+      "telegram_message_id": "2090",
+      "telegram_url": "https://t.me/gamepulse_newss/2090",
+      "telegram_published_at": "2026-11-03T04:02:48.297515+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Bay-12-Mech-Repair.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T03:47:56.263155+00:00"
+  "updated_at": "2026-11-03T04:02:48.297871+00:00"
 }
