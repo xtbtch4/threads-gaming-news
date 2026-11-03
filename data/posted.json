@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c57061429716657cdc86f334",
-      "title": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls",
-      "url": "https://rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-07T16:10:14+00:00",
-      "score": 7,
-      "event_key": "Screamer single stick drift controls patch release",
-      "title_ru": "В Screamer добавили возможность управления заносом одним стиком",
-      "threads_teaser_ru": "В аркадную гонку Screamer добавили долгожданную опцию: теперь дрифтовать можно одним стиком, а не двумя. Разработчики из Milestone пошли навстречу игрокам, которым было сложно привыкнуть к необычному управлению, хотя и рекомендуют оригинальную схему.",
-      "telegram_message_id": "915",
-      "telegram_url": "https://t.me/gamepulse_newss/915",
-      "telegram_published_at": "2026-10-07T23:47:01.989848+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/screamer-single-stick-drift-control-update-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T23:47:03.234906+00:00"
-    },
-    {
       "fingerprint": "7f4921aba2a17ddfcb93ea68",
       "title": "Dragon's Dogma 2: Dark Arisen Review",
       "url": "https://ign.com/articles/dragons-dogma-2-dark-arisen-review",
@@ -20510,7 +20493,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-pre-load.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T15:33:17.099430+00:00"
+    },
+    {
+      "fingerprint": "97ae223e337ed5ccdf44e383",
+      "title": "'GTA 6' Early Preload Times And File Size Confirmed By Rockstar",
+      "url": "https://polygon.com/gta-6-preload-when-is-ps5-xbox-times-file-size-gb-poster-map-rockstar",
+      "source": "Polygon",
+      "published_at_source": "2026-11-03T15:42:56+00:00",
+      "score": 14,
+      "event_key": "GTA 6 preload times and file size confirmed",
+      "title_ru": "Rockstar Games раскрыла детали предзагрузки и размер GTA 6",
+      "threads_teaser_ru": "Стали известны сроки предзагрузки GTA 6 для PlayStation 5 и Xbox. Приготовьтесь освободить место: размер файлов игры составит не менее 212 ГБ. Также Rockstar рассказала, когда в продажу поступят розничные издания и появятся дополнительные материалы по игре.",
+      "telegram_message_id": "2115",
+      "telegram_url": "https://t.me/gamepulse_newss/2115",
+      "telegram_published_at": "2026-11-03T15:48:37.534399+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-18.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4"
     }
   ],
-  "updated_at": "2026-11-03T15:33:17.099516+00:00"
+  "updated_at": "2026-11-03T15:48:37.534750+00:00"
 }
