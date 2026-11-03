@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1b0b478a098d961be421e2ad",
-      "title": "Disney Lorcana TCG’s Hyperia City Expansion: First Hands-On Impressions",
-      "url": "https://ign.com/articles/disney-lorcana-tcgs-hyperia-city-expansion-first-hands-on-impressions",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T12:00:00+00:00",
-      "score": 8,
-      "event_key": "Disney Lorcana TCG Hyperia City expansion release details",
-      "title_ru": "Disney Lorcana TCG анонсировала четырнадцатый набор Hyperia City",
-      "threads_teaser_ru": "Disney Lorcana TCG готовит четырнадцатое расширение Hyperia City с новой механикой «ink drops» — плавающей маной. В набор войдут персонажи из Coco, Big Hero 6 и The Sword and the Stone, а также новые стартовые колоды. Релиз состоится 23 октября.",
-      "telegram_message_id": "878",
-      "telegram_url": "https://t.me/gamepulse_newss/878",
-      "telegram_published_at": "2026-10-07T13:18:00.848995+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/06/dlorhyper-preview-1791323043343.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T13:18:02.254885+00:00"
-    },
-    {
       "fingerprint": "94d420bf5cc386a867e37a0d",
       "title": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
       "url": "https://eurogamer.net/forza-horizon-6-release-date-leak-2027",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gta-6-carjack-1793660725979.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-02T23:32:23.376555+00:00"
+    },
+    {
+      "fingerprint": "c5d592ba4787802287be896b",
+      "title": "Save 10% Off the SCUF Omega Wireless TMR PlayStation 5 Controller Ahead of Black Friday",
+      "url": "https://ign.com/articles/scuf-omega-wireless-tmr-playstation-5-controller-is-on-sale-ahead-of-black-friday",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T23:05:00+00:00",
+      "score": 11,
+      "event_key": "scuf-omega-wireless-tmr-controller-black-friday-sale",
+      "title_ru": "Скидка на SCUF Omega Wireless TMR PlayStation 5 Controller в преддверии Black Friday",
+      "threads_teaser_ru": "Контроллер SCUF Omega Wireless TMR для PlayStation 5 и PC получил скидку перед Black Friday. Устройство оснащено TMR-сенсорами, механическими переключателями и дополнительными кнопками.",
+      "telegram_message_id": "2079",
+      "telegram_url": "https://t.me/gamepulse_newss/2079",
+      "telegram_published_at": "2026-11-03T00:02:50.294654+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/scufomega2-1793659049352.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-02T23:32:23.376643+00:00"
+  "updated_at": "2026-11-03T00:02:50.295047+00:00"
 }
