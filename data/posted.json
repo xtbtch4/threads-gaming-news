@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c9abce34ae80924bd9bf1d5",
-      "title": "IGN Fan Fest 2026: Fall Edition – How to Watch and What to Expect",
-      "url": "https://ign.com/articles/ign-fan-fest-2026-fall-edition-how-to-watch-and-what-to-expect",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T21:15:00+00:00",
-      "score": 8,
-      "event_key": "ign-fan-fest-2026-fall-edition-announcements-livestream",
-      "title_ru": "IGN Fan Fest 2026: Fall Edition: что ждет зрителей и где смотреть",
-      "threads_teaser_ru": "Стали известны подробности о трансляции и программе IGN Fan Fest 2026: Fall Edition. Шоу предложит более 90 эксклюзивных анонсов, включая новые материалы по Cyberpunk Edgerunners 2 и Tom Clancy's Rainbow Six Siege.",
-      "telegram_message_id": "908",
-      "telegram_url": "https://t.me/gamepulse_newss/908",
-      "telegram_published_at": "2026-10-07T22:02:28.966383+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/ign-fan-fest-fall-2026-blogroll-1791389532983.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T22:02:30.423516+00:00"
-    },
-    {
       "fingerprint": "fcd5893af3c5581263f29fe9",
       "title": "Should You Play Dragon’s Dogma 2 On Switch 2?",
       "url": "https://gamespot.com/videos/should-you-play-dragons-dogma-2-on-switch-2",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/TSS-16x9-1-1c3d019ec1451bbbab97.jpg",
       "threads_published_at": "2026-11-03T14:03:27.308411+00:00"
+    },
+    {
+      "fingerprint": "6398010bc5a3bb6e61086795",
+      "title": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
+      "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-11-03T14:00:04+00:00",
+      "score": 14,
+      "event_key": "sonic_racing_crossworlds_year_two_launch",
+      "title_ru": "Начался второй год поддержки Sonic Racing: CrossWorlds",
+      "threads_teaser_ru": "Для Sonic Racing: CrossWorlds стартовал второй год поддержки с новым режимом Duel Mode, гаджетами и механикой Super Slot. Также в игре появился набор машин в стиле классических консолей Sega.",
+      "telegram_message_id": "2109",
+      "telegram_url": "https://t.me/gamepulse_newss/2109",
+      "telegram_published_at": "2026-11-03T14:17:21.264626+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/11/d64c152c35c72a8ada76e69f37d3e19546321f3c.jpg"
     }
   ],
-  "updated_at": "2026-11-03T14:03:27.308507+00:00"
+  "updated_at": "2026-11-03T14:17:21.265079+00:00"
 }
