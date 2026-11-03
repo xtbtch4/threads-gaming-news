@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "807d1c184c44504fe9be0138",
-      "title": "What’s Next For Halo Under Activision? Probably Not The Endless",
-      "url": "https://gamespot.com/articles/whats-next-for-halo-under-activision-probably-not-the-endless",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T18:54:45+00:00",
-      "score": 15,
-      "event_key": "halo-endless-revealed-activision-takeover-halostudios-layoffs",
-      "title_ru": "Будущее Halo под управлением Activision и судьба фракции The Endless",
-      "threads_teaser_ru": "В прощальном выпуске блога Canon Fodder от Halo Studios впервые показали новую инопланетную расу The Endless. Что ждет франшизу под управлением Activision и почему наработки студии могут отправить в стол?",
-      "telegram_message_id": "897",
-      "telegram_url": "https://t.me/gamepulse_newss/897",
-      "telegram_published_at": "2026-10-07T19:02:20.403792+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Halo-Endless-Revealed.jpg?w=300",
-      "threads_published_at": "2026-10-07T19:02:21.874322+00:00"
-    },
-    {
       "fingerprint": "a5da84db1e9e274497df4cac",
       "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
       "url": "https://eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T10:47:15.554833+00:00"
+    },
+    {
+      "fingerprint": "a691e241db9bacef68ca7bae",
+      "title": "Dragon Ball Manga Return Hopes Officially Dashed by Shueisha",
+      "url": "https://polygon.com/dragon-ball-super-jump-festa-manga-return",
+      "source": "Polygon",
+      "published_at_source": "2026-11-03T10:29:00+00:00",
+      "score": 8,
+      "event_key": "dragon ball super absent from jump festa 2027",
+      "title_ru": "Shueisha исключила Dragon Ball Super из программы Jump Festa 2027",
+      "threads_teaser_ru": "Надежды на скорое возвращение манги Dragon Ball Super получили новый удар: Shueisha не включила проект в программу Jump Festa 2027.",
+      "telegram_message_id": "2098",
+      "telegram_url": "https://t.me/gamepulse_newss/2098",
+      "telegram_published_at": "2026-11-03T11:02:23.889045+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/01/dragon-ball-daima-finale-goku-vegeta.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-03T10:47:15.554910+00:00"
+  "updated_at": "2026-11-03T11:02:23.889187+00:00"
 }
