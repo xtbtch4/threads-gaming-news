@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2122",
       "telegram_url": "https://t.me/gamepulse_newss/2122",
       "telegram_published_at": "2026-11-03T17:47:49.608131+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nicklelodeon-2016-Kids-Choice-Awards.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nicklelodeon-2016-Kids-Choice-Awards.jpg?w=300",
+      "threads_published_at": "2026-11-03T17:47:55.360015+00:00"
     }
   ],
-  "updated_at": "2026-11-03T17:47:49.608245+00:00"
+  "updated_at": "2026-11-03T17:47:55.360109+00:00"
 }
