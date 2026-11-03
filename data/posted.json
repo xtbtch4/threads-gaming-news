@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "347ba49ea94c0b6fe2962a18",
-      "title": "Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon",
-      "url": "https://ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T14:14:00+00:00",
-      "score": 8,
-      "event_key": "castlevania belmonts curse demo fighting game easter eggs",
-      "title_ru": "В демоверсии Castlevania: Belmont’s Curse нашли отсылки к файтингам",
-      "threads_teaser_ru": "В демоверсии Castlevania: Belmont’s Curse обнаружили пасхалки на культовые файтинги. Секретное оружие Cestus заставляет героиню принимать стойки, копирующие персонажей вроде Ryu и Chun-Li.",
-      "telegram_message_id": "907",
-      "telegram_url": "https://t.me/gamepulse_newss/907",
-      "telegram_published_at": "2026-10-07T21:47:11.788891+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/belmonts-curse-references-fighting-games-1791407357044.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T21:47:13.299091+00:00"
-    },
-    {
       "fingerprint": "3c9abce34ae80924bd9bf1d5",
       "title": "IGN Fan Fest 2026: Fall Edition – How to Watch and What to Expect",
       "url": "https://ign.com/articles/ign-fan-fest-2026-fall-edition-how-to-watch-and-what-to-expect",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2048/11/ab6dc40b57d6bea18ed9bc6a4a868ff247b4360f.jpg",
       "threads_published_at": "2026-11-03T13:32:38.564616+00:00"
+    },
+    {
+      "fingerprint": "1995ede8f7da8155f50aa77e",
+      "title": "The Silver Seas and How We “Ship” New Features for Age of Wonders 4",
+      "url": "https://news.xbox.com/en-us/2026/11/03/age-of-wonders-4-the-silver-seas",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-03T14:00:00+00:00",
+      "score": 12,
+      "event_key": "age of wonders 4 the silver seas release",
+      "title_ru": "Дополнение The Silver Seas для Age of Wonders 4",
+      "threads_teaser_ru": "Для Age of Wonders 4 вышло новое дополнение The Silver Seas, созданное с учетом пожеланий фанатов. В игре появились морские города, пиратские фракции, новые расы и водная магия.",
+      "telegram_message_id": "2108",
+      "telegram_url": "https://t.me/gamepulse_newss/2108",
+      "telegram_published_at": "2026-11-03T14:03:25.886653+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/TSS-16x9-1-1c3d019ec1451bbbab97.jpg"
     }
   ],
-  "updated_at": "2026-11-03T13:32:38.564709+00:00"
+  "updated_at": "2026-11-03T14:03:25.887079+00:00"
 }
