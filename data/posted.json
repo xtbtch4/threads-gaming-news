@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "43c7967346e496d2a43c1807",
-      "title": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
-      "url": "https://eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-07T13:56:05+00:00",
-      "score": 15,
-      "event_key": "undead labs split from xbox state of decay 3 development",
-      "title_ru": "Undead Labs рассказали о планах на State of Decay 3 после ухода из-под крыла Xbox",
-      "threads_teaser_ru": "Студия Undead Labs рассказала о процессе разработки State of Decay 3 после обретения независимости от Xbox. Команде пришлось внести корректировки из-за сокращений персонала, но выпуск игры в 2027 году остается в силе.",
-      "telegram_message_id": "882",
-      "telegram_url": "https://t.me/gamepulse_newss/882",
-      "telegram_published_at": "2026-10-07T15:04:40.531209+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/state-of-decay-3_awci8wM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T15:04:41.863910+00:00"
-    },
-    {
       "fingerprint": "5740fb3470fdc8a8437bcfa0",
       "title": "Indie Selects for October 2026: Discover and Progress Through Unforgettable Worlds",
       "url": "https://news.xbox.com/en-us/2026/10/07/indie-selects-october",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/gta-6-fan-survey-shows-players-would-give-up-pets-1793666495225.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T01:03:02.642406+00:00"
+    },
+    {
+      "fingerprint": "7a3be81f4d1adf2db7b59dcf",
+      "title": "COD Modern Warfare 4 has seemingly answered DMZ players' PvE calls with new Story Mission changes - but there are major caveats",
+      "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-02T16:19:40+00:00",
+      "score": 8,
+      "event_key": "Infinity Ward makes Call of Duty Modern Warfare 4 DMZ Story Missions private for solo players",
+      "title_ru": "Infinity Ward могла сделать сюжетные миссии DMZ в Call of Duty: Modern Warfare 4 приватными для одиночек",
+      "threads_teaser_ru": "В Call of Duty: Modern Warfare 4, похоже, частично исполнили просьбы игроков DMZ о PvE-режиме. Игроки заметили, что сюжетные миссии при первом прохождении стали приватными для одиночек, однако это изменение не было официально подтверждено разработчиками.",
+      "telegram_message_id": "2083",
+      "telegram_url": "https://t.me/gamepulse_newss/2083",
+      "telegram_published_at": "2026-11-03T01:17:35.753430+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T01:03:02.642496+00:00"
+  "updated_at": "2026-11-03T01:17:35.753806+00:00"
 }
