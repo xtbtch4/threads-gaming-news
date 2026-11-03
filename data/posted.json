@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f3bed50ae1dd28f5711196b2",
-      "title": "Tom Cruise’s Digger Reportedly Positioned to Lose $250 Million",
-      "url": "https://ign.com/articles/tom-cruises-digger-reportedly-positioned-to-lose-250-million",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T06:34:25+00:00",
-      "score": 7,
-      "event_key": "Digger film projected box office loss",
-      "title_ru": "Фильм Digger может принести убытки в размере 250 миллионов долларов",
-      "threads_teaser_ru": "Сатирический фильм Digger с Tom Cruise в главной роли рискует принести своим создателям убыток в 250 миллионов долларов. Несмотря на участие обладателя премии «Оскар» Alejandro G. Iñárritu, картина столкнулась со слабыми сборами и смешанными отзывами критиков.",
-      "telegram_message_id": "924",
-      "telegram_url": "https://t.me/gamepulse_newss/924",
-      "telegram_published_at": "2026-10-08T07:03:15.588285+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/09/diggerthumb-1788963055122.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T07:03:17.007926+00:00"
-    },
-    {
       "fingerprint": "eca8867b791d8e41b2c7d148",
       "title": "Jeremy Clarkson Will Return to His Automotive Roots for One-Off Special ‘Jeremy Grows a Car’",
       "url": "https://ign.com/articles/jeremy-clarkson-will-return-to-his-automotive-roots-for-one-off-special-jeremy-grows-a-car",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/frostpunk-2-the-surge.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T18:17:49.451123+00:00"
+    },
+    {
+      "fingerprint": "b97fcf6579df87b4dedf2204",
+      "title": "'Overwatch’s New Mythic Skin Shows Blizzard Is Finally Shaking Things Up",
+      "url": "https://polygon.com/overwatch-mid-season-update-stellar-blade-roadhog-mythic",
+      "source": "Polygon",
+      "published_at_source": "2026-11-03T19:05:17+00:00",
+      "score": 12,
+      "event_key": "Overwatch season 5 mid-season update Stellar Blade collaboration",
+      "title_ru": "Blizzard добавила коллаборацию со Stellar Blade и Mythic-облик для Roadhog в Overwatch",
+      "threads_teaser_ru": "В Overwatch стартовала коллаборация с Stellar Blade: в магазине появились пять тематических обликов, доступных до 17 ноября. Также в середине 5-го сезона Roadhog получил свой первый Mythic-облик Necrotic Knight, а в игровых механиках произошли важные изменения.",
+      "telegram_message_id": "2124",
+      "telegram_url": "https://t.me/gamepulse_newss/2124",
+      "telegram_published_at": "2026-11-03T19:18:13.982896+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/overwatch-season-5-midseason-update.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-03T18:17:49.451210+00:00"
+  "updated_at": "2026-11-03T19:18:13.983114+00:00"
 }
