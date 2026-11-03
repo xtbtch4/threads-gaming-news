@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dfaf18d0ed3eb42a0ba192cc",
-      "title": "Netflix Is About to Lose The Most Inventive Sci-Fi Thriller of the Decade",
-      "url": "https://polygon.com/a-quiet-place-part-ii-leaving-netflix-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-08T06:00:16+00:00",
-      "score": 8,
-      "event_key": "A Quiet Place Part II leaving Netflix October 2026",
-      "title_ru": "Фильм A Quiet Place Part II скоро покинет библиотеку Netflix",
-      "threads_teaser_ru": "Хоррор A Quiet Place Part II покидает библиотеку Netflix 11 октября. Фильм Джона Красински развивает историю семьи Эбботт, начатую в первой части, и раскрывает новые детали постапокалиптического мира. Успеть посмотреть ленту можно до указанной даты.",
-      "telegram_message_id": "923",
-      "telegram_url": "https://t.me/gamepulse_newss/923",
-      "telegram_published_at": "2026-10-08T06:03:44.140352+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdqupl_pa020_h.JPG?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/trailers/movies/1111.mp4",
-      "threads_published_at": "2026-10-08T06:03:45.628308+00:00"
-    },
-    {
       "fingerprint": "f3bed50ae1dd28f5711196b2",
       "title": "Tom Cruise’s Digger Reportedly Positioned to Lose $250 Million",
       "url": "https://ign.com/articles/tom-cruises-digger-reportedly-positioned-to-lose-250-million",
@@ -20511,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nicklelodeon-2016-Kids-Choice-Awards.jpg?w=300",
       "threads_published_at": "2026-11-03T17:47:55.360015+00:00"
+    },
+    {
+      "fingerprint": "d880a87ad42418ad0d8b2083",
+      "title": "Frostpunk 2's The Surge DLC keeps the wintery apocalypse and adds in faction-clash-inducing electricity and sets a seasonally appropriate December release date",
+      "url": "https://rockpapershotgun.com/frostpunk-2s-the-surge-dlc-keeps-the-wintery-apocalypse-and-adds-in-faction-clash-inducing-electricity-and-sets-a-seasonally-appropriate-december-release-date",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-03T18:00:00+00:00",
+      "score": 14,
+      "event_key": "Frostpunk 2 The Surge DLC announcement and release date",
+      "title_ru": "Анонсировано DLC The Surge для Frostpunk 2",
+      "threads_teaser_ru": "Для Frostpunk 2 анонсировано новое дополнение The Surge, которое добавит в игру электричество, новые конфликты фракций и реликтовый источник энергии от Николы Теслы. Релиз намечен на 14 декабря.",
+      "telegram_message_id": "2123",
+      "telegram_url": "https://t.me/gamepulse_newss/2123",
+      "telegram_published_at": "2026-11-03T18:17:36.936829+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/frostpunk-2-the-surge.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T17:47:55.360109+00:00"
+  "updated_at": "2026-11-03T18:17:36.937057+00:00"
 }
