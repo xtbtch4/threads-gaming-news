@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2092",
       "telegram_url": "https://t.me/gamepulse_newss/2092",
       "telegram_published_at": "2026-11-03T05:17:26.730264+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/16/residentevil-review-blogroll-1789573947783.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/16/residentevil-review-blogroll-1789573947783.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-03T05:17:28.224898+00:00"
     }
   ],
-  "updated_at": "2026-11-03T05:17:26.730579+00:00"
+  "updated_at": "2026-11-03T05:17:28.224998+00:00"
 }
