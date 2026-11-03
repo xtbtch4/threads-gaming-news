@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "47a4004810efeffee42ddf4a",
-      "title": "Save $150 Off the BowFlex SelectTech Adjustable Dumbbells for Prime Day",
-      "url": "https://ign.com/articles/bowflex-selecttech-adjustable-dumbbell-deal-amazon-october-prime-day-sale-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T21:10:00+00:00",
-      "score": 7,
-      "event_key": "bowflex-selecttech-adjustable-dumbbells-amazon-prime-day-sale",
-      "title_ru": "Скидка на Bowflex SelectTech Adjustable Dumbbells на Amazon Prime Day",
-      "threads_teaser_ru": "На Amazon Prime Day действует скидка 150 долларов на регулируемые гантели Bowflex Results Series SelectTech 552. Узнайте актуальную цену и особенности популярной модели для домашних тренировок.",
-      "telegram_message_id": "910",
-      "telegram_url": "https://t.me/gamepulse_newss/910",
-      "telegram_published_at": "2026-10-07T22:32:26.512384+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/bowflexresults-1791406891470.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T22:32:28.065908+00:00"
-    },
-    {
       "fingerprint": "0bc061c91c51e0d9579cd81f",
       "title": "Samuel L. Jackson Confirms Nick Fury Will Return in Avengers: Secret Wars",
       "url": "https://ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/z-odyssey-blogroll-1792000973337-1793713680717.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T14:32:32.232337+00:00"
+    },
+    {
+      "fingerprint": "535f76a743ce9873be48bb7c",
+      "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
+      "url": "https://ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T13:51:47+00:00",
+      "score": 9,
+      "event_key": "itch deletes terabytes of AI games and adds filter",
+      "title_ru": "Itch удалил терабайты контента сгенерированного нейросетями и добавил фильтр 'No AI'",
+      "threads_teaser_ru": "Инди-магазин видеоигр Itch удалил пару терабайтов контента, созданного с помощью генеративного ИИ, и добавил новый поисковый фильтр для скрытия таких проектов.",
+      "telegram_message_id": "2111",
+      "telegram_url": "https://t.me/gamepulse_newss/2111",
+      "telegram_published_at": "2026-11-03T14:47:36.167134+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/itch-1793713705342.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T14:32:32.232427+00:00"
+  "updated_at": "2026-11-03T14:47:36.167476+00:00"
 }
