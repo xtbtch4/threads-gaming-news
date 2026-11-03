@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2090",
       "telegram_url": "https://t.me/gamepulse_newss/2090",
       "telegram_published_at": "2026-11-03T04:02:48.297515+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Bay-12-Mech-Repair.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Bay-12-Mech-Repair.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-03T04:02:49.560956+00:00"
     }
   ],
-  "updated_at": "2026-11-03T04:02:48.297871+00:00"
+  "updated_at": "2026-11-03T04:02:49.561045+00:00"
 }
