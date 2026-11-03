@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ed731dd7c3a4a99a5cd3baed",
-      "title": "Superhero Satire The Wrong Earth Takes on Absolute Batman in Absolutely the Wrong Earth - NYCC 2026",
-      "url": "https://ign.com/articles/superhero-satire-the-wrong-earth-takes-on-absolute-batman-in-absolutely-the-wrong-earth-nycc-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T16:00:00+00:00",
-      "score": 13,
-      "event_key": "ahoy_comics_nycc_2026_announcements",
-      "title_ru": "Издательство AHOY Comics анонсировало новые комиксы на NYCC 2026",
-      "threads_teaser_ru": "Издательство AHOY Comics представило на NYCC 2026 новую линейку комиксов, включая пародию на Absolute Batman под названием Absolutely the Wrong Earth, которая появится в магазинах в апреле.",
-      "telegram_message_id": "885",
-      "telegram_url": "https://t.me/gamepulse_newss/885",
-      "telegram_published_at": "2026-10-07T16:02:46.255859+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/mixcollage-06-oct-2026-11-02-pm-6419-1791342133843.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T16:02:48.626603+00:00"
-    },
-    {
       "fingerprint": "3deef95625ecaaccbcdd09b2",
       "title": "Google Playground Wants Everyone To Make AI Games, And Maybe Everyone Shouldn’t",
       "url": "https://gamespot.com/articles/google-playground-wants-everyone-to-make-ai-games-and-maybe-everyone-shouldnt",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fallout-4-quest-mod-under-the-stars-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T02:02:48.048528+00:00"
+    },
+    {
+      "fingerprint": "a8f54130fd4e9c0896150bb8",
+      "title": "Skyblivion modders reveal a former volunteer is \"threatening to sue for damages upwards of €30,000\" over work on the unofficial Oblivion remake project",
+      "url": "https://rockpapershotgun.com/skyblivion-modders-reveal-a-former-volunteer-is-threatening-to-sue-for-damages-upwards-of-30000-over-work-on-the-unofficial-oblivion-remake-project",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-02T11:51:26+00:00",
+      "score": 8,
+      "event_key": "Skyblivion team faces legal threats from former volunteer",
+      "title_ru": "Разработчики модификации Skyblivion столкнулись с угрозами судебного иска",
+      "threads_teaser_ru": "Команда разработчиков Skyblivion сообщила об угрозах судебного иска от бывшего волонтера. Экс-участник проекта требует свыше 30 000 евро и раскрытия личных данных членов команды. Авторы уже удалили спорный контент из мода и ищут юристов для защиты.",
+      "telegram_message_id": "2086",
+      "telegram_url": "https://t.me/gamepulse_newss/2086",
+      "telegram_published_at": "2026-11-03T02:32:39.013052+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/skyblivion-oblivion-remake-mods-experienced-modders-request-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T02:02:48.048616+00:00"
+  "updated_at": "2026-11-03T02:32:39.013358+00:00"
 }
