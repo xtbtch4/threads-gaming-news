@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b1c0129bf3991cb8c2493110",
-      "title": "New Walmart promo is the safest way to buy 'Pokémon' 30th anniversary TCG on release day",
-      "url": "https://polygon.com/walmart-pokemon-30th-anniversary-tcg-card-release-raffle-drawing-when-what",
-      "source": "Polygon",
-      "published_at_source": "2026-10-07T18:12:11+00:00",
-      "score": 10,
-      "event_key": "Walmart raffle system for Pokemon 30th anniversary TCG",
-      "title_ru": "Walmart запустит розыгрыш наборов Pokémon 30th anniversary TCG",
-      "threads_teaser_ru": "Walmart меняет подход к продаже наборов Pokémon 30th anniversary: теперь их можно купить через систему розыгрышей. Рассказываем, когда стартует прием заявок и как работает новая механика, позволяющая избежать очередей за редким коллекционным товаром.",
-      "telegram_message_id": "895",
-      "telegram_url": "https://t.me/gamepulse_newss/895",
-      "telegram_published_at": "2026-10-07T18:33:54.780077+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-future-rare-mewtwo.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-07T18:33:56.515976+00:00"
-    },
-    {
       "fingerprint": "f5e64e5716e9efed197e7963",
       "title": "FBI Arrests 29-Year-Old Alabama Man After Epic Reported Fortnite Voice Chat Threats",
       "url": "https://ign.com/articles/fbi-arrests-29-year-old-alabama-man-after-epic-reported-fortnite-voice-chat-threats",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/itch-AI-filter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T10:17:11.012114+00:00"
+    },
+    {
+      "fingerprint": "43ef49e682812a173598e78e",
+      "title": "Nintendo declares November 1 \"Pikmin Day\" in recognition of all things Pikmin - News - Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/nintendo-declares-november-1-pikmin-day-in-recognition-of-all-things-pikmin",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-02T17:00:00+00:00",
+      "score": 13,
+      "event_key": "nintendo_declares_november_1_pikmin_day",
+      "title_ru": "Nintendo объявила 1 ноября официальным днем Pikmin",
+      "threads_teaser_ru": "Nintendo объявила 1 ноября официальным Pikmin Day и анонсировала игру Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy для Nintendo Switch 2 с поддержкой голосовых команд.",
+      "telegram_message_id": "2096",
+      "telegram_url": "https://t.me/gamepulse_newss/2096",
+      "telegram_published_at": "2026-11-03T10:32:30.647452+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-03T10:17:11.012210+00:00"
+  "updated_at": "2026-11-03T10:32:30.647956+00:00"
 }
