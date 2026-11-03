@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fcd5893af3c5581263f29fe9",
-      "title": "Should You Play Dragon’s Dogma 2 On Switch 2?",
-      "url": "https://gamespot.com/videos/should-you-play-dragons-dogma-2-on-switch-2",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T22:00:00+00:00",
-      "score": 9,
-      "event_key": "dragons dogma 2 dark arisen nintendo switch 2 release",
-      "title_ru": "Версия Dragon's Dogma 2: Dark Arisen для Nintendo Switch 2",
-      "threads_teaser_ru": "Фэнтезийное приключение Dragon's Dogma 2: Dark Arisen от Capcom выходит на Nintendo Switch 2 уже в этом месяце. Как игра держится в портативном формате?",
-      "telegram_message_id": "909",
-      "telegram_url": "https://t.me/gamepulse_newss/909",
-      "telegram_published_at": "2026-10-07T22:17:30.250540+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Feature_DD2-Switch_20261007_site.jpg?w=300",
-      "threads_published_at": "2026-10-07T22:17:31.678192+00:00"
-    },
-    {
       "fingerprint": "47a4004810efeffee42ddf4a",
       "title": "Save $150 Off the BowFlex SelectTech Adjustable Dumbbells for Prime Day",
       "url": "https://ign.com/articles/bowflex-selecttech-adjustable-dumbbell-deal-amazon-october-prime-day-sale-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/11/d64c152c35c72a8ada76e69f37d3e19546321f3c.jpg",
       "threads_published_at": "2026-11-03T14:17:23.220375+00:00"
+    },
+    {
+      "fingerprint": "2a65d9b8158ed0a6d87d5d8c",
+      "title": "Upcoming 4K UHD and Blu-ray Release Dates",
+      "url": "https://ign.com/articles/upcoming-4k-uhd-and-blu-ray-release-dates",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T13:30:13+00:00",
+      "score": 11,
+      "event_key": "upcoming-4k-uhd-and-blu-ray-release-dates-ign",
+      "title_ru": "График релизов 4K UHD и Blu-ray",
+      "threads_teaser_ru": "Издание IGN представило актуальную информацию о релизах фильмов и сериалов на 4K UHD и Blu-ray на фоне растущей популярности физических носителей.",
+      "telegram_message_id": "2110",
+      "telegram_url": "https://t.me/gamepulse_newss/2110",
+      "telegram_published_at": "2026-11-03T14:32:30.593710+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/z-odyssey-blogroll-1792000973337-1793713680717.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T14:17:23.220465+00:00"
+  "updated_at": "2026-11-03T14:32:30.593892+00:00"
 }
