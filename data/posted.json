@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7f4921aba2a17ddfcb93ea68",
-      "title": "Dragon's Dogma 2: Dark Arisen Review",
-      "url": "https://ign.com/articles/dragons-dogma-2-dark-arisen-review",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T22:00:00+00:00",
-      "score": 6,
-      "event_key": "Dragon's Dogma 2 Dark Arisen expansion review",
-      "title_ru": "Обзор дополнения Dragon's Dogma 2: Dark Arisen от IGN",
-      "threads_teaser_ru": "Вышел обзор Dragon's Dogma 2: Dark Arisen. Дополнение добавляет заснеженный регион Norgan, новые навыки для всех классов и 20-часовую кампанию. Разбираемся, получилось ли у разработчиков повторить успех оригинального DLC, или новинка оказалась лишь приятным дополнением к основной игре.",
-      "telegram_message_id": "916",
-      "telegram_url": "https://t.me/gamepulse_newss/916",
-      "telegram_published_at": "2026-10-08T00:03:16.359799+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/dragonsdogma2-darkarisen-review-blogroll-1791403117537.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T00:03:17.769753+00:00"
-    },
-    {
       "fingerprint": "1555e74d36f30f6b389c6e59",
       "title": "Call of Duty Esports Commentator Resigns After Pursuing Relationship With Co-Commentator's Ex-Wife",
       "url": "https://ign.com/articles/call-of-duty-e-sports-commentator-resigns-after-pursuing-relationship-with-co-commentators-ex-wife",
@@ -20511,7 +20494,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-18.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4",
       "threads_published_at": "2026-11-03T15:48:40.158065+00:00"
+    },
+    {
+      "fingerprint": "c2e11060f4d1da3ea7f53cea",
+      "title": "Celebrating 40 Years of Bethesda Game Studios",
+      "url": "https://news.xbox.com/en-us/2026/11/03/celebrating-40-years-of-bethesda-game-studios",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-03T15:06:55+00:00",
+      "score": 14,
+      "event_key": "bethesda game studios celebrates 40 years anniversary",
+      "title_ru": "Bethesda Game Studios отмечает 40-летие",
+      "threads_teaser_ru": "Bethesda Game Studios празднует 40-летие своей деятельности. Разработчики, подарившие игрокам культовые серии, отмечают важный исторический этап, ознаменовавший четыре десятилетия работы в индустрии видеоигр.",
+      "telegram_message_id": "2116",
+      "telegram_url": "https://t.me/gamepulse_newss/2116",
+      "telegram_published_at": "2026-11-03T16:04:16.178569+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Untitled-2-6c3ece91f2f057f35dbf.jpg"
     }
   ],
-  "updated_at": "2026-11-03T15:48:40.158182+00:00"
+  "updated_at": "2026-11-03T16:04:16.178778+00:00"
 }
