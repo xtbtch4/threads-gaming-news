@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "70d8d005b17760def4bbc19b",
-      "title": "Ahead of Your Halloween Rewatch, Ranking All 7 Seasons of Buffy the Vampire Slayer",
-      "url": "https://polygon.com/buffy-seasons-ranked",
-      "source": "Polygon",
-      "published_at_source": "2026-10-08T04:00:23+00:00",
-      "score": 7,
-      "event_key": "Buffy the Vampire Slayer seasons ranking and project status",
-      "title_ru": "В ожидании Хэллоуина: рейтинг всех сезонов Buffy the Vampire Slayer",
-      "threads_teaser_ru": "В преддверии Хэллоуина разобрали, как распределяются места в рейтинге сезонов Buffy the Vampire Slayer. От культового 5-го сезона, который многие считают идеальным финалом истории, до спорного 4-го и драматичного 6-го.",
-      "telegram_message_id": "926",
-      "telegram_url": "https://t.me/gamepulse_newss/926",
-      "telegram_published_at": "2026-10-08T07:32:40.115261+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/buffy-the-vampire-slayer-cast-season-6.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-08T07:32:41.388772+00:00"
-    },
-    {
       "fingerprint": "43a5d8b5a390149178ce471b",
       "title": "Beloved Action-RPG Muramasa: The Demon Blade Returns in 2027 With Stunning Remake",
       "url": "https://polygon.com/muramasa-revenant-blades-2027-remake-remaster-vanillaware-marvelous",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ss-141a099b39afb31b864e8eda9570c344ad0c70f5-1920x1080-1793724151578.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T19:33:44.072455+00:00"
+    },
+    {
+      "fingerprint": "5125a49c1dd5cd9d12946229",
+      "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+      "url": "https://ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T19:56:45+00:00",
+      "score": 13,
+      "event_key": "police mock criminal regarding GTA 6 release date",
+      "title_ru": "Полиция высмеяла преступника, который пропустит релиз GTA 6 из-за ареста",
+      "threads_teaser_ru": "Полиция в Британии опубликовала виральное видео с погоней, стилизованное под GTA 6. В ролике они иронично подметили, что задержанный преступник пропустит долгожданный релиз игры 19 ноября, так как отправился в тюрьму на 14 месяцев.",
+      "telegram_message_id": "2126",
+      "telegram_url": "https://t.me/gamepulse_newss/2126",
+      "telegram_published_at": "2026-11-03T20:18:29.195721+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T19:33:44.072541+00:00"
+  "updated_at": "2026-11-03T20:18:29.196004+00:00"
 }
