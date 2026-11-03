@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c065ffa7fca712e6d032b65e",
-      "title": "Minecraft's Switch 2 Upgrade Is Free, but Only for Digital Owners",
-      "url": "https://polygon.com/minecraft-nintendo-switch-2-upgrade-digital-only",
-      "source": "Polygon",
-      "published_at_source": "2026-10-08T10:30:47+00:00",
-      "score": 8,
-      "event_key": "Minecraft Nintendo Switch 2 upgrade digital physical owners",
-      "title_ru": "Minecraft получит бесплатное обновление для Nintendo Switch 2, но только для владельцев цифровых версий",
-      "threads_teaser_ru": "Бесплатное обновление Minecraft до версии для Nintendo Switch 2 получат только обладатели цифровых копий игры. Владельцы картриджей столкнулись с необходимостью покупать проект заново. Релиз состоится 27 октября, а активировать апгрейд можно будет до конца января 2027 года.",
-      "telegram_message_id": "931",
-      "telegram_url": "https://t.me/gamepulse_newss/931",
-      "telegram_published_at": "2026-10-08T10:48:55.135415+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mounts-of-mayhem_camel-husk1-png.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-08T10:48:56.568006+00:00"
-    },
-    {
       "fingerprint": "a5392c3f6fffb9711c0ee33f",
       "title": "Star Wars: Galactic Racer Continues a 55-Year-Old Gaming Tradition",
       "url": "https://polygon.com/star-wars-galactic-racer-roguelike-campaign-arcade",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/skyfall-craig-dench-1280a-1793732387727.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T21:33:20.398949+00:00"
+    },
+    {
+      "fingerprint": "b55729bc02fecf944d7eb8c2",
+      "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+      "url": "https://rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-03T21:41:08+00:00",
+      "score": 11,
+      "event_key": "Food Devils release delayed due to Steam review queue",
+      "title_ru": "Релиз Food Devils отложен из-за очереди на модерацию в Steam",
+      "threads_teaser_ru": "Разработчики Food Devils отложили релиз игры из-за проблем с модерацией в Steam. Студия Studio Daimon считает, что очередь на проверку переполнена играми с ИИ, а количество ежемесячных релизов на платформе выросло вдвое по сравнению с прошлым годом.",
+      "telegram_message_id": "2131",
+      "telegram_url": "https://t.me/gamepulse_newss/2131",
+      "telegram_published_at": "2026-11-03T21:48:18.655686+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T21:33:20.399048+00:00"
+  "updated_at": "2026-11-03T21:48:18.656018+00:00"
 }
