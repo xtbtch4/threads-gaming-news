@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cc44580bfb9a1f7c7544e06e",
-      "title": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space",
-      "url": "https://rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-07T13:40:00+00:00",
-      "score": 12,
-      "event_key": "Steam monthly hardware survey report details RAM and disk storage",
-      "title_ru": "Steam опубликовала свежий отчет об оборудовании пользователей",
-      "threads_teaser_ru": "32 ГБ оперативной памяти стали стандартом в Steam: свежий опрос показал, что такая конфигурация популярнее 16 ГБ. Также в статистике отметили рост владельцев NVIDIA GeForce RTX 5070 и необычные сборки с 11 процессорами.",
-      "telegram_message_id": "880",
-      "telegram_url": "https://t.me/gamepulse_newss/880",
-      "telegram_published_at": "2026-10-07T13:48:23.569155+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-07-142440.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T13:48:25.094212+00:00"
-    },
-    {
       "fingerprint": "99df588fd299c5db3e1a8e2e",
       "title": "What time does the Arc Raiders 'Frozen Trail' update release in your time zone?",
       "url": "https://polygon.com/arc-raiders-frozen-trail-release-time-edt-pdt",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/15/kylo-ren-adam-driver-the-hunt-for-ben-solo-1786828031365.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T00:16:51.960626+00:00"
+    },
+    {
+      "fingerprint": "19b661238153d6783b988235",
+      "title": "Pedro Pascal Is Hiding an Avengers: Doomsday Easter Egg on His Doctor Doom Halloween Costume, Fans Say",
+      "url": "https://ign.com/articles/pedro-pascal-is-hiding-an-avengers-doomsday-easter-egg-on-his-doctor-doom-halloween-costume-fans-say",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T23:17:23+00:00",
+      "score": 9,
+      "event_key": "pedro-pascal-doctor-doom-costume-avengers-doomsday-easter-egg",
+      "title_ru": "Фанаты нашли пасхалку к Avengers: Doomsday на костюме Педро Паскаля",
+      "threads_teaser_ru": "Хэллоуинские костюмы Педро Паскаля и Роберта Дауни-младшего заставили фанатов Marvel искать пасхалки к Avengers: Doomsday. На свитшоте нашли подозрительный логотип.",
+      "telegram_message_id": "2081",
+      "telegram_url": "https://t.me/gamepulse_newss/2081",
+      "telegram_published_at": "2026-11-03T00:47:16.961203+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/avengers-doomsday-halloween-costume-easter-egg-1793660784689.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T00:16:51.960729+00:00"
+  "updated_at": "2026-11-03T00:47:16.961546+00:00"
 }
