@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eca8867b791d8e41b2c7d148",
-      "title": "Jeremy Clarkson Will Return to His Automotive Roots for One-Off Special ‘Jeremy Grows a Car’",
-      "url": "https://ign.com/articles/jeremy-clarkson-will-return-to-his-automotive-roots-for-one-off-special-jeremy-grows-a-car",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T05:35:34+00:00",
-      "score": 7,
-      "event_key": "Jeremy Grows a Car Clarkson’s Farm special announcement",
-      "title_ru": "Prime Video анонсировал спецвыпуск Clarkson’s Farm под названием Jeremy Grows a Car",
-      "threads_teaser_ru": "Джереми Кларксон возвращается к автомобильной тематике в новом спецвыпуске шоу Clarkson’s Farm. В проекте Jeremy Grows a Car он попытается собрать автомобиль из материалов, выращенных на своей ферме Diddly Squat, при поддержке легендарного дизайнера Иэна Каллума.",
-      "telegram_message_id": "925",
-      "telegram_url": "https://t.me/gamepulse_newss/925",
-      "telegram_published_at": "2026-10-08T07:17:21.884434+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/jeremy-grows-a-car-1791437428760.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T07:17:23.131085+00:00"
-    },
-    {
       "fingerprint": "70d8d005b17760def4bbc19b",
       "title": "Ahead of Your Halloween Rewatch, Ranking All 7 Seasons of Buffy the Vampire Slayer",
       "url": "https://polygon.com/buffy-seasons-ranked",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/overwatch-season-5-midseason-update.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-03T19:18:28.426411+00:00"
+    },
+    {
+      "fingerprint": "da3bdf52ca68bc3d135edba9",
+      "title": "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
+      "url": "https://ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T16:44:56+00:00",
+      "score": 11,
+      "event_key": "Behavior Interactive apologizes for gifting Dead by Daylight items",
+      "title_ru": "Behavior Interactive извинилась за подарок контента стримеру TheBurntPeanut в Dead by Daylight",
+      "threads_teaser_ru": "Разработчики Dead by Daylight извинились за скандал со стримером TheBurntPeanut, которому сотрудник студии без разрешения подарил весь игровой контент. Бонусы уже удалены, а компания пообещала ужесточить контроль за сотрудничеством с инфлюенсерами.",
+      "telegram_message_id": "2125",
+      "telegram_url": "https://t.me/gamepulse_newss/2125",
+      "telegram_published_at": "2026-11-03T19:33:30.316468+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ss-141a099b39afb31b864e8eda9570c344ad0c70f5-1920x1080-1793724151578.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T19:18:28.426499+00:00"
+  "updated_at": "2026-11-03T19:33:30.316743+00:00"
 }
