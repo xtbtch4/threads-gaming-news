@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3deef95625ecaaccbcdd09b2",
-      "title": "Google Playground Wants Everyone To Make AI Games, And Maybe Everyone Shouldn’t",
-      "url": "https://gamespot.com/articles/google-playground-wants-everyone-to-make-ai-games-and-maybe-everyone-shouldnt",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T14:44:35+00:00",
-      "score": 12,
-      "event_key": "google launches playground ai game creation platform",
-      "title_ru": "Google запустила экспериментальную платформу Playground для создания игр с помощью ИИ",
-      "threads_teaser_ru": "Google представила Playground — платформу для создания игр с помощью ИИ-промптов. Сервис призван упростить разработку, убрав необходимость в навыках программирования, и уже включает поддержку Unity Spark. Однако первые пользователи отмечают проблемы с качеством контента.",
-      "telegram_message_id": "886",
-      "telegram_url": "https://t.me/gamepulse_newss/886",
-      "telegram_published_at": "2026-10-07T16:21:36.335574+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GooglePlayground.jpg?w=300",
-      "threads_published_at": "2026-10-07T16:21:39.130428+00:00"
-    },
-    {
       "fingerprint": "9e37470d5857eb85d2f51c9e",
       "title": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit",
       "url": "https://rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/skyblivion-oblivion-remake-mods-experienced-modders-request-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T02:32:40.278259+00:00"
+    },
+    {
+      "fingerprint": "20ec28c2fe7d981ee2633476",
+      "title": "WoW: Forever City of Dalaran Dungeon Guide – Quests, Bosses, and Loot",
+      "url": "https://gamespot.com/articles/wow-forever-city-of-dalaran-dungeon-guide-quests-bosses-and-loot",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-03T00:04:46+00:00",
+      "score": 7,
+      "event_key": "World of Warcraft Forever City of Dalaran dungeon guide",
+      "title_ru": "Гайд по подземелью City of Dalaran в World of Warcraft: Forever",
+      "threads_teaser_ru": "Разбираем всё, что нужно знать о подземелье City of Dalaran в World of Warcraft: Forever: от получения ключа от канализации и цепочек квестов для каждой фракции до рекомендаций по уровню и порядку прохождения боссов в самом городе.",
+      "telegram_message_id": "2087",
+      "telegram_url": "https://t.me/gamepulse_newss/2087",
+      "telegram_published_at": "2026-11-03T02:47:11.858036+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/wow-forever-city-of-dalaran-guide.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-03T02:32:40.278349+00:00"
+  "updated_at": "2026-11-03T02:47:11.858337+00:00"
 }
