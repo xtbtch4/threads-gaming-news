@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2107",
       "telegram_url": "https://t.me/gamepulse_newss/2107",
       "telegram_published_at": "2026-11-03T13:32:36.881027+00:00",
-      "threads_id": null,
-      "image_url": "https://blog.playstation.com/tachyon/2048/11/ab6dc40b57d6bea18ed9bc6a4a868ff247b4360f.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://blog.playstation.com/tachyon/2048/11/ab6dc40b57d6bea18ed9bc6a4a868ff247b4360f.jpg",
+      "threads_published_at": "2026-11-03T13:32:38.564616+00:00"
     }
   ],
-  "updated_at": "2026-11-03T13:32:36.881432+00:00"
+  "updated_at": "2026-11-03T13:32:38.564709+00:00"
 }
