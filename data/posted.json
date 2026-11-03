@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6780729b45cdbd604fc0c2e3",
-      "title": "Cities: Skylines Announced For Switch 2 While Sequel’s Console Ports Are Still MIA",
-      "url": "https://gamespot.com/articles/cities-skylines-announced-for-switch-2-while-sequels-console-ports-are-still-mia",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-07T17:47:17+00:00",
-      "score": 12,
-      "event_key": "cities-skylines-expanded-edition-announced-for-switch-2",
-      "title_ru": "Cities: Skylines – Expanded Edition анонсирована для Nintendo Switch 2",
-      "threads_teaser_ru": "Для Nintendo Switch 2 анонсирована Cities: Skylines - Expanded Edition от Tantalus Media. Игра получит 10 дополнений, редактор карт и поддержку мыши с клавиатурой, а владельцы версии для первой консоли получат скидку 70%.",
-      "telegram_message_id": "894",
-      "telegram_url": "https://t.me/gamepulse_newss/894",
-      "telegram_published_at": "2026-10-07T18:17:03.768898+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-1.jpg?w=300",
-      "threads_published_at": "2026-10-07T18:17:05.307662+00:00"
-    },
-    {
       "fingerprint": "b1c0129bf3991cb8c2493110",
       "title": "New Walmart promo is the safest way to buy 'Pokémon' 30th anniversary TCG on release day",
       "url": "https://polygon.com/walmart-pokemon-30th-anniversary-tcg-card-release-raffle-drawing-when-what",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T09:32:09.582288+00:00"
+    },
+    {
+      "fingerprint": "b95daee88bc18928aa37ca67",
+      "title": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+      "url": "https://rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-03T10:12:22+00:00",
+      "score": 14,
+      "event_key": "itchio adds no AI search filter and expands disclosures",
+      "title_ru": "itch.io добавит фильтр для скрытия контента с генеративным ИИ в поисковой выдаче",
+      "threads_teaser_ru": "Платформа itch.io внедрит в поиск фильтр для исключения контента с генеративным ИИ и расширит требования по обязательной маркировке на книги, комиксы, настольные игры и саундтреки.",
+      "telegram_message_id": "2095",
+      "telegram_url": "https://t.me/gamepulse_newss/2095",
+      "telegram_published_at": "2026-11-03T10:17:09.557809+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/itch-AI-filter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-03T09:32:09.582384+00:00"
+  "updated_at": "2026-11-03T10:17:09.558168+00:00"
 }
