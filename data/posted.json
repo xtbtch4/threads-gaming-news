@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2112",
       "telegram_url": "https://t.me/gamepulse_newss/2112",
       "telegram_published_at": "2026-11-03T15:03:29.337436+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Gang-of-Dragon.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Gang-of-Dragon.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-03T15:03:31.156142+00:00"
     }
   ],
-  "updated_at": "2026-11-03T15:03:29.337785+00:00"
+  "updated_at": "2026-11-03T15:03:31.156237+00:00"
 }
