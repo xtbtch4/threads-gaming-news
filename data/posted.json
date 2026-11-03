@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2080",
       "telegram_url": "https://t.me/gamepulse_newss/2080",
       "telegram_published_at": "2026-11-03T00:16:50.677732+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/15/kylo-ren-adam-driver-the-hunt-for-ben-solo-1786828031365.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/15/kylo-ren-adam-driver-the-hunt-for-ben-solo-1786828031365.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-03T00:16:51.960626+00:00"
     }
   ],
-  "updated_at": "2026-11-03T00:16:50.678043+00:00"
+  "updated_at": "2026-11-03T00:16:51.960729+00:00"
 }
