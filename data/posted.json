@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "87740353e52c172bcbbbae43",
-      "title": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter",
-      "url": "https://rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-07T15:45:27+00:00",
-      "score": 9,
-      "event_key": "Double Counter security breach data leak Discord",
-      "title_ru": "Сервис Double Counter подвергся масштабной хакерской атаке",
-      "threads_teaser_ru": "Сервис для модерации Discord-серверов Double Counter подвергся масштабному взлому. Хакеры похитили около 1 миллиона email-адресов, а также данные 28 миллионов пользователей, включая Discord ID и IP-адреса.",
-      "telegram_message_id": "900",
-      "telegram_url": "https://t.me/gamepulse_newss/900",
-      "telegram_published_at": "2026-10-07T20:04:07.498588+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/discordart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-07T20:04:11.389912+00:00"
-    },
-    {
       "fingerprint": "8ad15c592a7fd16e8b28e4c9",
       "title": "Some of Our Favorite Switch 2 Controllers Are Dropping to Actually Reasonable Prices for October Prime Day",
       "url": "https://ign.com/articles/nintendo-switch-2-controller-deals-october-prime-day-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T11:32:11.849836+00:00"
+    },
+    {
+      "fingerprint": "7d0cc6b9d8a123d70ad25f80",
+      "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
+      "url": "https://ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T11:36:08+00:00",
+      "score": 13,
+      "event_key": "South of Midnight director comments on Xbox unsustainable funding",
+      "title_ru": "Креативный директор South of Midnight назвал модель финансирования Xbox неустойчивой",
+      "threads_teaser_ru": "Дэвид Сирс, креативный директор South of Midnight, прокомментировал завершение эпохи щедрого финансирования студий со стороны Xbox. Разработчик признал, что прежняя модель была неустойчивой, и объяснил, почему ожидал подобных перемен еще до того, как они затронули Compulsion Games.",
+      "telegram_message_id": "2101",
+      "telegram_url": "https://t.me/gamepulse_newss/2101",
+      "telegram_published_at": "2026-11-03T12:03:05.406975+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/11/11/southofmidnight-preview-blogroll-1731361912780.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T11:32:11.849924+00:00"
+  "updated_at": "2026-11-03T12:03:05.407250+00:00"
 }
