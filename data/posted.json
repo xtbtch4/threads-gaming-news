@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f5ec451c0c6d0ac8d6234421",
-      "title": "Phoenix Cyclops joins MARVEL Tōkon: Fighting Souls on November 2",
-      "url": "https://blog.playstation.com/2026/10/07/phoenix-cyclops-joins-marvel-tokon-fighting-souls-on-november-2",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-07T17:00:48+00:00",
-      "score": 16,
-      "event_key": "phoenix_cyclops_joins_marvel_tokon_fighting_souls",
-      "title_ru": "Phoenix Cyclops присоединится к MARVEL Tōkon: Fighting Souls 2 ноября",
-      "threads_teaser_ru": "Первый DLC-персонаж Phoenix Cyclops из Year 1 Pass для MARVEL Tōkon: Fighting Souls выйдет 2 ноября. Герой сочетает атаки Optic Blast и силу Phoenix Force.",
-      "telegram_message_id": "890",
-      "telegram_url": "https://t.me/gamepulse_newss/890",
-      "telegram_published_at": "2026-10-07T17:17:10.453663+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/e9592b0a1fa25ebc78f92e5dea79e4266953d980-scaled.jpg",
-      "threads_published_at": "2026-10-07T17:17:12.050191+00:00"
-    },
-    {
       "fingerprint": "335943466e350dbd0618db39",
       "title": "2026's Dark Horse GOTY Contender Delayed, Now a 2027 Frontrunner",
       "url": "https://polygon.com/at-fates-end-steam-demo-delay-2027",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Bay-12-Mech-Repair.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T04:02:49.560956+00:00"
+    },
+    {
+      "fingerprint": "10bf66f96903612f0e8097b3",
+      "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
+      "url": "https://polygon.com/avatar-the-last-airbenders-best-quote",
+      "source": "Polygon",
+      "published_at_source": "2026-11-03T05:00:17+00:00",
+      "score": 8,
+      "event_key": "uncle iroh zuko lake laogai avatar the last airbender",
+      "title_ru": "Мудрость Uncle Iroh из Avatar: The Last Airbender спустя годы",
+      "threads_teaser_ru": "Издание Polygon вспомнило ключевой диалог между Uncle Iroh и Zuko в эпизоде «Lake Laogai» из сериала Avatar: The Last Airbender. Эта сцена стала одной из последних для актера Mako Iwamatsu.",
+      "telegram_message_id": "2091",
+      "telegram_url": "https://t.me/gamepulse_newss/2091",
+      "telegram_published_at": "2026-11-03T05:03:00.265212+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25270110/avatar3x20_0593.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-03T04:02:49.561045+00:00"
+  "updated_at": "2026-11-03T05:03:00.265500+00:00"
 }
