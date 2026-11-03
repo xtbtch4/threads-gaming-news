@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "aff29f4f93737c9f1c89bff7",
-      "title": "The Dungeon Crawler Carl Graphic Novels Are Buy 2, Get 1 Free at Target",
-      "url": "https://ign.com/articles/the-dungeon-crawler-carl-graphic-novels-are-buy-2-get-1-free-at-target-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T20:09:06+00:00",
-      "score": 9,
-      "event_key": "Target buy 2 get 1 free sale Dungeon Crawler Carl",
-      "title_ru": "В Target проходит акция «2+1» на графические романы Dungeon Crawler Carl",
-      "threads_teaser_ru": "В сети магазинов Target до 10 октября проходит акция «2+1» на книги серии Dungeon Crawler Carl, включая графические романы. Чтобы воспользоваться предложением, необходимо добавить в корзину три позиции, участвующие в распродаже.",
-      "telegram_message_id": "905",
-      "telegram_url": "https://t.me/gamepulse_newss/905",
-      "telegram_published_at": "2026-10-07T21:18:01.261404+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/08/81lstefoezl-sl1500-1788900662283.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T21:18:02.972382+00:00"
-    },
-    {
       "fingerprint": "458cc8da393bea1f6a93ba74",
       "title": "'Obsession' Officially Returning to Theaters As It's Never Been Seen Before",
       "url": "https://polygon.com/obsession-rerelease-october-2026-4dx-theaters-halloween",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T13:02:46.088046+00:00"
+    },
+    {
+      "fingerprint": "571590cf017af5ba845cda9e",
+      "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
+      "url": "https://ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T12:18:45+00:00",
+      "score": 11,
+      "event_key": "mike-flanagan-teases-warhammer-40000-tv-show-henry-cavill",
+      "title_ru": "Майк Флэнаган поделился новостями о сериале Warhammer 40,000 с Генри Кавиллом",
+      "threads_teaser_ru": "Майк Флэнаган рассказал о работе над сериалом Warhammer 40,000 с Генри Кавиллом для Amazon. По его словам, авторы нашли неожиданный способ погружения в эту сложную вселенную.",
+      "telegram_message_id": "2106",
+      "telegram_url": "https://t.me/gamepulse_newss/2106",
+      "telegram_published_at": "2026-11-03T13:16:49.486650+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/henrycavillwarhammershowblogroll-1639133656381-1749468238633-1785228321207-1793708045643.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T13:02:46.088137+00:00"
+  "updated_at": "2026-11-03T13:16:49.486924+00:00"
 }
