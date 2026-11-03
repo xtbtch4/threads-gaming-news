@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d1522ea322c5933cae2d2f8a",
-      "title": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system",
-      "url": "https://rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-07T11:35:13+00:00",
-      "score": 6,
-      "event_key": "Patience is a Virtue announcement and conversation mechanics revealed",
-      "title_ru": "Анонсирован разговорный пазл Patience is a Virtue",
-      "threads_teaser_ru": "В необычном разговорном пазле Patience is a Virtue от студии teaisfortoby! для общения с NPC нужно пересобирать их собственные фразы. Сюжет рассказывает о нейродивергентном парне, который распутывает сверхъестественную тайну в небольшом городке.",
-      "telegram_message_id": "918",
-      "telegram_url": "https://t.me/gamepulse_newss/918",
-      "telegram_published_at": "2026-10-08T00:33:19.261083+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/patience-is-a-virtue.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T00:33:20.608068+00:00"
-    },
-    {
       "fingerprint": "48b633dbbd9862855e996c2f",
       "title": "Overwatch’s Huge New Sombra Rework Is 10x Better Than Expected",
       "url": "https://polygon.com/overwatch-sombra-rework-support",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-03T16:18:06.861790+00:00"
+    },
+    {
+      "fingerprint": "b24716dbaa6c97af09686cbe",
+      "title": "LEGO Godzilla Announced, Releases on Black Friday",
+      "url": "https://ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
+      "source": "IGN",
+      "published_at_source": "2026-11-03T14:55:46+00:00",
+      "score": 13,
+      "event_key": "LEGO announces Godzilla set release for Black Friday",
+      "title_ru": "Анонсирован новый набор LEGO Godzilla",
+      "threads_teaser_ru": "LEGO анонсировала огромный набор Godzilla из 5 363 деталей. Модель от фанатского дизайнера Мэтью Эспозито поступит в продажу 27 ноября по цене $449.99. В первые дни продаж к конструктору будет прилагаться специальный подарок.",
+      "telegram_message_id": "2118",
+      "telegram_url": "https://t.me/gamepulse_newss/2118",
+      "telegram_published_at": "2026-11-03T16:33:21.991224+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/lego-godzilla-announced-1793717156098.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T16:18:06.861881+00:00"
+  "updated_at": "2026-11-03T16:33:21.991542+00:00"
 }
