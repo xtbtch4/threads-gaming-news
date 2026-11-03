@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5740fb3470fdc8a8437bcfa0",
-      "title": "Indie Selects for October 2026: Discover and Progress Through Unforgettable Worlds",
-      "url": "https://news.xbox.com/en-us/2026/10/07/indie-selects-october",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-07T15:00:00+00:00",
-      "score": 12,
-      "event_key": "ID@XBOX reveals Indie Selects games list for October 2026",
-      "title_ru": "Подборка Indie Selects за октябрь 2026 года",
-      "threads_teaser_ru": "Команда ID@XBOX выбрала шесть инди-игр, на которые стоит обратить внимание в октябре. В списке — Mortal Shell II, Avatar Legends: The Fighting Game, Mewgenics от создателя The Binding of Isaac, хоррор The Sinking City 2 и головоломка Woodo. Подробности — в нашей сводке.",
-      "telegram_message_id": "883",
-      "telegram_url": "https://t.me/gamepulse_newss/883",
-      "telegram_published_at": "2026-10-07T15:33:08.922996+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/IndieSelects_October2026_Laurel_Wire-e92dca095ffba473398a.jpg",
-      "threads_published_at": "2026-10-07T15:33:10.464488+00:00"
-    },
-    {
       "fingerprint": "02c19b92e931c5d224c648c2",
       "title": "HBO’s Lanterns Just Revealed a Major Finale Detail",
       "url": "https://polygon.com/lanterns-dc-hbo-season-2-john-stewart-dark-lantern",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-03T01:17:37.173496+00:00"
+    },
+    {
+      "fingerprint": "142d5bf96c6104c080126097",
+      "title": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
+      "url": "https://ign.com/articles/gamescom-asia-x-thailand-game-show-dubbed-the-most-international-yet-with-almost-220000-attendees",
+      "source": "IGN",
+      "published_at_source": "2026-11-02T15:11:00+00:00",
+      "score": 8,
+      "event_key": "Gamescom Asia x Thailand Game Show 2026 Bangkok",
+      "title_ru": "Gamescom Asia x Thailand Game Show посетило почти 220 000 человек",
+      "threads_teaser_ru": "На завершившейся Gamescom Asia x Thailand Game Show представили 470 игр, а саму выставку посетили почти 220 000 человек. На мероприятии показали проекты от крупных издателей, включая Capcom и SEGA, а также провели церемонию награждения, где определили «Игру года».",
+      "telegram_message_id": "2084",
+      "telegram_url": "https://t.me/gamepulse_newss/2084",
+      "telegram_published_at": "2026-11-03T01:32:50.213290+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gamescomasia-blogroll-1793660801334.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-03T01:17:37.173589+00:00"
+  "updated_at": "2026-11-03T01:32:50.213596+00:00"
 }
