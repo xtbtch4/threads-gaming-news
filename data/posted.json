@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8ad15c592a7fd16e8b28e4c9",
-      "title": "Some of Our Favorite Switch 2 Controllers Are Dropping to Actually Reasonable Prices for October Prime Day",
-      "url": "https://ign.com/articles/nintendo-switch-2-controller-deals-october-prime-day-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T18:35:07+00:00",
-      "score": 9,
-      "event_key": "October Prime Day deals on Switch 2 third-party controllers",
-      "title_ru": "Скидки на сторонние контроллеры для Switch 2 в рамках октябрьской распродажи Amazon",
-      "threads_teaser_ru": "На Amazon проходит последний день распродажи с заметными скидками на сторонние контроллеры для Switch 2. Официальные геймпады от Nintendo в акции не участвуют, но устройства от 8BitDo, PDP, Turtle Beach и других брендов стали доступнее.",
-      "telegram_message_id": "901",
-      "telegram_url": "https://t.me/gamepulse_newss/901",
-      "telegram_published_at": "2026-10-07T20:17:26.461330+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/switch2controllers-1791396863283.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T20:17:27.939298+00:00"
-    },
-    {
       "fingerprint": "dea95316c547c7a42aa3af59",
       "title": "Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons",
       "url": "https://gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/11/11/southofmidnight-preview-blogroll-1731361912780.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-03T12:03:07.274779+00:00"
+    },
+    {
+      "fingerprint": "312d3eefd5f480f2fd6fddf0",
+      "title": "WoW: Forever Makes Every Class More Powerful in Last-Minute Change",
+      "url": "https://polygon.com/wow-world-of-warcraft-forever-1-0-patch-class-changes",
+      "source": "Polygon",
+      "published_at_source": "2026-11-03T11:48:05+00:00",
+      "score": 14,
+      "event_key": "world-of-warcraft-forever-patch-class-damage-buff",
+      "title_ru": "Blizzard усилила все классы в World of Warcraft: Forever перед релизом",
+      "threads_teaser_ru": "Перед релизом World of Warcraft: Forever компания Blizzard выпустила финальные изменения, которые коснулись урона всех классов и здоровья монстров.",
+      "telegram_message_id": "2102",
+      "telegram_url": "https://t.me/gamepulse_newss/2102",
+      "telegram_published_at": "2026-11-03T12:16:58.312330+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_scenic_announce_race_class_newcombos_054.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-03T12:03:07.274862+00:00"
+  "updated_at": "2026-11-03T12:16:58.312673+00:00"
 }
