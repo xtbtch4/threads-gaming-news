@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bde838fee4603b8a8da19617",
-      "title": "Mafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online",
-      "url": "https://ign.com/articles/mafia-2-mafia-3-definitive-edition-leaked",
-      "source": "IGN",
-      "published_at_source": "2026-10-07T14:37:19+00:00",
-      "score": 11,
-      "event_key": "Mafia 2 and Mafia 3 Definitive Edition PS5 Xbox Series leak",
-      "title_ru": "Mafia 2 и Mafia 3 могут получить версии для PS5 и Xbox Series",
-      "threads_teaser_ru": "Похоже, обновленные версии Mafia 2 и Mafia 3 скоро появятся на PS5 и Xbox Series. Игры заметили в базе данных рейтингового агентства ESRB. Вероятно, нас ждет графический апгрейд, аналогичный тому, что ранее получил ремейк первой части.",
-      "telegram_message_id": "888",
-      "telegram_url": "https://t.me/gamepulse_newss/888",
-      "telegram_published_at": "2026-10-07T16:47:15.406316+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets1.ignimgs.com/2016/06/12/mafia3-e3trailer02jpg-c1f474.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-07T16:47:16.974704+00:00"
-    },
-    {
       "fingerprint": "42f9796d9202db716ad47815",
       "title": "12 Years Later, Canceled Kojima Game 'P.T.' Makes A Comeback",
       "url": "https://polygon.com/ps4-horror-game-pt-hideo-kojima-silent-hills-playable-teaser",
@@ -20511,7 +20494,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/godzilla-destroy-all-monsters-melee-city-destruction.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-03T03:03:24.159919+00:00"
+    },
+    {
+      "fingerprint": "c9eb202d683928cf99d724e5",
+      "title": "Hideo Kojima's Next Game Officially Gets New Teaser Image, Fans Already Hunting for Clues",
+      "url": "https://polygon.com/od-teaser-image-hideo-kojima-horror",
+      "source": "Polygon",
+      "published_at_source": "2026-11-02T19:30:27+00:00",
+      "score": 7,
+      "event_key": "Kojima Productions reveals new OD teaser image for 10th anniversary",
+      "title_ru": "Kojima Productions опубликовала новый тизер хоррора OD",
+      "threads_teaser_ru": "Kojima Productions показала новый кадр из своего грядущего хоррора OD. На изображении можно заметить загадочный парящий красный объект, вызвавший у фанатов теории об оккультных мотивах игры. Рассматриваем детали новой промо-акции к 10-летию студии.",
+      "telegram_message_id": "2089",
+      "telegram_url": "https://t.me/gamepulse_newss/2089",
+      "telegram_published_at": "2026-11-03T03:47:54.806306+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25152206/OD___TGA_2023_Teaser_Trailer____ESRB__4K_1_4_screenshot.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/06/od-knock-teaser-trailer-esrb-4k-1782230814.mp4"
     }
   ],
-  "updated_at": "2026-11-03T03:03:24.160012+00:00"
+  "updated_at": "2026-11-03T03:47:54.806795+00:00"
 }
