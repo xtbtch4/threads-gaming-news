@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f734326bba1c343462210174",
-      "title": "GTA 6 Reveals a Handful of Radio Stations, DJs, and Songs Ahead of Release",
-      "url": "https://ign.com/articles/gta-6-reveals-a-handful-of-radio-stations-djs-and-songs-ahead-of-release",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T14:37:48+00:00",
-      "score": 15,
-      "event_key": "Rockstar Games reveals GTA 6 radio stations and soundtrack",
-      "title_ru": "Rockstar анонсировала радиостанции и музыку в GTA 6",
-      "threads_teaser_ru": "Rockstar Games раскрыла подробности музыкального сопровождения GTA 6. Игроки получили доступ к превью радиостанций с участием звезд, а также узнали о важной геймплейной функции, связанной с прослушиванием аудио на ходу. Релиз игры состоится 19 ноября.",
-      "telegram_message_id": "953",
-      "telegram_url": "https://t.me/gamepulse_newss/953",
-      "telegram_published_at": "2026-10-08T16:33:19.413152+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/huhrrqdweaall9w-1791470229549.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T16:33:20.867214+00:00"
-    },
-    {
       "fingerprint": "be26e4aac61f31c2604edaf0",
       "title": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
       "url": "https://eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/hogwartslegacy-dlss5-1793806537149.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T16:02:51.121473+00:00"
+    },
+    {
+      "fingerprint": "e0411963d9735ea78824fd0a",
+      "title": "The Elder Scrolls 6: Sentinel Will Show Us Just How Serious Xbox Is About Exclusivity",
+      "url": "https://ign.com/articles/the-elder-scrolls-6-sentinel-will-show-us-just-how-serious-xbox-is-about-exclusivity",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T14:30:00+00:00",
+      "score": 11,
+      "event_key": "the elder scrolls 6 sentinel xbox exclusivity discussion",
+      "title_ru": "The Elder Scrolls 6: Sentinel и вопрос эксклюзивности для Xbox",
+      "threads_teaser_ru": "Полное название The Elder Scrolls 6 оказалось известным — игра получила подзаголовок Sentinel и перенесет игроков в Hammerfell. Это породило дискуссии об эксклюзивности проекта для Xbox и будущей консоли Project Helix.",
+      "telegram_message_id": "2153",
+      "telegram_url": "https://t.me/gamepulse_newss/2153",
+      "telegram_published_at": "2026-11-04T16:32:45.855730+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sentinel-xbox-1793791749240.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T16:02:51.121570+00:00"
+  "updated_at": "2026-11-04T16:32:45.856042+00:00"
 }
