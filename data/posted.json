@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c0d7efb4f0c31a89e33d8b93",
-      "title": "Street Fighter 6 Producer Reveals How He Helped Save Capcom’s Iconic Fighting Game Franchise From ‘Dying’",
-      "url": "https://ign.com/articles/street-fighter-6-producer-reveals-how-he-helped-save-capcoms-iconic-fighting-game-franchise-from-dying",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T22:11:18+00:00",
-      "score": 15,
-      "event_key": "street_fighter_6_producer_saved_franchise_from_dying",
-      "title_ru": "Продюсер Street Fighter 6 рассказал о спасении серии от гибели",
-      "threads_teaser_ru": "Продюсер Street Fighter 6 рассказал, как франшиза едва не погибла во времена Street Fighter V и какие меры помогли спасти серию от забвения.",
-      "telegram_message_id": "967",
-      "telegram_url": "https://t.me/gamepulse_newss/967",
-      "telegram_published_at": "2026-10-08T23:02:16.385165+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/08/04/sf6-outfits-blog-1754304622675.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T23:02:17.622977+00:00"
-    },
-    {
       "fingerprint": "2cdada926949f2b6fe49f2fa",
       "title": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
       "url": "https://eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/kfcdoomsday-1793809670103.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T19:47:15.896216+00:00"
+    },
+    {
+      "fingerprint": "c4dfc039536029f7a9ef3b6e",
+      "title": "How The Challenge Shrine Will Change How you Play Halls of Torment",
+      "url": "https://news.xbox.com/en-us/2026/11/04/how-the-challenge-shrine-will-change-how-you-play",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-04T20:00:00+00:00",
+      "score": 16,
+      "event_key": "halls_of_torment_the_lost_archives_dlc_xbox_release",
+      "title_ru": "DLC The Lost Archives и крупное обновление для Halls of Torment вышли на XBOX",
+      "threads_teaser_ru": "На XBOX вышло второе DLC The Lost Archives для Halls of Torment вместе с крупным бесплатным обновлением. Дополнение принесло двух новых героев и зал, а обновление добавило настраиваемые цели по убийствам через Shrine of Torment и еженедельные испытания.",
+      "telegram_message_id": "2167",
+      "telegram_url": "https://t.me/gamepulse_newss/2167",
+      "telegram_published_at": "2026-11-04T20:03:05.792479+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HoT_Xbox_DLC_TheLostArchives_Thumbnail-ef5abeaf83a17a438e50.jpg"
     }
   ],
-  "updated_at": "2026-11-04T19:47:15.896304+00:00"
+  "updated_at": "2026-11-04T20:03:05.792923+00:00"
 }
