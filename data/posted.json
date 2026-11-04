@@ -20509,9 +20509,10 @@
       "telegram_message_id": "2153",
       "telegram_url": "https://t.me/gamepulse_newss/2153",
       "telegram_published_at": "2026-11-04T16:32:45.855730+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sentinel-xbox-1793791749240.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sentinel-xbox-1793791749240.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-04T16:32:47.679725+00:00"
     }
   ],
-  "updated_at": "2026-11-04T16:32:45.856042+00:00"
+  "updated_at": "2026-11-04T16:32:47.679828+00:00"
 }
