@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2135",
       "telegram_url": "https://t.me/gamepulse_newss/2135",
       "telegram_published_at": "2026-11-04T09:32:06.520589+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-04T09:32:07.763007+00:00"
     }
   ],
-  "updated_at": "2026-11-04T09:32:06.520900+00:00"
+  "updated_at": "2026-11-04T09:32:07.763102+00:00"
 }
