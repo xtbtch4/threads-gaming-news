@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0e4d3ad4802de5d07cc072b9",
-      "title": "Critical Role joins Rockbeasts, launching January 2027.",
-      "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-08T17:00:00+00:00",
-      "score": 12,
-      "event_key": "Critical Role partners with Lichthund for Rockbeasts game launch",
-      "title_ru": "Rockbeasts выйдет в январе 2027 года при поддержке Critical Role",
-      "threads_teaser_ru": "Разработчики Rockbeasts объединились с командой Critical Role для создания своего музыкального RPG-менеджера. В игру официально вошли Matthew Mercer и Sam Riegel, а релиз проекта теперь назначен на январь 2027 года.",
-      "telegram_message_id": "957",
-      "telegram_url": "https://t.me/gamepulse_newss/957",
-      "telegram_published_at": "2026-10-08T17:47:28.706837+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/9ac56453f29c11768e1b92ab6c216562dccf2e85.png",
-      "threads_published_at": "2026-10-08T17:47:29.963071+00:00"
-    },
-    {
       "fingerprint": "8e93579ca835c4f40d45e2d8",
       "title": "Netflix’s Bioshock Movie Just Got an Exciting Update",
       "url": "https://polygon.com/bioshock-movie-netflix-director-script-in-progress",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Stardeus-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-04T17:18:04.256062+00:00"
+    },
+    {
+      "fingerprint": "e3751e9a1722dd393532d4f4",
+      "title": "God Of War Laufey Delayed",
+      "url": "https://gamespot.com/articles/god-of-war-laufey-delayed",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-04T17:08:20+00:00",
+      "score": 15,
+      "event_key": "god of war laufey delayed to may 2027",
+      "title_ru": "God of War Laufey отложена на три месяца",
+      "threads_teaser_ru": "Релиз новой игры God of War Laufey для PS5 перенесен с февраля на май 2027 года. Разработчики из Santa Monica Studios назвали новую точную дату выхода проекта.",
+      "telegram_message_id": "2157",
+      "telegram_url": "https://t.me/gamepulse_newss/2157",
+      "telegram_published_at": "2026-11-04T17:32:53.787668+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/laufey.png?w=300"
     }
   ],
-  "updated_at": "2026-11-04T17:18:04.256155+00:00"
+  "updated_at": "2026-11-04T17:32:53.787905+00:00"
 }
