@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7cb25b3e55437a0134c25b5d",
-      "title": "Xbox Is Going Bigger On Movies, TV, And More With New XP Division",
-      "url": "https://gamespot.com/articles/xbox-is-going-bigger-on-movies-tv-and-more-with-new-xp-division",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T12:15:56+00:00",
-      "score": 9,
-      "event_key": "Xbox launches XP division for movies and television",
-      "title_ru": "Xbox создала подразделение XP для развития кино и ТВ",
-      "threads_teaser_ru": "Xbox открывает подразделение XP, которое займется фильмами, сериалами и организацией живых мероприятий. Подразделение возглавила бывшая глава студии Mojang Kayleen Walters. В работе уже находятся экранизации Fallout, Call of Duty и Diablo.",
-      "telegram_message_id": "942",
-      "telegram_url": "https://t.me/gamepulse_newss/942",
-      "telegram_published_at": "2026-10-08T13:33:01.830597+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-XP.jpg?w=300",
-      "threads_published_at": "2026-10-08T13:33:03.375350+00:00"
-    },
-    {
       "fingerprint": "31b7c46e923477a32969f054",
       "title": "Shadow Of War And All Of Its DLC Is 92% Off, So Now’s Your Chance To Ruin Sauron’s Day",
       "url": "https://gamespot.com/articles/shadow-of-war-and-all-of-its-dlc-is-92-off-so-nows-your-chance-to-ruin-saurons-day",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T12:47:01.055274+00:00"
+    },
+    {
+      "fingerprint": "1e55ffd7af9b0587318305c8",
+      "title": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
+      "url": "https://rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-04T13:15:44+00:00",
+      "score": 12,
+      "event_key": "fate_of_the_galaxy_freespace_open_mod_released",
+      "title_ru": "Вышел Fate of the Galaxy — масштабный космический симулятор по Star Wars",
+      "threads_teaser_ru": "Бесплатный космический симулятор Fate of the Galaxy по мотивам оригинальной трилогии Star Wars вышел как глобальная модификация на базе FreeSpace Open и работает даже на слабых ПК.",
+      "telegram_message_id": "2142",
+      "telegram_url": "https://t.me/gamepulse_newss/2142",
+      "telegram_published_at": "2026-11-04T13:17:25.067651+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/fate-of-the-galaxy-armada.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-04T12:47:01.055358+00:00"
+  "updated_at": "2026-11-04T13:17:25.067988+00:00"
 }
