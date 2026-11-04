@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5af0b1c7fa66443ba233859a",
-      "title": "Charlie Cox on the Return of The Defenders — 'There Needed to Be Some Kind of Closure' | NYCC 2026",
-      "url": "https://ign.com/articles/charlie-cox-on-the-return-of-the-defenders-there-needed-to-be-some-kind-of-closure-nycc-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T23:30:14+00:00",
-      "score": 11,
-      "event_key": "charlie cox discusses the defenders return at nycc 2026",
-      "title_ru": "Чарли Кокс о возвращении The Defenders и будущем Daredevil: Born Again",
-      "threads_teaser_ru": "Чарли Кокс обсудил возвращение The Defenders на New York Comic Con 2026 и подтвердил, что третий сезон Daredevil: Born Again станет последним для шоу.",
-      "telegram_message_id": "972",
-      "telegram_url": "https://t.me/gamepulse_newss/972",
-      "telegram_published_at": "2026-10-09T00:32:21.435218+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/03/19/dd-suit-oo-1-1773963923006.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T00:32:23.060366+00:00"
-    },
-    {
       "fingerprint": "b50b80b7caf4322fb1e12044",
       "title": "Fight for Beasts or Demons in the Blood Pact Event",
       "url": "https://ea.com/games/apex-legends/apex-legends/news/blood-pact-event",
@@ -20512,7 +20495,24 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/01_HERO_Original_Screenshot_Official_Logo_1920x1080-6cf444c8f554817b4072.jpg",
       "threads_published_at": "2026-11-04T21:03:00.594901+00:00"
+    },
+    {
+      "fingerprint": "bdbb26ed66735bc340acb9a5",
+      "title": "New D&D Book Introduces Some of the Most Terrifying Boss Fights in the Game’s History",
+      "url": "https://polygon.com/dnd-world-of-warcraft-npc-stat-blocks-powerful-bosses",
+      "source": "Polygon",
+      "published_at_source": "2026-11-04T21:00:17+00:00",
+      "score": 8,
+      "event_key": "dnd_world_of_warcraft_book_boss_stat_blocks",
+      "title_ru": "Новая книга Dungeons & Dragons: World of Warcraft добавляет мощных боссов",
+      "threads_teaser_ru": "Новая книга правил Dungeons & Dragons: World of Warcraft переносит культовых героев Azeroth в настольную игру в качестве грозных боссов с огромным запасом здоровья и уникальными способностями.",
+      "telegram_message_id": "2172",
+      "telegram_url": "https://t.me/gamepulse_newss/2172",
+      "telegram_published_at": "2026-11-04T21:17:01.079206+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jaina-proudmoore-dungeons-and-dragons-world-of-warcraft.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4"
     }
   ],
-  "updated_at": "2026-11-04T21:03:00.594992+00:00"
+  "updated_at": "2026-11-04T21:17:01.079558+00:00"
 }
