@@ -20509,9 +20509,10 @@
       "telegram_message_id": "2155",
       "telegram_url": "https://t.me/gamepulse_newss/2155",
       "telegram_published_at": "2026-11-04T17:03:15.822361+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Requiem-Thomas.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Requiem-Thomas.jpg?w=300",
+      "threads_published_at": "2026-11-04T17:03:17.506685+00:00"
     }
   ],
-  "updated_at": "2026-11-04T17:03:15.822692+00:00"
+  "updated_at": "2026-11-04T17:03:17.506789+00:00"
 }
