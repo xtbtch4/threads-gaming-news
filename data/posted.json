@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "74c4999c0614c0522df7f8c7",
-      "title": "Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game | NYCC 2026",
-      "url": "https://ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T23:37:08+00:00",
-      "score": 11,
-      "event_key": "charlie_cox_unannounced_sega_game_nycc_2026",
-      "title_ru": "Чарли Кокс участвует в новой необъявленной игре от Sega",
-      "threads_teaser_ru": "Актер Чарли Кокс подтвердил, что озвучивает главного персонажа в новом неанонсированном проекте от Sega. На запись ушло около 40 часов, а сам актер исполнит роль с американским акцентом.",
-      "telegram_message_id": "970",
-      "telegram_url": "https://t.me/gamepulse_newss/970",
-      "telegram_published_at": "2026-10-09T00:03:02.476834+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/charlie-cox-confirms-he-stars-in-unnanounced-sega-game-1791501696523.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T00:03:03.967402+00:00"
-    },
-    {
       "fingerprint": "06c05fe2d895bfc6cae451c4",
       "title": "Clive Barker’s Hellraiser: Revival – Launch Trailer",
       "url": "https://gamespot.com/videos/clive-barkers-hellraiser-revival-launch-trailer",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/gambit-1793821205520.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T20:32:59.618838+00:00"
+    },
+    {
+      "fingerprint": "d07efd7a68388f019017a0d2",
+      "title": "Liam Neeson Had a Priceless Reaction to Learning Meryl Streep Is Voicing Aslan in Narnia: The Magician's Nephew",
+      "url": "https://ign.com/articles/liam-neeson-had-a-priceless-reaction-to-learning-meryl-streep-is-voicing-aslan-in-narnia-the-magicians-nephew",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T19:07:13+00:00",
+      "score": 9,
+      "event_key": "liam neeson learns meryl streep voices aslan narnia",
+      "title_ru": "Лиам Нисон удивился новости о том, что Мерил Стрип озвучит Аслана в новом фильме по Narnia",
+      "threads_teaser_ru": "Лиам Нисон неожиданно для себя узнал, что Мерил Стрип озвучит Аслана в экранизации The Magician’s Nephew от Греты Гервиг. Его реакция на эту новость попала на видео и завирусилась в сети.",
+      "telegram_message_id": "2170",
+      "telegram_url": "https://t.me/gamepulse_newss/2170",
+      "telegram_published_at": "2026-11-04T20:47:11.183367+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/liam-neeson-reacts-meryl-streep-narnia-1793819020548.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T20:32:59.618928+00:00"
+  "updated_at": "2026-11-04T20:47:11.183710+00:00"
 }
