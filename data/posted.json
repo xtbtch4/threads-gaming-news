@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c6e6352a8b81201f0dd9c5e",
-      "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
-      "url": "https://eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T12:09:17+00:00",
-      "score": 13,
-      "event_key": "gta 6 new gameplay leak cyberleek video",
-      "title_ru": "Новая утечка GTA 6 показала 25 минут игрового процесса",
-      "threads_teaser_ru": "Инсайдер CyberLeek опубликовал 25-минутное видео с игровым процессом GTA 6. В ролике показали сцены с главными героями, езду на мотоциклах и элементы меню разработчика.",
-      "telegram_message_id": "939",
-      "telegram_url": "https://t.me/gamepulse_newss/939",
-      "telegram_published_at": "2026-10-08T12:46:56.352200+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T12:46:57.928389+00:00"
-    },
-    {
       "fingerprint": "1e95682dc0e19f372f1b5d57",
       "title": "New Leadership Appointments and XBOX Division",
       "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789419286.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T11:32:25.998284+00:00"
+    },
+    {
+      "fingerprint": "ba638a189a415b77b870b78f",
+      "title": "The Elder Scrolls 6: Sentinel Teaser's In-Universe Quote Sparks Timeline Speculation",
+      "url": "https://ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T10:35:30+00:00",
+      "score": 9,
+      "event_key": "the elder scrolls 6 sentinel teaser timeline speculation",
+      "title_ru": "Тизер The Elder Scrolls VI: Sentinel вызвал дискуссии о таймлайне игры",
+      "threads_teaser_ru": "Новый тизер The Elder Scrolls VI: Sentinel породил множество теорий о таймлайне игры. Фанаты спорят, развернутся ли события всего через пять лет после Skyrim или же действие перенесется на столетия вперед.",
+      "telegram_message_id": "2139",
+      "telegram_url": "https://t.me/gamepulse_newss/2139",
+      "telegram_published_at": "2026-11-04T12:17:58.619465+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sentinel-1793788470269.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T11:32:25.998382+00:00"
+  "updated_at": "2026-11-04T12:17:58.619727+00:00"
 }
