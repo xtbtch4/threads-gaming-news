@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2134",
       "telegram_url": "https://t.me/gamepulse_newss/2134",
       "telegram_published_at": "2026-11-04T02:02:53.593262+00:00",
-      "threads_id": null,
-      "image_url": "https://assets1.ignimgs.com/2014/08/26/bond-connery-cigarette-1280png-ed5f90.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets1.ignimgs.com/2014/08/26/bond-connery-cigarette-1280png-ed5f90.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-04T02:02:54.977393+00:00"
     }
   ],
-  "updated_at": "2026-11-04T02:02:53.593520+00:00"
+  "updated_at": "2026-11-04T02:02:54.977477+00:00"
 }
