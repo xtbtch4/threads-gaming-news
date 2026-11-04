@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2cdada926949f2b6fe49f2fa",
-      "title": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
-      "url": "https://eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T15:47:01+00:00",
-      "score": 10,
-      "event_key": "Bobby Kotick joins board of directors of Skydance",
-      "title_ru": "Бобби Котик вошел в совет директоров Skydance",
-      "threads_teaser_ru": "Бывший глава Activision Бобби Котик вернулся в индустрию: он вошел в совет директоров Skydance. Это новая компания, образованная после слияния Warner Bros. и Paramount. Теперь холдинг контролирует игровые франшизы уровня Mortal Kombat и Hogwarts Legacy.",
-      "telegram_message_id": "968",
-      "telegram_url": "https://t.me/gamepulse_newss/968",
-      "telegram_published_at": "2026-10-08T23:17:19.605719+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/skydance-logo_eHsmNzr.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T23:17:20.866516+00:00"
-    },
-    {
       "fingerprint": "2a67b29e0a530701fe2cde0c",
       "title": "Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026",
       "url": "https://ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HoT_Xbox_DLC_TheLostArchives_Thumbnail-ef5abeaf83a17a438e50.jpg",
       "threads_published_at": "2026-11-04T20:03:07.217999+00:00"
+    },
+    {
+      "fingerprint": "62331c7d5e12663338ed959f",
+      "title": "Zelda: Ocarina Of Time’s Remake Brings Back The Funniest Joke Nintendo Ever Told",
+      "url": "https://gamespot.com/articles/zelda-ocarina-of-times-remake-brings-back-the-funniest-joke-nintendo-ever-told",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-04T13:00:00+00:00",
+      "score": 10,
+      "event_key": "zelda ocarina of time remake king zora joke",
+      "title_ru": "Ремейк The Legend of Zelda: Ocarina of Time сохранил знаменитую шутку с King Zora",
+      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time сохранил знаменитую и комично медленную сцену с King Zora, которая стала культовым мемом среди фанатов.",
+      "telegram_message_id": "2168",
+      "telegram_url": "https://t.me/gamepulse_newss/2168",
+      "telegram_published_at": "2026-11-04T20:16:55.800634+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_12.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-04T20:03:07.218099+00:00"
+  "updated_at": "2026-11-04T20:16:55.800911+00:00"
 }
