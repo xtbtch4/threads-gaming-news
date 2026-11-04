@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ac63fd85dd8cab26e8000a27",
-      "title": "Experience the epic KINGDOM HEARTS saga! – News – Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/experience-the-epic-kingdom-hearts-saga",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-08T16:00:00+00:00",
-      "score": 13,
-      "event_key": "kingdom hearts collections released on nintendo switch 2",
-      "title_ru": "Серия KINGDOM HEARTS вышла на Nintendo Switch 2",
-      "threads_teaser_ru": "Три сборника KINGDOM HEARTS теперь доступны на Nintendo Switch 2 в виде нативных версий. Владельцы старых облачных версий могут перенести сохранения и получить скидку.",
-      "telegram_message_id": "956",
-      "telegram_url": "https://t.me/gamepulse_newss/956",
-      "telegram_published_at": "2026-10-08T17:32:30.171070+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-08T17:32:31.617596+00:00"
-    },
-    {
       "fingerprint": "0e4d3ad4802de5d07cc072b9",
       "title": "Critical Role joins Rockbeasts, launching January 2027.",
       "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Requiem-Thomas.jpg?w=300",
       "threads_published_at": "2026-11-04T17:03:17.506685+00:00"
+    },
+    {
+      "fingerprint": "f1b23a04b016d77aa40325e8",
+      "title": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords",
+      "url": "https://rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-04T17:03:10+00:00",
+      "score": 12,
+      "event_key": "stardeus huge early access update released",
+      "title_ru": "Масштабное обновление для колониального симулятора Stardeus",
+      "threads_teaser_ru": "Для вдохновленного Rimworld симулятора Stardeus вышло крупнейшее обновление в раннем доступе, включившее более 1500 изменений за год разработки. Игроки получили новые инструменты для роли злого искусственного интеллекта.",
+      "telegram_message_id": "2156",
+      "telegram_url": "https://t.me/gamepulse_newss/2156",
+      "telegram_published_at": "2026-11-04T17:18:02.489337+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Stardeus-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-04T17:03:17.506789+00:00"
+  "updated_at": "2026-11-04T17:18:02.489749+00:00"
 }
