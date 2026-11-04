@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c6670b81dd03035a8c8d697",
-      "title": "Free Play Days – ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More",
-      "url": "https://news.xbox.com/en-us/2026/10/08/free-play-days-10-08-2026",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-08T15:00:00+00:00",
-      "score": 16,
-      "event_key": "xbox_free_play_days_october_2026_arc_raiders_stalker_2",
-      "title_ru": "ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl и другие игры стали доступны в рамках Free Play Days",
-      "threads_teaser_ru": "Новая акция Free Play Days на Xbox предлагает бесплатный доступ к ARC Raiders, Screamer и Family Man, а также временные пробные версии S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III и других игр.",
-      "telegram_message_id": "948",
-      "telegram_url": "https://t.me/gamepulse_newss/948",
-      "telegram_published_at": "2026-10-08T15:02:29.159038+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10-08-2026_1920x1080-3674c710590bef8ec839.jpg",
-      "threads_published_at": "2026-10-08T15:02:30.991276+00:00"
-    },
-    {
       "fingerprint": "9ae8611b654494100d52ee8d",
       "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
       "url": "https://ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
@@ -20512,7 +20495,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dnd-wow_343702-1.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sqshorts5-how-do-you-know-if-you-re-a-good-dm-1793637454.mp4",
       "threads_published_at": "2026-11-04T14:32:29.872186+00:00"
+    },
+    {
+      "fingerprint": "086290f4d032fc6378b85a58",
+      "title": "Ubisoft Could Be The Company That Keeps Marvel’s Blade Alive",
+      "url": "https://gamespot.com/articles/ubisoft-could-be-the-company-that-keeps-marvels-blade-alive",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-04T13:21:14+00:00",
+      "score": 9,
+      "event_key": "ubisoft in talks to acquire arkane lyon",
+      "title_ru": "Ubisoft может приобрести разработчиков Marvel’s Blade",
+      "threads_teaser_ru": "Ubisoft ведет переговоры о покупке студии Arkне Lyon, разрабатывающей Marvel’s Blade. Если до декабря сделка не состоится, студия может быть закрыта.",
+      "telegram_message_id": "2148",
+      "telegram_url": "https://t.me/gamepulse_newss/2148",
+      "telegram_published_at": "2026-11-04T14:47:14.593391+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Monkeys-Paw.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-04T14:32:29.872314+00:00"
+  "updated_at": "2026-11-04T14:47:14.593629+00:00"
 }
