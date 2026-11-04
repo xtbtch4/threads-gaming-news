@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "be26e4aac61f31c2604edaf0",
-      "title": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
-      "url": "https://eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T17:00:00+00:00",
-      "score": 15,
-      "event_key": "dave the diver subnautica 2 crossover dlc announcement",
-      "title_ru": "Анонсировано финальное DLC для Dave the Diver с кроссовером с Subnautica 2",
-      "threads_teaser_ru": "Для Dave the Diver анонсировано бесплатное финальное DLC, созданное в сотрудничестве с командой Subnautica 2. Дополнение выйдет в начале 2027 года и отправит героев на океанскую луну Proteus.",
-      "telegram_message_id": "954",
-      "telegram_url": "https://t.me/gamepulse_newss/954",
-      "telegram_published_at": "2026-10-08T17:03:29.175770+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dave-the-diver--subnautica-2-dlc-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T17:03:33.800706+00:00"
-    },
-    {
       "fingerprint": "47e971add16bed1efb061a4c",
       "title": "Strange Scaffold Saved This New Tactics Game From Cancellation",
       "url": "https://gamespot.com/articles/strange-scaffold-saved-this-new-tactics-game-from-cancellation",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sentinel-xbox-1793791749240.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T16:32:47.679725+00:00"
+    },
+    {
+      "fingerprint": "703b07123e3625df1a34ccf1",
+      "title": "Phantom Blade Zero’s Toughest Early Boss Gets Big Nerf in New Update",
+      "url": "https://polygon.com/phantom-blade-zero-early-game-boss-nerf-hua",
+      "source": "Polygon",
+      "published_at_source": "2026-11-04T16:42:01+00:00",
+      "score": 10,
+      "event_key": "Phantom Blade Zero first major patch 1.0302256 release",
+      "title_ru": "Первый крупный патч для Phantom Blade Zero ослабил одного из боссов",
+      "threads_teaser_ru": "В первом крупном патче Phantom Blade Zero ослабили босса Hua, the Deadly Betrothed на низких уровнях сложности. Также обновление улучшило производительность на PC, ускорило запуск игры и исправило ряд технических ошибок, препятствовавших прогрессу.",
+      "telegram_message_id": "2154",
+      "telegram_url": "https://t.me/gamepulse_newss/2154",
+      "telegram_published_at": "2026-11-04T16:47:56.768064+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-04T16:32:47.679828+00:00"
+  "updated_at": "2026-11-04T16:47:56.768188+00:00"
 }
