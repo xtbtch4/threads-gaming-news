@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2133",
       "telegram_url": "https://t.me/gamepulse_newss/2133",
       "telegram_published_at": "2026-11-04T01:32:26.318724+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-04T01:32:27.644551+00:00"
     }
   ],
-  "updated_at": "2026-11-04T01:32:26.319033+00:00"
+  "updated_at": "2026-11-04T01:32:27.644647+00:00"
 }
