@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "30bf2821f9190cd10fdfbf64",
-      "title": "13 Years Later, One of Telltale’s Greatest Games Is Officially Making a Comeback",
-      "url": "https://polygon.com/the-wolf-among-us-remastered-release-date",
-      "source": "Polygon",
-      "published_at_source": "2026-10-08T18:20:16+00:00",
-      "score": 7,
-      "event_key": "The Wolf Among Us Remastered release date announcement",
-      "title_ru": "Анонсирован выход The Wolf Among Us Remastered",
-      "threads_teaser_ru": "Telltale Games анонсировала ремастер The Wolf Among Us: релиз состоится 29 октября 2026 года на множестве платформ, включая PC, консоли текущего поколения и Nintendo Switch 2. Игроков ждет обновленная графика и любопытный Noir Mode.",
-      "telegram_message_id": "982",
-      "telegram_url": "https://t.me/gamepulse_newss/982",
-      "telegram_published_at": "2026-10-09T03:18:11.930623+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-wolf-among-us-header.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-09T03:18:13.172454+00:00"
-    },
-    {
       "fingerprint": "3a302bebe32ca4aff0ae3c33",
       "title": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution",
       "url": "https://rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
@@ -20515,7 +20498,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vin_ironpull_final.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/spin-offs-v2-1793395126.mp4",
       "threads_published_at": "2026-11-04T23:32:16.323937+00:00"
+    },
+    {
+      "fingerprint": "fb67f0630e6dec1c743e01c5",
+      "title": "Preview Two New Ways to Play with XBOX Cloud Gaming",
+      "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-04T19:00:00+00:00",
+      "score": 7,
+      "event_key": "xbox cloud gaming phone controller nano controller preview",
+      "title_ru": "Новые функции для XBOX Cloud Gaming",
+      "threads_teaser_ru": "Для XBOX Cloud Gaming стали доступны две новые функции: использование телефона в качестве контроллера на Smart TV и тестирование технологии cloud connect с новым XBOX Nano Controller.",
+      "telegram_message_id": "2182",
+      "telegram_url": "https://t.me/gamepulse_newss/2182",
+      "telegram_published_at": "2026-11-04T23:47:00.253740+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png"
     }
   ],
-  "updated_at": "2026-11-04T23:32:16.324071+00:00"
+  "updated_at": "2026-11-04T23:47:00.253868+00:00"
 }
