@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c5af7425a1a9e5027194da8a",
-      "title": "GTA 6 – How Criminal Profiles Could Change Grand Theft Auto",
-      "url": "https://gamespot.com/videos/gta-6-how-criminal-profiles-could-change-grand-theft-auto",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T21:00:00+00:00",
-      "score": 11,
-      "event_key": "GTA 6 new criminal profiles mechanic",
-      "title_ru": "В Grand Theft Auto VI появятся «криминальные профили»",
-      "threads_teaser_ru": "В Grand Theft Auto VI появится новая механика CriminalProfiles. Она будет отслеживать стиль игры каждого преступника и может серьезно повлиять на игровой процесс.",
-      "telegram_message_id": "965",
-      "telegram_url": "https://t.me/gamepulse_newss/965",
-      "telegram_published_at": "2026-10-08T21:17:40.238087+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA6_CriminalProfile_20261007_site.jpg?w=300",
-      "threads_published_at": "2026-10-08T21:17:41.607226+00:00"
-    },
-    {
       "fingerprint": "4f46c2583c6859c8688da077",
       "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
       "url": "https://rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/legend-of-zelda-ocarina-remake-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-04T19:17:34.103436+00:00"
+    },
+    {
+      "fingerprint": "2a19b7a9ef9bc7e17f3fad97",
+      "title": "Sonic the Hedgehog Shows Up in New Angry Birds 3 Trailer for Some Reason",
+      "url": "https://ign.com/articles/sonic-the-hedgehog-new-angry-birds-3-trailer",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T16:56:28+00:00",
+      "score": 11,
+      "event_key": "sonic-the-hedgehog-cameo-in-angry-birds-3-trailer",
+      "title_ru": "Sonic the Hedgehog появился в трейлере фильма The Angry Birds Movie 3",
+      "threads_teaser_ru": "Sonic the Hedgehog неожиданно появился в новом трейлере анимационного фильма The Angry Birds Movie 3. Персонаж бежит по лесу вместе с Chuck, которого озвучивает Josh Gad. Премьера картины состоится 23 декабря.",
+      "telegram_message_id": "2165",
+      "telegram_url": "https://t.me/gamepulse_newss/2165",
+      "telegram_published_at": "2026-11-04T19:32:28.148130+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/angrythumbono-1793801883927.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T19:17:34.103523+00:00"
+  "updated_at": "2026-11-04T19:32:28.148243+00:00"
 }
