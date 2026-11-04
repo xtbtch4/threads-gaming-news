@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b50b80b7caf4322fb1e12044",
-      "title": "Fight for Beasts or Demons in the Blood Pact Event",
-      "url": "https://ea.com/games/apex-legends/apex-legends/news/blood-pact-event",
-      "source": "Respawn / Apex Legends",
-      "published_at_source": "2026-10-08T15:00:00+00:00",
-      "score": 10,
-      "event_key": "Apex Legends Blood Pact event announcement",
-      "title_ru": "В Apex Legends стартует событие Blood Pact",
-      "threads_teaser_ru": "В Apex Legends грядет событие Blood Pact: с 13 октября по 3 ноября игрокам предстоит выбрать сторону Beasts или Demons. Сражайтесь в туманном Kings Canyon, выполняйте испытания и получайте уникальные сверхспособности для своих отрядов.",
-      "telegram_message_id": "973",
-      "telegram_url": "https://t.me/gamepulse_newss/973",
-      "telegram_published_at": "2026-10-09T00:47:13.006547+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/21kMVLKxEenjwgtH5KZc67/8f8524ac4a8339c1692df46217b35de4/ApexS30_BloodPact_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.47421875,yPosition=0.5814814814814815",
-      "threads_published_at": "2026-10-09T00:47:14.427457+00:00"
-    },
-    {
       "fingerprint": "9b4c8f65cba0a383c082a010",
       "title": "Finn Jones Calls Iron Fist’s Return in Daredevil: Born Again a 'Wonderful Gift' | NYCC 2026",
       "url": "https://ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3",
@@ -20513,7 +20496,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jaina-proudmoore-dungeons-and-dragons-world-of-warcraft.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4",
       "threads_published_at": "2026-11-04T21:17:02.763476+00:00"
+    },
+    {
+      "fingerprint": "c206445a7b92eae4d395e011",
+      "title": "The Avengers #1 Review: A Marvel Relaunch Done Right",
+      "url": "https://ign.com/articles/the-avengers-1-review-a-marvel-relaunch-done-right",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T19:55:00+00:00",
+      "score": 8,
+      "event_key": "avengers-1-comic-relaunch-review-ign",
+      "title_ru": "Рецензия на The Avengers #1",
+      "threads_teaser_ru": "Издание IGN оценило первый выпуск перезапущенной серии The Avengers от Chip Zdarsky и Marco Checchetto. Новая команда собирается после событий Avengers: Armageddon.",
+      "telegram_message_id": "2173",
+      "telegram_url": "https://t.me/gamepulse_newss/2173",
+      "telegram_published_at": "2026-11-04T21:32:27.674449+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/17/avengers-armageddon-twist-blogroll-1789676768102.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T21:17:02.763601+00:00"
+  "updated_at": "2026-11-04T21:32:27.674729+00:00"
 }
