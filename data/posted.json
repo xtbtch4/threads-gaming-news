@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b10370683ab91c91efdd165c",
-      "title": "Triple-I Initiative October 2026: Everything Announced At The Showcase",
-      "url": "https://gamespot.com/articles/triple-i-initiative-october-2026-everything-announced-at-the-showcase",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T16:45:17+00:00",
-      "score": 8,
-      "event_key": "Triple-I Initiative showcase October 2026 announcements",
-      "title_ru": "Анонсы Triple-I Initiative: октябрь 2026",
-      "threads_teaser_ru": "Evil Empire провели вторую презентацию Triple-I Initiative в 2026 году. Анонсированы The Talos Principle 3, Machinarium 2 и детектив по вселенной Among Us, а для многих проектов уже выпустили демоверсии в Steam.",
-      "telegram_message_id": "976",
-      "telegram_url": "https://t.me/gamepulse_newss/976",
-      "telegram_published_at": "2026-10-09T01:33:22.932812+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4679775-triple-i.jpg?w=300",
-      "threads_published_at": "2026-10-09T01:33:24.480823+00:00"
-    },
-    {
       "fingerprint": "70a00a189e69b0e249b3b915",
       "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
       "url": "https://ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sonywh1000xx-1793819644875.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T22:02:23.208560+00:00"
+    },
+    {
+      "fingerprint": "3b8926a542895d61bbdf3dfe",
+      "title": "PUBG: Battlegrounds Gets K-Pop Girl Group Collab",
+      "url": "https://ign.com/articles/pubg-battlegrounds-k-pop-girl-group-collab",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T20:11:05+00:00",
+      "score": 7,
+      "event_key": "PUBG Battlegrounds collaboration with K-pop group IVE",
+      "title_ru": "PUBG: Battlegrounds проводит коллаборацию с K-pop группой IVE",
+      "threads_teaser_ru": "PUBG: Battlegrounds запускает коллаборацию с K-pop группой IVE. В игру добавят образы участниц коллектива, тематические локации, эмоции и скины, основанные на песне «Love Dive». Обновление уже доступно на PC, а владельцы консолей получат контент 12 ноября.",
+      "telegram_message_id": "2176",
+      "telegram_url": "https://t.me/gamepulse_newss/2176",
+      "telegram_published_at": "2026-11-04T22:17:27.364725+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/pubg-battlegrounds-x-ive-cosmetics-1793811071818.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T22:02:23.208652+00:00"
+  "updated_at": "2026-11-04T22:17:27.365109+00:00"
 }
