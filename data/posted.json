@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4f46c2583c6859c8688da077",
-      "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
-      "url": "https://rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-08T21:56:00+00:00",
-      "score": 10,
-      "event_key": "Pony Island 2 Panda Circus playtest and free original game",
-      "title_ru": "Открыта регистрация на плейтест Pony Island 2: Panda Circus, оригинал временно раздают бесплатно",
-      "threads_teaser_ru": "Стартовал прием заявок на плейтест Pony Island 2: Panda Circus — записаться можно прямо в Steam. Тем временем первую часть серии отдают бесплатно до 12 октября. Рассказываем, что известно о дате релиза и геймплее новой игры от создателя Inscryption.",
-      "telegram_message_id": "966",
-      "telegram_url": "https://t.me/gamepulse_newss/966",
-      "telegram_published_at": "2026-10-08T22:04:01.345182+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/pony-island-2-panda-circus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T22:04:05.592728+00:00"
-    },
-    {
       "fingerprint": "c0d7efb4f0c31a89e33d8b93",
       "title": "Street Fighter 6 Producer Reveals How He Helped Save Capcom’s Iconic Fighting Game Franchise From ‘Dying’",
       "url": "https://ign.com/articles/street-fighter-6-producer-reveals-how-he-helped-save-capcoms-iconic-fighting-game-franchise-from-dying",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/angrythumbono-1793801883927.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T19:32:29.431564+00:00"
+    },
+    {
+      "fingerprint": "b4647e3741278577924bc256",
+      "title": "KFC Reveals Official Avengers: Doomsday Menu 'Worthy' of Dr. Doom",
+      "url": "https://ign.com/articles/kfc-reveals-official-avengers-doomsday-menu-worthy-of-dr-doom",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T16:50:34+00:00",
+      "score": 11,
+      "event_key": "kfc_avengers_doomsday_menu_collaboration_2026",
+      "title_ru": "KFC анонсировала специальное меню в честь фильма Avengers: Doomsday",
+      "threads_teaser_ru": "KFC представила масштабное тематическое меню и коллекционные фигурки в стиле Dr. Doom в рамках коллаборации с грядущим блокбастером Avengers: Doomsday.",
+      "telegram_message_id": "2166",
+      "telegram_url": "https://t.me/gamepulse_newss/2166",
+      "telegram_published_at": "2026-11-04T19:47:14.481130+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/kfcdoomsday-1793809670103.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T19:32:29.431649+00:00"
+  "updated_at": "2026-11-04T19:47:14.481310+00:00"
 }
