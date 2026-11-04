@@ -20507,10 +20507,11 @@
       "telegram_message_id": "2143",
       "telegram_url": "https://t.me/gamepulse_newss/2143",
       "telegram_published_at": "2026-11-04T13:32:43.950986+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2048/11/358db084c61592f9526d21109dffa73f26468ff0-scaled.jpg",
-      "video_url": "https://stream.mux.com/ySl0101C00Vq00lXnbcVUfNrhcB00MNogFd8Rf9QdnJsEl6M/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5U2wwMTAxQzAwVnEwMGxYbmJjVlVmTnJoY0IwME1Ob2dGZDhSZjlRZG5Kc0VsNk0iLCJhdWQiOiJ2IiwiZXhwIjoxNzkzODQyMDczLCJraWQiOiI0TDV5T2NqclYxTlVxVnpjVXZKQm4xd1RtNGVUR0c5TWgwMjAxWWs1anU5TkEifQ.HCbnOTOhVWoi38E9d5TpOjEssP3ldGTnbD9hhBe9SS518KEjCOsXRvKOutf5udLL0sx99GW-4AW8laC0Go0EUahy-MaW35OrSZYCvCipDbpgAItWqukYBKMP_EkDjKZ8aQ8cJsFdsZ2HwX8moNxezNSuh2RQIU51_alE9lgdUtSojxn6kHTFyDmp72czByigj8gsA-lM2NCeTILmOtYYLK6I0vgCjn4VDB10WhtFPsG4Ei07f0yy7hgP-T755pyvnf-sPI2YzhjXnrl89KX95n_f9xKmtjdYStTnk086DiQMhDrTzrERxFdHlMo3zobOw8-zkYvftyr3cBdYH_JIVw"
+      "video_url": "https://stream.mux.com/ySl0101C00Vq00lXnbcVUfNrhcB00MNogFd8Rf9QdnJsEl6M/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5U2wwMTAxQzAwVnEwMGxYbmJjVlVmTnJoY0IwME1Ob2dGZDhSZjlRZG5Kc0VsNk0iLCJhdWQiOiJ2IiwiZXhwIjoxNzkzODQyMDczLCJraWQiOiI0TDV5T2NqclYxTlVxVnpjVXZKQm4xd1RtNGVUR0c5TWgwMjAxWWs1anU5TkEifQ.HCbnOTOhVWoi38E9d5TpOjEssP3ldGTnbD9hhBe9SS518KEjCOsXRvKOutf5udLL0sx99GW-4AW8laC0Go0EUahy-MaW35OrSZYCvCipDbpgAItWqukYBKMP_EkDjKZ8aQ8cJsFdsZ2HwX8moNxezNSuh2RQIU51_alE9lgdUtSojxn6kHTFyDmp72czByigj8gsA-lM2NCeTILmOtYYLK6I0vgCjn4VDB10WhtFPsG4Ei07f0yy7hgP-T755pyvnf-sPI2YzhjXnrl89KX95n_f9xKmtjdYStTnk086DiQMhDrTzrERxFdHlMo3zobOw8-zkYvftyr3cBdYH_JIVw",
+      "threads_published_at": "2026-11-04T13:32:45.554036+00:00"
     }
   ],
-  "updated_at": "2026-11-04T13:32:43.951227+00:00"
+  "updated_at": "2026-11-04T13:32:45.554139+00:00"
 }
