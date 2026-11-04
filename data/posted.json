@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e5339d5f685aecb5ecf94a54",
-      "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-      "url": "https://eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T15:07:42+00:00",
-      "score": 13,
-      "event_key": "gta-6-headphones-radio-podcasts-announcement",
-      "title_ru": "В GTA 6 появится возможность слушать радио через наушники вне транспорта",
-      "threads_teaser_ru": "В Grand Theft Auto 6 впервые появится возможность слушать радио и новые подкасты вне транспорта с помощью наушников и смартфонов. Релиз игры намечен на 19 ноября.",
-      "telegram_message_id": "951",
-      "telegram_url": "https://t.me/gamepulse_newss/951",
-      "telegram_published_at": "2026-10-08T15:47:12.169592+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T15:47:13.685690+00:00"
-    },
-    {
       "fingerprint": "3f137893ac75926b28741d07",
       "title": "Tekken 8’s Reina Teased as the Next Guest Character for Fatal Fury: City of the Wolves",
       "url": "https://ign.com/articles/tekken-8-reina-teased-fatal-fury-city-of-the-wolves",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4542593-switch-2-cart.jpg?w=300",
       "threads_published_at": "2026-11-04T15:32:52.025760+00:00"
+    },
+    {
+      "fingerprint": "d1ef5e3a2bd6ca0cb3b2262c",
+      "title": "Former Halo Composer Marty O’Donnell Loses Congressional Race In Nevada",
+      "url": "https://gamespot.com/articles/former-halo-composer-marty-odonnell-loses-congressional-race-in-nevada",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-04T15:18:41+00:00",
+      "score": 13,
+      "event_key": "marty odonnell loses congressional race in nevada",
+      "title_ru": "Бывший композитор Halo Marty O’Donnell проиграл выборы в Конгресс США",
+      "threads_teaser_ru": "Бывший композитор Halo и Bungie Marty O’Donnell проиграл выборы в Палату представителей США в Неваде. Кандидат от республиканцев уступил действующему представителю Демократической партии Susie Lee.",
+      "telegram_message_id": "2151",
+      "telegram_url": "https://t.me/gamepulse_newss/2151",
+      "telegram_published_at": "2026-11-04T15:47:06.453970+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/marty-odonell-composer-headshot-2048x1365-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-04T15:32:52.025852+00:00"
+  "updated_at": "2026-11-04T15:47:06.454102+00:00"
 }
