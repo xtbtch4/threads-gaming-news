@@ -20509,9 +20509,10 @@
       "telegram_message_id": "2167",
       "telegram_url": "https://t.me/gamepulse_newss/2167",
       "telegram_published_at": "2026-11-04T20:03:05.792479+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HoT_Xbox_DLC_TheLostArchives_Thumbnail-ef5abeaf83a17a438e50.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HoT_Xbox_DLC_TheLostArchives_Thumbnail-ef5abeaf83a17a438e50.jpg",
+      "threads_published_at": "2026-11-04T20:03:07.217999+00:00"
     }
   ],
-  "updated_at": "2026-11-04T20:03:05.792923+00:00"
+  "updated_at": "2026-11-04T20:03:07.218099+00:00"
 }
