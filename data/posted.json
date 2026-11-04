@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "87e4a0d934c24bd393964d4f",
-      "title": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month",
-      "url": "https://eurogamer.net/2xko-sett-announcement-final-update",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T15:25:05+00:00",
-      "score": 15,
-      "event_key": "riot-games-announces-final-update-sett-2xko",
-      "title_ru": "Riot Games анонсировала финальное обновление для файтинга 2XKO",
-      "threads_teaser_ru": "Riot Games показала финальный трейлер файтинга 2XKO перед его закрытием. В последнее обновление 27 октября войдет не только Самира, но и неожиданно анонсированный Sett.",
-      "telegram_message_id": "950",
-      "telegram_url": "https://t.me/gamepulse_newss/950",
-      "telegram_published_at": "2026-10-08T15:32:46.879514+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/2xko-sett-chair.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T15:32:49.089352+00:00"
-    },
-    {
       "fingerprint": "e5339d5f685aecb5ecf94a54",
       "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
       "url": "https://eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/batmanknightfall-part-2-knightquest-blogroll-1793648605940.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T15:03:26.415064+00:00"
+    },
+    {
+      "fingerprint": "e38ce0d43e7f0cfe2168e49c",
+      "title": "Nintendo Could Have A New Cartridge Problem On Its Hands",
+      "url": "https://gamespot.com/articles/nintendo-could-have-a-new-cartridge-problem-on-its-hands",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-04T15:04:06+00:00",
+      "score": 15,
+      "event_key": "macronix_exits_rom_manufacturing_nintendo_cartridge_problem",
+      "title_ru": "Nintendo столкнулась с возможным дефицитом чипов для картриджей",
+      "threads_teaser_ru": "Один из ключевых производителей ROM-чипов для Nintendo планирует полностью прекратить их выпуск ради более прибыльного рынка памяти для ИИ. Это может привести к росту цен на картриджи или распространению Game-Key Cards.",
+      "telegram_message_id": "2150",
+      "telegram_url": "https://t.me/gamepulse_newss/2150",
+      "telegram_published_at": "2026-11-04T15:32:50.369221+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4542593-switch-2-cart.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-04T15:03:26.415148+00:00"
+  "updated_at": "2026-11-04T15:32:50.369489+00:00"
 }
