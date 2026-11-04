@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2a67b29e0a530701fe2cde0c",
-      "title": "Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026",
-      "url": "https://ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T16:05:00+00:00",
-      "score": 14,
-      "event_key": "jay and silent bobs joint venture revealed at nycc 2026",
-      "title_ru": "Анонсирован симулятор фермы Jay and Silent Bob’s Joint Venture",
-      "threads_teaser_ru": "На New York Comic Con 2026 показали трейлер и детали Jay and Silent Bob’s Joint Venture — уютного симулятора фермы во вселенной Кевина Смита. Релиз на PC ожидается весной 2027 года.",
-      "telegram_message_id": "969",
-      "telegram_url": "https://t.me/gamepulse_newss/969",
-      "telegram_published_at": "2026-10-08T23:31:58.131413+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/joint-venture-1280c-1791483925424.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T23:31:59.581585+00:00"
-    },
-    {
       "fingerprint": "74c4999c0614c0522df7f8c7",
       "title": "Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game | NYCC 2026",
       "url": "https://ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_12.jpg?w=300",
       "threads_published_at": "2026-11-04T20:16:57.146810+00:00"
+    },
+    {
+      "fingerprint": "19b63dcef50e54fa62f334de",
+      "title": "Channing Tatum Shows Off Updated Gambit Accent in New Avengers: Doomsday Ad",
+      "url": "https://ign.com/articles/channing-tatum-shows-off-updated-gambit-accent-in-new-avengers-doomsday-ad",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T19:46:26+00:00",
+      "score": 9,
+      "event_key": "channing-tatum-updated-gambit-accent-avengers-doomsday",
+      "title_ru": "Ченнинг Татум обновил акцент Гамбита для Avengers: Doomsday",
+      "threads_teaser_ru": "Ченнинг Татум показал обновленный акцент Гамбита в новой рекламе фильма Avengers: Doomsday и Dunkin Donuts. Как изменился голос персонажа после Deadpool & Wolverine и почему создатели решили его смягчить.",
+      "telegram_message_id": "2169",
+      "telegram_url": "https://t.me/gamepulse_newss/2169",
+      "telegram_published_at": "2026-11-04T20:32:58.193344+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/gambit-1793821205520.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T20:16:57.146888+00:00"
+  "updated_at": "2026-11-04T20:32:58.193654+00:00"
 }
