@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "953eaff77479ba0f9d0affac",
-      "title": "US Video Game Hardware Sales Just Had Their Worst August In 13 Years",
-      "url": "https://gamespot.com/articles/us-video-game-hardware-sales-just-had-their-worst-august-in-13-years",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T06:00:00+00:00",
-      "score": 8,
-      "event_key": "US video game hardware sales worst August in 13 years",
-      "title_ru": "Продажи консолей в США показали худший результат для августа за 13 лет",
-      "threads_teaser_ru": "Рынок игровых консолей в США столкнулся с заметным спадом. Августовские продажи аппаратного обеспечения оказались худшими за последние 13 лет, опустившись на 15% в годовом исчислении до отметки в 559 тысяч проданных устройств.",
-      "telegram_message_id": "979",
-      "telegram_url": "https://t.me/gamepulse_newss/979",
-      "telegram_published_at": "2026-10-09T02:32:45.763693+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-09T02:32:46.948912+00:00"
-    },
-    {
       "fingerprint": "40bb56f1f69a7a8c8c42728e",
       "title": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
       "url": "https://ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
@@ -20514,7 +20497,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/frago_banner_2560x1440.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/fragmentary-order-official-gameplay-reveal-1793824288.mp4",
       "threads_published_at": "2026-11-04T22:46:43.913100+00:00"
+    },
+    {
+      "fingerprint": "6156b71234645f08aa359237",
+      "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
+      "url": "https://ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T22:42:19+00:00",
+      "score": 15,
+      "event_key": "gta 6 surpasses 750 million in preorders",
+      "title_ru": "GTA 6 собрала более $750 млн на предзаказах",
+      "threads_teaser_ru": "До релиза GTA 6 остается две недели, а игра уже преодолела отметку в $750 миллионов выручки с предзаказов на PlayStation 5 и Xbox. Известно, как разделились продажи между консолями.",
+      "telegram_message_id": "2179",
+      "telegram_url": "https://t.me/gamepulse_newss/2179",
+      "telegram_published_at": "2026-11-04T23:02:50.164781+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T22:46:43.913215+00:00"
+  "updated_at": "2026-11-04T23:02:50.164975+00:00"
 }
