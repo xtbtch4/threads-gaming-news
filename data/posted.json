@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4b9bb7b157f3a2a9d12d1578",
-      "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
-      "url": "https://gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T11:54:16+00:00",
-      "score": 15,
-      "event_key": "new-25-minute-gta-6-gameplay-footage-leaked",
-      "title_ru": "В сети появилось новое 25-минутное видео с геймплеем GTA 6",
-      "threads_teaser_ru": "Инсайдер Cyberleek вновь привлек внимание фанатов Grand Theft Auto 6, опубликовав архив с новым видеоматериалом. Пользователи Reddit обсуждают 25-минутный ролик, в котором якобы содержатся свежие геймплейные кадры и сюжетные сцены с участием Jason.",
-      "telegram_message_id": "936",
-      "telegram_url": "https://t.me/gamepulse_newss/936",
-      "telegram_published_at": "2026-10-08T12:02:41.298427+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/Feature_GTA6_site.jpg?w=300",
-      "threads_published_at": "2026-10-08T12:02:42.888527+00:00"
-    },
-    {
       "fingerprint": "55aad514f2f868bad7f7365e",
       "title": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
       "url": "https://eurogamer.net/xbox-xp-product-partnerships-places-productions",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-04T09:32:07.763007+00:00"
+    },
+    {
+      "fingerprint": "fd9a1aff4ca9d04259a054de",
+      "title": "Guild Wars gets its first major gameplay update in almost 20 years",
+      "url": "https://eurogamer.net/guild-wars-1-afterlife-announced-20-years",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-04T09:59:17+00:00",
+      "score": 15,
+      "event_key": "guild-wars-afterlife-announced-by-arenanet",
+      "title_ru": "Анонсировано дополнение Guild Wars Afterlife",
+      "threads_teaser_ru": "Для оригинальной Guild Wars анонсировано первое крупное обновление почти за 20 лет под названием Guild Wars Afterlife. Оно добавит регион Xotecha, сюжет и новые механики.",
+      "telegram_message_id": "2136",
+      "telegram_url": "https://t.me/gamepulse_newss/2136",
+      "telegram_published_at": "2026-11-04T10:02:34.642893+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/guild-wars-1-afterlife-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-04T09:32:07.763102+00:00"
+  "updated_at": "2026-11-04T10:02:34.643025+00:00"
 }
