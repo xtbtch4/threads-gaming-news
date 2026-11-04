@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9ae8611b654494100d52ee8d",
-      "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
-      "url": "https://ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T14:49:11+00:00",
-      "score": 15,
-      "event_key": "rockstar-releases-new-gta-6-screenshots-and-radio-stations",
-      "title_ru": "Rockstar показала новые скриншоты GTA 6 и детали радиостанций",
-      "threads_teaser_ru": "Rockstar представила три новых скриншота GTA 6 и раскрыла часть радиостанций с известными ведущими. На свежих кадрах показали дневные и ночные виды, плотный трафик и впечатляющие отражения в лужах.",
-      "telegram_message_id": "949",
-      "telegram_url": "https://t.me/gamepulse_newss/949",
-      "telegram_published_at": "2026-10-08T15:17:09.252891+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/huhrrx9xaaa-x6a-1791470923038.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T15:17:10.952225+00:00"
-    },
-    {
       "fingerprint": "87e4a0d934c24bd393964d4f",
       "title": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month",
       "url": "https://eurogamer.net/2xko-sett-announcement-final-update",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Monkeys-Paw.jpg?w=300",
       "threads_published_at": "2026-11-04T14:47:16.241828+00:00"
+    },
+    {
+      "fingerprint": "3317f77d5cfc330242348a61",
+      "title": "Batman: Knightfall Part 2: Knightquest Release Date and Box Art Revealed",
+      "url": "https://ign.com/articles/batman-knightfall-part-2-knightquest-release-date-box-art-fight-scene",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T15:00:00+00:00",
+      "score": 15,
+      "event_key": "batman knightfall part 2 knightquest release date announced",
+      "title_ru": "Анонсирована дата выхода Batman: Knightfall Part 2: Knightquest",
+      "threads_teaser_ru": "Стала известна дата выхода полнометражного анимационного фильма Batman: Knightfall Part 2: Knightquest. Продолжение истории о защите Готэма выйдет в декабре 2026 года на цифровых носителях и физических дисках.",
+      "telegram_message_id": "2149",
+      "telegram_url": "https://t.me/gamepulse_newss/2149",
+      "telegram_published_at": "2026-11-04T15:03:23.188802+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/batmanknightfall-part-2-knightquest-blogroll-1793648605940.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T14:47:16.241905+00:00"
+  "updated_at": "2026-11-04T15:03:23.189105+00:00"
 }
