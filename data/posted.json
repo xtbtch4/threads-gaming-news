@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "47e971add16bed1efb061a4c",
-      "title": "Strange Scaffold Saved This New Tactics Game From Cancellation",
-      "url": "https://gamespot.com/articles/strange-scaffold-saved-this-new-tactics-game-from-cancellation",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T17:00:00+00:00",
-      "score": 15,
-      "event_key": "strange scaffold saved gods with badges from cancellation",
-      "title_ru": "Анонсирована тактическая игра Gods With Badges",
-      "threads_teaser_ru": "Студия Strange Scaffold спасла от отмены тактическую игру Gods With Badges, которую изначально разрабатывали авторы из Artificer. Проект расскажет о полицейской в антиутопическом городе и выйдет на PC в 2027 году.",
-      "telegram_message_id": "955",
-      "telegram_url": "https://t.me/gamepulse_newss/955",
-      "telegram_published_at": "2026-10-08T17:17:29.273252+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Gods-With-Badges.jpg?w=300",
-      "threads_published_at": "2026-10-08T17:17:30.712815+00:00"
-    },
-    {
       "fingerprint": "ac63fd85dd8cab26e8000a27",
       "title": "Experience the epic KINGDOM HEARTS saga! – News – Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/experience-the-epic-kingdom-hearts-saga",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-04T16:47:58.395418+00:00"
+    },
+    {
+      "fingerprint": "1dc83f6e965803d77b0fbb8c",
+      "title": "Nexus Mods Won’t Ban AI Mods, But It Won’t Let Them Hide Either",
+      "url": "https://gamespot.com/articles/nexus-mods-wont-ban-ai-mods-but-it-wont-let-them-hide-either",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-04T16:39:12+00:00",
+      "score": 15,
+      "event_key": "nexus mods mandatory ai disclosures and filters",
+      "title_ru": "Nexus Mods вводит обязательную маркировку модов с использованием ИИ",
+      "threads_teaser_ru": "Nexus Mods не станет запрещать моды с использованием искусственного интеллекта, но вводит обязательную маркировку и возможность полностью фильтровать такой контент в поиске.",
+      "telegram_message_id": "2155",
+      "telegram_url": "https://t.me/gamepulse_newss/2155",
+      "telegram_published_at": "2026-11-04T17:03:15.822361+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Requiem-Thomas.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-04T16:47:58.395504+00:00"
+  "updated_at": "2026-11-04T17:03:15.822692+00:00"
 }
