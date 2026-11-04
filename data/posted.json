@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1289345fbefe93d3b2fd72d8",
-      "title": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs",
-      "url": "https://rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-08T18:30:00+00:00",
-      "score": 7,
-      "event_key": "patch 5.01 for The Witcher 3: Wild Hunt Remastered",
-      "title_ru": "Вышел патч 5.01 для The Witcher 3: Wild Hunt — Remastered",
-      "threads_teaser_ru": "Для The Witcher 3: Wild Hunt — Remastered вышел патч 5.01. Обновление исправляет проблемы с освещением, ошибки графических настроек на PC, анимации лестниц и некоторые баги, влиявшие на поведение Геральта в бою.",
-      "telegram_message_id": "981",
-      "telegram_url": "https://t.me/gamepulse_newss/981",
-      "telegram_published_at": "2026-10-09T03:03:41.314078+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/the-witcher-3-remastered-bloom-patch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T03:03:42.710034+00:00"
-    },
-    {
       "fingerprint": "30bf2821f9190cd10fdfbf64",
       "title": "13 Years Later, One of Telltale’s Greatest Games Is Officially Making a Comeback",
       "url": "https://polygon.com/the-wolf-among-us-remastered-release-date",
@@ -20514,7 +20497,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/26/escapefromplaytimeannouncementtrailer-ign-blogroll-1787775657213.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T23:17:19.078480+00:00"
+    },
+    {
+      "fingerprint": "95a81b0566c7c0777b23a824",
+      "title": "Brandon Sanderson’s Mistborn TTRPG Lays the Groundwork for His Next Series",
+      "url": "https://polygon.com/brandon-sanderson-mistborn-ttrpg-interview",
+      "source": "Polygon",
+      "published_at_source": "2026-11-04T19:01:06+00:00",
+      "score": 7,
+      "event_key": "brotherwise-games-releases-mistborn-ttrpg-books",
+      "title_ru": "Brotherwise Games выпустила настольную ролевую игру по Mistborn",
+      "threads_teaser_ru": "Компания Brotherwise Games выпустила настольную ролевую игру по Mistborn. Новые книги охватывают две эпохи вселенной Брэндона Сандерсона и закладывают основу для его будущих произведений.",
+      "telegram_message_id": "2181",
+      "telegram_url": "https://t.me/gamepulse_newss/2181",
+      "telegram_published_at": "2026-11-04T23:32:14.886675+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vin_ironpull_final.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/spin-offs-v2-1793395126.mp4"
     }
   ],
-  "updated_at": "2026-11-04T23:17:19.078559+00:00"
+  "updated_at": "2026-11-04T23:32:14.886999+00:00"
 }
