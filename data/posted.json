@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3d03287feb2e4059a95e0e93",
-      "title": "Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year",
-      "url": "https://gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T19:11:11+00:00",
-      "score": 15,
-      "event_key": "ubisoft shutting down rainbow six mobile",
-      "title_ru": "Ubisoft закрывает Rainbow Six Mobile",
-      "threads_teaser_ru": "Ubisoft объявила о закрытии шутера Rainbow Six Mobile, который полностью вышел для всех в феврале 2026 года. Серверы игры будут отключены 16 января 2027 года.",
-      "telegram_message_id": "960",
-      "telegram_url": "https://t.me/gamepulse_newss/960",
-      "telegram_published_at": "2026-10-08T19:17:18.605251+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/SixMobile.png?w=300",
-      "threads_published_at": "2026-10-08T19:17:20.217339+00:00"
-    },
-    {
       "fingerprint": "fae65d9327d4885419067369",
       "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
       "url": "https://ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-04T18:07:09.488737+00:00"
+    },
+    {
+      "fingerprint": "5e24668ea08eae2741e091a1",
+      "title": "Indie Selects for November 2026: Survive and Thrive",
+      "url": "https://news.xbox.com/en-us/2026/11/04/indie-selects-november",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-04T18:00:00+00:00",
+      "score": 12,
+      "event_key": "xbox_indie_selects_november_2026",
+      "title_ru": "Подборка Indie Selects за ноябрь 2026 года",
+      "threads_teaser_ru": "Команда ID@XBOX представила ноябрьскую подборку Indie Selects на платформе Xbox, в которую вошли хоррор Silver Pines, Graveyard Keeper 2 и Warhammer 40K: Boltgun 2.",
+      "telegram_message_id": "2160",
+      "telegram_url": "https://t.me/gamepulse_newss/2160",
+      "telegram_published_at": "2026-11-04T18:17:33.134817+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/IndieSelects_November2026_Laurel_Wire-1ea798cb1cbb4993ad7e.jpg"
     }
   ],
-  "updated_at": "2026-11-04T18:07:09.488822+00:00"
+  "updated_at": "2026-11-04T18:17:33.135066+00:00"
 }
