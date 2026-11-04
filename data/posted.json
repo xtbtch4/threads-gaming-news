@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f675fae37af70d9b675ee134",
-      "title": "LEGO The Marvel Skyline Set Announced",
-      "url": "https://ign.com/articles/lego-marvel-skyline-set-announced",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T13:58:33+00:00",
-      "score": 11,
-      "event_key": "lego-the-marvel-skyline-set-announced",
-      "title_ru": "Анонсирован новый набор LEGO The Marvel Skyline",
-      "threads_teaser_ru": "Компания LEGO представила новый набор The Marvel Skyline, включающий микроверсии знаменитых зданий из вселенной Marvel вроде Avengers Tower и Daily Bugle, а также минифигурку Галактуса.",
-      "telegram_message_id": "944",
-      "telegram_url": "https://t.me/gamepulse_newss/944",
-      "telegram_published_at": "2026-10-08T14:03:26.621229+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/lego-marvel-skyline-blogroll2-1791466894470.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T14:03:28.176225+00:00"
-    },
-    {
       "fingerprint": "473bca4ed70333181eafae54",
       "title": "Pull Up to 7-Eleven in Forza Horizon 6",
       "url": "https://news.xbox.com/en-us/2026/10/08/forza-horizon-6-7-eleven",
@@ -20511,7 +20494,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/11/358db084c61592f9526d21109dffa73f26468ff0-scaled.jpg",
       "video_url": "https://stream.mux.com/ySl0101C00Vq00lXnbcVUfNrhcB00MNogFd8Rf9QdnJsEl6M/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5U2wwMTAxQzAwVnEwMGxYbmJjVlVmTnJoY0IwME1Ob2dGZDhSZjlRZG5Kc0VsNk0iLCJhdWQiOiJ2IiwiZXhwIjoxNzkzODQyMDczLCJraWQiOiI0TDV5T2NqclYxTlVxVnpjVXZKQm4xd1RtNGVUR0c5TWgwMjAxWWs1anU5TkEifQ.HCbnOTOhVWoi38E9d5TpOjEssP3ldGTnbD9hhBe9SS518KEjCOsXRvKOutf5udLL0sx99GW-4AW8laC0Go0EUahy-MaW35OrSZYCvCipDbpgAItWqukYBKMP_EkDjKZ8aQ8cJsFdsZ2HwX8moNxezNSuh2RQIU51_alE9lgdUtSojxn6kHTFyDmp72czByigj8gsA-lM2NCeTILmOtYYLK6I0vgCjn4VDB10WhtFPsG4Ei07f0yy7hgP-T755pyvnf-sPI2YzhjXnrl89KX95n_f9xKmtjdYStTnk086DiQMhDrTzrERxFdHlMo3zobOw8-zkYvftyr3cBdYH_JIVw",
       "threads_published_at": "2026-11-04T13:32:45.554036+00:00"
+    },
+    {
+      "fingerprint": "ed0e42ea5d56518b06e7551c",
+      "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
+      "url": "https://eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-04T13:34:57+00:00",
+      "score": 15,
+      "event_key": "macronix-ending-rom-manufacturing-for-nintendo-switch-cartridges",
+      "title_ru": "Производитель картриджей для Nintendo Switch и Switch 2 уходит из бизнеса",
+      "threads_teaser_ru": "Один из ключевых производителей ROM-памяти для картриджей Nintendo Switch и Switch 2 объявил о прекращении выпуска таких компонентов к концу третьего квартала финансового года 2026. Это может отразиться на стоимости физических игр.",
+      "telegram_message_id": "2144",
+      "telegram_url": "https://t.me/gamepulse_newss/2144",
+      "telegram_published_at": "2026-11-04T13:47:44.113646+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/switch-2-cartridge-macronix-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-04T13:32:45.554139+00:00"
+  "updated_at": "2026-11-04T13:47:44.114072+00:00"
 }
