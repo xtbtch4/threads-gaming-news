@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f3e7b70a4f42d06a83dd6df6",
-      "title": "You Have Minutes to Live: Introducing Echo Weaver",
-      "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-08T16:30:00+00:00",
-      "score": 8,
-      "event_key": "Echo Weaver release on Xbox and Game Pass",
-      "title_ru": "Анонсирован релиз Echo Weaver на Xbox",
-      "threads_teaser_ru": "Разработчики из Moonlight Kids выпустили Echo Weaver на Xbox. Это необычная «Metroidbrainia», где вместо прокачки снаряжения нужно использовать знания, полученные в ходе временных петель. Игра уже доступна в Game Pass.",
-      "telegram_message_id": "978",
-      "telegram_url": "https://t.me/gamepulse_newss/978",
-      "telegram_published_at": "2026-10-09T02:17:35.160220+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EW_Graphic_Xbox_TitleHeroArt_1920x1080_v1-d4ee7662df615685cc59.jpg",
-      "threads_published_at": "2026-10-09T02:17:36.631907+00:00"
-    },
-    {
       "fingerprint": "953eaff77479ba0f9d0affac",
       "title": "US Video Game Hardware Sales Just Had Their Worst August In 13 Years",
       "url": "https://gamespot.com/articles/us-video-game-hardware-sales-just-had-their-worst-august-in-13-years",
@@ -20513,7 +20496,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/05/dbbeerus-1788635408468.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T22:32:39.630026+00:00"
+    },
+    {
+      "fingerprint": "7fc25f305220fcb72c8ba055",
+      "title": "Escape From Tarkov Creator Reveals New Hardcore Sci-Fi Shooter",
+      "url": "https://polygon.com/fragmentary-order-escape-from-tarkov-creator-new-sci-fi-shooter",
+      "source": "Polygon",
+      "published_at_source": "2026-11-04T22:32:32+00:00",
+      "score": 10,
+      "event_key": "fragmentary-order-announced-nikita-buyanov-sci-fi-shooter",
+      "title_ru": "Анонсирован хардкорный научно-фантастический шутер Fragmentary Order",
+      "threads_teaser_ru": "Создатель Escape from Tarkov анонсировал хардкорный научно-фантастический шутер Fragmentary Order. Игра переносит привычную формулу в сеттинг Солнечной системы 2251 года, где игроки управляют клонами.",
+      "telegram_message_id": "2178",
+      "telegram_url": "https://t.me/gamepulse_newss/2178",
+      "telegram_published_at": "2026-11-04T22:46:42.470753+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/frago_banner_2560x1440.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/fragmentary-order-official-gameplay-reveal-1793824288.mp4"
     }
   ],
-  "updated_at": "2026-11-04T22:32:39.630124+00:00"
+  "updated_at": "2026-11-04T22:46:42.471048+00:00"
 }
