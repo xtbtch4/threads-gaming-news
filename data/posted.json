@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8e93579ca835c4f40d45e2d8",
-      "title": "Netflix’s Bioshock Movie Just Got an Exciting Update",
-      "url": "https://polygon.com/bioshock-movie-netflix-director-script-in-progress",
-      "source": "Polygon",
-      "published_at_source": "2026-10-08T17:01:51+00:00",
-      "score": 10,
-      "event_key": "Francis Lawrence nearing completion of BioShock movie script",
-      "title_ru": "Режиссер экранизации BioShock сообщил о завершении работы над сценарием",
-      "threads_teaser_ru": "Экранизация BioShock от Netflix наконец подала признаки жизни: режиссер Francis Lawrence подтвердил, что сценарий почти готов. Работа над фильмом затянулась на годы из-за забастовок в Голливуде, но теперь постановщик готов сфокусироваться на проекте после завершения своих текущих дел.",
-      "telegram_message_id": "958",
-      "telegram_url": "https://t.me/gamepulse_newss/958",
-      "telegram_published_at": "2026-10-08T18:48:37.432155+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6725791/1608-2K_BioShock-The-Collection_Bio1_Andrew-Ryan-Statue.0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/ep5s2-v2-1790344739.mp4",
-      "threads_published_at": "2026-10-08T18:48:39.045528+00:00"
-    },
-    {
       "fingerprint": "712af2f4c4163215867e923a",
       "title": "Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board",
       "url": "https://gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board",
@@ -20512,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/laufey.png?w=300",
       "threads_published_at": "2026-11-04T17:32:55.146264+00:00"
+    },
+    {
+      "fingerprint": "9c51508c1e7b6b26b8d88349",
+      "title": "Stormlight Archive 6 Gets a Major Official Update From Brandon Sanderson",
+      "url": "https://polygon.com/brandon-sanderson-stormlight-archive-6-mistborn-movie-update",
+      "source": "Polygon",
+      "published_at_source": "2026-11-04T17:01:33+00:00",
+      "score": 12,
+      "event_key": "brandon-sanderson-stormlight-archive-6-mistborn-movie-update",
+      "title_ru": "Brandon Sanderson начал работу над The Stormlight Archive 6",
+      "threads_teaser_ru": "Brandon Sanderson начал подготовку к созданию шестой книги цикла The Stormlight Archive и поделился подробностями о написании киносценария по первой трилогии Mistborn.",
+      "telegram_message_id": "2158",
+      "telegram_url": "https://t.me/gamepulse_newss/2158",
+      "telegram_published_at": "2026-11-04T17:47:10.611000+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/brandon_sanderson.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-04T17:32:55.146356+00:00"
+  "updated_at": "2026-11-04T17:47:10.611143+00:00"
 }
