@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c60540e452debc07741dc2d9",
-      "title": "Jessica Chastain Reveals the ‘Painful’ Secret to her Terrifying Smile in Other Mommy",
-      "url": "https://ign.com/articles/jessica-chastain-reveals-the-painful-secret-to-her-terrifying-smile-in-other-mommy",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T19:41:54+00:00",
-      "score": 11,
-      "event_key": "jessica chastain other mommy smile secret",
-      "title_ru": "Jessica Chastain раскрыла секрет своей жуткой улыбки в Other Mommy",
-      "threads_teaser_ru": "Jessica Chastain рассказала, как физическая боль помогла ей создать жуткую улыбку для роли в хорроре Other Mommy. Актриса продемонстрировала пугающую мимику в эфире шоу Jimmy Kimmel Live перед выходом фильма в прокат.",
-      "telegram_message_id": "964",
-      "telegram_url": "https://t.me/gamepulse_newss/964",
-      "telegram_published_at": "2026-10-08T20:32:33.209940+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/jessica-chastain-other-mommy-smile-1791488366864.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T20:32:34.699779+00:00"
-    },
-    {
       "fingerprint": "c5af7425a1a9e5027194da8a",
       "title": "GTA 6 – How Criminal Profiles Could Change Grand Theft Auto",
       "url": "https://gamespot.com/videos/gta-6-how-criminal-profiles-could-change-grand-theft-auto",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ffx-1793745771955.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T19:02:33.132677+00:00"
+    },
+    {
+      "fingerprint": "f56171610d38bf5d44f80f07",
+      "title": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions",
+      "url": "https://eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-04T19:15:40+00:00",
+      "score": 11,
+      "event_key": "navi-actor-returns-zelda-ocarina-of-time-remake",
+      "title_ru": "Актриса озвучки Navi вернулась к роли в ремейке The Legend of Zelda: Ocarina of Time спустя 28 лет",
+      "threads_teaser_ru": "Nintendo случайно пригласила ту же актрису озвучить Navi в ремейке The Legend of Zelda: Ocarina of Time спустя 28 лет после выхода оригинала на N64. Слепые прослушивания привели к удивительному совпадению.",
+      "telegram_message_id": "2164",
+      "telegram_url": "https://t.me/gamepulse_newss/2164",
+      "telegram_published_at": "2026-11-04T19:17:32.777146+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/legend-of-zelda-ocarina-remake-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-04T19:02:33.132769+00:00"
+  "updated_at": "2026-11-04T19:17:32.777333+00:00"
 }
