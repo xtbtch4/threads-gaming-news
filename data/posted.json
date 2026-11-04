@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7e14dc01f6caf243a7f5f7a2",
-      "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
-      "url": "https://eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T11:35:03+00:00",
-      "score": 15,
-      "event_key": "world of warcraft forever skyborne race visual changes",
-      "title_ru": "Blizzard изменит внешность новой расы Skyborne в World of Warcraft: Forever из-за отзывов игроков",
-      "threads_teaser_ru": "Разработчики World of Warcraft: Forever готовят визуальные изменения для новой расы Skyborne в ответ на отзывы игроков. Модели получат доработанные текстуры и эстетику классической эпохи MMO.",
-      "telegram_message_id": "935",
-      "telegram_url": "https://t.me/gamepulse_newss/935",
-      "telegram_published_at": "2026-10-08T11:47:20.842945+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-skyborn-work-in-progress-models.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-08T11:47:22.718256+00:00"
-    },
-    {
       "fingerprint": "4b9bb7b157f3a2a9d12d1578",
       "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
       "url": "https://gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets1.ignimgs.com/2014/08/26/bond-connery-cigarette-1280png-ed5f90.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-04T02:02:54.977393+00:00"
+    },
+    {
+      "fingerprint": "4fb46b0ab74e8142be764f67",
+      "title": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
+      "url": "https://eurogamer.net/arkane-studios-ubisoft-interested-buyers",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-04T09:17:51+00:00",
+      "score": 13,
+      "event_key": "Ubisoft and other companies interested in buying Arkane",
+      "title_ru": "Ubisoft претендует на покупку Arkane Studios",
+      "threads_teaser_ru": "Ubisoft и еще несколько компаний ведут переговоры о покупке Arkane Studios у Microsoft. У студии есть время до декабря, чтобы найти нового владельца и избежать закрытия.",
+      "telegram_message_id": "2135",
+      "telegram_url": "https://t.me/gamepulse_newss/2135",
+      "telegram_published_at": "2026-11-04T09:32:06.520589+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-04T02:02:54.977477+00:00"
+  "updated_at": "2026-11-04T09:32:06.520900+00:00"
 }
