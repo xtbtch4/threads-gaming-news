@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "61c93ad6bda4681dedd0137d",
-      "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
-      "url": "https://ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T18:19:41+00:00",
-      "score": 11,
-      "event_key": "Final Fantasy VII Revelation Polydroid Shiva announcement NYCC 2026",
-      "title_ru": "В Final Fantasy VII Revelation появится Polydroid Shiva в исполнении Marisha Ray",
-      "threads_teaser_ru": "В Final Fantasy VII Revelation добавят необычную версию Shiva — Polydroid Shiva. Её озвучила Marisha Ray, жена актера, подарившего голос Vincent Valentine. Также стали известны подробности об объеме работы актеров озвучки и примерное время прохождения игры.",
-      "telegram_message_id": "962",
-      "telegram_url": "https://t.me/gamepulse_newss/962",
-      "telegram_published_at": "2026-10-08T19:48:49.213670+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/shiva-1791483258644.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-08T19:48:50.886170+00:00"
-    },
-    {
       "fingerprint": "e0d17d6b298732ac8c4d1eab",
       "title": "Marvel Television and Marvel Animation New York Comic Con 2026 Panel [Live Updates]",
       "url": "https://ign.com/articles/marvel-television-animation-new-york-comic-con-2026-panel-disney-plus",
@@ -20512,7 +20495,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4",
       "threads_published_at": "2026-11-04T18:32:55.176235+00:00"
+    },
+    {
+      "fingerprint": "141e77aaa6c83c336ad231f0",
+      "title": "Final Fantasy’s Yoshinori Kitase Teases What’s Next for Square Enix, Says Company Will Prioritize New Games Over Remakes",
+      "url": "https://ign.com/articles/square-enix-new-games-remakes-kitase-interview",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T18:00:00+00:00",
+      "score": 11,
+      "event_key": "square_enix_prioritize_new_games_over_remakes_kitase",
+      "title_ru": "Square Enix сфокусируется на новых играх, а не ремейках",
+      "threads_teaser_ru": "Продюсер серии Final Fantasy Йосинори Китас заявил, что Square Enix будет в приоритетном порядке инвестировать в новые игры, а не в ремейки старой классики.",
+      "telegram_message_id": "2162",
+      "telegram_url": "https://t.me/gamepulse_newss/2162",
+      "telegram_published_at": "2026-11-04T18:47:07.713925+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/yoshinori-kitase-interview-blogroll-1793738480688.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T18:32:55.176357+00:00"
+  "updated_at": "2026-11-04T18:47:07.714198+00:00"
 }
