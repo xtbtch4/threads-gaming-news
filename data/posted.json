@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "609ec45204ba82034dc653cb",
-      "title": "Arc Raiders Celeste’s Teenage Rebellion Quest Guide",
-      "url": "https://gamespot.com/articles/arc-raiders-celestes-teenage-rebellion-quest-guide",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T17:51:45+00:00",
-      "score": 8,
-      "event_key": "Arc Raiders Celeste's Teenage Rebellion quest guide",
-      "title_ru": "Гайд по выполнению задания Celeste's Teenage Rebellion в Arc Raiders",
-      "threads_teaser_ru": "В Arc Raiders вышло обновление Frozen Trail, но даже с новой картой старые задания никуда не делись. Рассказываем, как пройти квест Celeste's Teenage Rebellion: где искать вышку, как починить генератор на Riven Tides и что можно получить в качестве награды за выполнение.",
-      "telegram_message_id": "1009",
-      "telegram_url": "https://t.me/gamepulse_newss/1009",
-      "telegram_published_at": "2026-10-09T15:03:44.137473+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.08-13.03.57.37-e1791480736755.png?w=300",
-      "threads_published_at": "2026-10-09T15:03:45.487631+00:00"
-    },
-    {
       "fingerprint": "5bd5b32fc770147601f617ac",
       "title": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure",
       "url": "https://rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/marvels-blade-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-05T12:16:56.227948+00:00"
+    },
+    {
+      "fingerprint": "ca24b65e3ee477e18efd60e9",
+      "title": "You can now play Pillars of Eternity and Pillars of Eternity 2: Deadfire with a controller on PC from start to finish, thanks to a new update open for testing",
+      "url": "https://rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T12:27:20+00:00",
+      "score": 10,
+      "event_key": "Pillars of Eternity and Deadfire get PC controller support",
+      "title_ru": "Pillars of Eternity и Pillars of Eternity 2: Deadfire получили поддержку геймпадов на PC",
+      "threads_teaser_ru": "Владельцы Pillars of Eternity и Pillars of Eternity 2: Deadfire на PC получили возможность играть с геймпадом от начала до конца. Obsidian также переработали пошаговый режим во второй части, сделав его динамичнее и отзывчивее.",
+      "telegram_message_id": "2209",
+      "telegram_url": "https://t.me/gamepulse_newss/2209",
+      "telegram_published_at": "2026-11-05T12:32:18.309349+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/coming_soon_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T12:16:56.228048+00:00"
+  "updated_at": "2026-11-05T12:32:18.309504+00:00"
 }
