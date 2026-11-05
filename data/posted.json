@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2425850be496e1808eaadc7f",
-      "title": "World of Warcraft: Forever – “Your Adventure Begins” Trailer",
-      "url": "https://gamespot.com/videos/world-of-warcraft-forever-your-adventure-begins-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-09T17:31:59+00:00",
-      "score": 11,
-      "event_key": "world of warcraft forever your adventure begins trailer",
-      "title_ru": "Трейлер World of Warcraft: Forever под названием «Your Adventure Begins»",
-      "threads_teaser_ru": "Опубликован свежий трейлер World of Warcraft: Forever под названием «Your Adventure Begins». Он знакомит игроков с новыми заданиями, персонажами и наградами в Azeroth.",
-      "telegram_message_id": "1024",
-      "telegram_url": "https://t.me/gamepulse_newss/1024",
-      "telegram_published_at": "2026-10-09T18:47:10.731567+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_f7cbd4.jpg?w=300",
-      "threads_published_at": "2026-10-09T18:47:12.043047+00:00"
-    },
-    {
       "fingerprint": "d90031691b35c57e3c90b3b8",
       "title": "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
       "url": "https://ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300",
       "threads_published_at": "2026-11-05T16:47:57.060164+00:00"
+    },
+    {
+      "fingerprint": "63ed694fd375d9e61c997e4c",
+      "title": "A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud",
+      "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-05T17:00:04+00:00",
+      "score": 16,
+      "event_key": "updated xbox experience coming to pc web and cloud",
+      "title_ru": "Microsoft готовит быстрое и простое обновление XBOX для PC, веб-версий и облака",
+      "threads_teaser_ru": "Участники программы XBOX Insiders получили доступ к обновленному приложению XBOX для PC, которое запускается на 60% быстрее. Также Microsoft обновляет веб-версию и облачные приложения для телевизоров и VR.",
+      "telegram_message_id": "2224",
+      "telegram_url": "https://t.me/gamepulse_newss/2224",
+      "telegram_published_at": "2026-11-05T17:02:39.872648+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOXWire_Bastion_Image1_Header_110526-bb33470068546f1dc696-1024x576.png"
     }
   ],
-  "updated_at": "2026-11-05T16:47:57.060274+00:00"
+  "updated_at": "2026-11-05T17:02:39.872889+00:00"
 }
