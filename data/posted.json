@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cb9006be259977bce3925757",
-      "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
-      "url": "https://gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-09T16:21:38+00:00",
-      "score": 9,
-      "event_key": "battlefield 6 adding proper server browser season 5",
-      "title_ru": "В Battlefield 6 добавят полноценный браузер серверов",
-      "threads_teaser_ru": "Авторы Battlefield 6 анонсировали добавление полноценного браузера серверов, о котором фанаты просили с момента релиза игры. Функция станет доступна в декабре в рамках третьей фазы пятого сезона.",
-      "telegram_message_id": "1037",
-      "telegram_url": "https://t.me/gamepulse_newss/1037",
-      "telegram_published_at": "2026-10-09T22:02:33.616750+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/battlefieldbvegas.png?w=300",
-      "threads_published_at": "2026-10-09T22:02:34.853837+00:00"
-    },
-    {
       "fingerprint": "6b3be03eeecde108c7df439c",
       "title": "Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says",
       "url": "https://ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/N7Day-Large.jpeg?w=300",
       "threads_published_at": "2026-11-05T20:47:04.091279+00:00"
+    },
+    {
+      "fingerprint": "d8281fe4fbbef05cdbf511b6",
+      "title": "Bethesda Is Already Selling The Elder Scrolls 6: Sentinel Merch",
+      "url": "https://ign.com/articles/bethesda-is-already-selling-the-elder-scrolls-6-sentinel-merch",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T20:00:09+00:00",
+      "score": 11,
+      "event_key": "bethesda sells sentinel merch for the elder scrolls 6",
+      "title_ru": "Bethesda запустила в продажу мерч по The Elder Scrolls 6: Sentinel",
+      "threads_teaser_ru": "Bethesda начала продавать официальный мерч в честь недавно анонсированной игры The Elder Scrolls 6: Sentinel. В магазине уже доступны черные футболки и худи с логотипом.",
+      "telegram_message_id": "2237",
+      "telegram_url": "https://t.me/gamepulse_newss/2237",
+      "telegram_published_at": "2026-11-05T21:02:16.924226+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/sentinel-shirt-1793908989285.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T20:47:04.091370+00:00"
+  "updated_at": "2026-11-05T21:02:16.924484+00:00"
 }
