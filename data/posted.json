@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cf4ecff8daebdbb56ea7ebd5",
-      "title": "Every Legend of Zelda LEGO Set Released So Far",
-      "url": "https://ign.com/articles/all-legend-of-zelda-lego-sets",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T11:10:08+00:00",
-      "score": 9,
-      "event_key": "lego-the-legend-of-zelda-sets-overview",
-      "title_ru": "Все наборы LEGO The Legend of Zelda, вышедшие на данный момент",
-      "threads_teaser_ru": "С момента запуска партнерства Nintendo и LEGO в 2020 году вышло несколько наборов по франшизе The Legend of Zelda. Узнайте, какие модели уже поступили в продажу и что известно о возможных будущих релизах.",
-      "telegram_message_id": "1000",
-      "telegram_url": "https://t.me/gamepulse_newss/1000",
-      "telegram_published_at": "2026-10-09T12:47:15.666092+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/18/77093-lifestyle-build-08-1787084382165.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T12:47:16.977134+00:00"
-    },
-    {
       "fingerprint": "67eec46bd1f1c7f275a8dc7a",
       "title": "First Look: Andy Weir Teases New Sci Fi Audio Project Exoplanet",
       "url": "https://ign.com/articles/exoplanet-andy-weir-audible-original-first-look",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/thelegendofzeldaocarinaoftime-31-1793835431077.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T08:32:32.480135+00:00"
+    },
+    {
+      "fingerprint": "8b11af25ef20fc745b226d62",
+      "title": "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
+      "url": "https://ign.com/articles/our-big-interview-with-ocarina-of-time-producers-eiji-aonuma-and-hidemaro-fujibayashi",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T08:00:00+00:00",
+      "score": 6,
+      "event_key": "ocarina-of-time-producers-interview-ign-40th-anniversary",
+      "title_ru": "Интервью с продюсерами The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Продюсеры The Legend of Zelda Эйдзи Аонума и Хидемаро Фудзибаяси рассказали о создании ремейка Ocarina of Time, работе с молодыми разработчиками и 40-летии серии.",
+      "telegram_message_id": "2200",
+      "telegram_url": "https://t.me/gamepulse_newss/2200",
+      "telegram_published_at": "2026-11-05T08:47:32.393040+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/the-legend-of-zelda-ocarina-of-time-remake-developer-1793638906639.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T08:32:32.480219+00:00"
+  "updated_at": "2026-11-05T08:47:32.393319+00:00"
 }
