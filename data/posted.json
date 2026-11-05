@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2223",
       "telegram_url": "https://t.me/gamepulse_newss/2223",
       "telegram_published_at": "2026-11-05T16:47:55.563460+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300",
+      "threads_published_at": "2026-11-05T16:47:57.060164+00:00"
     }
   ],
-  "updated_at": "2026-11-05T16:47:55.563809+00:00"
+  "updated_at": "2026-11-05T16:47:57.060274+00:00"
 }
