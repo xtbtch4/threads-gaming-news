@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "41c325dbb8321ada79ea4bf3",
-      "title": "Square Enix's Forgotten Loot-Shooter Was Years Ahead of Its Time",
-      "url": "https://polygon.com/outridrers-retrospective-review-square-enix",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T22:58:06+00:00",
-      "score": 8,
-      "event_key": "polygon_outriders_retrospective_review_square_enix",
-      "title_ru": "Polygon: почему Outriders опередила свое время",
-      "threads_teaser_ru": "Издание Polygon оценило влияние забытого лутер-шутера Outriders от Square Enix и People Can Fly на современные многопользовательские игры, опередившего тренды 2026 года.",
-      "telegram_message_id": "1043",
-      "telegram_url": "https://t.me/gamepulse_newss/1043",
-      "telegram_published_at": "2026-10-09T23:32:16.154055+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/outriders_launch_8.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-09T23:32:17.606508+00:00"
-    },
-    {
       "fingerprint": "20b624af267485bf18ea3687",
       "title": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
       "url": "https://gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/nicepeopleweightbench-1793917522832.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T23:17:16.188094+00:00"
+    },
+    {
+      "fingerprint": "e43031896f6af61850e37015",
+      "title": "We Analyzed Every Official GTA 6 Screenshot Continued",
+      "url": "https://gamespot.com/videos/we-analyzed-every-official-gta-6-screenshot-continued",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T23:07:32+00:00",
+      "score": 9,
+      "event_key": "analysis of official GTA 6 screenshots by GameSpot",
+      "title_ru": "Новый разбор официальных скриншотов GTA 6",
+      "threads_teaser_ru": "Портал GameSpot представил продолжение анализа официальных скриншотов GTA 6. В новом видеоролике авторы детально рассматривают доступные изображения, пытаясь обнаружить скрытые секреты и интересные детали, которые могли быть упущены ранее.",
+      "telegram_message_id": "2243",
+      "telegram_url": "https://t.me/gamepulse_newss/2243",
+      "telegram_published_at": "2026-11-05T23:47:10.011631+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Screens_V01.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-05T23:17:16.188177+00:00"
+  "updated_at": "2026-11-05T23:47:10.011927+00:00"
 }
