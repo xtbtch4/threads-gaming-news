@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0f750a6bad9da8c102c70ec5",
-      "title": "The Oregon Coast Aquarium Has Now Named Multiple Octopuses After Dungeon Crawler Carl Characters",
-      "url": "https://ign.com/articles/the-oregon-coast-aquarium-has-now-named-multiple-octopuses-after-dungeon-crawler-carl-characters",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T22:02:50+00:00",
-      "score": 9,
-      "event_key": "oregon-coast-aquarium-names-octopuses-dungeon-crawler-carl",
-      "title_ru": "Океанариум в Орегоне назвал осьминогов в честь персонажей Dungeon Crawler Carl",
-      "threads_teaser_ru": "В Oregon Coast Aquarium появился новый гигантский тихоокеанский осьминог по имени Juicebox в честь персонажа из серии Dungeon Crawler Carl. Это уже второй обитатель океанариума, названный в честь героев книг Matt Dinniman.",
-      "telegram_message_id": "1042",
-      "telegram_url": "https://t.me/gamepulse_newss/1042",
-      "telegram_published_at": "2026-10-09T23:16:58.082631+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/dungeon-crawler-carl-octopus-1791582251836.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T23:16:59.783440+00:00"
-    },
-    {
       "fingerprint": "41c325dbb8321ada79ea4bf3",
       "title": "Square Enix's Forgotten Loot-Shooter Was Years Ahead of Its Time",
       "url": "https://polygon.com/outridrers-retrospective-review-square-enix",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/mephisto-one-more-day-1793910677499.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T22:47:32.862880+00:00"
+    },
+    {
+      "fingerprint": "1506fe90314f10d1181558fe",
+      "title": "Expand Your Home Gym With This Adjustable Weight Bench for Just $42 Shipped Ahead of Black Friday",
+      "url": "https://ign.com/articles/nicepeople-weight-bench-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T22:40:00+00:00",
+      "score": 11,
+      "event_key": "nicepeople adjustable weight bench amazon discount black friday",
+      "title_ru": "Скидка на регулируемую скамью для тренировок NICEPEOPLE перед Black Friday",
+      "threads_teaser_ru": "Перед Black Friday на Amazon можно приобрести регулируемую скамью для тренировок NICEPEOPLE Adjustable Weight Bench всего за $41.99 с бесплатной доставкой по купону.",
+      "telegram_message_id": "2242",
+      "telegram_url": "https://t.me/gamepulse_newss/2242",
+      "telegram_published_at": "2026-11-05T23:17:14.746603+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/nicepeopleweightbench-1793917522832.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T22:47:32.862968+00:00"
+  "updated_at": "2026-11-05T23:17:14.746758+00:00"
 }
