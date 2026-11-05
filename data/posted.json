@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dbc8530834ac4ca2aa186f57",
-      "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-      "url": "https://eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-09T18:51:26+00:00",
-      "score": 10,
-      "event_key": "us_xbox_playstation_hardware_sales_decline_2026",
-      "title_ru": "Продажи Xbox и PlayStation упали до новых антирекордов в США",
-      "threads_teaser_ru": "Продажи Xbox и PlayStation в США упали до исторических минимумов на фоне резкого роста цен. Эксперты предупреждают, что рынок не был в столь шатком положении с начала 80-х годов из-за дефицита компонентов памяти.",
-      "telegram_message_id": "1028",
-      "telegram_url": "https://t.me/gamepulse_newss/1028",
-      "telegram_published_at": "2026-10-09T19:46:44.502968+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/PS5-ram.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T19:46:45.857368+00:00"
-    },
-    {
       "fingerprint": "09bff53b772158f5da3a0b9d",
       "title": "Dig up some fun with great games for Halloween! - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/dig-up-some-fun-with-great-games-for-halloween-2026",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EAP_MySimsBundle_PlayListDrop_Social_1920x1080-e793e531979efc252673.jpg",
       "threads_published_at": "2026-11-05T18:17:29.625873+00:00"
+    },
+    {
+      "fingerprint": "9520d9e448b36f9be67f6b48",
+      "title": "Pokémon Cards Get Official Induction Into National Toy Hall of Fame",
+      "url": "https://ign.com/articles/pokemon-cards-get-official-induction-into-national-toy-hall-of-fame",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T17:35:19+00:00",
+      "score": 13,
+      "event_key": "pokemon tcg national toy hall of fame induction",
+      "title_ru": "Pokémon TCG официально включили в National Toy Hall of Fame",
+      "threads_teaser_ru": "Pokémon TCG официально стала частью Национального зала славы игрушек. Карточная игра вошла в список экспонатов музея The Strong в Рочестере вместе с Bingo, Care Bears и классической детской горкой. Эксперты отметили влияние франшизы на культуру.",
+      "telegram_message_id": "2228",
+      "telegram_url": "https://t.me/gamepulse_newss/2228",
+      "telegram_published_at": "2026-11-05T18:32:52.646984+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/pokemonmuseum-1793897763176.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T18:17:29.625962+00:00"
+  "updated_at": "2026-11-05T18:32:52.647232+00:00"
 }
