@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3a302bebe32ca4aff0ae3c33",
-      "title": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution",
-      "url": "https://rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-08T17:00:00+00:00",
-      "score": 7,
-      "event_key": "Lazare’s Sacrifice announcement narrative deckbuilder French Revolution",
-      "title_ru": "Анонсирован сюжетный карточный рогалик Lazare’s Sacrifice",
-      "threads_teaser_ru": "Анонсирована Lazare’s Sacrifice — карточная стратегия от создателя Gwent. Действие разворачивается во время Французской революции, а геймплей завязан на механике жертвования ресурсами ради спасения из тюрьмы. Релиз проекта от Curve Games состоится весной 2027 года.",
-      "telegram_message_id": "983",
-      "telegram_url": "https://t.me/gamepulse_newss/983",
-      "telegram_published_at": "2026-10-09T03:34:08.371677+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/lazares-sacrifice.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T03:34:09.652511+00:00"
-    },
-    {
       "fingerprint": "76fff59b92875a015fa51f83",
       "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Officially Finds a New Streaming Home",
       "url": "https://polygon.com/sydney-sweeney-erotic-thriller-hbo-max",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
       "threads_published_at": "2026-11-04T23:47:01.812915+00:00"
+    },
+    {
+      "fingerprint": "8b46d8ec80328d12ffddc674",
+      "title": "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
+      "url": "https://ign.com/articles/world-of-warcraft-forever-launch-live-blog",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T22:00:00+00:00",
+      "score": 11,
+      "event_key": "world of warcraft forever launch live blog",
+      "title_ru": "Запуск World of Warcraft Forever: старт серверов и очереди",
+      "threads_teaser_ru": "Состоялся релиз World of Warcraft Forever. Игроки столкнулись с очередями и временными неполадками на серверах, но в целом старт проходит стабильно.",
+      "telegram_message_id": "2183",
+      "telegram_url": "https://t.me/gamepulse_newss/2183",
+      "telegram_published_at": "2026-11-05T00:02:38.161869+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/wowforever-6-live-blogroll-1793735791145.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-04T23:47:01.813025+00:00"
+  "updated_at": "2026-11-05T00:02:38.162166+00:00"
 }
