@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ae619462e00007cb672bf63c",
-      "title": "Castlevania: Belmont’s Curse – Everything To Know",
-      "url": "https://gamespot.com/videos/castlevania-belmonts-curse-everything-to-know",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-09T15:00:00+00:00",
-      "score": 7,
-      "event_key": "castlevania belmonts curse everything to know overview",
-      "title_ru": "Всё, что нужно знать о Castlevania: Belmont’s Curse",
-      "threads_teaser_ru": "Узнайте всё о Castlevania: Belmont’s Curse: от позиции проекта в хронологии франшизы до технических особенностей игровых механик.",
-      "telegram_message_id": "1011",
-      "telegram_url": "https://t.me/gamepulse_newss/1011",
-      "telegram_published_at": "2026-10-09T15:32:26.090234+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/etk_belmonts_curse_site.jpg?w=300",
-      "threads_published_at": "2026-10-09T15:32:27.404405+00:00"
-    },
-    {
       "fingerprint": "76b86c9cb5484f1236f618f1",
       "title": "Ball VS Ball codes for October 2026",
       "url": "https://eurogamer.net/ball-vs-ball-codes",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/10/marvels-wolverine-review-blogroll-1789029798227.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T13:32:27.545708+00:00"
+    },
+    {
+      "fingerprint": "98a0d4dc1883579316d2b7ce",
+      "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
+      "url": "https://eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-05T12:48:40+00:00",
+      "score": 11,
+      "event_key": "canadian parliament petition to save bioware mass effect",
+      "title_ru": "Петиция о спасении BioWare набрала достаточно подписей для рассмотрения парламентом Канады",
+      "threads_teaser_ru": "Петиция с призывом к властям Канады спасти студию BioWare преодолела порог для рассмотрения в парламенте. Документ предлагает найти способ выкупить права на Mass Effect.",
+      "telegram_message_id": "2211",
+      "telegram_url": "https://t.me/gamepulse_newss/2211",
+      "telegram_published_at": "2026-11-05T13:46:40.441780+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/liara-canadaian-flag.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T13:32:27.545787+00:00"
+  "updated_at": "2026-11-05T13:46:40.441921+00:00"
 }
