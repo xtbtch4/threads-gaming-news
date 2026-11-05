@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9ba1b6d2ae80a9e2d7d8397c",
-      "title": "Critical Role Just Gave a Controversial Answer to D&D’s Most Important Question",
-      "url": "https://polygon.com/critical-role-campaign-4-episode-37-wicander-death-dnd-dungeons-dragons",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T11:00:16+00:00",
-      "score": 5,
-      "event_key": "Brennan Lee Mulligan handles Critical Role character death controversy",
-      "title_ru": "Спорное решение мастера в 37-м эпизоде Critical Role",
-      "threads_teaser_ru": "В последнем эпизоде Critical Role мастер Brennan Lee Mulligan предпринял спорные шаги, чтобы спасти ключевого персонажа от окончательной гибели. Решение вызвало дискуссию о том, стоит ли идти против правил игры ради сохранения драматического сюжета.",
-      "telegram_message_id": "996",
-      "telegram_url": "https://t.me/gamepulse_newss/996",
-      "telegram_published_at": "2026-10-09T11:17:14.671733+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/critical-role-campaign-4-death-hed.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-09T11:17:16.201413+00:00"
-    },
-    {
       "fingerprint": "680d3dab4541326c44d53812",
       "title": "6 Exciting Upcoming Steam Games to Wishlist Now",
       "url": "https://polygon.com/wishlister-october-9-2026",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_16.png?w=300",
       "threads_published_at": "2026-11-05T05:17:44.332684+00:00"
+    },
+    {
+      "fingerprint": "580b2af1985a7bf92080cdbc",
+      "title": "Zelda: Ocarina Of Time Remake Accidentally Made ReDeads Too Scary At One Point",
+      "url": "https://gamespot.com/articles/zelda-ocarina-of-time-remake-accidentally-made-redeads-too-scary-at-one-point",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T05:00:00+00:00",
+      "score": 5,
+      "event_key": "developers reduced horror element of ReDeads in Zelda Ocarina of Time remake",
+      "title_ru": "Разработчики ремейка The Legend of Zelda: Ocarina of Time сочли ReDeads слишком пугающими",
+      "threads_teaser_ru": "Разработчики ремейка The Legend of Zelda: Ocarina of Time решили сделать врагов ReDeads менее страшными. В процессе создания авторы поняли, что из-за современной графики и звука противники стали чересчур жуткими, поэтому их пришлось слегка изменить для баланса.",
+      "telegram_message_id": "2196",
+      "telegram_url": "https://t.me/gamepulse_newss/2196",
+      "telegram_published_at": "2026-11-05T05:32:19.488013+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_21.png?w=300"
     }
   ],
-  "updated_at": "2026-11-05T05:17:44.332777+00:00"
+  "updated_at": "2026-11-05T05:32:19.488132+00:00"
 }
