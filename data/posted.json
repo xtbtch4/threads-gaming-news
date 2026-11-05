@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2195",
       "telegram_url": "https://t.me/gamepulse_newss/2195",
       "telegram_published_at": "2026-11-05T05:17:43.020782+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_16.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_16.png?w=300",
+      "threads_published_at": "2026-11-05T05:17:44.332684+00:00"
     }
   ],
-  "updated_at": "2026-11-05T05:17:43.021110+00:00"
+  "updated_at": "2026-11-05T05:17:44.332777+00:00"
 }
