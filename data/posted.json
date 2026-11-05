@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "76fff59b92875a015fa51f83",
-      "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Officially Finds a New Streaming Home",
-      "url": "https://polygon.com/sydney-sweeney-erotic-thriller-hbo-max",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T04:00:22+00:00",
-      "score": 8,
-      "event_key": "The Housemaid movie arrives on HBO Max",
-      "title_ru": "Фильм The Housemaid с Сидни Суини стал доступен на HBO Max",
-      "threads_teaser_ru": "Психологический триллер The Housemaid с Сидни Суини и Амандой Сейфрид официально добрался до HBO Max. Картина от режиссера Пола Фига переносит на экран историю о домработнице, оказавшейся в центре опасных семейных интриг, и предлагает зрителям несколько неожиданных сюжетных поворотов.",
-      "telegram_message_id": "984",
-      "telegram_url": "https://t.me/gamepulse_newss/984",
-      "telegram_published_at": "2026-10-09T04:17:42.500428+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/opera-snapshot_2026-10-08_005752_www-imdb-com.png?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-09T04:17:43.806338+00:00"
-    },
-    {
       "fingerprint": "7e116ecd56dd40c0e3676813",
       "title": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'",
       "url": "https://eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/wowforever-6-live-blogroll-1793735791145.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T00:02:39.834028+00:00"
+    },
+    {
+      "fingerprint": "08f5fb0da077e0ed367a43e2",
+      "title": "Pokémon: The Series DVDs Are Getting Early Black Friday Price Drops at Amazon",
+      "url": "https://ign.com/articles/pokemon-the-series-dvds-blu-ray-amazon-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T23:15:00+00:00",
+      "score": 9,
+      "event_key": "pokemon the series early black friday sales amazon 2026",
+      "title_ru": "Скидки на Pokémon: The Series на Amazon",
+      "threads_teaser_ru": "На Amazon стартовали ранние скидки на DVD и Blu-ray с Pokémon: The Series. В продаже также появился предзаказ на лимитированный набор из 24 фильмов в Pokéball.",
+      "telegram_message_id": "2184",
+      "telegram_url": "https://t.me/gamepulse_newss/2184",
+      "telegram_published_at": "2026-11-05T00:16:51.756916+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/pokemon-dvds-1-1793830250652.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T00:02:39.834122+00:00"
+  "updated_at": "2026-11-05T00:16:51.757231+00:00"
 }
