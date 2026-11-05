@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "09bff53b772158f5da3a0b9d",
-      "title": "Dig up some fun with great games for Halloween! - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/dig-up-some-fun-with-great-games-for-halloween-2026",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-09T16:00:00+00:00",
-      "score": 12,
-      "event_key": "nintendo-halloween-2026-games-and-events",
-      "title_ru": "Nintendo анонсировала подборку игр и событий к Halloween 2026",
-      "threads_teaser_ru": "Nintendo представила праздничные подборки игр и октябрьские события для Nintendo Switch 2 и Nintendo Switch к Halloween 2026. Игроков ждут испытания с Oogie Boogie, событие Fortnitemares в Fortnite и многое другое.",
-      "telegram_message_id": "1029",
-      "telegram_url": "https://t.me/gamepulse_newss/1029",
-      "telegram_published_at": "2026-10-09T20:02:36.336499+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-09T20:02:37.986098+00:00"
-    },
-    {
       "fingerprint": "c6a80368ebe39c4c009eec3d",
       "title": "Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral",
       "url": "https://ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/pokemonmuseum-1793897763176.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T18:32:54.210595+00:00"
+    },
+    {
+      "fingerprint": "191c0fc89f2bcc065bba65f2",
+      "title": "Add 25 restored and classic games to your library",
+      "url": "https://ea.com/news/ea-classics-launch",
+      "source": "Electronic Arts",
+      "published_at_source": "2026-11-05T16:30:00+00:00",
+      "score": 13,
+      "event_key": "ea_launches_25_classic_games_on_steam_gog_ea_app",
+      "title_ru": "EA выпустила 25 классических игр в Steam, GOG и EA App",
+      "threads_teaser_ru": "Electronic Arts выпустила 25 классических игр из серий Road Rash, Wing Commander и Ultima в Steam, GOG и EA App. Семь проектов получили улучшенные версии и поддержку современного железа.",
+      "telegram_message_id": "2229",
+      "telegram_url": "https://t.me/gamepulse_newss/2229",
+      "telegram_published_at": "2026-11-05T18:47:16.043886+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/5252lzaUWZ9qwTtv9at99Q/e73fee7fd7fe1d987cbca9a96958e4e8/Wave2_Collage_1920x1080.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     }
   ],
-  "updated_at": "2026-11-05T18:32:54.210680+00:00"
+  "updated_at": "2026-11-05T18:47:16.044236+00:00"
 }
