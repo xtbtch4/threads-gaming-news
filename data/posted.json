@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "73ee0175a80a05b456604c05",
-      "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
-      "url": "https://eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-09T14:42:23+00:00",
-      "score": 15,
-      "event_key": "forza horizon 6 ps5 delayed to 2027",
-      "title_ru": "Релиз Forza Horizon 6 на PS5 перенесен на 2027 год",
-      "threads_teaser_ru": "Релиз Forza Horizon 6 на PlayStation 5 официально перенесен на 26 января 2027 года. Обладатели Premium Edition смогут начать играть уже с 21 января. Тогда же выйдет первое платное дополнение.",
-      "telegram_message_id": "1008",
-      "telegram_url": "https://t.me/gamepulse_newss/1008",
-      "telegram_published_at": "2026-10-09T14:47:13.672977+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Forza-Horizon-6_BS1HQnI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T14:47:15.002337+00:00"
-    },
-    {
       "fingerprint": "609ec45204ba82034dc653cb",
       "title": "Arc Raiders Celeste’s Teenage Rebellion Quest Guide",
       "url": "https://gamespot.com/articles/arc-raiders-celestes-teenage-rebellion-quest-guide",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Switch-2-tabletop-mode.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-05T12:02:41.515260+00:00"
+    },
+    {
+      "fingerprint": "be7c032a667f3e4403934144",
+      "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
+      "url": "https://eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-04T20:33:10+00:00",
+      "score": 11,
+      "event_key": "Arkane Lyon closure vs Marvel's Blade completion cost",
+      "title_ru": "Профсоюз: закрытие Arkane Lyon обойдется Xbox дороже, чем завершение Marvel's Blade",
+      "threads_teaser_ru": "Профсоюз STJV заявил, что закрытие Arkane Lyon экономически невыгодно для Microsoft. Разработка Marvel's Blade идет по графику, а текущие задержки — результат прошлой кадровой политики компании. Студия ищет покупателя до декабря.",
+      "telegram_message_id": "2208",
+      "telegram_url": "https://t.me/gamepulse_newss/2208",
+      "telegram_published_at": "2026-11-05T12:16:54.651869+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/marvels-blade-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T12:02:41.515373+00:00"
+  "updated_at": "2026-11-05T12:16:54.652196+00:00"
 }
