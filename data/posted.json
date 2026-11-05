@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e9b8764c6f3a3c78b9d7ac3e",
-      "title": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age",
-      "url": "https://rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-09T17:15:00+00:00",
-      "score": 14,
-      "event_key": "paradox-details-afterworld-setting-and-bronze-age-influences",
-      "title_ru": "Paradox рассказала об истоках Afterworld и сравнениях с Fallout",
-      "threads_teaser_ru": "Контент-дизайнер Afterworld Люк Бин рассказал, что постапокалиптическая стратегия от Paradox вдохновлена коллапсом бронзового века, а не Fallout. Жители игрового мира воспринимают США как древнюю империю.",
-      "telegram_message_id": "1018",
-      "telegram_url": "https://t.me/gamepulse_newss/1018",
-      "telegram_published_at": "2026-10-09T17:16:59.652064+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/afterworldcavalry.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T17:17:00.922620+00:00"
-    },
-    {
       "fingerprint": "d3de9396a7a60b7a9f8d455c",
       "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
       "url": "https://ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cityliving-tokyo-house_fh6.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-05T15:17:17.354770+00:00"
+    },
+    {
+      "fingerprint": "6e298a8960384ba7f1d8c4f6",
+      "title": "Hyper Light Drifter Creator Says Studio’s Fate Is Still Uncertain",
+      "url": "https://polygon.com/hyper-light-drifter-studio-heart-machine-still-at-risk-after-layoffs",
+      "source": "Polygon",
+      "published_at_source": "2026-11-05T15:31:38+00:00",
+      "score": 8,
+      "event_key": "Heart Machine studio faces layoffs and funding uncertainty",
+      "title_ru": "Студия Heart Machine находится в неопределенном положении после сокращений",
+      "threads_teaser_ru": "Студия Heart Machine, автор Hyper Light Drifter, пытается выжить после массовых увольнений и отказа издателя от финансирования. Основатель компании Alx Preston признался, что будущее студии остается туманным, а поиск новых средств на разработку стал «жестоким» испытанием.",
+      "telegram_message_id": "2218",
+      "telegram_url": "https://t.me/gamepulse_newss/2218",
+      "telegram_published_at": "2026-11-05T15:33:08.145516+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/possessor-s-key-art.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-05T15:17:17.354871+00:00"
+  "updated_at": "2026-11-05T15:33:08.145738+00:00"
 }
