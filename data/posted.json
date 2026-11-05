@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d3de9396a7a60b7a9f8d455c",
-      "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
-      "url": "https://ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T15:30:00+00:00",
-      "score": 13,
-      "event_key": "ign-revisiting-gta-san-andreas-reuniting-the-families-mission",
-      "title_ru": "Какая миссия Grand Theft Auto: San Andreas заслуживает внимания перед релизом GTA 6",
-      "threads_teaser_ru": "IGN рассказало о культовой миссии Reuniting the Зараз из Grand Theft Auto: San Andreas, где Rockstar впервые проявила свой кинематографический талант перед выходом GTA 6.",
-      "telegram_message_id": "1019",
-      "telegram_url": "https://t.me/gamepulse_newss/1019",
-      "telegram_published_at": "2026-10-09T17:32:28.578636+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/sa-aotl-blog-1791457650959.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T17:32:29.969612+00:00"
-    },
-    {
       "fingerprint": "f64bc9feba670327f8c53705",
       "title": "FBI arrests suspect from hacker group that targeted GTA and the FBI itself",
       "url": "https://polygon.com/shinyhunters-hacker-arrested-gta-6-fbi-leak",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/possessor-s-key-art.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-05T15:33:09.635001+00:00"
+    },
+    {
+      "fingerprint": "d3d82346e6b2eb7ce2a78530",
+      "title": "Goddess of Victory: Nikke's PC launcher suffers potential malware infection, with its publishers suggesting folks who've booted since late September do a security check",
+      "url": "https://rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T15:43:10+00:00",
+      "score": 10,
+      "event_key": "Goddess of Victory Nikke PC launcher malware incident",
+      "title_ru": "ПК-лаунчер Goddess of Victory: Nikke был заражен сторонним вредоносным ПО",
+      "threads_teaser_ru": "ПК-версия Goddess of Victory: Nikke столкнулась с серьезной проблемой безопасности: лаунчер игры был заражен вредоносным ПО. Издатель Level Infinite советует всем, кто запускал игру с 27 сентября, немедленно проверить свои ПК и сменить пароли от учетных записей.",
+      "telegram_message_id": "2219",
+      "telegram_url": "https://t.me/gamepulse_newss/2219",
+      "telegram_published_at": "2026-11-05T15:47:32.421044+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/goddess-of-victory-nikke-pc-launcher-hacked-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T15:33:09.635086+00:00"
+  "updated_at": "2026-11-05T15:47:32.421345+00:00"
 }
