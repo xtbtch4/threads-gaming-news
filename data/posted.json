@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2a9b821e2137cf3628016363",
-      "title": "Wardogs' New Rain System Will Have a Major Effect on Gameplay in Season 2",
-      "url": "https://ign.com/articles/wardogs-new-rain-system-will-have-a-major-effect-on-gameplay-in-season-2",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T16:00:00+00:00",
-      "score": 13,
-      "event_key": "wardogs season 2 rain system gameplay changes bulkhead",
-      "title_ru": "Вторая сезонная система дождей в Wardogs кардинально изменит геймплей",
-      "threads_teaser_ru": "Разработчики Wardogs раскрыли детали новой системы дождя для второго сезона, который стартует 15 октября. Осадки будут идти на протяжении всего матча, ухудшая видимость и заглушая звуки громом.",
-      "telegram_message_id": "1017",
-      "telegram_url": "https://t.me/gamepulse_newss/1017",
-      "telegram_published_at": "2026-10-09T17:02:49.410257+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/s02-trailer-stills1-1791560517450.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T17:02:50.975949+00:00"
-    },
-    {
       "fingerprint": "e9b8764c6f3a3c78b9d7ac3e",
       "title": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age",
       "url": "https://rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_02.jpg?w=300",
       "threads_published_at": "2026-11-05T15:02:57.824106+00:00"
+    },
+    {
+      "fingerprint": "756ed65383c3456bde32e9c1",
+      "title": "Where to find the Tokyo House in Forza Horizon 6",
+      "url": "https://polygon.com/forza-horizon-6-fh6-tokyo-house-location",
+      "source": "Polygon",
+      "published_at_source": "2026-11-05T15:13:14+00:00",
+      "score": 6,
+      "event_key": "locating and unlocking Tokyo House in Forza Horizon 6",
+      "title_ru": "Где найти Tokyo House в Forza Horizon 6",
+      "threads_teaser_ru": "Разбираемся, где искать самый дорогой дом в Forza Horizon 6. Tokyo House расположен на юго-западе Tokyo City и дает владельцам приятный бонус: ежедневный бесплатный wheelspin. Рассказываем, что нужно для покупки и зачем вообще ехать в этот район.",
+      "telegram_message_id": "2217",
+      "telegram_url": "https://t.me/gamepulse_newss/2217",
+      "telegram_published_at": "2026-11-05T15:17:15.831440+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cityliving-tokyo-house_fh6.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-05T15:02:57.824201+00:00"
+  "updated_at": "2026-11-05T15:17:15.831790+00:00"
 }
