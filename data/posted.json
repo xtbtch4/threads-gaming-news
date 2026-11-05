@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "680d3dab4541326c44d53812",
-      "title": "6 Exciting Upcoming Steam Games to Wishlist Now",
-      "url": "https://polygon.com/wishlister-october-9-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T12:00:15+00:00",
-      "score": 10,
-      "event_key": "polygon_upcoming_steam_games_wishlist_october_2026",
-      "title_ru": "Polygon назвала шесть игр для Steam, которые стоит добавить в вишлист",
-      "threads_teaser_ru": "Издание Polygon опубликовало подборку из шести любопытных инди-игр для Steam, которые стоит добавить в список желаемого. В список вошли ритм-игры, стратегии и кооперативные проекты.",
-      "telegram_message_id": "997",
-      "telegram_url": "https://t.me/gamepulse_newss/997",
-      "telegram_published_at": "2026-10-09T12:02:39.286938+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tanuki-pons-summer-delivery-bike.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-09T12:02:40.536394+00:00"
-    },
-    {
       "fingerprint": "356e23727110ae88909b3352",
       "title": "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
       "url": "https://ign.com/articles/youtuber-banned-over-censored-hellraiser-revival-gameplay-video",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_21.png?w=300",
       "threads_published_at": "2026-11-05T05:32:20.619586+00:00"
+    },
+    {
+      "fingerprint": "5773760aa547c5ed6aef235f",
+      "title": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
+      "url": "https://ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T06:21:02+00:00",
+      "score": 9,
+      "event_key": "adam driver confirms role in heat 2",
+      "title_ru": "Adam Driver подтвердил свое участие в Heat 2",
+      "threads_teaser_ru": "Adam Driver официально подтвердил, что сыграет главную роль в грядущем фильме Heat 2. Актер поделился подробностями о кастинге, сюжете и рабочем графике со съемочной площадки.",
+      "telegram_message_id": "2197",
+      "telegram_url": "https://t.me/gamepulse_newss/2197",
+      "telegram_published_at": "2026-11-05T07:02:33.453714+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/driverheat-1793859649714.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T05:32:20.619672+00:00"
+  "updated_at": "2026-11-05T07:02:33.453972+00:00"
 }
