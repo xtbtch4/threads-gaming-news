@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2211",
       "telegram_url": "https://t.me/gamepulse_newss/2211",
       "telegram_published_at": "2026-11-05T13:46:40.441780+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/liara-canadaian-flag.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/liara-canadaian-flag.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-05T13:46:41.779988+00:00"
     }
   ],
-  "updated_at": "2026-11-05T13:46:40.441921+00:00"
+  "updated_at": "2026-11-05T13:46:41.780079+00:00"
 }
