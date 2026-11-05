@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "080ceef90fe75e74cc665d63",
-      "title": "The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It",
-      "url": "https://ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T20:47:37+00:00",
-      "score": 9,
-      "event_key": "street_fighter_2_bonus_stage_car_sweepstakes",
-      "title_ru": "Легендарную машину из бонусного уровня Street Fighter II воссоздали в реальной жизни",
-      "threads_teaser_ru": "Фанатам Street Fighter II дали шанс выиграть реальную версию разрушаемого автомобиля из культового бонусного уровня игры вместе с деньгами на бензин.",
-      "telegram_message_id": "1033",
-      "telegram_url": "https://t.me/gamepulse_newss/1033",
-      "telegram_published_at": "2026-10-09T21:02:17.483101+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/win-sfii-bonus-stage-car-1791578796123.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T21:02:18.665211+00:00"
-    },
-    {
       "fingerprint": "19399fe0504b077747aab651",
       "title": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
       "url": "https://eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-05T19:32:13.288293+00:00"
+    },
+    {
+      "fingerprint": "37649ea6f5ad31381fb5693e",
+      "title": "BioWare's Final Years Were Filmed and Will Be Revealed in a New Documentary",
+      "url": "https://ign.com/articles/biowares-final-years-were-filmed-and-will-be-revealed-in-a-new-documentary",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T19:48:39+00:00",
+      "score": 13,
+      "event_key": "bioware_final_years_documentary_massive_effect_2027",
+      "title_ru": "Последние годы BioWare покажут в документальном фильме",
+      "threads_teaser_ru": "Последние годы жизни BioWare вошли в новый документальный фильм Massive Effect: The BioWare Story, релиз которого намечен на 2027 год. Проект предложит редкий взгляд на работу студии изнутри.",
+      "telegram_message_id": "2233",
+      "telegram_url": "https://t.me/gamepulse_newss/2233",
+      "telegram_published_at": "2026-11-05T20:02:57.425802+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/25/mass-effect-shepard-1792972518127.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T19:32:13.288386+00:00"
+  "updated_at": "2026-11-05T20:02:57.426084+00:00"
 }
