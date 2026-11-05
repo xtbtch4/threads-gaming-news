@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7e116ecd56dd40c0e3676813",
-      "title": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'",
-      "url": "https://eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-08T11:21:47+00:00",
-      "score": 7,
-      "event_key": "Star Wars: Galactic Racer game feel development details",
-      "title_ru": "Разработчики Star Wars: Galactic Racer рассказали о создании «игровых ощущений»",
-      "threads_teaser_ru": "Разработчики Star Wars: Galactic Racer из студии Fuse Games объяснили, как они перенесли ДНК серии Burnout в далекую-далекую галактику. Главный акцент — «game feel» и тактильное ощущение полета, которое тестировали даже с помощью настольных игр.",
-      "telegram_message_id": "985",
-      "telegram_url": "https://t.me/gamepulse_newss/985",
-      "telegram_published_at": "2026-10-09T04:33:03.715284+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/New-Project-(30)_bkYmocn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T04:33:05.002240+00:00"
-    },
-    {
       "fingerprint": "54d9bcd8770922243dddfd0d",
       "title": "Avatar: Seven Havens Premieres This Week — Here's When You Can Watch New Episodes",
       "url": "https://ign.com/articles/avatar-seven-havens-episode-release-schedule",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/pokemon-dvds-1-1793830250652.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T00:16:53.393333+00:00"
+    },
+    {
+      "fingerprint": "f0a1e666716c83a43da9d010",
+      "title": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
+      "url": "https://rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-04T12:43:24+00:00",
+      "score": 7,
+      "event_key": "raw power games loses funding for chronicles medieval",
+      "title_ru": "Разработчики Chronicles: Medieval потеряли финансирование и просят о поддержке",
+      "threads_teaser_ru": "Студия Raw Power Games потеряла финансирование своей дебютной исторической стратегии Chronicles: Medieval и обратилась к игрокам за поддержкой. Проект сочетает масштабные сражения и стратегический слой в сеттинге XIV века.",
+      "telegram_message_id": "2185",
+      "telegram_url": "https://t.me/gamepulse_newss/2185",
+      "telegram_published_at": "2026-11-05T00:32:35.981611+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Chronicles-Medieval-horse-battle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T00:16:53.393429+00:00"
+  "updated_at": "2026-11-05T00:32:35.981930+00:00"
 }
