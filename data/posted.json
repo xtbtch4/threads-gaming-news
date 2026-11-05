@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e1d4568a484f07757756a155",
-      "title": "Wardogs Dev Holding Back Certain Features Because of Xbox Series S, but Working to 'Very Low-End Hardware' Has Its Benefits",
-      "url": "https://ign.com/articles/wardogs-dev-holding-back-certain-features-because-of-xbox-series-s-but-working-to-very-low-end-hardware-has-its-benefits",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T16:00:00+00:00",
-      "score": 10,
-      "event_key": "wardogs developer discusses xbox series s limitations",
-      "title_ru": "Ограничения Xbox Series S влияют на разработку Wardogs",
-      "threads_teaser_ru": "Авторы Wardogs рассказали, как ограничения Xbox Series S мешают добавить в игру динамическую погоду, но при этом помогают улучшить оптимизацию для слабых ПК.",
-      "telegram_message_id": "1032",
-      "telegram_url": "https://t.me/gamepulse_newss/1032",
-      "telegram_published_at": "2026-10-09T20:47:07.247570+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/11/30/seriess-1624390081463-1669817083526.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T20:47:08.693117+00:00"
-    },
-    {
       "fingerprint": "080ceef90fe75e74cc665d63",
       "title": "The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It",
       "url": "https://ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/gta-6-kodak-black-1793895386725.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T19:17:20.466255+00:00"
+    },
+    {
+      "fingerprint": "34f8226d25afde796398e968",
+      "title": "Make the 5th anniversary of Pikmin Bloom sparkle!",
+      "url": "https://nintendo.com/us/whatsnew/mobile-news-make-the-5th-anniversary-of-pikmin-bloom-sparkle",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-05T17:00:00+00:00",
+      "score": 11,
+      "event_key": "pikmin-bloom-5th-anniversary-in-game-event",
+      "title_ru": "Pikmin Bloom празднует пятилетие",
+      "threads_teaser_ru": "Мобильное приложение Pikmin Bloom празднует пятилетие крупным ноябрьским событием с новыми Decor Pikmin, возвращением прошлых праздничных наград, испытаниями и грибами.",
+      "telegram_message_id": "2232",
+      "telegram_url": "https://t.me/gamepulse_newss/2232",
+      "telegram_published_at": "2026-11-05T19:32:12.016677+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-05T19:17:20.466344+00:00"
+  "updated_at": "2026-11-05T19:32:12.017143+00:00"
 }
