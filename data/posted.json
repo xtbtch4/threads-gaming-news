@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19399fe0504b077747aab651",
-      "title": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
-      "url": "https://eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-09T20:17:03+00:00",
-      "score": 9,
-      "event_key": "ea full circle response to skate mods",
-      "title_ru": "Реакция разработчиков skate. на моды, обходящие платную косметику",
-      "threads_teaser_ru": "Разработчики skate. высказались о модах после популярности платформы ReSkate, набравшей сотни тысяч загрузок. Авторы поддерживают творчество, но выступают против модов, обходящих платную косметику.",
-      "telegram_message_id": "1034",
-      "telegram_url": "https://t.me/gamepulse_newss/1034",
-      "telegram_published_at": "2026-10-09T21:17:07.897296+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Skate-screenshot-showing-a-boarder-doing-tricks-high-above-a-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T21:17:09.303850+00:00"
-    },
-    {
       "fingerprint": "3749a29f44aa535b20be25e8",
       "title": "Bill Murray Is a Ghostbuster Once Again... in a Car Ad",
       "url": "https://ign.com/articles/bill-murray-is-a-ghostbuster-once-againin-a-car-ad",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/25/mass-effect-shepard-1792972518127.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T20:02:59.214028+00:00"
+    },
+    {
+      "fingerprint": "f4cc5ecd2103a050ea254c61",
+      "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
+      "url": "https://gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T20:03:32+00:00",
+      "score": 15,
+      "event_key": "amazon prime adds free uber eats delivery partnership us",
+      "title_ru": "Amazon Prime теперь включает бесплатную доставку Uber Eats",
+      "threads_teaser_ru": "Подписчики Amazon Prime в США теперь могут пользоваться бесплатной доставкой из ресторанов через Uber Eats для заказов от 25 долларов. Оформление происходит прямо на сайте или в приложении Amazon.",
+      "telegram_message_id": "2234",
+      "telegram_url": "https://t.me/gamepulse_newss/2234",
+      "telegram_published_at": "2026-11-05T20:17:20.947847+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_14.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-05T20:02:59.214112+00:00"
+  "updated_at": "2026-11-05T20:17:20.948076+00:00"
 }
