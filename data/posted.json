@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "54d9bcd8770922243dddfd0d",
-      "title": "Avatar: Seven Havens Premieres This Week — Here's When You Can Watch New Episodes",
-      "url": "https://ign.com/articles/avatar-seven-havens-episode-release-schedule",
-      "source": "IGN",
-      "published_at_source": "2026-10-08T23:01:22+00:00",
-      "score": 6,
-      "event_key": "Avatar Seven Havens series premiere date and details",
-      "title_ru": "Премьера мультсериала Avatar: Seven Havens состоится на этой неделе",
-      "threads_teaser_ru": "На этой неделе выходит сериал Avatar: Seven Havens — новое приключение во вселенной Аватара спустя 200 лет после событий The Legend of Korra. Рассказываем, когда стартует показ первых эпизодов, сколько серий ждать в этом месяце и на какой платформе будет доступно шоу.",
-      "telegram_message_id": "986",
-      "telegram_url": "https://t.me/gamepulse_newss/986",
-      "telegram_published_at": "2026-10-09T04:48:14.129937+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/avatar-seven-havens-thumb-1791469256030.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T04:48:15.374093+00:00"
-    },
-    {
       "fingerprint": "29b9d842c6791e7aed213b9b",
       "title": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead",
       "url": "https://rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Chronicles-Medieval-horse-battle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-05T00:32:37.314537+00:00"
+    },
+    {
+      "fingerprint": "ed733a704fbf437f19ff5c99",
+      "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
+      "url": "https://ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-04T23:45:00+00:00",
+      "score": 6,
+      "event_key": "corsair-vengeance-rgb-ddr5-discount-newegg-aliexpress",
+      "title_ru": "Скидка на комплект памяти Corsair Vengeance RGB DDR5",
+      "threads_teaser_ru": "На AliExpress через витрину Newegg можно приобрести комплект оперативной памяти Corsair Vengeance RGB DDR5 со скидкой по специальному купону. Набор объемом 16 ГБ обойдется значительно дешевле, чем при покупке напрямую на сайте ритейлера.",
+      "telegram_message_id": "2186",
+      "telegram_url": "https://t.me/gamepulse_newss/2186",
+      "telegram_published_at": "2026-11-05T00:47:08.102631+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/corsairvengeancergb-1793835130274.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T00:32:37.314625+00:00"
+  "updated_at": "2026-11-05T00:47:08.102740+00:00"
 }
