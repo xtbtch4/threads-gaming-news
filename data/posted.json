@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "105aba00972d7288582af375",
-      "title": "The Perfect PokéRap | Unraveled LIVE at PAX East 2019",
-      "url": "https://polygon.com/video/the-perfect-pokrap-unraveled-live-at-pax-east-2019",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T12:30:53+00:00",
-      "score": 12,
-      "event_key": "brian david gilbert perfect pokerap pax east 2019",
-      "title_ru": "Выступление с идеальным PokéRap на PAX East 2019",
-      "threads_teaser_ru": "На PAX East 2019 Брайан Дэвид Гилберт представил публике идеальный PokéRap, который включает упоминание каждого покемона и элементы танца.",
-      "telegram_message_id": "999",
-      "telegram_url": "https://t.me/gamepulse_newss/999",
-      "telegram_published_at": "2026-10-09T12:32:14.457127+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-perfect-poke-rap-unraveled-live-at-pax-east-2019.jpeg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-09T12:32:16.200523+00:00"
-    },
-    {
       "fingerprint": "cf4ecff8daebdbb56ea7ebd5",
       "title": "Every Legend of Zelda LEGO Set Released So Far",
       "url": "https://ign.com/articles/all-legend-of-zelda-lego-sets",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-forever-launch.jpg?w=300",
       "threads_published_at": "2026-11-05T07:32:39.957687+00:00"
+    },
+    {
+      "fingerprint": "7bf9e3852f6716476abf9163",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Full English Voice Cast Revealed",
+      "url": "https://ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T07:52:50+00:00",
+      "score": 13,
+      "event_key": "zelda ocarina of time remake english voice cast revealed",
+      "title_ru": "Раскрыт полный актерский состав английской озвучки ремейка The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Стал известен полный актерский состав английской озвучки ремейка The Legend of Zelda: Ocarina of Time. В игре появились озвученные кат-сцены, а роли ключевых персонажей исполнили известные актеры.",
+      "telegram_message_id": "2199",
+      "telegram_url": "https://t.me/gamepulse_newss/2199",
+      "telegram_published_at": "2026-11-05T08:32:31.084330+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/thelegendofzeldaocarinaoftime-31-1793835431077.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T07:32:39.957824+00:00"
+  "updated_at": "2026-11-05T08:32:31.084608+00:00"
 }
