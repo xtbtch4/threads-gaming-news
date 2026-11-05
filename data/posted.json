@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c1b4612e282160c4ac787603",
-      "title": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
-      "url": "https://eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-09T14:22:47+00:00",
-      "score": 8,
-      "event_key": "galaxies showcase 2026 October 15 lineup",
-      "title_ru": "Анонсировано шоу Galaxies Showcase 2026",
-      "threads_teaser_ru": "На следующей неделе пройдет масштабная презентация Galaxies Showcase 2026 с участием более 40 издателей и студий, включая Krafton, Embark Studios и ZA/UM.",
-      "telegram_message_id": "1007",
-      "telegram_url": "https://t.me/gamepulse_newss/1007",
-      "telegram_published_at": "2026-10-09T14:32:41.319098+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/jane-galaxies-showcase.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T14:32:42.878444+00:00"
-    },
-    {
       "fingerprint": "73ee0175a80a05b456604c05",
       "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
       "url": "https://eurogamer.net/forza-horizon-6-ps5-release-date-delay",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pokemon-pokopia-applin-event.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-05T11:16:56.258219+00:00"
+    },
+    {
+      "fingerprint": "145e61ac9e44d198e2bf7188",
+      "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
+      "url": "https://eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-05T11:56:40+00:00",
+      "score": 10,
+      "event_key": "nintendo financial report earnings hardware decline software growth",
+      "title_ru": "Отчет Nintendo: рост продаж игр и падение показателей Switch 2",
+      "threads_teaser_ru": "Nintendo опубликовала финансовый отчет: продажи консолей Switch 2 упали на 37,4%, но продажи игр значительно выросли. Главным бестселлером стала Tomodachi Life: Living the Dream, разошедшаяся тиражом более 8,8 млн копий.",
+      "telegram_message_id": "2207",
+      "telegram_url": "https://t.me/gamepulse_newss/2207",
+      "telegram_published_at": "2026-11-05T12:02:39.941651+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Switch-2-tabletop-mode.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T11:16:56.258333+00:00"
+  "updated_at": "2026-11-05T12:02:39.941900+00:00"
 }
