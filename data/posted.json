@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5bd5b32fc770147601f617ac",
-      "title": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure",
-      "url": "https://rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-09T15:05:20+00:00",
-      "score": 14,
-      "event_key": "Amanita Design announced Machinarium 2 sequel",
-      "title_ru": "Анонсирована Machinarium 2 — продолжение приключения 2009 года",
-      "threads_teaser_ru": "Студия Amanita Design анонсировала Machinarium 2 — сиквел известной приключенческой головоломки 2009 года. В игре вновь появятся роботы Josef и Berta, между которыми можно будет переключаться.",
-      "telegram_message_id": "1010",
-      "telegram_url": "https://t.me/gamepulse_newss/1010",
-      "telegram_published_at": "2026-10-09T15:17:00.375398+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Machinarium2_screenshot_01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T15:17:01.596891+00:00"
-    },
-    {
       "fingerprint": "ae619462e00007cb672bf63c",
       "title": "Castlevania: Belmont’s Curse – Everything To Know",
       "url": "https://gamespot.com/videos/castlevania-belmonts-curse-everything-to-know",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/coming_soon_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-05T12:32:19.675580+00:00"
+    },
+    {
+      "fingerprint": "958d4d119ca370f83fffb6ed",
+      "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
+      "url": "https://ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T11:17:06+00:00",
+      "score": 10,
+      "event_key": "Sony financial results forecast update Marvel's Wolverine sales GTA 6",
+      "title_ru": "Sony повысила прогноз продаж PlayStation на фоне ожидания GTA 6 и отчиталась о продажах Marvel's Wolverine",
+      "threads_teaser_ru": "Sony впервые раскрыла продажи Marvel's Wolverine и повысила финансовые ожидания на фоне подготовки к выходу GTA 6. Также компания отчиталась о рекордном числе активных пользователей PlayStation, несмотря на ожидаемое снижение продаж самой консоли.",
+      "telegram_message_id": "2210",
+      "telegram_url": "https://t.me/gamepulse_newss/2210",
+      "telegram_published_at": "2026-11-05T13:32:26.197322+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/10/marvels-wolverine-review-blogroll-1789029798227.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T12:32:19.675666+00:00"
+  "updated_at": "2026-11-05T13:32:26.197585+00:00"
 }
