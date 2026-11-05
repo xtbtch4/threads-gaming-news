@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f2969f26c3e67daa39097791",
-      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
-      "url": "https://eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-07T01:31:00+00:00",
-      "score": 11,
-      "event_key": "xbox_denies_exclusive_gta_6_streaming_rights",
-      "title_ru": "Xbox опровергла слухи об эксклюзивных правах на стриминг GTA 6",
-      "threads_teaser_ru": "Xbox опровергла слухи о получении эксклюзивных прав на облачный стриминг Grand Theft Auto 6 и появлении игры на ПК через свой сервис. Релиз игры на консолях назначен на 19 ноября.",
-      "telegram_message_id": "994",
-      "telegram_url": "https://t.me/gamepulse_newss/994",
-      "telegram_published_at": "2026-10-09T10:02:28.224875+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T10:02:29.701334+00:00"
-    },
-    {
       "fingerprint": "f5e9147b6ee5f7a77df51e50",
       "title": "Everything To Know About the PUBG MOBILE Brainrot Royale Pumpkin-themed Update",
       "url": "https://ign.com/articles/everything-to-know-about-the-pubg-mobile-brainrot-royale-pumpkin-themed-update",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/dishonored-devs-arkane-thief-blade-runner-choice-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-05T04:32:42.717240+00:00"
+    },
+    {
+      "fingerprint": "b2ec6609b6b37f8278c12764",
+      "title": "BioWare fan creates a graveyard of shut down studios at EA offices",
+      "url": "https://polygon.com/bioware-ea-shut-down-studios-graveyard",
+      "source": "Polygon",
+      "published_at_source": "2026-11-02T05:27:00+00:00",
+      "score": 4,
+      "event_key": "fan created graveyard of closed EA studios",
+      "title_ru": "Фанаты создали «кладбище» студий EA у офиса компании",
+      "threads_teaser_ru": "Фанаты отреагировали на закрытие BioWare, устроив импровизированное кладбище студий у офиса EA. Среди «похороненных» разработчиков — Bullfrog, Pandemic, Visceral, Westwood и другие компании, чьи игры стали легендами индустрии.",
+      "telegram_message_id": "2194",
+      "telegram_url": "https://t.me/gamepulse_newss/2194",
+      "telegram_published_at": "2026-11-05T05:02:52.941137+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/datv_class-page-header_16x9.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-05T04:32:42.717336+00:00"
+  "updated_at": "2026-11-05T05:02:52.941259+00:00"
 }
