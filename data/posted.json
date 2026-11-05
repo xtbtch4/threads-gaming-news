@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c6a80368ebe39c4c009eec3d",
-      "title": "Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral",
-      "url": "https://ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T19:31:29+00:00",
-      "score": 11,
-      "event_key": "skate-developer-promises-more-creative-tools-after-reskate-mod-success",
-      "title_ru": "Разработчики Skate пообещали новые инструменты творчества после вирусного успеха мода ReSkate",
-      "threads_teaser_ru": "Фанаты выпустили платформу ReSkate для игры Skate, которая уже получила более 350 тысяч загрузок и помогла игре привлечь новых игроков. Разработчики из Full Circle отреагировали на успех мода и пообещали выпустить официальные инструменты для творчества.",
-      "telegram_message_id": "1030",
-      "telegram_url": "https://t.me/gamepulse_newss/1030",
-      "telegram_published_at": "2026-10-09T20:17:03.637077+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/skate-developer-addresses-reskate-1791574192606.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T20:17:05.223286+00:00"
-    },
-    {
       "fingerprint": "95c6565305e9a3b0c772a274",
       "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak",
       "url": "https://polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://drop-assets.ea.com/images/5252lzaUWZ9qwTtv9at99Q/e73fee7fd7fe1d987cbca9a96958e4e8/Wave2_Collage_1920x1080.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
       "threads_published_at": "2026-11-05T18:47:17.607558+00:00"
+    },
+    {
+      "fingerprint": "949e2120b3109fc0531eeb80",
+      "title": "Major Pokémon Center TCG Orders Delayed At The Last Minute",
+      "url": "https://polygon.com/pokemon-center-track-check-order-delta-reign-etb-delay-release-date",
+      "source": "Polygon",
+      "published_at_source": "2026-11-05T18:52:27+00:00",
+      "score": 12,
+      "event_key": "pokemon center delta reign orders delay payment issue",
+      "title_ru": "Задержки поставок наборов Delta Reign в официальном магазине Pokémon Center",
+      "threads_teaser_ru": "Магазин Pokémon Center столкнулся с задержками заказов на товары из набора Delta Reign. Средства за предзаказы не списаны, а поставки перенесены на середину ноября для части покупателей. Проблема, судя по всему, кроется во внутренних сбоях при обработке платежей.",
+      "telegram_message_id": "2230",
+      "telegram_url": "https://t.me/gamepulse_newss/2230",
+      "telegram_published_at": "2026-11-05T19:02:58.480537+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/sad-pikachu.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-05T18:47:17.607633+00:00"
+  "updated_at": "2026-11-05T19:02:58.480884+00:00"
 }
