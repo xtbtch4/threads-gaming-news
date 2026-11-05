@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d62ab9fdfbf35c897f71f7a2",
-      "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
-      "url": "https://ign.com/articles/gta-6-switch-2-nintendo-president",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T15:04:06+00:00",
-      "score": 13,
-      "event_key": "devon pritchard comments on gta 6 for switch 2",
-      "title_ru": "GTA 6 на Switch 2: комментарий президента Nintendo of America",
-      "threads_teaser_ru": "Президент Nintendo of America высказался о возможном появлении GTA 6 на консоли Switch 2. Издатель и разработчик пока не делали официальных анонсов на этот счет.",
-      "telegram_message_id": "1021",
-      "telegram_url": "https://t.me/gamepulse_newss/1021",
-      "telegram_published_at": "2026-10-09T18:02:11.940145+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T18:02:13.563925+00:00"
-    },
-    {
       "fingerprint": "ad9b82f989ed9b9e8a428569",
       "title": "Fire Emblem Shadows: Flame Lords and Book IV arrive",
       "url": "https://nintendo.com/us/whatsnew/mobile-news-flame-lords-and-book-iv-arrive-in-a-free-update-to-fire-emblem-shadows",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-05-2026_1920x1080-bb10143010bd0934cd86.jpg",
       "threads_published_at": "2026-11-05T16:03:31.288222+00:00"
+    },
+    {
+      "fingerprint": "5e84f881af9e97f81952d69d",
+      "title": "Rockstar Games Releases 39 New GTA 6 Screenshots to Celebrate Two Weeks from Launch",
+      "url": "https://ign.com/articles/rockstar-games-releases-39-new-gta-6-screenshots-to-celebrate-two-weeks-from-launch",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T15:34:31+00:00",
+      "score": 15,
+      "event_key": "Rockstar Games releases 39 new GTA 6 screenshots",
+      "title_ru": "Rockstar Games опубликовала 39 скриншотов GTA 6 за две недели до релиза",
+      "threads_teaser_ru": "До релиза GTA 6 остается всего две недели, и Rockstar Games решили скрасить ожидание новой порцией скриншотов. В сеть выложили 39 кадров из игры, демонстрирующих Vice City и главных героев. Также стали известны детали предзагрузки: проект займет внушительные 212 ГБ на накопителе.",
+      "telegram_message_id": "2221",
+      "telegram_url": "https://t.me/gamepulse_newss/2221",
+      "telegram_published_at": "2026-11-05T16:18:40.118772+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T16:03:31.288310+00:00"
+  "updated_at": "2026-11-05T16:18:40.119093+00:00"
 }
