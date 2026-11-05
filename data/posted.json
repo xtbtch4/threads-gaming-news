@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b46e458de4f6a52c0767175f",
-      "title": "Is The Exorcist: Martyrs a Sequel to The Exorcist III? Mike Flanagan Reveals All",
-      "url": "https://ign.com/articles/the-exorcist-martyrs-trailer-breakdown-mike-flanagan",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T22:40:00+00:00",
-      "score": 15,
-      "event_key": "mike flanagan discusses the exorcist martyrs and the exorcist iii",
-      "title_ru": "Mike Flanagan рассказал о связи The Exorcist: Martyrs с The Exorcist III",
-      "threads_teaser_ru": "Режиссер Mike Flanagan рассказал, как хоррор The Exorcist: Martyrs продолжает идеи The Exorcist III, объединяя детективный триллер о серийном убийце и историю о демоническом одержании.",
-      "telegram_message_id": "1041",
-      "telegram_url": "https://t.me/gamepulse_newss/1041",
-      "telegram_published_at": "2026-10-09T23:02:51.304861+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/exorcist-trailer-thumb-1791582827205.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T23:02:52.652348+00:00"
-    },
-    {
       "fingerprint": "0f750a6bad9da8c102c70ec5",
       "title": "The Oregon Coast Aquarium Has Now Named Multiple Octopuses After Dungeon Crawler Carl Characters",
       "url": "https://ign.com/articles/the-oregon-coast-aquarium-has-now-named-multiple-octopuses-after-dungeon-crawler-carl-characters",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/dbarcade-1793914123047.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T22:03:26.570929+00:00"
+    },
+    {
+      "fingerprint": "9ee4a15ea117989ed2e271aa",
+      "title": "It's Official: Marvel Has Finally Undone the Controversial Spider-Man - One More Day Storyline",
+      "url": "https://ign.com/articles/marvel-controversial-spider-man-one-more-day-undone-mephisto",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T20:34:26+00:00",
+      "score": 9,
+      "event_key": "Marvel officially undoes Spider-Man One More Day storyline",
+      "title_ru": "Marvel официально аннулировала сюжетную линию Spider-Man: One More Day",
+      "threads_teaser_ru": "Marvel официально отменяет события 20-летней давности: последствия сделки Человека-паука с Мефисто из сюжета Spider-Man: One More Day аннулированы. Из-за смены власти в Аду все договоры демона потеряли силу, что ставит под удар тетю Мэй и меняет судьбу Питера и Мэри Джейн.",
+      "telegram_message_id": "2241",
+      "telegram_url": "https://t.me/gamepulse_newss/2241",
+      "telegram_published_at": "2026-11-05T22:47:31.387949+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/mephisto-one-more-day-1793910677499.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T22:03:26.571004+00:00"
+  "updated_at": "2026-11-05T22:47:31.388272+00:00"
 }
