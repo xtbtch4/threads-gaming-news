@@ -20511,9 +20511,10 @@
       "telegram_message_id": "2238",
       "telegram_url": "https://t.me/gamepulse_newss/2238",
       "telegram_published_at": "2026-11-05T21:19:14.982006+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/g2-fires-perkz-abortion-comments-1793911034335.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/g2-fires-perkz-abortion-comments-1793911034335.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-05T21:19:16.799402+00:00"
     }
   ],
-  "updated_at": "2026-11-05T21:19:14.982340+00:00"
+  "updated_at": "2026-11-05T21:19:16.799498+00:00"
 }
