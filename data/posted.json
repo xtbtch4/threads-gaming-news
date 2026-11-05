@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c6df24495b4e8a9f70b46539",
-      "title": "Silver Pines Is the Silent Hill Metroidvania Mash-Up I Never Knew I Needed",
-      "url": "https://ign.com/articles/silver-pines-is-the-silent-hill-metroidvania-mash-up-i-never-knew-i-needed",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T06:15:19+00:00",
-      "score": 7,
-      "event_key": "Silver Pines survival horror metroidvania release",
-      "title_ru": "Обзор Silver Pines: необычное сочетание survival horror и метроидвании",
-      "threads_teaser_ru": "Silver Pines объединяет атмосферу классических хорроров на выживание с геймплеем метроидвании. Разработчики из Wych Elm Games перенесли в 2.5D-перспективу ограниченный инвентарь, сложные пазлы и необходимость экономить ресурсы, создав необычное приключение.",
-      "telegram_message_id": "988",
-      "telegram_url": "https://t.me/gamepulse_newss/988",
-      "telegram_published_at": "2026-10-09T07:04:25.550554+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/07/10/silverpines-thumb-1783645119941.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T07:04:26.968736+00:00"
-    },
-    {
       "fingerprint": "ec8d40105a037812adba8563",
       "title": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie",
       "url": "https://rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/ladped-1793835742346.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T01:02:57.178291+00:00"
+    },
+    {
+      "fingerprint": "c67a075921afd4c805df7ed9",
+      "title": "Scarlett Johansson Says The Batman: Part 2 Role Caused 'Existential Angst'",
+      "url": "https://ign.com/articles/scarlett-johansson-the-batman-2-existential-angst",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T00:24:38+00:00",
+      "score": 7,
+      "event_key": "Scarlett Johansson shares experience filming The Batman Part II",
+      "title_ru": "Scarlett Johansson рассказала о сложностях работы над The Batman: Part II",
+      "threads_teaser_ru": "Scarlett Johansson призналась, что работа над секретной ролью в The Batman: Part II далась ей непросто. Актриса назвала этот опыт источником «экзистенциальной тревоги». Тем временем стали известны подробности о временной смене режиссера на съемочной площадке.",
+      "telegram_message_id": "2188",
+      "telegram_url": "https://t.me/gamepulse_newss/2188",
+      "telegram_published_at": "2026-11-05T01:17:07.006863+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2021/11/19/scarlett-johansson-marvel-project-1637321397090.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T01:02:57.178381+00:00"
+  "updated_at": "2026-11-05T01:17:07.007169+00:00"
 }
