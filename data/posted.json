@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5ab1e4f3b19a8c36828dc05b",
-      "title": "Arc Raiders Taking Stock Quest Guide",
-      "url": "https://gamespot.com/articles/taking-stock",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-08T22:00:44+00:00",
-      "score": 5,
-      "event_key": "Arc Raiders Taking Stock quest walkthrough guide",
-      "title_ru": "Гайд по квесту Taking Stock в Arc Raiders",
-      "threads_teaser_ru": "В Arc Raiders проходит квест Taking Stock: придется посетить несколько локаций, чтобы сделать снимки, отметить определенных противников и раздобыть редкие Industrial Batteries для Nomadic Envoys. Рассказываем, что именно нужно сделать на каждой карте.",
-      "telegram_message_id": "993",
-      "telegram_url": "https://t.me/gamepulse_newss/993",
-      "telegram_published_at": "2026-10-09T09:48:16.589919+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.08-17.26.18.96.png?w=300",
-      "threads_published_at": "2026-10-09T09:48:17.897315+00:00"
-    },
-    {
       "fingerprint": "f2969f26c3e67daa39097791",
       "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
       "url": "https://eurogamer.net/xbox-cloud-gta-6-streaming-rights",
@@ -20516,7 +20499,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-6-theories-list-featured-image.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/06/the-elder-scrolls-vi-official-announcement-teaser-1781184303.mp4",
       "threads_published_at": "2026-11-05T04:17:07.540444+00:00"
+    },
+    {
+      "fingerprint": "923923ceef26ebf3919c93cd",
+      "title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
+      "url": "https://rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-03T14:51:00+00:00",
+      "score": 5,
+      "event_key": "ubisoft reported interest in acquiring arkane from microsoft",
+      "title_ru": "Ubisoft может приобрести студию Arkane",
+      "threads_teaser_ru": "Microsoft ищет покупателя для студии Arkane. Среди потенциальных претендентов называют Ubisoft и текущее руководство команды. Сделка должна быть заключена до середины декабря, чтобы избежать закрытия студии, и может спасти разработку игры про Blade.",
+      "telegram_message_id": "2193",
+      "telegram_url": "https://t.me/gamepulse_newss/2193",
+      "telegram_published_at": "2026-11-05T04:32:41.437227+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dishonored-devs-arkane-thief-blade-runner-choice-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-05T04:17:07.540547+00:00"
+  "updated_at": "2026-11-05T04:32:41.437588+00:00"
 }
