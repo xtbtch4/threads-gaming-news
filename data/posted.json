@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0332122c5fcea3fa55e7149d",
-      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trail heats up",
-      "url": "https://eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-09T16:41:02+00:00",
-      "score": 13,
-      "event_key": "rockstar employment tribunal hr manager union testimony",
-      "title_ru": "HR-менеджер Rockstar высказался о профсоюзе на судебном заседании",
-      "threads_teaser_ru": "На суде по делу об увольнении сотрудников Rockstar Games HR-менеджер Чарли Кинлох прокомментировал материалы о профсоюзной активности, отметив, что его больше волновали утечки информации в период перед релизом Grand Theft Auto 6.",
-      "telegram_message_id": "1016",
-      "telegram_url": "https://t.me/gamepulse_newss/1016",
-      "telegram_published_at": "2026-10-09T16:47:06.299619+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-09T16:47:08.073575+00:00"
-    },
-    {
       "fingerprint": "2a9b821e2137cf3628016363",
       "title": "Wardogs' New Rain System Will Have a Major Effect on Gameplay in Season 2",
       "url": "https://ign.com/articles/wardogs-new-rain-system-will-have-a-major-effect-on-gameplay-in-season-2",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/image-29-thumbnail.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-05T14:47:26.356690+00:00"
+    },
+    {
+      "fingerprint": "40e76fd90d1c561c708b1c02",
+      "title": "GTA 6 Boss Talks The Game’s Budget And Calls Out A “High-Profile” Game For Releasing In A Rough State",
+      "url": "https://gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T14:13:02+00:00",
+      "score": 12,
+      "event_key": "strauss-zelnik-gta-6-budget-and-release-comments",
+      "title_ru": "Глава Take-Two высказался о бюджете Grand Theft Auto 6 и проблемах крупных релизов",
+      "threads_teaser_ru": "Глава Take-Two Штраус Зелник обсудил огромный бюджет Grand Theft Auto 6 и раскритиковал практику выпуска сырых игр ради дедлайнов. Релиз состоится 19 ноября на PlayStation 5 и Xbox Series X|S.",
+      "telegram_message_id": "2216",
+      "telegram_url": "https://t.me/gamepulse_newss/2216",
+      "telegram_published_at": "2026-11-05T15:02:56.196316+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_02.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-05T14:47:26.356784+00:00"
+  "updated_at": "2026-11-05T15:02:56.196439+00:00"
 }
