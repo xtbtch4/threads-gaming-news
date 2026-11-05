@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f5e9147b6ee5f7a77df51e50",
-      "title": "Everything To Know About the PUBG MOBILE Brainrot Royale Pumpkin-themed Update",
-      "url": "https://ign.com/articles/everything-to-know-about-the-pubg-mobile-brainrot-royale-pumpkin-themed-update",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T10:02:14+00:00",
-      "score": 9,
-      "event_key": "pubg mobile brainrot royale pumpkin themed update version 4.6",
-      "title_ru": "В PUBG MOBILE вышло обновление Version 4.6 с тематическим контентом для Brainrot Royale",
-      "threads_teaser_ru": "Для PUBG MOBILE вышло обновление Version 4.6, добавляющее хэллоуинский контент в Brainrot Royale. Игроков ждут Призрачный корабль, пиратские монеты, новые предметы передвижения и улучшенная система прокачки.",
-      "telegram_message_id": "995",
-      "telegram_url": "https://t.me/gamepulse_newss/995",
-      "telegram_published_at": "2026-10-09T11:02:35.411625+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/horizontal-clean-1791375397814.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T11:02:36.799084+00:00"
-    },
-    {
       "fingerprint": "9ba1b6d2ae80a9e2d7d8397c",
       "title": "Critical Role Just Gave a Controversial Answer to D&D’s Most Important Question",
       "url": "https://polygon.com/critical-role-campaign-4-episode-37-wicander-death-dnd-dungeons-dragons",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/datv_class-page-header_16x9.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-05T05:02:54.388603+00:00"
+    },
+    {
+      "fingerprint": "cd29cb67f015f1a6ecfb1962",
+      "title": "Zelda: Ocarina Of Time’s NPCs Stay Busy All Night, And Sounds Like That Was A Pain",
+      "url": "https://gamespot.com/articles/zelda-ocarina-of-times-npcs-stay-busy-all-night-and-sounds-like-that-was-a-pain",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T05:00:00+00:00",
+      "score": 8,
+      "event_key": "The Legend of Zelda Ocarina of Time NPC schedule remake",
+      "title_ru": "В ремейке The Legend of Zelda: Ocarina of Time для Switch 2 у NPC появились полноценные суточные графики",
+      "threads_teaser_ru": "В новом ремейке The Legend of Zelda: Ocarina of Time для Switch 2 NPC получили полноценный 24-часовой распорядок дня. Продюсер игры рассказал, через что пришлось пройти команде, чтобы воплотить эту деталь в жизнь и поддержать инициативы молодых разработчиков.",
+      "telegram_message_id": "2195",
+      "telegram_url": "https://t.me/gamepulse_newss/2195",
+      "telegram_published_at": "2026-11-05T05:17:43.020782+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_16.png?w=300"
     }
   ],
-  "updated_at": "2026-11-05T05:02:54.388686+00:00"
+  "updated_at": "2026-11-05T05:17:43.021110+00:00"
 }
