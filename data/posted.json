@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e564752459772e0584974a89",
-      "title": "Marathon Is the Scariest Horror Game of 2026",
-      "url": "https://polygon.com/marathon-scariest-horror-game",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T22:40:48+00:00",
-      "score": 8,
-      "event_key": "polygon_reviews_marathon_as_scariest_game",
-      "title_ru": "Polygon назвал Marathon одной из самых страшных игр года",
-      "threads_teaser_ru": "Extraction shooter Marathon от Bungie пугает не только сильными врагами и атмосферой, но и суровыми правилами: после гибели вы навсегда теряете весь собранный лут и ценную экипировку.",
-      "telegram_message_id": "1040",
-      "telegram_url": "https://t.me/gamepulse_newss/1040",
-      "telegram_published_at": "2026-10-09T22:46:44.908139+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/2025_dec_marathon_press_kit_compressed_001.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-09T22:46:46.343613+00:00"
-    },
-    {
       "fingerprint": "b46e458de4f6a52c0767175f",
       "title": "Is The Exorcist: Martyrs a Sequel to The Exorcist III? Mike Flanagan Reveals All",
       "url": "https://ign.com/articles/the-exorcist-martyrs-trailer-breakdown-mike-flanagan",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/bioware-documentary.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-05T21:32:47.917193+00:00"
+    },
+    {
+      "fingerprint": "81111400cbcdf05e79330b48",
+      "title": "Dr. Doom Is Taking Over Dave and Buster’s in Lead-up to Avengers: Doomsday",
+      "url": "https://ign.com/articles/dr-doom-is-taking-over-dave-and-busters-ahead-of-avengers-doomsday",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T21:44:02+00:00",
+      "score": 9,
+      "event_key": "Dave and Buster's rebranding to Doom and Buster's for Avengers: Doomsday",
+      "title_ru": "Сеть Dave & Buster’s превратится в Doom & Buster’s в рамках коллаборации с Avengers: Doomsday",
+      "threads_teaser_ru": "Сеть развлекательных центров Dave & Buster’s временно меняет название на Doom & Buster’s в рамках промо-кампании фильма Avengers: Doomsday. Посетителей ждут игровые зоны Marvel, новая аркадная версия Cosmic Invasion и тематическое меню.",
+      "telegram_message_id": "2240",
+      "telegram_url": "https://t.me/gamepulse_newss/2240",
+      "telegram_published_at": "2026-11-05T22:03:25.018149+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/dbarcade-1793914123047.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-05T21:32:47.917282+00:00"
+  "updated_at": "2026-11-05T22:03:25.018371+00:00"
 }
