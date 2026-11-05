@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "99909c24597e6ecd44a21b93",
-      "title": "DC Officially Unveils a New Justice League",
-      "url": "https://polygon.com/dc-comics-absolute-justice-league-batman-superman-wonder-woman",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T17:58:03+00:00",
-      "score": 12,
-      "event_key": "dc_comics_announces_absolute_justice_miniseries",
-      "title_ru": "DC Comics анонсировала мини-серию Absolute Justice",
-      "threads_teaser_ru": "DC Comics анонсировала мини-серию Absolute Justice, которая объединит главных героев обновленной вселенной. Пятисерийный проект стартует в апреле 2027 года.",
-      "telegram_message_id": "1023",
-      "telegram_url": "https://t.me/gamepulse_newss/1023",
-      "telegram_published_at": "2026-10-09T18:32:11.953660+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19992348/justice_league_movie_screencaps.com_12426.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-09T18:32:13.567428+00:00"
-    },
-    {
       "fingerprint": "2425850be496e1808eaadc7f",
       "title": "World of Warcraft: Forever – “Your Adventure Begins” Trailer",
       "url": "https://gamespot.com/videos/world-of-warcraft-forever-your-adventure-begins-trailer",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/road-rash-1793893660408.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T16:33:11.517059+00:00"
+    },
+    {
+      "fingerprint": "e6a235d904940986f98068ac",
+      "title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
+      "url": "https://gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T15:45:56+00:00",
+      "score": 12,
+      "event_key": "Arkane union accuses Microsoft of sabotaging Marvel's Blade development",
+      "title_ru": "Профсоюз Arkane обвинил Microsoft в препятствовании разработке Marvel’s Blade",
+      "threads_teaser_ru": "Разработчики из Arkane Lyon утверждают, что Microsoft мешает созданию Marvel’s Blade. Профсоюз STJV считает, что студия прибыльна, но недостаточно для руководства корпорации, а 19-месячный запрет на найм сотрудников привел к неоправданным задержкам.",
+      "telegram_message_id": "2223",
+      "telegram_url": "https://t.me/gamepulse_newss/2223",
+      "telegram_published_at": "2026-11-05T16:47:55.563460+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-05T16:33:11.517151+00:00"
+  "updated_at": "2026-11-05T16:47:55.563809+00:00"
 }
