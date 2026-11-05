@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "356e23727110ae88909b3352",
-      "title": "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
-      "url": "https://ign.com/articles/youtuber-banned-over-censored-hellraiser-revival-gameplay-video",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T11:55:17+00:00",
-      "score": 9,
-      "event_key": "youtuber-channel-banned-clive-barkers-hellraiser-revival-gameplay",
-      "title_ru": "YouTube навсегда заблокировал канал блогера из-за видео по Clive Barker’s Hellraiser: Revival",
-      "threads_teaser_ru": "Канал известного блогера с 10-летней историей заблокировали на YouTube из-за ролика по Clive Barker’s Hellraiser: Revival. Несмотря на цензуру наготы черными квадратами, платформа сочла видео нарушающим правила.",
-      "telegram_message_id": "998",
-      "telegram_url": "https://t.me/gamepulse_newss/998",
-      "telegram_published_at": "2026-10-09T12:17:20.905573+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/screenshot-3-1791546794207.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-09T12:17:22.450006+00:00"
-    },
-    {
       "fingerprint": "105aba00972d7288582af375",
       "title": "The Perfect PokéRap | Unraveled LIVE at PAX East 2019",
       "url": "https://polygon.com/video/the-perfect-pokrap-unraveled-live-at-pax-east-2019",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/driverheat-1793859649714.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T07:02:34.843410+00:00"
+    },
+    {
+      "fingerprint": "1920108c9ffa6938c72d4faf",
+      "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
+      "url": "https://gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T00:45:40+00:00",
+      "score": 9,
+      "event_key": "world-of-warcraft-forevers-smooth-launch",
+      "title_ru": "Запуск World of Warcraft: Forever прошел на удивление гладко",
+      "threads_teaser_ru": "Релиз World of Warcraft: Forever удивил игроков стабильностью: после небольших очередей в первые 30 минут новый «бессерверный» подход показал себя отлично.",
+      "telegram_message_id": "2198",
+      "telegram_url": "https://t.me/gamepulse_newss/2198",
+      "telegram_published_at": "2026-11-05T07:32:38.459643+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-forever-launch.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-05T07:02:34.843512+00:00"
+  "updated_at": "2026-11-05T07:32:38.459983+00:00"
 }
