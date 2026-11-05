@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "75c03b2720a9ccf97b208f4e",
-      "title": "Arc Raiders When Everything Falls Quest Guide",
-      "url": "https://gamespot.com/articles/arc-raiders-when-everything-falls-quest-guide",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-09T17:22:48+00:00",
-      "score": 9,
-      "event_key": "arc-raiders-when-everything-falls-quest-guide",
-      "title_ru": "Гайд по квесту When Everything Falls в Arc Raiders",
-      "threads_teaser_ru": "Путеводитель по квесту When Everything Falls в Arc Raiders: рассказываем, где найти Water Towers на карте Spaceport и какие именно объекты необходимо сфотографировать для успешного завершения задания.",
-      "telegram_message_id": "1036",
-      "telegram_url": "https://t.me/gamepulse_newss/1036",
-      "telegram_published_at": "2026-10-09T21:46:37.486189+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.09-12.52.01.85.png?w=300",
-      "threads_published_at": "2026-10-09T21:46:38.703132+00:00"
-    },
-    {
       "fingerprint": "cb9006be259977bce3925757",
       "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
       "url": "https://gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/magrids-magic-shoppe-thumb-1793906480901.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-05T20:32:48.718093+00:00"
+    },
+    {
+      "fingerprint": "55b75ffc24523b12b26665cc",
+      "title": "EA Killed Mass Effect But Is Still Trying To Make Money On It",
+      "url": "https://gamespot.com/articles/ea-killed-mass-effect-but-is-still-trying-to-make-money-on-it",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-05T20:25:46+00:00",
+      "score": 12,
+      "event_key": "Electronic Arts promotes Mass Effect merchandise after closing BioWare studio",
+      "title_ru": "EA продвигает товары по франшизе Mass Effect после закрытия BioWare",
+      "threads_teaser_ru": "Electronic Arts активно рекламирует мерч по Mass Effect, несмотря на недавнее закрытие студии BioWare и отмену Mass Effect 5. Пользователи в сети раскритиковали издателя за подобные действия перед N7 Day, называя такой подход неуместным на фоне недавних массовых сокращений.",
+      "telegram_message_id": "2236",
+      "telegram_url": "https://t.me/gamepulse_newss/2236",
+      "telegram_published_at": "2026-11-05T20:47:02.735743+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/N7Day-Large.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-05T20:32:48.718190+00:00"
+  "updated_at": "2026-11-05T20:47:02.735948+00:00"
 }
