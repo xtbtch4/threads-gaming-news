@@ -20512,10 +20512,11 @@
       "telegram_message_id": "2192",
       "telegram_url": "https://t.me/gamepulse_newss/2192",
       "telegram_published_at": "2026-11-05T04:17:06.247499+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-6-theories-list-featured-image.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/the-elder-scrolls-vi-official-announcement-teaser-1781184303.mp4"
+      "video_url": "https://video.polygonimages.com/2026/06/the-elder-scrolls-vi-official-announcement-teaser-1781184303.mp4",
+      "threads_published_at": "2026-11-05T04:17:07.540444+00:00"
     }
   ],
-  "updated_at": "2026-11-05T04:17:06.247585+00:00"
+  "updated_at": "2026-11-05T04:17:07.540547+00:00"
 }
