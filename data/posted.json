@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2201",
       "telegram_url": "https://t.me/gamepulse_newss/2201",
       "telegram_published_at": "2026-11-05T09:02:24.051866+00:00",
-      "threads_id": null,
-      "image_url": "https://sm.ign.com/t/ign_za/feature/r/rings-of-p/rings-of-power-blade-runner-2099-and-8-more-of-our-most-anti_gquu.1200.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://sm.ign.com/t/ign_za/feature/r/rings-of-p/rings-of-power-blade-runner-2099-and-8-more-of-our-most-anti_gquu.1200.jpg",
+      "threads_published_at": "2026-11-05T09:02:25.439550+00:00"
     }
   ],
-  "updated_at": "2026-11-05T09:02:24.052095+00:00"
+  "updated_at": "2026-11-05T09:02:25.439642+00:00"
 }
