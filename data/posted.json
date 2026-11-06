@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2281",
       "telegram_url": "https://t.me/gamepulse_newss/2281",
       "telegram_published_at": "2026-11-06T15:17:14.405639+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4496255-stellar-blade-1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4496255-stellar-blade-1.jpg?w=300",
+      "threads_published_at": "2026-11-06T15:17:15.828557+00:00"
     }
   ],
-  "updated_at": "2026-11-06T15:17:14.405914+00:00"
+  "updated_at": "2026-11-06T15:17:15.828647+00:00"
 }
