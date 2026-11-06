@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b6879279d3f84eed6a00646c",
-      "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
-      "url": "https://ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
-      "source": "IGN",
-      "published_at_source": "2026-10-10T15:00:00+00:00",
-      "score": 15,
-      "event_key": "squadron-42-new-trailer-steam-cast-reveal",
-      "title_ru": "Squadron 42 получила новый трейлер и страницу в Steam",
-      "threads_teaser_ru": "Cloud Imperium Games показала новый трейлер Squadron 42, открыла страницу в Steam и раскрыла звездный актерский состав проекта. Релиз сюжетного спин-оффа Star Citizen запланирован на 2027 год.",
-      "telegram_message_id": "1066",
-      "telegram_url": "https://t.me/gamepulse_newss/1066",
-      "telegram_published_at": "2026-10-10T15:02:42.756222+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/10/s42-main-1791639420951.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-10T15:02:44.039451+00:00"
-    },
-    {
       "fingerprint": "b3bc0b0653972db9b7895ff3",
       "title": "Grand Theft Ocarina Could Be Gaming's Barbenheimer",
       "url": "https://polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/wolverine-header_ayYS3yR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T07:17:12.182453+00:00"
+    },
+    {
+      "fingerprint": "dd5940f87d92aedb3d2c05db",
+      "title": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
+      "url": "https://eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-06T09:40:50+00:00",
+      "score": 15,
+      "event_key": "nintendo boss says remakes and new games are equally important",
+      "title_ru": "Nintendo считает ремейки и новые игры одинаково важными",
+      "threads_teaser_ru": "Представитель Nintendo Nate Bihldorff заявил, что новые игры и ремейки классики имеют равную важность для компании. На успех издателя в 2026 году повлияли релизы вроде Star Fox и Ocarina of Time.",
+      "telegram_message_id": "2266",
+      "telegram_url": "https://t.me/gamepulse_newss/2266",
+      "telegram_published_at": "2026-11-06T09:46:59.017983+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Ocarina-Star-Fox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T07:17:12.182542+00:00"
+  "updated_at": "2026-11-06T09:46:59.018278+00:00"
 }
