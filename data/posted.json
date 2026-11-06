@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2288",
       "telegram_url": "https://t.me/gamepulse_newss/2288",
       "telegram_published_at": "2026-11-06T17:17:13.666806+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/theelderscrolls6-sentinel-xboxexclusive-blogroll-1793836140379.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/theelderscrolls6-sentinel-xboxexclusive-blogroll-1793836140379.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-06T17:17:15.407323+00:00"
     }
   ],
-  "updated_at": "2026-11-06T17:17:13.666982+00:00"
+  "updated_at": "2026-11-06T17:17:15.407409+00:00"
 }
