@@ -20510,9 +20510,10 @@
       "telegram_message_id": "2268",
       "telegram_url": "https://t.me/gamepulse_newss/2268",
       "telegram_published_at": "2026-11-06T10:32:34.328797+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Fall-Guys-Season-2-Battle-Pass-rewards%2C-including-all-skins%2C-costumes-and-patterns.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Fall-Guys-Season-2-Battle-Pass-rewards%2C-including-all-skins%2C-costumes-and-patterns.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-06T10:32:36.000153+00:00"
     }
   ],
-  "updated_at": "2026-11-06T10:32:34.329065+00:00"
+  "updated_at": "2026-11-06T10:32:36.000254+00:00"
 }
