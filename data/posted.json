@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3811f04e1673dc280232c528",
-      "title": "Arc Raiders Empathetic Prototypes Quest Guide",
-      "url": "https://gamespot.com/articles/arc-raiders-empathetic-prototypes-quest-guide",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-09T17:21:20+00:00",
-      "score": 5,
-      "event_key": "arc raiders empathetic prototypes quest completion guide",
-      "title_ru": "Гайд по выполнению квеста Empathetic Prototypes в Arc Raiders",
-      "threads_teaser_ru": "Выполняем сложный квест Empathetic Prototypes в Arc Raiders. Рассказываем, как добраться до Trench Towers, правильно использовать крюк-кошку, достать Project Pathos Empathy Core из контейнера и почему для этого задания критически важен безопасный карман.",
-      "telegram_message_id": "1056",
-      "telegram_url": "https://t.me/gamepulse_newss/1056",
-      "telegram_published_at": "2026-10-10T03:03:23.064441+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-Raiders-Screenshot-2026.10.09-11.49.23.61.png?w=300",
-      "threads_published_at": "2026-10-10T03:03:24.355596+00:00"
-    },
-    {
       "fingerprint": "28c7c68aecca6666e537b314",
       "title": "It’s Officially the Dawn of a New Era for 'Magic the Gathering' Universes Beyond",
       "url": "https://polygon.com/mtg-darkhold-destinies-spoilers-marvel-universes-beyond",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ablahshikar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T03:32:43.099894+00:00"
+    },
+    {
+      "fingerprint": "a4bfa73945c17da31a277221",
+      "title": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now",
+      "url": "https://rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T18:30:00+00:00",
+      "score": 7,
+      "event_key": "Faraway video game release after 16 years development",
+      "title_ru": "Релиз аркады Faraway состоялся спустя 16 лет разработки",
+      "threads_teaser_ru": "Спустя 16 лет разработки в Steam вышла Faraway — аркада от автора Eliss Стефа Тириона. Игрокам предстоит управлять падающей звездой, создавая созвездия и поглощая энергию других светил ради выживания в процедурно генерируемом мире.",
+      "telegram_message_id": "2256",
+      "telegram_url": "https://t.me/gamepulse_newss/2256",
+      "telegram_published_at": "2026-11-06T03:47:57.009500+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/faraway.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T03:32:43.099988+00:00"
+  "updated_at": "2026-11-06T03:47:57.009851+00:00"
 }
