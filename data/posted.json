@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7590e50fffab504f8b44d055",
-      "title": "Pokémon Winds and Waves' Water Starter Breaks a Series Curse",
-      "url": "https://polygon.com/pokemon-winds-waves-water-starter-series-curse",
-      "source": "Polygon",
-      "published_at_source": "2026-10-10T01:20:15+00:00",
-      "score": 10,
-      "event_key": "pokemon winds and waves water starter gecqua popularity",
-      "title_ru": "Водный стартовик в Pokémon Winds and Waves привлек внимание игроков",
-      "threads_teaser_ru": "Водный стартовик Gecqua из Pokémon Winds and Waves неожиданно для фанатов обошел «проклятие» своего типа и завоевал огромную популярность в сети задолго до релиза игры в 2027 году.",
-      "telegram_message_id": "1051",
-      "telegram_url": "https://t.me/gamepulse_newss/1051",
-      "telegram_published_at": "2026-10-10T01:32:08.552486+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/poke-mon-presents-_-2-27-2026-23-35-screenshot.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-10T01:32:09.880071+00:00"
-    },
-    {
       "fingerprint": "6a6ade37318f7761e36ed882",
       "title": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
       "url": "https://rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Analysis_StellarBladeSwitch2_20201105V2.png?w=300",
       "threads_published_at": "2026-11-06T01:32:39.120497+00:00"
+    },
+    {
+      "fingerprint": "ba8c5af2efb126b4929e3219",
+      "title": "Survive a Godzilla attack in the Apex Legends | Godzilla Event",
+      "url": "https://ea.com/games/apex-legends/apex-legends/news/godzilla-event",
+      "source": "Respawn / Apex Legends",
+      "published_at_source": "2026-11-05T15:30:00+00:00",
+      "score": 8,
+      "event_key": "Apex Legends Godzilla event announcement",
+      "title_ru": "В Apex Legends стартует тематическое событие, посвященное Godzilla",
+      "threads_teaser_ru": "В Apex Legends начнется событие в честь Godzilla: Storm Point изменится под влиянием монстра, появятся уникальное оружие, боевой пропуск с тематическими скинами и Twitch Drops. Ивент продлится с 10 ноября по 1 декабря.",
+      "telegram_message_id": "2251",
+      "telegram_url": "https://t.me/gamepulse_newss/2251",
+      "telegram_published_at": "2026-11-06T01:47:19.566025+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/7mU99o3QpfjKpuEfVYMPBm/3186332abfe9d3eab2c70c8cc1ac5aae/ApexS31_Hopscotch_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.6229166666666667,yPosition=0.47453703703703703"
     }
   ],
-  "updated_at": "2026-11-06T01:32:39.120593+00:00"
+  "updated_at": "2026-11-06T01:47:19.566402+00:00"
 }
