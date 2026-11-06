@@ -20507,9 +20507,10 @@
       "telegram_message_id": "2305",
       "telegram_url": "https://t.me/gamepulse_newss/2305",
       "telegram_published_at": "2026-11-06T22:32:21.471640+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/dead-by-daylight-terrifier-1793985074146.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/dead-by-daylight-terrifier-1793985074146.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-06T22:32:22.784955+00:00"
     }
   ],
-  "updated_at": "2026-11-06T22:32:21.471943+00:00"
+  "updated_at": "2026-11-06T22:32:22.785047+00:00"
 }
