@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5118ea903cc8f5bffbac4741",
-      "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
-      "url": "https://gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-10T15:00:00+00:00",
-      "score": 7,
-      "event_key": "gamespot recommends playing fire emblem awakening on 3ds",
-      "title_ru": "Лучшее время для возвращения к Fire Emblem: Awakening",
-      "threads_teaser_ru": "Издание GameSpot советует обратить внимание на классическую Fire Emblem для консоли Nintendo 3DS тем, кто устал от современных веяний в серии.",
-      "telegram_message_id": "1068",
-      "telegram_url": "https://t.me/gamepulse_newss/1068",
-      "telegram_published_at": "2026-10-10T15:32:26.720196+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Feature_FEA_thumb_site.jpg?w=300",
-      "threads_published_at": "2026-10-10T15:32:28.049573+00:00"
-    },
-    {
       "fingerprint": "0aa8e02493b5d814d44b0a21",
       "title": "WandaVision Creator Set To Develop New Stargate Series",
       "url": "https://polygon.com/stargate-new-amazon-mgm-series-jac-schaeffer",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Thane-SHODAN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T10:17:02.648876+00:00"
+    },
+    {
+      "fingerprint": "feb24badd559fbf1558ecb42",
+      "title": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity",
+      "url": "https://eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-06T10:00:50+00:00",
+      "score": 9,
+      "event_key": "Saudi Arabia and Silver Lake in talks to acquire Unity",
+      "title_ru": "Саудовская Аравия и Silver Lake ведут переговоры о покупке Unity",
+      "threads_teaser_ru": "Саудовская Аравия и Silver Lake, ранее купившие EA, нацелились на Unity. Сообщается, что стороны ведут переговоры о покупке компании за 25 млрд долларов, однако эта цифра может измениться из-за финансовых показателей разработчика движка и ситуации на рынке.",
+      "telegram_message_id": "2268",
+      "telegram_url": "https://t.me/gamepulse_newss/2268",
+      "telegram_published_at": "2026-11-06T10:32:34.328797+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Fall-Guys-Season-2-Battle-Pass-rewards%2C-including-all-skins%2C-costumes-and-patterns.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T10:17:02.648963+00:00"
+  "updated_at": "2026-11-06T10:32:34.329065+00:00"
 }
