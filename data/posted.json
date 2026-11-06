@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c7aba4d31ac21ad678fb96fe",
-      "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-      "url": "https://eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-10T11:44:06+00:00",
-      "score": 11,
-      "event_key": "bokeh game studio casting new horror game",
-      "title_ru": "Bokeh Game Studio набирает актеров для новой хоррор-игры",
-      "threads_teaser_ru": "Студия Bokeh Game Studio, основанная автором Silent Hill Кейитиро Тоямой, судя по всему, разрабатывает новый хоррор. Компания ищет актеров для записи движений, а в кастинг-листе проекта упоминаются зрелые темы и персонажи со сложными судьбами.",
-      "telegram_message_id": "1063",
-      "telegram_url": "https://t.me/gamepulse_newss/1063",
-      "telegram_published_at": "2026-10-10T11:47:04.515681+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Slit_3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T11:47:05.779925+00:00"
-    },
-    {
       "fingerprint": "d4361986edad694306d38647",
       "title": "Konami is already thinking about the next wave of Silent Hill games",
       "url": "https://eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/nvidia-steam-GeForce-8800-GTX-tribute-demo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T05:33:20.198987+00:00"
+    },
+    {
+      "fingerprint": "02c2c6a431d0f22832cf74be",
+      "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+      "url": "https://ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-05T23:40:00+00:00",
+      "score": 5,
+      "event_key": "amazon audible black friday promotion november december 2026",
+      "title_ru": "Amazon запустила акцию Audible к «Черной пятнице»",
+      "threads_teaser_ru": "Amazon запустила акцию к «Черной пятнице»: доступ к подписке Audible Standard можно получить за 0,99 доллара в месяц на три месяца, дополнительно получив 20 долларов на счет. Акция продлится до 28 декабря и доступна как новым, так и вернувшимся пользователям.",
+      "telegram_message_id": "2263",
+      "telegram_url": "https://t.me/gamepulse_newss/2263",
+      "telegram_published_at": "2026-11-06T05:46:57.813972+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/amazonaudible-1793740919087.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T05:33:20.199078+00:00"
+  "updated_at": "2026-11-06T05:46:57.814276+00:00"
 }
