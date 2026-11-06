@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d4361986edad694306d38647",
-      "title": "Konami is already thinking about the next wave of Silent Hill games",
-      "url": "https://eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-10T10:38:48+00:00",
-      "score": 9,
-      "event_key": "konami_considering_next_wave_of_silent_hill_games",
-      "title_ru": "Konami уже думает о следующей волне игр Silent Hill",
-      "threads_teaser_ru": "Продюсер Motoi Okamoto рассказал, что Konami уже планирует «вторую и третью волны» релизов во франшизе Silent Hill после успешного запуска первой серии проектов.",
-      "telegram_message_id": "1064",
-      "telegram_url": "https://t.me/gamepulse_newss/1064",
-      "telegram_published_at": "2026-10-10T12:02:24.989361+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/A-person-with-pink-nail-polish-rests-James'-face-in-their-hand-in-Silent-Hill-2-Remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T12:02:26.333861+00:00"
-    },
-    {
       "fingerprint": "f9a18bab5ffa89740daa632b",
       "title": "Hunting for New Games? Polygon’s Wishlister Wants To Help",
       "url": "https://polygon.com/polygon-wishlister-sign-up",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/amazonaudible-1793740919087.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T05:47:04.662526+00:00"
+    },
+    {
+      "fingerprint": "4b58ca9afc046ce629e35619",
+      "title": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
+      "url": "https://ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T05:41:38+00:00",
+      "score": 9,
+      "event_key": "Silver Lake PIF potential acquisition of Unity",
+      "title_ru": "Silver Lake и PIF ведут переговоры о приобретении Unity",
+      "threads_teaser_ru": "Инвестиционные компании Silver Lake и PIF, недавно купившие Electronic Arts, теперь проявляют интерес к покупке Unity. Переговоры находятся на ранней стадии, но информация о них уже отразилась на биржевых показателях разработчика игрового движка.",
+      "telegram_message_id": "2264",
+      "telegram_url": "https://t.me/gamepulse_newss/2264",
+      "telegram_published_at": "2026-11-06T06:17:04.733706+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/unityblogroll-1793943131268.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T05:47:04.662616+00:00"
+  "updated_at": "2026-11-06T06:17:04.734092+00:00"
 }
