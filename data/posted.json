@@ -20506,9 +20506,10 @@
       "telegram_message_id": "2296",
       "telegram_url": "https://t.me/gamepulse_newss/2296",
       "telegram_published_at": "2026-11-06T19:17:05.410592+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/CrossWorlds-6.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/CrossWorlds-6.jpg?w=300",
+      "threads_published_at": "2026-11-06T19:17:07.010853+00:00"
     }
   ],
-  "updated_at": "2026-11-06T19:17:05.410726+00:00"
+  "updated_at": "2026-11-06T19:17:07.010944+00:00"
 }
