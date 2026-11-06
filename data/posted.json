@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "889b6583ecf727219a66d96f",
-      "title": "Tekken 8 Yujiro Teaser Reveals Baki Rep's In-Game Render Is Just as Uncanny as Fans Expected",
-      "url": "https://ign.com/articles/tekken-8-yujiro-teaser-reveals-baki-reps-in-game-render-is-just-as-uncanny-as-fans-expected",
-      "source": "IGN",
-      "published_at_source": "2026-10-11T16:03:05+00:00",
-      "score": 15,
-      "event_key": "bandai_namco_reveals_tekken_8_yujiro_teaser",
-      "title_ru": "Bandai Namco показала первый тизер Yujiro Hanma для Tekken 8",
-      "threads_teaser_ru": "Bandai Namco показала первый тизер Yujiro Hanma для Tekken 8. Полноценный трейлер с геймплеем этого гостевого персонажа из Baki обещают показать 17 января 2027 года.",
-      "telegram_message_id": "1106",
-      "telegram_url": "https://t.me/gamepulse_newss/1106",
-      "telegram_published_at": "2026-10-11T17:02:40.314130+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/tekken-8-yujiro-1791734505643.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-11T17:02:41.745585+00:00"
-    },
-    {
       "fingerprint": "408cb127d74aa7bdb14d04fa",
       "title": "Escape the Backrooms is throwing an After Party with three new levels this December",
       "url": "https://eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
@@ -20510,7 +20493,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/dead-by-daylight-terrifier-1793985074146.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T22:32:22.784955+00:00"
+    },
+    {
+      "fingerprint": "0cd563942fb83011995de0d1",
+      "title": "Hozy brings calm, tactile home restoration to PS5 on November 9",
+      "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-11-06T17:00:12+00:00",
+      "score": 9,
+      "event_key": "hozy_release_on_playstation_5_november_9",
+      "title_ru": "Игра Hozy выйдет на PlayStation 5 уже 9 ноября",
+      "threads_teaser_ru": "Уютный симулятор ремонта и обустройства домов Hozy появится на PlayStation 5 уже 9 ноября. Игра предложит расслабляющий процесс без таймеров, поддержку особенностей геймпада DualSense, девять сюжетных уровней, режим «Game+» и «Sandbox».",
+      "telegram_message_id": "2306",
+      "telegram_url": "https://t.me/gamepulse_newss/2306",
+      "telegram_published_at": "2026-11-06T22:47:13.274968+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2048/11/e764de8347a5d741a749dd7bb7f43be000c90034.jpg",
+      "video_url": "https://stream.mux.com/2AcikP3yw02twKyU100nSsRqcOQUB222R1WGbVqpsgUe00/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyQWNpa1AzeXcwMnR3S3lVMTAwblNzUnFjT1FVQjIyMlIxV0diVnFwc2dVZTAwIiwiYXVkIjoidiIsImV4cCI6MTc5NDA0ODM2OSwia2lkIjoiNEw1eU9janJWMU5VcVZ6Y1V2SkJuMXdUbTRlVEdHOU1oMDIwMVlrNWp1OU5BIn0.GUTWxwB3VUAr5oAC4r5JgPm6nmM5hug4xolH5TFpkB6uvNTXBmYhZxQQeI45DlCdu4GGMaqJOwzeHKuM1AEoru-LFuY3j5hSifxBqV_QCyL3SM037nsxUEj-bPVPIh-3Sobi5yEgKtfe7jwiGpWaZE94PFHsslCaJA6v_xOanafQdph1pySiEmA1XVkJY3N7mTMSO2I4e9zy24QOs0k0ROwcVyE2SBssA-pU5L_jFkFcY1-Xv4pf1m4aKLHSLeOyEzKXlVw5qe8o-AiSoIgHBtiStJD11tZ7CaPMfNc6L9ecoXNCKkbLZ6Qk_OQELyu3HIti8WESa2IYlh3xg47-bg"
     }
   ],
-  "updated_at": "2026-11-06T22:32:22.785047+00:00"
+  "updated_at": "2026-11-06T22:47:13.275367+00:00"
 }
