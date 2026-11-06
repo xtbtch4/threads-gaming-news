@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7807fd9a274489823a7cb7d8",
-      "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
-      "url": "https://eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-10T11:21:05+00:00",
-      "score": 9,
-      "event_key": "arc raiders pve pvp split possible embark",
-      "title_ru": "Arc Raiders может получить разделение на PvE и PvP режимы",
-      "threads_teaser_ru": "Исполнительный продюсер Александр Грёндаль заявил, что в будущем Arc Raiders может быть разделена на PvE и PvP режимы. С 13 по 20 октября студия Embark проведет специальное PvE-тестирование, чтобы оценить пожелания сообщества.",
-      "telegram_message_id": "1062",
-      "telegram_url": "https://t.me/gamepulse_newss/1062",
-      "telegram_published_at": "2026-10-10T11:32:09.268218+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/screenshot-from-arc-raiders-showing-a-chap-hiding-behind-a-car-overlaid-on-an-image-of-the-Hollywood-sign_w0CaAhN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T11:32:10.534990+00:00"
-    },
-    {
       "fingerprint": "c7aba4d31ac21ad678fb96fe",
       "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
       "url": "https://eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_14.png?w=300",
       "threads_published_at": "2026-11-06T05:16:54.676649+00:00"
+    },
+    {
+      "fingerprint": "90aec1eaa358105949a7abdc",
+      "title": "Nvidia ensure unboxing a ludicrously expensive new graphics card isn't limited to real life in these RAM crisis times by releasing a GeForce 8800 GTX unpacking sim",
+      "url": "https://rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T08:55:00+00:00",
+      "score": 6,
+      "event_key": "Nvidia GeForce 8800 GTX 20 Years of a Legend demo release",
+      "title_ru": "Nvidia выпустила демо-симулятор распаковки GeForce 8800 GTX",
+      "threads_teaser_ru": "Nvidia выпустила в Steam демо-симулятор GeForce 8800 GTX - 20 Years of a Legend. Игрокам предлагают вернуться в 2006 год, чтобы распаковать легендарную видеокарту в интерьере того времени, но для запуска этой ностальгической прогулки потребуется современное мощное «железо».",
+      "telegram_message_id": "2262",
+      "telegram_url": "https://t.me/gamepulse_newss/2262",
+      "telegram_published_at": "2026-11-06T05:33:18.534005+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/nvidia-steam-GeForce-8800-GTX-tribute-demo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T05:16:54.676742+00:00"
+  "updated_at": "2026-11-06T05:33:18.534419+00:00"
 }
