@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d81b977f26bc84da6d74ab97",
-      "title": "GTA 6 Gets A Nudity Pass That Indies Don't For One Weird Reason",
-      "url": "https://polygon.com/patch-notes-gta-6-dong-age-rating",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T13:00:16+00:00",
-      "score": 14,
-      "event_key": "gta-6-nudity-age-ratings-censorship",
-      "title_ru": "Вопросы цензуры и возрастных рейтингов на фоне обсуждения наготы в Grand Theft Auto 6",
-      "threads_teaser_ru": "Утечки по Grand Theft Auto 6 подтвердили наличие сцен с наготой, что подняло вопрос о двойных стандартах индустрии. Почему крупные релизы проходят цензуру иначе, чем инди-игры на Steam?",
-      "telegram_message_id": "1099",
-      "telegram_url": "https://t.me/gamepulse_newss/1099",
-      "telegram_published_at": "2026-10-11T13:02:36.080960+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_13.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-11T13:02:37.380577+00:00"
-    },
-    {
       "fingerprint": "1b42b5255aadec2c04009a46",
       "title": "Godzilla Minus Zero Trailer Reveals Sneak Peek at King Ghidorah's Gravity Beams",
       "url": "https://ign.com/articles/godzilla-minus-zero-trailer-reveals-sneak-peek-at-king-ghidorahs-gravity-beams",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Bloodborne-Lady-Maria.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T19:47:18.287554+00:00"
+    },
+    {
+      "fingerprint": "2ca943eb592cc1da3c8f532b",
+      "title": "God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
+      "url": "https://ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T19:33:32+00:00",
+      "score": 11,
+      "event_key": "top grossing playstation studios games ps5 generation report",
+      "title_ru": "God of War Ragnarok стала самой кассовой игрой PlayStation Studios поколения PS5",
+      "threads_teaser_ru": "Аналитики подсчитали топ-10 самых кассовых игр PlayStation Studios поколения PS5. Лидером стала God of War Ragnarok с выручкой 1,4 млрд долларов, а общая сумма дохода десяти главных хитов превысила 6,5 млрд долларов. Какие еще проекты вошли в рейтинг?",
+      "telegram_message_id": "2299",
+      "telegram_url": "https://t.me/gamepulse_newss/2299",
+      "telegram_published_at": "2026-11-06T20:03:17.860976+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/05/31/lenovo-breakout-thumb-oo-1717118604588.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T19:47:18.287635+00:00"
+  "updated_at": "2026-11-06T20:03:17.861306+00:00"
 }
