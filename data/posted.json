@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "28c7c68aecca6666e537b314",
-      "title": "It’s Officially the Dawn of a New Era for 'Magic the Gathering' Universes Beyond",
-      "url": "https://polygon.com/mtg-darkhold-destinies-spoilers-marvel-universes-beyond",
-      "source": "Polygon",
-      "published_at_source": "2026-10-10T00:30:16+00:00",
-      "score": 7,
-      "event_key": "mtg darkhold destiny universes beyond marvel crossover 2027",
-      "title_ru": "Darkhold Destiny станет новым амбициозным кроссовером в рамках Magic: The Gathering Universes Beyond",
-      "threads_teaser_ru": "В 2027 году выйдет Darkhold Destiny — новый набор Magic: The Gathering и масштабный кроссовер с Marvel в линейке Universes Beyond. Он расскажет оригинальную историю о борьбе героев со злодеями Хелой и Дормамму.",
-      "telegram_message_id": "1057",
-      "telegram_url": "https://t.me/gamepulse_newss/1057",
-      "telegram_published_at": "2026-10-10T06:47:22.251605+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/magic-darkhold-destiny-1.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-10T06:47:23.674253+00:00"
-    },
-    {
       "fingerprint": "6cd31c0947a5ff3ef2697495",
       "title": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
       "url": "https://eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/faraway.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T03:47:58.594454+00:00"
+    },
+    {
+      "fingerprint": "5daea13f8b1b9f5d5c508113",
+      "title": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers",
+      "url": "https://rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T17:30:00+00:00",
+      "score": 7,
+      "event_key": "Apex Legends adds Godzilla to Storm Point map",
+      "title_ru": "Apex Legends проведет кроссовер с Godzilla",
+      "threads_teaser_ru": "В Apex Legends стартует событие с Godzilla: с 10 ноября игроки увидят на карте Storm Point легендарного монстра, способного уничтожать целые отряды атомным дыханием, а также смогут получить тематические скины для персонажей и уникальную версию Devotion LMG.",
+      "telegram_message_id": "2257",
+      "telegram_url": "https://t.me/gamepulse_newss/2257",
+      "telegram_published_at": "2026-11-06T04:03:01.978791+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Apex-Legends-Godzilla-Event-promo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T03:47:58.594550+00:00"
+  "updated_at": "2026-11-06T04:03:01.979131+00:00"
 }
