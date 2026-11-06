@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eaa494590baa34297a2795c1",
-      "title": "59 Years Later, Star Trek's Definitive Time-Travel Episode is Getting a Major Update",
-      "url": "https://polygon.com/star-trek-city-on-the-edge-of-forever",
-      "source": "Polygon",
-      "published_at_source": "2026-10-10T17:00:17+00:00",
-      "score": 10,
-      "event_key": "star-trek-city-on-the-edge-of-forever-idw-reprint",
-      "title_ru": "Эпизод Star Trek «The City on the Edge of Forever» получает переиздание комикса",
-      "threads_teaser_ru": "Издательство IDW Publishing выпустит сборник Star Trek: The Edges of the Final Frontier: IDW Classic Collection, включающий адаптацию сценария легендарного эпизода Star Trek.",
-      "telegram_message_id": "1073",
-      "telegram_url": "https://t.me/gamepulse_newss/1073",
-      "telegram_published_at": "2026-10-10T17:17:24.587680+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/collinsandkirk.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/sq-maitreyiramakrishnan-3draft-1789593510.mp4",
-      "threads_published_at": "2026-10-10T17:17:25.962314+00:00"
-    },
-    {
       "fingerprint": "8a08bcf5eccc1d37a3c7a7d5",
       "title": "7 Final Fantasy Games That Deserved Better",
       "url": "https://polygon.com/ff-final-fantasy-games-underrated-overlooked",
@@ -20512,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/god-of-war-e3-2016-gameplay-trailer-_-ps4-5-28-screenshot.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-06T11:47:12.677980+00:00"
+    },
+    {
+      "fingerprint": "6c25074e7c59339fd8a67295",
+      "title": "Nintendo Exec Bill Trinen Explains Why the Ocarina of Time Remake Is the Perfect First The Legend of Zelda Game",
+      "url": "https://ign.com/articles/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-remake-is-the-perfect-first-the-legend-of-zelda-game",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T11:14:23+00:00",
+      "score": 11,
+      "event_key": "bill trinen discusses ocarina of time remake on nintendo switch 2",
+      "title_ru": "Вице-президент Nintendo of America назвал Ocarina of Time Remake идеальной отправной точкой в серии",
+      "threads_teaser_ru": "Вице-президент Nintendo of America Билл Тринен объяснил, почему недавний релиз The Legend of Zelda: Ocarina of Time Remake на Nintendo Switch 2 отлично подходит для знакомства со знаменитой серией.",
+      "telegram_message_id": "2273",
+      "telegram_url": "https://t.me/gamepulse_newss/2273",
+      "telegram_published_at": "2026-11-06T12:02:26.907533+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/tloz6-sffirstsale-1793962791135.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T11:47:12.678073+00:00"
+  "updated_at": "2026-11-06T12:02:26.908021+00:00"
 }
