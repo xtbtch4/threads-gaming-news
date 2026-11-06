@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f162771633da666dbccef6a1",
-      "title": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
-      "url": "https://polygon.com/best-peanuts-comic-strip-ever",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T10:00:15+00:00",
-      "score": 5,
-      "event_key": "polygon selects best peanuts comic strip",
-      "title_ru": "Лучший выпуск Peanuts по версии Polygon",
-      "threads_teaser_ru": "Журналисты выбрали лучший выпуск легендарной серии Peanuts за авторством Чарльза Шульца. Им оказался комикс из 1961 года с участием Charlie Brown и Snoopy.",
-      "telegram_message_id": "1093",
-      "telegram_url": "https://t.me/gamepulse_newss/1093",
-      "telegram_published_at": "2026-10-11T10:02:08.490890+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-06-at-11-24-27-am.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-11T10:02:09.766274+00:00"
-    },
-    {
       "fingerprint": "85292823424e9bd297eb1bbc",
       "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
       "url": "https://eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/en-1793979330258.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T18:17:40.638321+00:00"
+    },
+    {
+      "fingerprint": "e0ca0c439ce58600179c9469",
+      "title": "Marvel Comics Is Relaunching Hulk in 2027, and the First Issue Is Free",
+      "url": "https://ign.com/articles/marvel-comics-is-relaunching-hulk-in-2027-and-the-first-issue-is-free",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T17:20:57+00:00",
+      "score": 13,
+      "event_key": "Marvel Comics relaunching Hulk series in 2027",
+      "title_ru": "Marvel Comics перезапустит серию Hulk в 2027 году",
+      "threads_teaser_ru": "Marvel Comics готовится к перезапуску ежемесячной серии Hulk в мае 2027 года. Первый номер новой серии, над которой работают создатели Ultimate Wolverine Крис Кондон и Алессандро Каппуччо, будет распространяться бесплатно в рамках Comics Giveaway Day.",
+      "telegram_message_id": "2293",
+      "telegram_url": "https://t.me/gamepulse_newss/2293",
+      "telegram_published_at": "2026-11-06T18:33:10.002684+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/mixcollage-06-nov-2026-11-53-am-3244-1793983996349.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T18:17:40.638410+00:00"
+  "updated_at": "2026-11-06T18:33:10.002965+00:00"
 }
