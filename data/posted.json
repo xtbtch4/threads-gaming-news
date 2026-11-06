@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6a6ade37318f7761e36ed882",
-      "title": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
-      "url": "https://rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-09T16:38:11+00:00",
-      "score": 7,
-      "event_key": "Cyberpunk 2077 Guitar Gigs Across Night City mod release",
-      "title_ru": "Для Cyberpunk 2077 вышел мод, позволяющий выступать на сцене в качестве музыканта",
-      "threads_teaser_ru": "Новый мод для Cyberpunk 2077 добавляет в игру полноценную карьеру музыканта. Теперь можно выступать на различных площадках, развивать популярность и даже добавлять собственные треки для исполнения, несмотря на технические ограничения анимации.",
-      "telegram_message_id": "1052",
-      "telegram_url": "https://t.me/gamepulse_newss/1052",
-      "telegram_published_at": "2026-10-10T01:47:45.900558+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-guitar-gigs-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T01:47:47.290901+00:00"
-    },
-    {
       "fingerprint": "fab70ae1a90c696fb02c10c5",
       "title": "Turok the Dinosaur Hunter Returns for Skybound Visions Imprint - NYCC 2026",
       "url": "https://ign.com/articles/turok-the-dinosaur-hunter-returns-for-skybound-visions-imprint-nycc-2026",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://drop-assets.ea.com/images/7mU99o3QpfjKpuEfVYMPBm/3186332abfe9d3eab2c70c8cc1ac5aae/ApexS31_Hopscotch_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.6229166666666667,yPosition=0.47453703703703703",
       "threads_published_at": "2026-11-06T01:47:20.815738+00:00"
+    },
+    {
+      "fingerprint": "205eaf1d8ab3e8c1845791b9",
+      "title": "Save 50% Off the Wolfbox Cordless Car Jump Starter and 24,000mAh Power Bank Ahead of Black Friday",
+      "url": "https://ign.com/articles/wolfbox-cordless-car-jump-starter-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T01:40:00+00:00",
+      "score": 9,
+      "event_key": "amazon discount wolfbox cordless car jump starter black friday",
+      "title_ru": "Скидка 50% на Wolfbox Cordless Car Jump Starter в преддверии Black Friday",
+      "threads_teaser_ru": "На Amazon запустили скидку 50% на Wolfbox 4000A Cordless Jump Starter. Это не только автомобильное пусковое устройство, но и мощный повербанк на 24 000 мАч. Благодаря порту 65 Вт он подходит для подзарядки портативных игровых ПК вроде Asus ROG Xbox Ally X.",
+      "telegram_message_id": "2252",
+      "telegram_url": "https://t.me/gamepulse_newss/2252",
+      "telegram_published_at": "2026-11-06T02:03:38.771847+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/wolfbox4000ajumpstarter-1793919971073.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T01:47:20.815826+00:00"
+  "updated_at": "2026-11-06T02:03:38.772111+00:00"
 }
