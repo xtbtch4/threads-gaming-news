@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "49e3440f4e321d2b4f0e5286",
-      "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
-      "url": "https://ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T22:47:30+00:00",
-      "score": 7,
-      "event_key": "Konami planning second and third waves of Silent Hill games",
-      "title_ru": "Konami планирует «вторую и третью волны» игр в серии Silent Hill",
-      "threads_teaser_ru": "Konami не планирует ограничиваться уже вышедшими играми серии Silent Hill. Продюсер проекта Motoi Okamoto подтвердил, что компания начала подготовку к «второй и третьей волнам» новых игр во франшизе, основываясь на успешном приеме недавних релизов.",
-      "telegram_message_id": "1049",
-      "telegram_url": "https://t.me/gamepulse_newss/1049",
-      "telegram_published_at": "2026-10-10T01:03:23.456934+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/05/27/untitled-1-copy-1666187781885-1716851975081.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-10T01:03:25.156454+00:00"
-    },
-    {
       "fingerprint": "762d6987b5b260390f273b34",
       "title": "Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones With Extended 2 Year Warranty",
       "url": "https://ign.com/articles/sony-wh-1000xm6-noise-canceling-headphone-deal-october-2026",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/chrono-punk.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T01:03:00.488270+00:00"
+    },
+    {
+      "fingerprint": "9749a60cc51141f7217c9598",
+      "title": "The brutal reality of making video games in 2026 | Point It Out!",
+      "url": "https://polygon.com/video/the-brutal-reality-of-making-video-games-in-2026-point-it-out",
+      "source": "Polygon",
+      "published_at_source": "2026-11-05T22:34:23+00:00",
+      "score": 8,
+      "event_key": "Point It Out indie roundtable WoW Forever Arkane Lyon",
+      "title_ru": "Polygon: обсуждение индустрии инди-игр и новости Arkane Lyon",
+      "threads_teaser_ru": "В новом выпуске Point It Out обсудили будущее инди-индустрии и секреты успеха таких хитов, как Shovel Knight и Hyper Light Drifter. Также появились новости о грядущем релизе WoW Forever и возможной продаже студии Arkane Lyon.",
+      "telegram_message_id": "2249",
+      "telegram_url": "https://t.me/gamepulse_newss/2249",
+      "telegram_published_at": "2026-11-06T01:17:29.037786+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pio-thumb-ep-11_2.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-06T01:03:00.488373+00:00"
+  "updated_at": "2026-11-06T01:17:29.038043+00:00"
 }
