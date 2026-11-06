@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a43e3fb8efeabd711aa776cb",
-      "title": "4 Years Later, Matt Mercer's Best Critical Role Quote is a Perfect D&D Slogan",
-      "url": "https://polygon.com/critical-role-matthew-mercer-best-quote",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T12:00:16+00:00",
-      "score": 5,
-      "event_key": "matthew_mercer_critical_role_quote_campaign_3",
-      "title_ru": "Цитата Matthew Mercer из Critical Role напоминает о сути D&D",
-      "threads_teaser_ru": "Издание Polygon выделило главную цитату Matthew Mercer из Campaign 3 шоу Critical Role, ставшую отличным напоминанием для чересчур требовательных фанатов Dungeons & Dragons.",
-      "telegram_message_id": "1098",
-      "telegram_url": "https://t.me/gamepulse_newss/1098",
-      "telegram_published_at": "2026-10-11T12:46:32.339236+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/critical-role-matt-mercer-robyn-von-swank.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-11T12:46:33.901873+00:00"
-    },
-    {
       "fingerprint": "d81b977f26bc84da6d74ab97",
       "title": "GTA 6 Gets A Nudity Pass That Indies Don't For One Weird Reason",
       "url": "https://polygon.com/patch-notes-gta-6-dong-age-rating",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/850303920_18636613474012497_6099106429882516854_n.jpg?w=300",
       "threads_published_at": "2026-11-06T19:32:58.364706+00:00"
+    },
+    {
+      "fingerprint": "88557068bf4e8575f46cda4b",
+      "title": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
+      "url": "https://eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-06T17:49:40+00:00",
+      "score": 11,
+      "event_key": "former playstation boss explains bloodborne rights complications",
+      "title_ru": "Бывший глава PlayStation объяснил сложность возвращения к Bloodborne",
+      "threads_teaser_ru": "Почему мы до сих пор не увидели Bloodborne 2 или ремастер? Бывший глава PlayStation Шон Лейден считает, что всё дело в сложной системе прав между Sony, FromSoftware и Kadokawa Corporation, из-за которой трудно прийти к общему согласию.",
+      "telegram_message_id": "2298",
+      "telegram_url": "https://t.me/gamepulse_newss/2298",
+      "telegram_published_at": "2026-11-06T19:47:16.966069+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Bloodborne-Lady-Maria.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T19:32:58.364803+00:00"
+  "updated_at": "2026-11-06T19:47:16.966302+00:00"
 }
