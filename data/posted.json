@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9bea1a1bcac88b37e4806abc",
-      "title": "26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed",
-      "url": "https://polygon.com/buffy-the-vampire-slayer-episode-xander",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T01:00:15+00:00",
-      "score": 8,
-      "event_key": "buffy the vampire slayer the replacement episode xander split",
-      "title_ru": "Эпизод сериала Buffy the Vampire Slayer под названием «The Replacement»",
-      "threads_teaser_ru": "Пятый сезон сериала Buffy the Vampire Slayer подарил зрителям эпизод «The Replacement», в котором персонаж Xander Harris переживает необычное разделение на две разные личности из-за демона по имени Toth.",
-      "telegram_message_id": "1088",
-      "telegram_url": "https://t.me/gamepulse_newss/1088",
-      "telegram_published_at": "2026-10-11T01:02:16.083207+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/buffy-xander-anya-the-replacement.png?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/03/shelf-quest-ep1-3cut-1773842486.mp4",
-      "threads_published_at": "2026-10-11T01:02:17.281937+00:00"
-    },
-    {
       "fingerprint": "a193ed5de9f6a1858e4a9ea6",
       "title": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
       "url": "https://polygon.com/game-of-thrones-best-littlefinger-quote",
@@ -20511,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/zelda-ocarina-of-time-switch-2-console-best-buy-1791470838410-1793978762265.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T16:47:19.426169+00:00"
+    },
+    {
+      "fingerprint": "8b27bc6041567261031b2027",
+      "title": "Skyrim Game Director Has a Very Specific Wishlist For The Elder Scrolls VI: Sentinel",
+      "url": "https://ign.com/articles/skyrim-game-director-has-a-very-specific-wishlist-for-the-elder-scrolls-vi-sentinel",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T16:12:51+00:00",
+      "score": 13,
+      "event_key": "former skyrim director shares wishlist for the elder scrolls vi",
+      "title_ru": "Бывший директор Skyrim поделился пожеланиями к The Elder Scrolls VI: Sentinel",
+      "threads_teaser_ru": "Бывший директор по дизайну Bethesda Брюс Несмит назвал две вещи, которые он хотел бы увидеть в The Elder Scrolls VI: Sentinel: улучшенную боевую систему на лошадях и полноценные лестницы для перемещения между уровнями.",
+      "telegram_message_id": "2288",
+      "telegram_url": "https://t.me/gamepulse_newss/2288",
+      "telegram_published_at": "2026-11-06T17:17:13.666806+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/theelderscrolls6-sentinel-xboxexclusive-blogroll-1793836140379.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T16:47:19.426256+00:00"
+  "updated_at": "2026-11-06T17:17:13.666982+00:00"
 }
