@@ -20510,9 +20510,10 @@
       "telegram_message_id": "2267",
       "telegram_url": "https://t.me/gamepulse_newss/2267",
       "telegram_published_at": "2026-11-06T10:17:01.301627+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Thane-SHODAN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Thane-SHODAN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-06T10:17:02.648876+00:00"
     }
   ],
-  "updated_at": "2026-11-06T10:17:01.301756+00:00"
+  "updated_at": "2026-11-06T10:17:02.648963+00:00"
 }
