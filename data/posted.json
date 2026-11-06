@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "99a75e99fad01d6e48f1f675",
-      "title": "Lucasfilm Games Producer Responds After Galactic Racer Character Biddy Blas Goes Viral",
-      "url": "https://ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral",
-      "source": "IGN",
-      "published_at_source": "2026-10-09T20:00:58+00:00",
-      "score": 6,
-      "event_key": "Biddy Blas viral Star Wars Galactic Racer",
-      "title_ru": "Персонаж Biddy Blas из Star Wars: Galactic Racer стал вирусным в соцсетях",
-      "threads_teaser_ru": "Персонаж Biddy Blas из Star Wars: Galactic Racer внезапно стал звездой соцсетей благодаря своей запоминающейся реплике. Продюсер Lucasfilm Games уже прокомментировал эту популярность, а игроки делятся историями о том, как хитрый персонаж подставляет их прямо во время гонок.",
-      "telegram_message_id": "1054",
-      "telegram_url": "https://t.me/gamepulse_newss/1054",
-      "telegram_published_at": "2026-10-10T02:17:16.844725+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/biddy-blas-scrib-doon-1791575939855.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-10T02:17:18.118648+00:00"
-    },
-    {
       "fingerprint": "8fbb52afed957a54df5b7abc",
       "title": "5 Hilarious 'Calvin and Hobbes' Comic Strips About Hating School",
       "url": "https://polygon.com/calvin-hobbes-vs-school-best-comic-stripes",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-deku-tree.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-06T02:33:05.309500+00:00"
+    },
+    {
+      "fingerprint": "59703221dfef4ce62efa70de",
+      "title": "James Cameron’s Avatar Franchise Gets a Massive New December Release",
+      "url": "https://polygon.com/avatar-fire-and-ash-collectors-edition-4k-blu-ray-december-release",
+      "source": "Polygon",
+      "published_at_source": "2026-11-05T21:20:13+00:00",
+      "score": 7,
+      "event_key": "avatar fire and ash 4k blu-ray collectors edition announcement",
+      "title_ru": "Avatar: Fire and Ash получит расширенное издание на 4K Blu-ray",
+      "threads_teaser_ru": "В декабре Avatar: Fire and Ash получит Collector's Edition на 4K Blu-ray. В издание войдет более шести часов дополнительных материалов, включая документальный фильм о производстве, удаленные сцены и детальные разборы технологий захвата движений, использованных при создании фильма.",
+      "telegram_message_id": "2254",
+      "telegram_url": "https://t.me/gamepulse_newss/2254",
+      "telegram_published_at": "2026-11-06T02:47:46.018635+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/3350_0160_v0544-l-1063.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-06T02:33:05.309583+00:00"
+  "updated_at": "2026-11-06T02:47:46.018812+00:00"
 }
