@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "71d764bd2c8c140f6a5c9a52",
-      "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
-      "url": "https://polygon.com/disney-world-disneyland-price-surge-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-10T17:34:51+00:00",
-      "score": 6,
-      "event_key": "disney_world_disneyland_ticket_price_increase_october_2026",
-      "title_ru": "Повышение цен на билеты в Disney World и Disneyland",
-      "threads_teaser_ru": "Disney подняла цены на билеты в Disneyland и Disney World. Подорожали билеты на праздники, некоторые тиры и годовые абонементы, но поездки в низкий сезон по-прежнему остаются доступнее.",
-      "telegram_message_id": "1078",
-      "telegram_url": "https://t.me/gamepulse_newss/1078",
-      "telegram_published_at": "2026-10-10T18:32:49.502662+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/disney-world-mickey.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-10T18:32:50.931346+00:00"
-    },
-    {
       "fingerprint": "2c6b644bb830474cfcefdcbb",
       "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
       "url": "https://ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/nier-1793963174330.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T13:46:49.462321+00:00"
+    },
+    {
+      "fingerprint": "568b0e3619ddb0006b7063c7",
+      "title": "Airframe Ultra's PS1 cyberpunk city is an amazing tribute to G-Police and WipEout, and I wish you people would slow down to appreciate it",
+      "url": "https://rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-06T14:00:00+00:00",
+      "score": 10,
+      "event_key": "Airframe Ultra game overview and gameplay impressions",
+      "title_ru": "Визуальный стиль и геймплей Airframe Ultra",
+      "threads_teaser_ru": "Airframe Ultra — новый battle-racer от авторов Rain World, который переносит в атмосферу киберпанка эпохи первой PlayStation. Игра совмещает гонки на ховербайках по детально проработанному городу с элементами пеших рукопашных боев, напоминая классические G-Police и Oni.",
+      "telegram_message_id": "2278",
+      "telegram_url": "https://t.me/gamepulse_newss/2278",
+      "telegram_published_at": "2026-11-06T14:02:56.320954+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/airframe-ultra_7aY1mnH.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T13:46:49.462404+00:00"
+  "updated_at": "2026-11-06T14:02:56.321365+00:00"
 }
