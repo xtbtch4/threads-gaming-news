@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ae0b42907f528ed29b4250ab",
-      "title": "Hello Kitty Island Adventure - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/hello-kitty-island-adventure",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-08T16:00:00+00:00",
-      "score": 8,
-      "event_key": "hello-kitty-island-adventure-nintendo-switch-online-trial",
-      "title_ru": "Hello Kitty Island Adventure стала доступна по программе Game Trials",
-      "threads_teaser_ru": "Подписчики Nintendo Switch Online могут бесплатно оценить Hello Kitty Island Adventure на Nintendo Switch до 15 октября, а также получить скидку на покупку игры.",
-      "telegram_message_id": "1048",
-      "telegram_url": "https://t.me/gamepulse_newss/1048",
-      "telegram_published_at": "2026-10-10T00:47:15.115020+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-10T00:47:16.471607+00:00"
-    },
-    {
       "fingerprint": "49e3440f4e321d2b4f0e5286",
       "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
       "url": "https://ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/bill-skarsgard-on-hideo-kojima-physint-1793918620853.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T00:47:18.374460+00:00"
+    },
+    {
+      "fingerprint": "6d7d62132c2e8c4aed7f942d",
+      "title": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
+      "url": "https://rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T22:55:20+00:00",
+      "score": 8,
+      "event_key": "action roguelite CHRONO PUNK announced with stylized aesthetic",
+      "title_ru": "Анонсирован экшен-рогалик CHRONO PUNK",
+      "threads_teaser_ru": "Представлен экшен-рогалик CHRONO PUNK, вдохновленный классикой эпохи PS2 и Dreamcast. Игрокам предстоит сражаться с корпорацией, управляющей временем, используя разнообразное оружие и акробатические навыки. Поддерживается кооператив.",
+      "telegram_message_id": "2248",
+      "telegram_url": "https://t.me/gamepulse_newss/2248",
+      "telegram_published_at": "2026-11-06T01:02:58.952012+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/chrono-punk.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T00:47:18.374557+00:00"
+  "updated_at": "2026-11-06T01:02:58.952410+00:00"
 }
