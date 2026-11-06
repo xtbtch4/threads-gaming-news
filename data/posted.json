@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a32a365391286e6a2266795b",
-      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-11T12:27:09+00:00",
-      "score": 11,
-      "event_key": "gta-6-leaker-cyberleek-new-lucia-video",
-      "title_ru": "Инсайдер CyberLeek опубликовал новый ролик GTA 6 с участием Lucia",
-      "threads_teaser_ru": "Инсайдер CyberLeek опубликовал новый ролик по GTA 6, в котором обнаженная Lucia гуляет по Vice City, грабит прохожего и прыгает с парашютом с крыши здания.",
-      "telegram_message_id": "1097",
-      "telegram_url": "https://t.me/gamepulse_newss/1097",
-      "telegram_published_at": "2026-10-11T12:32:00.688129+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/lucia-gta-6-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-11T12:32:02.219373+00:00"
-    },
-    {
       "fingerprint": "a43e3fb8efeabd711aa776cb",
       "title": "4 Years Later, Matt Mercer's Best Critical Role Quote is a Perfect D&D Slogan",
       "url": "https://polygon.com/critical-role-matthew-mercer-best-quote",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/CrossWorlds-6.jpg?w=300",
       "threads_published_at": "2026-11-06T19:17:07.010853+00:00"
+    },
+    {
+      "fingerprint": "baa199e0b9451f8b672b8d76",
+      "title": "Looking at Xbox, You Can See Everything",
+      "url": "https://gamespot.com/articles/looking-at-xbox-you-can-see-everything",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T19:01:20+00:00",
+      "score": 12,
+      "event_key": "Xbox CEO Asha Sharma comments on hardware supply constraints",
+      "title_ru": "Xbox вновь сообщает о нехватке консолей, несмотря на их наличие в магазинах",
+      "threads_teaser_ru": "Глава Xbox Аша Шарма снова заявляет о дефиците консолей из-за высокого спроса. Но в магазинах по всему миру устройства свободно лежат на полках, а ритейлеры отказываются от закупок. Кажется, компания пытается выдать желаемое за действительное.",
+      "telegram_message_id": "2297",
+      "telegram_url": "https://t.me/gamepulse_newss/2297",
+      "telegram_published_at": "2026-11-06T19:32:56.776665+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/850303920_18636613474012497_6099106429882516854_n.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-06T19:17:07.010944+00:00"
+  "updated_at": "2026-11-06T19:32:56.776974+00:00"
 }
