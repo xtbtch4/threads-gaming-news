@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5b504cf3d504297c4bcc9522",
-      "title": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
-      "url": "https://rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-10T20:24:35+00:00",
-      "score": 12,
-      "event_key": "cyberleek hackers demand money for gta 6 playable build",
-      "title_ru": "Хакеры из Cyberleek требуют деньги за слив играбельной сборки GTA 6",
-      "threads_teaser_ru": "Хакерская группировка Cyberleek пообещала выпустить играбельную сборку GTA 6, если их криптовалюта достигнет капитализации в 30 миллионов, либо если Take-Two выпустит диски с извинениями.",
-      "telegram_message_id": "1081",
-      "telegram_url": "https://t.me/gamepulse_newss/1081",
-      "telegram_published_at": "2026-10-10T20:31:50.727705+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T20:31:52.536768+00:00"
-    },
-    {
       "fingerprint": "a6436eba203b682b9d8cdb72",
       "title": "Blumhouse Gives Updates on Paranormal Activity 8, Saw 11, River, Something Is Killing the Children, and More | NYCC 2026",
       "url": "https://ign.com/articles/blumhouse-atomic-monster-nycc-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/screenshot-2026-11-06-141731-1793974684147.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T15:02:53.101851+00:00"
+    },
+    {
+      "fingerprint": "3d830d06bdb385d02cdb043d",
+      "title": "Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting",
+      "url": "https://gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T13:46:33+00:00",
+      "score": 15,
+      "event_key": "stellar blade switch 2 performance frame generation issues",
+      "title_ru": "Проблемы производительности Stellar Blade на Switch 2",
+      "threads_teaser_ru": "Порт Stellar Blade на Switch 2 впечатляет графикой, но сталкивается с серьезной проблемой в сражениях из-за генерации кадров и задержки ввода.",
+      "telegram_message_id": "2281",
+      "telegram_url": "https://t.me/gamepulse_newss/2281",
+      "telegram_published_at": "2026-11-06T15:17:14.405639+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4496255-stellar-blade-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-06T15:02:53.101939+00:00"
+  "updated_at": "2026-11-06T15:17:14.405914+00:00"
 }
