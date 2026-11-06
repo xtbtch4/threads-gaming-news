@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2c6b644bb830474cfcefdcbb",
-      "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
-      "url": "https://ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
-      "source": "IGN",
-      "published_at_source": "2026-10-10T18:27:48+00:00",
-      "score": 7,
-      "event_key": "crystal_lake_nycc_panel_oct_2026",
-      "title_ru": "Шоураннер и актеры Crystal Lake обсудили переосмысление истории Friday the 13th",
-      "threads_teaser_ru": "Создатели сериала Crystal Lake поделились подробностями о новом взгляде на историю Friday the 13th, взаимоотношениях Pamela и молодого Jason Voorhees, а также о балансе канона и свежих идей в шоу.",
-      "telegram_message_id": "1079",
-      "telegram_url": "https://t.me/gamepulse_newss/1079",
-      "telegram_published_at": "2026-10-10T19:02:52.096816+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/10/crystal-lake-thumb-1791656862727.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-10T19:02:53.366452+00:00"
-    },
-    {
       "fingerprint": "e5e1ae94857ef7df0a8ef72a",
       "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
       "url": "https://eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/airframe-ultra_7aY1mnH.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T14:02:57.724576+00:00"
+    },
+    {
+      "fingerprint": "4cc39f51dd94131e137671d1",
+      "title": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
+      "url": "https://rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-06T12:38:00+00:00",
+      "score": 10,
+      "event_key": "ea releases 25 classic games after archive discovery",
+      "title_ru": "EA выпустила 25 классических игр в Steam и GOG после находки старых архивов",
+      "threads_teaser_ru": "EA внезапно пополнила библиотеки Steam и GOG 25 классическими играми, включая серии Ultima и Wing Commander. Всё началось с того, что продюсер компании случайно наткнулся на забытый склад со старыми записями и пленками.",
+      "telegram_message_id": "2279",
+      "telegram_url": "https://t.me/gamepulse_newss/2279",
+      "telegram_published_at": "2026-11-06T14:17:36.517623+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ea-classic-games-released-steam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T14:02:57.724667+00:00"
+  "updated_at": "2026-11-06T14:17:36.517951+00:00"
 }
