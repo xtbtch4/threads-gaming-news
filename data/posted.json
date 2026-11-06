@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2286",
       "telegram_url": "https://t.me/gamepulse_newss/2286",
       "telegram_published_at": "2026-11-06T16:32:22.239263+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Ocarina-of-Time.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Ocarina-of-Time.jpg?w=300",
+      "threads_published_at": "2026-11-06T16:32:23.616577+00:00"
     }
   ],
-  "updated_at": "2026-11-06T16:32:22.239509+00:00"
+  "updated_at": "2026-11-06T16:32:23.616677+00:00"
 }
