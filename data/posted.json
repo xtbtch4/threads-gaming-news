@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4c821cd2930459b1c3f9a466",
-      "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-      "url": "https://eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-11T09:00:00+00:00",
-      "score": 9,
-      "event_key": "krafton-announces-pubg-ded-net-battle-royale",
-      "title_ru": "Krafton анонсировала PUBG Ded.Net",
-      "threads_teaser_ru": "Издательство Krafton разрабатывает PUBG Ded.Net — необычный взгляд на жанр «королевской битвы» с элементами «рогалика» в антураже жестокого шоу из 90-х.",
-      "telegram_message_id": "1092",
-      "telegram_url": "https://t.me/gamepulse_newss/1092",
-      "telegram_published_at": "2026-10-11T09:16:37.776289+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/pubg-dednet-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-11T09:16:38.950189+00:00"
-    },
-    {
       "fingerprint": "f162771633da666dbccef6a1",
       "title": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
       "url": "https://polygon.com/best-peanuts-comic-strip-ever",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/vicious-vocab-1793984273312.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T18:02:44.592170+00:00"
+    },
+    {
+      "fingerprint": "d56678a53369295429382d89",
+      "title": "ENDIX, the Fully Free, Digital Gaming Expo, Is Now Live With More Than 50 Games, World Premieres, Exclusive Trailers, and More",
+      "url": "https://ign.com/articles/endix-the-fully-free-digital-gaming-expo-is-now-live-with-more-than-50-games-world-premieres-exclusive-trailers-and-more",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T18:00:00+00:00",
+      "score": 13,
+      "event_key": "ENDIX fully digital free gaming expo 2026",
+      "title_ru": "Цифровая игровая выставка ENDIX начала свою работу",
+      "threads_teaser_ru": "Началась бесплатная цифровая выставка ENDIX, доступная в Steam и Epic Games Store. С 6 по 8 ноября посетители могут посещать виртуальные стенды, знакомиться с более чем 50 проектами и напрямую общаться с разработчиками через встроенный голосовой чат.",
+      "telegram_message_id": "2292",
+      "telegram_url": "https://t.me/gamepulse_newss/2292",
+      "telegram_published_at": "2026-11-06T18:17:39.152871+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/en-1793979330258.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T18:02:44.592254+00:00"
+  "updated_at": "2026-11-06T18:17:39.153109+00:00"
 }
