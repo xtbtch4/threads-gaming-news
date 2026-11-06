@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a6436eba203b682b9d8cdb72",
-      "title": "Blumhouse Gives Updates on Paranormal Activity 8, Saw 11, River, Something Is Killing the Children, and More | NYCC 2026",
-      "url": "https://ign.com/articles/blumhouse-atomic-monster-nycc-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-10T16:13:51+00:00",
-      "score": 8,
-      "event_key": "blumhouse_atomic_monster_nycc_2026_updates",
-      "title_ru": "Blumhouse и Atomic Monster поделились новостями о грядущих хоррорах на NYCC 2026",
-      "threads_teaser_ru": "На New York Comic Con компании Blumhouse и Atomic Monster анонсировали экранизацию Amanda the Adventurer, раскрыли режиссера Something Is Killing the Children и поделились новостями о франшизах The Exorcist, Saw и Paranormal Activity.",
-      "telegram_message_id": "1082",
-      "telegram_url": "https://t.me/gamepulse_newss/1082",
-      "telegram_published_at": "2026-10-10T20:46:57.745276+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/10/curryb-1791648824231.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-10T20:46:59.256666+00:00"
-    },
-    {
       "fingerprint": "cc19d2d58463e1d20ed13ea3",
       "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
       "url": "https://ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
@@ -20511,7 +20494,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4496255-stellar-blade-1.jpg?w=300",
       "threads_published_at": "2026-11-06T15:17:15.828557+00:00"
+    },
+    {
+      "fingerprint": "72d1bbf3c7425aa799ade2dd",
+      "title": "'Godzilla Minus Zero’s Final Trailer Reveals Legendary Monster Villain",
+      "url": "https://polygon.com/godzilla-minus-zero-final-trailer-king-ghidorah",
+      "source": "Polygon",
+      "published_at_source": "2026-11-06T15:27:38+00:00",
+      "score": 12,
+      "event_key": "godzilla minus zero final trailer king ghidorah release",
+      "title_ru": "Финальный трейлер фильма Godzilla Minus Zero представил King Ghidorah",
+      "threads_teaser_ru": "Фильм Godzilla Minus Zero вышел в прокат в США и получил финальный трейлер, который показал нового противника — King Ghidorah. Лента уже установила рекорды в Японии и собирает высокие оценки критиков.",
+      "telegram_message_id": "2282",
+      "telegram_url": "https://t.me/gamepulse_newss/2282",
+      "telegram_published_at": "2026-11-06T15:32:29.507660+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdgomi_ec012.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/godzilla-minus-zero-official-trailer-3-1793976644.mp4"
     }
   ],
-  "updated_at": "2026-11-06T15:17:15.828647+00:00"
+  "updated_at": "2026-11-06T15:32:29.507789+00:00"
 }
