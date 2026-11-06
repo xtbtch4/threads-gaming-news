@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8fbb52afed957a54df5b7abc",
-      "title": "5 Hilarious 'Calvin and Hobbes' Comic Strips About Hating School",
-      "url": "https://polygon.com/calvin-hobbes-vs-school-best-comic-stripes",
-      "source": "Polygon",
-      "published_at_source": "2026-10-09T23:00:16+00:00",
-      "score": 5,
-      "event_key": "polygon features Calvin and Hobbes school comic strips",
-      "title_ru": "Подборка комиксов Calvin and Hobbes о школьных буднях",
-      "threads_teaser_ru": "Вспоминаем классику: Polygon разобрали пять знаковых выпусков комикса Calvin and Hobbes, посвященных ненависти Келвина к школе. Почему именно эти истории стали метафорой проблем с системой образования и как менялся визуальный стиль Билла Уоттерсона.",
-      "telegram_message_id": "1055",
-      "telegram_url": "https://t.me/gamepulse_newss/1055",
-      "telegram_published_at": "2026-10-10T02:32:22.804757+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/calvin-and-hobbes-10th-anniversary-cover.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-10T02:32:24.143188+00:00"
-    },
-    {
       "fingerprint": "3811f04e1673dc280232c528",
       "title": "Arc Raiders Empathetic Prototypes Quest Guide",
       "url": "https://gamespot.com/articles/arc-raiders-empathetic-prototypes-quest-guide",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/3350_0160_v0544-l-1063.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-06T02:47:47.506043+00:00"
+    },
+    {
+      "fingerprint": "9c9a43603fa5df711119c748",
+      "title": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access",
+      "url": "https://rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T19:00:00+00:00",
+      "score": 7,
+      "event_key": "ablahshikar release in early access",
+      "title_ru": "В ранний доступ вышла Ablahshikar — «сальваж-сурвайвал» CRPG",
+      "threads_teaser_ru": "В раннем доступе Steam появилась Ablahshikar — сюрреалистичная «сальваж-сурвайвал» CRPG о пересборке военных кораблей из «органов» вражеских судов. Игру характеризуют как крайне необычный проект, сочетающий элементы аркадного управления, dungeon crawling и специфическую стилистику.",
+      "telegram_message_id": "2255",
+      "telegram_url": "https://t.me/gamepulse_newss/2255",
+      "telegram_published_at": "2026-11-06T03:32:41.674139+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ablahshikar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T02:47:47.506142+00:00"
+  "updated_at": "2026-11-06T03:32:41.674435+00:00"
 }
