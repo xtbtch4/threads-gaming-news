@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "52568e18de4777ce1e071d7d",
-      "title": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
-      "url": "https://ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
-      "source": "IGN",
-      "published_at_source": "2026-10-11T14:30:00+00:00",
-      "score": 9,
-      "event_key": "grand_theft_auto_5_sales_and_impact_retrospective",
-      "title_ru": "Как Grand Theft Auto 5 изменила игровую индустрию",
-      "threads_teaser_ru": "Проект Grand Theft Auto 5 продался тиражом более 230 миллионов копий и принес около 10 миллиардов долларов за десять лет. Как создавался один из главных феноменов в истории видеоигр?",
-      "telegram_message_id": "1104",
-      "telegram_url": "https://t.me/gamepulse_newss/1104",
-      "telegram_published_at": "2026-10-11T15:01:55.159843+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/gta-world-blog-1791369194587.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-11T15:01:56.315142+00:00"
-    },
-    {
       "fingerprint": "a5c70be9b312c3f5d4732d71",
       "title": "Halo Already Delivered the Perfect Master Chief Origin Story, 25 Years Ago",
       "url": "https://polygon.com/halo-activision-master-chief-origin-story-fall-of-reach",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/09/13/mortalkombat1-review-blogroll-1694635604946.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T22:02:45.953843+00:00"
+    },
+    {
+      "fingerprint": "0e1bbf85fd01b8a619f665f2",
+      "title": "The GTPlayer Ace Pro Gaming Chair Has Built-In Speakers for Less Than $130 for Black Friday",
+      "url": "https://ign.com/articles/gtplayer-ace-pro-gaming-chair-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T21:10:00+00:00",
+      "score": 9,
+      "event_key": "gtplayer ace pro gaming chair black friday sale amazon",
+      "title_ru": "Скидка на игровой стул GTPLAYER Ace Pro в преддверии Black Friday",
+      "threads_teaser_ru": "Игровой стул GTPLAYER Ace Pro со встроенными динамиками и беспроводным питанием аудиосистемы можно приобрести на Amazon дешевле 130 долларов в рамках ранних скидок Black Friday.",
+      "telegram_message_id": "2304",
+      "telegram_url": "https://t.me/gamepulse_newss/2304",
+      "telegram_published_at": "2026-11-06T22:17:02.216063+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/gtplayeracepro-1793998462912.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T22:02:45.953940+00:00"
+  "updated_at": "2026-11-06T22:17:02.216402+00:00"
 }
