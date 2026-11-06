@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "408cb127d74aa7bdb14d04fa",
-      "title": "Escape the Backrooms is throwing an After Party with three new levels this December",
-      "url": "https://eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-11T17:07:55+00:00",
-      "score": 11,
-      "event_key": "escape the backrooms after party update december",
-      "title_ru": "Escape the Backrooms получит обновление After Party в декабре",
-      "threads_teaser_ru": "Для кооперативного хоррора Escape the Backrooms анонсировано крупное декабрьское обновление After Party с тремя новыми уровнями и тематическими скинами. Сколько игроков уже опробовали проект с момента его выхода в ранний доступ?",
-      "telegram_message_id": "1107",
-      "telegram_url": "https://t.me/gamepulse_newss/1107",
-      "telegram_published_at": "2026-10-11T17:16:39.785758+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/unnamed_7izBv8K.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-11T17:16:40.992444+00:00"
-    },
-    {
       "fingerprint": "9edf3297919792e4f492808a",
       "title": "9 Most Haunted Masks in The Legend of Zelda: Majora's Mask, Ranked",
       "url": "https://polygon.com/zelda-majoras-masks-scariest-ranked",
@@ -20511,7 +20494,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/11/e764de8347a5d741a749dd7bb7f43be000c90034.jpg",
       "video_url": "https://stream.mux.com/2AcikP3yw02twKyU100nSsRqcOQUB222R1WGbVqpsgUe00/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyQWNpa1AzeXcwMnR3S3lVMTAwblNzUnFjT1FVQjIyMlIxV0diVnFwc2dVZTAwIiwiYXVkIjoidiIsImV4cCI6MTc5NDA0ODM2OSwia2lkIjoiNEw1eU9janJWMU5VcVZ6Y1V2SkJuMXdUbTRlVEdHOU1oMDIwMVlrNWp1OU5BIn0.GUTWxwB3VUAr5oAC4r5JgPm6nmM5hug4xolH5TFpkB6uvNTXBmYhZxQQeI45DlCdu4GGMaqJOwzeHKuM1AEoru-LFuY3j5hSifxBqV_QCyL3SM037nsxUEj-bPVPIh-3Sobi5yEgKtfe7jwiGpWaZE94PFHsslCaJA6v_xOanafQdph1pySiEmA1XVkJY3N7mTMSO2I4e9zy24QOs0k0ROwcVyE2SBssA-pU5L_jFkFcY1-Xv4pf1m4aKLHSLeOyEzKXlVw5qe8o-AiSoIgHBtiStJD11tZ7CaPMfNc6L9ecoXNCKkbLZ6Qk_OQELyu3HIti8WESa2IYlh3xg47-bg",
       "threads_published_at": "2026-11-06T22:47:14.851176+00:00"
+    },
+    {
+      "fingerprint": "86393fd1b50111fe87101074",
+      "title": "‘I Meant It When I Said What I Said’ — Nicolas Cage is Actually Relieved That Spider-Noir Got Canceled",
+      "url": "https://ign.com/articles/i-meant-it-when-i-said-what-i-said-nicolas-cage-is-actually-relieved-that-spider-noir-got-canceled",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T22:04:23+00:00",
+      "score": 13,
+      "event_key": "nicolas cage relieved spider noir canceled",
+      "title_ru": "Nicolas Cage рад отмене Spider-Noir",
+      "threads_teaser_ru": "Nicolas Cage признался, что рад отмене анимационного сериала Spider-Noir на Prime Video. Актер считает один сезон идеальным и не хочет повторять роль Ben Reilly, а также открыто выступает против использования искусственного интеллекта.",
+      "telegram_message_id": "2307",
+      "telegram_url": "https://t.me/gamepulse_newss/2307",
+      "telegram_published_at": "2026-11-06T23:02:37.691105+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/27/spiderthumb-1779910369541.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T22:47:14.851289+00:00"
+  "updated_at": "2026-11-06T23:02:37.691424+00:00"
 }
