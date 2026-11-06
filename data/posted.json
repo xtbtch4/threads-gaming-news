@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "674ffa710c330fe58eee6a4f",
-      "title": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
-      "url": "https://gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-09T18:41:40+00:00",
-      "score": 8,
-      "event_key": "gears of war e day sales and game pass impact analysis",
-      "title_ru": "Аналитики оценили продажи и влияние Game Pass на Gears of War: E-Day",
-      "threads_teaser_ru": "Аналитики поделились первыми данными о коммерческих результатах Gears of War: E-Day, включая прямые продажи, цифры по подписке Game Pass и влияние релизной модели на выручку Xbox.",
-      "telegram_message_id": "1046",
-      "telegram_url": "https://t.me/gamepulse_newss/1046",
-      "telegram_published_at": "2026-10-10T00:16:41.782728+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus.png?w=300",
-      "threads_published_at": "2026-10-10T00:16:43.201851+00:00"
-    },
-    {
       "fingerprint": "0598532b0b9f03fe63842e57",
       "title": "MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027",
       "url": "https://polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/sandiskswitch2card-1793650526574.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T00:17:07.298451+00:00"
+    },
+    {
+      "fingerprint": "b3d065363239da69c5287c03",
+      "title": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse",
+      "url": "https://rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-05T18:00:00+00:00",
+      "score": 9,
+      "event_key": "The Legend of Khiimori The Mongolian Expanse update release",
+      "title_ru": "Обновление The Mongolian Expanse расширило карту The Legend of Khiimori",
+      "threads_teaser_ru": "В The Legend of Khiimori вышло крупное обновление The Mongolian Expanse. Игрокам стали доступны опасные горные и пустынные регионы с экстремальными погодными условиями, новые виды животных и выносливая порода лошадей Marwari.",
+      "telegram_message_id": "2246",
+      "telegram_url": "https://t.me/gamepulse_newss/2246",
+      "telegram_published_at": "2026-11-06T00:33:07.375531+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/the-legend-of-khiimori-mongolian-expanse.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T00:17:07.298542+00:00"
+  "updated_at": "2026-11-06T00:33:07.375841+00:00"
 }
