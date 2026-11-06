@@ -20510,9 +20510,10 @@
       "telegram_message_id": "2265",
       "telegram_url": "https://t.me/gamepulse_newss/2265",
       "telegram_published_at": "2026-11-06T07:17:10.512260+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/wolverine-header_ayYS3yR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/wolverine-header_ayYS3yR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-06T07:17:12.182453+00:00"
     }
   ],
-  "updated_at": "2026-11-06T07:17:10.512415+00:00"
+  "updated_at": "2026-11-06T07:17:12.182542+00:00"
 }
