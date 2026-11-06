@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a193ed5de9f6a1858e4a9ea6",
-      "title": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
-      "url": "https://polygon.com/game-of-thrones-best-littlefinger-quote",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T03:00:16+00:00",
-      "score": 5,
-      "event_key": "Littlefinger best Game of Thrones quote analysis",
-      "title_ru": "Лучшая цитата Littlefinger из сериала Game of Thrones спустя 13 лет",
-      "threads_teaser_ru": "Спустя годы после выхода, одна фраза Petyr Baelish из Game of Thrones остается лучшим описанием амбиций всех героев сериала. Разбираемся, почему слова Littlefinger из 3-го сезона так точно характеризуют путь Daenerys Targaryen и Cersei Lannister.",
-      "telegram_message_id": "1089",
-      "telegram_url": "https://t.me/gamepulse_newss/1089",
-      "telegram_published_at": "2026-10-11T03:02:37.361027+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/baelish.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-11T03:02:38.600751+00:00"
-    },
-    {
       "fingerprint": "122cebabe6d41cfac6948ac0",
       "title": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals",
       "url": "https://eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
@@ -20510,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/04/theelderscrolls6-sentinel-xboxexclusive-blogroll-1793836140379.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T17:17:15.407323+00:00"
+    },
+    {
+      "fingerprint": "51da6808f15daf3324a2751a",
+      "title": "A Blade for the Innocent: Into the War-Torn Hutuo Region of Where Winds Meet on XBOX",
+      "url": "https://news.xbox.com/en-us/2026/11/06/where-winds-meet-anniversary-update-hutuo",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-06T17:00:00+00:00",
+      "score": 12,
+      "event_key": "where-winds-meet-hutuo-region-xbox-release",
+      "title_ru": "Регион Hutuo появится в Where Winds Meet на XBOX Series X|S в ноябре",
+      "threads_teaser_ru": "Регион Hutuo появится в Where Winds Meet на XBOX Series X|S уже 13 ноября. Игроков ждет суровая зона боевых действий, новые квесты, а также боевой стиль Dual Spears, созданный при участии Юэня Ву-пина.",
+      "telegram_message_id": "2289",
+      "telegram_url": "https://t.me/gamepulse_newss/2289",
+      "telegram_published_at": "2026-11-06T17:32:07.878083+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Image-0-Key-Art-6339ba614c83318a9327.jpg"
     }
   ],
-  "updated_at": "2026-11-06T17:17:15.407409+00:00"
+  "updated_at": "2026-11-06T17:32:07.878202+00:00"
 }
