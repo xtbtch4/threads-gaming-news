@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9edf3297919792e4f492808a",
-      "title": "9 Most Haunted Masks in The Legend of Zelda: Majora's Mask, Ranked",
-      "url": "https://polygon.com/zelda-majoras-masks-scariest-ranked",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T17:00:17+00:00",
-      "score": 6,
-      "event_key": "polygon ranked scariest masks in zelda majoras mask",
-      "title_ru": "Самые жуткие маски в The Legend of Zelda: Majora's Mask",
-      "threads_teaser_ru": "Polygon составил рейтинг самых жутких масок в The Legend of Zelda: Majora's Mask. Всего в игре 24 маски, и многие из них связаны с мертвыми владельцами, проклятиями или кошмарным дизайном.",
-      "telegram_message_id": "1108",
-      "telegram_url": "https://t.me/gamepulse_newss/1108",
-      "telegram_published_at": "2026-10-11T17:32:18.249218+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19584505/Screenshot__97_.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-11T17:32:19.553471+00:00"
-    },
-    {
       "fingerprint": "090db8b76c0700d5176aaf25",
       "title": "New NetEase FPS Sparks Warzone 'Rip-Off' Claims, But Some Call of Duty Fans Are Happy to See It",
       "url": "https://ign.com/articles/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call-of-duty-fans-are-happy-to-see-it",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/27/spiderthumb-1779910369541.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T23:02:39.059750+00:00"
+    },
+    {
+      "fingerprint": "f1d05fb26cca180e5d1aa233",
+      "title": "Avery the Poké Kid's Father Pleads With The Pokémon Company to Make a Trading Card in Honor of His Late Son",
+      "url": "https://ign.com/articles/avery-the-pok-kids-father-pleads-with-the-pokmon-company-to-make-a-trading-card-in-honor-of-his-late-son",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T22:58:25+00:00",
+      "score": 9,
+      "event_key": "father asks The Pokémon Company for memorial card for Avery the Poké Kid",
+      "title_ru": "Отец Avery the Poké Kid просит The Pokémon Company выпустить карту в память о сыне",
+      "threads_teaser_ru": "Отец покойного инфлюенсера Avery the Poké Kid обратился к The Pokémon Company с просьбой выпустить памятную карту. Семья надеется, что это поможет увековечить память о мальчике, который был преданным фанатом Pokémon Trading Card Game.",
+      "telegram_message_id": "2308",
+      "telegram_url": "https://t.me/gamepulse_newss/2308",
+      "telegram_published_at": "2026-11-06T23:17:24.151653+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/avery-the-poke-kid-father-pleads-card-pokemon-company-1794005824978.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T23:02:39.059846+00:00"
+  "updated_at": "2026-11-06T23:17:24.151994+00:00"
 }
