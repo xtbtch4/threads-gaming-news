@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b544017f4d896ff3a6ed8f37",
-      "title": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
-      "url": "https://rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-10T16:07:07+00:00",
-      "score": 8,
-      "event_key": "medium rare stock photos dungeon crawler announcement",
-      "title_ru": "Анонсирован подземельный ролевой экшен Medium Rare с использованием стоковых фотографий",
-      "threads_teaser_ru": "Вдохновленный Resident Evil ролевой экшен Medium Rare предлагает необычный визуальный стиль, созданный на основе стоковых фотографий. Игрокам предстоит спасать жену из фабрики по производству человеческого мяса.",
-      "telegram_message_id": "1070",
-      "telegram_url": "https://t.me/gamepulse_newss/1070",
-      "telegram_published_at": "2026-10-10T16:17:09.167227+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/medium-rare.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T16:17:10.502299+00:00"
-    },
-    {
       "fingerprint": "5133131fd7f6868f4c1b1693",
       "title": "7 Switch 2 Characters Nintendo Should Add to the Next Super Smash Bros.",
       "url": "https://polygon.com/switch-2-super-smash-bros-character-predictions",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/unity-studio-car-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T10:47:08.245561+00:00"
+    },
+    {
+      "fingerprint": "96b82e106efcf879fc1d66b2",
+      "title": "Zelda: Ocarina of Time Producer Doesn’t Want Nintendo’s Next Generation To Rely on BotW’s Ideas",
+      "url": "https://polygon.com/hidemaro-fujibayashi-zelda-ocarina-of-time-botw-interview",
+      "source": "Polygon",
+      "published_at_source": "2026-11-06T11:00:18+00:00",
+      "score": 10,
+      "event_key": "hidemaro-fujibayashi-polygon-zelda-series-evolution-interview",
+      "title_ru": "Продюсер The Legend of Zelda о постоянных изменениях серии",
+      "threads_teaser_ru": "Продюсер серии The Legend of Zelda Хидемаро Фудзибаяси объяснил, почему франшиза постоянно меняется и пробует новые идеи вместо следования единой формуле.",
+      "telegram_message_id": "2270",
+      "telegram_url": "https://t.me/gamepulse_newss/2270",
+      "telegram_published_at": "2026-11-06T11:02:46.835655+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-ocarina-of-time-sheik-with-harp.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-06T10:47:08.245667+00:00"
+  "updated_at": "2026-11-06T11:02:46.835876+00:00"
 }
