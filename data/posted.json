@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d680b4f57e09e72defa532b4",
-      "title": "Star Wars Has a Real Shot at GOTY for the First Time in 23 Years",
-      "url": "https://polygon.com/goty-game-awards-star-wars-zero-company-galactic-racer",
-      "source": "Polygon",
-      "published_at_source": "2026-10-11T11:30:16+00:00",
-      "score": 8,
-      "event_key": "Star Wars games potential The Game Awards 2026 nominations",
-      "title_ru": "Star Wars: Zero Company и Galactic Racer могут претендовать на награды The Game Awards",
-      "threads_teaser_ru": "В 2026 году вышли сразу две высокооцененные игры во вселенной Star Wars — Zero Company и Galactic Racer. Смогут ли они побороться за звание «Игра года» на The Game Awards, учитывая скептицизм жюри к лицензированным проектам и специфическим жанрам?",
-      "telegram_message_id": "1095",
-      "telegram_url": "https://t.me/gamepulse_newss/1095",
-      "telegram_published_at": "2026-10-11T12:02:47.825865+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/star-wars-zero-company-final-trailer.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-11T12:02:49.036313+00:00"
-    },
-    {
       "fingerprint": "d485385cbb1d702a58cf7b29",
       "title": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
       "url": "https://eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Key-art-e1f647a79d9eaeeb0c7e.jpg",
       "threads_published_at": "2026-11-06T18:46:55.061094+00:00"
+    },
+    {
+      "fingerprint": "56b2e4cd0e63c1e346a89da1",
+      "title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
+      "url": "https://gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T18:00:00+00:00",
+      "score": 12,
+      "event_key": "Moor-Art announces limited edition Mass Effect art collection",
+      "title_ru": "Анонсирована новая коллекция артов по Mass Effect",
+      "threads_teaser_ru": "В преддверии N7 Day студия Moor-Art выпускает лимитированную коллекцию принтов и футболок по вселенной Mass Effect. Несмотря на закрытие BioWare, новые арты от Мэтта Эссома и Дэна Мамфорда поступят в продажу уже 6 ноября.",
+      "telegram_message_id": "2295",
+      "telegram_url": "https://t.me/gamepulse_newss/2295",
+      "telegram_published_at": "2026-11-06T19:03:07.710883+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Mass-Effect-Art.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-06T18:46:55.061183+00:00"
+  "updated_at": "2026-11-06T19:03:07.711233+00:00"
 }
