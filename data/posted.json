@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e5e1ae94857ef7df0a8ef72a",
-      "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
-      "url": "https://eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-10T19:09:19+00:00",
-      "score": 13,
-      "event_key": "strange_scaffold_announces_gods_with_badges_tactics_game",
-      "title_ru": "Анонсирована Gods With Badges — тактическая игра от авторов I Am Your Beast",
-      "threads_teaser_ru": "Студия Strange Scaffold анонсировала сюжетную тактическую игру Gods With Badges о власти полиции над жизнью и смертью. Релиз в Steam запланирован на 2027 год.",
-      "telegram_message_id": "1080",
-      "telegram_url": "https://t.me/gamepulse_newss/1080",
-      "telegram_published_at": "2026-10-10T19:16:46.253755+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ss_91d3a51c5554a4baf7061b1bb936617ead5bf95f.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-10T19:16:47.487379+00:00"
-    },
-    {
       "fingerprint": "5b504cf3d504297c4bcc9522",
       "title": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
       "url": "https://rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ea-classic-games-released-steam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T14:17:38.024355+00:00"
+    },
+    {
+      "fingerprint": "9b85a380fa865dae34f182ac",
+      "title": "Live-Action Stranger Things Prequel Gets First Teaser Trailer, 2028 Netflix Release Window",
+      "url": "https://ign.com/articles/live-action-stranger-things-prequel-gets-first-teaser-trailer-2028-netflix-release-window",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T14:18:45+00:00",
+      "score": 15,
+      "event_key": "netflix-announced-other-worlds-a-stranger-things-adventure-prequel",
+      "title_ru": "Анонсирован сериал Other Worlds: A Stranger Things Adventure",
+      "threads_teaser_ru": "Netflix анонсировал сериал Other Worlds: A Stranger Things Adventure с окном релиза в 2028 году. Шоу расскажет историю из 1950-х годов, действие которой развернется в Неваде.",
+      "telegram_message_id": "2280",
+      "telegram_url": "https://t.me/gamepulse_newss/2280",
+      "telegram_published_at": "2026-11-06T15:02:51.561950+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/screenshot-2026-11-06-141731-1793974684147.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T14:17:38.024444+00:00"
+  "updated_at": "2026-11-06T15:02:51.562210+00:00"
 }
