@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b3bc0b0653972db9b7895ff3",
-      "title": "Grand Theft Ocarina Could Be Gaming's Barbenheimer",
-      "url": "https://polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer",
-      "source": "Polygon",
-      "published_at_source": "2026-10-10T15:00:18+00:00",
-      "score": 14,
-      "event_key": "grand theft auto 6 and zelda ocarina of time november release",
-      "title_ru": "Grand Theft Auto 6 и The Legend of Zelda: Ocarina of Time в ноябре",
-      "threads_teaser_ru": "Nintendo решила выпустить ремейк The Legend of Zelda: Ocarina of Time в ноябре — прямо рядом с релизом Grand Theft Auto 6. Ожиданное противостояние уже стало поводом для шуток в шоу Saturday Night Live.",
-      "telegram_message_id": "1067",
-      "telegram_url": "https://t.me/gamepulse_newss/1067",
-      "telegram_published_at": "2026-10-10T15:17:10.006438+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/saturday-night-live-snl-gta-zelda-sketch.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-10T15:17:11.283597+00:00"
-    },
-    {
       "fingerprint": "5118ea903cc8f5bffbac4741",
       "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
       "url": "https://gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Ocarina-Star-Fox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T09:47:00.305918+00:00"
+    },
+    {
+      "fingerprint": "d82f56683378c347582bee52",
+      "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
+      "url": "https://eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-06T10:15:20+00:00",
+      "score": 11,
+      "event_key": "warren spector criticizes ea executives bioware closure",
+      "title_ru": "Уоррен Спектор раскритиковал руководство EA на фоне закрытия BioWare",
+      "threads_teaser_ru": "Уоррен Спектор резко высказался о закрытии BioWare со стороны EA и раскритиковал огромные выплаты топ-менеджерам на фоне массовых увольнений разработчиков.",
+      "telegram_message_id": "2267",
+      "telegram_url": "https://t.me/gamepulse_newss/2267",
+      "telegram_published_at": "2026-11-06T10:17:01.301627+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Thane-SHODAN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T09:47:00.306002+00:00"
+  "updated_at": "2026-11-06T10:17:01.301756+00:00"
 }
