@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "090db8b76c0700d5176aaf25",
-      "title": "New NetEase FPS Sparks Warzone 'Rip-Off' Claims, But Some Call of Duty Fans Are Happy to See It",
-      "url": "https://ign.com/articles/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call-of-duty-fans-are-happy-to-see-it",
-      "source": "IGN",
-      "published_at_source": "2026-10-11T19:26:12+00:00",
-      "score": 9,
-      "event_key": "netease_ecc_redline_announcement_warzone_comparisons",
-      "title_ru": "Анонс шутера ECC: Redline от NetEase вызвал споры о схожести с Call of Duty: Warzone",
-      "threads_teaser_ru": "Анонс нового шутера ECC: Redline от NetEase Games разделил фанатов шутеров. Проект обвиняют в копировании Call of Duty: Warzone, но часть игроков надеется, что игра сможет составить конкуренцию серии.",
-      "telegram_message_id": "1109",
-      "telegram_url": "https://t.me/gamepulse_newss/1109",
-      "telegram_published_at": "2026-10-11T20:02:24.434403+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/ecc-redline-1791745236467.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-11T20:02:25.688092+00:00"
-    },
-    {
       "fingerprint": "788d025c540274c9452639aa",
       "title": "3 Essential Remedy Games To Play After Control Resonant",
       "url": "https://polygon.com/control-resonant-games-to-play",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/avery-the-poke-kid-father-pleads-card-pokemon-company-1794005824978.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T23:17:25.586166+00:00"
+    },
+    {
+      "fingerprint": "3e281cee4c7c17f95c5e0948",
+      "title": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\"",
+      "url": "https://rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-06T14:58:30+00:00",
+      "score": 9,
+      "event_key": "first major update for Queen's Domain rpg released",
+      "title_ru": "Для Queen's Domain вышло первое крупное обновление",
+      "threads_teaser_ru": "Первый крупный патч для Queen's Domain уже доступен. Разработчики добавили метательное оружие Grave Knife, возможность отключения тряски камеры и настройки для упрощения пазлов в поздней игре. Проект уже разошелся тиражом более 100 000 копий.",
+      "telegram_message_id": "2309",
+      "telegram_url": "https://t.me/gamepulse_newss/2309",
+      "telegram_published_at": "2026-11-06T23:32:29.451372+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/20261027213152_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T23:17:25.586271+00:00"
+  "updated_at": "2026-11-06T23:32:29.451655+00:00"
 }
