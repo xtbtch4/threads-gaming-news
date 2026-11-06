@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "85292823424e9bd297eb1bbc",
-      "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
-      "url": "https://eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-11T11:43:04+00:00",
-      "score": 11,
-      "event_key": "squadron-42-steam-wishlist-q2-2027-release",
-      "title_ru": "Squadron 42 появилась в Steam перед релизом в 2027 году",
-      "threads_teaser_ru": "Одиночный спин-офф Star Citizen теперь можно добавить в список желаемого на платформе Steam в преддверии релиза во втором квартале 2027 года. Разработчики также представили новый трейлер.",
-      "telegram_message_id": "1094",
-      "telegram_url": "https://t.me/gamepulse_newss/1094",
-      "telegram_published_at": "2026-10-11T11:46:49.645664+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-11T11:46:50.879690+00:00"
-    },
-    {
       "fingerprint": "d680b4f57e09e72defa532b4",
       "title": "Star Wars Has a Real Shot at GOTY for the First Time in 23 Years",
       "url": "https://polygon.com/goty-game-awards-star-wars-zero-company-galactic-racer",
@@ -20509,7 +20492,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/mixcollage-06-nov-2026-11-53-am-3244-1793983996349.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T18:33:11.751373+00:00"
+    },
+    {
+      "fingerprint": "d3227d5937e585db5f522848",
+      "title": "Cat-Astrophy: How a Build Can Change Every Expedition",
+      "url": "https://news.xbox.com/en-us/2026/11/06/cat-astrophy",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-06T18:30:00+00:00",
+      "score": 12,
+      "event_key": "Cat-Astrophy module system and progression mechanics explanation",
+      "title_ru": "Авторы Cat-Astrophy рассказали о системе модулей и гибкости билдов",
+      "threads_teaser_ru": "В Cat-Astrophy нет «правильных» билдов. Авторы объяснили, как система модулей и выбор маршрутов делают каждое прохождение уникальным, позволяя игрокам экспериментировать с атаками, защитой и мобильностью прямо в процессе экспедиции.",
+      "telegram_message_id": "2294",
+      "telegram_url": "https://t.me/gamepulse_newss/2294",
+      "telegram_published_at": "2026-11-06T18:46:53.410680+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Key-art-e1f647a79d9eaeeb0c7e.jpg"
     }
   ],
-  "updated_at": "2026-11-06T18:33:11.751458+00:00"
+  "updated_at": "2026-11-06T18:46:53.410967+00:00"
 }
