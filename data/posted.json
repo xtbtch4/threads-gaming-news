@@ -20510,9 +20510,10 @@
       "telegram_message_id": "2257",
       "telegram_url": "https://t.me/gamepulse_newss/2257",
       "telegram_published_at": "2026-11-06T04:03:01.978791+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Apex-Legends-Godzilla-Event-promo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Apex-Legends-Godzilla-Event-promo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-06T04:03:03.599727+00:00"
     }
   ],
-  "updated_at": "2026-11-06T04:03:01.979131+00:00"
+  "updated_at": "2026-11-06T04:03:03.599828+00:00"
 }
