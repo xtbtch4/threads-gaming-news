@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f9a18bab5ffa89740daa632b",
-      "title": "Hunting for New Games? Polygon’s Wishlister Wants To Help",
-      "url": "https://polygon.com/polygon-wishlister-sign-up",
-      "source": "Polygon",
-      "published_at_source": "2026-10-10T13:00:16+00:00",
-      "score": 10,
-      "event_key": "polygon_launches_wishlister_steam_newsletter",
-      "title_ru": "Polygon запустила новостную рассылку Wishlister для поиска игр в Steam",
-      "threads_teaser_ru": "Издание Polygon запустило еженедельную рассылку Wishlister, которая помогает находить и добавлять в список желаемого Steam новые перспективные игры со всего мира.",
-      "telegram_message_id": "1065",
-      "telegram_url": "https://t.me/gamepulse_newss/1065",
-      "telegram_published_at": "2026-10-10T13:02:23.907927+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-10T13:02:25.262681+00:00"
-    },
-    {
       "fingerprint": "b6879279d3f84eed6a00646c",
       "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
       "url": "https://ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/unityblogroll-1793943131268.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-06T06:17:06.116725+00:00"
+    },
+    {
+      "fingerprint": "d98d14c3771a9d5a38e1d1d8",
+      "title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
+      "url": "https://eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-05T02:24:00+00:00",
+      "score": 5,
+      "event_key": "Sony financial results Q2 2026 PS5 sales data",
+      "title_ru": "Sony отчиталась о финансовых результатах за второй квартал 2026 года",
+      "threads_teaser_ru": "Sony отчиталась о рекордном числе активных пользователей PlayStation — 127 млн человек. Финансовые показатели компании растут на фоне успеха Marvel's Wolverine, несмотря на снижение продаж самих консолей PS5 и планы по прекращению выпуска физических дисков.",
+      "telegram_message_id": "2265",
+      "telegram_url": "https://t.me/gamepulse_newss/2265",
+      "telegram_published_at": "2026-11-06T07:17:10.512260+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/wolverine-header_ayYS3yR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-06T06:17:06.116819+00:00"
+  "updated_at": "2026-11-06T07:17:10.512415+00:00"
 }
