@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d7d30803c23399ee9d928996",
-      "title": "Nicolas Cage Says He'll 'Probably Never Work With' Amazon Again After Declining Spider-Noir AI Waiver",
-      "url": "https://ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
-      "source": "IGN",
-      "published_at_source": "2026-10-10T17:06:33+00:00",
-      "score": 7,
-      "event_key": "nicolas cage refuses amazon ai waiver spider noir",
-      "title_ru": "Nicolas Cage заявил, что больше не будет работать с Amazon из-за отказа подписать отказ от ИИ в Spider-Noir",
-      "threads_teaser_ru": "Nicolas Cage заявил, что больше не будет работать с Amazon после отказа подписать вейвент на использование ИИ в сериале Spider-Noir. Актер открыто критикует искусственный интеллект.",
-      "telegram_message_id": "1077",
-      "telegram_url": "https://t.me/gamepulse_newss/1077",
-      "telegram_published_at": "2026-10-10T18:17:08.158391+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/10/nicolas-cage-ai-amazon-1791650668232.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-10T18:17:09.692038+00:00"
-    },
-    {
       "fingerprint": "71d764bd2c8c140f6a5c9a52",
       "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
       "url": "https://polygon.com/disney-world-disneyland-price-surge-october-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition_AmSQYAn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-06T13:32:20.366388+00:00"
+    },
+    {
+      "fingerprint": "68a310928aa78f2f1f16a963",
+      "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+      "url": "https://ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T11:07:49+00:00",
+      "score": 11,
+      "event_key": "nier automata pc patch 366gb size bug",
+      "title_ru": "Патч для Nier: Automata на ПК случайно увеличил размер игры до 366 GB",
+      "threads_teaser_ru": "Свежий патч для Nier: Automata на ПК случайно раздул размер игры до огромных 366 GB из-за бага с дублированием файлов. Square Enix уже готовит исправление, а пока предложила временное решение.",
+      "telegram_message_id": "2277",
+      "telegram_url": "https://t.me/gamepulse_newss/2277",
+      "telegram_published_at": "2026-11-06T13:46:48.161683+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/nier-1793963174330.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T13:32:20.366491+00:00"
+  "updated_at": "2026-11-06T13:46:48.161957+00:00"
 }
