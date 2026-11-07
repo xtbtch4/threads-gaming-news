@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f45b37325196f833003379dd",
-      "title": "'Carrie' Showrunner Confirms the Biggest Changes to the Book Were Stephen King's Idea",
-      "url": "https://polygon.com/carrie-2026-changes-mike-flanagan-stephen-king-interview",
-      "source": "Polygon",
-      "published_at_source": "2026-10-12T09:00:16+00:00",
-      "score": 8,
-      "event_key": "mike-flanagan-stephen-king-carrie-changes-prime-video",
-      "title_ru": "Шоураннер Carrie подтвердил, что изменения в сюжете были идеей Стивена Кинга",
-      "threads_teaser_ru": "Шоураннер сериала Carrie Майк Флэнаган заявил, что самые спорные изменения в сюжете адаптации были предложены самим Стивеном Кингом. Писатель лично участвовал в расширении вселенной и создании новых персонажей.",
-      "telegram_message_id": "1116",
-      "telegram_url": "https://t.me/gamepulse_newss/1116",
-      "telegram_published_at": "2026-10-12T09:02:43.292619+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/carrie-white-prom.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-12T09:02:44.841417+00:00"
-    },
-    {
       "fingerprint": "849351eadcee57f6db083b55",
       "title": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
       "url": "https://eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/donut.png?w=300",
       "threads_published_at": "2026-11-07T01:03:02.663142+00:00"
+    },
+    {
+      "fingerprint": "2fe0b46d14ee2fc6bbf352ad",
+      "title": "Marvel Rivals: The Story So Far",
+      "url": "https://gamespot.com/videos/marvel-rivals-the-story-so-far",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T17:00:00+00:00",
+      "score": 8,
+      "event_key": "Ultron invades Emma Frost Hellfire Gala Marvel Rivals season two",
+      "title_ru": "Сюжет Marvel Rivals: события второго сезона",
+      "threads_teaser_ru": "Второй сезон Marvel Rivals привнес в игру немало драматичных моментов. Рассказываем о ключевом событии сезона, когда Ultron неожиданно вторгся на Hellfire Gala, устроенную Emma Frost, и как это повлияло на дальнейший сюжет.",
+      "telegram_message_id": "2316",
+      "telegram_url": "https://t.me/gamepulse_newss/2316",
+      "telegram_published_at": "2026-11-07T01:17:20.635086+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/11_107a8d.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-07T01:03:02.663364+00:00"
+  "updated_at": "2026-11-07T01:17:20.635382+00:00"
 }
