@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9737bc6ab8600046ab21b5d1",
-      "title": "Latest Leaked GTA 6 Video Shows Lucia Fully Naked, Sparks Fan Skepticism",
-      "url": "https://ign.com/articles/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan-skepticism",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T09:14:31+00:00",
-      "score": 12,
-      "event_key": "gta-6-new-leak-lucia-crypto-scheme",
-      "title_ru": "Новая утечка GTA 6 связана с продвижением криптовалюты",
-      "threads_teaser_ru": "Инсайдер Cyberleek опубликовал новое видео по игре GTA 6 с полностью обнаженной героиней Lucia для продвижения своей криптовалютной схемы.",
-      "telegram_message_id": "1144",
-      "telegram_url": "https://t.me/gamepulse_newss/1144",
-      "telegram_published_at": "2026-10-12T17:17:15.494621+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/ultimate-edition-stock-305-04-1791796445495.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T17:17:16.891556+00:00"
-    },
-    {
       "fingerprint": "89029b1982b9d09cc16a006e",
       "title": "Metaphor: Refantazio’s Switch 2 Demo Is Finally Available",
       "url": "https://polygon.com/nintendo-switch-2-metaphor-refantazio-rpg-prologue-demo-released",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Changes_Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-07T14:47:01.775142+00:00"
+    },
+    {
+      "fingerprint": "dccc448ea6f517450b2bf574",
+      "title": "Pokémon TCG: 10 Most Valuable Delta Reign Cards From New Expansion",
+      "url": "https://ign.com/articles/pokemon-tcg-most-valuable-delta-reign-cards",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T22:15:00+00:00",
+      "score": 9,
+      "event_key": "pokemon_tcg_delta_reign_expansion_most_valuable_cards",
+      "title_ru": "Самые дорогие карты из нового дополнения Pokémon TCG",
+      "threads_teaser_ru": "Новое дополнение Delta Reign для Pokémon TCG вернуло Mega Rayquaza и вызвало скачок цен на вторичном рынке. Узнайте, какие карты стали самыми дорогими по версии TCGplayer и eBay.",
+      "telegram_message_id": "2344",
+      "telegram_url": "https://t.me/gamepulse_newss/2344",
+      "telegram_published_at": "2026-11-07T15:02:03.987932+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/delta-reign-most-expensive-cards-2-1793989827093.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-07T14:47:01.775241+00:00"
+  "updated_at": "2026-11-07T15:02:03.988009+00:00"
 }
