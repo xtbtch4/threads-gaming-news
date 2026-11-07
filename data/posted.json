@@ -20508,9 +20508,10 @@
       "telegram_message_id": "2326",
       "telegram_url": "https://t.me/gamepulse_newss/2326",
       "telegram_published_at": "2026-11-07T05:03:16.213037+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Pokemon-Go-Free-Gigantamax-Machamp-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Pokemon-Go-Free-Gigantamax-Machamp-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-07T05:03:17.545765+00:00"
     }
   ],
-  "updated_at": "2026-11-07T05:03:16.213304+00:00"
+  "updated_at": "2026-11-07T05:03:17.545854+00:00"
 }
