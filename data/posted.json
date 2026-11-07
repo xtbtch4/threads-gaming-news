@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "44eb04a08bcbb9a72e11e014",
-      "title": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
-      "url": "https://rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-12T12:31:47+00:00",
-      "score": 8,
-      "event_key": "rock paper shotgun weekly pc games update",
-      "title_ru": "Релизы и события недели на ПК",
-      "threads_teaser_ru": "Редакция Rock Paper Shotgun поделилась планами на неделю: идет работа над обновлением списка RPS 100, подготовкой крупной серии материалов и сбором актуальных новостей.",
-      "telegram_message_id": "1130",
-      "telegram_url": "https://t.me/gamepulse_newss/1130",
-      "telegram_published_at": "2026-10-12T12:47:06.176640+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-12T12:47:08.009862+00:00"
-    },
-    {
       "fingerprint": "2bd6409bfa74cd60b1db873e",
       "title": "Anthony Bourdain’s Kitchen Confidential Gets Deluxe Folio Society Release",
       "url": "https://ign.com/articles/anthony-bourdains-kitchen-confidential-gets-deluxe-folio-society-release",
@@ -20511,7 +20494,24 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-07T06:17:21.360740+00:00"
+    },
+    {
+      "fingerprint": "38b6fd94e0415996e6b902b0",
+      "title": "Nintendo's biggest chip manufacturer officially exits business",
+      "url": "https://polygon.com/physical-media-nintendo-chip-manufacturer-exits-business",
+      "source": "Polygon",
+      "published_at_source": "2026-11-04T09:13:00+00:00",
+      "score": 8,
+      "event_key": "Macronix exits Nintendo ROM chip business",
+      "title_ru": "Ключевой партнер Nintendo по производству чипов для картриджей уходит из бизнеса",
+      "threads_teaser_ru": "Плохие новости для сторонников физических носителей: основной поставщик чипов для картриджей Nintendo Switch и Switch 2 компания Macronix прекращает выпуск ROM-продукции. Как это повлияет на будущее физических релизов Nintendo — читайте в нашем разборе.",
+      "telegram_message_id": "2330",
+      "telegram_url": "https://t.me/gamepulse_newss/2330",
+      "telegram_published_at": "2026-11-07T06:32:36.831325+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/switch-vs-switch-2-launch-year.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4"
     }
   ],
-  "updated_at": "2026-11-07T06:17:21.360824+00:00"
+  "updated_at": "2026-11-07T06:32:36.831422+00:00"
 }
