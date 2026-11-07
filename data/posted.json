@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ac1acf71004c764294bbc575",
-      "title": "Elden Ring Shadow Of The Erdtree Finally Gets A Discount, And Your NG+ Save Isn’t Ready",
-      "url": "https://gamespot.com/articles/elden-ring-shadow-of-the-erdtree-finally-gets-a-discount-and-your-ng-save-isnt-ready",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-12T10:48:41+00:00",
-      "score": 7,
-      "event_key": "elden ring shadow of the erdtree discount fanatical",
-      "title_ru": "Elden Ring: Shadow of the Erdtree получила первую скидку",
-      "threads_teaser_ru": "Дополнение Elden Ring: Shadow of the Erdtree впервые получило скидку в магазине Fanatical. Аддон продают на 12% дешевле, в то время как в Steam цена осталась прежней.",
-      "telegram_message_id": "1124",
-      "telegram_url": "https://t.me/gamepulse_newss/1124",
-      "telegram_published_at": "2026-10-12T11:16:24.939057+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-shadow-of-the-erdtree-deal.jpg?w=300",
-      "threads_published_at": "2026-10-12T11:16:26.786682+00:00"
-    },
-    {
       "fingerprint": "509c5ab2ba9281fc4c91a18c",
       "title": "Why Paying \"Market Price\" for Rare Pokémon Card Sets Somehow Became The New Normal",
       "url": "https://ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/30/the-batman-bruce-wayne-1793381868012.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-07T04:03:00.159840+00:00"
+    },
+    {
+      "fingerprint": "591923066c78da2703a413a4",
+      "title": "25 Things You STILL Didn’t Know In Ocarina Of Time Remake",
+      "url": "https://gamespot.com/videos/25-things-you-still-didnt-know-in-ocarina-of-time-remake",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T20:45:00+00:00",
+      "score": 6,
+      "event_key": "new secrets and mechanics discovered in Ocarina Of Time Remake",
+      "title_ru": "В Ocarina Of Time Remake нашли новые секреты и механики",
+      "threads_teaser_ru": "Авторы GameSpot раскрыли 25 малоизвестных фактов о Ocarina Of Time Remake. Среди находок — перекочевавшая из старой демо-версии механика прыжка, скрытые диалоги с NPC и неожиданное изменение в характере одного из стражников.",
+      "telegram_message_id": "2324",
+      "telegram_url": "https://t.me/gamepulse_newss/2324",
+      "telegram_published_at": "2026-11-07T04:17:06.971785+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/OOTRXThings_ThumbSITE.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-07T04:03:00.159945+00:00"
+  "updated_at": "2026-11-07T04:17:06.972100+00:00"
 }
