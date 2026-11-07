@@ -20512,9 +20512,10 @@
       "telegram_message_id": "2340",
       "telegram_url": "https://t.me/gamepulse_newss/2340",
       "telegram_published_at": "2026-11-07T12:31:50.562311+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-07T12:31:51.747285+00:00"
     }
   ],
-  "updated_at": "2026-11-07T12:31:50.562416+00:00"
+  "updated_at": "2026-11-07T12:31:51.747395+00:00"
 }
