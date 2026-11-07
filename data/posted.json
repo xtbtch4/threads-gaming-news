@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "235316cfb559a2d0b6e7f126",
-      "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
-      "url": "https://eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-12T19:11:39+00:00",
-      "score": 13,
-      "event_key": "epic_games_delays_star_wars_marvel_shooter_ai",
-      "title_ru": "Epic Games перенесла кроссовер-шутер во вселенных Star Wars и Marvel",
-      "threads_teaser_ru": "Epic Games отложила релиз совместного шутера по Star Wars и Marvel и потребовала от разработчиков активно использовать генеративный искусственный интеллект для ускорения производства игры.",
-      "telegram_message_id": "1151",
-      "telegram_url": "https://t.me/gamepulse_newss/1151",
-      "telegram_published_at": "2026-10-12T19:17:06.995984+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/fortnite-star-wars-galaxy-of-games.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-12T19:17:08.743604+00:00"
-    },
-    {
       "fingerprint": "4c3fac0fb3b320e2179ddf12",
       "title": "Riftbound Digital Version: Riot Games Hints at an Online Release for the TCG",
       "url": "https://ign.com/articles/riftbound-digital-version-riot-games-hints-at-an-online-release-for-the-tcg",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-07T18:16:44.807721+00:00"
+    },
+    {
+      "fingerprint": "8ac9557e5e4de76117187a67",
+      "title": "Sony Announces Indefinite Delay for PlayStation's Pulse Elevate Wireless Speakers Days Before Launch",
+      "url": "https://ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
+      "source": "IGN",
+      "published_at_source": "2026-11-07T18:26:15+00:00",
+      "score": 15,
+      "event_key": "sony indefinite delay pulse elevate wireless speakers",
+      "title_ru": "Sony бессрочно отложила релиз беспроводных колонок Pulse Elevate",
+      "threads_teaser_ru": "Sony объявила о бессрочной задержке релиза беспроводных колонок Pulse Elevate всего за несколько дней до запланированного выхода. Причиной стала выявленная проблема на производстве.",
+      "telegram_message_id": "2351",
+      "telegram_url": "https://t.me/gamepulse_newss/2351",
+      "telegram_published_at": "2026-11-07T19:02:04.720041+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/07/sony-playstation-pulse-elevate-wireless-speakers-1794075420373.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-07T18:16:44.807807+00:00"
+  "updated_at": "2026-11-07T19:02:04.720103+00:00"
 }
