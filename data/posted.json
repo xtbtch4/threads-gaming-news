@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "509c5ab2ba9281fc4c91a18c",
-      "title": "Why Paying \"Market Price\" for Rare Pokémon Card Sets Somehow Became The New Normal",
-      "url": "https://ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T10:36:19+00:00",
-      "score": 7,
-      "event_key": "pokemon tcg market price vs msrp trends",
-      "title_ru": "Почему рыночная цена стала новым стандартом для коллекционных карт Pokémon",
-      "threads_teaser_ru": "Покупка карт Pokémon TCG по рекомендованной розничной цене стала редкостью из-за высокого спроса и действий перекупщиков. Рассказываем, почему «рыночная цена» от специализированных площадок теперь считается основным ориентиром для коллекционеров.",
-      "telegram_message_id": "1125",
-      "telegram_url": "https://t.me/gamepulse_newss/1125",
-      "telegram_published_at": "2026-10-12T11:32:40.338729+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/17/most-expensive-pokemon-cards-of-2026-2-1786972372948.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T11:32:41.793199+00:00"
-    },
-    {
       "fingerprint": "af866ce142830ea5fb90873a",
       "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
       "url": "https://gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/OOTRXThings_ThumbSITE.jpg?w=300",
       "threads_published_at": "2026-11-07T04:17:08.345684+00:00"
+    },
+    {
+      "fingerprint": "e8e839c9aaffd435581f575d",
+      "title": "The Best Warzone Perks May Surprise You After The MW4 Overhaul",
+      "url": "https://gamespot.com/articles/the-best-warzone-perks-may-surprise-you-after-the-mw4-overhaul",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T17:12:07+00:00",
+      "score": 6,
+      "event_key": "Warzone Modern Warfare 4 perks overhaul",
+      "title_ru": "В Warzone добавили систему перков из Modern Warfare 4",
+      "threads_teaser_ru": "В Warzone обновили систему перков: теперь игрокам доступно 15 стандартных умений для сборок и 3 уникальных «элитных» перка, которые можно найти только непосредственно в матче. Рассказываем, как изменилась механика и какие бонусы теперь доступны.",
+      "telegram_message_id": "2325",
+      "telegram_url": "https://t.me/gamepulse_newss/2325",
+      "telegram_published_at": "2026-11-07T04:32:49.000950+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/MW4-SEASON-1-WARZONE-013.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-07T04:17:08.345803+00:00"
+  "updated_at": "2026-11-07T04:32:49.001260+00:00"
 }
