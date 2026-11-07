@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "21b360a2758ae92b4d2fdd0d",
-      "title": "Baki’s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator",
-      "url": "https://gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-12T13:27:28+00:00",
-      "score": 15,
-      "event_key": "yujiro hanma coming to tekken 8",
-      "title_ru": "Yujiro Hanma из Baki появится в Tekken 8",
-      "threads_teaser_ru": "Bandai Namco показала тизер Yujiro Hanma из вселенной Baki для файтинга Tekken 8. Полноценный трейлер персонажа ожидается 17 января 2017 года на Tekken World Tour Finals.",
-      "telegram_message_id": "1133",
-      "telegram_url": "https://t.me/gamepulse_newss/1133",
-      "telegram_published_at": "2026-10-12T13:47:11.210204+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Hanma-1.jpg?w=300",
-      "threads_published_at": "2026-10-12T13:47:12.616900+00:00"
-    },
-    {
       "fingerprint": "4d5fc89ef04388a2cf198da9",
       "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction Release Date Confirmed",
       "url": "https://ign.com/articles/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-release-date-confirmed",
@@ -20512,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg",
       "threads_published_at": "2026-11-07T07:02:45.827265+00:00"
+    },
+    {
+      "fingerprint": "af55eda68f1d0a84c304887d",
+      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+      "url": "https://ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+      "source": "IGN",
+      "published_at_source": "2026-11-07T03:12:16+00:00",
+      "score": 8,
+      "event_key": "World of Warcraft Forever player reaches level 60 first",
+      "title_ru": "Игрок первым достиг 60-го уровня в World of Warcraft Forever через три дня после запуска",
+      "threads_teaser_ru": "Спустя всего три дня после релиза World of Warcraft Forever определился первый игрок, достигший 60-го уровня. Им стала команда под руководством стримера JokerD. Рассказываем, как расовые особенности Undead помогли им обогнать всех конкурентов.",
+      "telegram_message_id": "2333",
+      "telegram_url": "https://t.me/gamepulse_newss/2333",
+      "telegram_published_at": "2026-11-07T07:46:34.566626+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-07T07:02:45.827354+00:00"
+  "updated_at": "2026-11-07T07:46:34.566714+00:00"
 }
