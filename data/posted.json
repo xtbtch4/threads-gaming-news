@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "849351eadcee57f6db083b55",
-      "title": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
-      "url": "https://eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-12T09:12:13+00:00",
-      "score": 13,
-      "event_key": "haunted-chocolatier-action-rpg-details-eric-barone",
-      "title_ru": "Haunted Chocolatier окажется ролевым экшеном",
-      "threads_teaser_ru": "Создатель Stardew Valley Эрик Бароне рассказал новые подробности о Haunted Chocolatier. Новая игра станет ролевым экшеном с упором на приключения и сражения с монстрами.",
-      "telegram_message_id": "1117",
-      "telegram_url": "https://t.me/gamepulse_newss/1117",
-      "telegram_published_at": "2026-10-12T09:17:03.607326+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Barone-chocolatier.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-12T09:17:05.096784+00:00"
-    },
-    {
       "fingerprint": "7dcf0aeeaa1d353aa07bf00e",
       "title": "Josh Brolin Teases a Thanos vs. Doctor Doom Showdown in 'Avengers: Secret Wars'",
       "url": "https://polygon.com/nycc-josh-brolin-thanos-vs-doom",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/11_107a8d.jpg?w=300",
       "threads_published_at": "2026-11-07T01:17:22.307141+00:00"
+    },
+    {
+      "fingerprint": "2b23f930327e0db666f9d6f4",
+      "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
+      "url": "https://ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
+      "source": "IGN",
+      "published_at_source": "2026-11-07T01:14:21+00:00",
+      "score": 15,
+      "event_key": "avengers doomsday jeep commercial nightcrawler doctor strange",
+      "title_ru": "Рекламный ролик Avengers: Doomsday показал Nightcrawler и вызвал теории о новых героях",
+      "threads_teaser_ru": "Новая реклама Jeep для Avengers: Doomsday впервые показала Nightcrawler в движении и спровоцировала теории о появлении Doctor Strange из-за знакомых магических порталов в финале ролика.",
+      "telegram_message_id": "2317",
+      "telegram_url": "https://t.me/gamepulse_newss/2317",
+      "telegram_published_at": "2026-11-07T02:02:38.054097+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/07/avengers-doomsday-car-commercial-1794010987736.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-07T01:17:22.307243+00:00"
+  "updated_at": "2026-11-07T02:02:38.054369+00:00"
 }
