@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "81bd47907f232d6ad3d914fc",
-      "title": "Artemis Fowl Animated TV Show Greenlit With Eoin Colfer as Executive Producer",
-      "url": "https://ign.com/articles/artemis-fowl-animated-tv-show-greenlit-with-eoin-colfer-as-executive-producer",
-      "source": "IGN",
-      "published_at_source": "2026-10-11T22:28:55+00:00",
-      "score": 7,
-      "event_key": "artemis fowl animated tv show greenlit at disney",
-      "title_ru": "Artemis Fowl получит анимационный сериал на Disney",
-      "threads_teaser_ru": "Вселенная Artemis Fowl возвращается на экраны в виде нового анимационного сериала для Disney Channel и Disney+. К работе над проектом в качестве исполнительного продюсера присоединился автор книг Eoin Colfer.",
-      "telegram_message_id": "1111",
-      "telegram_url": "https://t.me/gamepulse_newss/1111",
-      "telegram_published_at": "2026-10-11T23:02:19.546432+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/artemis-fowl-1791757325951.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-11T23:02:20.659239+00:00"
-    },
-    {
       "fingerprint": "e0c3e5e01fb24404f468df89",
       "title": "Nintendo Should Add Wii to Switch Online Just For These 12 Classic Games",
       "url": "https://polygon.com/nintendo-switch-online-missing-wii-games",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://cdn-s-press.cdprojektred.com/og-image/og_image.jpg",
       "threads_published_at": "2026-11-06T23:47:32.938181+00:00"
+    },
+    {
+      "fingerprint": "0982870d4923152340d3bb42",
+      "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
+      "url": "https://ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
+      "source": "IGN",
+      "published_at_source": "2026-11-06T23:00:37+00:00",
+      "score": 9,
+      "event_key": "fans drive billboard truck to EA headquarters for Mass Effect",
+      "title_ru": "Фанаты Mass Effect пригнали рекламный грузовик к штаб-квартире EA",
+      "threads_teaser_ru": "Фанаты Mass Effect продолжают борьбу за любимую франшизу: накануне N7 Day к офису EA приехал грузовик с призывом обратить внимание на закрытие BioWare. Акция стала частью масштабного движения, включающего петиции и другие мероприятия.",
+      "telegram_message_id": "2311",
+      "telegram_url": "https://t.me/gamepulse_newss/2311",
+      "telegram_published_at": "2026-11-07T00:02:56.650563+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/save-mass-effect-truck-ea-1794002458985.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-06T23:47:32.938271+00:00"
+  "updated_at": "2026-11-07T00:02:56.650813+00:00"
 }
