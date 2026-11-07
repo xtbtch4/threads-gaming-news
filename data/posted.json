@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7dcf0aeeaa1d353aa07bf00e",
-      "title": "Josh Brolin Teases a Thanos vs. Doctor Doom Showdown in 'Avengers: Secret Wars'",
-      "url": "https://polygon.com/nycc-josh-brolin-thanos-vs-doom",
-      "source": "Polygon",
-      "published_at_source": "2026-10-12T09:30:15+00:00",
-      "score": 8,
-      "event_key": "josh brolin thanos doctor doom avengers secret wars",
-      "title_ru": "Джош Бролин намекнул на возможное столкновение Таноса и Доктора Дума",
-      "threads_teaser_ru": "Джош Бролин прокомментировал возможное противостояние Таноса и Доктора Дума в киновселенной Marvel, отметив, что ему интересна идея совместного появления в кадре с Робертом Дауни-младшим.",
-      "telegram_message_id": "1118",
-      "telegram_url": "https://t.me/gamepulse_newss/1118",
-      "telegram_published_at": "2026-10-12T09:31:44.231726+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/78cxfgrsmr.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-12T09:31:45.569780+00:00"
-    },
-    {
       "fingerprint": "98fd8c870549a9fa467884d3",
       "title": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
       "url": "https://eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/07/avengers-doomsday-car-commercial-1794010987736.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-07T02:02:39.451905+00:00"
+    },
+    {
+      "fingerprint": "f5ded0cc24caef0ed64fcd91",
+      "title": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-06T14:38:20+00:00",
+      "score": 8,
+      "event_key": "World of Warcraft: Forever hotfix Tauren speed fix",
+      "title_ru": "В World of Warcraft: Forever исправили баг с перемещением персонажей расы Tauren",
+      "threads_teaser_ru": "Вышло первое крупное обновление для World of Warcraft: Forever. Разработчики устранили эксплойт, позволявший Tauren развивать огромную скорость на полях боя вроде Warsong Gulch, и внесли ряд правок в игровые задания и торговлю.",
+      "telegram_message_id": "2318",
+      "telegram_url": "https://t.me/gamepulse_newss/2318",
+      "telegram_published_at": "2026-11-07T02:33:00.982157+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-tauren-face-shot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-07T02:02:39.451988+00:00"
+  "updated_at": "2026-11-07T02:33:00.982518+00:00"
 }
