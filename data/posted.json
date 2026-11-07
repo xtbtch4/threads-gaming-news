@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "01ced04380543accc422e011",
-      "title": "Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series \"In a Heartbeat\"",
-      "url": "https://ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T00:01:09+00:00",
-      "score": 9,
-      "event_key": "mick gordon open to returning to doom series",
-      "title_ru": "Композитор Doom готов вернуться к серии",
-      "threads_teaser_ru": "Мик Гордон заявил, что готов снова поработать над франшизой id Software, если сложатся нужные обстоятельства. Композитор рассказал об этом на PAX Australia.",
-      "telegram_message_id": "1113",
-      "telegram_url": "https://t.me/gamepulse_newss/1113",
-      "telegram_published_at": "2026-10-12T01:17:00.823518+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/07/doom-soundtrack-gets-full-concert-first-time-1786133726275.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T01:17:02.305094+00:00"
-    },
-    {
       "fingerprint": "8512fca841435b099bdb6ee1",
       "title": "11 Replay Ideas to Make Stardew Valley Feel New Again",
       "url": "https://polygon.com/stardew-valley-challenge-runs-replay-ideas",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/9810fb43130d5e8a59e0151f313880f7eee4bde9-1794001740038.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-07T00:17:29.806045+00:00"
+    },
+    {
+      "fingerprint": "912396a6e93a72262dd97fe4",
+      "title": "Every GTA Game, Ranked by Metacritic Score",
+      "url": "https://polygon.com/gta-games-ranked-metacritic-scores",
+      "source": "Polygon",
+      "published_at_source": "2026-11-07T00:30:17+00:00",
+      "score": 12,
+      "event_key": "Polygon ranks Grand Theft Auto games by Metacritic score",
+      "title_ru": "Polygon составил рейтинг игр серии Grand Theft Auto по оценкам Metacritic",
+      "threads_teaser_ru": "Издание Polygon оценило наследие серии Grand Theft Auto перед релизом GTA 6. В материале представлен рейтинг 10 лучших игр франшизы согласно Metacritic, а также разобраны причины критических успехов и неудач отдельных частей, от классики до спин-оффов.",
+      "telegram_message_id": "2313",
+      "telegram_url": "https://t.me/gamepulse_newss/2313",
+      "telegram_published_at": "2026-11-07T00:33:10.184816+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-5-gta-key-art.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-07T00:17:29.806134+00:00"
+  "updated_at": "2026-11-07T00:33:10.185263+00:00"
 }
