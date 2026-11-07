@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a432b4f6038dae81b5e374fe",
-      "title": "IDW Promises Epic Kaiju Destruction in Godzilla Versus Everything Crossover - Fall FanFest 2026",
-      "url": "https://ign.com/articles/idw-promises-epic-kaiju-destruction-in-godzilla-versus-everything-crossover-fall-fanfest-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T18:30:00+00:00",
-      "score": 11,
-      "event_key": "IDW announces Godzilla Versus Everything comic crossover event",
-      "title_ru": "IDW анонсировала кроссовер Godzilla Versus Everything",
-      "threads_teaser_ru": "Издательство IDW готовит кроссовер Godzilla Versus Everything, который объединит героев комиксов The Deadzone, Starship Godzilla и The Horror of Godzilla. Сюжет стартует в марте 2027 года, а первые намеки на него появятся уже в октябрьских выпусках.",
-      "telegram_message_id": "1153",
-      "telegram_url": "https://t.me/gamepulse_newss/1153",
-      "telegram_published_at": "2026-10-12T19:47:11.070289+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/godzilla-fanfest-blogroll-1791732418152.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T19:47:12.624362+00:00"
-    },
-    {
       "fingerprint": "a2eaf090bfc83f406df5b3d6",
       "title": "Student Suspended After Teachers Discover Death Note Notebook, Sparking Police Investigation",
       "url": "https://ign.com/articles/student-suspended-after-teachers-discover-death-note-notebook-sparking-police-investigation",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Assassins-Creed-Black-Flag-Resynced---Naval-Combat-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-07T19:32:41.816106+00:00"
+    },
+    {
+      "fingerprint": "6b06a46fee4501930e6f5e10",
+      "title": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
+      "url": "https://rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-07T18:00:40+00:00",
+      "score": 14,
+      "event_key": "Path of Exile 2 version 1.0 release date December",
+      "title_ru": "Релиз 1.0 версии Path of Exile 2 состоится в декабре",
+      "threads_teaser_ru": "Path of Exile 2 выходит из раннего доступа: версия 1.0 появится 11 декабря. В игре появятся завершение кампании, новые классы Shadow и Duelist, а также переработанная система навыков и предметов.",
+      "telegram_message_id": "2353",
+      "telegram_url": "https://t.me/gamepulse_newss/2353",
+      "telegram_published_at": "2026-11-07T19:47:13.854410+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/path-of-exile-2-release-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-07T19:32:41.816194+00:00"
+  "updated_at": "2026-11-07T19:47:13.854499+00:00"
 }
