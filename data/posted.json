@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "90501402dc5d3268fa0b42d8",
-      "title": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
-      "url": "https://rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-12T16:47:22+00:00",
-      "score": 14,
-      "event_key": "valve-released-steam-frame-cad-files",
-      "title_ru": "Valve выпустила CAD-файлы для Steam Frame",
-      "threads_teaser_ru": "Valve выложила официальные CAD-файлы для гарнитуры Steam Frame. Энтузиасты уже вовсю проектируют для устройства самодельные аксессуары: от альтернативных ремешков и креплений для аккумуляторов до подставок в виде черепов.",
-      "telegram_message_id": "1143",
-      "telegram_url": "https://t.me/gamepulse_newss/1143",
-      "telegram_published_at": "2026-10-12T17:02:48.870506+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-melting-skull-stand.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-12T17:02:50.193630+00:00"
-    },
-    {
       "fingerprint": "9737bc6ab8600046ab21b5d1",
       "title": "Latest Leaked GTA 6 Video Shows Lucia Fully Naked, Sparks Fan Skepticism",
       "url": "https://ign.com/articles/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan-skepticism",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/4076447-mass.jpg?w=300",
       "threads_published_at": "2026-11-07T14:32:37.071094+00:00"
+    },
+    {
+      "fingerprint": "97ba2912348019cd05ef11e8",
+      "title": "17 changes to know before playing The Legend of Zelda: Ocarina of Time on Switch 2",
+      "url": "https://eurogamer.net/all-new-changes-zelda-ocarina-of-time-switch-2",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-05T04:00:00+00:00",
+      "score": 5,
+      "event_key": "changes in The Legend of Zelda Ocarina of Time Switch 2 remake",
+      "title_ru": "17 ключевых изменений в ремейке The Legend of Zelda: Ocarina of Time для Switch 2",
+      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time для Switch 2 получил обновленную графику, систему автосохранений и переработанные подземелья. В игре появились голосовая озвучка, возможность отдыхать на кроватях и механика пожертвований Великим феям.",
+      "telegram_message_id": "2343",
+      "telegram_url": "https://t.me/gamepulse_newss/2343",
+      "telegram_published_at": "2026-11-07T14:47:00.256829+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Changes_Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-07T14:32:37.071176+00:00"
+  "updated_at": "2026-11-07T14:47:00.256923+00:00"
 }
