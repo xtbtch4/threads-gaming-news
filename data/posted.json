@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2bd6409bfa74cd60b1db873e",
-      "title": "Anthony Bourdain’s Kitchen Confidential Gets Deluxe Folio Society Release",
-      "url": "https://ign.com/articles/anthony-bourdains-kitchen-confidential-gets-deluxe-folio-society-release",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T13:00:00+00:00",
-      "score": 9,
-      "event_key": "kitchen-confidential-folio-society-deluxe-edition",
-      "title_ru": "Memoir Kitchen Confidential получит подарочное издание от The Folio Society",
-      "threads_teaser_ru": "Культовые мемуары Kitchen Confidential от Энтони Бурдена получат роскошное издание с эксклюзивным портретом от художника Поля Попа. Книга поступит в продажу 13 октября.",
-      "telegram_message_id": "1131",
-      "telegram_url": "https://t.me/gamepulse_newss/1131",
-      "telegram_published_at": "2026-10-12T13:02:24.856269+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/11/mixcollage-11-oct-2026-09-36-am-1606-1791725836353.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T13:02:26.333093+00:00"
-    },
-    {
       "fingerprint": "edc3dad175f1af0469b99e27",
       "title": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
       "url": "https://eurogamer.net/starfield-mod-seamless-planetary-landings",
@@ -20512,7 +20495,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/switch-vs-switch-2-launch-year.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
       "threads_published_at": "2026-11-07T06:32:38.181637+00:00"
+    },
+    {
+      "fingerprint": "a19aee2713d0d8e28c22a7fc",
+      "title": "Nier Automata’s File Size Now Reflects How Good It Is",
+      "url": "https://gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-06T06:42:00+00:00",
+      "score": 6,
+      "event_key": "Square Enix Nier Automata PC file size error",
+      "title_ru": "Размер файла Nier: Automata на PC был ошибочно изменен",
+      "threads_teaser_ru": "Пользователи PC столкнулись с ошибкой в файлах Nier: Automata от Square Enix. Разработчики непреднамеренно усложнили установку игры, которую многие называют одной из лучших в истории. Что именно произошло с дистрибутивом — в нашем материале.",
+      "telegram_message_id": "2331",
+      "telegram_url": "https://t.me/gamepulse_newss/2331",
+      "telegram_published_at": "2026-11-07T06:46:53.652673+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-07T06:32:38.181739+00:00"
+  "updated_at": "2026-11-07T06:46:53.652756+00:00"
 }
