@@ -20510,10 +20510,11 @@
       "telegram_message_id": "2337",
       "telegram_url": "https://t.me/gamepulse_newss/2337",
       "telegram_published_at": "2026-11-07T11:46:59.131060+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/he-s-dead-jim-art-star-trek-114-2c309b0d-94b4-405e-be6c-18b407323e51-art.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/ytdown-com_youtube_media_g5ol_rhoqfu_presenting-a-new-mtgxstartrek-mechanic-and-these-unique-cards-to-our-friends-at_001_1080p-1793903113.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/ytdown-com_youtube_media_g5ol_rhoqfu_presenting-a-new-mtgxstartrek-mechanic-and-these-unique-cards-to-our-friends-at_001_1080p-1793903113.mp4",
+      "threads_published_at": "2026-11-07T11:47:00.365390+00:00"
     }
   ],
-  "updated_at": "2026-11-07T11:46:59.131159+00:00"
+  "updated_at": "2026-11-07T11:47:00.365489+00:00"
 }
