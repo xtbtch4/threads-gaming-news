@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "68299cede5071c1c4ec682cc",
-      "title": "Colorbound Explores Aymara Culture Through Color, Music, and a Heartfelt Story",
-      "url": "https://news.xbox.com/en-us/2026/10/12/colorbound-explores-aymara-culture",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-12T18:00:00+00:00",
-      "score": 12,
-      "event_key": "Colorbound puzzle platformer explores Aymara culture Panpipe Studio",
-      "title_ru": "Анонс пазл-платформера Colorbound об аймарской культуре",
-      "threads_teaser_ru": "Panpipe Studio анонсировала пазл-платформер Colorbound, вдохновленный культурой аймара и Андами. История рассказывает о мальчике Anku, который исследует мир через музыку и цвета после утраты дедушки.",
-      "telegram_message_id": "1147",
-      "telegram_url": "https://t.me/gamepulse_newss/1147",
-      "telegram_published_at": "2026-10-12T18:02:48.009975+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/colorbound_keyart_logo_HD-f957917447d37c501234.jpg",
-      "threads_published_at": "2026-10-12T18:02:50.282124+00:00"
-    },
-    {
       "fingerprint": "30be9a055728ef73e5316951",
       "title": "Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus",
       "url": "https://news.xbox.com/en-us/2026/10/12/get-the-shattered-relay-weapon-blueprint-in-call-of-duty-mobile-as-a-call-of-duty-modern-warfare-4-pre-order-bonus",
@@ -20516,7 +20499,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/masseffectlegendaryedition_helmet.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/mass-effect-tm-legendary-edition-official-reveal-trailer-4k-1793915643.mp4",
       "threads_published_at": "2026-11-07T17:16:40.100829+00:00"
+    },
+    {
+      "fingerprint": "dbdaf18f80e7690cd72d221a",
+      "title": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off",
+      "url": "https://rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-07T16:57:30+00:00",
+      "score": 12,
+      "event_key": "bit reactor lays off developers after star wars zero company furlough",
+      "title_ru": "Bit Reactor уволила часть разработчиков после возвращения части сотрудников с временного отпуска",
+      "threads_teaser_ru": "Разработчики Star Wars Zero Company из студии Bit Reactor вернули часть сотрудников из временного отпуска, но избежать сокращений не удалось. Бывшие работники начали сообщать об увольнениях в LinkedIn.",
+      "telegram_message_id": "2347",
+      "telegram_url": "https://t.me/gamepulse_newss/2347",
+      "telegram_published_at": "2026-11-07T17:31:59.452823+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/star-wars-zero-company_uSqeJIo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-07T17:16:40.100979+00:00"
+  "updated_at": "2026-11-07T17:31:59.452922+00:00"
 }
