@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c1c0aab90516e93b2702543e",
-      "title": "'GTA 6' Leaker's Naked Lucia Gamble Just Backfired Massively",
-      "url": "https://polygon.com/gta-6-lucia-leak-nude-gameplay-cyberleek-crypto-crash",
-      "source": "Polygon",
-      "published_at_source": "2026-10-12T16:07:38+00:00",
-      "score": 12,
-      "event_key": "cyberleek gta 6 crypto leak crash",
-      "title_ru": "План по сливу Grand Theft Auto 6 через криптовалюту провалился",
-      "threads_teaser_ru": "Попытка вымогать деньги у фанатов Grand Theft Auto 6 через слив кадров с обнаженной героиней и мем-криптовалюту внезапно обернулась крахом для злоумышленника.",
-      "telegram_message_id": "1141",
-      "telegram_url": "https://t.me/gamepulse_newss/1141",
-      "telegram_published_at": "2026-10-12T16:17:02.223187+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/vintage_vice_city_pack_exclusive_looks_04.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-12T16:17:04.007661+00:00"
-    },
-    {
       "fingerprint": "91276258a13c5e499ea0c12b",
       "title": "Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight",
       "url": "https://gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-07T12:31:51.747285+00:00"
+    },
+    {
+      "fingerprint": "1b7a0eaac5c265f10c786f7d",
+      "title": "Godzilla Minus Zero: Where Is the Rest of Godzilla’s Rogues' Gallery?",
+      "url": "https://ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+      "source": "IGN",
+      "published_at_source": "2026-11-07T13:00:00+00:00",
+      "score": 7,
+      "event_key": "criticism of recurring monster roster in Godzilla movies",
+      "title_ru": "Анализ списка противников Godzilla: почему франшиза ограничивается одними и теми же монстрами?",
+      "threads_teaser_ru": "В современных фильмах франшизы Godzilla почти не появляются классические kaiju — их место стабильно занимают лишь несколько популярных монстров. Разбираемся, почему забытые герои вроде Gigan и Biollante остаются за бортом, несмотря на запросы фанатов.",
+      "telegram_message_id": "2341",
+      "telegram_url": "https://t.me/gamepulse_newss/2341",
+      "telegram_published_at": "2026-11-07T13:16:55.469871+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/godzillaminuszero-rogues-1794006924348.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-07T12:31:51.747395+00:00"
+  "updated_at": "2026-11-07T13:16:55.469960+00:00"
 }
