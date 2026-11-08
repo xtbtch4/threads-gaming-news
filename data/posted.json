@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0e34a6b6df2d29e98b0a4e43",
-      "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
-      "url": "https://eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-13T08:40:04+00:00",
-      "score": 6,
-      "event_key": "Glen Schofield criticizes Krafton management over The Callisto Protocol",
-      "title_ru": "Глен Скофилд обвинил Krafton в проблемах The Callisto Protocol",
-      "threads_teaser_ru": "Глен Скофилд рассказал, почему разработка The Callisto Protocol прошла с такими трудностями. По словам автора, издатель Krafton отказал студии в дополнительном времени на полировку, несмотря на сложности пандемии, и настоял на релизе для PS4 вопреки обстоятельствам.",
-      "telegram_message_id": "1180",
-      "telegram_url": "https://t.me/gamepulse_newss/1180",
-      "telegram_published_at": "2026-10-13T08:47:22.771205+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/the-callisto-protocol_uARW7hC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-13T08:47:24.554480+00:00"
-    },
-    {
       "fingerprint": "af0cdec57f38e3fe73a44fbb",
       "title": "Critical Role's New Canon Campaign Will Feature VTuber Stars",
       "url": "https://polygon.com/critical-role-shattered-legends-vtubers-hololive-daggerheart",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ns2_thelegendofzeldaocarinaoftime_scrn_11.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-08T17:17:20.764862+00:00"
+    },
+    {
+      "fingerprint": "3c5275572189710cc1bab99e",
+      "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
+      "url": "https://eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-08T17:39:10+00:00",
+      "score": 9,
+      "event_key": "datamine reveals Master Quest references in Ocarina of Time remake",
+      "title_ru": "В файлах ремейка Ocarina of Time нашли упоминания режима Master Quest",
+      "threads_teaser_ru": "В файлах свежего ремейка Ocarina of Time нашли следы режима Master Quest. Судя по находкам датамайнеров, режим может стать доступен через DLC и предложит игрокам зеркальный мир с измененными подземельями, однако официальных анонсов от Nintendo пока не поступало.",
+      "telegram_message_id": "2380",
+      "telegram_url": "https://t.me/gamepulse_newss/2380",
+      "telegram_published_at": "2026-11-08T18:03:00.979889+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-08-at-17.31.26.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-08T17:17:20.764948+00:00"
+  "updated_at": "2026-11-08T18:03:00.979975+00:00"
 }
