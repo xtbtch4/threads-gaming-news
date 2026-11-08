@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e7075fe1b479489197a72627",
-      "title": "Nintendo Was Reportedly Unhappy With Elon Musk's Saturday Night Live Wario Sketch",
-      "url": "https://ign.com/articles/nintendo-was-reportedly-unhappy-with-elon-musks-saturday-night-live-wario-sketch",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T21:27:55+00:00",
-      "score": 9,
-      "event_key": "Nintendo unhappy with Elon Musk SNL Wario sketch",
-      "title_ru": "Nintendo была недовольна скетчем Saturday Night Live с Илоном Маском в роли Wario",
-      "threads_teaser_ru": "В Nintendo остались недовольны скетчем Saturday Night Live 2021 года, где Илон Маск сыграл Wario. Бывшие PR-менеджеры компании заявили, что эпизод был «неудобным» из-за специфического юмора в адрес персонажей Mario, а сам выпуск не был приурочен ни к какому игровому релизу.",
-      "telegram_message_id": "1162",
-      "telegram_url": "https://t.me/gamepulse_newss/1162",
-      "telegram_published_at": "2026-10-12T22:32:02.916707+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/wario-elon-1791838179016.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T22:32:04.170662+00:00"
-    },
-    {
       "fingerprint": "66ba166fddf963fc7dc6ac42",
       "title": "\"No more hand-written code\": Epic reportedly impose \"AI-first\" model on creators of new Disney shooter with Marvel and Star Wars characters",
       "url": "https://rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-08T04:02:50.191786+00:00"
+    },
+    {
+      "fingerprint": "5fead62273d823b2b1eeab11",
+      "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+      "url": "https://polygon.com/the-legend-of-korra-season-3-best-season",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T04:00:17+00:00",
+      "score": 5,
+      "event_key": "The Legend of Korra season 3 retrospective analysis",
+      "title_ru": "Аналитики высоко оценили третий сезон The Legend of Korra",
+      "threads_teaser_ru": "В свежем разборе третий сезон The Legend of Korra назвали одним из лучших в истории ТВ. Сюжет акцентирует внимание на последствиях решений героини, представлении запоминающихся антагонистов из организации Red Lotus и отказе от любовной линии ради более глубокого развития персонажей.",
+      "telegram_message_id": "2362",
+      "telegram_url": "https://t.me/gamepulse_newss/2362",
+      "telegram_published_at": "2026-11-08T04:17:51.378679+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/legend-of-korra-outlook.jpeg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-08T04:02:50.191877+00:00"
+  "updated_at": "2026-11-08T04:17:51.378771+00:00"
 }
