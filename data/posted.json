@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "84109a1181ff37908e1ed8f1",
-      "title": "Castlevania: Belmont’s Curse Is a Near-Perfect Metroidvania",
-      "url": "https://polygon.com/castlevania-belmonts-curse-review",
-      "source": "Polygon",
-      "published_at_source": "2026-10-13T07:01:16+00:00",
-      "score": 8,
-      "event_key": "release of Castlevania: Belmont’s Curse by Evil Empire",
-      "title_ru": "Обзор Castlevania: Belmont’s Curse",
-      "threads_teaser_ru": "Первая за десять лет основная игра в серии Castlevania уже вышла. В Belmont’s Curse от Evil Empire игроки берут на себя роль Роуз Белмонт, отправляясь в Париж для сражения с Дракулой. Разбираемся, как студия соединила наследие классики и геймплей в духе Dead Cells.",
-      "telegram_message_id": "1178",
-      "telegram_url": "https://t.me/gamepulse_newss/1178",
-      "telegram_published_at": "2026-10-13T07:17:42.291119+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-screenshot-3.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/castlevania-belmont-s-curse-announcement-trailer-xbox-games-showcase-2026-1780855652.mp4",
-      "threads_published_at": "2026-10-13T07:17:43.575559+00:00"
-    },
-    {
       "fingerprint": "b55dfb3cdbd1a4755e6f4fd2",
       "title": "Prime Video's Epic New Game of Thrones Replacement Is Officially 3 Months Away",
       "url": "https://polygon.com/bloodaxe-episode-1-prime-video",
@@ -20518,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-goron-and-link.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-08T16:32:36.085687+00:00"
+    },
+    {
+      "fingerprint": "92b5923e523b559530333608",
+      "title": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
+      "url": "https://eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-08T16:41:10+00:00",
+      "score": 9,
+      "event_key": "Phasmophobia community raises funds for American Heart Association",
+      "title_ru": "Сообщество Phasmophobia собрало более $230 000 для American Heart Association",
+      "threads_teaser_ru": "Игроки в Phasmophobia установили новый рекорд благотворительности: в рамках акции Ghost Hunts for Hearts было собрано свыше $230 000 для American Heart Association. Узнайте, какую награду получили все пользователи за преодоление поставленной цели.",
+      "telegram_message_id": "2378",
+      "telegram_url": "https://t.me/gamepulse_newss/2378",
+      "telegram_published_at": "2026-11-08T16:47:08.806137+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-08T16:32:36.085771+00:00"
+  "updated_at": "2026-11-08T16:47:08.806229+00:00"
 }
