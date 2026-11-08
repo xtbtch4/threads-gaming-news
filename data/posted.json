@@ -20514,10 +20514,11 @@
       "telegram_message_id": "2375",
       "telegram_url": "https://t.me/gamepulse_newss/2375",
       "telegram_published_at": "2026-11-08T14:47:02.159166+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cairn-lede-image.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/cairn-launch-trailer-_-ps5-games-1794085155.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/cairn-launch-trailer-_-ps5-games-1794085155.mp4",
+      "threads_published_at": "2026-11-08T14:47:03.528571+00:00"
     }
   ],
-  "updated_at": "2026-11-08T14:47:02.159258+00:00"
+  "updated_at": "2026-11-08T14:47:03.528676+00:00"
 }
