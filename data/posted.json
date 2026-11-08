@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2381",
       "telegram_url": "https://t.me/gamepulse_newss/2381",
       "telegram_published_at": "2026-11-08T20:02:30.819734+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/08/the-legend-of-zelda-ocarina-of-time-remake-glitch-1794157471719.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/08/the-legend-of-zelda-ocarina-of-time-remake-glitch-1794157471719.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-08T20:02:32.089147+00:00"
     }
   ],
-  "updated_at": "2026-11-08T20:02:30.819823+00:00"
+  "updated_at": "2026-11-08T20:02:32.089239+00:00"
 }
