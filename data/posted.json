@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "11fbba5030b4f35e7e7d7de3",
-      "title": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
-      "url": "https://ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
-      "source": "IGN",
-      "published_at_source": "2026-10-13T01:54:36+00:00",
-      "score": 7,
-      "event_key": "Mick Gordon planning world tour for Doom live concerts",
-      "title_ru": "Mick Gordon планирует организовать гастроли с программой саундтреков к Doom",
-      "threads_teaser_ru": "Mick Gordon превращает саундтреки Doom и Doom Eternal в полноценные метал-шоу. Композитор анонсировал первые выступления на фестивалях RADAR и Brutal Assault в 2027 году, но останавливаться на этом не планирует.",
-      "telegram_message_id": "1174",
-      "telegram_url": "https://t.me/gamepulse_newss/1174",
-      "telegram_published_at": "2026-10-13T02:04:09.833980+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets1.ignimgs.com/2018/08/10/doom-eternal-1533922079672.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T02:04:11.264775+00:00"
-    },
-    {
       "fingerprint": "23b6f6d56c51a2068425b956",
       "title": "Save Over $1,000 Off the Cyberpowerpc RTX 5080 Prebuilt Gaming PC With 32GB of RAM and 2TB SSD",
       "url": "https://ign.com/articles/cyberpowerpc-geforce-rtx-5080-gaming-pc-deal-october-2026",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/among-us-is-coming-to-xbox-next-year-1608287434062.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-08T13:32:40.396501+00:00"
+    },
+    {
+      "fingerprint": "2819ab001fe4f72af6cb2938",
+      "title": "Saving Mass Effect would take $200m+, says BioWare co-founder",
+      "url": "https://eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-08T14:31:00+00:00",
+      "score": 9,
+      "event_key": "BioWare co-founder estimates Mass Effect development cost",
+      "title_ru": "Сооснователь BioWare оценил стоимость разработки новой Mass Effect",
+      "threads_teaser_ru": "Сколько стоит спасти Mass Effect? Сооснователь BioWare Трент Остер оценил разработку новой игры франшизы в 200 млн долларов. Тем временем фанаты продолжают борьбу за продолжение серии после закрытия студии и отмены Mass Effect 5.",
+      "telegram_message_id": "2374",
+      "telegram_url": "https://t.me/gamepulse_newss/2374",
+      "telegram_published_at": "2026-11-08T14:32:47.462345+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-08T13:32:40.396588+00:00"
+  "updated_at": "2026-11-08T14:32:47.462430+00:00"
 }
