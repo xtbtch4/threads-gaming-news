@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "afa8908d0f6f25e122ea589c",
-      "title": "Castlevania: Belmont's Curse Reviews Hail a Triumphant Return",
-      "url": "https://polygon.com/castlevania-belmonts-curse-review-roundup",
-      "source": "Polygon",
-      "published_at_source": "2026-10-13T11:01:15+00:00",
-      "score": 7,
-      "event_key": "castlevania-belmonts-curse-reviews-published",
-      "title_ru": "Обзоры Castlevania: Belmont's Curse",
-      "threads_teaser_ru": "Игровые издания опубликовали рецензии на Castlevania: Belmont's Curse от студии Evil Empire. Новая часть серии получила высокие оценки на агрегаторах, но мнения критиков разделились.",
-      "telegram_message_id": "1185",
-      "telegram_url": "https://t.me/gamepulse_newss/1185",
-      "telegram_published_at": "2026-10-13T11:02:24.239558+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-header-2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/castlevania-belmont-s-curse-demo-out-now-esrb-konami-1790955357.mp4",
-      "threads_published_at": "2026-10-13T11:02:25.662378+00:00"
-    },
-    {
       "fingerprint": "ae4f70e5f4e85fb469605661",
       "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
       "url": "https://eurogamer.net/ace-combat-8-wings-of-theve-review",
@@ -20516,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/09/23/ps5-pro-1-blogroll-1727135689150.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-08T21:17:06.733850+00:00"
+    },
+    {
+      "fingerprint": "0c1e452e811600ba2898c54b",
+      "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+      "url": "https://ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
+      "source": "IGN",
+      "published_at_source": "2026-11-08T21:32:50+00:00",
+      "score": 7,
+      "event_key": "Jesse Eisenberg experiments with AI writing capabilities",
+      "title_ru": "Джесси Айзенберг тестирует нейросети, чтобы убедиться в их некомпетентности в написании сценариев",
+      "threads_teaser_ru": "Джесси Айзенберг признался, что намеренно использует ИИ, чтобы проверить его писательские навыки. Актер испытывает облегчение, видя, что технологии всё еще не способны создавать качественные сценарии, но его беспокоит будущее индустрии развлечений.",
+      "telegram_message_id": "2385",
+      "telegram_url": "https://t.me/gamepulse_newss/2385",
+      "telegram_published_at": "2026-11-08T22:02:29.502247+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/08/jesse-eisenberg-ai-1794173561300.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-08T21:17:06.733941+00:00"
+  "updated_at": "2026-11-08T22:02:29.502335+00:00"
 }
