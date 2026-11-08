@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2368",
       "telegram_url": "https://t.me/gamepulse_newss/2368",
       "telegram_published_at": "2026-11-08T07:02:59.325251+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/08/fortnite-pirate-token-treasure-1794118797500.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/08/fortnite-pirate-token-treasure-1794118797500.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-08T07:03:00.654890+00:00"
     }
   ],
-  "updated_at": "2026-11-08T07:02:59.325341+00:00"
+  "updated_at": "2026-11-08T07:03:00.654977+00:00"
 }
