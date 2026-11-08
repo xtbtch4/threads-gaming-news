@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "30faabdd1a598164aa4c4ba2",
-      "title": "New 90% Positive Steam Roguelike Is a Faithful PSP-Era Comeback",
-      "url": "https://polygon.com/ratatan-switch-2-impressions",
-      "source": "Polygon",
-      "published_at_source": "2026-10-12T21:00:16+00:00",
-      "score": 10,
-      "event_key": "Ratatan exit early access launch date",
-      "title_ru": "Музыкальный roguelike Ratatan выходит из раннего доступа",
-      "threads_teaser_ru": "Духовный наследник культовой Patapon, музыкальный roguelike Ratatan, выходит из раннего доступа 15 октября. Проект уже доступен для ознакомления на нескольких платформах, включая Nintendo Switch 2 и PlayStation 5.",
-      "telegram_message_id": "1158",
-      "telegram_url": "https://t.me/gamepulse_newss/1158",
-      "telegram_published_at": "2026-10-12T21:16:55.975472+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ratatan-key-art.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/ratatan-announcement-trailer-nintendo-switch-2-1791834800.mp4",
-      "threads_published_at": "2026-10-12T21:16:57.360899+00:00"
-    },
-    {
       "fingerprint": "6b9d3f808f13026c51060ee7",
       "title": "Miami Vice ‘85 Looks More Like Miami Vice ‘87 in Those First Look Photos",
       "url": "https://ign.com/articles/miami-vice-85-looks-more-like-miami-vice-87-in-those-first-look-photos",
@@ -20515,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/boars-in-rome.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-07T23:02:53.265675+00:00"
+    },
+    {
+      "fingerprint": "e07e7e13ec3dc2bd99e0343a",
+      "title": "Cyberpunk 2077 Meets Papers, Please in Steam’s Latest Surprise Viral Hit",
+      "url": "https://polygon.com/probably-stolen-cyberpunk-shopkeeping-simulator-steam-hit",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T00:00:17+00:00",
+      "score": 10,
+      "event_key": "indie game Probably Stolen surges in popularity on Steam",
+      "title_ru": "Инди-игра Probably Stolen стала хитом в Steam",
+      "threads_teaser_ru": "В Steam набирает популярность Probably Stolen — новый инди-хит от Questing Goose. Игроки управляют лавкой на космической станции, балансируя между легальным бизнесом и нелегальной торговлей ради прибыли. Проект уже получил «крайне положительные» отзывы в магазине.",
+      "telegram_message_id": "2358",
+      "telegram_url": "https://t.me/gamepulse_newss/2358",
+      "telegram_published_at": "2026-11-08T00:03:02.706727+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/probably-stolen-steam-hit-header.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-07T23:02:53.265764+00:00"
+  "updated_at": "2026-11-08T00:03:02.706817+00:00"
 }
