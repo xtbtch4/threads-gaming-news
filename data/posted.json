@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "baa62b18e841d7bfc76f6f18",
-      "title": "For This Week Only, the Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop With 32GB of RAM Drops to $1,449",
-      "url": "https://ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T22:00:00+00:00",
-      "score": 7,
-      "event_key": "Gigabyte A16 Pro RTX 5070 Ti laptop price drop Walmart",
-      "title_ru": "Gigabyte A16 Pro с RTX 5070 Ti подешевел до $1449 в рамках акции",
-      "threads_teaser_ru": "Магазин Walmart вновь снизил цену на игровой ноутбук Gigabyte A16 Pro с видеокартой RTX 5070 Ti до $1449. Устройство оснащено 32GB оперативной памяти и процессором Intel Core 7 240H. Акция продлится всего одну неделю.",
-      "telegram_message_id": "1169",
-      "telegram_url": "https://t.me/gamepulse_newss/1169",
-      "telegram_published_at": "2026-10-13T00:32:52.830263+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/gigabytea16pro2-1791839664238.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T00:32:54.197546+00:00"
-    },
-    {
       "fingerprint": "b5be7c26a78b841dbc713f9b",
       "title": "'Avater: Seven Haven' Showrunners Officially Reinforce a Major Fan Theory",
       "url": "https://polygon.com/avatar-seven-havens-creators-interview-map-theory",
@@ -20516,7 +20499,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/08/fortnite-pirate-token-treasure-1794118797500.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-08T07:03:00.654890+00:00"
+    },
+    {
+      "fingerprint": "becb1faee0fe10336ab2b75e",
+      "title": "Sydney Sweeney’s Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO",
+      "url": "https://polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T09:09:17+00:00",
+      "score": 8,
+      "event_key": "The Housemaid film streaming on HBO Max release",
+      "title_ru": "Эротический триллер The Housemaid с Сидни Суини вышел на HBO Max",
+      "threads_teaser_ru": "Эротический триллер The Housemaid с Сидни Суини и Амандой Сейфрид уже доступен на HBO Max. Фильм от режиссера Пола Фига рассказывает о домработнице, оказавшейся в центре опасных семейных интриг. Делимся подробностями сюжета и тем, чего ждать от экранизации популярного романа.",
+      "telegram_message_id": "2369",
+      "telegram_url": "https://t.me/gamepulse_newss/2369",
+      "telegram_published_at": "2026-11-08T09:16:54.884057+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/opera-snapshot_2026-10-08_005752_www-imdb-com.png?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2025/09/sr_the-housemaid_official-trailer-2-1759174898.mp4"
     }
   ],
-  "updated_at": "2026-11-08T07:03:00.654977+00:00"
+  "updated_at": "2026-11-08T09:16:54.884154+00:00"
 }
