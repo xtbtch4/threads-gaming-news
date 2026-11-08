@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ff778984418a391e126ac869",
-      "title": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
-      "url": "https://eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-12T18:20:50+00:00",
-      "score": 8,
-      "event_key": "No Man's Sky mobile version release announcement",
-      "title_ru": "No Man's Sky выйдет на iPhone и iPad 28 октября",
-      "threads_teaser_ru": "No Man's Sky готовится к выходу на iOS: игра станет доступна владельцам iPhone и iPad уже 28 октября. Разработчики обещают поддержку контроллеров и всех накопленных за годы обновлений, а оптимизация игры стала возможной благодаря технологиям из будущего проекта Light No Fire.",
-      "telegram_message_id": "1165",
-      "telegram_url": "https://t.me/gamepulse_newss/1165",
-      "telegram_published_at": "2026-10-12T23:32:33.423157+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/nms-10-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-12T23:32:34.748667+00:00"
-    },
-    {
       "fingerprint": "166df2959e01446906506789",
       "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
       "url": "https://eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/snw3_307_mg_03_27_24_00037_rt_f.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-08T04:47:06.690688+00:00"
+    },
+    {
+      "fingerprint": "796baa4e63b45093da293ac3",
+      "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+      "url": "https://polygon.com/best-final-fantasy-magic-the-gathering-card-designs",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T05:00:17+00:00",
+      "score": 6,
+      "event_key": "Polygon highlights best Final Fantasy Magic: The Gathering card designs",
+      "title_ru": "Polygon выделил 10 наиболее удачных карт из набора Magic: The Gathering — Final Fantasy",
+      "threads_teaser_ru": "Авторы Polygon выбрали 10 карт из набора Magic: The Gathering — Final Fantasy, которые идеально передают атмосферу и механики франшизы. В списке оказались как мощные существа вроде Jumbo Cactuar, так и карты с глубоким сюжетом, такие как Zack Fair и Aerith Gainsborough.",
+      "telegram_message_id": "2365",
+      "telegram_url": "https://t.me/gamepulse_newss/2365",
+      "telegram_published_at": "2026-11-08T05:16:58.546464+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buster-sword-mtg-final-fantasy.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-08T04:47:06.690790+00:00"
+  "updated_at": "2026-11-08T05:16:58.546541+00:00"
 }
