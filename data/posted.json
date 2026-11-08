@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ae4f70e5f4e85fb469605661",
-      "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
-      "url": "https://eurogamer.net/ace-combat-8-wings-of-theve-review",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-13T09:19:45+00:00",
-      "score": 6,
-      "event_key": "ace-combat-8-wings-of-theve-review-published",
-      "title_ru": "Ace Combat 8: Wings of Theve: обзоры и впечатления от кампании",
-      "threads_teaser_ru": "Новый обзор Ace Combat 8: Wings of Theve рассказывает о масштабной кампании, вдохновленной фильмом Top Gun: Maverick, зрелищных миссиях и темах пропаганды в мире Strangereal.",
-      "telegram_message_id": "1186",
-      "telegram_url": "https://t.me/gamepulse_newss/1186",
-      "telegram_published_at": "2026-10-13T11:17:09.351481+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Wings-of-Theve-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-13T11:17:10.821185+00:00"
-    },
-    {
       "fingerprint": "90c9a8c6bc4fd99053bde97a",
       "title": "Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine",
       "url": "https://rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/08/jesse-eisenberg-ai-1794173561300.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-08T22:02:30.779742+00:00"
+    },
+    {
+      "fingerprint": "2945a0e20607eb29d24a92fc",
+      "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
+      "url": "https://ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
+      "source": "IGN",
+      "published_at_source": "2026-11-08T22:34:01+00:00",
+      "score": 11,
+      "event_key": "Nvidia investigates CEO Jensen Huang after affair with suspected spy",
+      "title_ru": "Nvidia начала независимое расследование в отношении генерального директора Jensen Huang",
+      "threads_teaser_ru": "Nvidia начала расследование в отношении своего CEO Jensen Huang. Причиной стало признание руководителя в связи с женщиной, подозреваемой в работе на китайскую разведку. Совет директоров компании ищет ответы на вопросы о потенциальной угрозе нацбезопасности.",
+      "telegram_message_id": "2386",
+      "telegram_url": "https://t.me/gamepulse_newss/2386",
+      "telegram_published_at": "2026-11-08T23:02:48.141148+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/08/nvidia-ceo-jensen-huang-1794177110571.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-08T22:02:30.779819+00:00"
+  "updated_at": "2026-11-08T23:02:48.141238+00:00"
 }
