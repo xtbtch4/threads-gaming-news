@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6b9d3f808f13026c51060ee7",
-      "title": "Miami Vice ‘85 Looks More Like Miami Vice ‘87 in Those First Look Photos",
-      "url": "https://ign.com/articles/miami-vice-85-looks-more-like-miami-vice-87-in-those-first-look-photos",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T18:57:44+00:00",
-      "score": 9,
-      "event_key": "first look at Michael B. Jordan and Austin Butler in Miami Vice '85",
-      "title_ru": "Первые кадры фильма Miami Vice '85",
-      "threads_teaser_ru": "Студия Universal показала Майкла Б. Джордана и Остина Батлера в образах Таббса и Крокетта для фильма Miami Vice '85. Проект режиссера Джозефа Косински сейчас находится в производстве.",
-      "telegram_message_id": "1159",
-      "telegram_url": "https://t.me/gamepulse_newss/1159",
-      "telegram_published_at": "2026-10-12T21:47:22.962656+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/mv85-austin-sonny-1280-1791830924948.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-12T21:47:24.356337+00:00"
-    },
-    {
       "fingerprint": "d0943c01d888d438444a1a32",
       "title": "The Best Cases for Apple’s iPhone Duo Foldable Right Now",
       "url": "https://ign.com/articles/the-best-cases-for-apples-iphone-duo-foldable-right-now",
@@ -20514,7 +20497,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/probably-stolen-steam-hit-header.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-08T00:03:04.249483+00:00"
+    },
+    {
+      "fingerprint": "6c6a85b4e4bc5d6f745d8cee",
+      "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+      "url": "https://polygon.com/top-bioware-games",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T02:43:33+00:00",
+      "score": 8,
+      "event_key": "Polygon lists 8 BioWare games that aged well",
+      "title_ru": "Polygon составил список из восьми игр BioWare, которые прошли проверку временем",
+      "threads_teaser_ru": "Издание Polygon выбрало восемь игр BioWare, которые отлично сохранились спустя годы. В списке не только признанные хиты вроде Mass Effect 2 и Dragon Age: Origins, но и такие неожиданные проекты, как Sonic Chronicles: The Dark Brotherhood.",
+      "telegram_message_id": "2359",
+      "telegram_url": "https://t.me/gamepulse_newss/2359",
+      "telegram_published_at": "2026-11-08T03:32:57.789637+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/Neverwinter-Nights-2-Enhanced-Edition-cover-image-Shadow-King.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/short-why-did-ea-close-bioware-v2-1793735562.mp4"
     }
   ],
-  "updated_at": "2026-11-08T00:03:04.249578+00:00"
+  "updated_at": "2026-11-08T03:32:57.789751+00:00"
 }
