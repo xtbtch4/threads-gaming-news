@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "23b6f6d56c51a2068425b956",
-      "title": "Save Over $1,000 Off the Cyberpowerpc RTX 5080 Prebuilt Gaming PC With 32GB of RAM and 2TB SSD",
-      "url": "https://ign.com/articles/cyberpowerpc-geforce-rtx-5080-gaming-pc-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T19:30:00+00:00",
-      "score": 6,
-      "event_key": "Walmart discounts Cyberpowerpc RTX 5080 gaming PC",
-      "title_ru": "Walmart снизил цену на игровой ПК с GeForce RTX 5080 до $2599",
-      "threads_teaser_ru": "В Walmart подешевел готовый игровой ПК от Cyberpowerpc на базе RTX 5080. С учетом скидки в $1030 ценник опустился до $2599. Внутри — процессор Intel Core Ultra 9 285, 32 ГБ RAM и SSD на 2 ТБ. Рассказываем, что потянет такая конфигурация в 4K.",
-      "telegram_message_id": "1175",
-      "telegram_url": "https://t.me/gamepulse_newss/1175",
-      "telegram_published_at": "2026-10-13T02:32:41.314270+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/cyberpowerpcwhite-1791829538279.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T02:32:42.745596+00:00"
-    },
-    {
       "fingerprint": "aa23c261a180e9c7d0a2fd09",
       "title": "Every Magic: The Gathering Set Confirmed for 2027, Including Marvel: Darkhold Destiny",
       "url": "https://ign.com/articles/magic-the-gathering-2027-release-schedule",
@@ -20517,7 +20500,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-08T14:32:48.867190+00:00"
+    },
+    {
+      "fingerprint": "b96ec5e7748cef8cbdf414ef",
+      "title": "Cairn 'Belongs' Next to Death Stranding in ‘History of Grand Adventure Games'",
+      "url": "https://polygon.com/cairn-game-bakers-interview",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T14:05:44+00:00",
+      "score": 8,
+      "event_key": "The Game Bakers discuss Cairn development philosophy and genre",
+      "title_ru": "Разработчики Cairn рассказали об особенностях своего альпинистского приключения",
+      "threads_teaser_ru": "Студия The Game Bakers объяснила, почему Cairn — это не просто симулятор скалолазания, а полноценное action-adventure с упором на выживание и историю. Авторы рассказали, как искали баланс между реалистичной физикой и эмоциями, и почему считают, что игра близка по духу к Death Stranding.",
+      "telegram_message_id": "2375",
+      "telegram_url": "https://t.me/gamepulse_newss/2375",
+      "telegram_published_at": "2026-11-08T14:47:02.159166+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cairn-lede-image.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/cairn-launch-trailer-_-ps5-games-1794085155.mp4"
     }
   ],
-  "updated_at": "2026-11-08T14:32:48.867282+00:00"
+  "updated_at": "2026-11-08T14:47:02.159258+00:00"
 }
