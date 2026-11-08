@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c9ceb26ee1b2aba06d97b89c",
-      "title": "Marvel's VisionQuest Episodes 1 & 2 Review (No Spoilers)",
-      "url": "https://ign.com/articles/marvels-visionquest-episodes-1-2-review",
-      "source": "IGN",
-      "published_at_source": "2026-10-12T19:00:00+00:00",
-      "score": 7,
-      "event_key": "VisionQuest series premiere episodes review",
-      "title_ru": "Обзор первых двух эпизодов сериала VisionQuest",
-      "threads_teaser_ru": "На Disney+ выходят первые два эпизода сериала VisionQuest. Шоу возвращает зрителей к судьбе White Vision, который пытается понять человеческую натуру спустя пять лет после событий WandaVision. Главная удача проекта — возвращение Джеймса Спейдера к роли Ultron.",
-      "telegram_message_id": "1172",
-      "telegram_url": "https://t.me/gamepulse_newss/1172",
-      "telegram_published_at": "2026-10-13T01:17:42.953578+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/visionquest-tf-1-1791827004272.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T01:17:44.261415+00:00"
-    },
-    {
       "fingerprint": "fa84d24940388c4208274bb9",
       "title": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims",
       "url": "https://rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/snoopy-unleashed-2027-apple-tv.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-08T10:32:15.103803+00:00"
+    },
+    {
+      "fingerprint": "6c62422eabc2cf3124cb0057",
+      "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
+      "url": "https://polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T12:00:17+00:00",
+      "score": 8,
+      "event_key": "comparison of Nintendo and Bethesda game re-release strategies",
+      "title_ru": "The Legend of Zelda: Ocarina of Time против The Elder Scrolls 5: Skyrim: сравнение стратегий перевыпуска",
+      "threads_teaser_ru": "Почему редкие переиздания The Legend of Zelda: Ocarina of Time воспринимаются игроками лучше, чем бесконечные порты The Elder Scrolls 5: Skyrim? Сравнили подходы Nintendo и Bethesda к обновлению их самых известных хитов.",
+      "telegram_message_id": "2372",
+      "telegram_url": "https://t.me/gamepulse_newss/2372",
+      "telegram_published_at": "2026-11-08T12:47:08.752421+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8669311/vlcsnap_00169.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-08T10:32:15.103887+00:00"
+  "updated_at": "2026-11-08T12:47:08.752476+00:00"
 }
