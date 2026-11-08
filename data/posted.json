@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "750166fa0077e50eca8a46b7",
-      "title": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\"",
-      "url": "https://eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-13T10:37:22+00:00",
-      "score": 13,
-      "event_key": "asha sharma xbox town hall new ip strategy",
-      "title_ru": "Asha Sharma заявила о необходимости создавать новые IP для выживания Xbox",
-      "threads_teaser_ru": "Руководитель Xbox Asha Sharma заявила сотрудникам, что компания не сможет выжить, опираясь только на прошлое, и нуждается в создании новых долговечных IP для привлечения аудитории.",
-      "telegram_message_id": "1184",
-      "telegram_url": "https://t.me/gamepulse_newss/1184",
-      "telegram_published_at": "2026-10-13T10:47:03.113806+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-showcase-2026-sharma.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-13T10:47:05.024556+00:00"
-    },
-    {
       "fingerprint": "afa8908d0f6f25e122ea589c",
       "title": "Castlevania: Belmont's Curse Reviews Hail a Triumphant Return",
       "url": "https://polygon.com/castlevania-belmonts-curse-review-roundup",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-08T20:32:45.538791+00:00"
+    },
+    {
+      "fingerprint": "7c627f51bc969990c3c7cc24",
+      "title": "Former PlayStation Boss Says Sony Doesn't Need a 'PS6 for $1,200,' It Needs a 'PS5 for $300'",
+      "url": "https://ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300",
+      "source": "IGN",
+      "published_at_source": "2026-11-08T20:11:55+00:00",
+      "score": 9,
+      "event_key": "shawn layden comments on future playstation hardware strategy",
+      "title_ru": "Бывший глава PlayStation считает, что Sony нужна доступная консоль, а не дорогая PS6",
+      "threads_teaser_ru": "Шон Лейден предложил Sony сменить стратегию: вместо разработки дорогостоящей PS6 стоит сосредоточиться на создании более доступной версии PS5. Бывший глава PlayStation считает, что текущей мощности консоли достаточно, а компании следует заняться снижением затрат на производство.",
+      "telegram_message_id": "2384",
+      "telegram_url": "https://t.me/gamepulse_newss/2384",
+      "telegram_published_at": "2026-11-08T21:17:05.407445+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/09/23/ps5-pro-1-blogroll-1727135689150.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-08T20:32:45.538889+00:00"
+  "updated_at": "2026-11-08T21:17:05.407533+00:00"
 }
