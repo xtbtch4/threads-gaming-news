@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b55dfb3cdbd1a4755e6f4fd2",
-      "title": "Prime Video's Epic New Game of Thrones Replacement Is Officially 3 Months Away",
-      "url": "https://polygon.com/bloodaxe-episode-1-prime-video",
-      "source": "Polygon",
-      "published_at_source": "2026-10-13T08:00:16+00:00",
-      "score": 6,
-      "event_key": "Prime Video Bloodaxe series release date announcement",
-      "title_ru": "Премьера исторического сериала Bloodaxe на Prime Video состоится в январе 2027 года",
-      "threads_teaser_ru": "На Prime Video готовят премьеру исторической драмы Bloodaxe. Сериал от создателей Vikings расскажет о борьбе за власть в Норвегии X века и выйдет 20 января 2027 года. Все эпизоды первого сезона будут доступны сразу, а работа над продолжением уже идет.",
-      "telegram_message_id": "1179",
-      "telegram_url": "https://t.me/gamepulse_newss/1179",
-      "telegram_published_at": "2026-10-13T08:02:40.278981+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bldx_s1_ut_250806_walber_00342r_cropc_f_3000-1.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/ytdown-com_youtube_media_nt8mdw5nkd0_bloodaxe-teaser-trailer-prime-video_001_1080p-1791849404.mp4",
-      "threads_published_at": "2026-10-13T08:02:41.671534+00:00"
-    },
-    {
       "fingerprint": "0e34a6b6df2d29e98b0a4e43",
       "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
       "url": "https://eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
@@ -20517,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-08T16:47:10.192596+00:00"
+    },
+    {
+      "fingerprint": "c6b47781cfebdb3e115abab0",
+      "title": "Zelda: Ocarina of Time Is Guaranteed a GOTY Nomination. It Will Never Win",
+      "url": "https://polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards",
+      "source": "Polygon",
+      "published_at_source": "2026-11-08T16:00:17+00:00",
+      "score": 8,
+      "event_key": "The Legend of Zelda Ocarina of Time GOTY 2026 nomination",
+      "title_ru": "Ремейк The Legend of Zelda: Ocarina of Time номинируют на GOTY, но вряд ли он победит",
+      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time почти наверняка попадет в список претендентов на звание «Игра года» по версии The Game Awards 2026. Однако эксперты сомневаются, что проект сможет забрать главную награду, несмотря на высокие оценки критиков и статус культовой классики.",
+      "telegram_message_id": "2379",
+      "telegram_url": "https://t.me/gamepulse_newss/2379",
+      "telegram_published_at": "2026-11-08T17:17:19.484583+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ns2_thelegendofzeldaocarinaoftime_scrn_11.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-08T16:47:10.192677+00:00"
+  "updated_at": "2026-11-08T17:17:19.484674+00:00"
 }
