@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7c945e092fe666867a67b8e8",
-      "title": "New Xbox Labs Team Officially Announced",
-      "url": "https://polygon.com/xbox-labs-asha-sharma-ai-vibe-coding",
-      "source": "Polygon",
-      "published_at_source": "2026-10-13T21:08:30+00:00",
-      "score": 14,
-      "event_key": "xbox_labs_announced_by_asha_sharma",
-      "title_ru": "Microsoft анонсировала новое подразделение Xbox Labs",
-      "threads_teaser_ru": "Глава Xbox Asha Sharma объявила о создании Xbox Labs. Новое подразделение займется экспериментами и необычными игровыми проектами, вдохновленными последними технологическими трендами.",
-      "telegram_message_id": "1215",
-      "telegram_url": "https://t.me/gamepulse_newss/1215",
-      "telegram_published_at": "2026-10-13T22:32:19.497088+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24431666/VyNhTqYhwJXU8rJpH5rBDL.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-13T22:32:21.651024+00:00"
-    },
-    {
       "fingerprint": "70f763ff8341182ff0621979",
       "title": "Microsoft Flight Simulator Releases National Championship Air Races and New Aircraft Pack Today",
       "url": "https://news.xbox.com/en-us/2026/10/13/microsoft-flight-simulator-releases-national-championship-air-races-and-new-aircraft-pack-today",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/like-a-dragon-infinite-wealth-a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T16:32:12.049143+00:00"
+    },
+    {
+      "fingerprint": "b4c34f61a5c021825565e3ff",
+      "title": "Marvel Officially Rebooting the Hulk in 2027 With Major Power Move",
+      "url": "https://polygon.com/marvel-hulk-new-series-announced-comics-giveaway-day",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T16:38:26+00:00",
+      "score": 12,
+      "event_key": "marvel_announces_new_hulk_series_2027",
+      "title_ru": "Marvel анонсировала новую серию комиксов про Hulk на 2027 год",
+      "threads_teaser_ru": "Marvel анонсировала запуск новой серии комиксов про Hulk, которая наччнется в 2027 году после завершения сюжетной арки Infernal Hulk. Первый выпуск выйдет 1 мая бесплатно.",
+      "telegram_message_id": "2416",
+      "telegram_url": "https://t.me/gamepulse_newss/2416",
+      "telegram_published_at": "2026-11-09T16:46:50.471381+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdavin_ec072.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-09T16:32:12.049229+00:00"
+  "updated_at": "2026-11-09T16:46:50.471463+00:00"
 }
