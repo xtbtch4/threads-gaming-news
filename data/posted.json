@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4e87a621e36c90824e4f7964",
-      "title": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals",
-      "url": "https://eurogamer.net/kaz-hirai-playstation-boss-ignored-sony",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-13T12:12:16+00:00",
-      "score": 13,
-      "event_key": "Kaz Hirai admits ignoring Sony headquarters orders at PlayStation",
-      "title_ru": "Каз Хирай признался, что игнорировал приказы руководства Sony во время работы в PlayStation",
-      "threads_teaser_ru": "Бывший глава PlayStation Казуо «Каз» Хирай рассказал, что в годы работы президентом игрового подразделения Sony часто игнорировал указания руководства корпорации. Позже, став CEO всей Sony, он кардинально изменил подход к управлению, требуя от отделов единой командной работы.",
-      "telegram_message_id": "1190",
-      "telegram_url": "https://t.me/gamepulse_newss/1190",
-      "telegram_published_at": "2026-10-13T12:17:36.293990+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/kaz-hirai-red-bg-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-13T12:17:37.848674+00:00"
-    },
-    {
       "fingerprint": "465c6e3c9448cbb709eac365",
       "title": "Escape Academy 2: Back 2 School comes to PS5 on November 5",
       "url": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/14-1794006993620.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T01:32:48.195525+00:00"
+    },
+    {
+      "fingerprint": "e83ee57ad02d39bd2645f356",
+      "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+      "url": "https://ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T02:28:29+00:00",
+      "score": 11,
+      "event_key": "Denis Villeneuve discusses AI and James Bond casting",
+      "title_ru": "Denis Villeneuve высказался о влиянии нейросетей на искусство и пошутил о кастинге нового James Bond",
+      "threads_teaser_ru": "Denis Villeneuve раскритиковал использование ИИ в кино, заявив, что процесс создания искусства важнее результата. Кроме того, режиссер в шутку почти раскрыл имя следующего исполнителя роли James Bond, но вовремя остановился, чтобы не напугать продюсеров.",
+      "telegram_message_id": "2390",
+      "telegram_url": "https://t.me/gamepulse_newss/2390",
+      "telegram_published_at": "2026-11-09T03:02:51.711134+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/dune-thumb-blog-1635422675804-1638913811159-1794189777994.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T01:32:48.195631+00:00"
+  "updated_at": "2026-11-09T03:02:51.711215+00:00"
 }
