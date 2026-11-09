@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1667bee9a2265fd2e25cd82c",
-      "title": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink",
-      "url": "https://rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T10:00:00+00:00",
-      "score": 11,
-      "event_key": "Facepunch Studios S&box free to play overhaul",
-      "title_ru": "Facepunch Studios переведет S&box на условно-бесплатную модель",
-      "threads_teaser_ru": "Разработчики S&box признали провал своей концепции «Netflix для игр» и готовят масштабный перезапуск. Проект станет условно-бесплатным к концу года, а студия Facepunch Studios сменит приоритеты, сосредоточившись на качестве игр, а не на их количестве.",
-      "telegram_message_id": "1225",
-      "telegram_url": "https://t.me/gamepulse_newss/1225",
-      "telegram_published_at": "2026-10-14T10:32:50.280766+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/s%26box-going-free-to-play-garrys-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T10:32:51.760915+00:00"
-    },
-    {
       "fingerprint": "0133900155702a113d7dee13",
       "title": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
       "url": "https://ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
@@ -20516,7 +20499,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/TheLegendOfZeldaOcarinaOfTime_46.jpg?w=300",
       "threads_published_at": "2026-11-09T19:16:56.121764+00:00"
+    },
+    {
+      "fingerprint": "adde155290e4f04c535cbd57",
+      "title": "Even More Free DLC for Hollow Knight: Silksong Might Be on the Way",
+      "url": "https://polygon.com/hollow-knight-silksong-free-dlc-rumor",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T19:20:53+00:00",
+      "score": 12,
+      "event_key": "physical edition of Hollow Knight: Silksong hints at free DLC",
+      "title_ru": "Физические копии Hollow Knight: Silksong намекают на бесплатные DLC",
+      "threads_teaser_ru": "Физические копии Hollow Knight: Silksong содержат буклет, намекающий на выход бесплатных «контент-паков» в дополнение к ранее анонсированному расширению Sea of Sorrow. Детали — в нашем посте.",
+      "telegram_message_id": "2426",
+      "telegram_url": "https://t.me/gamepulse_newss/2426",
+      "telegram_published_at": "2026-11-09T19:32:43.352075+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4"
     }
   ],
-  "updated_at": "2026-11-09T19:16:56.121856+00:00"
+  "updated_at": "2026-11-09T19:32:43.352170+00:00"
 }
