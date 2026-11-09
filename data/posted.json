@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "18a81e9b5504b09c6ac73611",
-      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
-      "url": "https://eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T12:40:59+00:00",
-      "score": 15,
-      "event_key": "rockstar_iwgb_employment_tribunal_delayed_november",
-      "title_ru": "Судебный процесс между Rockstar Games и профсоюзом IWGB отложен на ноябрь",
-      "threads_teaser_ru": "Суд по делу об увольнении сотрудников Rockstar Games продлен до ноября и завершится прямо перед релизом GTA 6. Что стоит за этим громким спором с профсоюзом IWGB?",
-      "telegram_message_id": "1234",
-      "telegram_url": "https://t.me/gamepulse_newss/1234",
-      "telegram_published_at": "2026-10-14T12:46:54.926447+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T12:46:56.480162+00:00"
-    },
-    {
       "fingerprint": "6576c63911dd6dcd1c78ebe6",
       "title": "Nintendo Switch Online Additions Include Perfectly Timed GBA Classics",
       "url": "https://polygon.com/nintendo-switch-online-game-boy-advance-october-2026",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Lucia-ai-background.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T23:17:02.153620+00:00"
+    },
+    {
+      "fingerprint": "7a8c2b41a5c2915977d695f2",
+      "title": "Skydance Games Confirms Layoffs Following Warner Bros.-Paramount Merger",
+      "url": "https://ign.com/articles/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T21:36:45+00:00",
+      "score": 11,
+      "event_key": "skydance games confirms layoffs following merger",
+      "title_ru": "Skydance Games подтвердила проведение увольнений",
+      "threads_teaser_ru": "Skydance Games подтвердила сокращения штата после слияния Warner Bros. и Paramount. Под удар попали десятки разработчиков, работавших над будущими проектами студии.",
+      "telegram_message_id": "2435",
+      "telegram_url": "https://t.me/gamepulse_newss/2435",
+      "telegram_published_at": "2026-11-09T23:32:32.263499+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/skydance-tmnt-1794259767892.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T23:17:02.153713+00:00"
+  "updated_at": "2026-11-09T23:32:32.263602+00:00"
 }
