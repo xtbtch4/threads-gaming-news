@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "604a37db2b948e69f3a81729",
-      "title": "Helldivers 2: Scope of Authority Premium Warbond launches Oct 20",
-      "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-13T13:00:36+00:00",
-      "score": 11,
-      "event_key": "Helldivers 2 Scope of Authority Premium Warbond launch",
-      "title_ru": "Анонсирован Premium Warbond «Scope of Authority» для Helldivers 2",
-      "threads_teaser_ru": "Helldivers 2 расширяет арсенал: 20 октября выходит Premium Warbond «Scope of Authority». В игру добавят новые винтовки, в том числе снайперские, энергетические и противотанковые, а также снаряжение для маскировки с уникальным пассивным умением.",
-      "telegram_message_id": "1218",
-      "telegram_url": "https://t.me/gamepulse_newss/1218",
-      "telegram_published_at": "2026-10-13T23:32:08.543279+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/10/4477bb059cf98e6e3d5664697ea539cfda653e64.jpg",
-      "threads_published_at": "2026-10-13T23:32:10.005792+00:00"
-    },
-    {
       "fingerprint": "11a88c26c79fef7576217261",
       "title": "Dropout Announces New Scripted Series that Spoofs MTV",
       "url": "https://polygon.com/dropout-mp3-new-series-announced-jeremy-culhane-paul-f-tompkins",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Lego-Yoshi.jpg?w=300",
       "threads_published_at": "2026-11-09T17:16:51.148536+00:00"
+    },
+    {
+      "fingerprint": "d878801c15bfb6a4e56068f9",
+      "title": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name",
+      "url": "https://ign.com/articles/sony-launches-new-ps-portal-model-in-japan-with-internal-storage-for-future-functionality-changes-official-name",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T16:23:27+00:00",
+      "score": 13,
+      "event_key": "sony-launches-new-playstation-portal-model-in-japan",
+      "title_ru": "Sony выпустит новую модель PlayStation Portal в Японии",
+      "threads_teaser_ru": "Sony анонсировала новую модель PlayStation Portal в Японии со встроенной памятью для будущих функций. Устройство поступит в продажу 12 декабря.",
+      "telegram_message_id": "2419",
+      "telegram_url": "https://t.me/gamepulse_newss/2419",
+      "telegram_published_at": "2026-11-09T17:32:18.566203+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/portal-main-1794241328785.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T17:16:51.148630+00:00"
+  "updated_at": "2026-11-09T17:32:18.566296+00:00"
 }
