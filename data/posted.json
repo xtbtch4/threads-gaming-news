@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e430f232fe82d6b8cb67effe",
-      "title": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected",
-      "url": "https://gamespot.com/articles/gta-6-will-reportedly-come-to-pc-much-earlier-than-expected",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-13T07:24:00+00:00",
-      "score": 14,
-      "event_key": "GTA 6 PC version release timing reports",
-      "title_ru": "Релиз PC-версии Grand Theft Auto 6 может состояться раньше ожидаемого",
-      "threads_teaser_ru": "Появились новые сведения о сроках выхода PC-версии Grand Theft Auto 6. Похоже, что ожидание порта для компьютеров может оказаться значительно короче, чем предполагали фанаты после анонса консольного релиза на ноябрь.",
-      "telegram_message_id": "1206",
-      "telegram_url": "https://t.me/gamepulse_newss/1206",
-      "telegram_published_at": "2026-10-13T17:33:27.628757+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-13T17:33:28.987414+00:00"
-    },
-    {
       "fingerprint": "aa40991b17112db2ef16aeca",
       "title": "Coming soon to Invincible VS, it's your copyright-friendly neighbourhood Agent Spider",
       "url": "https://rockpapershotgun.com/coming-soon-to-invincible-vs-its-your-copyright-friendly-neighbourhood-agent-spider",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/The-Elder-Scrolls-6-Sentinel---Title-Card.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T14:02:02.184097+00:00"
+    },
+    {
+      "fingerprint": "cbb02b2830d28cdda51ee2b2",
+      "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
+      "url": "https://rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-09T14:30:40+00:00",
+      "score": 12,
+      "event_key": "skyrim-lead-designer-bruce-nesmith-baldurs-gate-3-choices",
+      "title_ru": "Дизайнер Skyrim оценил подход Baldur's Gate 3 к выборам в RPG",
+      "threads_teaser_ru": "Бывший ведущий дизайнер Skyrim Брюс Несмит рассказал, что думает о влиятельных решениях в Baldur's Gate 3 и философии полной свободы в играх Bethesda.",
+      "telegram_message_id": "2407",
+      "telegram_url": "https://t.me/gamepulse_newss/2407",
+      "telegram_published_at": "2026-11-09T14:32:43.452422+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/skyrim-mod-in-game-patcher-get-rid-of-conflicts-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T14:02:02.184184+00:00"
+  "updated_at": "2026-11-09T14:32:43.452674+00:00"
 }
