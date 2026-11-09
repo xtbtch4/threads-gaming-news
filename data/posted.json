@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2cbce32a3a552d94156a6fa5",
-      "title": "Planet Zoo 2 is a beautiful sequel and a fine management sim, but it's the animals that steal the show",
-      "url": "https://eurogamer.net/planet-zoo-2-now-playing",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T09:09:02+00:00",
-      "score": 9,
-      "event_key": "early impressions of Planet Zoo 2 from Eurogamer",
-      "title_ru": "Первые впечатления от Planet Zoo 2: визуальная детализация и новые виды животных",
-      "threads_teaser_ru": "В Planet Zoo 2 добавили аквариумы, авиарии и масштабные природные заповедники. Разработчики из Frontier уделили особое внимание визуальной части и детализации поведения 136 видов животных. Делимся первыми впечатлениями о новом симуляторе зоопарка.",
-      "telegram_message_id": "1221",
-      "telegram_url": "https://t.me/gamepulse_newss/1221",
-      "telegram_published_at": "2026-10-14T09:17:24.396135+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/planet-zoo-2-elephant-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T09:17:25.972787+00:00"
-    },
-    {
       "fingerprint": "a7d4c6f63b56765d3a9be5ca",
       "title": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China",
       "url": "https://rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/silksong-sea-of-sorrows.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T18:02:26.290374+00:00"
+    },
+    {
+      "fingerprint": "48a59bc6241541c68fbdd6af",
+      "title": "GTA 6: The Festival Officially Announced by Rockstar",
+      "url": "https://polygon.com/gta-6-festival-tickets-announcement",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T18:28:11+00:00",
+      "score": 14,
+      "event_key": "Rockstar announces Grand Theft Auto 6: The Festival in Miami",
+      "title_ru": "Rockstar анонсировала музыкальный фестиваль Grand Theft Auto 6: The Festival",
+      "threads_teaser_ru": "Rockstar анонсировала Grand Theft Auto 6: The Festival — музыкальное событие в Майами, которое пройдет 21 ноября. Попасть на него смогут только победители лотереи, дающей право на покупку билетов. Старт продаж намечен на 11 ноября, а сам фестиваль состоится через два дня после релиза Grand Theft Auto 6.",
+      "telegram_message_id": "2422",
+      "telegram_url": "https://t.me/gamepulse_newss/2422",
+      "telegram_published_at": "2026-11-09T18:33:10.343881+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-09T18:02:26.290465+00:00"
+  "updated_at": "2026-11-09T18:33:10.343960+00:00"
 }
