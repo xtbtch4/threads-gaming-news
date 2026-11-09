@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4c6461fe2712798589fc5605",
-      "title": "Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx, according to report",
-      "url": "https://rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T10:43:55+00:00",
-      "score": 14,
-      "event_key": "ubisoft-layoffs-redlynx-closure-singapore-2026",
-      "title_ru": "Ubisoft закрывает RedLynx и проводит сокращения в Ubisoft Singapore",
-      "threads_teaser_ru": "Ubisoft планирует закрыть студию RedLynx, создавшую серию Trials, и сократить около 70 сотрудников в Ubisoft Singapore, работавшей над Skull and Bones и Assassin's Creed Black Flag Resynced.",
-      "telegram_message_id": "1227",
-      "telegram_url": "https://t.me/gamepulse_newss/1227",
-      "telegram_published_at": "2026-10-14T11:02:26.792403+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/black-flag-gold-outfit.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T11:02:28.279912+00:00"
-    },
-    {
       "fingerprint": "1875cd28c84539726277479e",
       "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
       "url": "https://gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/trevor.jpg?w=300",
       "threads_published_at": "2026-11-09T20:02:08.204081+00:00"
+    },
+    {
+      "fingerprint": "d4cdc36fc57b408820a632c9",
+      "title": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure",
+      "url": "https://eurogamer.net/mass-effect-cast-save-bioware-n7-day",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T20:09:50+00:00",
+      "score": 11,
+      "event_key": "Mass Effect cast supports SaveMassEffect movement after BioWare closure",
+      "title_ru": "Актеры озвучки Mass Effect поддержали кампанию #SaveMassEffect",
+      "threads_teaser_ru": "Актеры оригинальной трилогии Mass Effect объединились, чтобы поддержать фанатское движение #SaveMassEffect. Jennifer Hale, Mark Meer и другие участники озвучки записали видеообращение в день N7, прошедший без участия BioWare.",
+      "telegram_message_id": "2428",
+      "telegram_url": "https://t.me/gamepulse_newss/2428",
+      "telegram_published_at": "2026-11-09T20:17:19.730119+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T20:02:08.204198+00:00"
+  "updated_at": "2026-11-09T20:17:19.730207+00:00"
 }
