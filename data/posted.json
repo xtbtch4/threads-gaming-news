@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8dac71ea95be463ae7a29620",
-      "title": "Just Dance: Decades of Hits Out Now – Choreography Director Talks About A Musical Journey Through Dance",
-      "url": "https://news.xbox.com/en-us/2026/10/13/just-dance-decades-of-hits-choreography",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-13T16:30:00+00:00",
-      "score": 14,
-      "event_key": "Just Dance: Decades of Hits release on Xbox Series X|S",
-      "title_ru": "Состоялся релиз Just Dance: Decades of Hits",
-      "threads_teaser_ru": "На XBOX Series X|S вышла Just Dance: Decades of Hits. Игра охватывает музыкальные стили от 70-х до наших дней и поддерживает локальный мультиплеер до шести человек со смартфонами в качестве контроллеров. Также в новинке появился сюжетный режим Adventure.",
-      "telegram_message_id": "1203",
-      "telegram_url": "https://t.me/gamepulse_newss/1203",
-      "telegram_published_at": "2026-10-13T16:33:11.930790+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EGST_Edition_Thumbnail_1920X1080-bb0d606875e5c3a37e27.jpg",
-      "threads_published_at": "2026-10-13T16:33:13.387073+00:00"
-    },
-    {
       "fingerprint": "40eed023c6f8d4ce2c3e7d7b",
       "title": "$150 God of War Laufey Collector Box Revealed, No Game Included",
       "url": "https://ign.com/articles/150-god-of-war-laufey-collector-box-revealed-no-game-included",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-vice-city-style-04-1794227455889.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T13:16:42.041611+00:00"
+    },
+    {
+      "fingerprint": "6da0eb38e6f5f7c12c679d36",
+      "title": "\"Art, including characters, terrain, animations, cutscenes and UI\" Bandai Namco and Monolith Soft helped out with Ocarina of Time on Switch 2",
+      "url": "https://eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T12:45:50+00:00",
+      "score": 13,
+      "event_key": "bandai namco monolith soft ocarina of time switch 2",
+      "title_ru": "Bandai Namco и Monolith Soft помогли с разработкой Ocarina of Time для Switch 2",
+      "threads_teaser_ru": "Стало известно, какие студии помогали Nintendo с созданием Switch 2 версии Ocarina of Time. В титрах новой игры обнаружили упоминания известных компаний.",
+      "telegram_message_id": "2404",
+      "telegram_url": "https://t.me/gamepulse_newss/2404",
+      "telegram_published_at": "2026-11-09T13:32:31.488449+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Link-credits.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T13:16:42.041688+00:00"
+  "updated_at": "2026-11-09T13:32:31.488538+00:00"
 }
