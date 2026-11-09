@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2425",
       "telegram_url": "https://t.me/gamepulse_newss/2425",
       "telegram_published_at": "2026-11-09T19:16:54.865639+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/TheLegendOfZeldaOcarinaOfTime_46.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/TheLegendOfZeldaOcarinaOfTime_46.jpg?w=300",
+      "threads_published_at": "2026-11-09T19:16:56.121764+00:00"
     }
   ],
-  "updated_at": "2026-11-09T19:16:54.865738+00:00"
+  "updated_at": "2026-11-09T19:16:56.121856+00:00"
 }
