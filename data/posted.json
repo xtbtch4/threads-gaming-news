@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "57e366bcbbe3c58aea85a564",
-      "title": "Former game-seller Zavvi enters administration again and \"is unable to fulfil any outstanding orders or pre-orders\"",
-      "url": "https://eurogamer.net/zavvi-administration-2026-orders",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T09:54:26+00:00",
-      "score": 13,
-      "event_key": "zavvi-enters-administration-again-2026",
-      "title_ru": "Zavvi снова вошла в процедуру банкротства",
-      "threads_teaser_ru": "Бывший продавец видеоигр Zavvi снова перешел в процедуру банкротства и прекратил торговые операции. Компания заявила, что не сможет выполнить текущие заказы и предзаказы, а также принимать возвраты.",
-      "telegram_message_id": "1224",
-      "telegram_url": "https://t.me/gamepulse_newss/1224",
-      "telegram_published_at": "2026-10-14T10:17:05.306711+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/zavvi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T10:17:06.616262+00:00"
-    },
-    {
       "fingerprint": "1667bee9a2265fd2e25cd82c",
       "title": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink",
       "url": "https://rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/warhammer-blood-bowl.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-09T19:02:57.851284+00:00"
+    },
+    {
+      "fingerprint": "5d27a0d0309b02f1ea38ad9a",
+      "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
+      "url": "https://gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-09T18:00:46+00:00",
+      "score": 12,
+      "event_key": "players creating cover songs in Zelda Ocarina of Time remake",
+      "title_ru": "Игроки исполняют популярные треки в The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "В вышедшем на прошлой неделе ремейке The Legend of Zelda: Ocarina of Time игроки начали массово записывать каверы на известные песни. От саундтрека к «Властелину колец» до Linkin Park — механика игры на инструменте оказалась достаточно гибкой для творчества.",
+      "telegram_message_id": "2425",
+      "telegram_url": "https://t.me/gamepulse_newss/2425",
+      "telegram_published_at": "2026-11-09T19:16:54.865639+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/TheLegendOfZeldaOcarinaOfTime_46.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-09T19:02:57.851373+00:00"
+  "updated_at": "2026-11-09T19:16:54.865738+00:00"
 }
