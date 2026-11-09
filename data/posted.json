@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c11e33ab56b0102031eb87e4",
-      "title": "Ben Affleck Warns Against Celebrating Box Office Failure of Tom Cruise's Digger, Says It Could Discourage Risk-Taking in Hollywood",
-      "url": "https://ign.com/articles/ben-affleck-warns-against-celebrating-box-office-failure-of-tom-cruises-digger-says-it-could-discourage-risk-taking-in-hollywood",
-      "source": "IGN",
-      "published_at_source": "2026-10-13T12:43:26+00:00",
-      "score": 9,
-      "event_key": "ben-affleck-defends-digger-box-office-failure",
-      "title_ru": "Ben Affleck защитил фильм Digger от насмешек над кассовыми провалом",
-      "threads_teaser_ru": "Ben Affleck сравнил реакцию на кассовый провал фильма Digger со школьной травлей и предупредил, что радость от неудач картины убьет риск в Голливуде.",
-      "telegram_message_id": "1192",
-      "telegram_url": "https://t.me/gamepulse_newss/1192",
-      "telegram_published_at": "2026-10-13T13:03:09.205079+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/09/diggerthumb-1788963055122.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T13:03:10.991566+00:00"
-    },
-    {
       "fingerprint": "4ca34f611c42f0474fb7276f",
       "title": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
       "url": "https://eurogamer.net/playstation-5-midnight-black-japan-only",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/02/27/pokemon-tcg-trailer-blog-1740667087951.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T04:47:05.457465+00:00"
+    },
+    {
+      "fingerprint": "645f82bd75c6aec39f7598cd",
+      "title": "U2's The Edge Apparently Wrote a Full Script for Elf 2 But Was Never Able to Bring It to Life",
+      "url": "https://ign.com/articles/u2s-the-edge-apparently-wrote-a-full-script-for-elf-2-but-was-never-able-to-bring-it-to-life",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T04:22:51+00:00",
+      "score": 9,
+      "event_key": "The Edge wrote script for Elf 2",
+      "title_ru": "The Edge из U2 написал сценарий для сиквела Elf",
+      "threads_teaser_ru": "Неожиданный факт из мира кино: гитарист U2 The Edge когда-то написал полноценный сценарий для сиквела фильма Elf. Проект так и остался нереализованным, а сам исполнитель главной роли Уилл Феррелл всегда скептически относился к идее продолжения культовой комедии.",
+      "telegram_message_id": "2392",
+      "telegram_url": "https://t.me/gamepulse_newss/2392",
+      "telegram_published_at": "2026-11-09T05:02:47.029722+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/elf-1794198025855.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T04:47:05.457553+00:00"
+  "updated_at": "2026-11-09T05:02:47.029802+00:00"
 }
