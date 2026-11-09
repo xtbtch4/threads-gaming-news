@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4102ab77afda8c622eed7162",
-      "title": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
-      "url": "https://rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-12T13:30:00+00:00",
-      "score": 6,
-      "event_key": "Battleplan World War 2 RTS release",
-      "title_ru": "Релиз стратегии Battleplan о Второй мировой войне",
-      "threads_teaser_ru": "В новой RTS Battleplan управление войсками происходит через рисование линий фронта на карте. Игроки могут настраивать структуру армии, проводить бомбардировки и планировать отступления, наблюдая, как тысячи юнитов пытаются воплотить их стратегические замыслы в жизнь.",
-      "telegram_message_id": "1188",
-      "telegram_url": "https://t.me/gamepulse_newss/1188",
-      "telegram_published_at": "2026-10-13T11:47:47.224889+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/battleplan.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-13T11:47:48.783082+00:00"
-    },
-    {
       "fingerprint": "1ca99b614b7b00b7c0f4e35e",
       "title": "Hideo Kojima Wears Joy Division T-Shirt to Sony Visit, Sparking Johnny Silverhand Arasaka Tower Comparison",
       "url": "https://ign.com/articles/hideo-kojima-wears-joy-division-t-shirt-to-sony-visit-sparking-johnny-silverhand-arasaka-tower-comparison",
@@ -20516,7 +20499,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4",
       "threads_published_at": "2026-11-09T00:03:09.514702+00:00"
+    },
+    {
+      "fingerprint": "ef4856e8de57b9b397e96ad6",
+      "title": "Zelda: Ocarina of Time and WoW: Forever Are the Good Kind of Remakes",
+      "url": "https://polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T01:00:17+00:00",
+      "score": 10,
+      "event_key": "analysis of The Legend of Zelda: Ocarina of Time and World of Warcraft: Forever remakes",
+      "title_ru": "Рецензент Polygon о ремейках The Legend of Zelda: Ocarina of Time и World of Warcraft: Forever",
+      "threads_teaser_ru": "Polygon разобрали, почему ремейки The Legend of Zelda: Ocarina of Time и World of Warcraft: Forever выделяются на фоне остальных. Издание считает, что в их основе лежит не коммерческий расчет, а глубокий интерес разработчиков к истокам своих франшиз.",
+      "telegram_message_id": "2388",
+      "telegram_url": "https://t.me/gamepulse_newss/2388",
+      "telegram_published_at": "2026-11-09T01:02:45.793968+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-deku-tree.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-09T00:03:09.514814+00:00"
+  "updated_at": "2026-11-09T01:02:45.794053+00:00"
 }
