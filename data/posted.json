@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "70f763ff8341182ff0621979",
-      "title": "Microsoft Flight Simulator Releases National Championship Air Races and New Aircraft Pack Today",
-      "url": "https://news.xbox.com/en-us/2026/10/13/microsoft-flight-simulator-releases-national-championship-air-races-and-new-aircraft-pack-today",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-13T22:00:00+00:00",
-      "score": 12,
-      "event_key": "microsoft flight simulator national championship air races release",
-      "title_ru": "Для Microsoft Flight Simulator вышло дополнение National Championship Air Races",
-      "threads_teaser_ru": "В Microsoft Flight Simulator добавили режим National Championship Air Races и новый набор самолетов. Обновление уже доступно для скачивания всем владельцам симулятора, позволяя принять участие в соревновательных заездах.",
-      "telegram_message_id": "1216",
-      "telegram_url": "https://t.me/gamepulse_newss/1216",
-      "telegram_published_at": "2026-10-13T22:47:34.900247+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MSFS_NCAR_NoSnipe_NoLogo_NoText-copy-b825fb5cca84a8d3e40b.jpg",
-      "threads_published_at": "2026-10-13T22:47:36.420041+00:00"
-    },
-    {
       "fingerprint": "a874be2c07dec80c86f6e3e2",
       "title": "Razer Reveals New Pokémon Gaming Headsets Featuring Sylveon, Charizard, and Lucario",
       "url": "https://ign.com/articles/razer-reveals-3-new-pokemon-gaming-headsets-based-on-sylveon-charizard-lucario",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdavin_ec072.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-09T16:46:51.880843+00:00"
+    },
+    {
+      "fingerprint": "008fc451728ade015bb6fdc3",
+      "title": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date",
+      "url": "https://eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T16:50:00+00:00",
+      "score": 15,
+      "event_key": "warhammer-40k-dark-heresy-release-date-announced",
+      "title_ru": "Анонсирована дата выхода Warhammer 40,000: Dark Heresy",
+      "threads_teaser_ru": "Owlcat Games назвала дату выхода тактической ролевой игры Warhammer 40,000: Dark Heresy. Проект появится на PC и консолях в начале 2027 года, а версия для Switch 2 выйдет позже.",
+      "telegram_message_id": "2417",
+      "telegram_url": "https://t.me/gamepulse_newss/2417",
+      "telegram_published_at": "2026-11-09T17:02:42.112232+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/warhammer-40k-dark-heresy_rowA3Iz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T16:46:51.880931+00:00"
+  "updated_at": "2026-11-09T17:02:42.112328+00:00"
 }
