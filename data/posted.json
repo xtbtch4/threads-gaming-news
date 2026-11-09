@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "90c9a8c6bc4fd99053bde97a",
-      "title": "Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine",
-      "url": "https://rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-13T11:20:00+00:00",
-      "score": 10,
-      "event_key": "ubisoft_copyright_strikes_cut_assassins_creed_black_flag_scene",
-      "title_ru": "Ubisoft заблокировала видео с вырезанной сценой из Assassin’s Creed Black Flag Resynced",
-      "threads_teaser_ru": "Ubisoft заблокировала видео с вырезанной сценой из Assassin’s Creed Black Flag Resynced, найденной датамайнерами. В ролике Эдвард Кенуэй общается с персонажем из Assassin's Creed 3, что породило слухи о новых проектах.",
-      "telegram_message_id": "1187",
-      "telegram_url": "https://t.me/gamepulse_newss/1187",
-      "telegram_published_at": "2026-10-13T11:32:18.650727+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/assassins-creed-black-flag-resynced-update-disappearing-ships-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-13T11:32:20.767168+00:00"
-    },
-    {
       "fingerprint": "4102ab77afda8c622eed7162",
       "title": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
       "url": "https://rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
@@ -20515,7 +20498,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/08/nvidia-ceo-jensen-huang-1794177110571.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-08T23:02:49.652373+00:00"
+    },
+    {
+      "fingerprint": "adf9237ff1fff5aa0e94e038",
+      "title": "Sega’s Most Influential Platformer Deserves Its Big Remake Moment Next",
+      "url": "https://polygon.com/super-monkey-ball-retrospective-25-years-sega",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T00:00:17+00:00",
+      "score": 8,
+      "event_key": "Super Monkey Ball 25th anniversary and potential remake",
+      "title_ru": "Серия Super Monkey Ball отмечает 25-летие",
+      "threads_teaser_ru": "Серия Super Monkey Ball отмечает 25-летие. В ноябре выходит сборник Super Monkey Ball Triple Pack для Nintendo Switch, включающий Banana Rumble и Banana Mania. Однако аналитики считают, что франшизе не помешал бы полноценный амбициозный ремейк оригинальной игры.",
+      "telegram_message_id": "2387",
+      "telegram_url": "https://t.me/gamepulse_newss/2387",
+      "telegram_published_at": "2026-11-09T00:03:08.106126+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4"
     }
   ],
-  "updated_at": "2026-11-08T23:02:49.652464+00:00"
+  "updated_at": "2026-11-09T00:03:08.106209+00:00"
 }
