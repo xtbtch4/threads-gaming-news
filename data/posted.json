@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "92f05eaad501faa9e364d7f8",
-      "title": "Xbox Is Getting Into AI Gaming, Even If It Won’t Say So",
-      "url": "https://gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T10:50:37+00:00",
-      "score": 12,
-      "event_key": "Xbox launches Xbox Labs experimental initiative",
-      "title_ru": "Xbox запускает инициативу Xbox Labs",
-      "threads_teaser_ru": "Xbox анонсировала открытие экспериментального подразделения Xbox Labs. Официально инициатива сфокусирована на развитии браузерного гейминга и кроссплатформенности, однако запуск происходит на фоне массового использования нейросетей для портирования и изменения игр.",
-      "telegram_message_id": "1230",
-      "telegram_url": "https://t.me/gamepulse_newss/1230",
-      "telegram_published_at": "2026-10-14T11:47:53.617626+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg?w=300",
-      "threads_published_at": "2026-10-14T11:47:55.023089+00:00"
-    },
-    {
       "fingerprint": "8d05e511b10f4ceb331ae69f",
       "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
       "url": "https://gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-earnings.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T22:17:01.241177+00:00"
+    },
+    {
+      "fingerprint": "6c5902a5ae9848656b7ba553",
+      "title": "A Real Life GTA 6 Car Is Being Sold for $1.3 Million",
+      "url": "https://ign.com/articles/a-real-life-gta-6-car-is-being-sold-for-13-million",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T21:53:41+00:00",
+      "score": 13,
+      "event_key": "real life grotti cheetah from gta 6 sold for 1.3 million",
+      "title_ru": "Реальная машина из GTA 6 выставлена на продажу за 1,3 миллиона долларов",
+      "threads_teaser_ru": "В Лондоне выставили на продажу кастомный автомобиль Grotti Cheetah из Grand Theft Auto VI, созданный Rockstar Games и West Coast Customs. Его стоимость составляет 1,3 миллиона долларов.",
+      "telegram_message_id": "2431",
+      "telegram_url": "https://t.me/gamepulse_newss/2431",
+      "telegram_published_at": "2026-11-09T22:32:15.588654+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/gta-6-car-1794258868198.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T22:17:01.241263+00:00"
+  "updated_at": "2026-11-09T22:32:15.588743+00:00"
 }
