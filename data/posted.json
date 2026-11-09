@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "42337a2bdbd9e1edddc9783c",
-      "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
-      "url": "https://polygon.com/the-odyssey-christopher-nolan",
-      "source": "Polygon",
-      "published_at_source": "2026-10-13T13:37:10+00:00",
-      "score": 14,
-      "event_key": "Christopher Nolan The Odyssey home release date announcement",
-      "title_ru": "Universal Pictures анонсировала дату домашнего релиза The Odyssey Кристофера Нолана",
-      "threads_teaser_ru": "Universal Pictures объявила дату цифрового и физического релиза The Odyssey Кристофера Нолана. Фильм, заработавший 1,78 миллиарда долларов, выходит 17 ноября с более чем 90 минутами бонусных материалов, некоторые из которых будут доступны только на дисках.",
-      "telegram_message_id": "1195",
-      "telegram_url": "https://t.me/gamepulse_newss/1195",
-      "telegram_published_at": "2026-10-13T14:03:09.841587+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ct-54129_msg.jpeg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/horse-1783437129.mp4",
-      "threads_published_at": "2026-10-13T14:03:11.503656+00:00"
-    },
-    {
       "fingerprint": "4ccf5ed495f0c7d8b1a19b09",
       "title": "Your Raw Fury Backlog on XBOX Is About to Get a Lot Bigger",
       "url": "https://news.xbox.com/en-us/2026/10/13/raw-fury-publisher-xbox-update",
@@ -20516,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(5).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T09:31:47.473411+00:00"
+    },
+    {
+      "fingerprint": "d73a91667e41367ad7ad2523",
+      "title": "GTA 6 reportedly has 55 achievements/trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
+      "url": "https://eurogamer.net/gta-6-achievements-trophies-55",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T09:41:40+00:00",
+      "score": 15,
+      "event_key": "gta-6-will-have-55-achievements-trophies",
+      "title_ru": "Утечка: в GTA 6 будет 55 достижений и трофеев",
+      "threads_teaser_ru": "По данным новой утечки, в GTA 6 будет 55 достижений и трофеев — это больше, чем было на релизе у GTA 5 и Red Dead Redemption 2. Награды будут связаны с одиночным режимом.",
+      "telegram_message_id": "2395",
+      "telegram_url": "https://t.me/gamepulse_newss/2395",
+      "telegram_published_at": "2026-11-09T09:46:27.723935+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Lucia-trophies-achievements.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T09:31:47.473501+00:00"
+  "updated_at": "2026-11-09T09:46:27.724025+00:00"
 }
