@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ccb1c47ce272616d505a1f85",
-      "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
-      "url": "https://eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T11:39:03+00:00",
-      "score": 15,
-      "event_key": "rockstar_reveals_gta_6_development_details_and_project_americas",
-      "title_ru": "Rockstar раскрыла детали разработки Grand Theft Auto 6 и первоначальные планы на Project Americas",
-      "threads_teaser_ru": "Rockstar Games рассказала об истоках Grand Theft Auto 6, изначальном кодовом названии Project Americas, проблемах с переработками и масштабных планах, которые пришлось скорректировать.",
-      "telegram_message_id": "1233",
-      "telegram_url": "https://t.me/gamepulse_newss/1233",
-      "telegram_published_at": "2026-10-14T12:32:18.213177+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Jason_and_Lucia_11.13lmeyci.i-yw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T12:32:19.771861+00:00"
-    },
-    {
       "fingerprint": "18a81e9b5504b09c6ac73611",
       "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
       "url": "https://eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Key-Art_xbox-1920x1080-en-e14c4b3b0b968bc86a4b-1024x576.png",
       "threads_published_at": "2026-11-09T23:02:27.938691+00:00"
+    },
+    {
+      "fingerprint": "fff48260d7fa3e259891e91b",
+      "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
+      "url": "https://eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T22:47:40+00:00",
+      "score": 11,
+      "event_key": "take two ceo strauss zelnik gta 6 ai earnings call",
+      "title_ru": "Глава Take-Two высказался о роли искусственного интеллекта и создании хитов",
+      "threads_teaser_ru": "Глава Take-Two Штраус Зельник прокомментировал влияние искусственного интеллекта на индустрию во время отчета компании. По его словам, технологии облегчают создание ассатов, но создание хитов остается прерогативой людей.",
+      "telegram_message_id": "2434",
+      "telegram_url": "https://t.me/gamepulse_newss/2434",
+      "telegram_published_at": "2026-11-09T23:17:00.889313+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Lucia-ai-background.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T23:02:27.938793+00:00"
+  "updated_at": "2026-11-09T23:17:00.889402+00:00"
 }
