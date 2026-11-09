@@ -20514,9 +20514,10 @@
       "telegram_message_id": "2429",
       "telegram_url": "https://t.me/gamepulse_newss/2429",
       "telegram_published_at": "2026-11-09T22:02:10.858387+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DC-Studios.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DC-Studios.jpg?w=300",
+      "threads_published_at": "2026-11-09T22:02:12.376852+00:00"
     }
   ],
-  "updated_at": "2026-11-09T22:02:10.858477+00:00"
+  "updated_at": "2026-11-09T22:02:12.376942+00:00"
 }
