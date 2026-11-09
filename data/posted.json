@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9964e4a2ee3a1798fb8e97b7",
-      "title": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
-      "url": "https://eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T08:35:47+00:00",
-      "score": 13,
-      "event_key": "xbox announces new initiative xbox labs",
-      "title_ru": "Xbox анонсировала новое подразделение Xbox Labs",
-      "threads_teaser_ru": "Xbox объявила о создании подразделения Xbox Labs для изучения новых тенденций в создании и портировании игр, хотя в анонсе избегали упоминаний искусственного интеллекта.",
-      "telegram_message_id": "1220",
-      "telegram_url": "https://t.me/gamepulse_newss/1220",
-      "telegram_published_at": "2026-10-14T08:47:03.342148+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-labs-logo-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T08:47:04.856858+00:00"
-    },
-    {
       "fingerprint": "2cbce32a3a552d94156a6fa5",
       "title": "Planet Zoo 2 is a beautiful sequel and a fine management sim, but it's the animals that steal the show",
       "url": "https://eurogamer.net/planet-zoo-2-now-playing",
@@ -20516,7 +20499,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdsupe_wb003.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4",
       "threads_published_at": "2026-11-09T17:47:00.570449+00:00"
+    },
+    {
+      "fingerprint": "b5830c2ab2adb43f5ad72670",
+      "title": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\"",
+      "url": "https://eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T17:51:10+00:00",
+      "score": 15,
+      "event_key": "hollow knight silksong physical editions free content packs",
+      "title_ru": "Физические издания Hollow Knight: Silksong намекают на бесплатные контентные паки",
+      "threads_teaser_ru": "Физические копии Hollow Knight: Silksong начали доставлять игрокам раньше срока. Внутри обнаружился буклет, который подтверждает разработку нескольких бесплатных контентных паков и крупного дополнения Sea of Sorrow.",
+      "telegram_message_id": "2421",
+      "telegram_url": "https://t.me/gamepulse_newss/2421",
+      "telegram_published_at": "2026-11-09T18:02:24.719092+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/silksong-sea-of-sorrows.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T17:47:00.570582+00:00"
+  "updated_at": "2026-11-09T18:02:24.719175+00:00"
 }
