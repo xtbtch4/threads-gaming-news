@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1ca99b614b7b00b7c0f4e35e",
-      "title": "Hideo Kojima Wears Joy Division T-Shirt to Sony Visit, Sparking Johnny Silverhand Arasaka Tower Comparison",
-      "url": "https://ign.com/articles/hideo-kojima-wears-joy-division-t-shirt-to-sony-visit-sparking-johnny-silverhand-arasaka-tower-comparison",
-      "source": "IGN",
-      "published_at_source": "2026-10-13T11:16:04+00:00",
-      "score": 9,
-      "event_key": "Hideo Kojima visits Sony office in Tokyo",
-      "title_ru": "Хидео Кодзима посетил офис Sony в футболке Joy Division",
-      "threads_teaser_ru": "Хидео Кодзима навестил офис Sony, выбрав для визита мерч группы Joy Division. Фанаты сразу нашли параллели с культовой сценой из Cyberpunk 2077, но официальных причин появления разработчика в штаб-квартире компании пока нет.",
-      "telegram_message_id": "1189",
-      "telegram_url": "https://t.me/gamepulse_newss/1189",
-      "telegram_published_at": "2026-10-13T12:02:19.127012+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/kojima-1791890138911.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T12:02:20.339757+00:00"
-    },
-    {
       "fingerprint": "4e87a621e36c90824e4f7964",
       "title": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals",
       "url": "https://eurogamer.net/kaz-hirai-playstation-boss-ignored-sony",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-deku-tree.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-09T01:02:47.254667+00:00"
+    },
+    {
+      "fingerprint": "1d6005034e76a4b7b1c24438",
+      "title": "Petit Planet, aka HoYoverse's Take on Animal Crossing, Is Packed With Charm and Attention to Detail | IGN Preview",
+      "url": "https://ign.com/articles/petit-planet-aka-hoyoverses-take-on-animal-crossing-is-packed-with-charm-and-attention-to-detail-ign-preview",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T01:00:00+00:00",
+      "score": 5,
+      "event_key": "HoYoverse introduces cozy life simulation game Petit Planet",
+      "title_ru": "Превью Petit Planet от студии HoYoverse",
+      "threads_teaser_ru": "HoYoverse представила симулятор жизни Petit Planet, который во многом опирается на формулу Animal Crossing. В игре предстоит развивать собственную планету, выращивать дерево Luca для трансформации ландшафта и выстраивать отношения с соседями.",
+      "telegram_message_id": "2389",
+      "telegram_url": "https://t.me/gamepulse_newss/2389",
+      "telegram_published_at": "2026-11-09T01:32:46.760528+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/14-1794006993620.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T01:02:47.254756+00:00"
+  "updated_at": "2026-11-09T01:32:46.760633+00:00"
 }
