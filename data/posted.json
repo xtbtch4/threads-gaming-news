@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4ccf5ed495f0c7d8b1a19b09",
-      "title": "Your Raw Fury Backlog on XBOX Is About to Get a Lot Bigger",
-      "url": "https://news.xbox.com/en-us/2026/10/13/raw-fury-publisher-xbox-update",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-13T14:00:00+00:00",
-      "score": 12,
-      "event_key": "Raw Fury announces new games for XBOX lineup",
-      "title_ru": "Raw Fury анонсировала и представила ряд игр для XBOX",
-      "threads_teaser_ru": "Издательство Raw Fury поделилось планами по расширению библиотеки XBOX. Игроков ждут как уже вышедшие новинки, так и ряд крупных релизов: от стратегии Kingdom III: Rising Realms до Cassette Beasts 2002 и симулятора My Cannibal Family.",
-      "telegram_message_id": "1196",
-      "telegram_url": "https://t.me/gamepulse_newss/1196",
-      "telegram_published_at": "2026-10-13T14:17:59.438035+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Header_RawFury-8a776ffeffcaeac0831e.jpg",
-      "threads_published_at": "2026-10-13T14:18:01.481778+00:00"
-    },
-    {
       "fingerprint": "ff52f1a1978536c653d4b344",
       "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
       "url": "https://eurogamer.net/sifu-mobile-release-android-ios",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Lucia-trophies-achievements.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T09:46:28.960347+00:00"
+    },
+    {
+      "fingerprint": "3a0de3935185f195fa418623",
+      "title": "Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live",
+      "url": "https://ign.com/articles/supper-mario-broth-health-condition",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T10:55:22+00:00",
+      "score": 11,
+      "event_key": "Supper Mario Broth blogger health condition announcement",
+      "title_ru": "Автор блога Supper Mario Broth сообщил о серьезных проблемах со здоровьем",
+      "threads_teaser_ru": "Автор известного блога Supper Mario Broth рассказал о серьезном генетическом заболевании. Несмотря на неутешительные прогнозы, он пообещал продолжать делиться фактами о любимой франшизе, пока это физически возможно.",
+      "telegram_message_id": "2396",
+      "telegram_url": "https://t.me/gamepulse_newss/2396",
+      "telegram_published_at": "2026-11-09T11:02:58.495086+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/gettyimages-1229469375-1794221614141.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T09:46:28.960432+00:00"
+  "updated_at": "2026-11-09T11:02:58.495176+00:00"
 }
