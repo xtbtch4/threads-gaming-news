@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "39287a08e09377344b59cd33",
-      "title": "Ubisoft Cuts 70 Staff From Skull and Bones Dev, Shuts Down Trials Studio RedLynx",
-      "url": "https://ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T09:40:47+00:00",
-      "score": 15,
-      "event_key": "Ubisoft cuts staff Skull and Bones closes RedLynx",
-      "title_ru": "Ubisoft увольняет сотрудников Skull and Bones и закрывает студию RedLynx",
-      "threads_teaser_ru": "Ubisoft сокращает 70 сотрудников в студии, разработавшей Skull and Bones, а также полностью закрывает финскую студию RedLynx, создавшую серию Trials.",
-      "telegram_message_id": "1223",
-      "telegram_url": "https://t.me/gamepulse_newss/1223",
-      "telegram_published_at": "2026-10-14T10:02:35.248914+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/skull-1791970800085.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T10:02:36.810262+00:00"
-    },
-    {
       "fingerprint": "57e366bcbbe3c58aea85a564",
       "title": "Former game-seller Zavvi enters administration again and \"is unable to fulfil any outstanding orders or pre-orders\"",
       "url": "https://eurogamer.net/zavvi-administration-2026-orders",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/dragon-age-1794243596754.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T18:47:12.192770+00:00"
+    },
+    {
+      "fingerprint": "f5c050fe553d8eede8614e70",
+      "title": "Warhammer’s Brutal Fantasy Football Game Just Suffered Another Setback",
+      "url": "https://polygon.com/warhammer-blood-bowl-delayed-2027",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T19:00:33+00:00",
+      "score": 14,
+      "event_key": "Warhammer Blood Bowl release date delay to 2027",
+      "title_ru": "Релиз Warhammer Blood Bowl перенесли на 2027 год",
+      "threads_teaser_ru": "Разработчики Warhammer Blood Bowl объявили о переносе игры на начало 2027 года. Студия хочет уделить больше времени полировке проекта, чтобы не разочаровать фанатов. Владельцев Blood Bowl 3 ждет приятный бонус: они получат новую игру бесплатно.",
+      "telegram_message_id": "2424",
+      "telegram_url": "https://t.me/gamepulse_newss/2424",
+      "telegram_published_at": "2026-11-09T19:02:56.557400+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/warhammer-blood-bowl.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-09T18:47:12.192864+00:00"
+  "updated_at": "2026-11-09T19:02:56.557487+00:00"
 }
