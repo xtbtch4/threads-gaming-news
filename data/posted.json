@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f3255f527ec9fdfd978e6a8",
-      "title": "The Batman Part 2 Gets a Reassuring Update From Robert Pattinson",
-      "url": "https://polygon.com/batman-part-2-dc-robert-pattinson-update-matt-reeves",
-      "source": "Polygon",
-      "published_at_source": "2026-10-13T14:42:51+00:00",
-      "score": 12,
-      "event_key": "Robert Pattinson comments on The Batman Part 2 production pause",
-      "title_ru": "Robert Pattinson прокомментировал паузу в производстве The Batman Part 2",
-      "threads_teaser_ru": "Производство The Batman Part 2 приостановлено из-за семейных обстоятельств режиссера Matt Reeves. Robert Pattinson прокомментировал ситуацию, заверив фанатов в будущем проекта, несмотря на опасения относительно его судьбы.",
-      "telegram_message_id": "1200",
-      "telegram_url": "https://t.me/gamepulse_newss/1200",
-      "telegram_published_at": "2026-10-13T15:47:53.139242+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdbatm_wb029.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/the-batman-part-ii-official-camera-test-teaser-trailer-1784746800.mp4",
-      "threads_published_at": "2026-10-13T15:47:54.672584+00:00"
-    },
-    {
       "fingerprint": "98ad71b3ee837b6de325ab6f",
       "title": "Rockstar's Multi-Million Dollar Miami Takeover Continues to Expand Ahead of GTA 6 Launch, Despite Protests from Some Officials",
       "url": "https://ign.com/articles/rockstars-multi-million-dollar-miami-takeover-continues-to-expand-ahead-of-gta-6-launch-despite-protests-from-some-officials",
@@ -20515,7 +20497,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/gta-main-1794223738435.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T12:02:26.477169+00:00"
+    },
+    {
+      "fingerprint": "b2652320c17cacaccaabfd29",
+      "title": "Mass Effect Creator Is ‘Optimistic’ the Series Will Live On",
+      "url": "https://polygon.com/mass-effect-future-casey-hudson-optimistic",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T12:00:14+00:00",
+      "score": 10,
+      "event_key": "Casey Hudson discusses future of canceled Mass Effect project",
+      "title_ru": "Создатель Mass Effect оптимистично оценивает будущее серии",
+      "threads_teaser_ru": "Разработчики и фанаты продолжают бороться за возвращение Mass Effect после закрытия BioWare и отмены новой игры в серии. Кейси Хадсон поддерживает сообщество и верит, что проект еще может получить второй шанс, хотя права на него остаются у EA.",
+      "telegram_message_id": "2400",
+      "telegram_url": "https://t.me/gamepulse_newss/2400",
+      "telegram_published_at": "2026-11-09T12:17:10.213142+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mass-effect-universe.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/mass-effect-tm-legendary-edition-official-reveal-trailer-4k-1793915643.mp4"
     }
   ],
-  "updated_at": "2026-11-09T12:02:26.477274+00:00"
+  "updated_at": "2026-11-09T12:17:10.213205+00:00"
 }
