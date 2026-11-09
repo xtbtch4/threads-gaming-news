@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8d05e511b10f4ceb331ae69f",
-      "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
-      "url": "https://gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T10:43:11+00:00",
-      "score": 12,
-      "event_key": "rockstar games to release future titles faster after gta 6",
-      "title_ru": "Rockstar планирует сократить перерывы между будущими релизами после GTA 6",
-      "threads_teaser_ru": "Разработка GTA 6 заняла у Rockstar более восьми лет, но студия рассчитывает, что следующий проект выйдет значительно быстрее. Компания сделала выводы из долгого производственного цикла и планирует использовать уже созданные инструменты и движок для ускорения работы над будущими играми.",
-      "telegram_message_id": "1231",
-      "telegram_url": "https://t.me/gamepulse_newss/1231",
-      "telegram_published_at": "2026-10-14T12:02:41.570157+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gta6.jpg?w=300",
-      "threads_published_at": "2026-10-14T12:02:43.159061+00:00"
-    },
-    {
       "fingerprint": "3b7f563b83e17512221c27ed",
       "title": "Rockstar are \"confident\" that GTA 7 won't take another eight years, despite similar promises of greater efficiency seemingly having come with Red Dead Redemption 2",
       "url": "https://rockpapershotgun.com/rockstar-are-confident-that-gta-7-wont-take-another-eight-years-despite-similar-promises-of-greater-efficiency-seemingly-having-come-with-red-dead-redemption-2",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/gta-6-car-1794258868198.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T22:32:16.879150+00:00"
+    },
+    {
+      "fingerprint": "ad689c302e1db42c01437680",
+      "title": "GTA 6 Caused Some Gamers to Hold Off on Buying New Games — Including Take-Two's Own NBA 2K27, Strauss Zelnick Says",
+      "url": "https://ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T21:41:41+00:00",
+      "score": 11,
+      "event_key": "gta 6 impact on video game sales take two",
+      "title_ru": "Глава Take-Two заявил о влиянии GTA 6 на продажи других игр",
+      "threads_teaser_ru": "Глава Take-Two Штраус Зельник рассказал, как ожидание GTA 6 повлияло на игровую индустрию и продажи других проектов компании, включая NBA 2K27.",
+      "telegram_message_id": "2432",
+      "telegram_url": "https://t.me/gamepulse_newss/2432",
+      "telegram_published_at": "2026-11-09T22:46:45.406794+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-electric-fang-03-1794260488819.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T22:32:16.879232+00:00"
+  "updated_at": "2026-11-09T22:46:45.406859+00:00"
 }
