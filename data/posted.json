@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1b42ac2acd30e07a45d6ed81",
-      "title": "Despite Huge Changes For The Series, Halo Fest 2026 Is Going Forward, And News Is Coming Soon",
-      "url": "https://gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-13T18:30:59+00:00",
-      "score": 15,
-      "event_key": "halo fest 2026 proceeding despite studio changes",
-      "title_ru": "Halo Fest 2026 состоится в декабре несмотря на изменения в Halo Studios",
-      "threads_teaser_ru": "Мероприятие Halo Fest 2026 пройдет с 11 по 13 декабря в Сиэтле, несмотря на массовые увольнения и масштабные перестановки в Halo Studios. Организаторы обещают новости на этой неделе и празднование 25-летия серии.",
-      "telegram_message_id": "1208",
-      "telegram_url": "https://t.me/gamepulse_newss/1208",
-      "telegram_published_at": "2026-10-13T19:02:36.241696+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/HaloFest.jpg?w=300",
-      "threads_published_at": "2026-10-13T19:02:37.789375+00:00"
-    },
-    {
       "fingerprint": "38baa8b6cbf178b6e8ac76dd",
       "title": "Xbox Announces Xbox Labs, Aimed in Part at Getting Improved Old-Gen Games Playable in Web Browsers",
       "url": "https://ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T14:47:00.450582+00:00"
+    },
+    {
+      "fingerprint": "00d531ee96e782f7e2ede740",
+      "title": "Exterminauts Is Like Helldivers 2 Starring Home Depot Dads",
+      "url": "https://gamespot.com/articles/exterminauts-is-like-helldivers-2-starring-home-depot-dads",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-09T14:42:14+00:00",
+      "score": 12,
+      "event_key": "Behaviour Interactive announces Exterminauts co-op shooter",
+      "title_ru": "Анонсирован кооперативный шутер Exterminauts",
+      "threads_teaser_ru": "Студия Behaviour Interactive анонсировала шутер Exterminauts, который напоминает Helldivers 2 по механикам, но выделяется уникальным стилем: главные герои здесь — обычные работяги, которые выполняют миссии как мелкий ремонт по дому.",
+      "telegram_message_id": "2409",
+      "telegram_url": "https://t.me/gamepulse_newss/2409",
+      "telegram_published_at": "2026-11-09T15:02:58.068159+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Exterminauts-Screenshot-1.png?w=300"
     }
   ],
-  "updated_at": "2026-11-09T14:47:00.450688+00:00"
+  "updated_at": "2026-11-09T15:02:58.068274+00:00"
 }
