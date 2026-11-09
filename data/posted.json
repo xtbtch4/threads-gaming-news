@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "97c52654d81d99d94875fade",
-      "title": "Go All in on All-Out Warfare in Battlefield 6 with EA Play",
-      "url": "https://news.xbox.com/en-us/2026/10/13/ea-play-october",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-13T17:00:00+00:00",
-      "score": 11,
-      "event_key": "Battlefield 6 added to EA Play subscription",
-      "title_ru": "Battlefield 6 вошла в библиотеку EA Play",
-      "threads_teaser_ru": "Шутер Battlefield 6 пополнил библиотеку EA Play. Подписчики получили доступ к полной версии игры и бонусам пятого сезона, действие которого переносит игроков в Лас-Вегас. Среди нововведений — свежие карты, оружие, режим Rapid Royale и рейтинговые матчи.",
-      "telegram_message_id": "1213",
-      "telegram_url": "https://t.me/gamepulse_newss/1213",
-      "telegram_published_at": "2026-10-13T20:47:31.353408+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EAP_BF6_PlayListDrop_Xbox_GPU_1920x1080-1-79e25eba69a3f4923b3f.jpg",
-      "threads_published_at": "2026-10-13T20:47:33.044401+00:00"
-    },
-    {
       "fingerprint": "fda5f5646ac817ae2f6b4a76",
       "title": "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
       "url": "https://ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DMZ-Rex-the-dog.jpg?w=300",
       "threads_published_at": "2026-11-09T16:02:39.215254+00:00"
+    },
+    {
+      "fingerprint": "d9943beee238fd8ab66d423f",
+      "title": "A Free GTA 6 Competitor Is Blowing Up on Steam",
+      "url": "https://polygon.com/gta-6-competitor-rob-run-blowing-up-steam",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T16:15:47+00:00",
+      "score": 14,
+      "event_key": "rob run gains popularity on steam early access",
+      "title_ru": "Бесплатная игра ROB RUN набирает популярность в Steam",
+      "threads_teaser_ru": "Бесплатная криминальная песочница ROB RUN от Kefir Games привлекла внимание сотен тысяч игроков в Steam в преддверии релиза Grand Theft Auto 6. Что известно о новом проекте?",
+      "telegram_message_id": "2414",
+      "telegram_url": "https://t.me/gamepulse_newss/2414",
+      "telegram_published_at": "2026-11-09T16:17:15.645824+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-6-couple-in-car.webp?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-09T16:02:39.215348+00:00"
+  "updated_at": "2026-11-09T16:17:15.645909+00:00"
 }
