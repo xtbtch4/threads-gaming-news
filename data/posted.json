@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3b7f563b83e17512221c27ed",
-      "title": "Rockstar are \"confident\" that GTA 7 won't take another eight years, despite similar promises of greater efficiency seemingly having come with Red Dead Redemption 2",
-      "url": "https://rockpapershotgun.com/rockstar-are-confident-that-gta-7-wont-take-another-eight-years-despite-similar-promises-of-greater-efficiency-seemingly-having-come-with-red-dead-redemption-2",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T12:05:28+00:00",
-      "score": 12,
-      "event_key": "Rockstar games development cycle acceleration claims",
-      "title_ru": "Rockstar уверены, что разработка будущих игр займет меньше времени",
-      "threads_teaser_ru": "Руководство Rockstar Games считает, что будущие игры компании будут создаваться быстрее благодаря технологиям и инструментам, наработанным в процессе работы над GTA 6. Однако в прошлом похожие надежды возлагались на Red Dead Redemption 2.",
-      "telegram_message_id": "1232",
-      "telegram_url": "https://t.me/gamepulse_newss/1232",
-      "telegram_published_at": "2026-10-14T12:17:19.835946+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Jason_and_Lucia_11.13lmeyci.i-yw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T12:17:21.493736+00:00"
-    },
-    {
       "fingerprint": "ccb1c47ce272616d505a1f85",
       "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
       "url": "https://eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-electric-fang-03-1794260488819.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T22:46:46.624856+00:00"
+    },
+    {
+      "fingerprint": "d06e6239babccc0504e21bf0",
+      "title": "FragPunk Reveals Farlands: New Delivery PvPvE Adventure Now Available in Early Access",
+      "url": "https://news.xbox.com/en-us/2026/11/09/fragpunk-farlands-early-access",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-09T16:00:00+00:00",
+      "score": 15,
+      "event_key": "fragpunk_farlands_early_access_launch",
+      "title_ru": "FragPunk получила новое PvPvE-приключение Farlands в раннем доступе",
+      "threads_teaser_ru": "Для FragPunk вышло масштабное обновление Farlands — постоянное PvPvE-приключение с доставкой грузов в общем развивающемся мире. Новинка уже доступна в раннем доступе на ПК и консолях.",
+      "telegram_message_id": "2433",
+      "telegram_url": "https://t.me/gamepulse_newss/2433",
+      "telegram_published_at": "2026-11-09T23:02:26.538313+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Key-Art_xbox-1920x1080-en-e14c4b3b0b968bc86a4b-1024x576.png"
     }
   ],
-  "updated_at": "2026-11-09T22:46:46.624933+00:00"
+  "updated_at": "2026-11-09T23:02:26.538415+00:00"
 }
