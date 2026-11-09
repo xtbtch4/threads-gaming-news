@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "27f3a69a6cbe14394081823e",
-      "title": "ID@Xbox Showcase Returns in October",
-      "url": "https://ign.com/articles/id-xbox-showcase-october-2026-how-to-watch",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-13T17:05:48+00:00",
-      "score": 14,
-      "event_key": "ID@Xbox Showcase scheduled for October 20",
-      "title_ru": "ID@Xbox Showcase вернется 20 октября",
-      "threads_teaser_ru": "IGN и Xbox снова объединяются: 20 октября пройдет презентация ID@Xbox Showcase. Организаторы готовят эксклюзивные материалы по 20 играм для PC и Xbox, включая The Wolf Among Us Remastered и проекты от Critical Reflex Games.",
-      "telegram_message_id": "1205",
-      "telegram_url": "https://t.me/gamepulse_newss/1205",
-      "telegram_published_at": "2026-10-13T17:17:59.296394+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/idxbox-1791841137111.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T17:18:01.421043+00:00"
-    },
-    {
       "fingerprint": "e430f232fe82d6b8cb67effe",
       "title": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected",
       "url": "https://gamespot.com/articles/gta-6-will-reportedly-come-to-pc-much-earlier-than-expected",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4460326-mk-2-poster.jpg?w=300",
       "threads_published_at": "2026-11-09T13:46:51.391011+00:00"
+    },
+    {
+      "fingerprint": "57f739d31ccb7f1e7e428e3e",
+      "title": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem",
+      "url": "https://eurogamer.net/the-elder-scrolls-6-sentinel-ladders-skyrim-bethesda-designer",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T12:46:20+00:00",
+      "score": 11,
+      "event_key": "bethesda_designer_hopes_for_ladders_in_the_elder_scrolls_6",
+      "title_ru": "Бывший разработчик Bethesda надеется на появление рабочих лестниц в The Elder Scrolls 6: Sentinel",
+      "threads_teaser_ru": "Бывший ведущий дизайнер Skyrim Брюс Несмит надеется, что в The Elder Scrolls 6: Sentinel разработчики наконец заставят лестницы работать полноценно.",
+      "telegram_message_id": "2406",
+      "telegram_url": "https://t.me/gamepulse_newss/2406",
+      "telegram_published_at": "2026-11-09T14:02:00.711955+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/The-Elder-Scrolls-6-Sentinel---Title-Card.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-09T13:46:51.391133+00:00"
+  "updated_at": "2026-11-09T14:02:00.712070+00:00"
 }
