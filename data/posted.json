@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6576c63911dd6dcd1c78ebe6",
-      "title": "Nintendo Switch Online Additions Include Perfectly Timed GBA Classics",
-      "url": "https://polygon.com/nintendo-switch-online-game-boy-advance-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-14T12:23:37+00:00",
-      "score": 14,
-      "event_key": "nintendo-switch-online-adds-gba-games-october",
-      "title_ru": "Nintendo пополнила библиотеку Nintendo Switch Online тремя классическими играми с Game Boy Advance",
-      "threads_teaser_ru": "Каталог Nintendo Switch Online пополнился тремя ретро-играми с Game Boy Advance для подписчиков тарифного плана Expansion Pack. Среди новинок — культовый экшен, симулятор монстров и редкая головоломка.",
-      "telegram_message_id": "1235",
-      "telegram_url": "https://t.me/gamepulse_newss/1235",
-      "telegram_published_at": "2026-10-14T13:02:49.531586+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22650689/metal_slug_tactics_Summer_Game_Fest_E3_2021.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-14T13:02:51.369569+00:00"
-    },
-    {
       "fingerprint": "f0f1c2b5844cce4421b9bd02",
       "title": "Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding”",
       "url": "https://gamespot.com/articles/take-two-ceos-response-to-second-gta-6-delay-please-tell-me-youre-kidding",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/skydance-tmnt-1794259767892.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T23:32:33.719394+00:00"
+    },
+    {
+      "fingerprint": "2c213fb7ae7503025904d37f",
+      "title": "Take-Two Boss Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Decade to Come",
+      "url": "https://ign.com/articles/take-two-boss-strauss-zelnick-on-gta-6-expectations-gta-online-and-the-decade-to-come",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T21:16:07+00:00",
+      "score": 11,
+      "event_key": "take_two_boss_strauss_zelnick_on_gta_6_expectations",
+      "title_ru": "Глава Take-Two Штраус Зельник высказался об ожиданиях от релизов GTA 6 и NBA 2K27",
+      "threads_teaser_ru": "Глава Take-Two Штраус Зельник поделился ожиданиями от грядущего релиза GTA 6. Предзаказы игры бьют рекорды, а запуск может повлиять на другие проекты компании.",
+      "telegram_message_id": "2436",
+      "telegram_url": "https://t.me/gamepulse_newss/2436",
+      "telegram_published_at": "2026-11-09T23:46:41.698527+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/strauss-1794258697165.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T23:32:33.719506+00:00"
+  "updated_at": "2026-11-09T23:46:41.698615+00:00"
 }
