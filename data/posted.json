@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a7d4c6f63b56765d3a9be5ca",
-      "title": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China",
-      "url": "https://rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T09:28:34+00:00",
-      "score": 14,
-      "event_key": "shifu-traffic-masters-open-world-driving-game-announced",
-      "title_ru": "Анонсирована Shifu: Traffic Masters — игра в открытом мире про вождение в Китае 1990-х",
-      "threads_teaser_ru": "В Steam появилась демоверсия Shifu: Traffic Masters — игры про вождение в открытом мире 1990-х годов, созданной разработчиком-одиночкой Boxy.Poly. Игроков ждет атмосфера северного Китая, перевозка грузов, работа в такси и полиции, а также уличные гонки.",
-      "telegram_message_id": "1222",
-      "telegram_url": "https://t.me/gamepulse_newss/1222",
-      "telegram_published_at": "2026-10-14T09:32:17.579152+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/shifu-traffic-masters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T09:32:19.072373+00:00"
-    },
-    {
       "fingerprint": "39287a08e09377344b59cd33",
       "title": "Ubisoft Cuts 70 Staff From Skull and Bones Dev, Shuts Down Trials Studio RedLynx",
       "url": "https://ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-09T18:33:11.832381+00:00"
+    },
+    {
+      "fingerprint": "22f3e1ede0f4f6ed5e2b1e2a",
+      "title": "Former BioWare Executive Producer Mark Darrah Shares Original Vision for a More 'Immersive' Dragon Age 4",
+      "url": "https://ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T17:00:15+00:00",
+      "score": 13,
+      "event_key": "mark darrah reveals original joplin dragon age 4 pitch",
+      "title_ru": "Марк Дарра раскрыл концепцию отмененной версии Dragon Age 4",
+      "threads_teaser_ru": "Бывший продюсер BioWare Марк Дарра показал концепцию отмененного проекта Joplin — раннего видения четвертой части Dragon Age. Разработчики планировали внедрить в серию разрушаемое окружение, динамическую погоду и полноценные ограбления.",
+      "telegram_message_id": "2423",
+      "telegram_url": "https://t.me/gamepulse_newss/2423",
+      "telegram_published_at": "2026-11-09T18:47:10.968134+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/dragon-age-1794243596754.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T18:33:11.832469+00:00"
+  "updated_at": "2026-11-09T18:47:10.968221+00:00"
 }
