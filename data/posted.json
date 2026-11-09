@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "40eed023c6f8d4ce2c3e7d7b",
-      "title": "$150 God of War Laufey Collector Box Revealed, No Game Included",
-      "url": "https://ign.com/articles/150-god-of-war-laufey-collector-box-revealed-no-game-included",
-      "source": "IGN",
-      "published_at_source": "2026-10-13T15:35:05+00:00",
-      "score": 13,
-      "event_key": "Sony announces God of War Laufey collector box without game",
-      "title_ru": "Анонсировано коллекционное издание God of War Laufey без самой игры",
-      "threads_teaser_ru": "Sony анонсировала коллекционное издание God of War Laufey за 150 долларов. Внутри статуэтка Фэй, но нет самой игры. Предзаказы уже открыты, а релиз намечен на февраль 2027 года. Пользователи сравнивают новинку с аналогичным набором для GTA 6, также лишенным диска или цифрового ключа.",
-      "telegram_message_id": "1204",
-      "telegram_url": "https://t.me/gamepulse_newss/1204",
-      "telegram_published_at": "2026-10-13T16:47:16.257715+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/gow-blog-1790684176225.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-13T16:47:17.627610+00:00"
-    },
-    {
       "fingerprint": "27f3a69a6cbe14394081823e",
       "title": "ID@Xbox Showcase Returns in October",
       "url": "https://ign.com/articles/id-xbox-showcase-october-2026-how-to-watch",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Link-credits.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-09T13:32:33.000433+00:00"
+    },
+    {
+      "fingerprint": "252a3b35b8c900369ef26567",
+      "title": "Mortal Kombat 2 Is Winning The Race To Become Mortal Kombat 2",
+      "url": "https://gamespot.com/articles/mortal-kombat-2-is-winning-the-race-to-become-mortal-kombat-2",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-09T12:58:56+00:00",
+      "score": 12,
+      "event_key": "ed-boon-mortal-kombat-name-poll",
+      "title_ru": "Ed Boon проводит опрос о названии для следующей части Mortal Kombat",
+      "threads_teaser_ru": "Креативный директор NetherRealm Studios Ed Boon запустил опрос о возможном названии следующей игры серии Mortal Kombat. Узнайте, какой вариант сейчас лидирует и почему это может запутать игроков.",
+      "telegram_message_id": "2405",
+      "telegram_url": "https://t.me/gamepulse_newss/2405",
+      "telegram_published_at": "2026-11-09T13:46:49.740346+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4460326-mk-2-poster.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-09T13:32:33.000522+00:00"
+  "updated_at": "2026-11-09T13:46:49.740451+00:00"
 }
