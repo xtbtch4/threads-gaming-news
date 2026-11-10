@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "26c994b963cf93930bbf35df",
-      "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
-      "url": "https://eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T12:52:32+00:00",
-      "score": 13,
-      "event_key": "dan-houser-blames-himself-for-max-payne-3",
-      "title_ru": "Дэн Хаузер взял на себя вину за неудачи Max Payne 3",
-      "threads_teaser_ru": "Сооснователь Rockstar Дэн Хаузер признался, что считает себя ответственным за проблемы Max Payne 3. Почему линейный экшен от создателей GTA столкнулся с критикой игроков и разочаровал по продажам?",
-      "telegram_message_id": "1238",
-      "telegram_url": "https://t.me/gamepulse_newss/1238",
-      "telegram_published_at": "2026-10-14T13:46:50.251834+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/max-payne-3-screen-front-profile-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T13:46:51.825863+00:00"
-    },
-    {
       "fingerprint": "b9586c7d4dd9c3c9868f8fe6",
       "title": "Ex-ZA/UM developers reveal Red Rooster, an \"incendiary RPG\" that is very intentionally not trying to be a \"Disco Elysium successor\" or \"Disco-like\"",
       "url": "https://eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-07-at-19.29.39.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T00:32:09.493345+00:00"
+    },
+    {
+      "fingerprint": "aa74daf0d47873bb02a47c27",
+      "title": "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating",
+      "url": "https://eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-09T15:23:30+00:00",
+      "score": 10,
+      "event_key": "activision-cracks-down-on-warzone-agent-app",
+      "title_ru": "Activision борется с приложением Warzone Agent в Call of Duty: Warzone",
+      "threads_teaser_ru": "Античит-команда Ricochet начала блокировать пользователей Call of Duty: Warzone за применение приложения Warzone Agent. Этот сторонний инструмент позволял проверять уровень соперников до матча.",
+      "telegram_message_id": "2439",
+      "telegram_url": "https://t.me/gamepulse_newss/2439",
+      "telegram_published_at": "2026-11-10T01:02:22.069765+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/call-of-duty-warzone-modern-warfare-4-screen-4.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T00:32:09.493430+00:00"
+  "updated_at": "2026-11-10T01:02:22.069834+00:00"
 }
