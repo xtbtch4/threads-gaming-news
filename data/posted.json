@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cff3182925339c60bd567f9d",
-      "title": "Epic Is Overhauling Its Anti-Cheat So That Fortnite Can Finally Come To A New Platform",
-      "url": "https://gamespot.com/articles/epic-is-overhauling-its-anti-cheat-so-that-fortnite-can-finally-come-to-a-new-platform",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T19:43:31+00:00",
-      "score": 8,
-      "event_key": "Epic Games announces EAC update for Fortnite Linux release",
-      "title_ru": "Epic Games обновит EAC для выпуска Fortnite на Linux",
-      "threads_teaser_ru": "Epic Games работает над новой версией системы защиты EAC, чтобы выпустить Fortnite на Linux. Технологию планируют протестировать на популярном шутере, после чего она станет доступна другим разработчикам для адаптации их многопользовательских игр под данную ОС.",
-      "telegram_message_id": "1272",
-      "telegram_url": "https://t.me/gamepulse_newss/1272",
-      "telegram_published_at": "2026-10-15T01:17:16.020606+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/promotional-art-for-season-3-of-chapter-7-in-fortnite-1.jpg?w=300",
-      "threads_published_at": "2026-10-15T01:17:17.193399+00:00"
-    },
-    {
       "fingerprint": "69961e8f59fe81387350e196",
       "title": "The 10 Most Underrated RPGs of the Last Decade, Ranked",
       "url": "https://polygon.com/best-rpgs-underrated-last-decade",
@@ -20519,7 +20502,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/11/475e02e6da09723fe2dd0469175d593a7c1fee39.jpg",
       "video_url": "https://stream.mux.com/f7g5H9V8J00Z02dfEO9ca1KLjjl6wYP76c02lpr778KhX00/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmN2c1SDlWOEowMFowMmRmRU85Y2ExS0xqamw2d1lQNzZjMDJscHI3NzhLaFgwMCIsImF1ZCI6InYiLCJleHAiOjE3OTQzNjUyMjMsImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.gwn8Pm-aIozD4IAlYdC3GOPNlPSzMpGoT6-dFe_d0Gh7k9fCyJil-bJqW9axWZTTh9URjvDThK515b0zVUzS-t9Cev3CJPl9DuPx7GB1x7aO-SBBosuuhNxqSeOqtdZSEvsjIgvAVVjoqNdQJmRMrjsGl0qVrmypG7EZ4b9quMYfW3wcjyFDm_qx0ngazudkBf2nPBT-AG8DWxdp02eKbzvGTz_LNtkxYSBphLBTvTUld4JzxD-CR-3ydcFEaXu8UgVxcpKYttt0xmLC195wyxdULD6FXZALNr_-o3ju1lODl4gcvzeBAHZ7OvsEH9WKuKe-7h7ebH4GDcSR6p5IXA",
       "threads_published_at": "2026-11-10T14:47:16.387644+00:00"
+    },
+    {
+      "fingerprint": "2a178ec9d3dd1a6faaa08f0f",
+      "title": "Big Walk’s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
+      "url": "https://gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-10T14:35:13+00:00",
+      "score": 12,
+      "event_key": "House House Big Walk AI usage controversy IGF jurors",
+      "title_ru": "Студия House House использовала ИИ при разработке Big Walk",
+      "threads_teaser_ru": "Студия House House раскрыла, что использовала ИИ при разработке Big Walk, чтобы решить критические технические проблемы. Это произошло на фоне того, как 19 членов жюри IGF объявили о бойкоте любых игр с применением генеративного ИИ на премии 2027 года.",
+      "telegram_message_id": "2473",
+      "telegram_url": "https://t.me/gamepulse_newss/2473",
+      "telegram_published_at": "2026-11-10T15:17:34.063870+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-10T14:47:16.387782+00:00"
+  "updated_at": "2026-11-10T15:17:34.063951+00:00"
 }
