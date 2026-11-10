@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e572e520f5d2ea32ec598369",
-      "title": "\"https hexatail.itch.io agent17\"",
-      "url": "https://store.steampowered.com/news/search",
-      "source": "Steam",
-      "published_at_source": "2026-10-13T17:00:00+00:00",
-      "score": 10,
-      "event_key": "Spyder Agent 8 release date announced",
-      "title_ru": "Анонсирована дата выхода Spyder: Agent 8",
-      "threads_teaser_ru": "Стала известна точная дата релиза Spyder: Agent 8. Игра выйдет 11 февраля 2027 года, а прямо сейчас в Steam можно добавить проект в свой список желаемого.",
-      "telegram_message_id": "1280",
-      "telegram_url": "https://t.me/gamepulse_newss/1280",
-      "telegram_published_at": "2026-10-15T04:02:27.573966+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg",
-      "threads_published_at": "2026-10-15T04:02:29.184984+00:00"
-    },
-    {
       "fingerprint": "ac3a87851c3692627fe5a608",
       "title": "The Fantik S1 Pro Precision Electric Screwdriver Set With up to 6Nm of Electric Torque Drops to $35",
       "url": "https://ign.com/articles/fantik-s1-pro-precision-electric-screwdriver-deal-october-2026",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-new-zealand-trick-header.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-10T17:32:06.228726+00:00"
+    },
+    {
+      "fingerprint": "fe01a29c394ac75f63ddf6d8",
+      "title": "5 Years Later, One of Anime’s Biggest Mysteries Has Officially Been Solved",
+      "url": "https://polygon.com/dandadan-okarun-backstory-reveal-traumatic",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T16:51:44+00:00",
+      "score": 12,
+      "event_key": "dandadan_okarun_backstory_reveal_chapter_252",
+      "title_ru": "Раскрыто прошлое Окаруна в манге Dandadan",
+      "threads_teaser_ru": "Глава 252 манги Dandadan спустя пять лет раскрыла тяжелое и трагичное прошлое Okarun. Автор Юкинобу Тацу показал его детские травмы, буллинг и попытку суицида, а также объяснил, как появление Момо навсегда изменило жизнь героя.",
+      "telegram_message_id": "2481",
+      "telegram_url": "https://t.me/gamepulse_newss/2481",
+      "telegram_published_at": "2026-11-10T17:46:56.992909+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/DAN-DA-DAN-Trailer-Still-©Yukinobu-Tatsu_SHUEISHA-DANDADAN-Production-Committee-2.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-10T17:32:06.228812+00:00"
+  "updated_at": "2026-11-10T17:46:56.992992+00:00"
 }
