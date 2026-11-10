@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9076b2fa93d0f9925384a3e5",
-      "title": "Living world, god-mind or \"something far more terrifying\": Etre is an eye-melting, Control-inspired action game about reshaping a cosmic brain",
-      "url": "https://rockpapershotgun.com/living-world-god-mind-or-something-far-more-terrifying-etre-is-an-eye-melting-control-inspired-action-game-about-reshaping-a-cosmic-brain",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T17:00:00+00:00",
-      "score": 7,
-      "event_key": "Studio Lifeforms announces Control-inspired action game Etre",
-      "title_ru": "Анонсирован экшен-адвенчур Etre от Studio Lifeforms",
-      "threads_teaser_ru": "Studio Lifeforms представили Etre — приключенческий экшен, вдохновленный Control. В роли «звездного прыгуна» Xyle предстоит исследовать планету-разум Orbis в поисках возлюбленной. Ваши действия определят, в кого превратится пробуждающийся интеллект Orbis.",
-      "telegram_message_id": "1278",
-      "telegram_url": "https://t.me/gamepulse_newss/1278",
-      "telegram_published_at": "2026-10-15T03:17:46.554836+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Etre.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-15T03:17:48.021380+00:00"
-    },
-    {
       "fingerprint": "7640b4c01b7f1dd562a227da",
       "title": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
       "url": "https://ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/W40-Dark-Heresy.jpg?w=300",
       "threads_published_at": "2026-11-10T17:02:22.916435+00:00"
+    },
+    {
+      "fingerprint": "bc3e86a70badf2391d6e352d",
+      "title": "Bandai Namco is liquidating Unknown 9: Awakening studio Reflector Entertainment, following multiple previous layoffs since the game's launch",
+      "url": "https://rockpapershotgun.com/bandai-namco-is-liquidating-unknown-9-awakening-studio-reflector-entertainment-following-multiple-previous-layoffs-since-the-games-launch",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-10T16:58:10+00:00",
+      "score": 14,
+      "event_key": "bandai namco liquidates reflector entertainment studio",
+      "title_ru": "Bandai Namco закрывает студию Reflector Entertainment",
+      "threads_teaser_ru": "Bandai Namco ликвидирует студию Reflector Entertainment, ответственную за экшен-адвенчуру Unknown 9: Awakening. Издатель понесет многомиллионные убытки.",
+      "telegram_message_id": "2479",
+      "telegram_url": "https://t.me/gamepulse_newss/2479",
+      "telegram_published_at": "2026-11-10T17:16:52.877676+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/unknown-9-awakening-haroona.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T17:02:22.916527+00:00"
+  "updated_at": "2026-11-10T17:16:52.877769+00:00"
 }
