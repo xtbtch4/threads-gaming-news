@@ -20516,9 +20516,10 @@
       "telegram_message_id": "2459",
       "telegram_url": "https://t.me/gamepulse_newss/2459",
       "telegram_published_at": "2026-11-10T09:46:59.022247+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/God-of-War-Ragnar%C3%B6k---State-of-Play-Sep-2022-Story-Trailer-_-PS5-%26-PS4-Games-1-1-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/God-of-War-Ragnar%C3%B6k---State-of-Play-Sep-2022-Story-Trailer-_-PS5-%26-PS4-Games-1-1-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-10T09:47:00.482713+00:00"
     }
   ],
-  "updated_at": "2026-11-10T09:46:59.022363+00:00"
+  "updated_at": "2026-11-10T09:47:00.482809+00:00"
 }
