@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e88c1e009879270087e19e35",
-      "title": "‘We Vibe Coded a New Epic Games Launcher’ – Epic’s New Store App Was Built Using AI",
-      "url": "https://ign.com/articles/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T14:33:23+00:00",
-      "score": 15,
-      "event_key": "epic_games_launcher_built_using_artificial_intelligence",
-      "title_ru": "Новый лаунчер Epic Games Store был создан с помощью искусственного интеллекта",
-      "threads_teaser_ru": "Компания Epic Games представила обновленный Epic Games Launcher, созданный с помощью генеративного искусственного интеллекта. Новое приложение стало быстрее, поддерживает Windows и Mac, а в будущем появится и на Linux.",
-      "telegram_message_id": "1243",
-      "telegram_url": "https://t.me/gamepulse_newss/1243",
-      "telegram_published_at": "2026-10-14T15:04:00.005395+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/egs-ai-build-blogroll-1791981252442.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T15:04:01.322002+00:00"
-    },
-    {
       "fingerprint": "1b1f8599d441bcee10548cef",
       "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
       "url": "https://eurogamer.net/guild-wars-2-living-world-expansions",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/2game-blaz-interview-street-fighter-league-1794274740009.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T02:02:24.688904+00:00"
+    },
+    {
+      "fingerprint": "79a12d039d4c8629279af80c",
+      "title": "Nike and Tekken Team Up For a King-Inspired Air Max Shoe",
+      "url": "https://ign.com/articles/nike-and-tekken-team-up-for-a-king-inspired-air-max-shoe",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T00:01:30+00:00",
+      "score": 9,
+      "event_key": "nike and tekken collaborate on air max shoes",
+      "title_ru": "Nike и Tekken анонсировали коллаборацию с кроссовками Air Max",
+      "threads_teaser_ru": "Подразделение Nike dotswoosh готовит совместную коллекцию с файтинг-франшизой Tekken, вдохновленную персонажем по имени King. Фанатам стоит ждать кроссовки Air Max 1 в нескольких расцветках.",
+      "telegram_message_id": "2444",
+      "telegram_url": "https://t.me/gamepulse_newss/2444",
+      "telegram_published_at": "2026-11-10T02:16:46.465520+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/03/20/tekken8kinggameplaytrailer-ign-blogroll-1679320106829.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T02:02:24.689010+00:00"
+  "updated_at": "2026-11-10T02:16:46.465607+00:00"
 }
