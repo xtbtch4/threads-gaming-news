@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b9586c7d4dd9c3c9868f8fe6",
-      "title": "Ex-ZA/UM developers reveal Red Rooster, an \"incendiary RPG\" that is very intentionally not trying to be a \"Disco Elysium successor\" or \"Disco-like\"",
-      "url": "https://eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T13:00:00+00:00",
-      "score": 11,
-      "event_key": "ex-zaum developers announce red rooster rpg",
-      "title_ru": "Бывшие разработчики Disco Elysium анонсировали RPG Red Rooster",
-      "threads_teaser_ru": "Бывшие авторы Disco Elysium из студии Summer Eternal представили Red Rooster — амбициозную физически ориентированную RPG на Unreal Engine без изометрии.",
-      "telegram_message_id": "1239",
-      "telegram_url": "https://t.me/gamepulse_newss/1239",
-      "telegram_published_at": "2026-10-14T14:03:10.739346+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Red-Rooster-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T14:03:12.813014+00:00"
-    },
-    {
       "fingerprint": "1d244c736361c0aee4c15c1f",
       "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
       "url": "https://eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/call-of-duty-warzone-modern-warfare-4-screen-4.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T01:02:23.694592+00:00"
+    },
+    {
+      "fingerprint": "51ffbcbddf3df3d78c6cbb71",
+      "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
+      "url": "https://ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T00:15:00+00:00",
+      "score": 9,
+      "event_key": "final fantasy vii remake rebirth switch 2 sale",
+      "title_ru": "Скидки на Final Fantasy VII Remake Intergrade и Final Fantasy VII Rebirth для Nintendo Switch 2",
+      "threads_teaser_ru": "В Nintendo eShop снизились цены на Final Fantasy VII Remake Intergrade и Final Fantasy VII Rebirth для Nintendo Switch 2. Это отличная возможность наверстать упущенное перед релизом финальной части трилогии в 2027 году.",
+      "telegram_message_id": "2440",
+      "telegram_url": "https://t.me/gamepulse_newss/2440",
+      "telegram_published_at": "2026-11-10T01:16:47.951182+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ffswitch-1793732870371.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T01:02:23.694670+00:00"
+  "updated_at": "2026-11-10T01:16:47.951267+00:00"
 }
