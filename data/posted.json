@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "60c446da862bdc573521e8a8",
-      "title": "Valve May Be Working on an OLED Steam Frame, According to Datamined Source Code",
-      "url": "https://ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T19:17:36+00:00",
-      "score": 10,
-      "event_key": "valve developing steam frame oled headset codename plano",
-      "title_ru": "В исходном коде Steam Frame нашли упоминание версии с OLED-дисплеями",
-      "threads_teaser_ru": "В коде Steam Frame обнаружили упоминание загадочного устройства под кодовым названием «Plano». Похоже, Valve изучает возможность выпуска версии гарнитуры с OLED-экранами и повышенным разрешением. Однако ждать новинку в ближайшее время не стоит.",
-      "telegram_message_id": "1257",
-      "telegram_url": "https://t.me/gamepulse_newss/1257",
-      "telegram_published_at": "2026-10-14T20:32:40.109901+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/11/frame-2-1789138504481.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T20:32:41.501940+00:00"
-    },
-    {
       "fingerprint": "e2b8f16da3835742e2863de5",
       "title": "Destiny 1 project, which aims to port the game to PC, seemingly gets a nod from Bungie boss",
       "url": "https://eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/zelda-blogroll-1794266299605.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T09:17:04.593035+00:00"
+    },
+    {
+      "fingerprint": "c6315bdbf19651aa80d5b039",
+      "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
+      "url": "https://eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-10T09:22:50+00:00",
+      "score": 13,
+      "event_key": "Nintendo updates Switch and Switch 2 to version 23.5.0",
+      "title_ru": "Nintendo выпустила обновление 23.5.0 для Switch и Switch 2",
+      "threads_teaser_ru": "Nintendo обновила прошивку Switch и Switch 2 до версии 23.5.0. Главное изменение — подготовка к запуску системы дарения игр между участниками семейной группы, который запланирован на 17 ноября 2026 года.",
+      "telegram_message_id": "2458",
+      "telegram_url": "https://t.me/gamepulse_newss/2458",
+      "telegram_published_at": "2026-11-10T09:32:17.545553+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/switch-2-gifting.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T09:17:04.593122+00:00"
+  "updated_at": "2026-11-10T09:32:17.545643+00:00"
 }
