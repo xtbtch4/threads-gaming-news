@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e9fd6bca929d08ee1ea6daaa",
-      "title": "The Street Fighter Cast Would Love to Make a Mortal Kombat Crossover Movie",
-      "url": "https://ign.com/articles/the-street-fighter-cast-would-love-to-make-a-mortal-kombat-crossover-movie",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T22:12:58+00:00",
-      "score": 9,
-      "event_key": "Street Fighter cast members express interest in Mortal Kombat crossover movie",
-      "title_ru": "Актеры фильма Street Fighter хотят кроссовер с Mortal Kombat",
-      "threads_teaser_ru": "Актеры предстоящего фильма Street Fighter заявили, что были бы не против сняться в кроссовере с Mortal Kombat. В обсуждении приняли участие почти все ключевые звезды ленты, включая Эндрю Кодзи и Ноа Сентинео. Узнайте, что они думают о столкновении двух легендарных франшиз.",
-      "telegram_message_id": "1268",
-      "telegram_url": "https://t.me/gamepulse_newss/1268",
-      "telegram_published_at": "2026-10-14T23:32:36.354094+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/street-fighter-cast-down-for-a-mortal-kombat-movie-1792015591074.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T23:32:37.835517+00:00"
-    },
-    {
       "fingerprint": "220e5690ec59f9687e214659",
       "title": "DC Studios Co-Boss Peter Safran Reaffirms Franchise Slate After Skydance Acquisition",
       "url": "https://ign.com/articles/peter-safran-dc-studios-slate-post-merger",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Oboro-no-Ichi-night-market.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T12:02:20.109944+00:00"
+    },
+    {
+      "fingerprint": "86bb5d0717ef6243a33012b8",
+      "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
+      "url": "https://rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-10T12:26:20+00:00",
+      "score": 12,
+      "event_key": "valve-adds-framerate-graphs-to-steam-deck-games",
+      "title_ru": "В Steam появились графики частоты кадров для Steam Deck",
+      "threads_teaser_ru": "В Steam появились графики частоты кадров для Steam Deck, показывающие реальную производительность игр на OLED и LCD моделях. Функция призвана дополнить привычные статусы совместимости.",
+      "telegram_message_id": "2469",
+      "telegram_url": "https://t.me/gamepulse_newss/2469",
+      "telegram_published_at": "2026-11-10T12:32:22.744564+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Steam-Deck-OLED-Baldurs-Gate-3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T12:02:20.110032+00:00"
+  "updated_at": "2026-11-10T12:32:22.744652+00:00"
 }
