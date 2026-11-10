@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "51fea6195b9918d4a8a4ad78",
-      "title": "The New A Court of Thorns and Roses Hardcover Box Set Gets a Massive Price Cut After Release",
-      "url": "https://ign.com/articles/new-a-court-of-thorns-and-roses-hardcover-box-set-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T20:10:49+00:00",
-      "score": 9,
-      "event_key": "A Court of Thorns and Roses hardcover box set discount",
-      "title_ru": "Набор книг A Court of Thorns and Roses получил скидку на Amazon",
-      "threads_teaser_ru": "Новый бокс-сет A Court of Thorns and Roses подешевел на Amazon на следующий день после старта продаж. Разбираемся, в чем особенность этого издания и как оно связано с будущими книгами серии, которые ожидаются в конце октября и начале следующего года.",
-      "telegram_message_id": "1264",
-      "telegram_url": "https://t.me/gamepulse_newss/1264",
-      "telegram_published_at": "2026-10-14T22:32:45.938460+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/acotar-box-set-1792005439442.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T22:32:47.497093+00:00"
-    },
-    {
       "fingerprint": "a94df2fd276632538f3a7eea",
       "title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
       "url": "https://polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T11:02:24.162004+00:00"
+    },
+    {
+      "fingerprint": "7e981b109aedb537b0bb4735",
+      "title": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-ipad-handheld",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-10T10:55:40+00:00",
+      "score": 11,
+      "event_key": "world of warcraft forever mobile handheld mods",
+      "title_ru": "World of Warcraft: Forever уже запускают на мобильных устройствах и портативных консолях с помощью модификаций",
+      "threads_teaser_ru": "Энтузиасты запустили World of Warcraft: Forever на смартфонах и портативных консолях с помощью фанатских модификаций с GitHub. Игру уже протестировали на устройствах AYN Thor и iPhone Duo, хотя пользователи отмечают сильный нагрев.",
+      "telegram_message_id": "2465",
+      "telegram_url": "https://t.me/gamepulse_newss/2465",
+      "telegram_published_at": "2026-11-10T11:16:52.890203+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T11:02:24.162096+00:00"
+  "updated_at": "2026-11-10T11:16:52.890297+00:00"
 }
