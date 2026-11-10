@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d8257107938f9495f652518e",
-      "title": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
-      "url": "https://rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T14:45:00+00:00",
-      "score": 14,
-      "event_key": "rockstar_union_busting_tribunal_extended_november",
-      "title_ru": "Судебное разбирательство между Rockstar и профсоюзом продлено до ноября",
-      "threads_teaser_ru": "Судебный процесс между профсоюзом IWGB и Rockstar Games продлен до ноября. Заключительные аргументы сторон пройдут 17 и 18 ноября, всего за несколько дней до релиза GTA 6.",
-      "telegram_message_id": "1242",
-      "telegram_url": "https://t.me/gamepulse_newss/1242",
-      "telegram_published_at": "2026-10-14T14:48:18.248010+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-lucia-relationship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T14:48:19.593123+00:00"
-    },
-    {
       "fingerprint": "e88c1e009879270087e19e35",
       "title": "‘We Vibe Coded a New Epic Games Launcher’ – Epic’s New Store App Was Built Using AI",
       "url": "https://ign.com/articles/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-10T01:46:48.293272+00:00"
+    },
+    {
+      "fingerprint": "e03faf121cf51e9eba2d1766",
+      "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+      "url": "https://ign.com/articles/we-dont-take-anything-for-granted-latam-is-the-strongest-region-in-street-fighter-6-and-its-because-theyre-hungrier-than-you",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T01:42:48+00:00",
+      "score": 9,
+      "event_key": "2game_wins_street_fighter_league_americas_2026_finals",
+      "title_ru": "Команда 2Game одержала победу на Street Fighter League Americas 2026 Finals",
+      "threads_teaser_ru": "Команда 2Game триумфовала на Street Fighter League Americas 2026 Finals благодаря победе состава из Латинской Америки. Впереди у коллектива подготовка к Capcom Cup.",
+      "telegram_message_id": "2443",
+      "telegram_url": "https://t.me/gamepulse_newss/2443",
+      "telegram_published_at": "2026-11-10T02:02:23.270617+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/2game-blaz-interview-street-fighter-league-1794274740009.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T01:46:48.293373+00:00"
+  "updated_at": "2026-11-10T02:02:23.270698+00:00"
 }
