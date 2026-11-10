@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "16329545ea51f0ccb3294e35",
-      "title": "GTA 6 Reviews: When They Could Be Released",
-      "url": "https://gamespot.com/articles/gta-6-reviews-when-they-could-be-released",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T18:53:45+00:00",
-      "score": 12,
-      "event_key": "gta-6-reviews-release-timing-rumor",
-      "title_ru": "Стало известно, когда могут выйти обзоры GTA 6",
-      "threads_teaser_ru": "Издание Insider Gaming поделилось информацией о том, когда стоит ждать публикации первых обзоров на ожидаемый экшен GTA 6 от компании Rockstar перед его релизом в ноябре.",
-      "telegram_message_id": "1254",
-      "telegram_url": "https://t.me/gamepulse_newss/1254",
-      "telegram_published_at": "2026-10-14T19:32:02.668656+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_01.jpg?w=300",
-      "threads_published_at": "2026-10-14T19:32:04.134936+00:00"
-    },
-    {
       "fingerprint": "178e0af6df1a408bf98efec7",
       "title": "Xbox Survey About Exclusives Includes A Nuclear Strategy, But Wait Just A Minute",
       "url": "https://gamespot.com/articles/xbox-survey-about-exclusives-includes-a-nuclear-strategy-but-wait-just-a-minute",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/mfishcable-1793990930191.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T08:17:38.578935+00:00"
+    },
+    {
+      "fingerprint": "3e12032e356f5c926f08d631",
+      "title": "15 Minutes of Attack on Titan 3 Gameplay",
+      "url": "https://gamespot.com/videos/15-minutes-of-attack-on-titan-3-gameplay",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-10T08:01:00+00:00",
+      "score": 9,
+      "event_key": "15 minutes of attack on titan 3 gameplay",
+      "title_ru": "15 минут игрового процесса Attack on Titan 3",
+      "threads_teaser_ru": "Появилось 15 минут геймплея предстоящей игры Attack on Titan 3. В ролике игрокам нужно защищать и сопровождать Eren Yeager в форме Titan, чтобы остановить проникновение титанов в город.",
+      "telegram_message_id": "2455",
+      "telegram_url": "https://t.me/gamepulse_newss/2455",
+      "telegram_published_at": "2026-11-10T08:32:12.745542+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gp_aot3_v5.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-10T08:17:38.579028+00:00"
+  "updated_at": "2026-11-10T08:32:12.745629+00:00"
 }
