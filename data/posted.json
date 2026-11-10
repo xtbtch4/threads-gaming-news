@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b794001ffd513d2ae30a14c2",
-      "title": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
-      "url": "https://rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T11:20:34+00:00",
-      "score": 6,
-      "event_key": "valve discontinues index vr headset for steam frame",
-      "title_ru": "Valve прекращает продажи VR-шлема Valve Index",
-      "threads_teaser_ru": "Valve распродает остатки VR-комплектов Valve Index со скидкой 20%, официально завершая их производство. Компания переключает внимание на новую гарнитуру Steam Frame, спрос на которую уже сформировал очередь до 2027 года.",
-      "telegram_message_id": "1285",
-      "telegram_url": "https://t.me/gamepulse_newss/1285",
-      "telegram_published_at": "2026-10-15T05:47:30.183211+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/half-life-alyx-valve-index.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-15T05:47:33.173943+00:00"
-    },
-    {
       "fingerprint": "06a0af9e6112105debdfcb9a",
       "title": "How to defeat Medusa in Castlevania Belmont's Curse",
       "url": "https://polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mario-clash.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-10T19:02:49.248274+00:00"
+    },
+    {
+      "fingerprint": "e5b21a72438aaa1824a50210",
+      "title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
+      "url": "https://gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-10T19:03:44+00:00",
+      "score": 15,
+      "event_key": "World of Warcraft: Forever first post-launch updates and class changes",
+      "title_ru": "World of Warcraft: Forever получило первые крупные изменения",
+      "threads_teaser_ru": "Blizzard выпустила первые изменения для World of Warcraft: Forever: опыт за убийство врагов в подземельях увеличен на 50%. Также 10 ноября стартуют правки классов, которые, в частности, затронут Enhancement Shaman, Hunter и Warlock.",
+      "telegram_message_id": "2486",
+      "telegram_url": "https://t.me/gamepulse_newss/2486",
+      "telegram_published_at": "2026-11-10T19:47:03.351335+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-First-Post-Launch-Changes.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-10T19:02:49.248363+00:00"
+  "updated_at": "2026-11-10T19:47:03.351418+00:00"
 }
