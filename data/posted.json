@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ca02b57e785af270b7f2ab41",
-      "title": "Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks “Humbling” Reality Of Indie Dev",
-      "url": "https://gamespot.com/articles/jeff-kaplan-was-an-industry-icon-now-peers-ignore-his-emails-ex-overwatch-director-talks-humbling-reality-of-indie-dev",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T16:34:06+00:00",
-      "score": 5,
-      "event_key": "Jeff Kaplan leaves Blizzard to lead indie studio Kintsugiyama",
-      "title_ru": "Бывший геймдиректор Overwatch Джефф Каплан рассказал о переходе в инди-разработку",
-      "threads_teaser_ru": "Джефф Каплан, бывший лидер разработки Overwatch, сменил корпоративную жизнь на инди-студию Kintsugiyama. Теперь он создает игру The Legend of California, признаваясь, что переход к независимой разработке стал для него непростым испытанием.",
-      "telegram_message_id": "1291",
-      "telegram_url": "https://t.me/gamepulse_newss/1291",
-      "telegram_published_at": "2026-10-15T07:17:27.891950+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/3054247-overwatch_jeffkaplan_01.webp?w=300",
-      "threads_published_at": "2026-10-15T07:17:29.389601+00:00"
-    },
-    {
       "fingerprint": "a2e9251d2b4270db129d6b45",
       "title": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
       "url": "https://eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fairgames.png?w=300",
       "threads_published_at": "2026-11-10T21:02:43.739220+00:00"
+    },
+    {
+      "fingerprint": "5bcebca72f7da5fed5fd1fe3",
+      "title": "Someone Got Halo 1 Running on a Sega Dreamcast",
+      "url": "https://ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T19:47:58+00:00",
+      "score": 13,
+      "event_key": "Halo Combat Evolved ported to Sega Dreamcast",
+      "title_ru": "Halo: Combat Evolved портировали на Sega Dreamcast",
+      "threads_teaser_ru": "Энтузиаст запустил Halo: Combat Evolved на Sega Dreamcast. Проект под названием Halo: Dreamcast Evolved уже включает рабочий мультиплеер и кампанию, которая готова на 77%. Автор обещает выпустить порт до конца года.",
+      "telegram_message_id": "2492",
+      "telegram_url": "https://t.me/gamepulse_newss/2492",
+      "telegram_published_at": "2026-11-10T21:17:05.916249+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/h1-1794340308833.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T21:02:43.739310+00:00"
+  "updated_at": "2026-11-10T21:17:05.916349+00:00"
 }
