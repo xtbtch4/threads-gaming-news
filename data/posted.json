@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bd69874fa1a4eee0bff7c424",
-      "title": "How to get to the top of the Prison Tower in Castlevania Belmont's Curse",
-      "url": "https://polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane",
-      "source": "Polygon",
-      "published_at_source": "2026-10-15T04:01:18+00:00",
-      "score": 5,
-      "event_key": "getting to the top of the Prison Tower in Castlevania: Belmont's Curse",
-      "title_ru": "Гайд: как добраться до вершины Prison Tower в Castlevania: Belmont's Curse",
-      "threads_teaser_ru": "Застряли в Prison Tower в Castlevania: Belmont's Curse и не знаете, как добраться до босса Warrior? Рассказываем, где искать спрятанный кран плотника и какие манипуляции с хлыстом и анкерами потребуются для открытия прохода на крышу башни.",
-      "telegram_message_id": "1287",
-      "telegram_url": "https://t.me/gamepulse_newss/1287",
-      "telegram_published_at": "2026-10-15T06:17:54.886625+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevaniabelmontscurse_guide_prisontower_lead.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-15T06:17:56.371749+00:00"
-    },
-    {
       "fingerprint": "bda43afeb7cf954fbc34580f",
       "title": "8 Best Science Fantasy Books of the 21st Century",
       "url": "https://polygon.com/best-science-fantasy-books-21st-century",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FM27-Xbox-Key-Art-Request_Horizontal-1920x1080-1-7cfa15cafc015bcbca57.jpg",
       "threads_published_at": "2026-11-10T20:02:45.789064+00:00"
+    },
+    {
+      "fingerprint": "86c62147e507ae387605c9fc",
+      "title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes",
+      "url": "https://ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T19:16:40+00:00",
+      "score": 13,
+      "event_key": "burger king italy magic the gathering collaboration launch",
+      "title_ru": "Burger King в Италии запустил коллаборацию с Magic: The Gathering",
+      "threads_teaser_ru": "В Италии Burger King выпустил лимитированный набор с аксессуарами для Magic: The Gathering. В комплект The Great Gathering Bundle входят тематический декбокс и 100 протекторов, оформленных в стиле бургера Whopper. Акция продлится до 30 ноября, но доступна только в итальянских ресторанах.",
+      "telegram_message_id": "2488",
+      "telegram_url": "https://t.me/gamepulse_newss/2488",
+      "telegram_published_at": "2026-11-10T20:17:23.848747+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/burgerkingmtg-1794335089331.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T20:02:45.789155+00:00"
+  "updated_at": "2026-11-10T20:17:23.848826+00:00"
 }
