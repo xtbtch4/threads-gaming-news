@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c25c35a5cbe3ddb2830d8b62",
-      "title": "Ex-Overwatch Director Jeff Kaplan Says He Never Wanted The Spotlight, But The Game Needed A Face",
-      "url": "https://gamespot.com/articles/ex-overwatch-director-jeff-kaplan-says-he-never-wanted-the-spotlight-but-the-game-needed-a-face",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T16:34:55+00:00",
-      "score": 12,
-      "event_key": "jeff-kaplan-reflects-on-overwatch-public-role",
-      "title_ru": "Jeff Kaplan рассказал о роли публичного лица Overwatch",
-      "threads_teaser_ru": "Бывший геймдиректор Overwatch Jeff Kaplan признался, что роль публичного лица игры давалась ему тяжело из-за нелюбви к вниманию и токсичности сообщества. После ухода из Blizzard в 2021 году он смог уйти в тень.",
-      "telegram_message_id": "1250",
-      "telegram_url": "https://t.me/gamepulse_newss/1250",
-      "telegram_published_at": "2026-10-14T16:47:10.360947+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/09/Overwatch-season-4.jpg?w=300",
-      "threads_published_at": "2026-10-14T16:47:11.785780+00:00"
-    },
-    {
       "fingerprint": "0ab3643339dbe99712c07608",
       "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
       "url": "https://eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
@@ -20519,7 +20502,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wonder-woman-alex-ross-dc.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4",
       "threads_published_at": "2026-11-10T04:17:20.712305+00:00"
+    },
+    {
+      "fingerprint": "1a5bb0fb37ae594c3c02e309",
+      "title": "Cops Arrest Dad For Leaving 6-Year-Old In Line Overnight To Save Spot For Pokemon Cards",
+      "url": "https://gamespot.com/articles/cops-arrest-dad-for-leaving-6-year-old-in-line-overnight-to-save-spot-for-pokemon-cards",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-09T16:14:01+00:00",
+      "score": 7,
+      "event_key": "South Carolina man arrested leaving child in Pokemon card line",
+      "title_ru": "В Южной Каролине арестовали мужчину, оставившего ребенка в очереди за Pokemon Trading Card Game",
+      "threads_teaser_ru": "Мужчина оставил шестилетнюю дочь одну в ночной очереди у магазина, чтобы самому купить редкие карты Pokemon. Спустя час к ребенку вызвали полицию, а отца позже арестовали.",
+      "telegram_message_id": "2451",
+      "telegram_url": "https://t.me/gamepulse_newss/2451",
+      "telegram_published_at": "2026-11-10T07:17:03.731156+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/poke-Large.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-10T04:17:20.712418+00:00"
+  "updated_at": "2026-11-10T07:17:03.731242+00:00"
 }
