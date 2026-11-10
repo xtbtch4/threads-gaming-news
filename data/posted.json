@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2bc2a8724a50b5ac13b143c3",
-      "title": "Total War Fans Blast New Remaster Over Bugs, AI Accusations",
-      "url": "https://polygon.com/total-war-shogun-2-complete-edition",
-      "source": "Polygon",
-      "published_at_source": "2026-10-14T20:29:56+00:00",
-      "score": 6,
-      "event_key": "Total War: Shogun 2 - Complete Edition negative steam reception",
-      "title_ru": "Total War: Shogun 2 - Complete Edition получила «крайне отрицательные» отзывы в Steam",
-      "threads_teaser_ru": "Новое переиздание Total War: Shogun 2 - Complete Edition встретило волну хейта в Steam. Игроки жалуются на обилие багов, отсутствие поддержки Steam Workshop и спорное качество графики, подозрительно напоминающее работу ИИ.",
-      "telegram_message_id": "1283",
-      "telegram_url": "https://t.me/gamepulse_newss/1283",
-      "telegram_published_at": "2026-10-15T05:17:22.808877+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/total-war-shogun-2.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-8_v4-1792007886.mp4",
-      "threads_published_at": "2026-10-15T05:17:24.320464+00:00"
-    },
-    {
       "fingerprint": "2e297b18068bbaa65fdaac5a",
       "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
       "url": "https://polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year",
@@ -20520,7 +20502,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4",
       "threads_published_at": "2026-11-10T18:17:03.897505+00:00"
+    },
+    {
+      "fingerprint": "0ed0cf5e37de1debd1a3d349",
+      "title": "Side Effects Guaranteed in the First DLC For The Outer Worlds 2, Coming December 2",
+      "url": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-10T18:00:00+00:00",
+      "score": 14,
+      "event_key": "The Outer Worlds 2 Side Effects Guaranteed DLC release date",
+      "title_ru": "Первое дополнение для The Outer Worlds 2 выйдет 2 декабря",
+      "threads_teaser_ru": "Стала известна дата выхода первого сюжетного расширения для The Outer Worlds 2. Дополнение Side Effects Guaranteed предложит игрокам новый регион, повышение лимита уровня до 36, свежие перки и оружие. Релиз состоится уже 2 декабря.",
+      "telegram_message_id": "2484",
+      "telegram_url": "https://t.me/gamepulse_newss/2484",
+      "telegram_published_at": "2026-11-10T18:47:12.140910+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_TOW-Expansion_KeyArt_Horizontal-3ff701b040bc3de8c709.jpg"
     }
   ],
-  "updated_at": "2026-11-10T18:17:03.897640+00:00"
+  "updated_at": "2026-11-10T18:47:12.141010+00:00"
 }
