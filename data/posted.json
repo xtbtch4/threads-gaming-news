@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7640b4c01b7f1dd562a227da",
-      "title": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
-      "url": "https://ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T22:04:54+00:00",
-      "score": 6,
-      "event_key": "Mick Gordon composes boss music for Warhammer 40,000: Boltgun 2",
-      "title_ru": "Композитор Mick Gordon написал музыку для финального босса в Warhammer 40,000: Boltgun 2",
-      "threads_teaser_ru": "Mick Gordon рассказал, как писал музыку для финала Warhammer 40,000: Boltgun 2. Композитор Doom работал над треком «Ascent of the Arkifane», изучая записи геймплея, чтобы идеально подобрать темп под масштабную битву с боссом.",
-      "telegram_message_id": "1279",
-      "telegram_url": "https://t.me/gamepulse_newss/1279",
-      "telegram_published_at": "2026-10-15T03:47:30.188309+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/05/19/boltgun-dlc-blogroll-1747685562957.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T03:47:31.391510+00:00"
-    },
-    {
       "fingerprint": "e572e520f5d2ea32ec598369",
       "title": "\"https hexatail.itch.io agent17\"",
       "url": "https://store.steampowered.com/news/search",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/unknown-9-awakening-haroona.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T17:16:54.326579+00:00"
+    },
+    {
+      "fingerprint": "7fe1ca8602311b8ad0ad049f",
+      "title": "GTA 6 Officially Breaks Pre-order Records on PlayStation and Xbox Stores",
+      "url": "https://polygon.com/gta-6-pre-order-records-ps5-xbox-series-x",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T16:40:33+00:00",
+      "score": 14,
+      "event_key": "gta-6-breaks-pre-order-records-playstation-xbox",
+      "title_ru": "GTA 6 установила рекорд по предзаказам на PlayStation и Xbox",
+      "threads_teaser_ru": "Grand Theft Auto 6 установила исторический рекорд по предзаказам в цифровых магазинах PlayStation и Xbox, значительно превзойдя ожидания издателя Take-Two Interactive. Релиз игры состоится уже 19 ноября.",
+      "telegram_message_id": "2480",
+      "telegram_url": "https://t.me/gamepulse_newss/2480",
+      "telegram_published_at": "2026-11-10T17:32:04.958747+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-new-zealand-trick-header.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-10T17:16:54.326678+00:00"
+  "updated_at": "2026-11-10T17:32:04.958839+00:00"
 }
