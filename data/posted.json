@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2e297b18068bbaa65fdaac5a",
-      "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
-      "url": "https://polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year",
-      "source": "Polygon",
-      "published_at_source": "2026-10-14T20:01:39+00:00",
-      "score": 6,
-      "event_key": "Polygon Point It Out episode discuss GTA 6 leaks and AAA games",
-      "title_ru": "Новый выпуск шоу Point It Out! от Polygon: обсуждение GTA 6, мобильных портов и главных игр года",
-      "threads_teaser_ru": "В новом выпуске Point It Out! обсудили утечки GTA 6, портирование любимой геймерами игры на мобильные платформы и неожиданного фаворита среди AAA-проектов года. В эфире также прошла тематическая презентация от редактора Polygon Giovanni Colantonio.",
-      "telegram_message_id": "1284",
-      "telegram_url": "https://t.me/gamepulse_newss/1284",
-      "telegram_published_at": "2026-10-15T05:33:05.853868+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pio-thumb-ep-7.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-15T05:33:07.365139+00:00"
-    },
-    {
       "fingerprint": "b794001ffd513d2ae30a14c2",
       "title": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
       "url": "https://rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_TOW-Expansion_KeyArt_Horizontal-3ff701b040bc3de8c709.jpg",
       "threads_published_at": "2026-11-10T18:47:13.539149+00:00"
+    },
+    {
+      "fingerprint": "ee6cbe50f0e823224b139859",
+      "title": "Nintendo Officially Shuts Down Switch 2 Jailbreak in New Update",
+      "url": "https://polygon.com/nintendo-switch-2-jailbreak-update",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T17:51:01+00:00",
+      "score": 12,
+      "event_key": "nintendo-switches-2-firmware-update-blocks-jailbreak",
+      "title_ru": "Nintendo выпустила обновление, блокирующее джейлбрейк Switch 2",
+      "threads_teaser_ru": "Nintendo выпустила обновление 23.5.0 для Switch 2, которое закрыло популярный эксплойт для джейлбрейка. Ранее хакеры смогли получить доступ к системным файлам и запустить модифицированную Mario Kart World.",
+      "telegram_message_id": "2485",
+      "telegram_url": "https://t.me/gamepulse_newss/2485",
+      "telegram_published_at": "2026-11-10T19:02:47.926705+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mario-clash.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-10T18:47:13.539252+00:00"
+  "updated_at": "2026-11-10T19:02:47.926787+00:00"
 }
