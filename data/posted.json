@@ -20516,9 +20516,10 @@
       "telegram_message_id": "2473",
       "telegram_url": "https://t.me/gamepulse_newss/2473",
       "telegram_published_at": "2026-11-10T15:17:34.063870+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg?w=300",
+      "threads_published_at": "2026-11-10T15:17:35.596971+00:00"
     }
   ],
-  "updated_at": "2026-11-10T15:17:34.063951+00:00"
+  "updated_at": "2026-11-10T15:17:35.597061+00:00"
 }
