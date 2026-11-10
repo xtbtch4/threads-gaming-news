@@ -20515,10 +20515,11 @@
       "telegram_message_id": "2450",
       "telegram_url": "https://t.me/gamepulse_newss/2450",
       "telegram_published_at": "2026-11-10T04:17:19.218261+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wonder-woman-alex-ross-dc.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4",
+      "threads_published_at": "2026-11-10T04:17:20.712305+00:00"
     }
   ],
-  "updated_at": "2026-11-10T04:17:19.218356+00:00"
+  "updated_at": "2026-11-10T04:17:20.712418+00:00"
 }
