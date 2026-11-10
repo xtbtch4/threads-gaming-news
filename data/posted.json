@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "220e5690ec59f9687e214659",
-      "title": "DC Studios Co-Boss Peter Safran Reaffirms Franchise Slate After Skydance Acquisition",
-      "url": "https://ign.com/articles/peter-safran-dc-studios-slate-post-merger",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T23:42:57+00:00",
-      "score": 11,
-      "event_key": "peter-safran-dc-studios-slate-post-skydance-acquisition",
-      "title_ru": "Peter Safran высказался о планах DC Studios после сделки со Skydance",
-      "threads_teaser_ru": "Сопредседатель DC Studios Peter Safran обсудил статус будущих проектов после покупки Warner Bros. компанией Skydance. Он рассказал о хорроре Clayface, сериале The People v. Gorilla Grodd и других фильмах вселенной.",
-      "telegram_message_id": "1269",
-      "telegram_url": "https://t.me/gamepulse_newss/1269",
-      "telegram_published_at": "2026-10-15T00:02:43.011613+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/gettyimages-2300124259-1792020779595.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T00:02:44.427947+00:00"
-    },
-    {
       "fingerprint": "86f6156f3af00f2b096b3472",
       "title": "The MSI Codex R2 Intel Edition RTX 5070 Prebuilt Gaming PC Drops to $1449 With Free Delivery",
       "url": "https://ign.com/articles/msi-codex-r2-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Steam-Deck-OLED-Baldurs-Gate-3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T12:32:24.304698+00:00"
+    },
+    {
+      "fingerprint": "9471637cb52ae3e5f3785916",
+      "title": "Tripwire Interactive says it's laying off 36 staff in a \"necessary\" decision, while reassuring that Killing Floor 3 and Maneater 2 are still in active development",
+      "url": "https://rockpapershotgun.com/tripwire-interactive-says-its-laying-off-36-staff-in-a-necessary-decision-while-reassuring-that-killing-floor-3-and-maneater-2-are-still-in-active-development",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-10T13:01:00+00:00",
+      "score": 12,
+      "event_key": "tripwire interactive layoffs 36 staff killing floor 3 maneater 2",
+      "title_ru": "Tripwire Interactive объявила об увольнении 36 сотрудников",
+      "threads_teaser_ru": "Студия Tripwire Interactive объявила о сокращении 36 сотрудников в рамках оптимизации. Несмотря на увольнения, разработчики заверили, что Killing Floor 3 и Maneater 2 продолжают создаваться.",
+      "telegram_message_id": "2470",
+      "telegram_url": "https://t.me/gamepulse_newss/2470",
+      "telegram_published_at": "2026-11-10T13:02:36.121805+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Killing-Floor-3-Flesh-Pound.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T12:32:24.304785+00:00"
+  "updated_at": "2026-11-10T13:02:36.121890+00:00"
 }
