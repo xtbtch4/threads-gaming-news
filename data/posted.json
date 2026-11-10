@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f0f1c2b5844cce4421b9bd02",
-      "title": "Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding”",
-      "url": "https://gamespot.com/articles/take-two-ceos-response-to-second-gta-6-delay-please-tell-me-youre-kidding",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T12:44:12+00:00",
-      "score": 15,
-      "event_key": "take-two-ceo-strauss-zelnick-response-to-gta-6-delay",
-      "title_ru": "Реакция главы Take-Two на второй перенос GTA 6",
-      "threads_teaser_ru": "Глава publishing в Rockstar Дженнифер Колбе рассказала, как гендиректор Take-Two Штраус Зельник отреагировал на второй перенос GTA 6 на ноябрь 2026 года. Руководитель был удивлен новостью, но позже поддержал решение команды.",
-      "telegram_message_id": "1236",
-      "telegram_url": "https://t.me/gamepulse_newss/1236",
-      "telegram_published_at": "2026-10-14T13:16:58.071927+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_02_c0da94.jpg?w=300",
-      "threads_published_at": "2026-10-14T13:16:59.570307+00:00"
-    },
-    {
       "fingerprint": "c5e89e2b46b8e3a87f0cc416",
       "title": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
       "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/strauss-1794258697165.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-09T23:46:43.043557+00:00"
+    },
+    {
+      "fingerprint": "b269844243cb3e9789da867b",
+      "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
+      "url": "https://ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T23:18:51+00:00",
+      "score": 15,
+      "event_key": "take-two-enhancing-defenses-against-ai-reverse-engineering-gta-6",
+      "title_ru": "Take-Two усиливает защиту против угрозы ИИ-реверсинжиниринга GTA 6",
+      "threads_teaser_ru": "Take-Two усиливает техническую защиту и юридические меры на фоне угрозы ИИ-реверсинжиниринга и потенциального пиратства GTA 6.",
+      "telegram_message_id": "2437",
+      "telegram_url": "https://t.me/gamepulse_newss/2437",
+      "telegram_published_at": "2026-11-10T00:16:40.948819+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-hawk-and-little-morgan-revolvers-01-1794266239211.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-09T23:46:43.043645+00:00"
+  "updated_at": "2026-11-10T00:16:40.948896+00:00"
 }
