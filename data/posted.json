@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "228ce22ef4c9763f257a126b",
-      "title": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
-      "url": "https://rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-14T16:30:00+00:00",
-      "score": 14,
-      "event_key": "fortnite_coming_to_linux_easy_anti_cheat",
-      "title_ru": "Fortnite скоро появится на Linux благодаря обновлению Easy Anti-Cheat",
-      "threads_teaser_ru": "Epic Games перерабатывает Easy Anti-Cheat ради запуска Fortnite на Linux. Новая версия EAC Linux v2 использует современные функции безопасности платформы, но поддержка Steam Deck пока не планируется.",
-      "telegram_message_id": "1249",
-      "telegram_url": "https://t.me/gamepulse_newss/1249",
-      "telegram_published_at": "2026-10-14T16:32:21.432845+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/fortnite-ftc-issues-more-refunds-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T16:32:22.944783+00:00"
-    },
-    {
       "fingerprint": "c25c35a5cbe3ddb2830d8b62",
       "title": "Ex-Overwatch Director Jeff Kaplan Says He Never Wanted The Spotlight, But The Game Needed A Face",
       "url": "https://gamespot.com/articles/ex-overwatch-director-jeff-kaplan-says-he-never-wanted-the-spotlight-but-the-game-needed-a-face",
@@ -20518,7 +20501,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/image-1794257178609.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T03:32:51.936541+00:00"
+    },
+    {
+      "fingerprint": "5b507f4b76e301022d8fd839",
+      "title": "Superman Sequel Will Officially Introduce the DCU’s Wonder Woman, Report Says",
+      "url": "https://polygon.com/superman-2-man-of-tomorrow-wonder-woman-adria-arjona",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T21:12:33+00:00",
+      "score": 7,
+      "event_key": "Wonder Woman debut in Superman Man of Tomorrow movie",
+      "title_ru": "В сиквеле Superman: Man of Tomorrow появится Wonder Woman",
+      "threads_teaser_ru": "Появились новые подробности о грядущем фильме DC Studios Man of Tomorrow. Отчеты указывают на то, что в ленте дебютирует Wonder Woman, а также раскрыты планы на будущий фильм о Batman и возможные сиквелы про Superman.",
+      "telegram_message_id": "2450",
+      "telegram_url": "https://t.me/gamepulse_newss/2450",
+      "telegram_published_at": "2026-11-10T04:17:19.218261+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wonder-woman-alex-ross-dc.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4"
     }
   ],
-  "updated_at": "2026-11-10T03:32:51.936632+00:00"
+  "updated_at": "2026-11-10T04:17:19.218356+00:00"
 }
