@@ -20515,9 +20515,10 @@
       "telegram_message_id": "2469",
       "telegram_url": "https://t.me/gamepulse_newss/2469",
       "telegram_published_at": "2026-11-10T12:32:22.744564+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Steam-Deck-OLED-Baldurs-Gate-3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Steam-Deck-OLED-Baldurs-Gate-3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-10T12:32:24.304698+00:00"
     }
   ],
-  "updated_at": "2026-11-10T12:32:22.744652+00:00"
+  "updated_at": "2026-11-10T12:32:24.304785+00:00"
 }
