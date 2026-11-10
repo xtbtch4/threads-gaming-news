@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "809ef2e3efe3d634a5a3c843",
-      "title": "Callina Liang Says She Felt 'A Lot of Pressure' After Seeing How Reddit Reacted to Her Being Cast as Chun-Li",
-      "url": "https://ign.com/articles/callina-liang-says-she-felt-a-lot-of-pressure-after-seeing-how-reddit-reacted-to-her-being-cast-as-chun-li",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T22:50:00+00:00",
-      "score": 9,
-      "event_key": "Callina Liang pressure reaction casting Chun-Li Street Fighter movie",
-      "title_ru": "Callina Liang рассказала о давлении фанатов после получения роли Chun-Li в фильме Street Fighter",
-      "threads_teaser_ru": "Callina Liang призналась, что чтение фанатских обсуждений на Reddit после анонса её роли Chun-Li в фильме Street Fighter заставило её сильно нервничать. Актриса рассказала, как готовилась к образу и что помогло ей добиться нужной формы за два месяца.",
-      "telegram_message_id": "1266",
-      "telegram_url": "https://t.me/gamepulse_newss/1266",
-      "telegram_published_at": "2026-10-14T23:02:49.958579+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/08/streetthumb-1791476670261.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T23:02:51.420231+00:00"
-    },
-    {
       "fingerprint": "0220036644981de59b843648",
       "title": "Xbox Reportedly Surveys Users On Return to Full Exclusivity for its Games",
       "url": "https://ign.com/articles/xbox-reportedly-surveys-users-on-return-to-full-exclusivity-for-its-games",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/skyrim-ikea-mod-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T11:31:51.325204+00:00"
+    },
+    {
+      "fingerprint": "d46c7cf4e8cc9c03415f391e",
+      "title": "4 most disappointing game franchises that never topped their original",
+      "url": "https://polygon.com/gaming-series-first-entry-best",
+      "source": "Polygon",
+      "published_at_source": "2026-11-09T16:00:00+00:00",
+      "score": 6,
+      "event_key": "four disappointing game franchises that never topped originals",
+      "title_ru": "Четыре разочаровывающие игроковые франшизы, которые не смогли превзойти оригиналы",
+      "threads_teaser_ru": "Игровые серии часто достигают пика в самом начале, после чего их качество начинает снижаться. В обзоре рассматриваются четыре франшизы, включая Dragon Age, Marvel's Spider-Man, Banjo-Kazooie и Halo, которые не смогли превзойти собственные оригиналы.",
+      "telegram_message_id": "2467",
+      "telegram_url": "https://t.me/gamepulse_newss/2467",
+      "telegram_published_at": "2026-11-10T11:47:13.431934+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/assets_2026_06_1780857686_3b-hce_energy_sword_no_logo_3840x2180.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-10T11:31:51.325292+00:00"
+  "updated_at": "2026-11-10T11:47:13.432031+00:00"
 }
