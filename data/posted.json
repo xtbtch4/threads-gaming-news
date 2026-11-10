@@ -20516,9 +20516,10 @@
       "telegram_message_id": "2479",
       "telegram_url": "https://t.me/gamepulse_newss/2479",
       "telegram_published_at": "2026-11-10T17:16:52.877676+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/unknown-9-awakening-haroona.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/unknown-9-awakening-haroona.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-10T17:16:54.326579+00:00"
     }
   ],
-  "updated_at": "2026-11-10T17:16:52.877769+00:00"
+  "updated_at": "2026-11-10T17:16:54.326678+00:00"
 }
