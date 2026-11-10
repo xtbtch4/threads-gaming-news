@@ -20516,9 +20516,10 @@
       "telegram_message_id": "2456",
       "telegram_url": "https://t.me/gamepulse_newss/2456",
       "telegram_published_at": "2026-11-10T09:02:57.437702+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/chainsawboxset-1794260995824.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/chainsawboxset-1794260995824.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-10T09:02:59.007471+00:00"
     }
   ],
-  "updated_at": "2026-11-10T09:02:57.437836+00:00"
+  "updated_at": "2026-11-10T09:02:59.007570+00:00"
 }
