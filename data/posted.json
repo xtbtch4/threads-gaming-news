@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d88363e1f598e02ac0660dfc",
-      "title": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened",
-      "url": "https://gamespot.com/articles/gta-6-could-have-been-even-bigger-and-released-years-sooner-but-then-these-things-happened",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T14:02:52+00:00",
-      "score": 12,
-      "event_key": "GTA 6 development history and scope changes reported",
-      "title_ru": "Масштабы и сроки разработки GTA 6 были изменены",
-      "threads_teaser_ru": "Разработка GTA 6 могла завершиться на годы раньше, а сама карта игры планировалась гораздо масштабнее. Rockstar пришлось изменить планы из-за Red Dead Redemption II и пересмотреть подход к производству проектов. Рассказываем, как менялось видение игры перед релизом.",
-      "telegram_message_id": "1241",
-      "telegram_url": "https://t.me/gamepulse_newss/1241",
-      "telegram_published_at": "2026-10-14T14:33:58.205478+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Port_Gellhorn_06.jpg?w=300",
-      "threads_published_at": "2026-10-14T14:33:59.718158+00:00"
-    },
-    {
       "fingerprint": "d8257107938f9495f652518e",
       "title": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
       "url": "https://rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/cod-1794269315961.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T01:32:12.556505+00:00"
+    },
+    {
+      "fingerprint": "c7019bb4ce80bdaf1d9c6fe4",
+      "title": "Coming soon: Gift digital games to family group members - News - Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/coming-soon-gift-digital-games-to-family-group-members",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-09T17:00:00+00:00",
+      "score": 12,
+      "event_key": "nintendo-eshop-digital-game-gifting-family-group",
+      "title_ru": "В Nintendo eShop появится функция дарения цифровых игр",
+      "threads_teaser_ru": "Уже 16 ноября в Nintendo eShop на Nintendo Switch и Nintendo Switch 2 появится функция дарения цифровых игр и DLC другим участникам семейной группы.",
+      "telegram_message_id": "2442",
+      "telegram_url": "https://t.me/gamepulse_newss/2442",
+      "telegram_published_at": "2026-11-10T01:46:46.947910+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-10T01:32:12.556604+00:00"
+  "updated_at": "2026-11-10T01:46:46.948023+00:00"
 }
