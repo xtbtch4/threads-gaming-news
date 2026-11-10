@@ -20514,9 +20514,10 @@
       "telegram_message_id": "2444",
       "telegram_url": "https://t.me/gamepulse_newss/2444",
       "telegram_published_at": "2026-11-10T02:16:46.465520+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2023/03/20/tekken8kinggameplaytrailer-ign-blogroll-1679320106829.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2023/03/20/tekken8kinggameplaytrailer-ign-blogroll-1679320106829.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-10T02:16:48.291079+00:00"
     }
   ],
-  "updated_at": "2026-11-10T02:16:46.465607+00:00"
+  "updated_at": "2026-11-10T02:16:48.291166+00:00"
 }
