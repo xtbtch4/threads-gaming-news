@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "86f6156f3af00f2b096b3472",
-      "title": "The MSI Codex R2 Intel Edition RTX 5070 Prebuilt Gaming PC Drops to $1449 With Free Delivery",
-      "url": "https://ign.com/articles/msi-codex-r2-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T23:20:00+00:00",
-      "score": 9,
-      "event_key": "MSI Codex R2 RTX 5070 prebuilt PC Walmart discount",
-      "title_ru": "Walmart предлагает скидку на игровой ПК MSI Codex R2 с RTX 5070",
-      "threads_teaser_ru": "В Walmart подешевел готовый игровой ПК MSI Codex R2. За 1449 долларов покупатели получают сборку на базе GeForce RTX 5070 и процессора Intel Core Ultra 7 265F. Рассказываем, для каких задач подходит этот компьютер и что входит в его комплектацию.",
-      "telegram_message_id": "1270",
-      "telegram_url": "https://t.me/gamepulse_newss/1270",
-      "telegram_published_at": "2026-10-15T00:17:32.907332+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/msicodexz2-1791935650524.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T00:17:34.239901+00:00"
-    },
-    {
       "fingerprint": "d657b553134109180bacf948",
       "title": "Obsession Star Inde Navarrette Says She Studied Anime Like Jujutsu Kaisen and Demon Slayer to Learn Screenwriting",
       "url": "https://ign.com/articles/obsession-star-inde-navarrette-says-she-studied-anime-like-jujutsu-kaisen-and-demon-slayer-to-learn-screenwriting",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Killing-Floor-3-Flesh-Pound.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T13:02:37.612315+00:00"
+    },
+    {
+      "fingerprint": "f9a469b788f6d8d1b2659f64",
+      "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+      "url": "https://eurogamer.net/steam-deck-framerate-average-data-store-widget",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-10T13:53:30+00:00",
+      "score": 15,
+      "event_key": "steam_adds_steam_deck_framerate_data_store_page",
+      "title_ru": "В Steam появились данные о средней частоте кадров на Steam Deck",
+      "threads_teaser_ru": "В Steam добавили отображение средней частоты кадров на Steam Deck для тысяч протестированных игр. Функция учитывает данные реальных игроков и включает полезную гистограмму стабильности.",
+      "telegram_message_id": "2471",
+      "telegram_url": "https://t.me/gamepulse_newss/2471",
+      "telegram_published_at": "2026-11-10T14:32:26.370724+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/steam_share_image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T13:02:37.612418+00:00"
+  "updated_at": "2026-11-10T14:32:26.370832+00:00"
 }
