@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f7a73c51e1a1be8ca7dd2a2",
-      "title": "Magic: The Gathering Is Officially Reprinting a Powerful $18 Card for the First Time in 20 Years",
-      "url": "https://polygon.com/magic-the-gathering-soul-spike-secret-lair-reprint-reality-fracture",
-      "source": "Polygon",
-      "published_at_source": "2026-10-14T17:00:15+00:00",
-      "score": 7,
-      "event_key": "Wizards of the Coast reprints Soul Spike in Secret Lair",
-      "title_ru": "Wizards of the Coast выпустит переиздание карты Soul Spike спустя 20 лет",
-      "threads_teaser_ru": "Спустя 20 лет Wizards of the Coast впервые переиздают мощную карту Soul Spike для Magic: The Gathering. Она появится в новом тематическом наборе Secret Lair, посвященном эстетике манги, вместе с другими ценными репринтами.",
-      "telegram_message_id": "1277",
-      "telegram_url": "https://t.me/gamepulse_newss/1277",
-      "telegram_published_at": "2026-10-15T02:47:21.245580+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/soul-spike-coldsnap-secret-lair-screenshot.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-15T02:47:22.528078+00:00"
-    },
-    {
       "fingerprint": "9076b2fa93d0f9925384a3e5",
       "title": "Living world, god-mind or \"something far more terrifying\": Etre is an eye-melting, Control-inspired action game about reshaping a cosmic brain",
       "url": "https://rockpapershotgun.com/living-world-god-mind-or-something-far-more-terrifying-etre-is-an-eye-melting-control-inspired-action-game-about-reshaping-a-cosmic-brain",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/gta-6-preload-1794322351146.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T16:32:32.981597+00:00"
+    },
+    {
+      "fingerprint": "e32ebe5418f6ebb4882590b3",
+      "title": "Death Stranding 2 Headlines PlayStation Plus Game Catalog For November",
+      "url": "https://gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-10T16:36:53+00:00",
+      "score": 15,
+      "event_key": "playstation plus game catalog november 2026 lineup revealed",
+      "title_ru": "Игры ноябрьской подписки PlayStation Plus",
+      "threads_teaser_ru": "Стал известен ноябрьский список игр для подписчиков PlayStation Plus. В новую подборку вошли Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii и еще несколько крупных проектов.",
+      "telegram_message_id": "2478",
+      "telegram_url": "https://t.me/gamepulse_newss/2478",
+      "telegram_published_at": "2026-11-10T17:02:21.161828+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/W40-Dark-Heresy.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-10T16:32:32.981686+00:00"
+  "updated_at": "2026-11-10T17:02:21.161920+00:00"
 }
