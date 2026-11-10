@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "976789f8a9e6674a9b745a89",
-      "title": "My Most-Anticipated Game Was Delayed, But Its New Demo Has Proven A Fantastic Consolation",
-      "url": "https://gamespot.com/articles/my-most-anticipated-game-was-delayed-but-its-new-demo-has-proven-a-fantastic-consolation",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T16:45:56+00:00",
-      "score": 5,
-      "event_key": "At Fate's End release delay to 2027 and demo release",
-      "title_ru": "At Fate's End от студии Thunder Lotus перенесена на 2027 год",
-      "threads_teaser_ru": "Разработчики Spiritfarer перенесли At Fate's End на 2027 год, но выпустили демоверсию в Steam. В этом экшене от Thunder Lotus предстоит сражаться с собственными братьями и сестрами, используя магические мечи и систему диалогов, меняющую ход боя.",
-      "telegram_message_id": "1289",
-      "telegram_url": "https://t.me/gamepulse_newss/1289",
-      "telegram_published_at": "2026-10-15T06:47:22.225957+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_25983b9fefc98de64ad91c80c472691ee2eb487e.1920x1080.jpg?w=300",
-      "threads_published_at": "2026-10-15T06:47:23.736165+00:00"
-    },
-    {
       "fingerprint": "04530ad8eccaaebd2e469a82",
       "title": "DC’s Mister Miracle Animated Series Lead Voices Confirmed",
       "url": "https://ign.com/articles/dcs-mister-miracle-animated-series-lead-voices-confirmed",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-electric-fang-03-1794260488819.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T20:32:43.640802+00:00"
+    },
+    {
+      "fingerprint": "a6b9e3023210f10d9096271c",
+      "title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
+      "url": "https://rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-10T19:59:40+00:00",
+      "score": 12,
+      "event_key": "Take-Two CEO on piracy and technical defenses ahead of GTA 6",
+      "title_ru": "Take-Two усилит техническую и юридическую защиту от пиратства перед выходом GTA 6",
+      "threads_teaser_ru": "Глава Take-Two Strauss Zelnick рассказал, как компания собирается защищать GTA 6 и другие проекты от пиратства и несанкционированного использования ИИ. Издатель намерен усилить юридическую и техническую составляющие защиты своей интеллектуальной собственности.",
+      "telegram_message_id": "2490",
+      "telegram_url": "https://t.me/gamepulse_newss/2490",
+      "telegram_published_at": "2026-11-10T20:47:08.679432+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T20:32:43.640893+00:00"
+  "updated_at": "2026-11-10T20:47:08.679550+00:00"
 }
