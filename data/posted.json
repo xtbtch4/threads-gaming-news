@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "178e0af6df1a408bf98efec7",
-      "title": "Xbox Survey About Exclusives Includes A Nuclear Strategy, But Wait Just A Minute",
-      "url": "https://gamespot.com/articles/xbox-survey-about-exclusives-includes-a-nuclear-strategy-but-wait-just-a-minute",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T19:26:54+00:00",
-      "score": 15,
-      "event_key": "xbox_survey_about_future_game_exclusives",
-      "title_ru": "Microsoft изучает мнение игроков об эксклюзивности игр для Xbox",
-      "threads_teaser_ru": "Microsoft разослала участникам Xbox Insiders опрос о возможном переходе к полной консольной эксклюзивности для всех игр внутренних студий, кроме Call of Duty.",
-      "telegram_message_id": "1255",
-      "telegram_url": "https://t.me/gamepulse_newss/1255",
-      "telegram_published_at": "2026-10-14T19:47:04.766554+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-1.png?w=300",
-      "threads_published_at": "2026-10-14T19:47:06.132882+00:00"
-    },
-    {
       "fingerprint": "2ce5abcf832f88b3adf89aa7",
       "title": "Castlevania: Belmont’s Curse Is a Worthy Heir to its Legacy",
       "url": "https://news.xbox.com/en-us/2026/10/14/castlevania-belmonts-curse-legacy",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gp_aot3_v5.jpg?w=300",
       "threads_published_at": "2026-11-10T08:32:14.438146+00:00"
+    },
+    {
+      "fingerprint": "9d64750135a657af3aa0aa27",
+      "title": "Chainsaw Man Box Set Drops to Lowest Price of the Year — Less Than $6 Per Volume",
+      "url": "https://ign.com/articles/chainsaw-man-box-set-drops-to-lowest-price-of-the-year-amazon-early-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T08:02:18+00:00",
+      "score": 9,
+      "event_key": "Chainsaw Man box set price drop on Amazon",
+      "title_ru": "На бокс-сет манги Chainsaw Man действует максимальная скидка года на Amazon",
+      "threads_teaser_ru": "Бокс-сет первых 11 томов манги Chainsaw Man подешевел на Amazon до 63,27 доллара. Это самая выгодная цена в году — около 6 долларов за том. Комплект включает все главы арки Public Safety и двусторонний постер.",
+      "telegram_message_id": "2456",
+      "telegram_url": "https://t.me/gamepulse_newss/2456",
+      "telegram_published_at": "2026-11-10T09:02:57.437702+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/chainsawboxset-1794260995824.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T08:32:14.438231+00:00"
+  "updated_at": "2026-11-10T09:02:57.437836+00:00"
 }
