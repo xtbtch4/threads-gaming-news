@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6721ec9be6fea2658b6bc384",
-      "title": "The Sims 4: Simstober Challenges available to play now",
-      "url": "https://ea.com/news/the-sims-4-simstober-challenge",
-      "source": "Electronic Arts",
-      "published_at_source": "2026-10-13T04:00:00+00:00",
-      "score": 8,
-      "event_key": "Electronic Arts launches Simstober challenge for The Sims 4",
-      "title_ru": "Electronic Arts запустила челлендж Simstober в The Sims 4",
-      "threads_teaser_ru": "В The Sims 4 стартовало событие Simstober. Игрокам предложили 31 тематическое задание, а на официальном Discord-сервере проходит конкурс с розыгрышем магических дополнений, включая The Sims 4 Life & Death.",
-      "telegram_message_id": "1275",
-      "telegram_url": "https://t.me/gamepulse_newss/1275",
-      "telegram_published_at": "2026-10-15T02:02:45.270249+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/1whzuNjwXD1vyyJ9ZyL0ap/1bacafbce697b683a98588c63bb3cb5a/image2.jpg?im=AspectCrop=(16,9),xPosition=0.1890945472736368,yPosition=0.20844444444444443",
-      "threads_published_at": "2026-10-15T02:02:46.719088+00:00"
-    },
-    {
       "fingerprint": "bd546372fe9e758fc4495466",
       "title": "Soulslikes Don't Work in First-Person — Yet",
       "url": "https://polygon.com/valor-mortis-soulslike-first-person-pov",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/ultimate-edition-vice-city-style-03-1794326189563.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T16:03:02.737895+00:00"
+    },
+    {
+      "fingerprint": "4c718efe76ea42534d8c865e",
+      "title": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
+      "url": "https://ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T15:15:41+00:00",
+      "score": 15,
+      "event_key": "rockstar-releases-gta-6-preload-trailer-with-new-footage",
+      "title_ru": "Rockstar выпустила новый трейлер GTA 6 в честь старта предзагрузки",
+      "threads_teaser_ru": "Rockstar опубликовала новый трейлер GTA 6 длительностью почти 30 секунд в честь запуска предзагрузки игры. Ролик демонстрирует ранее не публиковавшиеся кадры.",
+      "telegram_message_id": "2476",
+      "telegram_url": "https://t.me/gamepulse_newss/2476",
+      "telegram_published_at": "2026-11-10T16:17:19.517845+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/gta-1794323594152.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T16:03:02.737986+00:00"
+  "updated_at": "2026-11-10T16:17:19.517945+00:00"
 }
