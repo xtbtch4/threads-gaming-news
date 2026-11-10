@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0fe2e846592bdfc124c1c219",
-      "title": "The History of Vision in Marvel Video Games",
-      "url": "https://gamespot.com/videos/the-history-of-vision-in-marvel-video-games",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-14T18:00:00+00:00",
-      "score": 8,
-      "event_key": "history of Vision in Marvel video games",
-      "title_ru": "Эволюция персонажа Vision в видеоиграх",
-      "threads_teaser_ru": "Издание GameSpot вспомнило ключевые появления персонажа Vision в видеоиграх за последние десятилетия — от классических аркад до LEGO Marvel и Marvel Snap. Ретроспектива приурочена к выходу шоу Marvel's VisionQuest.",
-      "telegram_message_id": "1274",
-      "telegram_url": "https://t.me/gamepulse_newss/1274",
-      "telegram_published_at": "2026-10-15T01:46:59.283386+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/history_of_vision_site-1.jpg?w=300",
-      "threads_published_at": "2026-10-15T01:47:00.630488+00:00"
-    },
-    {
       "fingerprint": "6721ec9be6fea2658b6bc384",
       "title": "The Sims 4: Simstober Challenges available to play now",
       "url": "https://ea.com/news/the-sims-4-simstober-challenge",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-hawk-and-little-morgan-revolvers-01-1794266239211.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T15:46:54.967240+00:00"
+    },
+    {
+      "fingerprint": "5340d36daf85ba6280fd673e",
+      "title": "Sony Confirms GTA 6 Is Now the Most Preordered Game in PlayStation Store History, Issues Official Preload Warning",
+      "url": "https://ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T15:56:37+00:00",
+      "score": 15,
+      "event_key": "GTA 6 record preorders on PlayStation Store and Microsoft Store",
+      "title_ru": "GTA 6 стала самой предзаказываемой игрой в истории PlayStation Store",
+      "threads_teaser_ru": "GTA 6 побила рекорд по количеству предзаказов в истории PlayStation Store. Sony и Microsoft настоятельно советуют игрокам начать предзагрузку игры заранее из-за огромного ажиотажа перед релизом 19 ноября.",
+      "telegram_message_id": "2475",
+      "telegram_url": "https://t.me/gamepulse_newss/2475",
+      "telegram_published_at": "2026-11-10T16:03:01.243471+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/ultimate-edition-vice-city-style-03-1794326189563.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T15:46:54.967331+00:00"
+  "updated_at": "2026-11-10T16:03:01.243563+00:00"
 }
