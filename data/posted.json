@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c5e89e2b46b8e3a87f0cc416",
-      "title": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
-      "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-14T13:00:48+00:00",
-      "score": 14,
-      "event_key": "gran-turismo-7-spec-iv-update-and-dualsense-limited-edition",
-      "title_ru": "Вышло обновление Spec IV для Gran Turismo 7 и анонсирован контроллер DualSense — Gran Turismo Limited Edition",
-      "threads_teaser_ru": "Для Gran Turismo 7 вышло бесплатное обновление Spec IV с трассой Sugo и шестью новыми автомобилями. Также состоялся анонс лимитированного контроллера DualSense в стиле серии к её 30-летию.",
-      "telegram_message_id": "1237",
-      "telegram_url": "https://t.me/gamepulse_newss/1237",
-      "telegram_published_at": "2026-10-14T13:32:08.762855+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/d5cfc813eab691ec601d72e8b599b173e6bc2dcc.jpg",
-      "threads_published_at": "2026-10-14T13:32:10.287573+00:00"
-    },
-    {
       "fingerprint": "26c994b963cf93930bbf35df",
       "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
       "url": "https://eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-hawk-and-little-morgan-revolvers-01-1794266239211.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T00:16:42.306298+00:00"
+    },
+    {
+      "fingerprint": "f9fc98c0bd91e17ef45c5a19",
+      "title": "Sony delays PlayStation's Pulse Elevate speakers indefinitely, less than a week before launch",
+      "url": "https://eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-07T11:36:00+00:00",
+      "score": 11,
+      "event_key": "sony_delays_pulse_elevate_speakers_indefinitely",
+      "title_ru": "Sony бессрочно отложила релиз беспроводных колонок Pulse Elevate",
+      "threads_teaser_ru": "Sony объявила о бессрочной задержке релиза беспроводных колонок Pulse Elevate всего за несколько дней до запланированного выхода из-за неожиданных проблем на производстве.",
+      "telegram_message_id": "2438",
+      "telegram_url": "https://t.me/gamepulse_newss/2438",
+      "telegram_published_at": "2026-11-10T00:32:08.212230+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-07-at-19.29.39.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T00:16:42.306379+00:00"
+  "updated_at": "2026-11-10T00:32:08.212283+00:00"
 }
