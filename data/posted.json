@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "36a810c7a8c464a68a04e3eb",
-      "title": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more",
-      "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-14T15:30:18+00:00",
-      "score": 14,
-      "event_key": "playstation_plus_game_catalog_october_lineup",
-      "title_ru": "Игры октября в PlayStation Plus: Mafia: The Old Country, Horizon Forbidden West и другие",
-      "threads_teaser_ru": "Объявлен октябрьский каталог PlayStation Plus: с 20 октября подписчикам станут доступны Mafia: The Old Country, Horizon Forbidden West, Mycopunk и другие игры.",
-      "telegram_message_id": "1246",
-      "telegram_url": "https://t.me/gamepulse_newss/1246",
-      "telegram_published_at": "2026-10-14T15:46:48.005126+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/564648f1d0bcdfc71f095bc5473eaf27c88b428e.jpg",
-      "threads_published_at": "2026-10-14T15:46:49.273252+00:00"
-    },
-    {
       "fingerprint": "a7288774d6fd1f90f0ea61de",
       "title": "New trailer for The Legend of Zelda: Ocarina of Time - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/you-have-been-summoned-to-watch-the-new-legend-of-zelda-ocarina-of-time-overview-trailer",
@@ -20518,7 +20501,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-09-at-12-26-53-pm.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
       "threads_published_at": "2026-11-10T02:47:02.052634+00:00"
+    },
+    {
+      "fingerprint": "2d1d3a4715cfe519b894e6c7",
+      "title": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
+      "url": "https://rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-09T16:00:30+00:00",
+      "score": 9,
+      "event_key": "microsoft-workers-open-letter-criticizing-ai-strategy",
+      "title_ru": "Сотрудники Microsoft критикуют руководство за стратегию в сфере генеративного ИИ",
+      "threads_teaser_ru": "Сотрудники Microsoft выступили с открытым письмом против политики компании в сфере генеративного ИИ. Они обвинили руководство в ухудшении условий труда и рисках для пользователей.",
+      "telegram_message_id": "2447",
+      "telegram_url": "https://t.me/gamepulse_newss/2447",
+      "telegram_published_at": "2026-11-10T03:02:43.289977+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/microsoft-logo_MEQReov.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T02:47:02.052740+00:00"
+  "updated_at": "2026-11-10T03:02:43.290080+00:00"
 }
