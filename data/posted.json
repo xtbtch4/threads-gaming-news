@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "76e5d15613db3faa7399e1e8",
-      "title": "2026 GOTY Contender Officially Sets Nintendo Switch 2 Release Date",
-      "url": "https://polygon.com/007-first-light-nintendo-switch-2-release-date-price-confirmed-preorder",
-      "source": "Polygon",
-      "published_at_source": "2026-10-14T20:56:38+00:00",
-      "score": 14,
-      "event_key": "007 First Light Nintendo Switch 2 release date",
-      "title_ru": "007 First Light выйдет на Nintendo Switch 2 весной 2027 года",
-      "threads_teaser_ru": "Названа финальная дата релиза 007 First Light на Nintendo Switch 2. Игра выйдет 18 марта 2027 года. Помимо стандартного издания, в продажу поступит Deluxe Edition с бонусами в стиле GoldenEye и эксклюзивное издание от Amazon.",
-      "telegram_message_id": "1259",
-      "telegram_url": "https://t.me/gamepulse_newss/1259",
-      "telegram_published_at": "2026-10-14T21:17:34.195819+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/007-first-light-steam-screenshot.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/05/007-first-light-gameplay-trailer-1779807072.mp4",
-      "threads_published_at": "2026-10-14T21:17:36.659792+00:00"
-    },
-    {
       "fingerprint": "67b69a0e2c3e42f024e34c3a",
       "title": "Get Ready to Wet Yourself For Urine Trouble: PEE V PEE | IGN Fall Fan Fest 2026",
       "url": "https://ign.com/articles/get-ready-to-wet-yourself-for-urine-trouble-pee-v-pee-ign-fall-fan-fest-2026",
@@ -20519,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/God-of-War-Ragnar%C3%B6k---State-of-Play-Sep-2022-Story-Trailer-_-PS5-%26-PS4-Games-1-1-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T09:47:00.482713+00:00"
+    },
+    {
+      "fingerprint": "ebee2f9078b67c958d47c337",
+      "title": "Warhammer Survivors Out Now on XBOX Game Pass! Defeat the Gloomspite Gitz With These Tips",
+      "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-10T10:00:00+00:00",
+      "score": 11,
+      "event_key": "warhammer-survivors-release-xbox-game-pass",
+      "title_ru": "Warhammer Survivors вышла на Xbox Game Pass",
+      "threads_teaser_ru": "Новый bullet-heaven экшен Warhammer Survivors уже доступен на Xbox Series X|S и в каталоге Xbox Game Pass. Разработчики поделились советами по выживанию и борьбе с опасными врагами.",
+      "telegram_message_id": "2460",
+      "telegram_url": "https://t.me/gamepulse_newss/2460",
+      "telegram_published_at": "2026-11-10T10:02:50.289077+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/TitledHeroArt_1920x1080_null-97506590992fed78eeac.jpg"
     }
   ],
-  "updated_at": "2026-11-10T09:47:00.482809+00:00"
+  "updated_at": "2026-11-10T10:02:50.289175+00:00"
 }
