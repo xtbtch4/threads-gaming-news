@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "83ef814e487d6cb98def596f",
-      "title": "Jeremy Renner Is Teasing the West Coast Avengers in the MCU, and It's About Time",
-      "url": "https://ign.com/articles/jeremy-renner-hawkeye-west-coast-avengers-mcu-teaser",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T20:31:54+00:00",
-      "score": 9,
-      "event_key": "Jeremy Renner teases West Coast Avengers project for MCU",
-      "title_ru": "Jeremy Renner намекнул на возможную разработку проекта West Coast Avengers в киновселенной Marvel",
-      "threads_teaser_ru": "Jeremy Renner опубликовал в соцсетях намек на участие в новом проекте киновселенной Marvel. Судя по фото, актер изучает материалы, связанные с комиксами West Coast Avengers. Пока неизвестно, готовится ли сериал или фильм, но это может стать способом вернуть в строй многих героев Marvel.",
-      "telegram_message_id": "1263",
-      "telegram_url": "https://t.me/gamepulse_newss/1263",
-      "telegram_published_at": "2026-10-14T22:17:20.745017+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/hawkeye-avengers-img-1792009705149.webp?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-14T22:17:22.141844+00:00"
-    },
-    {
       "fingerprint": "51fea6195b9918d4a8a4ad78",
       "title": "The New A Court of Thorns and Roses Hardcover Box Set Gets a Massive Price Cut After Release",
       "url": "https://ign.com/articles/new-a-court-of-thorns-and-roses-hardcover-box-set-deal-october-2026",
@@ -20519,7 +20502,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/bp-2022_trophy-02.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/what-did-stephen-king-think-of-mike-flanagan-s-carrie-1794246200.mp4",
       "threads_published_at": "2026-11-10T10:46:50.334882+00:00"
+    },
+    {
+      "fingerprint": "b04daa3b72bfd842f505111d",
+      "title": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
+      "url": "https://eurogamer.net/house-house-big-walk-generative-ai-development",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-10T10:51:40+00:00",
+      "score": 13,
+      "event_key": "house house used generative ai for big walk development",
+      "title_ru": "House House призналась в использовании генеративного ИИ при создании Big Walk",
+      "threads_teaser_ru": "Студия House House призналась, что использовала генеративный ИИ при разработке Big Walk. Это выяснилось после того, как часть жюри Independent Games Festival бойкотировала проекты с использованием таких технологий.",
+      "telegram_message_id": "2464",
+      "telegram_url": "https://t.me/gamepulse_newss/2464",
+      "telegram_published_at": "2026-11-10T11:02:22.714672+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-10T10:46:50.334987+00:00"
+  "updated_at": "2026-11-10T11:02:22.714758+00:00"
 }
