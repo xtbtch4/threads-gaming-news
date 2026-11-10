@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1b1f8599d441bcee10548cef",
-      "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
-      "url": "https://eurogamer.net/guild-wars-2-living-world-expansions",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T15:14:15+00:00",
-      "score": 15,
-      "event_key": "arenanet bundles guild wars 2 living world with expansions",
-      "title_ru": "ArenaNet изменила модель распространения контента в Guild Wars 2",
-      "threads_teaser_ru": "ArenaNet изменила подход к продаже контента в Guild Wars 2: теперь сюжетные сезоны Living World больше не нужно покупать отдельно — они бесплатно прилагаются к крупным дополнениям игры.",
-      "telegram_message_id": "1244",
-      "telegram_url": "https://t.me/gamepulse_newss/1244",
-      "telegram_published_at": "2026-10-14T15:18:22.846343+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/guild-wars-2-characters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T15:18:24.336958+00:00"
-    },
-    {
       "fingerprint": "b8509a5fd00fca2fbeafbfca",
       "title": "7 Major New GTA 6 Details Officially Revealed by Rockstar",
       "url": "https://polygon.com/gta-6-bloomberg-jason-schreier",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/03/20/tekken8kinggameplaytrailer-ign-blogroll-1679320106829.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T02:16:48.291079+00:00"
+    },
+    {
+      "fingerprint": "7d0bcf6271a84131510ccfb7",
+      "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+      "url": "https://ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T23:46:42+00:00",
+      "score": 9,
+      "event_key": "zelda ocarina of time remake switch 2 manual jump",
+      "title_ru": "Ремейк The Legend of Zelda: Ocarina of Time для Switch 2 добавил кнопку прыжка",
+      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time для Switch 2 убрал автопрыжок и добавил отдельную кнопку. Игроки массово жалуются на мышечную память.",
+      "telegram_message_id": "2445",
+      "telegram_url": "https://t.me/gamepulse_newss/2445",
+      "telegram_published_at": "2026-11-10T02:32:03.722647+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/the-legend-of-zelda-ocarina-of-time-remake-link-jump-1794266958644.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T02:16:48.291166+00:00"
+  "updated_at": "2026-11-10T02:32:03.722740+00:00"
 }
