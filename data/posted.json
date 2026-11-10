@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a7288774d6fd1f90f0ea61de",
-      "title": "New trailer for The Legend of Zelda: Ocarina of Time - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/you-have-been-summoned-to-watch-the-new-legend-of-zelda-ocarina-of-time-overview-trailer",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-14T16:00:00+00:00",
-      "score": 13,
-      "event_key": "legend of zelda ocarina of time nintendo switch 2 trailer release",
-      "title_ru": "Вышел новый трейлер The Legend of Zelda: Ocarina of Time для Nintendo Switch 2",
-      "threads_teaser_ru": "Nintendo показала новый трейлер полностью переосмысленной The Legend of Zelda: Ocarina of Time для Nintendo Switch 2. Игра выходит 5 ноября и поддерживает управление окариной через микрофон консоли.",
-      "telegram_message_id": "1247",
-      "telegram_url": "https://t.me/gamepulse_newss/1247",
-      "telegram_published_at": "2026-10-14T16:02:41.919290+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-14T16:02:43.593757+00:00"
-    },
-    {
       "fingerprint": "9061e3dd62f756fdec8d8da2",
       "title": "Meet the XBOX Nano Controller",
       "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/microsoft-logo_MEQReov.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-10T03:02:44.807350+00:00"
+    },
+    {
+      "fingerprint": "7af46a2dcbd2aec6715d2478",
+      "title": "Get a Nintendo Switch 2 Console for as Low as $418 During the AliExpress Black Friday Sale",
+      "url": "https://ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T00:40:00+00:00",
+      "score": 8,
+      "event_key": "nintendo switch 2 aliexpress black friday sale discount",
+      "title_ru": "Скидка на Nintendo Switch 2 на распродаже AliExpress",
+      "threads_teaser_ru": "На распродаже AliExpress консоль Nintendo Switch 2 можно приобрести по сниженной цене от 417,87 доллара США с учетом специального купона. Узнайте подробности о доставке и особенностях американской версии устройства.",
+      "telegram_message_id": "2448",
+      "telegram_url": "https://t.me/gamepulse_newss/2448",
+      "telegram_published_at": "2026-11-10T03:17:08.559718+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/switch2ocarina-1794245852166.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T03:02:44.807437+00:00"
+  "updated_at": "2026-11-10T03:17:08.559815+00:00"
 }
