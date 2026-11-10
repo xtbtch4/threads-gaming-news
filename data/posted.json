@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1d244c736361c0aee4c15c1f",
-      "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
-      "url": "https://eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-14T13:00:00+00:00",
-      "score": 11,
-      "event_key": "kaepora gaebora less talkative in ocarina of time switch 2 remake",
-      "title_ru": "Совята и ремейк The Legend of Zelda: Ocarina of Time для Nintendo Switch 2",
-      "threads_teaser_ru": "В ремейке The Legend of Zelda: Ocarina of Time для Nintendo Switch 2 назойливый совянок Kaepora Gaebora станет менее разговорчивым. Авторы превью отметили, что теперь беседы с ним проходят гораздо быстрее.",
-      "telegram_message_id": "1240",
-      "telegram_url": "https://t.me/gamepulse_newss/1240",
-      "telegram_published_at": "2026-10-14T14:18:29.807596+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/owl-ocarina-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-14T14:18:31.222533+00:00"
-    },
-    {
       "fingerprint": "d88363e1f598e02ac0660dfc",
       "title": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened",
       "url": "https://gamespot.com/articles/gta-6-could-have-been-even-bigger-and-released-years-sooner-but-then-these-things-happened",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ffswitch-1793732870371.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T01:16:49.566414+00:00"
+    },
+    {
+      "fingerprint": "fe77f28775e3faa042a50540",
+      "title": "Call of Duty FaceTime Chat Causes Plane to Be Evacuated",
+      "url": "https://ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T00:08:42+00:00",
+      "score": 9,
+      "event_key": "call of duty facetime chat causes plane evacuation",
+      "title_ru": "Разговор о Call of Duty привел к эвакуации самолета",
+      "threads_teaser_ru": "Обычный разговор по FaceTime о многопользовательском режиме Call of Duty стал причиной экстренной эвакуации самолета и целого терминала аэропорта в Калифорнии.",
+      "telegram_message_id": "2441",
+      "telegram_url": "https://t.me/gamepulse_newss/2441",
+      "telegram_published_at": "2026-11-10T01:32:11.219503+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/cod-1794269315961.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T01:16:49.566509+00:00"
+  "updated_at": "2026-11-10T01:32:11.219613+00:00"
 }
