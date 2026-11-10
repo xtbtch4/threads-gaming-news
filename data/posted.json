@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9061e3dd62f756fdec8d8da2",
-      "title": "Meet the XBOX Nano Controller",
-      "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-14T16:00:00+00:00",
-      "score": 12,
-      "event_key": "xbox-nano-controller-announcement-2026",
-      "title_ru": "Анонс портативного геймпада XBOX Nano Controller",
-      "threads_teaser_ru": "Microsoft представила компактный XBOX Nano Controller длиной чуть более 5 дюймов и весом 3,5 унции. Новинка получила 18 стандартных кнопок, аккумулятор и поддержку Bluetooth. Предзаказы уже открыты по цене $49.99.",
-      "telegram_message_id": "1248",
-      "telegram_url": "https://t.me/gamepulse_newss/1248",
-      "telegram_published_at": "2026-10-14T16:17:10.635025+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX-Nano-Controller-textless-full-image-resize-163b4cf933e25ff565e2.jpg",
-      "threads_published_at": "2026-10-14T16:17:11.980180+00:00"
-    },
-    {
       "fingerprint": "228ce22ef4c9763f257a126b",
       "title": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
       "url": "https://rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/switch2ocarina-1794245852166.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-10T03:17:09.850456+00:00"
+    },
+    {
+      "fingerprint": "8eb1a2bdaec9851c2f8fba58",
+      "title": "Epic Games Claims Ownership Over Jazz Jackrabbit in Fortnite Legal Tussle With Gears of War Creator",
+      "url": "https://ign.com/articles/epic-games-claims-ownership-over-jazz-jackrabbit-in-fortnite-legal-tussle-with-gears-of-war-creator",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T20:55:15+00:00",
+      "score": 8,
+      "event_key": "Cliff Bleszinski Epic Games Jazz Jackrabbit rights dispute",
+      "title_ru": "Epic Games и Cliff Bleszinski спорят о правах на Jazz Jackrabbit",
+      "threads_teaser_ru": "Cliff Bleszinski не смог вернуть права на Jazz Jackrabbit у Epic Games. Разработчик планирует создать «духовный наследник» игры, так как попытка договориться с компанией зашла в тупик.",
+      "telegram_message_id": "2449",
+      "telegram_url": "https://t.me/gamepulse_newss/2449",
+      "telegram_published_at": "2026-11-10T03:32:50.580551+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/image-1794257178609.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T03:17:09.850549+00:00"
+  "updated_at": "2026-11-10T03:32:50.580668+00:00"
 }
