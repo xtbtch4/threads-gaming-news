@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ac3a87851c3692627fe5a608",
-      "title": "The Fantik S1 Pro Precision Electric Screwdriver Set With up to 6Nm of Electric Torque Drops to $35",
-      "url": "https://ign.com/articles/fantik-s1-pro-precision-electric-screwdriver-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-14T21:30:00+00:00",
-      "score": 6,
-      "event_key": "Fantik S1 Pro screwdriver set discount Amazon deal",
-      "title_ru": "Набор Fantik S1 Pro Precision Electric Screwdriver Set подешевел до $35",
-      "threads_teaser_ru": "На Amazon снизилась цена на набор Fantik S1 Pro Electric Precision Cordless Screwdriver Set. С применением специального купона стоимость инструмента для сборки ПК и мелкой электроники составляет $34,99. Устройство выдает до 6 Нм электрического крутящего момента и заряжается через USB-C.",
-      "telegram_message_id": "1281",
-      "telegram_url": "https://t.me/gamepulse_newss/1281",
-      "telegram_published_at": "2026-10-15T04:17:06.750128+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/fanttiks1pro-1792013011389.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T04:17:08.403783+00:00"
-    },
-    {
       "fingerprint": "2f3c3b58b0ad16ba7af1340f",
       "title": "Andrew Schulz Explains His Viral Mortal Kombat Movie Callout at the Game Awards",
       "url": "https://ign.com/articles/andrew-schulz-explains-his-viral-mortal-kombat-movie-callout-at-the-game-awards",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/DAN-DA-DAN-Trailer-Still-©Yukinobu-Tatsu_SHUEISHA-DANDADAN-Production-Committee-2.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-10T17:46:58.311030+00:00"
+    },
+    {
+      "fingerprint": "ea495dd9d60f558eb49e6c00",
+      "title": "Logitech Is Letting Employees Take Work Off for Game Releases, Just Ahead of GTA 6",
+      "url": "https://ign.com/articles/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T17:42:00+00:00",
+      "score": 15,
+      "event_key": "logitech_game_day_time_off_gta_6",
+      "title_ru": "Logitech разрешила сотрудникам брать отгулы ради релиза GTA 6 и других игр",
+      "threads_teaser_ru": "Logitech официально разрешила своим сотрудникам брать отгулы в дни релизов видеоигр в преддверии выхода GTA 6. Новая инициатива получила название \"Logi Game Day\".",
+      "telegram_message_id": "2482",
+      "telegram_url": "https://t.me/gamepulse_newss/2482",
+      "telegram_published_at": "2026-11-10T18:02:55.826748+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/mnhvfjvxktyweecyny4xem-2560-80-jpg-1793719537543.webp?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T17:46:58.311135+00:00"
+  "updated_at": "2026-11-10T18:02:55.826838+00:00"
 }
