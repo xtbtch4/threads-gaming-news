@@ -20515,9 +20515,10 @@
       "telegram_message_id": "2490",
       "telegram_url": "https://t.me/gamepulse_newss/2490",
       "telegram_published_at": "2026-11-10T20:47:08.679432+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-10T20:47:10.058330+00:00"
     }
   ],
-  "updated_at": "2026-11-10T20:47:08.679550+00:00"
+  "updated_at": "2026-11-10T20:47:10.058415+00:00"
 }
