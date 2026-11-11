@@ -20515,9 +20515,10 @@
       "telegram_message_id": "2507",
       "telegram_url": "https://t.me/gamepulse_newss/2507",
       "telegram_published_at": "2026-11-11T03:46:46.833948+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/nintendo-hiring-archivist-to-organize-old-games-1794347962870.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/nintendo-hiring-archivist-to-organize-old-games-1794347962870.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-11T03:46:48.100781+00:00"
     }
   ],
-  "updated_at": "2026-11-11T03:46:46.834009+00:00"
+  "updated_at": "2026-11-11T03:46:48.100875+00:00"
 }
