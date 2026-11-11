@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0c1746d4366d375201134106",
-      "title": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
-      "url": "https://rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T12:02:35+00:00",
-      "score": 14,
-      "event_key": "cancelled assassins creed destiny leaked footage ancient china",
-      "title_ru": "В сети появились материалы отмененной Assassin’s Creed Destiny",
-      "threads_teaser_ru": "В интернете обнаружили кадры отмененной игры Assassin’s Creed Destiny для PC и консолей. Проект в сеттинге Древнего Китая разрабатывало подразделение Tencent.",
-      "telegram_message_id": "1340",
-      "telegram_url": "https://t.me/gamepulse_newss/1340",
-      "telegram_published_at": "2026-10-16T12:17:06.987155+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/assassins-creed-chronicles-china-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T12:17:08.327814+00:00"
-    },
-    {
       "fingerprint": "74d4d9f34abe156800b864ee",
       "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
       "url": "https://eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T15:47:24.359131+00:00"
+    },
+    {
+      "fingerprint": "7050c94b7c03e4803bc15768",
+      "title": "How Luma Island Was Built For Everyone on XBOX Series X|S",
+      "url": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-11T16:00:00+00:00",
+      "score": 13,
+      "event_key": "Luma Island release on Xbox Series X|S",
+      "title_ru": "Luma Island выходит на Xbox Series X|S 2 декабря",
+      "threads_teaser_ru": "Дебютный проект Feel Free Games — Luma Island — готовится к релизу на Xbox Series X|S 2 декабря. Игроков ждет поддержка кроссплатформенного кооператива до четырех человек, адаптированное управление и полное отсутствие искусственных ограничений вроде полосок выносливости.",
+      "telegram_message_id": "2541",
+      "telegram_url": "https://t.me/gamepulse_newss/2541",
+      "telegram_published_at": "2026-11-11T16:03:04.242677+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Luma-Island-Key-Artwork_final-cf362f12441302e261c5.jpg"
     }
   ],
-  "updated_at": "2026-11-11T15:47:24.359219+00:00"
+  "updated_at": "2026-11-11T16:03:04.242775+00:00"
 }
