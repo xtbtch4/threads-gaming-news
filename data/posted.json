@@ -20517,9 +20517,10 @@
       "telegram_message_id": "2517",
       "telegram_url": "https://t.me/gamepulse_newss/2517",
       "telegram_published_at": "2026-11-11T06:16:49.967501+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/warhammer-survivors_5jrmIgw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/warhammer-survivors_5jrmIgw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-11T06:16:51.239609+00:00"
     }
   ],
-  "updated_at": "2026-11-11T06:16:49.967593+00:00"
+  "updated_at": "2026-11-11T06:16:51.239695+00:00"
 }
