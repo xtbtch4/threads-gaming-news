@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b4fe36ac481aa1fa32b56027",
-      "title": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
-      "url": "https://ign.com/articles/humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with-10-spooky-indie-games-for-12",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T08:58:10+00:00",
-      "score": 11,
-      "event_key": "Humble Bundle releases Cozy After Dark Showcase horror games bundle",
-      "title_ru": "Humble Bundle представила набор Cozy After Dark Showcase",
-      "threads_teaser_ru": "Humble Bundle выпустили «уютный» хоррор-набор игр к Хэллоуину. В подборке Cozy After Dark Showcase можно найти 10 инди-проектов, включая Paradise Killer и Fear the Spotlight, всего за 12 долларов. Рассказываем, что еще входит в состав бандла и сколько он будет доступен.",
-      "telegram_message_id": "1331",
-      "telegram_url": "https://t.me/gamepulse_newss/1331",
-      "telegram_published_at": "2026-10-16T09:17:22.163823+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/10/18/fearthespotlightlaunchtrailer-ign-blogroll-1729274858665.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T09:17:23.609632+00:00"
-    },
-    {
       "fingerprint": "4f7c22e2cd50cafbd329e3c3",
       "title": "4X strategy sequel Humankind 2 gets its first extended in-game footage, rich in era-spanning, culture-shaping, history-rewriting action",
       "url": "https://rockpapershotgun.com/4x-strategy-sequel-humankind-2-gets-its-first-extended-in-game-footage-rich-in-era-spanning-culture-shaping-history-rewriting-action",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dragon-quest-rpg-cinematic.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-11T12:47:07.563607+00:00"
+    },
+    {
+      "fingerprint": "a4f4100b4af56469c577f3a1",
+      "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-10T15:45:00+00:00",
+      "score": 14,
+      "event_key": "Grand Theft Auto VI Xbox Cloud Gaming launch November 19",
+      "title_ru": "Grand Theft Auto VI выйдет на Xbox через облачный сервис 19 ноября",
+      "threads_teaser_ru": "Grand Theft Auto VI станет доступна на Xbox One и Xbox Series X|S через облачный сервис уже 19 ноября. Microsoft предупреждает о невероятном спросе и советует начинать предзагрузку заранее, а также готовит пополнение облачной библиотеки играми от Rockstar Games.",
+      "telegram_message_id": "2532",
+      "telegram_url": "https://t.me/gamepulse_newss/2532",
+      "telegram_published_at": "2026-11-11T13:02:56.445643+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
     }
   ],
-  "updated_at": "2026-11-11T12:47:07.563697+00:00"
+  "updated_at": "2026-11-11T13:02:56.445748+00:00"
 }
