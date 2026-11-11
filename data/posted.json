@@ -20519,9 +20519,10 @@
       "telegram_message_id": "2524",
       "telegram_url": "https://t.me/gamepulse_newss/2524",
       "telegram_published_at": "2026-11-11T10:16:39.546354+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/11/oblivion-remastered-back-in-stock-for-switch-2-1794389761405.png?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/11/oblivion-remastered-back-in-stock-for-switch-2-1794389761405.png?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-11T10:16:40.848109+00:00"
     }
   ],
-  "updated_at": "2026-11-11T10:16:39.546441+00:00"
+  "updated_at": "2026-11-11T10:16:40.848204+00:00"
 }
