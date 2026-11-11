@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2c475c43f5ad70c1d17b66e6",
-      "title": "Tenebris Somnia: Blood, Pixels, and Prosthetics",
-      "url": "https://news.xbox.com/en-us/2026/10/16/tenebris-somnia-live-action-survival-horror",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-16T16:00:00+00:00",
-      "score": 14,
-      "event_key": "tenebris-somnia-launch-october-2026",
-      "title_ru": "Релиз TENEBRIS SOMNIA",
-      "threads_teaser_ru": "Состоялся релиз ретро-хоррора TENEBRIS SOMNIA с живыми актерами и практичными спецэффектами вместо генеративного ИИ. Узнайте, как создавался этот уникальный проект от New Blood Interactive.",
-      "telegram_message_id": "1345",
-      "telegram_url": "https://t.me/gamepulse_newss/1345",
-      "telegram_published_at": "2026-10-16T16:17:07.298624+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/image18-81476707568c599dc77a.jpg",
-      "threads_published_at": "2026-10-16T16:17:08.720556+00:00"
-    },
-    {
       "fingerprint": "d70528e33292ae75f89f3ab4",
       "title": "Subnautica 2 – “The Voyage to Early Access 2 Begins” Overview Trailer",
       "url": "https://gamespot.com/videos/subnautica-2-the-voyage-to-early-access-2-begins-overview-trailer",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mei-overwatch-loot-box-cs-go.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T17:47:15.751549+00:00"
+    },
+    {
+      "fingerprint": "0121add4bc318d3719b65388",
+      "title": "How About a GTA Set Outside the United States? 'Never Say Never,' Rockstar Boss Teases, but Don't Hold Your Breath",
+      "url": "https://ign.com/articles/how-about-a-gta-set-outside-the-united-states-never-say-never-rockstar-boss-teases-but-dont-hold-your-breath",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T17:42:02+00:00",
+      "score": 13,
+      "event_key": "rockstar_boss_teases_gta_outside_united_states",
+      "title_ru": "Rockstar оценила вероятность создания GTA за пределами США",
+      "threads_teaser_ru": "Руководитель Rockstar North Роб Нельсон ответил на вопрос о возможности создания GTA за пределами США. Студия не исключает такой вариант в будущем, но отмечает, что в Америке еще осталось много историй.",
+      "telegram_message_id": "2546",
+      "telegram_url": "https://t.me/gamepulse_newss/2546",
+      "telegram_published_at": "2026-11-11T18:02:29.691130+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gta-6-carjack-1793660725979.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T17:47:15.751651+00:00"
+  "updated_at": "2026-11-11T18:02:29.691225+00:00"
 }
