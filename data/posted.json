@@ -20517,9 +20517,10 @@
       "telegram_message_id": "2516",
       "telegram_url": "https://t.me/gamepulse_newss/2516",
       "telegram_published_at": "2026-11-11T06:02:27.631797+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/evil_lootbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/evil_lootbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-11T06:02:28.987019+00:00"
     }
   ],
-  "updated_at": "2026-11-11T06:02:27.631851+00:00"
+  "updated_at": "2026-11-11T06:02:28.987106+00:00"
 }
