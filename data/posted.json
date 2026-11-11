@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bfb672f44a6ff6b8fd347e07",
-      "title": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike",
-      "url": "https://rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-15T20:27:22+00:00",
-      "score": 10,
-      "event_key": "activision qa union strike authorization call of duty",
-      "title_ru": "Тестировщики Activision проголосовали за проведение забастовки перед выходом Call of Duty: Modern Warfare 4",
-      "threads_teaser_ru": "Тестировщики Activision проголосовали за проведение забастовки. Почти 600 сотрудников QA-отдела требуют улучшения условий труда, оплаты и защиты от увольнений. Решение было принято всего за неделю до релиза Call of Duty: Modern Warfare 4.",
-      "telegram_message_id": "1336",
-      "telegram_url": "https://t.me/gamepulse_newss/1336",
-      "telegram_published_at": "2026-10-16T11:02:26.527611+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/call-of-duty-modern-warfare-4-south-korea-fire.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T11:02:28.102365+00:00"
-    },
-    {
       "fingerprint": "d78cc9733af760504a644c91",
       "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
       "url": "https://eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/KurtYesOrNo_FrostpunkSwitch_V3.jpg?w=300",
       "threads_published_at": "2026-11-11T14:32:41.279554+00:00"
+    },
+    {
+      "fingerprint": "14d45773c3184be26d90c3c5",
+      "title": "Lanterns Producer Officially Responds to Show Cancellation Rumors",
+      "url": "https://polygon.com/lanterns-season-2-canceled-james-gunn-hbo-max",
+      "source": "Polygon",
+      "published_at_source": "2026-11-11T14:33:48+00:00",
+      "score": 10,
+      "event_key": "Lanterns producer addresses show cancellation rumors",
+      "title_ru": "Продюсер Lanterns прокомментировал слухи об отмене сериала",
+      "threads_teaser_ru": "Сериал Lanterns, вокруг которого ходили слухи об отмене, официально еще не закрыт. Продюсеры называют шансы на второй сезон «50 на 50», а работа сценаристов продолжается. Судьба шоу остается неопределенной на фоне недавних кадровых перестановок в руководстве DC Studios.",
+      "telegram_message_id": "2537",
+      "telegram_url": "https://t.me/gamepulse_newss/2537",
+      "telegram_published_at": "2026-11-11T14:47:13.090209+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/john-stewart-aaron-pierre-looks-down-at-the-green-lantern-ring-he-is-wearing-in-lanterns.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-11T14:32:41.279647+00:00"
+  "updated_at": "2026-11-11T14:47:13.090287+00:00"
 }
