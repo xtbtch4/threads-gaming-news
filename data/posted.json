@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "436900213226a1a5606a1b7e",
-      "title": "Blue Team Only Wins 15% of Its Wardogs Games — We Asked a Color Psychologist Why",
-      "url": "https://ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T08:56:09+00:00",
-      "score": 9,
-      "event_key": "wardogs blue team low winrate analysis",
-      "title_ru": "Почему Blue Team побеждает лишь в 15% матчей в Wardogs",
-      "threads_teaser_ru": "Почему Blue Team выигрывает лишь 15% матчей в Wardogs? Разработчики и эксперт по цветовой психологии разбираются в причинах феномена фракции Lonestar.",
-      "telegram_message_id": "1295",
-      "telegram_url": "https://t.me/gamepulse_newss/1295",
-      "telegram_published_at": "2026-10-15T09:17:08.370579+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/16/ss-672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e-1920x1080-1789577487431.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T09:17:10.125811+00:00"
-    },
-    {
       "fingerprint": "349fc8503e92063c207848b1",
       "title": "Fire Emblem: Fortune’s Weave DLC Officially Fixes Its Most Controversial Change",
       "url": "https://polygon.com/fire-emblem-fortunes-weave-dlc-new-routes",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/MSFS_Pelican_NoSnipe_NoLogo-JPG-42121210f81587927ca3.jpg",
       "threads_published_at": "2026-11-11T00:17:25.193802+00:00"
+    },
+    {
+      "fingerprint": "62fea153babc3eb66a99b4db",
+      "title": "We Asked Nintendo of America's Nate Bihldorff About Localizing Ocarina of Time's Most Obscure Secrets",
+      "url": "https://ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T22:11:50+00:00",
+      "score": 11,
+      "event_key": "Nate Bihldorff on localizing The Legend of Zelda Ocarina of Time",
+      "title_ru": "Nate Bihldorff из Nintendo о локализации секретов в The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Команда локализации Nintendo придает огромное значение даже самым скрытым репликам в ремейке The Legend of Zelda: Ocarina of Time. Нейт Билдорфф объяснил, почему для них важно проработать детали, которые увидит лишь малая часть игроков.",
+      "telegram_message_id": "2496",
+      "telegram_url": "https://t.me/gamepulse_newss/2496",
+      "telegram_published_at": "2026-11-11T00:32:49.590766+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/zelda-how-long-1793730658114.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T00:17:25.193894+00:00"
+  "updated_at": "2026-11-11T00:32:49.590860+00:00"
 }
