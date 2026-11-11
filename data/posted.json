@@ -20521,9 +20521,10 @@
       "telegram_message_id": "2551",
       "telegram_url": "https://t.me/gamepulse_newss/2551",
       "telegram_published_at": "2026-11-11T20:17:20.772931+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-11T20:17:22.083234+00:00"
     }
   ],
-  "updated_at": "2026-11-11T20:17:20.773026+00:00"
+  "updated_at": "2026-11-11T20:17:22.083331+00:00"
 }
