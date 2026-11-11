@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4f7c22e2cd50cafbd329e3c3",
-      "title": "4X strategy sequel Humankind 2 gets its first extended in-game footage, rich in era-spanning, culture-shaping, history-rewriting action",
-      "url": "https://rockpapershotgun.com/4x-strategy-sequel-humankind-2-gets-its-first-extended-in-game-footage-rich-in-era-spanning-culture-shaping-history-rewriting-action",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-15T15:45:00+00:00",
-      "score": 10,
-      "event_key": "Amplitude Studios unveils first extended gameplay footage of Humankind 2",
-      "title_ru": "Amplitude Studios показала семь минут игрового процесса Humankind 2",
-      "threads_teaser_ru": "Amplitude Studios впервые показала семь минут геймплея Humankind 2. В сиквеле появится система Adaptations для подстройки культур под разные биомы, а также обновленные деревья развития. Игра выйдет в 2027 году.",
-      "telegram_message_id": "1332",
-      "telegram_url": "https://t.me/gamepulse_newss/1332",
-      "telegram_published_at": "2026-10-16T09:47:35.314035+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/humankind-2-battle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T09:47:36.637704+00:00"
-    },
-    {
       "fingerprint": "a8692aae689b27824153ae6c",
       "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
       "url": "https://ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg",
       "threads_published_at": "2026-11-11T13:02:57.829077+00:00"
+    },
+    {
+      "fingerprint": "ab47387131acb9ed82c15710",
+      "title": "As The Elder Scrolls 5 turns 15, massive mod Beyond Skyrim: Bruma gets a 2.0 update delivering a new quest, extra dungeons and an \"expanded worldspace\"",
+      "url": "https://rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-11T11:00:00+00:00",
+      "score": 9,
+      "event_key": "Beyond Skyrim: Bruma 2.0 update released",
+      "title_ru": "Мод Beyond Skyrim: Bruma получил обновление 2.0",
+      "threads_teaser_ru": "Мод Beyond Skyrim: Bruma для Skyrim обновился до версии 2.0. Команда добавила вырезанный квест, новые подземелья, оружие и врагов, а также оптимизировала игру. Техническое обновление связано с унификацией сборки для работы над всей провинцией Cyrodiil.",
+      "telegram_message_id": "2533",
+      "telegram_url": "https://t.me/gamepulse_newss/2533",
+      "telegram_published_at": "2026-11-11T13:17:12.189249+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/beyond-skyrim-bruma-mod-update-minotaur-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T13:02:57.829155+00:00"
+  "updated_at": "2026-11-11T13:17:12.189340+00:00"
 }
