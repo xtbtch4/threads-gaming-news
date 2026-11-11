@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d01e12537bf95fea49342202",
-      "title": "'I Just Sort of Disconnect' — Jeff Kaplan is Avoiding Overwatch at all Costs",
-      "url": "https://ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T23:44:16+00:00",
-      "score": 11,
-      "event_key": "Jeff Kaplan avoids Overwatch content and community discussions",
-      "title_ru": "Джефф Каплан рассказал, почему полностью избегает Overwatch",
-      "threads_teaser_ru": "Бывший руководитель разработки Overwatch Джефф Каплан признался, что с 2021 года полностью исключил эту игру из своей жизни. Он не только перестал играть, но и намеренно игнорирует любой контент, связанный с проектом, включая соцсети и YouTube.",
-      "telegram_message_id": "1326",
-      "telegram_url": "https://t.me/gamepulse_newss/1326",
-      "telegram_published_at": "2026-10-16T00:03:03.118619+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/jeff-kaplan-avoids-reading-ovw-subreddits-1792107785773.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T00:03:04.481131+00:00"
-    },
-    {
       "fingerprint": "0be413373106b8d0de64a170",
       "title": "Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game",
       "url": "https://ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T11:32:27.687155+00:00"
+    },
+    {
+      "fingerprint": "fa7ff52aa96ad87dab6dc39f",
+      "title": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
+      "url": "https://ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T10:51:26+00:00",
+      "score": 11,
+      "event_key": "Nintendo removes Mario Easter eggs from Zelda Ocarina of Time remake",
+      "title_ru": "Nintendo объяснила удаление отсылок к Mario из ремейка The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Nintendo объяснила, почему в новом ремейке The Legend of Zelda: Ocarina of Time для Switch 2 решили отказаться от классических пасхалок с персонажами Mario. Разработчики пересмотрели подход к кроссоверам, чтобы не нарушать атмосферу игры, но одна деталь у персонажа Talon всё же сохранилась.",
+      "telegram_message_id": "2527",
+      "telegram_url": "https://t.me/gamepulse_newss/2527",
+      "telegram_published_at": "2026-11-11T11:47:07.724105+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/11/untitled-1-1794393973423.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T11:32:27.687244+00:00"
+  "updated_at": "2026-11-11T11:47:07.724210+00:00"
 }
