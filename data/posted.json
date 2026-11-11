@@ -20518,10 +20518,11 @@
       "telegram_message_id": "2522",
       "telegram_url": "https://t.me/gamepulse_newss/2522",
       "telegram_published_at": "2026-11-11T09:02:30.785360+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/15995144/stone.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/tjj_spiderman-1785433532.mp4"
+      "video_url": "https://video.polygonimages.com/2026/07/tjj_spiderman-1785433532.mp4",
+      "threads_published_at": "2026-11-11T09:02:32.341032+00:00"
     }
   ],
-  "updated_at": "2026-11-11T09:02:30.785457+00:00"
+  "updated_at": "2026-11-11T09:02:32.341142+00:00"
 }
