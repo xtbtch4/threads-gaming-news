@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7aeed6d1319a3e08529710fe",
-      "title": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
-      "url": "https://ign.com/articles/ken-kutaragi-physical-discs-ps5",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T13:22:27+00:00",
-      "score": 11,
-      "event_key": "ken kutaragi supports sony ps5 digital only transition",
-      "title_ru": "Создатель PlayStation поддержал отказ от дисков",
-      "threads_teaser_ru": "Кен Кутараги поддержал решение Sony отказаться от физических носителей на PS5, назвав недовольство игроков вопросом менталитета.",
-      "telegram_message_id": "1342",
-      "telegram_url": "https://t.me/gamepulse_newss/1342",
-      "telegram_published_at": "2026-10-16T14:02:40.790925+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/scee-1792156800107.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T14:02:42.307495+00:00"
-    },
-    {
       "fingerprint": "3756140a9989afe4b242cbd6",
       "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
       "url": "https://eurogamer.net/galaxies-showcase-2026-games-roundup",
@@ -20523,7 +20506,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2022/11/30/seriess-1624390081463-1669817083526.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T16:17:31.631677+00:00"
+    },
+    {
+      "fingerprint": "e0a9f5a24b7fd1933c5f318a",
+      "title": "Bethesda Officially Shuts Down Elder Scrolls 6 Fan Theory on Skyrim Anniversary",
+      "url": "https://polygon.com/elder-scrolls-6-sentinel-bethesda-skyrim-anniversary-announcement",
+      "source": "Polygon",
+      "published_at_source": "2026-11-11T16:57:40+00:00",
+      "score": 14,
+      "event_key": "bethesda_no_new_elder_scrolls_6_sentinel_news",
+      "title_ru": "Bethesda охладила слухи о новых новостях по The Elder Scrolls 6: Sentinel",
+      "threads_teaser_ru": "Bethesda разочаровала фанатов: новых новостей по игре The Elder Scrolls 6: Sentinel не стоит ждать в ближайшее время. Студия опровергла слухи о крупных анонсах в честь юбилея Skyrim.",
+      "telegram_message_id": "2543",
+      "telegram_url": "https://t.me/gamepulse_newss/2543",
+      "telegram_published_at": "2026-11-11T17:02:30.171465+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/01/skyrim.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/the-elder-scrolls-vi-official-name-reveal-bethesda-softworks-1080p-1793720803.mp4"
     }
   ],
-  "updated_at": "2026-11-11T16:17:31.631787+00:00"
+  "updated_at": "2026-11-11T17:02:30.171611+00:00"
 }
