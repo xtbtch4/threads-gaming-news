@@ -20520,9 +20520,10 @@
       "telegram_message_id": "2539",
       "telegram_url": "https://t.me/gamepulse_newss/2539",
       "telegram_published_at": "2026-11-11T15:32:44.494591+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/destroy-all-humans-remake-devs-spin-out-thq-nordic-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/destroy-all-humans-remake-devs-spin-out-thq-nordic-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-11T15:32:46.255325+00:00"
     }
   ],
-  "updated_at": "2026-11-11T15:32:44.494678+00:00"
+  "updated_at": "2026-11-11T15:32:46.255410+00:00"
 }
