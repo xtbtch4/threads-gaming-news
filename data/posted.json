@@ -20521,9 +20521,10 @@
       "telegram_message_id": "2545",
       "telegram_url": "https://t.me/gamepulse_newss/2545",
       "telegram_published_at": "2026-11-11T17:47:14.383455+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/mei-overwatch-loot-box-cs-go.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/mei-overwatch-loot-box-cs-go.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-11T17:47:15.751549+00:00"
     }
   ],
-  "updated_at": "2026-11-11T17:47:14.383560+00:00"
+  "updated_at": "2026-11-11T17:47:15.751651+00:00"
 }
