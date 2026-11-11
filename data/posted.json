@@ -20514,10 +20514,11 @@
       "telegram_message_id": "2499",
       "telegram_url": "https://t.me/gamepulse_newss/2499",
       "telegram_published_at": "2026-11-11T01:32:52.979607+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-odyssey.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/horse-1783437129.mp4"
+      "video_url": "https://video.polygonimages.com/2026/07/horse-1783437129.mp4",
+      "threads_published_at": "2026-11-11T01:32:54.301597+00:00"
     }
   ],
-  "updated_at": "2026-11-11T01:32:52.979699+00:00"
+  "updated_at": "2026-11-11T01:32:54.301705+00:00"
 }
