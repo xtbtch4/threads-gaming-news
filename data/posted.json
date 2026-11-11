@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1a3272b48e3da9268c53f82c",
-      "title": "Sated - Official Demo Reveal Trailer | The MIX Fall Game Showcase 2026",
-      "url": "https://ign.com/videos/sated-official-demo-reveal-trailer-the-mix-fall-game-showcase-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T11:00:00+00:00",
-      "score": 14,
-      "event_key": "sated demo reveal trailer mix fall game showcase 2026",
-      "title_ru": "Анонсирован трейлер демоверсии Sated",
-      "threads_teaser_ru": "На презентации The MIX Fall Game Showcase 2026 показали трейлер демоверсии кулинарного roguelike-экшена Sated от разработчика Forest Reges.",
-      "telegram_message_id": "1351",
-      "telegram_url": "https://t.me/gamepulse_newss/1351",
-      "telegram_published_at": "2026-10-16T18:17:36.667421+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/sated-blogroll-1792157540047.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T18:17:38.453274+00:00"
-    },
-    {
       "fingerprint": "b4017ffbc94ebe6a952029d8",
       "title": "DMZ Early Access Starts October 20",
       "url": "https://news.xbox.com/en-us/2026/10/16/dmz-early-access-starts-october-20",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T20:17:22.083234+00:00"
+    },
+    {
+      "fingerprint": "120aa241aa0fb964eef0385e",
+      "title": "New GTA 6 Surprise Gameplay Seemingly Released in Yet Another Viral Marketing Stunt",
+      "url": "https://ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T20:49:53+00:00",
+      "score": 13,
+      "event_key": "rockstar_games_releases_new_gta_6_footage_viral_marketing",
+      "title_ru": "Rockstar Games выпустила новые кадры GTA 6 через вирусный маркетинг",
+      "threads_teaser_ru": "Rockstar Games неожиданно представила новые кадры из GTA 6, воссоздающие недавнюю реальную рекламную акцию студии в Майами. Поклонники долго гадали о подлинности ролика, пока разработчики сами не подтвердили его.",
+      "telegram_message_id": "2552",
+      "telegram_url": "https://t.me/gamepulse_newss/2552",
+      "telegram_published_at": "2026-11-11T21:02:31.435429+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T20:17:22.083331+00:00"
+  "updated_at": "2026-11-11T21:02:31.435516+00:00"
 }
