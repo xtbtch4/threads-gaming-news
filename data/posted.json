@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d896321fbbd01a052e5fa4d6",
-      "title": "One Piece Could Be Coming to Fortnite Soon",
-      "url": "https://polygon.com/fortnite-one-piece-chest-barrel",
-      "source": "Polygon",
-      "published_at_source": "2026-10-16T11:45:51+00:00",
-      "score": 10,
-      "event_key": "one-piece-fortnite-mini-season-files-leak",
-      "title_ru": "One Piece может появиться в Fortnite в грядущем мини-сезоне",
-      "threads_teaser_ru": "В файлах Fortnite нашли намеки на кроссовер с One Piece в грядущем мини-сезоне. Датамайнеры обнаружили пиратский сундук и загрузочный экран с отсылкой к культовой сцене из манги.",
-      "telegram_message_id": "1338",
-      "telegram_url": "https://t.me/gamepulse_newss/1338",
-      "telegram_published_at": "2026-10-16T11:47:10.520602+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-one-piece-luffy.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-16T11:47:12.073672+00:00"
-    },
-    {
       "fingerprint": "024e442a4fd238bec0d69ee1",
       "title": "MTG's New Foundations Commander Decks Return to Online Retailers After Stock Shortages",
       "url": "https://ign.com/articles/magic-the-gatherings-new-foundations-decks-back-in-stock",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/0000006374.1920x1080.jpg?w=300",
       "threads_published_at": "2026-11-11T15:17:10.215461+00:00"
+    },
+    {
+      "fingerprint": "fd5fece98011e84aef9af7a9",
+      "title": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+      "url": "https://rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-11T15:19:30+00:00",
+      "score": 11,
+      "event_key": "Black Forest Games leaves THQ Nordic to form Third Signal",
+      "title_ru": "Разработчики Destroy All Humans! покинули THQ Nordic и основали новую группу студий",
+      "threads_teaser_ru": "Авторы ремейков Destroy All Humans! из Black Forest Games ушли из THQ Nordic. Они запустили новую независимую группу Third Signal, чтобы дать разработчикам больше творческой свободы. В планах — работать над проектами небольшими, эффективными командами.",
+      "telegram_message_id": "2539",
+      "telegram_url": "https://t.me/gamepulse_newss/2539",
+      "telegram_published_at": "2026-11-11T15:32:44.494591+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/destroy-all-humans-remake-devs-spin-out-thq-nordic-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T15:17:10.215535+00:00"
+  "updated_at": "2026-11-11T15:32:44.494678+00:00"
 }
