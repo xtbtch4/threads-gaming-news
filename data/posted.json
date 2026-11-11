@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "90896bf994c4f9df12135173",
-      "title": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
-      "url": "https://gamespot.com/articles/why-rockstar-canceled-its-playstation-exclusive-follow-up-to-gta-4",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-15T19:23:16+00:00",
-      "score": 12,
-      "event_key": "Rockstar cancelled PlayStation exclusive spy game Agent",
-      "title_ru": "Дэн Хаузер объяснил причину отмены шпионского экшена Agent от Rockstar",
-      "threads_teaser_ru": "Дэн Хаузер рассказал, почему Rockstar пришлось закрыть разработку шпионского экшена Agent. Оказалось, что команды просто не смогли реализовать концепцию шпионского кино в формате открытого мира, несмотря на все усилия.",
-      "telegram_message_id": "1318",
-      "telegram_url": "https://t.me/gamepulse_newss/1318",
-      "telegram_published_at": "2026-10-15T19:47:14.468187+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_Duval_10.jpg?w=300",
-      "threads_published_at": "2026-10-15T19:47:16.808651+00:00"
-    },
-    {
       "fingerprint": "cae8ea859087814082513d42",
       "title": "From Liberty City To Leonida: Following The Evolution Of Rockstar’s GTA Launch Trailers",
       "url": "https://gamespot.com/articles/from-liberty-city-to-leonida-following-the-evolution-of-rockstars-gta-launch-trailers",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T06:32:04.212820+00:00"
+    },
+    {
+      "fingerprint": "44c3ba1d3f7966c00b03ce20",
+      "title": "Batman Video Game Fans Are Feeling the Pain Too After Today's James Gunn News",
+      "url": "https://ign.com/articles/batman-video-game-fans-are-feeling-the-pain-too-after-todays-james-gunn-news",
+      "source": "IGN",
+      "published_at_source": "2026-11-09T12:24:00+00:00",
+      "score": 6,
+      "event_key": "batman-fans-face-drought-in-games-and-movies",
+      "title_ru": "Фанаты Batman столкнулись с кризисом на фоне новостей о руководстве DCU",
+      "threads_teaser_ru": "Поклонники Batman переживают затишье как в кино, так и в видеоиграх. С момента выхода Batman: Arkham Knight прошло уже десять лет, а будущее новых проектов оказалось под вопросом из-за кадровых перетоков и слияний компаний.",
+      "telegram_message_id": "2519",
+      "telegram_url": "https://t.me/gamepulse_newss/2519",
+      "telegram_published_at": "2026-11-11T06:46:21.027174+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/09/batman-arkhamcity-1794256132119.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T06:32:04.212925+00:00"
+  "updated_at": "2026-11-11T06:46:21.027261+00:00"
 }
