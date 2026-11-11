@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ee1ce2c456e1a2bab7f3c7d4",
-      "title": "Should You Play The Resident Evil Remakes On Switch 2?",
-      "url": "https://gamespot.com/videos/should-you-play-the-resident-evil-remakes-on-switch-2",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-15T11:00:00+00:00",
-      "score": 9,
-      "event_key": "Capcom ports Resident Evil remakes to Nintendo Switch 2",
-      "title_ru": "Ремейки Resident Evil вышли на Nintendo Switch 2",
-      "threads_teaser_ru": "Capcom перенесла ремейки Resident Evil 2, 3 и 4 на Nintendo Switch 2. Критики оценивают качество портирования, чтобы понять, насколько комфортно играть в эти версии хорроров на новой платформе.",
-      "telegram_message_id": "1305",
-      "telegram_url": "https://t.me/gamepulse_newss/1305",
-      "telegram_published_at": "2026-10-15T12:47:30.605758+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Feature_RERemakesSwitch2_V2.jpg?w=300",
-      "threads_published_at": "2026-10-15T12:47:32.080900+00:00"
-    },
-    {
       "fingerprint": "565ea85034def8c92dcee46f",
       "title": "Clash Royale: The Grand Arena Board Game Exclusive Trailer and Kickstarter Reveal",
       "url": "https://ign.com/articles/clash-royale-the-grand-arena-board-game-kickstarter-reveal-and-interview",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/pokemonhappymeal-2-1794349637448.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T03:17:04.306042+00:00"
+    },
+    {
+      "fingerprint": "06415a9a5e96a499e866740c",
+      "title": "5 Years Later, 'VisionQuest' Officially Fixes 'WandaVision's Disappointing Ending",
+      "url": "https://polygon.com/visionquest-fixes-wandavision-ending",
+      "source": "Polygon",
+      "published_at_source": "2026-11-11T03:30:17+00:00",
+      "score": 8,
+      "event_key": "visionquest-finale-fixes-wandavision-ending-with-sitcom-simulation",
+      "title_ru": "VisionQuest исправила финал WandaVision",
+      "threads_teaser_ru": "Финал сериала VisionQuest неожиданно исправил главный недостаток концовки WandaVision пятилетней давности, вернув мета-деструкцию ситкомов и концепцию UltraVision.",
+      "telegram_message_id": "2506",
+      "telegram_url": "https://t.me/gamepulse_newss/2506",
+      "telegram_published_at": "2026-11-11T03:32:12.770623+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22314637/Screen_Shot_2021_02_19_at_5.42.39_AM__2_.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-11T03:17:04.306130+00:00"
+  "updated_at": "2026-11-11T03:32:12.770710+00:00"
 }
