@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9a68903b29cf92156915c751",
-      "title": "Modern Warfare 4 Launches October 23 as a Standalone Release",
-      "url": "https://news.xbox.com/en-us/2026/10/15/modern-warfare-4-launches-october-23-as-a-standalone-release",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-15T18:00:00+00:00",
-      "score": 14,
-      "event_key": "Modern Warfare 4 standalone release October 23",
-      "title_ru": "Modern Warfare 4 выходит 23 октября",
-      "threads_teaser_ru": "Стала известна дата выхода Modern Warfare 4. Игра поступит в продажу 23 октября в качестве самостоятельного релиза.",
-      "telegram_message_id": "1315",
-      "telegram_url": "https://t.me/gamepulse_newss/1315",
-      "telegram_published_at": "2026-10-15T18:02:43.527387+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/COD-INTEL-001-TOUT-2-3b83bc4992236e7f5d63.jpg",
-      "threads_published_at": "2026-10-15T18:02:45.029352+00:00"
-    },
-    {
       "fingerprint": "e6dd8ad94bf0d2c828bcc7c8",
       "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
       "url": "https://eurogamer.net/grand-theft-auto-6-launch-trailer",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Nvidia-Jensen-RTX-4090.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T05:46:33.021646+00:00"
+    },
+    {
+      "fingerprint": "b3554b158e8997fa952d7663",
+      "title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
+      "url": "https://eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-10T14:46:50+00:00",
+      "score": 7,
+      "event_key": "EU Digital Fairness Act leaked draft loot boxes regulation",
+      "title_ru": "В ЕС могут ужесточить правила для лутбоксов и монетизации игр",
+      "threads_teaser_ru": "В утечке проекта европейского закона Digital Fairness Act содержатся предложения отключить лутбоксы по умолчанию для несовершеннолетних и запретить для них pay-to-win элементы.",
+      "telegram_message_id": "2516",
+      "telegram_url": "https://t.me/gamepulse_newss/2516",
+      "telegram_published_at": "2026-11-11T06:02:27.631797+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/evil_lootbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T05:46:33.021725+00:00"
+  "updated_at": "2026-11-11T06:02:27.631851+00:00"
 }
