@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cae8ea859087814082513d42",
-      "title": "From Liberty City To Leonida: Following The Evolution Of Rockstar’s GTA Launch Trailers",
-      "url": "https://gamespot.com/articles/from-liberty-city-to-leonida-following-the-evolution-of-rockstars-gta-launch-trailers",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-15T19:01:32+00:00",
-      "score": 12,
-      "event_key": "Rockstar Games evolution of launch trailers GTA 6",
-      "title_ru": "Эволюция релизных трейлеров игр Rockstar Games",
-      "threads_teaser_ru": "Rockstar выпустила релизный трейлер GTA 6 перед премьерой 19 ноября. Вспоминаем, как менялись промо-ролики студии: от хаотичного экшена в первых GTA до глубоких сюжетных историй в Red Dead Redemption и масштабности GTA 5.",
-      "telegram_message_id": "1319",
-      "telegram_url": "https://t.me/gamepulse_newss/1319",
-      "telegram_published_at": "2026-10-15T20:47:39.496511+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gta-6.jpg?w=300",
-      "threads_published_at": "2026-10-15T20:47:41.188613+00:00"
-    },
-    {
       "fingerprint": "2722bd4cca5e061c7054d368",
       "title": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
       "url": "https://ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
@@ -20520,7 +20503,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/09/batman-arkhamcity-1794256132119.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T06:46:22.273049+00:00"
+    },
+    {
+      "fingerprint": "5c6a4e4db6cbad3d1d6bc741",
+      "title": "4 Upcoming Fantasy RPGs Better Than Waiting for a New Dragon Age",
+      "url": "https://polygon.com/dragon-age-alternatives-upcoming-rpgs",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T21:00:17+00:00",
+      "score": 5,
+      "event_key": "four upcoming fantasy rpgs recommended for dragon age fans",
+      "title_ru": "4 фэнтезийных RPG для поклонников Dragon Age",
+      "threads_teaser_ru": "Поклонникам Dragon Age предлагают обратить внимание на четыре ролевые игры: Solasta 2, Outward 2, Fable и Clockwork Revolution. Они предлагают запоминающихся компаньонов, тактические сражения и важные последствия выбора.",
+      "telegram_message_id": "2520",
+      "telegram_url": "https://t.me/gamepulse_newss/2520",
+      "telegram_published_at": "2026-11-11T07:16:36.630578+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/solasta-2-party-loading-screen.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4"
     }
   ],
-  "updated_at": "2026-11-11T06:46:22.273140+00:00"
+  "updated_at": "2026-11-11T07:16:36.630686+00:00"
 }
