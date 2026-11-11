@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "61af5de37beee3fbbeecff9f",
-      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
-      "url": "https://ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T14:39:50+00:00",
-      "score": 15,
-      "event_key": "activision expects gta 6 to help modern warfare 4",
-      "title_ru": "В Activision считают, что GTA 6 поможет продажам Modern Warfare 4",
-      "threads_teaser_ru": "В Activision считают, что релиз GTA 6 пойдет на пользу Modern Warfare 4. По словам маркетингового директора компании, общий рост интереса к видеоиграм и возвращение аудитории к консолям привлекут больше внимания к серии Call of Duty.",
-      "telegram_message_id": "1310",
-      "telegram_url": "https://t.me/gamepulse_newss/1310",
-      "telegram_published_at": "2026-10-15T15:03:17.791812+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/cod-main-1792075154642.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T15:03:22.859800+00:00"
-    },
-    {
       "fingerprint": "89c1bc573100c6779b281da3",
       "title": "Free Play Days – NBA 2K27, Crusader Kings III, The Alters, Bus Simulator 21, Soccer Story and Ravenswatch",
       "url": "https://news.xbox.com/en-us/2026/10/15/free-play-days-10-15-2026",
@@ -20518,7 +20501,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/lego-downton-abbey-blogroll-1794337223830.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T04:32:23.040416+00:00"
+    },
+    {
+      "fingerprint": "f39acae422e594fff01facdb",
+      "title": "Nintendo is officially investing in game preservation",
+      "url": "https://polygon.com/nintendo-game-preservation-archivist-job-posting",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T07:23:00+00:00",
+      "score": 8,
+      "event_key": "Nintendo hiring digital archivist for game preservation",
+      "title_ru": "Nintendo нанимает цифрового архивиста для сохранения своего наследия",
+      "threads_teaser_ru": "Nintendo делает шаг к сохранению своего исторического наследия: компания ищет цифрового архивиста для работы с технической документацией и материалами по старым платформам.",
+      "telegram_message_id": "2511",
+      "telegram_url": "https://t.me/gamepulse_newss/2511",
+      "telegram_published_at": "2026-11-11T04:46:42.746813+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4"
     }
   ],
-  "updated_at": "2026-11-11T04:32:23.040506+00:00"
+  "updated_at": "2026-11-11T04:46:42.746897+00:00"
 }
