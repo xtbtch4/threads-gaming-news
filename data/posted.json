@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d40ca1c2422724442ba0b5eb",
-      "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
-      "url": "https://rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T16:30:00+00:00",
-      "score": 14,
-      "event_key": "wardogs-season-2-faction-bonus-experiment-cancelled",
-      "title_ru": "Разработчики Wardogs отменили эксперимент с бонусами для одной фракции спустя сутки",
-      "threads_teaser_ru": "Авторы Wardogs свернули эксперимент с бонусами для одной из фракций всего через сутки после релиза Season 2. Ошибку признал глава студии Bulkhead, отметив дисбаланс в экономике.",
-      "telegram_message_id": "1347",
-      "telegram_url": "https://t.me/gamepulse_newss/1347",
-      "telegram_published_at": "2026-10-16T16:47:18.655608+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T16:47:20.261663+00:00"
-    },
-    {
       "fingerprint": "50578757adc5de0dcc587799",
       "title": "Game Freak Announces End of Beast of Reincarnation’s Post-Launch Updates",
       "url": "https://polygon.com/beast-of-reincarnation-game-freak-pokemon-updates-ending",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/05/skybornethumb-1791225948395.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T18:17:33.221610+00:00"
+    },
+    {
+      "fingerprint": "092aef7528179a906280af54",
+      "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
+      "url": "https://eurogamer.net/gta-6-censored-japan-smaller-install-size",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-11T18:17:10+00:00",
+      "score": 11,
+      "event_key": "GTA 6 possible censorship in Japan regional release",
+      "title_ru": "GTA 6 в Японии может подвергнуться цензуре",
+      "threads_teaser_ru": "Пользователи заметили, что японская версия GTA 6 весит меньше, чем в других регионах, а в описании игры для местного рейтинга CERO отсутствует упоминание о сексуальном контенте. Это породило слухи о возможной цензуре контента, как это уже случалось с другими играми в этой стране.",
+      "telegram_message_id": "2548",
+      "telegram_url": "https://t.me/gamepulse_newss/2548",
+      "telegram_published_at": "2026-11-11T18:47:26.115805+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-sex-scene.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T18:17:33.221696+00:00"
+  "updated_at": "2026-11-11T18:47:26.115937+00:00"
 }
