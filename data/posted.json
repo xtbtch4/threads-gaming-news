@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5f4441de302bdf847567c25e",
-      "title": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets",
-      "url": "https://rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T10:23:52+00:00",
-      "score": 14,
-      "event_key": "valve_steam_achievement_sets_beta_update",
-      "title_ru": "Valve добавила в бету Steam функцию Achievement Sets для разделения достижений",
-      "threads_teaser_ru": "В бета-версии Steam появилась функция Achievement Sets для разделения достижений на категории по задумке разработчиков. Теперь DLC и сезонный контент не будут портить статус 100% прохождения базовой игры.",
-      "telegram_message_id": "1334",
-      "telegram_url": "https://t.me/gamepulse_newss/1334",
-      "telegram_published_at": "2026-10-16T10:33:07.904754+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/steam-achievement-sets-beta-rollout-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T10:33:09.381693+00:00"
-    },
-    {
       "fingerprint": "93eeb0ee336c391a061ab028",
       "title": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
       "url": "https://rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
@@ -20522,7 +20505,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Overwatch-loot-box.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T13:47:39.880064+00:00"
+    },
+    {
+      "fingerprint": "2f16b63f81ad9c8921b981eb",
+      "title": "Tom Morello Joins Critical Role for New Bard-Themed Adventure",
+      "url": "https://polygon.com/critical-role-battle-of-the-bards-tom-morello",
+      "source": "Polygon",
+      "published_at_source": "2026-11-11T12:58:41+00:00",
+      "score": 8,
+      "event_key": "Critical Role Battle of the Bards charity one-shot",
+      "title_ru": "Tom Morello примет участие в благотворительном шоу от Critical Role",
+      "threads_teaser_ru": "Critical Role анонсировали благотворительный «Battle of the Bards». В музыкальном приключении примут участие Том Морелло из Rage Against the Machine, Уэйн Брэди и другие артисты. Зрители смогут влиять на ход игры через пожертвования.",
+      "telegram_message_id": "2535",
+      "telegram_url": "https://t.me/gamepulse_newss/2535",
+      "telegram_published_at": "2026-11-11T14:02:54.187501+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24417997/VXMA_S1_FG_111_00070405_Still076.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4"
     }
   ],
-  "updated_at": "2026-11-11T13:47:39.880156+00:00"
+  "updated_at": "2026-11-11T14:02:54.187610+00:00"
 }
