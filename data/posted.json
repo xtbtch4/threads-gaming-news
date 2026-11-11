@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "28d655e235d8e94694605567",
-      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-      "url": "https://eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-15T13:02:51+00:00",
-      "score": 13,
-      "event_key": "Dean Hall launches open source framework Brutal",
-      "title_ru": "Создатель DayZ Дин Холл представил Brutal — бесплатный фреймворк для разработки игр",
-      "threads_teaser_ru": "Создатель DayZ Дин Холл запустил бесплатный фреймворк Brutal с открытым кодом. Он критикует индустрию за зависимость от крупных движков вроде Unreal и Unity, предлагая коллегам альтернативу без роялти и жестких корпоративных условий.",
-      "telegram_message_id": "1307",
-      "telegram_url": "https://t.me/gamepulse_newss/1307",
-      "telegram_published_at": "2026-10-15T13:17:31.041239+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-15T13:17:32.416012+00:00"
-    },
-    {
       "fingerprint": "a78a5a000db04de64a49c7ab",
       "title": "GTA 6 Will Make The Game Awards Cutoff Date for Eligibility by the Skin of Its Teeth, Confirming It Has a Chance at 2026 Game of the Year",
       "url": "https://ign.com/articles/gta-6-will-make-the-game-awards-cutoff-date-for-eligibility-by-the-skin-of-its-teeth-confirming-it-has-a-chance-at-2026-game-of-the-year",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/nintendo-hiring-archivist-to-organize-old-games-1794347962870.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T03:46:48.100781+00:00"
+    },
+    {
+      "fingerprint": "86833b2e672c7bd2a326ae8e",
+      "title": "DC's New Leader Will Reportedly Prioritize More Well-Known Characters Like Batman and Wonder Woman, Reboot Has Yet to Be Decided",
+      "url": "https://ign.com/articles/dcs-new-leader-will-reportedly-prioritize-more-well-known-characters-like-batman-and-wonder-woman-reboot-has-yet-to-be-decided",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T21:15:35+00:00",
+      "score": 8,
+      "event_key": "dc_studios_new_leadership_mainstream_characters_focus",
+      "title_ru": "Новое руководство DC сосредоточится на известных персонажах вроде Batman",
+      "threads_teaser_ru": "Новый глава DC Studios Джереми Латчам планирует сосредоточиться на самых популярных героях и как можно быстрее собрать Justice League на экранах.",
+      "telegram_message_id": "2508",
+      "telegram_url": "https://t.me/gamepulse_newss/2508",
+      "telegram_published_at": "2026-11-11T04:02:23.953339+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/04/24/wonder-woman-whatever-happened-thumb-1745538711578.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T03:46:48.100875+00:00"
+  "updated_at": "2026-11-11T04:02:23.953395+00:00"
 }
