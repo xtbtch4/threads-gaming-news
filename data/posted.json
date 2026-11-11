@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "52b2742849ff389cc03a7173",
-      "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
-      "url": "https://eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-16T08:37:38+00:00",
-      "score": 13,
-      "event_key": "battlefield 6 season 5 xp earn rates reverted",
-      "title_ru": "В Battlefield 6 откатили изменения заработка опыта",
-      "threads_teaser_ru": "В Battlefield 6 оперативно вернули прежние темпы заработка опыта после того, как игроки столкнулись с неожиданным ограничением скорости получения XP на старте пятого сезона.",
-      "telegram_message_id": "1330",
-      "telegram_url": "https://t.me/gamepulse_newss/1330",
-      "telegram_published_at": "2026-10-16T08:47:01.902042+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/battlefield-6-season-5-vegas-shot-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T08:47:03.328352+00:00"
-    },
-    {
       "fingerprint": "b4fe36ac481aa1fa32b56027",
       "title": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
       "url": "https://ign.com/articles/humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with-10-spooky-indie-games-for-12",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T12:32:46.338821+00:00"
+    },
+    {
+      "fingerprint": "6aedf3089c54a0c5f998c743",
+      "title": "Dragon Quest Creator Says New Game Will Capture the Series' 'Unmistakable Feeling'",
+      "url": "https://polygon.com/dragon-quest-rpg-mobile-game-announcement",
+      "source": "Polygon",
+      "published_at_source": "2026-11-11T12:02:52+00:00",
+      "score": 10,
+      "event_key": "announcement of Dragon Quest RPG The Cursed Tree and The Chosen Isle",
+      "title_ru": "Анонсирована мобильная Dragon Quest RPG The Cursed Tree and The Chosen Isle",
+      "threads_teaser_ru": "Square Enix анонсировала классическую пошаговую RPG для смартфонов — Dragon Quest RPG The Cursed Tree and The Chosen Isle. Игра выйдет в 2027 году, а уже в декабре стартует закрытое бета-тестирование. Узнайте, как попасть в число первых игроков.",
+      "telegram_message_id": "2531",
+      "telegram_url": "https://t.me/gamepulse_newss/2531",
+      "telegram_published_at": "2026-11-11T12:47:05.981022+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dragon-quest-rpg-cinematic.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-11T12:32:46.338908+00:00"
+  "updated_at": "2026-11-11T12:47:05.981106+00:00"
 }
