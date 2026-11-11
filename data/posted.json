@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "89c1bc573100c6779b281da3",
-      "title": "Free Play Days – NBA 2K27, Crusader Kings III, The Alters, Bus Simulator 21, Soccer Story and Ravenswatch",
-      "url": "https://news.xbox.com/en-us/2026/10/15/free-play-days-10-15-2026",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-15T15:01:00+00:00",
-      "score": 16,
-      "event_key": "xbox_free_play_days_october_2026",
-      "title_ru": "NBA 2K27, Crusader Kings III и другие игры стали доступны в рамках Free Play Days",
-      "threads_teaser_ru": "Новая акция Free Play Days на Xbox предлагает бесплатно сыграть в Crusader Kings III, NBA 2K27, Bus Simulator 21 Next Stop, Soccer Story и Ravenswatch с 15 по 18 октября.",
-      "telegram_message_id": "1311",
-      "telegram_url": "https://t.me/gamepulse_newss/1311",
-      "telegram_published_at": "2026-10-15T16:16:57.430496+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_xx-xx-xxxx_1920x1080-1-c1e7b7f7ea8ab3c3617f.jpg",
-      "threads_published_at": "2026-10-15T16:16:58.843018+00:00"
-    },
-    {
       "fingerprint": "ab3a0c5f0fe499cf81d99811",
       "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
       "url": "https://ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
@@ -20519,7 +20502,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4",
       "threads_published_at": "2026-11-11T04:46:44.061868+00:00"
+    },
+    {
+      "fingerprint": "c6a396aeede71f65489bdbaa",
+      "title": "Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate",
+      "url": "https://polygon.com/big-walks-ai-controversy-goty-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T19:25:34+00:00",
+      "score": 7,
+      "event_key": "big walk ai controversy independent game festival jurors",
+      "title_ru": "Big Walk столкнулась с критикой из-за использования генеративного ИИ в разработке",
+      "threads_teaser_ru": "Игра Big Walk оказалась в центре скандала из-за использования генеративного ИИ при написании кода. Часть жюри IGF отказалась голосовать за проекты с искусственным интеллектом.",
+      "telegram_message_id": "2512",
+      "telegram_url": "https://t.me/gamepulse_newss/2512",
+      "telegram_published_at": "2026-11-11T05:02:40.686899+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-11T04:46:44.061965+00:00"
+  "updated_at": "2026-11-11T05:02:40.686989+00:00"
 }
