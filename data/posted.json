@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0be413373106b8d0de64a170",
-      "title": "Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game",
-      "url": "https://ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T23:04:38+00:00",
-      "score": 11,
-      "event_key": "Control Resonant becomes fastest selling Remedy game",
-      "title_ru": "Control Resonant стала самой быстропродаваемой игрой Remedy",
-      "threads_teaser_ru": "Control Resonant установила новый рекорд для Remedy: игра достигла миллиона проданных копий всего за три недели. Это позволило ей обойти Alan Wake 2 и стать самым быстропродаваемым проектом студии, несмотря на недавние проблемы с пиратством сразу после релиза.",
-      "telegram_message_id": "1327",
-      "telegram_url": "https://t.me/gamepulse_newss/1327",
-      "telegram_published_at": "2026-10-16T00:17:44.474742+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/10/controlthumb-1789054804916.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T00:17:45.974795+00:00"
-    },
-    {
       "fingerprint": "af83ea01799b7ed52772a4d2",
       "title": "Save 34% Off the Storied Klipsch ProMedia 2.1 Lumina Computer Speakers Well Ahead of Black Friday",
       "url": "https://ign.com/articles/klipsch-promedia-21-lumina-computer-speaker-deal-october-2026",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/11/untitled-1-1794393973423.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T11:47:09.376194+00:00"
+    },
+    {
+      "fingerprint": "6ddbb32c0d978f4c471bc64b",
+      "title": "Avengers Endgame: Encore Finally Gets a Disney+ Release Date, And It's Real Soon",
+      "url": "https://ign.com/articles/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T11:52:42+00:00",
+      "score": 13,
+      "event_key": "avengers endgame encore disney plus release date",
+      "title_ru": "Avengers: Endgame – Encore выходит на Disney+",
+      "threads_teaser_ru": "Расширенная версия Avengers: Endgame – Encore добралась до Disney+. Релиз на стриминге состоится уже в эту пятницу, 13 ноября, для подписчиков в США. Версия включает новые сцены и тизеры к фильму Avengers: Doomsday.",
+      "telegram_message_id": "2528",
+      "telegram_url": "https://t.me/gamepulse_newss/2528",
+      "telegram_published_at": "2026-11-11T12:02:15.805398+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/04/19/avengers-endgame-re-release-1776625157270.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T11:47:09.376294+00:00"
+  "updated_at": "2026-11-11T12:02:15.805485+00:00"
 }
