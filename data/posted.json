@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "93eeb0ee336c391a061ab028",
-      "title": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
-      "url": "https://rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-15T12:30:00+00:00",
-      "score": 12,
-      "event_key": "steam_frame_oled_variant_discovered_in_kernel_source_code",
-      "title_ru": "В исходном коде Steam Frame обнаружили упоминания версии с OLED-экраном",
-      "threads_teaser_ru": "В коде ядра Steam Frame нашли упоминания версии VR-гарнитуры с OLED-экраном под кодовым именем Planar. Она может получить разрешение 3552x3840 и частоту 90 Гц.",
-      "telegram_message_id": "1335",
-      "telegram_url": "https://t.me/gamepulse_newss/1335",
-      "telegram_published_at": "2026-10-16T10:47:15.162874+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-with-controllers-2_ejQmTE2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T10:47:16.517483+00:00"
-    },
-    {
       "fingerprint": "bfb672f44a6ff6b8fd347e07",
       "title": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike",
       "url": "https://rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
@@ -20523,7 +20506,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24417997/VXMA_S1_FG_111_00070405_Still076.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4",
       "threads_published_at": "2026-11-11T14:02:55.623203+00:00"
+    },
+    {
+      "fingerprint": "67f0a9600bb6f035188f2fb5",
+      "title": "This Game is Stealing All My Free Time",
+      "url": "https://gamespot.com/videos/this-game-is-stealing-all-my-free-time",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-11T14:00:00+00:00",
+      "score": 13,
+      "event_key": "Frostpunk Nintendo Switch version positive review GameSpot",
+      "title_ru": "Версия Frostpunk для Nintendo Switch получила положительный отзыв",
+      "threads_teaser_ru": "Версия Frostpunk для Nintendo Switch удостоилась положительной оценки от редакции GameSpot. В коротком обзоре отмечается, что игра отлично чувствует себя на портативной консоли, однако деталей реализации порта в материале почти нет.",
+      "telegram_message_id": "2536",
+      "telegram_url": "https://t.me/gamepulse_newss/2536",
+      "telegram_published_at": "2026-11-11T14:32:39.525160+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/KurtYesOrNo_FrostpunkSwitch_V3.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-11T14:02:55.623317+00:00"
+  "updated_at": "2026-11-11T14:32:39.525215+00:00"
 }
