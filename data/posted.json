@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6ee676ed4f46769930d0bbab",
-      "title": "2026's Bloodiest Game Just Got a Release Date",
-      "url": "https://polygon.com/acts-of-blood-steam-release-date-console-launch-announced",
-      "source": "Polygon",
-      "published_at_source": "2026-10-15T19:00:17+00:00",
-      "score": 12,
-      "event_key": "Acts of Blood release date PC consoles announced",
-      "title_ru": "Beat-'em-up Acts of Blood выйдет на PC в декабре",
-      "threads_teaser_ru": "Стала известна дата выхода кровавого beat-'em-up проекта Acts of Blood. Игра от Eksil Team вдохновлена фильмом «Рейд» и боевой системой в стиле Sifu. На PC проект появится уже в декабре, а владельцам консолей придется подождать до 2027 года.",
-      "telegram_message_id": "1322",
-      "telegram_url": "https://t.me/gamepulse_newss/1322",
-      "telegram_published_at": "2026-10-15T21:32:38.054003+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/acts-of-blood-steam-screenshot-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-15T21:32:39.576812+00:00"
-    },
-    {
       "fingerprint": "62af03dbc1b4e90e4f640f25",
       "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
       "url": "https://ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
@@ -20522,7 +20505,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/15995144/stone.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/07/tjj_spiderman-1785433532.mp4",
       "threads_published_at": "2026-11-11T09:02:32.341032+00:00"
+    },
+    {
+      "fingerprint": "76b10ab5f2347755bd0081c0",
+      "title": "PS5 Hits 100 Million Units Sold Mark 6 Years After Launch — Here's How It Compares to Other PlayStation Consoles",
+      "url": "https://ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T09:45:42+00:00",
+      "score": 12,
+      "event_key": "playstation 5 reaches 100 million units sold",
+      "title_ru": "PlayStation 5 преодолела отметку в 100 миллионов проданных единиц",
+      "threads_teaser_ru": "Компания Sony объявила, что тираж PlayStation 5 достиг 100 миллионов отгруженных единиц спустя шесть лет после запуска. Как консоль выглядит на фоне других поколений?",
+      "telegram_message_id": "2523",
+      "telegram_url": "https://t.me/gamepulse_newss/2523",
+      "telegram_published_at": "2026-11-11T10:02:13.451950+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T09:02:32.341142+00:00"
+  "updated_at": "2026-11-11T10:02:13.452034+00:00"
 }
