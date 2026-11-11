@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ab3a0c5f0fe499cf81d99811",
-      "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
-      "url": "https://ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T15:19:05+00:00",
-      "score": 15,
-      "event_key": "gta-6-launch-trailer-screenshots-and-release-details",
-      "title_ru": "Более 30 новых скриншотов GTA 6 из релизного трейлера",
-      "threads_teaser_ru": "IGN поделилось более чем 30 новыми скриншотами GTA 6 из свежего трейлера, записанного на базовой PlayStation 5. Предзагрузка игры стартует 12 ноября, а релиз состоится 19 ноября.",
-      "telegram_message_id": "1312",
-      "telegram_url": "https://t.me/gamepulse_newss/1312",
-      "telegram_published_at": "2026-10-15T16:32:00.044115+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/jason-and-lucia-driving-1792074147987.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T16:32:02.346826+00:00"
-    },
-    {
       "fingerprint": "dd13b6e967f2e03b40668cce",
       "title": "ASUS Announces Availability of ROG XBOX Ally X20",
       "url": "https://news.xbox.com/en-us/2026/10/15/asus-announces-availability-of-rog-xbox-ally-x20",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-11T05:02:42.230979+00:00"
+    },
+    {
+      "fingerprint": "c811b71acc2057226cd6ac82",
+      "title": "Nobody Said The Legend of Zelda: Ocarina of Time Was This Funny",
+      "url": "https://polygon.com/zelda-ocarina-time-remake-funny-moments",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T19:19:58+00:00",
+      "score": 7,
+      "event_key": "zelda ocarina of time funny moments and humor discovery",
+      "title_ru": "Комедийная сторона The Legend of Zelda: Ocarina of Time",
+      "threads_teaser_ru": "Классическая The Legend of Zelda: Ocarina of Time полна неожиданных и комичных моментов. Игроки до сих пор находят повод для смеха в интерактивных сджоках и анимациях.",
+      "telegram_message_id": "2513",
+      "telegram_url": "https://t.me/gamepulse_newss/2513",
+      "telegram_published_at": "2026-11-11T05:16:44.930990+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_princessruto_lead.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-11T05:02:42.231067+00:00"
+  "updated_at": "2026-11-11T05:16:44.931073+00:00"
 }
