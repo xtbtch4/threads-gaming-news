@@ -20515,9 +20515,10 @@
       "telegram_message_id": "2505",
       "telegram_url": "https://t.me/gamepulse_newss/2505",
       "telegram_published_at": "2026-11-11T03:17:02.884332+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/pokemonhappymeal-2-1794349637448.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/pokemonhappymeal-2-1794349637448.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-11T03:17:04.306042+00:00"
     }
   ],
-  "updated_at": "2026-11-11T03:17:02.884414+00:00"
+  "updated_at": "2026-11-11T03:17:04.306130+00:00"
 }
