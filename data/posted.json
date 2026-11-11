@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a66834ac0d74c250ab4b1231",
-      "title": "GTA 6 Is Getting An Original Score From Electronic Duo Justice",
-      "url": "https://gamespot.com/articles/gta-6-is-getting-an-original-score-from-electronic-duo-justice",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-15T13:45:40+00:00",
-      "score": 15,
-      "event_key": "justice-original-score-grand-theft-auto-6",
-      "title_ru": "Justice напишет оригинальную музыку для Grand Theft Auto 6",
-      "threads_teaser_ru": "Французский электронный дуэт Justice создает оригинальный саундтрек для Grand Theft Auto 6. В официальный альбом игры также войдет их новый сингл с участием приглашенных музыкантов.",
-      "telegram_message_id": "1309",
-      "telegram_url": "https://t.me/gamepulse_newss/1309",
-      "telegram_published_at": "2026-10-15T14:16:43.548072+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Jason-and-Lucia.jpg?w=300",
-      "threads_published_at": "2026-10-15T14:16:45.018808+00:00"
-    },
-    {
       "fingerprint": "61af5de37beee3fbbeecff9f",
       "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
       "url": "https://ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/talixfluxo-1794339247921.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T04:17:01.779198+00:00"
+    },
+    {
+      "fingerprint": "f9326cde6dfc3d51595ebf66",
+      "title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
+      "url": "https://ign.com/articles/lego-downton-abbey-review-21373",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T20:08:45+00:00",
+      "score": 8,
+      "event_key": "ign-published-review-of-lego-ideas-downton-abbey",
+      "title_ru": "Обзор конструктора LEGO Ideas Downton Abbey",
+      "threads_teaser_ru": "IGN поделилось обзором масштабного набора LEGO Ideas Downton Abbey стоимостью 349,99 долларов. Конструктор состоит почти из 5000 деталей и включает 13 минифигурок.",
+      "telegram_message_id": "2510",
+      "telegram_url": "https://t.me/gamepulse_newss/2510",
+      "telegram_published_at": "2026-11-11T04:32:21.455742+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/lego-downton-abbey-blogroll-1794337223830.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T04:17:01.779288+00:00"
+  "updated_at": "2026-11-11T04:32:21.455828+00:00"
 }
