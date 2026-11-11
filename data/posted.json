@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "51fa6a08bf522ee597c22489",
-      "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-      "url": "https://ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T04:32:00+00:00",
-      "score": 14,
-      "event_key": "GTA 6 scripted sweat system detail revealed",
-      "title_ru": "В GTA 6 появится система потоотделения персонажей",
-      "threads_teaser_ru": "Разработчики GTA 6 внедрили в игру отдельную систему, которая просчитывает количество пота на теле персонажей в зависимости от их активности. Эта деталь объясняет, почему проект стал одним из самых дорогих и продолжительных в производстве.",
-      "telegram_message_id": "1301",
-      "telegram_url": "https://t.me/gamepulse_newss/1301",
-      "telegram_published_at": "2026-10-15T11:48:44.217246+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/vintage-vice-city-pack-exclusive-looks-01-1792063918538.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T11:48:45.437877+00:00"
-    },
-    {
       "fingerprint": "3b58575d77cafce1e27e7cef",
       "title": "Rock Hard Platformer 'Refund This Game' Challenges You to Beat It Within Steam’s 2-Hour Refund Window",
       "url": "https://ign.com/articles/new-rage-refund-this-game",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/2e7f9079b6be9a3c99c5014fc1ee0eaede8d5edb.jpg?w=300",
       "threads_published_at": "2026-11-11T02:17:07.741584+00:00"
+    },
+    {
+      "fingerprint": "bb434f6b5e5cdd69cbd63822",
+      "title": "In a reveal that might worry eventual PC players glancing at their GPUs, GTA 6 will target 30fps on all consoles",
+      "url": "https://rockpapershotgun.com/in-a-reveal-that-might-worry-eventual-pc-players-glancing-at-their-gpus-gta-6-will-target-30fps-on-all-consoles",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-10T16:19:40+00:00",
+      "score": 10,
+      "event_key": "gta 6 targets 30fps on current generation consoles",
+      "title_ru": "Rockstar подтвердила целевой показатель в 30 кадров в секунду для GTA 6 на консолях",
+      "threads_teaser_ru": "Rockstar подтвердила, что долгожданная Grand Theft Auto VI на текущем поколении консолей будет нацелена на 30 кадров в секунду. Игра также появится на Xbox One через облачный сервис, но до ПК пока не добралась.",
+      "telegram_message_id": "2502",
+      "telegram_url": "https://t.me/gamepulse_newss/2502",
+      "telegram_published_at": "2026-11-11T02:32:38.452565+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-cars.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T02:17:07.741680+00:00"
+  "updated_at": "2026-11-11T02:32:38.452658+00:00"
 }
