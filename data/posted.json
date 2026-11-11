@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d2d3f8b57bbb89f5e97f348f",
-      "title": "Big Walk devs House House announce support for BDS Microsoft boycott, say the co-op puzzler isn't coming to Xbox",
-      "url": "https://rockpapershotgun.com/big-walk-devs-house-house-announce-support-for-bds-microsoft-boycott-say-the-co-op-puzzler-isnt-coming-to-xbox",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-15T10:27:34+00:00",
-      "score": 12,
-      "event_key": "House House supports BDS boycott and cancels Xbox release for Big Walk",
-      "title_ru": "Авторы Big Walk отказались от релиза игры на Xbox из-за бойкота Microsoft",
-      "threads_teaser_ru": "Студия House House отказалась выпускать Big Walk на Xbox. Разработчики объяснили это поддержкой бойкота BDS против Microsoft из-за связей корпорации с израильскими военными. Игра выйдет на PC, PS5 и Switch 2, а возвращение на консоли Microsoft возможно только после окончания бойкота.",
-      "telegram_message_id": "1298",
-      "telegram_url": "https://t.me/gamepulse_newss/1298",
-      "telegram_published_at": "2026-10-15T10:32:16.458581+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Big-Walk-head-maze.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-15T10:32:17.894962+00:00"
-    },
-    {
       "fingerprint": "3c0205d79103d3bdc345ea07",
       "title": "Penguin Colony Rips Lovecraft’s Horror From His Racist Hands",
       "url": "https://polygon.com/penguin-colony-review",
@@ -20517,7 +20500,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fairgames_gqqTAs3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T01:17:16.775812+00:00"
+    },
+    {
+      "fingerprint": "42337a2bdbd9e1edddc9783c",
+      "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
+      "url": "https://polygon.com/the-odyssey-christopher-nolan-home-release-date",
+      "source": "Polygon",
+      "published_at_source": "2026-11-10T22:52:17+00:00",
+      "score": 10,
+      "event_key": "Christopher Nolan The Odyssey home media release",
+      "title_ru": "Фильм The Odyssey Кристофера Нолана выходит на цифровых носителях и физических дисках",
+      "threads_teaser_ru": "Эпическая картина Кристофера Нолана The Odyssey выходит на физических носителях и в «цифре» 17 ноября. Домашний релиз включает 90 минут бонусов, подготовленных режиссером, а премьера на стримингах состоится только в 2027 году.",
+      "telegram_message_id": "2499",
+      "telegram_url": "https://t.me/gamepulse_newss/2499",
+      "telegram_published_at": "2026-11-11T01:32:52.979607+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-odyssey.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/07/horse-1783437129.mp4"
     }
   ],
-  "updated_at": "2026-11-11T01:17:16.775895+00:00"
+  "updated_at": "2026-11-11T01:32:52.979699+00:00"
 }
