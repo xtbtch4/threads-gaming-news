@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eab87504efa8ca28e299c510",
-      "title": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release",
-      "url": "https://rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T16:50:00+00:00",
-      "score": 12,
-      "event_key": "drunken-goddess-reflux-demo-cancelled-due-to-ai-fears",
-      "title_ru": "Разработчики Drunken Goddess Reflux отменили публичное демо из-за страха перед ИИ-клонами",
-      "threads_teaser_ru": "Студия Alliance Arts отменила публичное демо Drunken Goddess Reflux. Авторы опасаются, что материалы демки используют для создания ИИ-клонов до релиза игры.",
-      "telegram_message_id": "1356",
-      "telegram_url": "https://t.me/gamepulse_newss/1356",
-      "telegram_published_at": "2026-10-16T19:32:14.585527+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Drunken-Goddess-Reflex.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T19:32:16.075568+00:00"
-    },
-    {
       "fingerprint": "21d05013c7988da3a2a3134c",
       "title": "Nvidia App Update Will Let AI Agents Tune Your Graphics Card, but Some Users are Warning to Turn It Off",
       "url": "https://ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_rooftop_landscape.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-11T22:47:05.068282+00:00"
+    },
+    {
+      "fingerprint": "4b41aaae753f6f413eaef7e7",
+      "title": "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
+      "url": "https://ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T22:46:28+00:00",
+      "score": 11,
+      "event_key": "archspire guitarist plays world of warcraft forever on steam deck",
+      "title_ru": "Гитарист Archspire играл в World of Warcraft Forever на Steam Deck во время концерта",
+      "threads_teaser_ru": "Гитарист группы Archspire не смог оторваться от World of Warcraft Forever даже во время собственного концерта. Музыкант был замечен со Steam Deck, на котором он проходил квесты в игре прямо на сцене, пока ждал своего выхода.",
+      "telegram_message_id": "2557",
+      "telegram_url": "https://t.me/gamepulse_newss/2557",
+      "telegram_published_at": "2026-11-11T23:02:57.368618+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T22:47:05.068378+00:00"
+  "updated_at": "2026-11-11T23:02:57.368845+00:00"
 }
