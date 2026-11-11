@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "024e442a4fd238bec0d69ee1",
-      "title": "MTG's New Foundations Commander Decks Return to Online Retailers After Stock Shortages",
-      "url": "https://ign.com/articles/magic-the-gatherings-new-foundations-decks-back-in-stock",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T11:03:56+00:00",
-      "score": 11,
-      "event_key": "magic the gathering foundations commander decks restock",
-      "title_ru": "Наборы Magic: The Gathering Foundations Commander снова появились в продаже",
-      "threads_teaser_ru": "Новые наборы Magic: The Gathering Foundations Commander вернулись в продажу после октябрьского дефицита. Узнайте, какие колоды уже доступны на Amazon, а какие продолжают дорожать на вторичном рынке.",
-      "telegram_message_id": "1339",
-      "telegram_url": "https://t.me/gamepulse_newss/1339",
-      "telegram_published_at": "2026-10-16T12:02:45.583254+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/foundations-new-commander-decks-ign-back-in-stock-1792148110129.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T12:02:47.122207+00:00"
-    },
-    {
       "fingerprint": "0c1746d4366d375201134106",
       "title": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
       "url": "https://rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/destroy-all-humans-remake-devs-spin-out-thq-nordic-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T15:32:46.255325+00:00"
+    },
+    {
+      "fingerprint": "90facbc1009900c8553bff5d",
+      "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+      "url": "https://eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-11T15:41:50+00:00",
+      "score": 15,
+      "event_key": "Hunger extraction shooter early access release date announcement",
+      "title_ru": "Extraction-шутер Hunger от авторов Hell Let Loose выйдет в ранний доступ в декабре",
+      "threads_teaser_ru": "Авторы Hell Let Loose объявили дату выхода своего нового проекта Hunger. Extraction-шутер в антураже охваченной чумой альтернативной Европы выйдет в ранний доступ Steam 3 декабря, а перед этим пройдет открытый бета-тест.",
+      "telegram_message_id": "2540",
+      "telegram_url": "https://t.me/gamepulse_newss/2540",
+      "telegram_published_at": "2026-11-11T15:47:22.974273+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T15:32:46.255410+00:00"
+  "updated_at": "2026-11-11T15:47:22.974368+00:00"
 }
