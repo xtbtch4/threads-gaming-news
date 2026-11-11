@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "af83ea01799b7ed52772a4d2",
-      "title": "Save 34% Off the Storied Klipsch ProMedia 2.1 Lumina Computer Speakers Well Ahead of Black Friday",
-      "url": "https://ign.com/articles/klipsch-promedia-21-lumina-computer-speaker-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T00:20:00+00:00",
-      "score": 11,
-      "event_key": "discount on Klipsch ProMedia Lumina 2.1 speakers",
-      "title_ru": "Акустическая система Klipsch ProMedia Lumina 2.1 получила скидку 34%",
-      "threads_teaser_ru": "Акустическая система Klipsch ProMedia Lumina 2.1 подешевела на 34%. Обновленная версия с USB Type-C, Bluetooth 5.3 и настраиваемым приложением теперь стоит $249,99.",
-      "telegram_message_id": "1328",
-      "telegram_url": "https://t.me/gamepulse_newss/1328",
-      "telegram_published_at": "2026-10-16T01:02:27.572916+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/klipschpromedialumina-1792105702555.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T01:02:28.835207+00:00"
-    },
-    {
       "fingerprint": "20e343cbd6acdea9b849876a",
       "title": "The Batman Part 2 to Resume Filming With New Director",
       "url": "https://polygon.com/the-batman-part-2-steven-soderbergh-production-update",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/04/19/avengers-endgame-re-release-1776625157270.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T12:02:17.341829+00:00"
+    },
+    {
+      "fingerprint": "470f9b84f92d1431cf812095",
+      "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-11T12:15:50+00:00",
+      "score": 11,
+      "event_key": "World of Warcraft Forever secret sword quest chain discovery",
+      "title_ru": "В World of Warcraft: Forever игроки обнаружили цепочку заданий на скрытый меч",
+      "threads_teaser_ru": "Игроки в World of Warcraft: Forever нашли сложную цепочку заданий, ведущую к загадочному мечу Eluvi'ana. Чтобы продвинуться в поиске этого секрета, сообществу пришлось посетить множество локаций, от Duskwood до Dire Maul, и изучить требования для дальнейшего прогресса.",
+      "telegram_message_id": "2529",
+      "telegram_url": "https://t.me/gamepulse_newss/2529",
+      "telegram_published_at": "2026-11-11T12:17:21.105877+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T12:02:17.341920+00:00"
+  "updated_at": "2026-11-11T12:17:21.105965+00:00"
 }
