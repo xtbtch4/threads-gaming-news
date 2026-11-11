@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "62af03dbc1b4e90e4f640f25",
-      "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
-      "url": "https://ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T19:04:29+00:00",
-      "score": 11,
-      "event_key": "Sony announces gold plated Walkman NW-WM1ZM3",
-      "title_ru": "Sony анонсировала позолоченный плеер Walkman за $5 899",
-      "threads_teaser_ru": "Sony представила новую модель Walkman NW-WM1ZM3 с корпусом из позолоченной бескислородной меди. Плеер обещает улучшенное качество звучания, 35 часов автономной работы и экран 5,5 дюйма. Стоимость устройства составит $5 899.",
-      "telegram_message_id": "1323",
-      "telegram_url": "https://t.me/gamepulse_newss/1323",
-      "telegram_published_at": "2026-10-15T21:47:43.308894+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/15/sw-1792090624924.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T21:47:44.787377+00:00"
-    },
-    {
       "fingerprint": "a93bdd494835a8c6895d493a",
       "title": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
       "url": "https://rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T10:02:14.811940+00:00"
+    },
+    {
+      "fingerprint": "025b8238c725b2fd223a2271",
+      "title": "The Elder Scrolls IV: Oblivion Remastered Physical Edition is Finally Back in Stock for Switch 2",
+      "url": "https://ign.com/articles/elder-scrolls-oblivion-remastered-switch-2-physical-edition-in-stock",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T09:45:36+00:00",
+      "score": 7,
+      "event_key": "elder scrolls iv oblivion remastered switch 2 back in stock",
+      "title_ru": "Физическое издание The Elder Scrolls IV: Oblivion Remastered снова в продаже для Switch 2",
+      "threads_teaser_ru": "Физическое издание The Elder Scrolls IV: Oblivion Remastered для Switch 2 снова появилось в продаже на Amazon по рекомендованной цене. Другие крупные ритейлеры в США пока не имеют товара в наличии.",
+      "telegram_message_id": "2524",
+      "telegram_url": "https://t.me/gamepulse_newss/2524",
+      "telegram_published_at": "2026-11-11T10:16:39.546354+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/11/oblivion-remastered-back-in-stock-for-switch-2-1794389761405.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T10:02:14.812029+00:00"
+  "updated_at": "2026-11-11T10:16:39.546441+00:00"
 }
