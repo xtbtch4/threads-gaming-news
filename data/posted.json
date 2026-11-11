@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2722bd4cca5e061c7054d368",
-      "title": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
-      "url": "https://ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T20:49:27+00:00",
-      "score": 15,
-      "event_key": "runescape reignited cancelled by jagex after player feedback",
-      "title_ru": "RuneScape Reignited отменена спустя меньше двух недель после анонса",
-      "threads_teaser_ru": "Студия Jagex отменила игровой режим RuneScape Reignited спустя меньше двух недель после анонса из-за отзывов сообщества. Вместо него игроков ждут бесплатный пробный период в декабре и другие обновления.",
-      "telegram_message_id": "1320",
-      "telegram_url": "https://t.me/gamepulse_newss/1320",
-      "telegram_published_at": "2026-10-15T21:02:40.383882+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/03/rsr-vcms-1791056252838.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T21:02:41.892809+00:00"
-    },
-    {
       "fingerprint": "d20ad07c52ae83c1253a6980",
       "title": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
       "url": "https://rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
@@ -20521,7 +20504,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/solasta-2-party-loading-screen.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4",
       "threads_published_at": "2026-11-11T07:16:37.897875+00:00"
+    },
+    {
+      "fingerprint": "e640a16dbbd6f0251acc6b37",
+      "title": "GTA 6 Preorder Numbers Are So Good, Even Take-Two Is Struggling To Believe Them",
+      "url": "https://gamespot.com/articles/gta-6-preorder-numbers-are-so-good-even-take-two-is-struggling-to-believe-them",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-10T06:16:00+00:00",
+      "score": 6,
+      "event_key": "gta 6 preorder numbers surprise take two",
+      "title_ru": "Take-Two удивлен объемами предзаказов GTA 6",
+      "threads_teaser_ru": "Показатели предварительных заказов GTA 6 оказались настолько высокими, что в Take-Two Interactive с трудом верят в подобные результаты. Масштаб спроса превзошел ожидания издателя.",
+      "telegram_message_id": "2521",
+      "telegram_url": "https://t.me/gamepulse_newss/2521",
+      "telegram_published_at": "2026-11-11T08:02:29.610632+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-11T07:16:37.897995+00:00"
+  "updated_at": "2026-11-11T08:02:29.610725+00:00"
 }
