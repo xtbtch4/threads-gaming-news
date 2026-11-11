@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d70528e33292ae75f89f3ab4",
-      "title": "Subnautica 2 – “The Voyage to Early Access 2 Begins” Overview Trailer",
-      "url": "https://gamespot.com/videos/subnautica-2-the-voyage-to-early-access-2-begins-overview-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-16T15:53:40+00:00",
-      "score": 15,
-      "event_key": "Subnautica 2 The Voyage to Early Access 2 Dev Vlog",
-      "title_ru": "Трейлер Subnautica 2 посвящен началу серии дневников разработчиков",
-      "threads_teaser_ru": "Креативный директор Энтони Галлегос представил новую серию дневников разработчиков Subnautica 2 под названием The Voyage to Early Access 2, поделившись первыми кадрами и планами на будущее.",
-      "telegram_message_id": "1346",
-      "telegram_url": "https://t.me/gamepulse_newss/1346",
-      "telegram_published_at": "2026-10-16T16:32:27.077955+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/22.jpg?w=300",
-      "threads_published_at": "2026-10-16T16:32:28.479097+00:00"
-    },
-    {
       "fingerprint": "d40ca1c2422724442ba0b5eb",
       "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
       "url": "https://rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gta-6-carjack-1793660725979.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T18:02:31.036849+00:00"
+    },
+    {
+      "fingerprint": "96961f9d13b91ab0bf3a0509",
+      "title": "WoW Forever's First Big Secret Has Been Discovered by Players",
+      "url": "https://ign.com/articles/wow-forevers-first-big-secret-has-been-discovered-by-players",
+      "source": "IGN",
+      "published_at_source": "2026-11-11T17:19:26+00:00",
+      "score": 9,
+      "event_key": "WoW Forever first secret quest chain Dawn Waker discovered",
+      "title_ru": "В WoW Forever обнаружили первый крупный секрет",
+      "threads_teaser_ru": "Игроки в WoW Forever разгадывают первую крупную тайну — загадочный «Dawn Waker Secret». Цепочка заданий включает поиск редких мечей Eluvi'ana и Eluvi'tor и, по всей видимости, требует прокачки репутации с фракцией Shendralar. Финал квеста пока не найден.",
+      "telegram_message_id": "2547",
+      "telegram_url": "https://t.me/gamepulse_newss/2547",
+      "telegram_published_at": "2026-11-11T18:17:31.885296+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/05/skybornethumb-1791225948395.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T18:02:31.036943+00:00"
+  "updated_at": "2026-11-11T18:17:31.885387+00:00"
 }
