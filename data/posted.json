@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a8692aae689b27824153ae6c",
-      "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-      "url": "https://ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T09:13:30+00:00",
-      "score": 13,
-      "event_key": "Rockstar Games real-life GTA 6 car marketing event Miami",
-      "title_ru": "Rockstar проводит масштабную рекламную кампанию GTA 6 в Майами",
-      "threads_teaser_ru": "Rockstar Games устроила настоящий автопарад в Майами для продвижения GTA 6. По улицам проехали реальные машины, стилизованные под внутриигровые авто с номерными знаками из штата Leonida. В колонне даже заметили полицейский Lamborghini в ливрее VCPD.",
-      "telegram_message_id": "1333",
-      "telegram_url": "https://t.me/gamepulse_newss/1333",
-      "telegram_published_at": "2026-10-16T10:02:39.755093+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/vintage-vice-city-pack-vapid-stanier-02-1792141997261.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T10:02:41.323432+00:00"
-    },
-    {
       "fingerprint": "5f4441de302bdf847567c25e",
       "title": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets",
       "url": "https://rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/beyond-skyrim-bruma-mod-update-minotaur-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T13:17:13.686226+00:00"
+    },
+    {
+      "fingerprint": "43ed937a5b0962fb587c1952",
+      "title": "Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act",
+      "url": "https://rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-11T13:30:00+00:00",
+      "score": 10,
+      "event_key": "EU Commission presents Digital Fairness Act regulating gaming lootboxes",
+      "title_ru": "Еврокомиссия представила законопроект Digital Fairness Act, регулирующий лутбоксы и внутриигровые валюты",
+      "threads_teaser_ru": "Евросоюз представил проект Digital Fairness Act. Если закон примут, издателей обяжут раскрывать шансы выпадения предметов в лутбоксах, указывать реальную стоимость виртуальных валют и отключать «агрессивные» механики для детей. Под удар могут попасть Overwatch, Dota 2 и GTA Online.",
+      "telegram_message_id": "2534",
+      "telegram_url": "https://t.me/gamepulse_newss/2534",
+      "telegram_published_at": "2026-11-11T13:47:38.405096+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Overwatch-loot-box.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T13:17:13.686318+00:00"
+  "updated_at": "2026-11-11T13:47:38.405184+00:00"
 }
