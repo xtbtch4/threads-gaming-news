@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4b31b7c118bf641a8f89a999",
-      "title": "Don't ask Greg Davies about his favorite Taskmaster tasks",
-      "url": "https://polygon.com/video/don-t-ask-greg-davies-about-his-favorite-taskmaster-tasks",
-      "source": "Polygon",
-      "published_at_source": "2026-10-15T08:39:25+00:00",
-      "score": 8,
-      "event_key": "greg davies favorite taskmaster tasks polygon",
-      "title_ru": "Интервью с Greg Davies о шоу Taskmaster",
-      "threads_teaser_ru": "Издание Polygon рассказало, почему не стоит спрашивать ведущего шоу Taskmaster Greg Davies о его любимых заданиях из программы.",
-      "telegram_message_id": "1293",
-      "telegram_url": "https://t.me/gamepulse_newss/1293",
-      "telegram_published_at": "2026-10-15T08:47:52.931827+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/don-t-ask-greg-davies-about-his-favorite-taskmaster-tasks.png?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-15T08:47:54.412628+00:00"
-    },
-    {
       "fingerprint": "ded835b919bcc6d0e2720c01",
       "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
       "url": "https://eurogamer.net/big-walk-xbox-version-bds-boycott",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/9a417a36-b37d-4788-8a49-0111aee41351.jpeg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-10T21:33:01.893959+00:00"
+    },
+    {
+      "fingerprint": "4d17f60388a380f4c5bc2de4",
+      "title": "Get a 20,000mAh 45W Power Bank With Integrated USB Cable for Under $20 Ahead of Black Friday",
+      "url": "https://ign.com/articles/cuktech-power-bank-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T23:00:00+00:00",
+      "score": 13,
+      "event_key": "CUKTECH 20,000mAh 45W power bank Amazon Black Friday discount",
+      "title_ru": "CUKTECH 20,000mAh 45W Power Bank доступен со скидкой до начала Black Friday",
+      "threads_teaser_ru": "До начала Black Friday внешний аккумулятор CUKTECH 20,000mAh 45W можно купить на Amazon за $18,89 с использованием промокода. Устройство подходит для зарядки Steam Deck, Nintendo Switch 2 и iPhone 18 Pro даже во время игры, а также имеет встроенный кабель USB-C.",
+      "telegram_message_id": "2494",
+      "telegram_url": "https://t.me/gamepulse_newss/2494",
+      "telegram_published_at": "2026-11-11T00:03:48.734734+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/cuktechpowerbank-1794348540571.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-10T21:33:01.894050+00:00"
+  "updated_at": "2026-11-11T00:03:48.734821+00:00"
 }
