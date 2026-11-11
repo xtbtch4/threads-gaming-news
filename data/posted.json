@@ -20519,9 +20519,10 @@
       "telegram_message_id": "2530",
       "telegram_url": "https://t.me/gamepulse_newss/2530",
       "telegram_published_at": "2026-11-11T12:32:44.919090+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-11T12:32:46.338821+00:00"
     }
   ],
-  "updated_at": "2026-11-11T12:32:44.919186+00:00"
+  "updated_at": "2026-11-11T12:32:46.338908+00:00"
 }
