@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5e1ca71c9c55595c3d39f8b2",
-      "title": "Shrek 2 Remaster Leaks, Looks Amazing And I Need It Now",
-      "url": "https://gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-16T18:21:13+00:00",
-      "score": 15,
-      "event_key": "shrek 2 the game remaster leaked on xbox",
-      "title_ru": "Утечка: состоялся анонс ремастера Shrek 2: The Game",
-      "threads_teaser_ru": "В сети появилась информация о готовящемся ремастере Shrek 2: The Game. Утечка раскрыла улучшенную графику, поддержку 4K, кооператив и новые режимы.",
-      "telegram_message_id": "1355",
-      "telegram_url": "https://t.me/gamepulse_newss/1355",
-      "telegram_published_at": "2026-10-16T19:17:37.184130+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300",
-      "threads_published_at": "2026-10-16T19:17:38.471156+00:00"
-    },
-    {
       "fingerprint": "eab87504efa8ca28e299c510",
       "title": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release",
       "url": "https://rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2022/12/12/witcher3-performance-mode-br-1670882520247.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T22:17:15.115656+00:00"
+    },
+    {
+      "fingerprint": "64d1dd653f170edd212a86d5",
+      "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
+      "url": "https://polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram",
+      "source": "Polygon",
+      "published_at_source": "2026-11-11T22:39:52+00:00",
+      "score": 12,
+      "event_key": "Rockstar Games shares realistic GTA 6 gameplay clip",
+      "title_ru": "Новый геймплейный ролик GTA 6 озадачил фанатов реалистичностью",
+      "threads_teaser_ru": "Новый 15-секундный геймплейный ролик GTA 6, опубликованный Rockstar Games, вызвал споры среди фанатов. Пользователи гадают, настоящая ли это игра или ИИ-генерация, из-за пугающего сходства с реальной видеозаписью из Майами-Дейд.",
+      "telegram_message_id": "2556",
+      "telegram_url": "https://t.me/gamepulse_newss/2556",
+      "telegram_published_at": "2026-11-11T22:47:03.852877+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_rooftop_landscape.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-11T22:17:15.115750+00:00"
+  "updated_at": "2026-11-11T22:47:03.852969+00:00"
 }
