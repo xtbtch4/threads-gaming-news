@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b4017ffbc94ebe6a952029d8",
-      "title": "DMZ Early Access Starts October 20",
-      "url": "https://news.xbox.com/en-us/2026/10/16/dmz-early-access-starts-october-20",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-16T17:00:00+00:00",
-      "score": 12,
-      "event_key": "dmz early access starts october 20 2026",
-      "title_ru": "Ранний доступ DMZ начнется 20 октября",
-      "threads_teaser_ru": "Компания Xbox Wire объявила дату запуска раннего доступа для DMZ. Старт намечен на 20 октября 2026 года. Что именно будет доступно игрокам в этот день?",
-      "telegram_message_id": "1352",
-      "telegram_url": "https://t.me/gamepulse_newss/1352",
-      "telegram_published_at": "2026-10-16T18:32:26.172504+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-DMZ-FOB-TOUT-85c1fe26fbda0def29b6.jpg",
-      "threads_published_at": "2026-10-16T18:32:27.553947+00:00"
-    },
-    {
       "fingerprint": "4d90851bbe3bfa3354c492d1",
       "title": "This Espresso Machine Can Run Doom",
       "url": "https://gamespot.com/articles/this-espresso-machine-can-run-doom",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T21:02:32.889448+00:00"
+    },
+    {
+      "fingerprint": "adf115e1d7530ed998017500",
+      "title": "Answer the Call This Veterans Day",
+      "url": "https://news.xbox.com/en-us/2026/11/11/answer-the-call-this-veterans-day",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-11T20:43:04+00:00",
+      "score": 12,
+      "event_key": "xbox-wire-publishes-veterans-day-article",
+      "title_ru": "Xbox Wire выпустил материал, приуроченный ко Дню ветеранов",
+      "threads_teaser_ru": "Xbox Wire отметил День ветеранов публикацией тематического материала. Статья с заголовком «Answer the Call This Veterans Day» вышла на портале 11 ноября.",
+      "telegram_message_id": "2553",
+      "telegram_url": "https://t.me/gamepulse_newss/2553",
+      "telegram_published_at": "2026-11-11T21:16:50.170641+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/CODE-VETERANS-DAY-26-TOUT-14656766bed48453cdb9.jpg"
     }
   ],
-  "updated_at": "2026-11-11T21:02:32.889535+00:00"
+  "updated_at": "2026-11-11T21:16:50.170746+00:00"
 }
