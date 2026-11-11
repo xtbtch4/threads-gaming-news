@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "565ea85034def8c92dcee46f",
-      "title": "Clash Royale: The Grand Arena Board Game Exclusive Trailer and Kickstarter Reveal",
-      "url": "https://ign.com/articles/clash-royale-the-grand-arena-board-game-kickstarter-reveal-and-interview",
-      "source": "IGN",
-      "published_at_source": "2026-10-15T13:00:00+00:00",
-      "score": 13,
-      "event_key": "Maestro Media launches Clash Royale The Grand Arena Kickstarter",
-      "title_ru": "Анонсирована настольная игра Clash Royale: The Grand Arena",
-      "threads_teaser_ru": "Clash Royale получит настольную адаптацию: игра Clash Royale: The Grand Arena выйдет на Kickstarter уже 20 октября. Проект рассчитан на 2-4 игроков и адаптирует стратегические механики мобильного оригинала, включая систему Elixir.",
-      "telegram_message_id": "1306",
-      "telegram_url": "https://t.me/gamepulse_newss/1306",
-      "telegram_published_at": "2026-10-15T13:02:58.860103+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/14/clash-royale-the-grand-arena-2-1792018106386.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-15T13:03:00.317783+00:00"
-    },
-    {
       "fingerprint": "28d655e235d8e94694605567",
       "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
       "url": "https://eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22314637/Screen_Shot_2021_02_19_at_5.42.39_AM__2_.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-11T03:32:14.476216+00:00"
+    },
+    {
+      "fingerprint": "2b9e8628e17325dd176f4646",
+      "title": "Nintendo Opens New Job Role to Preserve and Organize its Old Games",
+      "url": "https://ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games",
+      "source": "IGN",
+      "published_at_source": "2026-11-10T22:10:22+00:00",
+      "score": 8,
+      "event_key": "nintendo-opens-job-role-preserve-old-games",
+      "title_ru": "Nintendo открыла новую вакансию для сохранения старых игр",
+      "threads_teaser_ru": "Nintendo of America ищет специалиста для архивации и организации своей обширной библиотеки классических игр и исторических материалов. Должность рассчитана на 12 месяцев.",
+      "telegram_message_id": "2507",
+      "telegram_url": "https://t.me/gamepulse_newss/2507",
+      "telegram_published_at": "2026-11-11T03:46:46.833948+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/nintendo-hiring-archivist-to-organize-old-games-1794347962870.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-11T03:32:14.476306+00:00"
+  "updated_at": "2026-11-11T03:46:46.834009+00:00"
 }
