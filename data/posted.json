@@ -20521,9 +20521,10 @@
       "telegram_message_id": "2553",
       "telegram_url": "https://t.me/gamepulse_newss/2553",
       "telegram_published_at": "2026-11-11T21:16:50.170641+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/CODE-VETERANS-DAY-26-TOUT-14656766bed48453cdb9.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/CODE-VETERANS-DAY-26-TOUT-14656766bed48453cdb9.jpg",
+      "threads_published_at": "2026-11-11T21:16:51.678709+00:00"
     }
   ],
-  "updated_at": "2026-11-11T21:16:50.170746+00:00"
+  "updated_at": "2026-11-11T21:16:51.678796+00:00"
 }
