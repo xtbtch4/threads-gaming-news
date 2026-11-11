@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "20e343cbd6acdea9b849876a",
-      "title": "The Batman Part 2 to Resume Filming With New Director",
-      "url": "https://polygon.com/the-batman-part-2-steven-soderbergh-production-update",
-      "source": "Polygon",
-      "published_at_source": "2026-10-16T01:36:53+00:00",
-      "score": 12,
-      "event_key": "Steven Soderbergh directs The Batman Part 2 filming pause",
-      "title_ru": "Steven Soderbergh поможет завершить съемки The Batman Part 2",
-      "threads_teaser_ru": "Steven Soderbergh поможет Мэтту Ривзу завершить съемки The Batman Part 2. Режиссер основного фильма временно отошел от дел по семейным обстоятельствам. Пока непонятно, как эта пауза повлияет на дату выхода в 2028 году.",
-      "telegram_message_id": "1329",
-      "telegram_url": "https://t.me/gamepulse_newss/1329",
-      "telegram_published_at": "2026-10-16T01:47:47.729920+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23277204/rev_1_TBM_63105r_High_Res_JPEG.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-16T01:47:49.070610+00:00"
-    },
-    {
       "fingerprint": "52b2742849ff389cc03a7173",
       "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
       "url": "https://eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-11T12:17:22.727061+00:00"
+    },
+    {
+      "fingerprint": "9117f40bfddeee3cf9215803",
+      "title": "World of Warcraft: Forever's magical opening week reminds us all about the power of the MMO, and the threat it poses to your free time",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-now-playing",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-11T11:08:30+00:00",
+      "score": 13,
+      "event_key": "World of Warcraft: Forever release first week impressions",
+      "title_ru": "Впечатления от первой недели World of Warcraft: Forever",
+      "threads_teaser_ru": "Первая неделя в World of Warcraft: Forever: как Blizzard изменили классику? От обновленной погоды и баланса классов до новых подземелий и системы мегасерверов, оживившей социальное взаимодействие в Azeroth.",
+      "telegram_message_id": "2530",
+      "telegram_url": "https://t.me/gamepulse_newss/2530",
+      "telegram_published_at": "2026-11-11T12:32:44.919090+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-11T12:17:22.727140+00:00"
+  "updated_at": "2026-11-11T12:32:44.919186+00:00"
 }
