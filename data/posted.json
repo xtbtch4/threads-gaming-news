@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7c5887cb3156a34112c1d034",
-      "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
-      "url": "https://ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T22:48:07+00:00",
-      "score": 11,
-      "event_key": "james gunn denies milly alcock rumors man of tomorrow update",
-      "title_ru": "James Gunn опроверг слухи об увольнении Milly Alcock и поделился новостями о Man of Tomorrow",
-      "threads_teaser_ru": "James Gunn опроверг слухи об увольнении Milly Alcock из проектов DC Studios и подтвердил, что покажет раннюю версию Man of Tomorrow Питеру Сафрану на месяц раньше срока.",
-      "telegram_message_id": "1369",
-      "telegram_url": "https://t.me/gamepulse_newss/1369",
-      "telegram_published_at": "2026-10-16T23:02:38.526767+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/23/supergirl-thumb-1782242447045.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T23:02:40.099943+00:00"
-    },
-    {
       "fingerprint": "099a5cd0f7423708a50425fe",
       "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
       "url": "https://ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
@@ -20527,7 +20510,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/tlm_ts_pmax_1200x628_boy.png?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/cm-1792159929.mp4",
       "threads_published_at": "2026-11-12T14:17:11.481853+00:00"
+    },
+    {
+      "fingerprint": "a5378a11ce322faedc6cadf3",
+      "title": "After two weeks of multiplayer downtime, Dark Souls 2 & 3's mysterious server \"issue\" has been fixed, so it no longer feels so lonely online",
+      "url": "https://eurogamer.net/dark-souls-2-3-servers-back-online",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-12T14:24:50+00:00",
+      "score": 13,
+      "event_key": "FromSoftware restored Dark Souls 2 and 3 servers",
+      "title_ru": "Серверы Dark Souls 2 и Dark Souls 3 вернулись в работу после двухнедельного перерыва",
+      "threads_teaser_ru": "Мультиплеер в Dark Souls 2 и Dark Souls 3 снова доступен: FromSoftware исправили неполадки, из-за которых серверы были отключены почти две недели. Подробности инцидента компания не раскрывает.",
+      "telegram_message_id": "2570",
+      "telegram_url": "https://t.me/gamepulse_newss/2570",
+      "telegram_published_at": "2026-11-12T14:32:43.879283+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/DS2-Scholar_main.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-12T14:17:11.481966+00:00"
+  "updated_at": "2026-11-12T14:32:43.879371+00:00"
 }
