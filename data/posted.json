@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "410d2e0f29962516130972f5",
-      "title": "Dragon Ball’s Goku Voice Actor 'Furious' Over AI Videos Using Her Voice Without Permission",
-      "url": "https://ign.com/articles/dragon-balls-goku-voice-actor-furious-over-ai-videos-using-her-voice-without-permission",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T20:04:43+00:00",
-      "score": 5,
-      "event_key": "Dragon Ball voice actor Masako Nozawa criticizes AI voice cloning",
-      "title_ru": "Актриса озвучки Dragon Ball раскритиковала использование ИИ-копий ее голоса",
-      "threads_teaser_ru": "Масако Нодзава, голос Гоку из Dragon Ball, назвала использование ИИ для копирования голосов без разрешения кражей. Японские актеры объединяются, чтобы установить правила использования технологии, а токийский суд уже встал на сторону артистов в подобных спорах.",
-      "telegram_message_id": "1392",
-      "telegram_url": "https://t.me/gamepulse_newss/1392",
-      "telegram_published_at": "2026-10-17T07:32:29.243386+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/01/21/dbz-1540843981541-1768988406087.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-17T07:32:30.487526+00:00"
-    },
-    {
       "fingerprint": "0825c9bacc4e90ade2a37b13",
       "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
       "url": "https://gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/chatpad.webp?w=300",
       "threads_published_at": "2026-11-12T21:16:58.085285+00:00"
+    },
+    {
+      "fingerprint": "34ce942a5805b350d29922cb",
+      "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
+      "url": "https://gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-12T21:07:28+00:00",
+      "score": 15,
+      "event_key": "id software new game announcement after layoffs",
+      "title_ru": "Анонсирована новая игра от id Software",
+      "threads_teaser_ru": "Xbox объявила о начале разработки новой игры от id Software под руководством Hugo Martin. Анонс прозвучал после массовых увольнений в студии, но создатели уже поделились первыми деталями.",
+      "telegram_message_id": "2593",
+      "telegram_url": "https://t.me/gamepulse_newss/2593",
+      "telegram_published_at": "2026-11-12T21:32:02.011415+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DoomGame.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-12T21:16:58.085398+00:00"
+  "updated_at": "2026-11-12T21:32:02.011506+00:00"
 }
