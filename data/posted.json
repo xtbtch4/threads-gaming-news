@@ -20524,9 +20524,10 @@
       "telegram_message_id": "2578",
       "telegram_url": "https://t.me/gamepulse_newss/2578",
       "telegram_published_at": "2026-11-12T17:17:19.408880+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png?w=300",
+      "threads_published_at": "2026-11-12T17:17:21.286707+00:00"
     }
   ],
-  "updated_at": "2026-11-12T17:17:19.409005+00:00"
+  "updated_at": "2026-11-12T17:17:21.286812+00:00"
 }
