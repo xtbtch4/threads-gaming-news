@@ -20523,9 +20523,10 @@
       "telegram_message_id": "2592",
       "telegram_url": "https://t.me/gamepulse_newss/2592",
       "telegram_published_at": "2026-11-12T21:16:56.688032+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/chatpad.webp?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/chatpad.webp?w=300",
+      "threads_published_at": "2026-11-12T21:16:58.085285+00:00"
     }
   ],
-  "updated_at": "2026-11-12T21:16:56.688126+00:00"
+  "updated_at": "2026-11-12T21:16:58.085398+00:00"
 }
