@@ -20521,10 +20521,11 @@
       "telegram_message_id": "2559",
       "telegram_url": "https://t.me/gamepulse_newss/2559",
       "telegram_published_at": "2026-11-12T03:47:16.729017+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/assassins-creed-franchise.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/assassin-s-creed-jade-gameplay-trailer-1783709159.mp4"
+      "video_url": "https://video.polygonimages.com/2026/07/assassin-s-creed-jade-gameplay-trailer-1783709159.mp4",
+      "threads_published_at": "2026-11-12T03:47:18.134773+00:00"
     }
   ],
-  "updated_at": "2026-11-12T03:47:16.729114+00:00"
+  "updated_at": "2026-11-12T03:47:18.134882+00:00"
 }
