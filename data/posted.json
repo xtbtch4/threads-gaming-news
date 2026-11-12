@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3f696e0614e5367045c15fd3",
-      "title": "New Zelda: Ocarina of Time trailer reveals Dark Link New Zelda: Ocarina of Time trailer reveals Dark Link",
-      "url": "https://polygon.com/legend-of-zelda-ocarina-of-time-new-trailers-dark-link",
-      "source": "Polygon",
-      "published_at_source": "2026-10-16T07:48:00+00:00",
-      "score": 7,
-      "event_key": "new trailers for The Legend of Zelda: Ocarina of Time remake",
-      "title_ru": "Nintendo выпустила два новых трейлера ремейка The Legend of Zelda: Ocarina of Time",
-      "threads_teaser_ru": "Nintendo показала новые трейлеры ремейка The Legend of Zelda: Ocarina of Time. В роликах засветился Dark Link, а журналисты Polygon уже успели опробовать игру и высоко оценили техническое исполнение и обновленный геймплей перед скорым выходом проекта.",
-      "telegram_message_id": "1384",
-      "telegram_url": "https://t.me/gamepulse_newss/1384",
-      "telegram_published_at": "2026-10-17T03:02:36.679216+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-17T03:02:37.908655+00:00"
-    },
-    {
       "fingerprint": "d6ddd1649bfc7fc9e4662ff6",
       "title": "Save 45% Off the Stylish MFish E-Rhino 140W USB-C Charger",
       "url": "https://ign.com/articles/mfish-usb-c-charger-deal-october-2026",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FABLE_Quest_Gameplay_Thumbnail-4c1fa52ad9c7121409ed.jpg",
       "threads_published_at": "2026-11-12T19:17:10.307756+00:00"
+    },
+    {
+      "fingerprint": "20a06fdbd8010816c3e8874f",
+      "title": "This Happy Ending For Two Games With Identical Names Was A Headache For Nintendo",
+      "url": "https://gamespot.com/articles/this-happy-ending-for-two-games-with-identical-names-was-a-headache-for-nintendo",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-12T19:17:26+00:00",
+      "score": 15,
+      "event_key": "two games with identical name Piece by Piece on Nintendo Switch",
+      "title_ru": "Две разные игры с одинаковым названием выходят на Nintendo Switch",
+      "threads_teaser_ru": "25 ноября на Nintendo Switch одновременно выйдут две совершенно разные игры с одинаковым названием Piece by Piece от одного издателя. Эта ситуация вызвала серьезные вопросы у Nintendo.",
+      "telegram_message_id": "2585",
+      "telegram_url": "https://t.me/gamepulse_newss/2585",
+      "telegram_published_at": "2026-11-12T19:31:59.735811+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/PieceByPiece.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-12T19:17:10.307842+00:00"
+  "updated_at": "2026-11-12T19:31:59.735911+00:00"
 }
