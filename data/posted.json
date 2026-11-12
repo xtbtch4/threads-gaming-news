@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f8af0d66c49c0cd70f5ded00",
-      "title": "Pokémon Reveals New 'Holiday Helper’ Plush Collection With a Christmas Tree Pikachu and Clodsire Sled",
-      "url": "https://ign.com/articles/pokemon-holiday-helper-plush-reveal",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T20:09:50+00:00",
-      "score": 11,
-      "event_key": "pokemon-holiday-helper-plush-collection-announced",
-      "title_ru": "Анонсирована праздничная коллекция плюшевых игрушек Pokémon Holiday Helper",
-      "threads_teaser_ru": "Компания Pokémon анонсировала новую праздничную коллекцию плюшевых игрушек «Holiday Helper». В нее вошли фигурки Pikachu в новогодних образах и Clodsire с санями.",
-      "telegram_message_id": "1362",
-      "telegram_url": "https://t.me/gamepulse_newss/1362",
-      "telegram_published_at": "2026-10-16T21:16:56.368040+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/christmaspika-1792176028788.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T21:16:57.771341+00:00"
-    },
-    {
       "fingerprint": "311c23a564a7ad571794fbfe",
       "title": "PlayStation 6 Will Likely Have Sony's Own Take on Frame Generation, According to Latest Patent",
       "url": "https://ign.com/articles/playstation-6-will-likely-have-sonys-own-take-on-frame-generation-according-to-latest-patent",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/NVIDIA-CEO-Jensen-Huang-Keynote-at-CES-2025-20-19-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-12T11:47:17.964224+00:00"
+    },
+    {
+      "fingerprint": "865ea3ee63471d545d1156c9",
+      "title": "Marvel Star Xochitl Gomez Says She Struggled to Find Work After Joining the MCU as Everyone Assumed She'd Be Too Busy — Even Though Her Character Has Never Returned",
+      "url": "https://ign.com/articles/marvel-star-xochitl-gomez-says-she-struggled-to-find-work-after-joining-the-mcu-as-everyone-assumed-shed-be-too-busy-even-though-her-character-has-never-returned",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T11:54:32+00:00",
+      "score": 9,
+      "event_key": "Xochitl Gomez struggled to find work after Doctor Strange sequel",
+      "title_ru": "Актриса Xochitl Gomez столкнулась с проблемами в поиске работы после участия в MCU",
+      "threads_teaser_ru": "Актриса Xochitl Gomez призналась, что роль America Chavez в киновселенной Marvel неожиданно усложнила ей карьеру. Режиссеры не зовут ее в кино, считая, что она либо слишком дорога, либо постоянно занята на съемках Marvel — хотя с 2022 года персонаж нигде не появлялся.",
+      "telegram_message_id": "2563",
+      "telegram_url": "https://t.me/gamepulse_newss/2563",
+      "telegram_published_at": "2026-11-12T12:32:41.429590+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/12/gettyimages-2301833232-1794480853572.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-12T11:47:17.964312+00:00"
+  "updated_at": "2026-11-12T12:32:41.429677+00:00"
 }
