@@ -20522,9 +20522,10 @@
       "telegram_message_id": "2600",
       "telegram_url": "https://t.me/gamepulse_newss/2600",
       "telegram_published_at": "2026-11-12T23:47:11.231114+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX-Wire-Playback-Logo-1-431a9b50384ec62fcd33.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX-Wire-Playback-Logo-1-431a9b50384ec62fcd33.jpg",
+      "threads_published_at": "2026-11-12T23:47:12.525006+00:00"
     }
   ],
-  "updated_at": "2026-11-12T23:47:11.231203+00:00"
+  "updated_at": "2026-11-12T23:47:12.525094+00:00"
 }
