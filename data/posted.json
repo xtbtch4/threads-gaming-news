@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1542d535efc0e21fbb6b37ac",
-      "title": "Bluey's Happy Snaps is now available – News – Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/explore-blueys-world-like-never-before-in-blueys-happy-snaps-available-now",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-15T16:00:00+00:00",
-      "score": 8,
-      "event_key": "Bluey's Happy Snaps release on Nintendo Switch 2",
-      "title_ru": "Релиз игры Bluey's Happy Snaps на Nintendo Switch 2",
-      "threads_teaser_ru": "На Nintendo Switch 2 вышла игра Bluey's Happy Snaps. Игрокам предстоит исследовать Брисбен, делать фотографии в знакомых по мультсериалу локациях и собирать коллекцию стикеров. В проекте доступен локальный кооператив, но нет онлайн-режима.",
-      "telegram_message_id": "1379",
-      "telegram_url": "https://t.me/gamepulse_newss/1379",
-      "telegram_published_at": "2026-10-17T01:46:53.742518+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-17T01:46:55.119730+00:00"
-    },
-    {
       "fingerprint": "ac913b8ce6bff3169aa76921",
       "title": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
       "url": "https://polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-12T17:32:49.001389+00:00"
+    },
+    {
+      "fingerprint": "89771ccbf952dc73710094e6",
+      "title": "GTA 4’s Three Leaf Clover Heist Showed How Not to Rob a Bank – Art of the Level",
+      "url": "https://ign.com/articles/gta-4-michael-mann-heat-heist",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T16:30:00+00:00",
+      "score": 13,
+      "event_key": "gta-4-three-leaf-clover-mission-retrospective",
+      "title_ru": "Как миссия Three Leaf Clover из Grand Theft Auto 4 изменила серию",
+      "threads_teaser_ru": "Легендарная миссия Three Leaf Clover из Grand Theft Auto 4 вдохновлена фильмом Heat режиссера Michael Mann и заложила основу для будущих ограблений в серии.",
+      "telegram_message_id": "2580",
+      "telegram_url": "https://t.me/gamepulse_newss/2580",
+      "telegram_published_at": "2026-11-12T18:17:30.791555+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/11/blog-1794413799371.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-12T17:32:49.001472+00:00"
+  "updated_at": "2026-11-12T18:17:30.791640+00:00"
 }
