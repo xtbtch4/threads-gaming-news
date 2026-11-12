@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "39bf6189ce718aa89686c6a2",
-      "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
-      "url": "https://ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T23:08:54+00:00",
-      "score": 9,
-      "event_key": "Red Rising movie adaptation greenlit by Paramount Pictures",
-      "title_ru": "Книжная серия Red Rising получит экранизацию от Paramount Pictures",
-      "threads_teaser_ru": "Книжная сага Red Rising будет экранизирована Paramount Pictures. Режиссерское кресло занял Francis Lawrence, известный по франшизе The Hunger Games, а сценаристом выступит Justin Rhodes, работающий над адаптацией Bioshock.",
-      "telegram_message_id": "1373",
-      "telegram_url": "https://t.me/gamepulse_newss/1373",
-      "telegram_published_at": "2026-10-17T00:02:33.335603+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/red-rising-movie-adaptation-paramount-1792191965565.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-17T00:02:34.655791+00:00"
-    },
-    {
       "fingerprint": "cc81101215b57bbb347e1069",
       "title": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
       "url": "https://ign.com/articles/specs-snaps-first-ever-ar-glasses-ships-out-this-fall",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/witcher-voice-over-jacek-rozenek.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-12T15:32:04.432747+00:00"
+    },
+    {
+      "fingerprint": "681c501a513924b28fa30ed5",
+      "title": "LEGO Star Wars: Darth Vader Wall Art and More Sets Announced for January 2027",
+      "url": "https://ign.com/articles/lego-star-wars-sets-announced-for-january-2027",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T15:19:14+00:00",
+      "score": 13,
+      "event_key": "lego star wars sets announced january 2027",
+      "title_ru": "Анонсированы новые наборы LEGO Star Wars на январь 2027 года",
+      "threads_teaser_ru": "Компания LEGO анонсировала семь новых наборов LEGO Star Wars, которые выйдут в январе 2027 года. Среди них — настенный арт с Darth Vader «2-в-1», увеличенная фигурка Luke Skywalker и набор по мотивам постера A New Hope.",
+      "telegram_message_id": "2574",
+      "telegram_url": "https://t.me/gamepulse_newss/2574",
+      "telegram_published_at": "2026-11-12T16:02:42.290308+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/12/lego-star-wars-january-2027-blogroll-1794496360798.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-12T15:32:04.432828+00:00"
+  "updated_at": "2026-11-12T16:02:42.290397+00:00"
 }
