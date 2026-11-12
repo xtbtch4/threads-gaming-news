@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0825c9bacc4e90ade2a37b13",
-      "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
-      "url": "https://gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-16T18:01:39+00:00",
-      "score": 5,
-      "event_key": "Blizzard overhauls racial abilities in WoW: Forever beta update",
-      "title_ru": "Blizzard изменила расовые способности в бета-версии WoW: Forever",
-      "threads_teaser_ru": "Blizzard радикально пересмотрела расовые способности в бета-версии WoW: Forever перед выходом игры 4 ноября. Изменения коснулись оружия, бонусов к передвижению и характеристик почти всех рас — от людей и орков до новых Skyborne.",
-      "telegram_message_id": "1393",
-      "telegram_url": "https://t.me/gamepulse_newss/1393",
-      "telegram_published_at": "2026-10-17T07:47:08.027815+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300",
-      "threads_published_at": "2026-10-17T07:47:09.383019+00:00"
-    },
-    {
       "fingerprint": "64d9aa2a4038591806a9833f",
       "title": "Street Fighter Star Roman Reigns Says Gaming Has Replaced Some Of Wrestling’s Old “Extracurricular” Activities",
       "url": "https://gamespot.com/articles/street-fighter-star-roman-reigns-says-gaming-has-replaced-some-of-wrestlings-old-extracurricular-activities",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DoomGame.jpg?w=300",
       "threads_published_at": "2026-11-12T21:32:03.354441+00:00"
+    },
+    {
+      "fingerprint": "0712811ddb1c135712251db4",
+      "title": "25 Original XBOX Games Available Today on PC via XBOX Backward Compatibility",
+      "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-12T21:02:29+00:00",
+      "score": 12,
+      "event_key": "original xbox games added to pc backward compatibility",
+      "title_ru": "25 игр с оригинальной XBOX стали доступны на ПК",
+      "threads_teaser_ru": "Библиотека обратной совместимости оригинальной XBOX на ПК выросла до 25 игр. Помимо этого, в четырех классических проектах впервые появились долгожданные достижения.",
+      "telegram_message_id": "2594",
+      "telegram_url": "https://t.me/gamepulse_newss/2594",
+      "telegram_published_at": "2026-11-12T21:46:58.606769+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/111226_XBOX-Wire_PCBackCompat-JPG-6d6dbed266e723ed4c62.jpg"
     }
   ],
-  "updated_at": "2026-11-12T21:32:03.354528+00:00"
+  "updated_at": "2026-11-12T21:46:58.606859+00:00"
 }
