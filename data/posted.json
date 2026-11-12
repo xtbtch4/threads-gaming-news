@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c67189bbc277dda496b2c83a",
-      "title": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\"",
-      "url": "https://rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T16:21:53+00:00",
-      "score": 11,
-      "event_key": "The Blood of Dawnwalker update 1.1 adds Story difficulty and petting",
-      "title_ru": "The Blood of Dawnwalker получит обновление 1.1 с новым уровнем сложности",
-      "threads_teaser_ru": "На следующей неделе The Blood of Dawnwalker получит патч 1.1. В игру добавят сюжетный режим сложности, зелье для сброса навыков и оптимизируют управление, а также внедрят неоднозначную механику «directional animal petting».",
-      "telegram_message_id": "1359",
-      "telegram_url": "https://t.me/gamepulse_newss/1359",
-      "telegram_published_at": "2026-10-16T20:17:30.591284+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/the-blood-of-dawnwalker-review-03.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T20:17:32.120721+00:00"
-    },
-    {
       "fingerprint": "6712c9fc9fbe474241086b85",
       "title": "Battlefield 6 Is Free on Steam, but Not for Long",
       "url": "https://polygon.com/battlefield-6-free-to-play-steam-october-2026",
@@ -20525,7 +20508,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/assassins-creed-franchise.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/07/assassin-s-creed-jade-gameplay-trailer-1783709159.mp4",
       "threads_published_at": "2026-11-12T03:47:18.134773+00:00"
+    },
+    {
+      "fingerprint": "18c01140e435759edf62d7a7",
+      "title": "Lord of the Rings Officially Reveals Gollum’s Replacement",
+      "url": "https://polygon.com/lord-of-the-rings-gollum-orc-rings-of-power",
+      "source": "Polygon",
+      "published_at_source": "2026-11-12T09:30:18+00:00",
+      "score": 10,
+      "event_key": "new character Marnûkh in The Lord of the Rings: The Rings of Power",
+      "title_ru": "В сериале The Lord of the Rings: The Rings of Power появился новый персонаж, сравнимый с Голлумом",
+      "threads_teaser_ru": "Третий сезон The Lord of the Rings: The Rings of Power представил зрителям орка по имени Marnûkh. Его история в первых эпизодах меняет представление о расе орков, заставляя Галадриэль и Арондира пересмотреть свое отношение к ним, что напоминает динамику отношений с Голлумом.",
+      "telegram_message_id": "2560",
+      "telegram_url": "https://t.me/gamepulse_newss/2560",
+      "telegram_published_at": "2026-11-12T09:32:52.873986+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/gollum-with-ring.jpeg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/the-rings-of-power-season-3-official-trailer-1792600670.mp4"
     }
   ],
-  "updated_at": "2026-11-12T03:47:18.134882+00:00"
+  "updated_at": "2026-11-12T09:32:52.874090+00:00"
 }
