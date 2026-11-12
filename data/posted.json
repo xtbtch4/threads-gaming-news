@@ -20523,9 +20523,10 @@
       "telegram_message_id": "2588",
       "telegram_url": "https://t.me/gamepulse_newss/2588",
       "telegram_published_at": "2026-11-12T20:17:09.545082+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Slaughtermode_Red_Band-6dd39a71103b0e785277.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Slaughtermode_Red_Band-6dd39a71103b0e785277.jpg",
+      "threads_published_at": "2026-11-12T20:17:11.018330+00:00"
     }
   ],
-  "updated_at": "2026-11-12T20:17:09.545166+00:00"
+  "updated_at": "2026-11-12T20:17:11.018415+00:00"
 }
