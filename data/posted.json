@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "099a5cd0f7423708a50425fe",
-      "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
-      "url": "https://ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T21:54:09+00:00",
-      "score": 9,
-      "event_key": "Mew2King banned from XFS 2026 due to bug bites concerns",
-      "title_ru": "Игрок в Super Smash Bros. отстранен от турнира из-за проблем со здоровьем",
-      "threads_teaser_ru": "Профессиональный игрок в Super Smash Bros. Mew2King исключен из состава участников турнира XFS 2026. Причиной стали его публичные жалобы на проблемы с кожей и возможную инвазию насекомых в доме, что обеспокоило организаторов мероприятия.",
-      "telegram_message_id": "1370",
-      "telegram_url": "https://t.me/gamepulse_newss/1370",
-      "telegram_published_at": "2026-10-16T23:17:34.524403+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T23:17:35.937185+00:00"
-    },
-    {
       "fingerprint": "bc6533f0dbcf538160c6a376",
       "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
       "url": "https://ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/DS2-Scholar_main.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-12T14:32:45.515231+00:00"
+    },
+    {
+      "fingerprint": "2f62f00c997b9ca7f2f1ee10",
+      "title": "Sankan, a Co-op Horror Game Set at a Japanese Gas Station in 1999, Announced for PC",
+      "url": "https://ign.com/articles/sankan-a-co-op-horror-game-set-at-a-japanese-gas-station-in-1999-announced-for-pc",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T15:00:00+00:00",
+      "score": 15,
+      "event_key": "Sankan horror game announcement for PC",
+      "title_ru": "Анонсирован кооперативный хоррор Sankan о работе на японской заправке в 1999 году",
+      "threads_teaser_ru": "Анонсирован кооперативный хоррор Sankan. Игрокам предстоит работать в ночную смену на японской заправке в 1999 году, где загадочный голос в голове заставляет совершать убийства. Проект выйдет на PC в начале 2027 года и поддерживает кооператив до трех человек.",
+      "telegram_message_id": "2571",
+      "telegram_url": "https://t.me/gamepulse_newss/2571",
+      "telegram_published_at": "2026-11-12T15:03:10.062503+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/11/sankan-preview-blogroll-1794433455324.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-12T14:32:45.515317+00:00"
+  "updated_at": "2026-11-12T15:03:10.062589+00:00"
 }
