@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2bd885ebc805be8f7e63bb7f",
-      "title": "All The Records GTA 6 Will Break, We Think",
-      "url": "https://gamespot.com/articles/all-the-records-gta-6-will-break-we-think",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-16T20:27:22+00:00",
-      "score": 6,
-      "event_key": "GTA 6 sales forecast and preorders expectations",
-      "title_ru": "Аналитики прогнозируют рекордный старт продаж GTA 6",
-      "threads_teaser_ru": "Аналитики прогнозируют, что GTA 6 может принести около 2 млрд долларов выручки уже на старте. Релиз игры состоится 19 ноября, а эксперты ожидают до 25 млн предзаказов. Делимся подробностями ожидаемых рекордов.",
-      "telegram_message_id": "1388",
-      "telegram_url": "https://t.me/gamepulse_newss/1388",
-      "telegram_published_at": "2026-10-17T04:47:59.324664+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
-      "threads_published_at": "2026-10-17T04:48:00.618460+00:00"
-    },
-    {
       "fingerprint": "f0708b0f9aa6dcffb4d70f45",
       "title": "Meet the Solos AirGo V2: Smart Glasses That Pack Powerful AI Into a Sleek, Modular Design",
       "url": "https://ign.com/articles/solos-airgo-v2-smart-glasses",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Slaughtermode_Red_Band-6dd39a71103b0e785277.jpg",
       "threads_published_at": "2026-11-12T20:17:11.018330+00:00"
+    },
+    {
+      "fingerprint": "0d1725859ce21adc21a2f50e",
+      "title": "Disney Plus Is Officially the New Streaming Home of the Game Awards",
+      "url": "https://polygon.com/game-awards-2026-disney-plus-streaming-announced-geoff-keighley-goty",
+      "source": "Polygon",
+      "published_at_source": "2026-11-12T18:41:41+00:00",
+      "score": 12,
+      "event_key": "disney-plus-to-stream-the-game-awards-2026",
+      "title_ru": "Disney Plus покажет The Game Awards 2026 в прямом эфире",
+      "threads_teaser_ru": "Disney Plus впервые станет платформой для трансляции церемонии The Game Awards 2026. Шоу пройдет 10 декабря, а главным вопросом остается борьба за звание «Игры года» на фоне выхода громких релизов вроде GTA 6.",
+      "telegram_message_id": "2589",
+      "telegram_url": "https://t.me/gamepulse_newss/2589",
+      "telegram_published_at": "2026-11-12T20:32:17.317709+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/geoffies.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-12T20:17:11.018415+00:00"
+  "updated_at": "2026-11-12T20:32:17.317805+00:00"
 }
