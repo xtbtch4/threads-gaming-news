@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ca8668d40be7111dbdd3db01",
-      "title": "The creator of last year's cult hit RPG The Necromancer's Tale is back with The Lich Wars, a storybook RPG that follows 30 years of undead botheration",
-      "url": "https://rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T15:45:00+00:00",
-      "score": 8,
-      "event_key": "Psychic Software announces The Lich Wars prequel RPG",
-      "title_ru": "Анонсирована The Lich Wars — приквел RPG The Necromancer's Tale",
-      "threads_teaser_ru": "Студия Psychic Software анонсировала The Lich Wars — приквел своей RPG The Necromancer's Tale. Это «storybook RPG» про мушкетера в альтернативном XVIII веке, охватывающая 30 лет сражений и борьбы с темной магией. Дата выхода пока не раскрыта.",
-      "telegram_message_id": "1378",
-      "telegram_url": "https://t.me/gamepulse_newss/1378",
-      "telegram_published_at": "2026-10-17T01:33:14.269740+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/unnamed(3)_AMHotxZ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-17T01:33:15.629310+00:00"
-    },
-    {
       "fingerprint": "1542d535efc0e21fbb6b37ac",
       "title": "Bluey's Happy Snaps is now available – News – Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/explore-blueys-world-like-never-before-in-blueys-happy-snaps-available-now",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png?w=300",
       "threads_published_at": "2026-11-12T17:17:21.286707+00:00"
+    },
+    {
+      "fingerprint": "399fcf6e0de495dd48773439",
+      "title": "It's almost the final lap! Join us for the Mario Kart World Open Nov. 2026 event! - News - Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/competitive-play-its-almost-the-final-lap-join-us-for-the-mario-kart-world-open-nov-2026-event",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-12T17:00:00+00:00",
+      "score": 13,
+      "event_key": "Mario Kart World Open November 2026 tournament announced",
+      "title_ru": "Анонсирован турнир Mario Kart World Open November 2026",
+      "threads_teaser_ru": "Nintendo анонсировала квалификационное событие Mario Kart World Open November 2026. Игроки на Nintendo Switch 2 смогут побороться за место в Mario Kart World Fall Cup 2026 и получить платиновые очки My Nintendo. Рассказываем, когда пройдет турнир и что нужно для участия.",
+      "telegram_message_id": "2579",
+      "telegram_url": "https://t.me/gamepulse_newss/2579",
+      "telegram_published_at": "2026-11-12T17:32:47.615914+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-12T17:17:21.286812+00:00"
+  "updated_at": "2026-11-12T17:32:47.616002+00:00"
 }
