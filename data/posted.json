@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ffa12b648a25e1d5f30c725e",
-      "title": "What Happened to Modern Technology in Avatar: Seven Havens?",
-      "url": "https://ign.com/articles/what-happened-to-modern-technology-in-avatar-seven-havens",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T20:40:03+00:00",
-      "score": 6,
-      "event_key": "technology state analysis in Avatar: Seven Havens series",
-      "title_ru": "Что произошло с современными технологиями в сериале Avatar: Seven Havens",
-      "threads_teaser_ru": "В сериале Avatar: Seven Havens герои пользуются лишь примитивными радиоприемниками и генераторами, хотя спустя 225 лет после The Legend of Korra технологии должны были шагнуть далеко вперед. Разбираемся, что могло привести к такому упадку и причем здесь энергия духовных лиан.",
-      "telegram_message_id": "1386",
-      "telegram_url": "https://t.me/gamepulse_newss/1386",
-      "telegram_published_at": "2026-10-17T03:47:22.805478+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/screenshot-2026-10-16-135919-1792184488424.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-17T03:47:24.479125+00:00"
-    },
-    {
       "fingerprint": "24e185cf438b4613fbfc64ed",
       "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
       "url": "https://polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/starwars.png?w=300",
       "threads_published_at": "2026-11-12T19:46:46.837675+00:00"
+    },
+    {
+      "fingerprint": "e828ac1024bf149f95a1030f",
+      "title": "AI Usage Up, PS6 and Xbox Helix Development Still Low in Newest GDC Dev Survey",
+      "url": "https://ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T19:37:48+00:00",
+      "score": 13,
+      "event_key": "GDC 15th annual game developer survey results report",
+      "title_ru": "Опубликованы результаты 15-го ежегодного опроса разработчиков от GDC",
+      "threads_teaser_ru": "Опубликован свежий отчет GDC: 40% разработчиков используют ИИ, но большинство считает его влияние на индустрию негативным. Также стало известно, сколько специалистов сейчас заняты созданием игр для PS6, Xbox Project Helix и Switch 2, и какова реальная ситуация с увольнениями и профсоюзами.",
+      "telegram_message_id": "2587",
+      "telegram_url": "https://t.me/gamepulse_newss/2587",
+      "telegram_published_at": "2026-11-12T20:02:58.207920+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-12T19:46:46.837756+00:00"
+  "updated_at": "2026-11-12T20:02:58.208032+00:00"
 }
