@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ddc312c340692d0b685c2b24",
-      "title": "CD Projekt is in \"a really dangerous place\", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality",
-      "url": "https://rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T08:15:00+00:00",
-      "score": 6,
-      "event_key": "Mark Darrah discusses AAA industry hyper-fragility and costs",
-      "title_ru": "Марк Дарра о «гиперхрупкости» современной AAA-индустрии",
-      "threads_teaser_ru": "Разработка крупных игр стала «гиперхрупкой» из-за избыточной специализации и роста штатов. Бывший продюсер Bioware Марк Дарра предупреждает о рисках для индустрии, указывая на то, что задержки в таких гигантах, как Grand Theft Auto VI, обходятся в миллионы долларов.",
-      "telegram_message_id": "1390",
-      "telegram_url": "https://t.me/gamepulse_newss/1390",
-      "telegram_published_at": "2026-10-17T06:47:34.144462+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/witcher-4-cyberpunk-2-hadar-updates-cd-projekt-financials-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-17T06:47:35.511742+00:00"
-    },
-    {
       "fingerprint": "e4a381500f7158e833515bff",
       "title": "9 Most Perfect Single-Player Zelda Clones Nobody Plays, Ranked",
       "url": "https://polygon.com/best-zelda-likes-nobody-plays-ranked",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/FF14-Eikichi-Iwai-Memorials.jpg?w=300",
       "threads_published_at": "2026-11-12T20:47:12.000506+00:00"
+    },
+    {
+      "fingerprint": "3226e98e1752b61176cc7912",
+      "title": "Fable Drops Four Minutes of New Gameplay",
+      "url": "https://ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T20:16:03+00:00",
+      "score": 11,
+      "event_key": "Xbox releases four minutes of new Fable gameplay",
+      "title_ru": "Xbox показала четыре минуты геймплея Fable",
+      "threads_teaser_ru": "Xbox выпустила четырехминутный геймплейный ролик Fable, записанный на PC с максимальными настройками графики. Видео демонстрирует особенности боевой системы, включая магию, а также завершается интригующей сценой в загадочной гробнице.",
+      "telegram_message_id": "2591",
+      "telegram_url": "https://t.me/gamepulse_newss/2591",
+      "telegram_published_at": "2026-11-12T21:02:45.262224+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/01/23/fable-thefirstpreview-blogroll-1769205292794.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-12T20:47:12.000596+00:00"
+  "updated_at": "2026-11-12T21:02:45.262317+00:00"
 }
