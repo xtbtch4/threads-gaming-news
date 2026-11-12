@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "95f1631e80ebfbe4b4a27ca5",
-      "title": "Stranger Than Heaven – Act 1: Kokura Story Overview Trailer",
-      "url": "https://gamespot.com/videos/stranger-than-heaven-act-1-kokura-story-overview-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-16T15:53:43+00:00",
-      "score": 10,
-      "event_key": "Stranger Than Heaven Act 1 Kokura Story trailer release",
-      "title_ru": "Трейлер Stranger Than Heaven: Act 1: Kokura",
-      "threads_teaser_ru": "Вышел новый трейлер Stranger Than Heaven, посвященный первому акту истории — Kokura. Ролик рассказывает, как герой Макото Дайто попал на судно Orpheus, и показывает его прибытие в Японию. Полный сюжет игры охватит пятьдесят лет истории.",
-      "telegram_message_id": "1367",
-      "telegram_url": "https://t.me/gamepulse_newss/1367",
-      "telegram_published_at": "2026-10-16T22:32:16.950411+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_a5d5a1.jpg?w=300",
-      "threads_published_at": "2026-10-16T22:32:18.233571+00:00"
-    },
-    {
       "fingerprint": "653ad14e2e5d5752bb3f19c0",
       "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
       "url": "https://eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fred_wester_header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-12T13:47:01.313949+00:00"
+    },
+    {
+      "fingerprint": "50d02b2b39245927137990f0",
+      "title": "Intergalactic: The Heretic Prophet Has Some Unexpected Anime Influences",
+      "url": "https://gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-12T13:55:00+00:00",
+      "score": 13,
+      "event_key": "neil-druckmann-intergalactic-the-heretic-prophet-anime-influences",
+      "title_ru": "Аниме-влияние на Intergalactic: The Heretic Prophet",
+      "threads_teaser_ru": "Режиссер Нил Дракманн рассказал, что на создание научно-фантастической игры Intergalactic: The Heretic Prophet студию Naughty Dog вдохновили культовые аниме, включая Akira и Cowboy Bebop.",
+      "telegram_message_id": "2568",
+      "telegram_url": "https://t.me/gamepulse_newss/2568",
+      "telegram_published_at": "2026-11-12T14:02:35.661766+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Intergalactic-Akira.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-12T13:47:01.314049+00:00"
+  "updated_at": "2026-11-12T14:02:35.661869+00:00"
 }
