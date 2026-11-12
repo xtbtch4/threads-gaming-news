@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cb203711137200bb9a9166b0",
-      "title": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste",
-      "url": "https://rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-16T17:44:15+00:00",
-      "score": 7,
-      "event_key": "nonolith puzzle game mechanics announcement",
-      "title_ru": "Анонсирована головоломка Nonolith с механикой копирования окружения",
-      "threads_teaser_ru": "В головоломке Nonolith игроку нужно сбежать из живого лабиринта, копируя и вставляя части окружения. Можно передвигать стены, создавать лестницы или активировать скрытые заклинания, выстраивая плитки в особые узоры. Демо уже в Steam.",
-      "telegram_message_id": "1383",
-      "telegram_url": "https://t.me/gamepulse_newss/1383",
-      "telegram_published_at": "2026-10-17T02:48:54.928664+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/nonolith.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-17T02:48:56.317207+00:00"
-    },
-    {
       "fingerprint": "3f696e0614e5367045c15fd3",
       "title": "New Zelda: Ocarina of Time trailer reveals Dark Link New Zelda: Ocarina of Time trailer reveals Dark Link",
       "url": "https://polygon.com/legend-of-zelda-ocarina-of-time-new-trailers-dark-link",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-Playback.jpg?w=300",
       "threads_published_at": "2026-11-12T19:02:38.872677+00:00"
+    },
+    {
+      "fingerprint": "eebfdf72cf6b07f9a1cbce1e",
+      "title": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
+      "url": "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-12T19:00:00+00:00",
+      "score": 12,
+      "event_key": "fable new quest gameplay xbox 25th anniversary",
+      "title_ru": "Новый геймплей Fable в честь 25-летия Xbox",
+      "threads_teaser_ru": "К 25-летию Xbox создатели Fable представили свежий геймплей и показали прохождение одного из новых квестов. Что еще известно о долгожданном проекте?",
+      "telegram_message_id": "2584",
+      "telegram_url": "https://t.me/gamepulse_newss/2584",
+      "telegram_published_at": "2026-11-12T19:17:08.889433+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FABLE_Quest_Gameplay_Thumbnail-4c1fa52ad9c7121409ed.jpg"
     }
   ],
-  "updated_at": "2026-11-12T19:02:38.872766+00:00"
+  "updated_at": "2026-11-12T19:17:08.889543+00:00"
 }
