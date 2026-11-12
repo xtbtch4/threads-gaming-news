@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "70a75308ecc442596159bf12",
-      "title": "\"Father of PlayStation\" Says Game Ownership Is a \"Mentality\" - IGN Daily Fix",
-      "url": "https://ign.com/videos/father-of-playstation-says-game-ownership-is-a-mentality-ign-daily-fix",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T13:34:00+00:00",
-      "score": 14,
-      "event_key": "father of playstation backs sony killing physical discs",
-      "title_ru": "Создатель PlayStation поддержал отказ Sony от физических дисков",
-      "threads_teaser_ru": "Создатель PlayStation Кен Кутараги поддержал решение Sony отказаться от физических дисков, назвав это экономически нецелесообразным. Тем временем конгрессмен США готовит законопроект о цифровых правах игроков.",
-      "telegram_message_id": "1361",
-      "telegram_url": "https://t.me/gamepulse_newss/1361",
-      "telegram_published_at": "2026-10-16T21:02:31.003220+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/gfix-101626-blogroll-1792180603361.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T21:02:32.338886+00:00"
-    },
-    {
       "fingerprint": "f8af0d66c49c0cd70f5ded00",
       "title": "Pokémon Reveals New 'Holiday Helper’ Plush Collection With a Christmas Tree Pikachu and Clodsire Sled",
       "url": "https://ign.com/articles/pokemon-holiday-helper-plush-reveal",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Marvel-1943_-Rise-of-Hydra-_-Story-Trailer-0-25-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-12T11:16:58.288736+00:00"
+    },
+    {
+      "fingerprint": "3a3c7849381708b3c97f2000",
+      "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
+      "url": "https://eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-12T11:37:30+00:00",
+      "score": 11,
+      "event_key": "Nvidia board considers removing CEO Jensen Huang",
+      "title_ru": "Совет директоров Nvidia обсуждает возможную отставку CEO Дженсена Хуанга",
+      "threads_teaser_ru": "Совет директоров Nvidia обсуждает возможное увольнение Дженсена Хуанга на фоне новостей о его второй внебрачной связи. Компания сейчас переживает непростой период из-за скандалов и вопросов о соблюдении торговых ограничений с Китаем.",
+      "telegram_message_id": "2562",
+      "telegram_url": "https://t.me/gamepulse_newss/2562",
+      "telegram_published_at": "2026-11-12T11:47:16.700216+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/NVIDIA-CEO-Jensen-Huang-Keynote-at-CES-2025-20-19-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-12T11:16:58.288825+00:00"
+  "updated_at": "2026-11-12T11:47:16.700301+00:00"
 }
