@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a0ed0f1e32f2bb3aafa3219b",
-      "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great",
-      "url": "https://polygon.com/gta-6-ballad-of-gay-tony",
-      "source": "Polygon",
-      "published_at_source": "2026-10-16T18:00:18+00:00",
-      "score": 8,
-      "event_key": "GTA 6 compared to The Ballad of Gay Tony",
-      "title_ru": "Связь GTA 6 и The Ballad of Gay Tony",
-      "threads_teaser_ru": "Аналитики Polygon нашли множество параллелей между GTA 6 и DLC The Ballad of Gay Tony. От визуального стиля и работы с клубной культурой до масштаба взрывных миссий — новая игра Rockstar Games кажется духовным наследником приключений Луиса Лопеса.",
-      "telegram_message_id": "1375",
-      "telegram_url": "https://t.me/gamepulse_newss/1375",
-      "telegram_published_at": "2026-10-17T00:32:07.920024+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_10.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-17T00:32:09.400330+00:00"
-    },
-    {
       "fingerprint": "cc3cfdfd866334d0fa918493",
       "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
       "url": "https://polygon.com/gta-6-trump-rockstar-games",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-12T16:32:35.298153+00:00"
+    },
+    {
+      "fingerprint": "53759cd1bc9050a4c1d42ac8",
+      "title": "Free Play Days – Sumerian Six, Hypnospace Outlaw, Sunderfolk and STUFFED",
+      "url": "https://news.xbox.com/en-us/2026/11/12/free-play-days-11-12-2026",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-12T16:30:00+00:00",
+      "score": 13,
+      "event_key": "free_play_days_nov_2026_four_games",
+      "title_ru": "Сборник Free Play Days: Sumerian Six, Hypnospace Outlaw, Sunderfolk и STUFFED",
+      "threads_teaser_ru": "С 12 по 15 ноября подписчики Xbox Game Pass Ultimate, Premium и Essential могут бесплатно сыграть в Sumerian Six, Hypnospace Outlaw, Sunderfolk и STUFFED в рамках Free Play Days.",
+      "telegram_message_id": "2576",
+      "telegram_url": "https://t.me/gamepulse_newss/2576",
+      "telegram_published_at": "2026-11-12T16:46:56.017586+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-12-26_1920x1080-4180c8ccbf6ff7c58404.jpg"
     }
   ],
-  "updated_at": "2026-11-12T16:32:35.298242+00:00"
+  "updated_at": "2026-11-12T16:46:56.017670+00:00"
 }
