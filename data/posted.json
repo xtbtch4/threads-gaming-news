@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cc81101215b57bbb347e1069",
-      "title": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
-      "url": "https://ign.com/articles/specs-snaps-first-ever-ar-glasses-ships-out-this-fall",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T19:40:00+00:00",
-      "score": 8,
-      "event_key": "Snap Inc announces SPECS augmented reality glasses",
-      "title_ru": "Snap анонсировала AR-очки SPECS",
-      "threads_teaser_ru": "Компания Snap Inc. представила свои первые очки дополненной реальности — SPECS. Устройство с поддержкой ИИ, процессорами Snapdragon и 4-часовым временем работы от аккумулятора оценили в 2195 долларов.",
-      "telegram_message_id": "1374",
-      "telegram_url": "https://t.me/gamepulse_newss/1374",
-      "telegram_published_at": "2026-10-17T00:16:59.751807+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/specsjackharlow-1791922650971.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-17T00:17:01.030787+00:00"
-    },
-    {
       "fingerprint": "a0ed0f1e32f2bb3aafa3219b",
       "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great",
       "url": "https://polygon.com/gta-6-ballad-of-gay-tony",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/12/lego-star-wars-january-2027-blogroll-1794496360798.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-12T16:02:43.806537+00:00"
+    },
+    {
+      "fingerprint": "3e7b56d773e9bc9531f1a523",
+      "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
+      "url": "https://eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-12T16:06:20+00:00",
+      "score": 15,
+      "event_key": "Steam game submission review backlog AI slop delays",
+      "title_ru": "Разработчики инди-игр массово переносят релизы из-за задержек на Steam",
+      "threads_teaser_ru": "Valve ужесточает правила подачи игр на Steam, но ситуация не улучшается: инди-разработчики вынуждены переносить даты выхода своих проектов из-за затянувшегося ожидания проверки. Среди пострадавших игр — Australia Did It: End-of-the-World Railway Defense Business и Amazing Slot Survivor.",
+      "telegram_message_id": "2575",
+      "telegram_url": "https://t.me/gamepulse_newss/2575",
+      "telegram_published_at": "2026-11-12T16:32:33.876301+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-12T16:02:43.806629+00:00"
+  "updated_at": "2026-11-12T16:32:33.876417+00:00"
 }
