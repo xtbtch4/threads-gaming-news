@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d6ddd1649bfc7fc9e4662ff6",
-      "title": "Save 45% Off the Stylish MFish E-Rhino 140W USB-C Charger",
-      "url": "https://ign.com/articles/mfish-usb-c-charger-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T21:20:00+00:00",
-      "score": 6,
-      "event_key": "MFish E-Rhino 140W USB-C charger discount on Amazon",
-      "title_ru": "Скидка на зарядное устройство MFish E-Rhino 140W",
-      "threads_teaser_ru": "На Amazon временно снижена цена на мощное зарядное устройство MFish E-Rhino 140W. Гаджет с поддержкой технологии GaN и футуристичным дизайном подходит для быстрой зарядки энергоемких устройств вроде Legion Go 2 или MacBook Pro.",
-      "telegram_message_id": "1385",
-      "telegram_url": "https://t.me/gamepulse_newss/1385",
-      "telegram_published_at": "2026-10-17T03:16:52.975257+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/mfisherhino-1792185174919.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-17T03:16:54.252202+00:00"
-    },
-    {
       "fingerprint": "ffa12b648a25e1d5f30c725e",
       "title": "What Happened to Modern Technology in Avatar: Seven Havens?",
       "url": "https://ign.com/articles/what-happened-to-modern-technology-in-avatar-seven-havens",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/PieceByPiece.jpg?w=300",
       "threads_published_at": "2026-11-12T19:32:01.054945+00:00"
+    },
+    {
+      "fingerprint": "342f671605f6701e57ed021f",
+      "title": "Disney Teases “Major Announcements” For The Game Awards",
+      "url": "https://gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-12T19:10:03+00:00",
+      "score": 15,
+      "event_key": "disney_teases_major_announcements_at_the_game_awards",
+      "title_ru": "Disney анонсировала крупные новости на The Game Awards",
+      "threads_teaser_ru": "Компания Disney пообещала крупные анонсы и сюрпризы по своим игровым проектам на церемонии The Game Awards 2026, трансляция которой пройдет в декабре.",
+      "telegram_message_id": "2586",
+      "telegram_url": "https://t.me/gamepulse_newss/2586",
+      "telegram_published_at": "2026-11-12T19:46:45.467086+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/starwars.png?w=300"
     }
   ],
-  "updated_at": "2026-11-12T19:32:01.055039+00:00"
+  "updated_at": "2026-11-12T19:46:45.467180+00:00"
 }
