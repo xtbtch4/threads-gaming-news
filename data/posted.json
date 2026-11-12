@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "653ad14e2e5d5752bb3f19c0",
-      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-      "url": "https://eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-15T02:17:00+00:00",
-      "score": 10,
-      "event_key": "007 First Light Switch 2 release date announcement",
-      "title_ru": "Версия 007 First Light для Switch 2 выйдет 18 марта 2027 года",
-      "threads_teaser_ru": "Стала известна точная дата релиза 007 First Light на Switch 2. IO Interactive сообщили, что дополнительное время было необходимо для полировки производительности, чтобы проект соответствовал ожиданиям игроков. Что еще известно о порте и статусе игры?",
-      "telegram_message_id": "1368",
-      "telegram_url": "https://t.me/gamepulse_newss/1368",
-      "telegram_published_at": "2026-10-16T22:47:02.006632+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/007-first-light-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-16T22:47:03.671663+00:00"
-    },
-    {
       "fingerprint": "7c5887cb3156a34112c1d034",
       "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
       "url": "https://ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
@@ -20526,7 +20509,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Intergalactic-Akira.jpg?w=300",
       "threads_published_at": "2026-11-12T14:02:37.050256+00:00"
+    },
+    {
+      "fingerprint": "897fabff4d4f22953f9dbee2",
+      "title": "Ocarina of Time Fans Should Check Out This Zelda-Inspired TTRPG That Just Hit Stores",
+      "url": "https://polygon.com/twilight-sword-rpg-zelda-stores-launch-backerkit",
+      "source": "Polygon",
+      "published_at_source": "2026-11-12T13:46:16+00:00",
+      "score": 10,
+      "event_key": "twilight_sword_ttrpg_retail_launch",
+      "title_ru": "Настольная ролевая игра Twilight Sword поступила в розничную продажу",
+      "threads_teaser_ru": "Настольная игра Twilight Sword, вдохновленная сериями The Legend of Zelda, поступила в розничные магазины после успешного сбора средств на BackerKit. Авторы уже запустили кампанию для первого дополнения.",
+      "telegram_message_id": "2569",
+      "telegram_url": "https://t.me/gamepulse_newss/2569",
+      "telegram_published_at": "2026-11-12T14:17:10.160716+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/tlm_ts_pmax_1200x628_boy.png?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/cm-1792159929.mp4"
     }
   ],
-  "updated_at": "2026-11-12T14:02:37.050363+00:00"
+  "updated_at": "2026-11-12T14:17:10.160815+00:00"
 }
