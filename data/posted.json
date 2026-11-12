@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "21d05013c7988da3a2a3134c",
-      "title": "Nvidia App Update Will Let AI Agents Tune Your Graphics Card, but Some Users are Warning to Turn It Off",
-      "url": "https://ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
-      "source": "IGN",
-      "published_at_source": "2026-10-16T17:56:32+00:00",
-      "score": 11,
-      "event_key": "nvidia-app-update-adds-ai-agents-control",
-      "title_ru": "Новое обновление Nvidia App добавляет поддержку AI-агентов",
-      "threads_teaser_ru": "Свежее обновление Nvidia App добавило функцию, позволяющую AI-агентам управлять приложением. Настройка включена по умолчанию и вызвала споры о безопасности.",
-      "telegram_message_id": "1357",
-      "telegram_url": "https://t.me/gamepulse_newss/1357",
-      "telegram_published_at": "2026-10-16T19:47:04.032733+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/11/22/best-nvidia-black-friday-deals-laptops-uk-2024-1732273493347.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-16T19:47:05.490225+00:00"
-    },
-    {
       "fingerprint": "cc07268c9d2dcfb4b9b11c4c",
       "title": "I Bought a Steam Machine – Here’s Why (and How It’s Going)",
       "url": "https://ign.com/articles/i-bought-a-steam-machine-heres-why-and-how-its-going",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-11T23:02:58.927427+00:00"
+    },
+    {
+      "fingerprint": "62c536dca71685c2648d6965",
+      "title": "The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 sells over 5.2 million units worldwide in first four days - News - Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-11T17:00:00+00:00",
+      "score": 12,
+      "event_key": "zelda ocarina of time switch 2 sales record",
+      "title_ru": "The Legend of Zelda: Ocarina of Time для Nintendo Switch 2 преодолела отметку в 5,2 миллиона копий",
+      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time для Nintendo Switch 2 разошелся тиражом более 5,2 миллиона копий за первые четыре дня после ноябрьского релиза, установив рекорд для платформы.",
+      "telegram_message_id": "2558",
+      "telegram_url": "https://t.me/gamepulse_newss/2558",
+      "telegram_published_at": "2026-11-12T02:32:19.605716+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-11T23:02:58.927511+00:00"
+  "updated_at": "2026-11-12T02:32:19.605848+00:00"
 }
