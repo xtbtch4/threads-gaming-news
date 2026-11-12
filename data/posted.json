@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8be74a8a341fcf86787d9fa1",
-      "title": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
-      "url": "https://polygon.com/horror-anthology-creepypasta-halloween-countdown",
-      "source": "Polygon",
-      "published_at_source": "2026-10-17T10:00:18+00:00",
-      "score": 6,
-      "event_key": "Channel Zero The Dream Door horror anthology series review",
-      "title_ru": "Обзор антологии Channel Zero: The Dream Door",
-      "threads_teaser_ru": "Забытая антология Channel Zero адаптировала интернет-хорроры задолго до бума подобных экранизаций. Четвертый сезон шоу, «The Dream Door», исследует пугающую историю о запертой двери в подвале и монстре, который оказался воплощением подавленной детской травмы.",
-      "telegram_message_id": "1398",
-      "telegram_url": "https://t.me/gamepulse_newss/1398",
-      "telegram_published_at": "2026-10-17T10:17:08.243525+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-w1280-2.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-17T10:17:09.506550+00:00"
-    },
-    {
       "fingerprint": "c2605c6d2ffea9b9ed865cab",
       "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
       "url": "https://polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable",
@@ -20526,7 +20509,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2026/11/4307c0e946544855e38087de41e890782dd7d4bf.jpg",
       "video_url": "https://stream.mux.com/x11u00Kiwsnb500WVN7e00100Zz02TO9hbTkty0202vXFQmI5Q/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ4MTF1MDBLaXdzbmI1MDBXVk43ZTAwMTAwWnowMlRPOWhiVGt0eTAyMDJ2WEZRbUk1USIsImF1ZCI6InYiLCJleHAiOjE3OTQ1Njc2OTMsImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.l5anyiOB8LFFl5HCm-A5b5hG8Ht7RtSCpOscSjtTYRkpcssm7exCKs3CmrSnnxA1kHC-VREkIPnwOcmt8FmBXjl3QnqW-BuIAklL42QyuCQx_FmdXoKYzjwwDlgZQgyXM1FdfcFN6TKQy9sJDDgbWivM-cD7EylPmOQSCHcZ-tG6HxaPqW0eb-kjdfWRcz3VnkcuWTTLm2pGBXxMpS-4Og3eWYDvXtQxa1E5shHNr5QlAtqeI01LzGo5i0iB4_5MPBBEEWTRasWJfWMLuLUemMqNTuigT3z8eiHtjOZo8lSJt9eS0mq3LCzncc9FhkrejWOaEIIu2f28GpupxB39rw",
       "threads_published_at": "2026-11-12T23:02:20.354863+00:00"
+    },
+    {
+      "fingerprint": "c020910e6c498214ccaa452d",
+      "title": "Available for XBOX Insiders: More Ways to Personalize Your Home, Library, and Guide",
+      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-insiders-january-2027-console-features-1",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-12T23:00:01+00:00",
+      "score": 11,
+      "event_key": "Xbox Insiders update console UI customization features",
+      "title_ru": "Xbox Insiders тестируют новые функции кастомизации интерфейса",
+      "threads_teaser_ru": "Участники Xbox Insiders теперь могут переместить меню Guide на правую часть экрана, автоматически менять динамические фоны по расписанию и настроить отображение игр, полученных по цифровым лицензиям с дисков. Нововведения уже тестируются.",
+      "telegram_message_id": "2599",
+      "telegram_url": "https://t.me/gamepulse_newss/2599",
+      "telegram_published_at": "2026-11-12T23:17:36.192567+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/0.-Hero-261112-DiabloIV-4c1565a32512dee56997-1024x576.png"
     }
   ],
-  "updated_at": "2026-11-12T23:02:20.354970+00:00"
+  "updated_at": "2026-11-12T23:17:36.192658+00:00"
 }
