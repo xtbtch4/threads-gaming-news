@@ -20523,9 +20523,10 @@
       "telegram_message_id": "2590",
       "telegram_url": "https://t.me/gamepulse_newss/2590",
       "telegram_published_at": "2026-11-12T20:47:10.629257+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/FF14-Eikichi-Iwai-Memorials.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/FF14-Eikichi-Iwai-Memorials.jpg?w=300",
+      "threads_published_at": "2026-11-12T20:47:12.000506+00:00"
     }
   ],
-  "updated_at": "2026-11-12T20:47:10.629344+00:00"
+  "updated_at": "2026-11-12T20:47:12.000596+00:00"
 }
