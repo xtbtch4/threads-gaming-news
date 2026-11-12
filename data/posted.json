@@ -20523,9 +20523,10 @@
       "telegram_message_id": "2596",
       "telegram_url": "https://t.me/gamepulse_newss/2596",
       "telegram_published_at": "2026-11-12T22:16:43.827038+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/doom.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/doom.png?w=300",
+      "threads_published_at": "2026-11-12T22:16:45.171821+00:00"
     }
   ],
-  "updated_at": "2026-11-12T22:16:43.827142+00:00"
+  "updated_at": "2026-11-12T22:16:45.171919+00:00"
 }
