@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1ea8e746e474a77bd3aaee9d",
-      "title": "The PS6's memory and storage alone reportedly cost more than $680",
-      "url": "https://eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-18T17:10:29+00:00",
-      "score": 9,
-      "event_key": "ps6 ram and nand cost report keplerl2",
-      "title_ru": "Инсайдер оценил стоимость памяти и накопителя PS6",
-      "threads_teaser_ru": "Инсайдер Kepler_L2 сообщил, что оперативная память и накопитель для будущей консоли PS6 в сумме стоят более 680 долларов. Ранее также сообщалось о росте общей стоимости материалов устройства.",
-      "telegram_message_id": "1426",
-      "telegram_url": "https://t.me/gamepulse_newss/1426",
-      "telegram_published_at": "2026-10-18T17:16:56.507953+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T17:16:58.135515+00:00"
-    },
-    {
       "fingerprint": "7406a7f724c94aaba126fcb9",
       "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
       "url": "https://polygon.com/street-fighter-opening-weekend-box-office",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/08/20/deadpool-and-wolverine-wolverinepool-variant-1724166282353.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T13:02:52.821328+00:00"
+    },
+    {
+      "fingerprint": "770d91afd0fdbbbb656cf3fe",
+      "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
+      "url": "https://gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-12T20:12:18+00:00",
+      "score": 13,
+      "event_key": "Take-Two CEO views on future of physical video games",
+      "title_ru": "Глава Take-Two: физические копии игр останутся, но станут нишевым рынком",
+      "threads_teaser_ru": "Рынок физических копий игр не исчезнет, но станет нишевым, как виниловые пластинки — так считает глава Take-Two Strauss Zelnick. Пока издатель переходит на полностью цифровую модель, новые релизы, включая GTA 6, обходятся без дисков в комплекте.",
+      "telegram_message_id": "2627",
+      "telegram_url": "https://t.me/gamepulse_newss/2627",
+      "telegram_published_at": "2026-11-13T13:16:52.953148+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-13T13:02:52.821413+00:00"
+  "updated_at": "2026-11-13T13:16:52.953231+00:00"
 }
