@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "93045fa63d405080acad538d",
-      "title": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
-      "url": "https://ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
-      "source": "IGN",
-      "published_at_source": "2026-10-18T19:55:44+00:00",
-      "score": 9,
-      "event_key": "bloober_team_wants_to_make_physical_games_for_as_long_as_possible",
-      "title_ru": "Bloober Team хочет выпускать игры на физических носителях как можно дольше",
-      "threads_teaser_ru": "Глава Bloober Team Петр Бабено рассказал о важности физических копий игр и эмоциональной связи с фанатами. Студия намерена выпускать диски и картриджи как можно дольше, несмотря на тенденции индустрии к переходу на цифру.",
-      "telegram_message_id": "1431",
-      "telegram_url": "https://t.me/gamepulse_newss/1431",
-      "telegram_published_at": "2026-10-18T20:32:03.740869+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2024/05/30/silenthill2-1717063971235.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-18T20:32:05.142189+00:00"
-    },
-    {
       "fingerprint": "f8f37b076695d5f082385f96",
       "title": "Samson dev Liquid Swords has reportedly gone bankrupt",
       "url": "https://eurogamer.net/liquid-swords-samson-developer-bankrupt",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-no-internet.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T14:32:33.022772+00:00"
+    },
+    {
+      "fingerprint": "acd6fe424eced68549abddc1",
+      "title": "Stranger Than Heaven – Act 2: Kure Story Overview Trailer",
+      "url": "https://gamespot.com/videos/stranger-than-heaven-act-2-kure-story-overview-trailer",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-13T14:37:15+00:00",
+      "score": 11,
+      "event_key": "stranger than heaven act 2 kure trailer release",
+      "title_ru": "Вышел трейлер сюжетного акта 2 игры STRANGER THAN HEAVEN",
+      "threads_teaser_ru": "Авторы STRANGER THAN HEAVEN показали второй сюжетный трейлер, раскрывающий путь главного героя Makoto Daito. В видео «Act 2: Kure» протагонист вступает в клан якудза и получает грозное прозвище. Игра выходит в начале следующего года.",
+      "telegram_message_id": "2632",
+      "telegram_url": "https://t.me/gamepulse_newss/2632",
+      "telegram_published_at": "2026-11-13T15:03:31.615054+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/11_2fde2a.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-13T14:32:33.022879+00:00"
+  "updated_at": "2026-11-13T15:03:31.615153+00:00"
 }
