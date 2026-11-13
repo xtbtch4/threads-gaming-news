@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "815d067c5fdbf674eee8350b",
-      "title": "The Best 'Peanuts' Great Pumpkin Comic Strip Came Out 2 Years Before the Famous TV Special",
-      "url": "https://polygon.com/peanuts-best-great-pumpkin-comic-strip-linus",
-      "source": "Polygon",
-      "published_at_source": "2026-10-19T04:00:26+00:00",
-      "score": 5,
-      "event_key": "peanuts-great-pumpkin-comic-strip-history",
-      "title_ru": "История появления Великого Тыквенника в комиксах Peanuts",
-      "threads_teaser_ru": "Хотя знаменитый телеспекуал вышел в 1966 году, истоки истории о Великом Тыквеннике в комиксах Peanuts уходят еще в 1959 год. Читатели оригинальных стрипов могли наблюдать за одержимостью Линуса.",
-      "telegram_message_id": "1439",
-      "telegram_url": "https://t.me/gamepulse_newss/1439",
-      "telegram_published_at": "2026-10-19T04:02:26.453124+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-vimeo-itsthegreatpumpkincharliebrownvideosmoviesonvimeo-22-55.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-19T04:02:27.973370+00:00"
-    },
-    {
       "fingerprint": "c30308f35313581d616c0535",
       "title": "Tom Cruise's 10/10 War Action Epic Is About to Say Goodbye to HBO Max",
       "url": "https://polygon.com/tom-cruise-the-last-samurai-leaving-hbo-max-october-2026",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/02/19/crop-image-project-2-1771515719569.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T17:17:02.156239+00:00"
+    },
+    {
+      "fingerprint": "fc1da7c544b2083d59515dd2",
+      "title": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining",
+      "url": "https://rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-13T17:30:00+00:00",
+      "score": 12,
+      "event_key": "probably stolen cyberpunk shopkeeper sim gets three major updates",
+      "title_ru": "Probably Stolen – Cyberpunk Shopkeeper Sim получит три крупных обновления",
+      "threads_teaser_ru": "Студия Questing Goose анонсировала дорожную карту для симулятора Probably Stolen – Cyberpunk Shopkeeper Sim. В ближайший год в игру добавят три крупных сценария: торговлю ломом, нелегальный бизнес по продаже органов и развитие кулинарного дела.",
+      "telegram_message_id": "2640",
+      "telegram_url": "https://t.me/gamepulse_newss/2640",
+      "telegram_published_at": "2026-11-13T17:32:34.482205+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/probably-stolen-grapes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T17:17:02.156329+00:00"
+  "updated_at": "2026-11-13T17:32:34.482307+00:00"
 }
