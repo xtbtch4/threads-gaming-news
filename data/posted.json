@@ -20519,10 +20519,11 @@
       "telegram_message_id": "2645",
       "telegram_url": "https://t.me/gamepulse_newss/2645",
       "telegram_published_at": "2026-11-13T19:02:34.122677+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/2h0cqitn2c.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/rev3-sqshorts2-david-dastmalchian-demands-a-street-fighter-magic-deck-1792421934.mp4"
+      "video_url": "https://video.polygonimages.com/2026/10/rev3-sqshorts2-david-dastmalchian-demands-a-street-fighter-magic-deck-1792421934.mp4",
+      "threads_published_at": "2026-11-13T19:02:35.517621+00:00"
     }
   ],
-  "updated_at": "2026-11-13T19:02:34.122782+00:00"
+  "updated_at": "2026-11-13T19:02:35.517735+00:00"
 }
