@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "92d2f6f6c746fc816ef4fd42",
-      "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
-      "url": "https://ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
-      "source": "IGN",
-      "published_at_source": "2026-10-17T21:27:10+00:00",
-      "score": 7,
-      "event_key": "battlefield-6-developers-respond-to-season-5-skin-criticism",
-      "title_ru": "Разработчики Battlefield 6 ответили на критику спорных скинов из Season 5",
-      "threads_teaser_ru": "Авторы Battlefield 6 прокомментировали критику спорных скинов из Season 5. Опечатку на одном из предметов исправят в ноябре, но скин с пятью пистолетами останется прежним.",
-      "telegram_message_id": "1416",
-      "telegram_url": "https://t.me/gamepulse_newss/1416",
-      "telegram_published_at": "2026-10-18T13:47:05.332544+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/17/battlefield-6-season-5-1792272082254.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-18T13:47:06.797532+00:00"
-    },
-    {
       "fingerprint": "8e46b58cb4720272c4ab31d6",
       "title": "11 Years Later, Dragon Ball Super: Beerus Finally Nails Akira Toriyama's Original Vision",
       "url": "https://polygon.com/dragon-ball-super-beerus-finally-respects-toriyamas-vision",
@@ -20526,7 +20509,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/_dsc4031_r-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-13T08:17:47.199172+00:00"
+    },
+    {
+      "fingerprint": "31e7f7c969d7635ca03b7eec",
+      "title": "26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic",
+      "url": "https://polygon.com/peanuts-final-comic-strip-charlie-brown",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T07:23:17+00:00",
+      "score": 8,
+      "event_key": "Charles Schulz final Peanuts comic strip history",
+      "title_ru": "История завершения легендарного комикса Peanuts",
+      "threads_teaser_ru": "Как завершилась история Peanuts? Создатель комикса Чарльз Шульц был вынужден прекратить работу из-за проблем со здоровьем в 2000 году. Финальный выпуск увидел свет 13 февраля, всего через день после смерти автора, что стало печальным и символичным совпадением.",
+      "telegram_message_id": "2617",
+      "telegram_url": "https://t.me/gamepulse_newss/2617",
+      "telegram_published_at": "2026-11-13T08:32:33.507527+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4"
     }
   ],
-  "updated_at": "2026-11-13T08:17:47.199257+00:00"
+  "updated_at": "2026-11-13T08:32:33.507625+00:00"
 }
