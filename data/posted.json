@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f85641b7a7498dfc8c18b00f",
-      "title": "Castlevania: Belmont’s Curse Alucard Painting Puzzle Explained",
-      "url": "https://gamespot.com/articles/castlevania-belmonts-curse-alucard-painting-puzzle-explained",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-19T10:05:19+00:00",
-      "score": 12,
-      "event_key": "castlevania belmonts curse alucard painting puzzle explained",
-      "title_ru": "Гид по загадке с портретами Alucard в Castlevania: Belmont's Curse",
-      "threads_teaser_ru": "В Castlevania: Belmont's Curse игроки могут найти множество портретов Alucard в зоне Main Hall. Картины таят секретный смысл и указывают мечом на тайные проходы, реликвии и скрытые зоны.",
-      "telegram_message_id": "1444",
-      "telegram_url": "https://t.me/gamepulse_newss/1444",
-      "telegram_published_at": "2026-10-19T10:32:12.350814+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/castlevania-belmonts-curse-alucard-paintings.jpg?w=300",
-      "threads_published_at": "2026-10-19T10:32:13.746049+00:00"
-    },
-    {
       "fingerprint": "4b273104c570fc9f14cdc56a",
       "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
       "url": "https://eurogamer.net/steam-next-fest-2026-over-double",
@@ -20522,7 +20505,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T18:46:56.724719+00:00"
+    },
+    {
+      "fingerprint": "e2d0060a38df0c08990f6a29",
+      "title": "Magic Just Revealed 19 New Cards From 2027’s First Set — Including a $30 Reprint With Stunning Art",
+      "url": "https://polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T19:00:18+00:00",
+      "score": 12,
+      "event_key": "wizards-reveals-nauctis-the-sunken-realm-cards-at-magiccon-atlanta",
+      "title_ru": "Wizards of the Coast представила новые карты из сета Nauctis: The Sunken Realm для Magic: The Gathering",
+      "threads_teaser_ru": "Wizards of the Coast показала 19 карт из подводного сета Nauctis: The Sunken Realm для Magic: The Gathering. Релиз запланирован на 5 февраля 2027 года и откроет новую сюжетную арку.",
+      "telegram_message_id": "2645",
+      "telegram_url": "https://t.me/gamepulse_newss/2645",
+      "telegram_published_at": "2026-11-13T19:02:34.122677+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/2h0cqitn2c.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/rev3-sqshorts2-david-dastmalchian-demands-a-street-fighter-magic-deck-1792421934.mp4"
     }
   ],
-  "updated_at": "2026-11-13T18:46:56.724815+00:00"
+  "updated_at": "2026-11-13T19:02:34.122782+00:00"
 }
