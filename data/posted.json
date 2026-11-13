@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1497974ac51805eb6c134fbc",
-      "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
-      "url": "https://eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-18T09:00:00+00:00",
-      "score": 9,
-      "event_key": "Marcel Pflug Game Boy Museum cartridge project",
-      "title_ru": "Энтузиаст поместил целый музей Game Boy на один картридж",
-      "threads_teaser_ru": "Марсель Пфлуг перенес полноценный онлайн-музей консоли Game Boy на один физический картридж. Автор годами преодолевал ограничения «железа» 1989 года, чтобы создать работающую энциклопедию прямо внутри классического устройства.",
-      "telegram_message_id": "1407",
-      "telegram_url": "https://t.me/gamepulse_newss/1407",
-      "telegram_published_at": "2026-10-18T11:17:28.621700+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/game-boy-museum-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T11:17:29.939659+00:00"
-    },
-    {
       "fingerprint": "e149e20f6330782b663bd584",
       "title": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
       "url": "https://polygon.com/gta-san-andreas-bigfoot-myth",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/image-2-1794348771186.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T01:32:07.136964+00:00"
+    },
+    {
+      "fingerprint": "06b60641e4030900377ac414",
+      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy is available now!",
+      "url": "https://nintendo.com/us/whatsnew/see-whats-sprouting-in-pikmin-4-nintendo-switch-2-edition-dandori-academy-available-now",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-12T17:00:00+00:00",
+      "score": 10,
+      "event_key": "release of Pikmin 4 Nintendo Switch 2 Edition Dandori Academy",
+      "title_ru": "Релиз Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
+      "threads_teaser_ru": "На Nintendo Switch 2 вышла игра Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. Издание включает обновленную графику, голосовое управление для Oatchi и режим академии с десятками испытаний. Доступна поддержка совместной игры через GameShare и GameChat.",
+      "telegram_message_id": "2608",
+      "telegram_url": "https://t.me/gamepulse_newss/2608",
+      "telegram_published_at": "2026-11-13T01:47:17.377812+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-13T01:32:07.137056+00:00"
+  "updated_at": "2026-11-13T01:47:17.377903+00:00"
 }
