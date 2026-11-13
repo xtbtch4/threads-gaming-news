@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7406a7f724c94aaba126fcb9",
-      "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
-      "url": "https://polygon.com/street-fighter-opening-weekend-box-office",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T16:14:05+00:00",
-      "score": 6,
-      "event_key": "Street Fighter opening weekend box office vs Resident Evil",
-      "title_ru": "Street Fighter собрал в прокате в два раза меньше, чем Resident Evil",
-      "threads_teaser_ru": "Фильм Street Fighter стартовал в прокате заметно слабее Resident Evil. Лента по мотивам файтинга собрала $31 млн против $60 млн у конкурента, также уступив результатам Mortal Kombat 2. А вот настоящий сюрприз преподнесла документалка про Элизабет Холмс.",
-      "telegram_message_id": "1427",
-      "telegram_url": "https://t.me/gamepulse_newss/1427",
-      "telegram_published_at": "2026-10-18T17:32:19.648028+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mr_11021r.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/street-fighter-new-trailer-2026-movie-1788282178.mp4",
-      "threads_published_at": "2026-10-18T17:32:20.942236+00:00"
-    },
-    {
       "fingerprint": "11a2585907d93e474bd19e64",
       "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
       "url": "https://eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
@@ -20524,7 +20506,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.jpg?w=300",
       "threads_published_at": "2026-11-13T13:16:54.554668+00:00"
+    },
+    {
+      "fingerprint": "f7484cf76eb34c2ce030a205",
+      "title": "Guild Saga: Vanished Worlds brings tactical adventure to PS5 in May 2027",
+      "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-11-13T13:01:11+00:00",
+      "score": 12,
+      "event_key": "Guild Saga: Vanished Worlds announcement PS5 release date",
+      "title_ru": "Тактическая RPG Guild Saga: Vanished Worlds выйдет на PS5 в мае 2027 года",
+      "threads_teaser_ru": "Студия анонсировала тактическую RPG Guild Saga: Vanished Worlds, которая прибудет на PS5 в мае 2027 года. В центре внимания — гибкая прокачка, пошаговые бои с учетом погоды и окружения, а также исследование архипелага с массой побочных историй и квестов.",
+      "telegram_message_id": "2628",
+      "telegram_url": "https://t.me/gamepulse_newss/2628",
+      "telegram_published_at": "2026-11-13T13:32:27.452865+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2026/11/b76ffd50c3d63cbe3bcbf54cd2965dceb1a4e8b5.png",
+      "video_url": "https://stream.mux.com/HAA02PzW009nEJq7SwrG00kGkUM00sGpMxk1p5hxmbWDMOQ/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJIQUEwMlB6VzAwOW5FSnE3U3dyRzAwa0drVU0wMHNHcE14azFwNWh4bWJXRE1PUSIsImF1ZCI6InYiLCJleHAiOjE3OTQ2MTk4MjksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.g0xTPYZfVZ-te-Rixx3Z2vY4Ls8k-1e76u6H-jqYPvU7XgEVGG5NoMhvxKz7kQukDObIGv_iaAx6Bo5RilxwB_ZBypsv9Q98-fue4i8kYkJByJMwJrZYHKkZmBJtl_-o96hqwkLGs_9tJHLiOJMC-Z1XOXzdVDzS0BDxDmbedtMe8mpIv3ebRcWZIEONA1sw5cxPtUlVUKXwjHad-nGOnEz4kx2iQxQV40Pl0gotGUNuZUnUROVqMbi3Zo9YlpNHibVWw3d4paEfuUHylhTmUVPD08o-rYOlBkXS36MzzyISEBd9j4Fsstfxuwmyk7SjkeDkwm3SMhg8yP6clIWBpw"
     }
   ],
-  "updated_at": "2026-11-13T13:16:54.554755+00:00"
+  "updated_at": "2026-11-13T13:32:27.452960+00:00"
 }
