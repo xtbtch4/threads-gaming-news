@@ -20520,9 +20520,10 @@
       "telegram_message_id": "2641",
       "telegram_url": "https://t.me/gamepulse_newss/2641",
       "telegram_published_at": "2026-11-13T18:02:24.053909+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/crazy-taxi-india-map-revealed-1794350622082.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/crazy-taxi-india-map-revealed-1794350622082.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-13T18:02:25.701919+00:00"
     }
   ],
-  "updated_at": "2026-11-13T18:02:24.054007+00:00"
+  "updated_at": "2026-11-13T18:02:25.702014+00:00"
 }
