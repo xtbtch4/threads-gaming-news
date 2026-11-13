@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6dc97cf1731716e88a3de82a",
-      "title": "Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy",
-      "url": "https://polygon.com/happy-death-day-3-jessica-rothe-scream-queen",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T13:00:18+00:00",
-      "score": 10,
-      "event_key": "jessica rothe happy death day 3 update new york comic con",
-      "title_ru": "Jessica Rothe поделилась новостями о фильме Happy Death Day 3",
-      "threads_teaser_ru": "Исполнительница главной роли Jessica Rothe рассказала о работе над сюжетом фильма Happy Death Day 3 вместе с режиссером Christopher Landon. Теперь судьба триквела зависит от решения студии Universal.",
-      "telegram_message_id": "1413",
-      "telegram_url": "https://t.me/gamepulse_newss/1413",
-      "telegram_published_at": "2026-10-18T13:02:20.581806+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdhade_ec037.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-18T13:02:21.811860+00:00"
-    },
-    {
       "fingerprint": "87bf46619d5e0253873fa67e",
       "title": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
       "url": "https://rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/12/valheim-comicbookcoverart1-1794514240051.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T03:32:30.710380+00:00"
+    },
+    {
+      "fingerprint": "32c1c2e4074df90e322a0a24",
+      "title": "8 Near-Perfect Xbox 360 Games That Are Forgotten Masterpieces",
+      "url": "https://polygon.com/xbox-360-forgotten-masterpieces",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T04:00:17+00:00",
+      "score": 10,
+      "event_key": "polygon lists forgotten xbox 360 masterpieces",
+      "title_ru": "Polygon назвало 8 забытых шедевров эпохи Xbox 360",
+      "threads_teaser_ru": "Издание Polygon составило список незаслуженно забытых игр эпохи Xbox 360, в которые стоит сыграть сегодня. В подборку вошли Viva Piñata, Singularity, Crackdown, 1 vs. 100 и The Saboteur. Рассказываем, почему эти проекты остаются актуальными и что помешало им стать большими хитами.",
+      "telegram_message_id": "2614",
+      "telegram_url": "https://t.me/gamepulse_newss/2614",
+      "telegram_published_at": "2026-11-13T04:02:59.467596+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T03:32:30.710467+00:00"
+  "updated_at": "2026-11-13T04:02:59.467686+00:00"
 }
