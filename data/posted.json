@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6526d830f9532d171d228769",
-      "title": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
-      "url": "https://rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-17T20:29:12+00:00",
-      "score": 6,
-      "event_key": "Peter Molyneux hints at potential Black & White remaster",
-      "title_ru": "Peter Molyneux намекнул на возможный ремастер Black & White",
-      "threads_teaser_ru": "Похоже, полноценного продолжения Black & White ждать не стоит — Peter Molyneux рассказал о проблемах с авторскими правами. Зато он намекнул на работу над ремастером оригинальной игры, правда, подробности раскрывать отказался.",
-      "telegram_message_id": "1429",
-      "telegram_url": "https://t.me/gamepulse_newss/1429",
-      "telegram_published_at": "2026-10-18T18:02:49.433823+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/black-and-white_irNHIDY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T18:02:50.828642+00:00"
-    },
-    {
       "fingerprint": "49ca159c2093cc6bd93dc426",
       "title": "New Steam Game is Basically Kiki’s Delivery Service in Video Game Form",
       "url": "https://polygon.com/the-witchs-bakery-recommendation-steam-switch-ps5-xbox",
@@ -20524,7 +20507,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/VS-YouTube-ReleaseDateRevealTrailerPetitPlanetLaunchesGloballyonDecember4-YouTube-131-1.jpg?w=300",
       "threads_published_at": "2026-11-13T13:47:09.602548+00:00"
+    },
+    {
+      "fingerprint": "0c605a72b58aaade8a00e61f",
+      "title": "Xbox Shares New Fable Trailer that Divides the Fanbase",
+      "url": "https://polygon.com/fable-new-gameplay-trailer-xbox",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T12:45:30+00:00",
+      "score": 12,
+      "event_key": "Xbox reveals new Fable gameplay trailer causing fan backlash",
+      "title_ru": "Новый трейлер Fable вызвал споры среди фанатов",
+      "threads_teaser_ru": "Xbox показала геймплей перезапуска Fable, но фанаты разделились во мнениях. Многих смутил мрачный визуальный стиль, отличающийся от классических частей серии, а также акцент на кат-сценах вместо игрового процесса. Релиз запланирован на 23 февраля 2027 года.",
+      "telegram_message_id": "2630",
+      "telegram_url": "https://t.me/gamepulse_newss/2630",
+      "telegram_published_at": "2026-11-13T14:17:18.891435+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-1-12-35-pm.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/fable-official-something-in-the-water-gameplay-trailer-1794570054.mp4"
     }
   ],
-  "updated_at": "2026-11-13T13:47:09.602633+00:00"
+  "updated_at": "2026-11-13T14:17:18.891546+00:00"
 }
