@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fa3f9d895b4e9a1b7f94c18a",
-      "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
-      "url": "https://ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T10:17:11+00:00",
-      "score": 9,
-      "event_key": "modern warfare 4 pays tribute to vince zampella",
-      "title_ru": "В Modern Warfare 4 добавили дань уважения соавтору Call of Duty Винсу Зампелле",
-      "threads_teaser_ru": "В титрах новой сюжетной кампании Modern Warfare 4 студия Infinity Ward почтила память соавтора серии Винса Зампеллы, погибшего в автокатастрофе.",
-      "telegram_message_id": "1450",
-      "telegram_url": "https://t.me/gamepulse_newss/1450",
-      "telegram_published_at": "2026-10-19T12:02:47.931316+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/vincezampella1280jpg-fe1e2d-160w-1792404902827.webp?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-19T12:02:49.557382+00:00"
-    },
-    {
       "fingerprint": "355c35424f107c5ce624f074",
       "title": "The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike",
       "url": "https://blog.playstation.com/2026/10/19/the-saros-zenith-update-out-today-brings-more-ways-to-play-for-newcomers-and-veterans-alike",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/13/rainbow-six-vegas-1794596888042.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T22:47:06.288035+00:00"
+    },
+    {
+      "fingerprint": "d9ef795cc85c536d4440f3e7",
+      "title": "Blizzard Officially Responds to Disappointed Overwatch Fans Over Hero 55",
+      "url": "https://polygon.com/overwatch-new-hero-55-hudson-damage-dps-blizzard",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T22:53:10+00:00",
+      "score": 8,
+      "event_key": "Blizzard changes Overwatch hero Hudson from Support to DPS",
+      "title_ru": "Blizzard прокомментировала смену роли нового героя Overwatch Hudson",
+      "threads_teaser_ru": "Новый герой Overwatch — омник-детектив Hudson — выйдет в 6-м сезоне, но не как Support, а в роли DPS. Фанаты недовольны сменой специализации, но Blizzard объясняют это тем, что механики героя лучше работают именно в атакующем классе.",
+      "telegram_message_id": "2651",
+      "telegram_url": "https://t.me/gamepulse_newss/2651",
+      "telegram_published_at": "2026-11-13T23:03:46.559383+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/ow_s1_herolineup_keyart.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T22:47:06.288147+00:00"
+  "updated_at": "2026-11-13T23:03:46.559453+00:00"
 }
