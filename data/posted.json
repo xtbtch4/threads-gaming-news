@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7fd0c83552167b27112c9940",
-      "title": "Join the Pumpkaboo’s Sweet Surprises! event in Pokémon Pokopia - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/join-the-pumpkaboos-sweet-surprises-event-in-pokemon-pokopia",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-17T16:00:00+00:00",
-      "score": 9,
-      "event_key": "Pumpkaboo Sweet Surprises event Pokémon Pokopia",
-      "title_ru": "В Pokémon Pokopia началось событие «Pumpkaboo’s Sweet Surprises!»",
-      "threads_teaser_ru": "В Pokémon Pokopia началось тематическое событие «Pumpkaboo’s Sweet Surprises!». Игрокам предлагают собирать конфеты, маскируясь под мебель, чтобы получить декор для фестиваля и подружиться с покемонами Pumpkaboo и Gourgeist. Доступно до 1 ноября после обновления до версии 2.0.1.",
-      "telegram_message_id": "1409",
-      "telegram_url": "https://t.me/gamepulse_newss/1409",
-      "telegram_published_at": "2026-10-18T12:02:37.417528+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-18T12:02:38.679316+00:00"
-    },
-    {
       "fingerprint": "46a05bb44505b7acc84c3075",
       "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
       "url": "https://eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Lola's-Familiars-Prison-of-Argnoh-convo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T02:17:12.674048+00:00"
+    },
+    {
+      "fingerprint": "76b8527c0ad947d350ab1eb0",
+      "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
+      "url": "https://eurogamer.net/nvidia-ceo-jensen-huang-resigns",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-12T07:07:00+00:00",
+      "score": 9,
+      "event_key": "Nvidia CEO Jensen Huang resigns from position",
+      "title_ru": "CEO Nvidia Дженсен Хуанг покинул свой пост",
+      "threads_teaser_ru": "Дженсен Хуанг покидает пост главы Nvidia на фоне скандалов. Компания уже объявила о назначении временно исполняющего обязанности руководителя — финансового директора Колетт Кресс. Разбираемся, что известно о смене власти в технологическом гиганте.",
+      "telegram_message_id": "2610",
+      "telegram_url": "https://t.me/gamepulse_newss/2610",
+      "telegram_published_at": "2026-11-13T02:46:57.376670+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/jensen-huang-speaking.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T02:17:12.674137+00:00"
+  "updated_at": "2026-11-13T02:46:57.376757+00:00"
 }
