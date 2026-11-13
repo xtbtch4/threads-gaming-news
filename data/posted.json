@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a8fd19e0ead8ffa6764947ba",
-      "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
-      "url": "https://ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
-      "source": "IGN",
-      "published_at_source": "2026-10-17T12:00:00+00:00",
-      "score": 9,
-      "event_key": "street_fighter_movie_tournament_plot_mistake",
-      "title_ru": "Фильм Street Fighter повторил ошибку экранизации Mortal Kombat",
-      "threads_teaser_ru": "Новый фильм Street Fighter в кинотеатрах повторяет главную ошибку экранизации Mortal Kombat 2021 года: сюжет строится вокруг турнира, но само соревнование уведено на второй план.",
-      "telegram_message_id": "1400",
-      "telegram_url": "https://t.me/gamepulse_newss/1400",
-      "telegram_published_at": "2026-10-17T12:16:43.712395+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/01/sfthumb-1788279211859.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-17T12:16:45.080852+00:00"
-    },
-    {
       "fingerprint": "afa443dc5fec105af3e72db8",
       "title": "Silver Pines Is A 2D Silent Hill Meets Alan Wake, And It Even Scares Me At Its Lowest Price",
       "url": "https://gamespot.com/articles/silver-pines-is-a-2d-silent-hill-meets-alan-wake-and-it-even-scares-me-at-its-lowest-price",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX-Wire-Playback-Logo-1-431a9b50384ec62fcd33.jpg",
       "threads_published_at": "2026-11-12T23:47:12.525006+00:00"
+    },
+    {
+      "fingerprint": "c2c453b521687b0c2ce1c2a5",
+      "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+      "url": "https://eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-12T12:39:20+00:00",
+      "score": 14,
+      "event_key": "rockstar_discusses_potential_non_american_gta_setting",
+      "title_ru": "Выйдет ли когда-нибудь игра Grand Theft Auto за пределами Америки?",
+      "threads_teaser_ru": "Появится ли когда-нибудь игра в серии Grand Theft Auto за пределами США? В Rockstar прокомментировали такую возможность и объяснили, почему франшиза всегда возвращается в Америку.",
+      "telegram_message_id": "2601",
+      "telegram_url": "https://t.me/gamepulse_newss/2601",
+      "telegram_published_at": "2026-11-13T00:02:26.075627+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA6_5nov-(2).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-12T23:47:12.525094+00:00"
+  "updated_at": "2026-11-13T00:02:26.075712+00:00"
 }
