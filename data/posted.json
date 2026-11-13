@@ -20520,9 +20520,10 @@
       "telegram_message_id": "2635",
       "telegram_url": "https://t.me/gamepulse_newss/2635",
       "telegram_published_at": "2026-11-13T16:17:08.807961+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/crusader-kings-3-ledger-mystery-modder-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/crusader-kings-3-ledger-mystery-modder-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-13T16:17:10.649336+00:00"
     }
   ],
-  "updated_at": "2026-11-13T16:17:08.808068+00:00"
+  "updated_at": "2026-11-13T16:17:10.649425+00:00"
 }
