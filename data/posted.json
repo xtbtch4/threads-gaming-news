@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1d5fda6ff4bcfd55a75ff648",
-      "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
-      "url": "https://polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T11:00:18+00:00",
-      "score": 12,
-      "event_key": "grand theft auto 5 leak history in 2013",
-      "title_ru": "Утечка Grand Theft Auto 5 в 2013 году",
-      "threads_teaser_ru": "За годы до утечек Grand Theft Auto 6 компания Rockstar уже переживала серьезный кризис безопасности перед релизом Grand Theft Auto 5 в 2013 году.",
-      "telegram_message_id": "1406",
-      "telegram_url": "https://t.me/gamepulse_newss/1406",
-      "telegram_published_at": "2026-10-18T11:02:58.538433+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2744438/3.1370973805.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-18T11:02:59.954817+00:00"
-    },
-    {
       "fingerprint": "1497974ac51805eb6c134fbc",
       "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
       "url": "https://eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Chapter-1-9f1856c2aff39d98f565.jpg",
       "threads_published_at": "2026-11-13T01:16:52.856650+00:00"
+    },
+    {
+      "fingerprint": "806a7636480f67794aaafde0",
+      "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+      "url": "https://ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T00:01:13+00:00",
+      "score": 11,
+      "event_key": "machinegames-confirmed-wolfenstein-3-in-development",
+      "title_ru": "MachineGames подтвердила разработку Wolfenstein 3",
+      "threads_teaser_ru": "Студия MachineGames официально подтвердила разработку Wolfenstein 3. К своим ролям вернутся актеры Брайан Блум и Дебра Уилсон, а сама франшиза также получит адаптацию в виде сериала от Amazon.",
+      "telegram_message_id": "2607",
+      "telegram_url": "https://t.me/gamepulse_newss/2607",
+      "telegram_published_at": "2026-11-13T01:32:05.936042+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/image-2-1794348771186.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-13T01:16:52.856744+00:00"
+  "updated_at": "2026-11-13T01:32:05.936174+00:00"
 }
