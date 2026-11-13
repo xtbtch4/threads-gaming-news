@@ -20522,9 +20522,10 @@
       "telegram_message_id": "2614",
       "telegram_url": "https://t.me/gamepulse_newss/2614",
       "telegram_published_at": "2026-11-13T04:02:59.467596+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-13T04:03:01.009877+00:00"
     }
   ],
-  "updated_at": "2026-11-13T04:02:59.467686+00:00"
+  "updated_at": "2026-11-13T04:03:01.009971+00:00"
 }
