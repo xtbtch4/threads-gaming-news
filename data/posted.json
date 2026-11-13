@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "11a2585907d93e474bd19e64",
-      "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
-      "url": "https://eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-18T17:37:38+00:00",
-      "score": 9,
-      "event_key": "battlefield-6-secuty-typo-skin-response",
-      "title_ru": "Battlefield Studios исправит опечатку в Battlefield 6, но дизайн с пятью пистолетами останется",
-      "threads_teaser_ru": "Battlefield Studios пообещала исправить опечатку «Secuty» на скине персонажа в Battlefield 6, но дизайн с пятью пистолетами оказался осознанной задумкой авторов.",
-      "telegram_message_id": "1428",
-      "telegram_url": "https://t.me/gamepulse_newss/1428",
-      "telegram_published_at": "2026-10-18T17:46:32.686074+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-18-at-18.30.22.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T17:46:33.924155+00:00"
-    },
-    {
       "fingerprint": "6526d830f9532d171d228769",
       "title": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
       "url": "https://rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
@@ -20524,7 +20507,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2026/11/b76ffd50c3d63cbe3bcbf54cd2965dceb1a4e8b5.png",
       "video_url": "https://stream.mux.com/HAA02PzW009nEJq7SwrG00kGkUM00sGpMxk1p5hxmbWDMOQ/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJIQUEwMlB6VzAwOW5FSnE3U3dyRzAwa0drVU0wMHNHcE14azFwNWh4bWJXRE1PUSIsImF1ZCI6InYiLCJleHAiOjE3OTQ2MTk4MjksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.g0xTPYZfVZ-te-Rixx3Z2vY4Ls8k-1e76u6H-jqYPvU7XgEVGG5NoMhvxKz7kQukDObIGv_iaAx6Bo5RilxwB_ZBypsv9Q98-fue4i8kYkJByJMwJrZYHKkZmBJtl_-o96hqwkLGs_9tJHLiOJMC-Z1XOXzdVDzS0BDxDmbedtMe8mpIv3ebRcWZIEONA1sw5cxPtUlVUKXwjHad-nGOnEz4kx2iQxQV40Pl0gotGUNuZUnUROVqMbi3Zo9YlpNHibVWw3d4paEfuUHylhTmUVPD08o-rYOlBkXS36MzzyISEBd9j4Fsstfxuwmyk7SjkeDkwm3SMhg8yP6clIWBpw",
       "threads_published_at": "2026-11-13T13:32:29.149271+00:00"
+    },
+    {
+      "fingerprint": "c9e48c4984dff4329f0b6cb1",
+      "title": "Why Clarkson’s Farm Is An Unlikely Inspiration For HoYoverse’s Cozy Game Petit Planet",
+      "url": "https://gamespot.com/articles/why-clarksons-farm-is-an-unlikely-inspiration-for-hoyoverses-cozy-game-petit-planet",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-13T13:28:13+00:00",
+      "score": 13,
+      "event_key": "HoYoverse Petit Planet inspired by Clarksons Farm",
+      "title_ru": "HoYoverse вдохновлялись шоу Clarkson's Farm при создании Petit Planet",
+      "threads_teaser_ru": "Новый уютный симулятор жизни Petit Planet от HoYoverse черпает вдохновение в документальном шоу Clarkson's Farm. Разработчики признались, что опыт Jeremy Clarkson в сельском хозяйстве помог им лучше передать атмосферу радости от работы на земле.",
+      "telegram_message_id": "2629",
+      "telegram_url": "https://t.me/gamepulse_newss/2629",
+      "telegram_published_at": "2026-11-13T13:47:08.313796+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/VS-YouTube-ReleaseDateRevealTrailerPetitPlanetLaunchesGloballyonDecember4-YouTube-131-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-13T13:32:29.149375+00:00"
+  "updated_at": "2026-11-13T13:47:08.313892+00:00"
 }
