@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c7dd8fed93dd7fdf11c49e3",
-      "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
-      "url": "https://ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T09:34:28+00:00",
-      "score": 11,
-      "event_key": "player_beats_modern_warfare_4_yolo_mode",
-      "title_ru": "Игрок прошел кампанию Call of Duty: Modern Warfare 4 на сложнейшем режиме YOLO",
-      "threads_teaser_ru": "Игрок поделился деталями прохождения кампании Call of Duty: Modern Warfare 4 на ультрасложном режиме YOLO, где смерть возвращает в самое начало. На всю победную попытку ушло около 20 часов.",
-      "telegram_message_id": "1442",
-      "telegram_url": "https://t.me/gamepulse_newss/1442",
-      "telegram_published_at": "2026-10-19T10:02:25.496621+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/09/mw4-dmz-ea-1791562031815.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-19T10:02:26.963489+00:00"
-    },
-    {
       "fingerprint": "005c43aba3d1a981ebc49dc8",
       "title": "28 Years Ago, a Near-Perfect Zombie Thriller Resurrected a Beloved Franchise From the Dead",
       "url": "https://polygon.com/scooby-doo-zombie-thriller-halloween",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_24-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-13T18:17:16.254911+00:00"
+    },
+    {
+      "fingerprint": "659e47287ce8239274ad986d",
+      "title": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
+      "url": "https://eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-13T18:29:00+00:00",
+      "score": 11,
+      "event_key": "Pearl Abyss AI development pipeline and DokeV 2028 release",
+      "title_ru": "Pearl Abyss внедряет ИИ в разработку и планирует релиз DokeV на 2028 год",
+      "threads_teaser_ru": "Pearl Abyss планирует повсеместно интегрировать ИИ в производственный цикл своих игр. Студия также поделилась обновленными планами по релизу DokeV — игра должна выйти в 2028 году. А Crimson Desert выйдет на Nintendo Switch 2 уже в первой половине следующего года.",
+      "telegram_message_id": "2643",
+      "telegram_url": "https://t.me/gamepulse_newss/2643",
+      "telegram_published_at": "2026-11-13T18:32:57.034247+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T18:17:16.254999+00:00"
+  "updated_at": "2026-11-13T18:32:57.034344+00:00"
 }
