@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "007c5cff87a910b8d9e942ab",
-      "title": "Forza Horizon Is No Longer the King of Video Game Road Trips",
-      "url": "https://polygon.com/american-truck-simulator-road-trip-forza-horizon",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T14:30:18+00:00",
-      "score": 10,
-      "event_key": "american_truck_simulator_road_trip_dlc_release",
-      "title_ru": "Дополнение Road Trip для American Truck Simulator меняет подход к виртуальным автопутешествиям",
-      "threads_teaser_ru": "Дополнение Road Trip для American Truck Simulator добавляет в игру автомобили и туристические маршруты, бросая вызов серии Forza Horizon в жанре виртуальных автопутешествий.",
-      "telegram_message_id": "1419",
-      "telegram_url": "https://t.me/gamepulse_newss/1419",
-      "telegram_published_at": "2026-10-18T14:32:21.727705+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ats-road-trip-mustang.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-18T14:32:23.024342+00:00"
-    },
-    {
       "fingerprint": "11e26ba6ce6cbb8e7960d753",
       "title": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
       "url": "https://rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mycorelic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T09:16:59.260665+00:00"
+    },
+    {
+      "fingerprint": "236ff5e5d3275a1a5ca46e82",
+      "title": "6 Nintendo Switch Special Editions With the Best Designs, Ranked",
+      "url": "https://polygon.com/best-nintendo-switch-special-edition-designs",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T10:00:17+00:00",
+      "score": 7,
+      "event_key": "polygon ranks best looking special edition nintendo switch consoles",
+      "title_ru": "Polygon составил рейтинг самых красивых лимитированных версий Nintendo Switch",
+      "threads_teaser_ru": "Издание Polygon выбрало шесть самых стильных лимитированных версий Nintendo Switch. В подборке нашлось место как классике вроде Animal Crossing и Splatoon 3, так и первому специальному изданию для новейшей Switch 2, оформленному в стиле The Legend of Zelda: Ocarina of Time.",
+      "telegram_message_id": "2620",
+      "telegram_url": "https://t.me/gamepulse_newss/2620",
+      "telegram_published_at": "2026-11-13T10:16:57.217980+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/switch-2-third-party-partner-games-february-direct.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T09:16:59.260756+00:00"
+  "updated_at": "2026-11-13T10:16:57.218072+00:00"
 }
