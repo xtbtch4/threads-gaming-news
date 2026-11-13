@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4b273104c570fc9f14cdc56a",
-      "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
-      "url": "https://eurogamer.net/steam-next-fest-2026-over-double",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-19T10:43:26+00:00",
-      "score": 11,
-      "event_key": "steam next fest 2026 over double demos generative ai concerns",
-      "title_ru": "Стартовал Steam Next Fest 2026 с рекордным числом демоверсий",
-      "threads_teaser_ru": "На ПК начался фестиваль Steam Next Fest 2026, предложивший игрокам более 8 тысяч демоверсий — это вдвое больше, чем в прошлом году. Однако рекордный масштаб вызвал серьезные тревоги у разработчиков.",
-      "telegram_message_id": "1445",
-      "telegram_url": "https://t.me/gamepulse_newss/1445",
-      "telegram_published_at": "2026-10-19T10:47:08.034298+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T10:47:09.525316+00:00"
-    },
-    {
       "fingerprint": "b6821be3fb51164f84bf8579",
       "title": "Dune: Awakening studio faces layoffs as it restructures following console release",
       "url": "https://eurogamer.net/funcom-dune-awakening-layoffs-restructuring",
@@ -20523,7 +20506,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/2h0cqitn2c.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/rev3-sqshorts2-david-dastmalchian-demands-a-street-fighter-magic-deck-1792421934.mp4",
       "threads_published_at": "2026-11-13T19:02:35.517621+00:00"
+    },
+    {
+      "fingerprint": "f6d3ac438672988481caf108",
+      "title": "The Game Awards 2026 Nominees Announcement Confirmed for Nov. 17",
+      "url": "https://polygon.com/the-game-awards-2026-nominees-announcement-date",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T20:23:24+00:00",
+      "score": 12,
+      "event_key": "the game awards 2026 nominees announcement date",
+      "title_ru": "Объявление номинантов The Game Awards 2026 состоится 17 ноября",
+      "threads_teaser_ru": "Стала известна дата объявления номинантов премии The Game Awards 2026. Список претендентов, включая категорию Game of the Year, огласят 17 ноября.",
+      "telegram_message_id": "2646",
+      "telegram_url": "https://t.me/gamepulse_newss/2646",
+      "telegram_published_at": "2026-11-13T20:32:34.641571+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/tga_key_art_side.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T19:02:35.517735+00:00"
+  "updated_at": "2026-11-13T20:32:34.641659+00:00"
 }
