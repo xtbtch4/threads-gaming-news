@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "633ad585bfa77a9a4d46c5b0",
-      "title": "Every Major Game Releasing in November That Isn’t GTA 6",
-      "url": "https://polygon.com/november-2026-game-releases",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T04:00:23+00:00",
-      "score": 14,
-      "event_key": "november 2026 game releases alternative to gta 6",
-      "title_ru": "Релизы видеоигр в ноябре, не связанных с Grand Theft Auto 6",
-      "threads_teaser_ru": "Ноябрь 2026 года будет богат на релизы, альтернативные Grand Theft Auto 6. Узнайте, какие игры планируют выйти в этот период, включая Gravhounds, ремейк The Legend of Zelda: Ocarina of Time и другие проекты.",
-      "telegram_message_id": "1404",
-      "telegram_url": "https://t.me/gamepulse_newss/1404",
-      "telegram_published_at": "2026-10-18T04:02:18.763111+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/world-of-warcraft-forever-gameplay-trailer-1789406057.mp4",
-      "threads_published_at": "2026-10-18T04:02:20.085284+00:00"
-    },
-    {
       "fingerprint": "3d4522d65b19c318e879512a",
       "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
       "url": "https://eurogamer.net/steam-achievement-sets-beta",
@@ -20525,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T00:47:36.763581+00:00"
+    },
+    {
+      "fingerprint": "8962bb3f0e81557f05e702fe",
+      "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
+      "url": "https://ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T00:44:45+00:00",
+      "score": 11,
+      "event_key": "gta 6 burger shot restaurants expanding florida skinyn louie",
+      "title_ru": "Рестораны Burger Shot из GTA 6 открываются в Флориде",
+      "threads_teaser_ru": "Сеть фастфуда Burger Shot из GTA 6 выходит в реальный мир: с сегодняшнего дня по 31 декабря в ресторанах Skinny Louie по всей Флориде появятся тематическое меню, вывески и униформа из игры.",
+      "telegram_message_id": "2605",
+      "telegram_url": "https://t.me/gamepulse_newss/2605",
+      "telegram_published_at": "2026-11-13T01:02:36.759179+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/12/burger-shot-skinny-louie-1794518104838.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-13T00:47:36.763667+00:00"
+  "updated_at": "2026-11-13T01:02:36.759277+00:00"
 }
