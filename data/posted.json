@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b6821be3fb51164f84bf8579",
-      "title": "Dune: Awakening studio faces layoffs as it restructures following console release",
-      "url": "https://eurogamer.net/funcom-dune-awakening-layoffs-restructuring",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-19T10:47:29+00:00",
-      "score": 13,
-      "event_key": "funcom dune awakening layoffs restructuring 2026",
-      "title_ru": "Funcom проводит реструктуризацию и сокращения после релиза Dune: Awakening на консолях",
-      "threads_teaser_ru": "Студия Funcom объявила о реструктуризации и сокращениях после завершения активной разработки Dune: Awakening и выпуска консольных версий. Также в компании сменился генеральный директор.",
-      "telegram_message_id": "1446",
-      "telegram_url": "https://t.me/gamepulse_newss/1446",
-      "telegram_published_at": "2026-10-19T11:02:08.793770+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dune-awakening_eBRRA9O.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T11:02:10.152548+00:00"
-    },
-    {
       "fingerprint": "431e7d3563001593b5474bec",
       "title": "The next Call of Duty will introduce a new sub-series to the franchise",
       "url": "https://eurogamer.net/call-of-duty-next-game-new-sub-franchise",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/tga_key_art_side.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-13T20:32:36.142070+00:00"
+    },
+    {
+      "fingerprint": "bec108cc98b67c0bbcf4b6c4",
+      "title": "Blood of Dawnwalker Finally Gets Its Most Requested Feature Next Week",
+      "url": "https://polygon.com/blood-of-dawnwalker-update-new-game-plus-announced",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T20:35:18+00:00",
+      "score": 10,
+      "event_key": "Blood of Dawnwalker update 1.2 adds New Game Plus",
+      "title_ru": "В Blood of Dawnwalker добавят режим New Game Plus",
+      "threads_teaser_ru": "Режим New Game Plus официально подтвержден для Blood of Dawnwalker. Обновление 1.2 выйдет уже на следующей неделе. Игрокам позволят перенести весь прогресс, включая навыки и инвентарь, а максимальный уровень персонажа поднимут до 100.",
+      "telegram_message_id": "2647",
+      "telegram_url": "https://t.me/gamepulse_newss/2647",
+      "telegram_published_at": "2026-11-13T20:47:50.747489+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-how-long-to-beat.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T20:32:36.142157+00:00"
+  "updated_at": "2026-11-13T20:47:50.747585+00:00"
 }
