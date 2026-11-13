@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7a6891e94b8e58f4775fc427",
-      "title": "It Took 4 Google AI Agents Over 27 Hours to Defeat the Ender Dragon in Minecraft Without Help From Humans",
-      "url": "https://ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T10:56:01+00:00",
-      "score": 9,
-      "event_key": "google_ai_agents_defeat_ender_dragon_minecraft",
-      "title_ru": "Четыре ИИ-агента от Google победили Ender Dragon в Minecraft",
-      "threads_teaser_ru": "Четыре ИИ-агента от Google впервые самостоятельно прошли Minecraft и победили Ender Dragon без помощи людей. На это ушло более 27 часов, 605 смертей и тысячи запущенных программ.",
-      "telegram_message_id": "1449",
-      "telegram_url": "https://t.me/gamepulse_newss/1449",
-      "telegram_published_at": "2026-10-19T11:46:42.846300+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-19T11:46:44.122872+00:00"
-    },
-    {
       "fingerprint": "fa3f9d895b4e9a1b7f94c18a",
       "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
       "url": "https://ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2-1.jpg?w=300",
       "threads_published_at": "2026-11-13T22:33:13.343976+00:00"
+    },
+    {
+      "fingerprint": "44829e4b022361910c6015b7",
+      "title": "Rainbow Six: Vegas Reportedly Returning With New Installment",
+      "url": "https://ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T20:14:03+00:00",
+      "score": 9,
+      "event_key": "ubisoft developing new rainbow six vegas game",
+      "title_ru": "СМИ: Ubisoft разрабатывает новую часть Rainbow Six: Vegas",
+      "threads_teaser_ru": "Появились слухи о возвращении серии Rainbow Six: Vegas. Ubisoft якобы поручила студии Ubisoft Montreal разработку новой игры под кодовым названием «Spades». На каком этапе находится создание проекта и что еще известно об этой франшизе — в нашем материале.",
+      "telegram_message_id": "2650",
+      "telegram_url": "https://t.me/gamepulse_newss/2650",
+      "telegram_published_at": "2026-11-13T22:47:04.869080+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/13/rainbow-six-vegas-1794596888042.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-13T22:33:13.344070+00:00"
+  "updated_at": "2026-11-13T22:47:04.869167+00:00"
 }
