@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "99a26c45c4679b7252e0450a",
-      "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
-      "url": "https://eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-17T18:28:40+00:00",
-      "score": 7,
-      "event_key": "vampire the masquerade bloodlines remaster rumoured",
-      "title_ru": "По слухам, в разработке находится ремастер Vampire: The Masquerade - Bloodlines",
-      "threads_teaser_ru": "В сети появились слухи о разработке ремастера культовой RPG 2004 года Vampire: The Masquerade - Bloodlines. Инсайдер утверждает, что это именно ремастер, а не ремейк.",
-      "telegram_message_id": "1418",
-      "telegram_url": "https://t.me/gamepulse_newss/1418",
-      "telegram_published_at": "2026-10-18T14:17:08.025762+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T14:17:09.465328+00:00"
-    },
-    {
       "fingerprint": "007c5cff87a910b8d9e942ab",
       "title": "Forza Horizon Is No Longer the King of Video Game Road Trips",
       "url": "https://polygon.com/american-truck-simulator-road-trip-forza-horizon",
@@ -20527,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/slay-the-spire-2-the-fool.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T09:02:36.424509+00:00"
+    },
+    {
+      "fingerprint": "3bc49d46a34a106702614bc5",
+      "title": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0",
+      "url": "https://rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-12T21:31:00+00:00",
+      "score": 7,
+      "event_key": "MycoRelic leaves early access and enters version 1.0",
+      "title_ru": "Состоялся полноценный релиз Soulslike-игры MycoRelic",
+      "threads_teaser_ru": "В Steam состоялся полноценный релиз Soulslike-игры MycoRelic. Проект выделяется визуальным стилем, необычными механиками кастомизации робота с помощью грибов и возможностью кооперативного прохождения. Также доступна демоверсия.",
+      "telegram_message_id": "2619",
+      "telegram_url": "https://t.me/gamepulse_newss/2619",
+      "telegram_published_at": "2026-11-13T09:16:57.976207+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/mycorelic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T09:02:36.424613+00:00"
+  "updated_at": "2026-11-13T09:16:57.976295+00:00"
 }
