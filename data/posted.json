@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3d4522d65b19c318e879512a",
-      "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
-      "url": "https://eurogamer.net/steam-achievement-sets-beta",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-17T13:12:01+00:00",
-      "score": 11,
-      "event_key": "valve-launches-steam-achievement-sets-beta",
-      "title_ru": "Valve запустила бэту Steam Achievement Sets для группировки достижений",
-      "threads_teaser_ru": "Valve запустила бета-тестирование Steam Achievement Sets. Функция позволяет разработчикам группировать достижения в коллекции и DLC-наборы, сохраняя статус прохождения игроков при выходе нового контента.",
-      "telegram_message_id": "1405",
-      "telegram_url": "https://t.me/gamepulse_newss/1405",
-      "telegram_published_at": "2026-10-18T10:46:48.584103+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T10:46:49.936996+00:00"
-    },
-    {
       "fingerprint": "1d5fda6ff4bcfd55a75ff648",
       "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
       "url": "https://polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/12/burger-shot-skinny-louie-1794518104838.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T01:02:38.286888+00:00"
+    },
+    {
+      "fingerprint": "d563c35fe72e724b30f866e6",
+      "title": "Bethesda Celebrates XBOX 25 with id Software & MachineGames News",
+      "url": "https://news.xbox.com/en-us/2026/11/12/bethesda-celebrates-xbox-25-with-id-software-machinegames-news",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-13T00:00:00+00:00",
+      "score": 14,
+      "event_key": "bethesda celebrates xbox 25 id software machinegames",
+      "title_ru": "Bethesda празднует 25-летие Xbox новостями от id Software и MachineGames",
+      "threads_teaser_ru": "Bethesda отметила 25-летие Xbox свежими новостями от студий id Software и MachineGames. Что именно подготовили разработчики для юбилейного события?",
+      "telegram_message_id": "2606",
+      "telegram_url": "https://t.me/gamepulse_newss/2606",
+      "telegram_published_at": "2026-11-13T01:16:51.515092+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Chapter-1-9f1856c2aff39d98f565.jpg"
     }
   ],
-  "updated_at": "2026-11-13T01:02:38.286988+00:00"
+  "updated_at": "2026-11-13T01:16:51.515149+00:00"
 }
