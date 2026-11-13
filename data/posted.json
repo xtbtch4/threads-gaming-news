@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c30308f35313581d616c0535",
-      "title": "Tom Cruise's 10/10 War Action Epic Is About to Say Goodbye to HBO Max",
-      "url": "https://polygon.com/tom-cruise-the-last-samurai-leaving-hbo-max-october-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-10-19T08:00:19+00:00",
-      "score": 8,
-      "event_key": "the last samurai leaving hbo max october 2026",
-      "title_ru": "Фильм The Last Samurai покидает HBO Max в конце октября",
-      "threads_teaser_ru": "Исторический эпик The Last Samurai с Томом Крузом и Кеном Ватанабе скоро исчезнет из библиотеки HBO Max. Фильм покинет сервис в конце октября, так что зрители имеют последний шанс пересмотреть картину.",
-      "telegram_message_id": "1440",
-      "telegram_url": "https://t.me/gamepulse_newss/1440",
-      "telegram_published_at": "2026-10-19T08:02:36.451128+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-last-samurai-tom-cruise.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-19T08:02:37.910758+00:00"
-    },
-    {
       "fingerprint": "a2837edba8715911efd7ac5b",
       "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
       "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/probably-stolen-grapes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T17:32:36.222998+00:00"
+    },
+    {
+      "fingerprint": "d125da87119bd0487f6253f3",
+      "title": "Crazy Taxi: World Tour Final Map Revealed",
+      "url": "https://ign.com/articles/crazy-taxi-world-tour-final-map-revealed",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T18:00:00+00:00",
+      "score": 13,
+      "event_key": "crazy taxi world tour final map India revealed",
+      "title_ru": "Раскрыта финальная карта Crazy Taxi: World Tour",
+      "threads_teaser_ru": "Стала известна последняя карта аркадной гоночной игры Crazy Taxi: World Tour — ею оказалась Индия с тремя разнообразными зонами и отсылками к Болливуду. Проект выйдет в начале 2027 года.",
+      "telegram_message_id": "2641",
+      "telegram_url": "https://t.me/gamepulse_newss/2641",
+      "telegram_published_at": "2026-11-13T18:02:24.053909+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/crazy-taxi-india-map-revealed-1794350622082.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-13T17:32:36.223106+00:00"
+  "updated_at": "2026-11-13T18:02:24.054007+00:00"
 }
