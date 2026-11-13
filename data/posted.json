@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5892fa7813254d99e2aff512",
-      "title": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
-      "url": "https://eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-19T12:13:14+00:00",
-      "score": 9,
-      "event_key": "witcher-3-switch-2-patch-5-01-release",
-      "title_ru": "Для The Witcher 3 на Switch 2 вышел патч с улучшением четкости",
-      "threads_teaser_ru": "Для The Witcher 3: Wild Hunt - Remastered на Nintendo Switch 2 начал выходить патч 5.01. Он улучшает разрешение и резкость изображения, а также снижает избыточную яркость освещения.",
-      "telegram_message_id": "1452",
-      "telegram_url": "https://t.me/gamepulse_newss/1452",
-      "telegram_published_at": "2026-10-19T12:32:30.928255+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/geralt-posing-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T12:32:32.419856+00:00"
-    },
-    {
       "fingerprint": "2fb19dc218a2d116eb9d436e",
       "title": "David Harbour Says He Really Didn't Drop a Big Avengers: Doomsday Spoiler",
       "url": "https://ign.com/articles/david-harbour-says-he-really-didnt-drop-a-big-avengers-doomsday-spoiler",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/avengers-doomsday-thor.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-13T23:17:01.156998+00:00"
+    },
+    {
+      "fingerprint": "d10c59e608e65cb326b14f49",
+      "title": "Darth Vader's Actual Lightsaber Just Sold for $4.875 Million, Breaking Star Wars Auction Records",
+      "url": "https://ign.com/articles/darth-vaders-actual-lightsaber-just-sold-for-4875-million-breaking-star-wars-auction-records",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T19:41:20+00:00",
+      "score": 8,
+      "event_key": "Darth Vader lightsaber sold for record auction price",
+      "title_ru": "Реквизит со световым мечом Дарта Вейдера продан за рекордные $4,875 млн",
+      "threads_teaser_ru": "На аукционе Heritage Auctions установлен новый рекорд для реквизита из вселенной Star Wars. Световой меч Дарта Вейдера из оригинальной трилогии продан за $4,875 миллиона, обойдя по стоимости предыдущие лоты, включая меч Люка Скайуокера.",
+      "telegram_message_id": "2653",
+      "telegram_url": "https://t.me/gamepulse_newss/2653",
+      "telegram_published_at": "2026-11-13T23:32:38.108827+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/13/darth-1794598127264.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-13T23:17:01.157073+00:00"
+  "updated_at": "2026-11-13T23:32:38.108920+00:00"
 }
