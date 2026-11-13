@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "87bf46619d5e0253873fa67e",
-      "title": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
-      "url": "https://rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-17T19:07:41+00:00",
-      "score": 8,
-      "event_key": "trailblazers into the march demo release",
-      "title_ru": "Вышла демоверсия рогалик-симулятора колонии Trailblazers: Into The March",
-      "threads_teaser_ru": "Для рогалик-симулятора колонии Trailblazers: Into The March вышла демоверсия. Игрокам предлагают стать капитанами огромных сухопутных кораблей, управлять уникальной командой и участвовать в тактических сражениях.",
-      "telegram_message_id": "1414",
-      "telegram_url": "https://t.me/gamepulse_newss/1414",
-      "telegram_published_at": "2026-10-18T13:16:35.008587+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/trailblazers-into-the-march.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T13:16:36.245059+00:00"
-    },
-    {
       "fingerprint": "c7eebf6cb22eb8ad57b8fe3f",
       "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
       "url": "https://gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch",
@@ -20525,7 +20508,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-13T04:03:01.009877+00:00"
+    },
+    {
+      "fingerprint": "4ae25049a5dce8a9c5b273c7",
+      "title": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
+      "url": "https://polygon.com/peanuts-best-comics-food",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T05:00:17+00:00",
+      "score": 8,
+      "event_key": "food themed jokes in Peanuts comics analysis",
+      "title_ru": "Подборка гастрономических шуток из комиксов Peanuts",
+      "threads_teaser_ru": "В комиксах Peanuts тема еды встречалась не так часто, как бейсбол или философия, но Чарльз Шульц все же создал несколько запоминающихся гастрономических шуток. Вспомнили, что ели Snoopy, Peppermint Patty и другие герои за полвека существования стрипов.",
+      "telegram_message_id": "2615",
+      "telegram_url": "https://t.me/gamepulse_newss/2615",
+      "telegram_published_at": "2026-11-13T05:17:12.701209+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4"
     }
   ],
-  "updated_at": "2026-11-13T04:03:01.009971+00:00"
+  "updated_at": "2026-11-13T05:17:12.701332+00:00"
 }
