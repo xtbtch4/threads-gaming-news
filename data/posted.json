@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9cfde30bbad3530515484d1b",
-      "title": "Don Bradman Cricket Jr Announced for PC and Consoles",
-      "url": "https://ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T00:12:40+00:00",
-      "score": 11,
-      "event_key": "don-bradman-cricket-jr-announced-for-pc-and-consoles",
-      "title_ru": "Анонсирована аркадная игра Don Bradman Cricket Jr",
-      "threads_teaser_ru": "Издательство Tru Blu Games анонсировало аркаду Don Bradman Cricket Jr для PC и консолей. Проект получит мультяшный стиль, локальный режим на двоих и уникальную мини-игру.",
-      "telegram_message_id": "1434",
-      "telegram_url": "https://t.me/gamepulse_newss/1434",
-      "telegram_published_at": "2026-10-19T01:02:24.284281+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/18/donbradmanjr-blogroll-1792364871220.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-19T01:02:25.520180+00:00"
-    },
-    {
       "fingerprint": "799c77413f67a0071751ca79",
       "title": "9 Best DLCs That Were Even Better Than the Base Game",
       "url": "https://polygon.com/best-dlcs-video-games",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://blog.playstation.com/tachyon/2026/11/84a6eb5f0831acb87ad7b548df366dcf10547aaf-scaled.jpg",
       "threads_published_at": "2026-11-13T16:02:45.615730+00:00"
+    },
+    {
+      "fingerprint": "5fb425c958d8b316256d82ba",
+      "title": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\"",
+      "url": "https://rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-13T15:47:00+00:00",
+      "score": 12,
+      "event_key": "Paradox Interactive announces CEO change from Fredrik Wester to Mattias Lilja",
+      "title_ru": "Paradox Interactive сменит генерального директора в начале следующего года",
+      "threads_teaser_ru": "Paradox Interactive готовится к смене руководства: с 4 января пост гендиректора займет Маттиас Лилья. Фредрик Вестер покидает должность, но останется в совете директоров. Компания планирует усилить инвестиции в основные направления и работу над новыми игровыми проектами.",
+      "telegram_message_id": "2635",
+      "telegram_url": "https://t.me/gamepulse_newss/2635",
+      "telegram_published_at": "2026-11-13T16:17:08.807961+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/crusader-kings-3-ledger-mystery-modder-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T16:02:45.615815+00:00"
+  "updated_at": "2026-11-13T16:17:08.808068+00:00"
 }
