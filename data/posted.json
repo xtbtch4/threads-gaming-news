@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c7eebf6cb22eb8ad57b8fe3f",
-      "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
-      "url": "https://gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-18T12:00:00+00:00",
-      "score": 7,
-      "event_key": "tenebris-somnia-release-live-action-horror",
-      "title_ru": "Tenebris Somnia сочетает 2D-графику и сцены с живыми актерами",
-      "threads_teaser_ru": "Релизнулся необычный хоррор Tenebris Somnia, объединяющий пиксельный 2D-стиль и жуткие игросодержащие сцены с живыми актерами. Игра вдохновлена классикой вроде Resident Evil и Silent Hill.",
-      "telegram_message_id": "1415",
-      "telegram_url": "https://t.me/gamepulse_newss/1415",
-      "telegram_published_at": "2026-10-18T13:32:01.699948+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-tenebris-somnia-discount.jpg?w=300",
-      "threads_published_at": "2026-10-18T13:32:03.004263+00:00"
-    },
-    {
       "fingerprint": "92d2f6f6c746fc816ef4fd42",
       "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
       "url": "https://ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
@@ -20526,7 +20509,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
       "threads_published_at": "2026-11-13T05:17:13.909011+00:00"
+    },
+    {
+      "fingerprint": "dcc69d59c3860266b6b6512a",
+      "title": "Netflix's Disappointing New Western Thriller Wastes Its Brilliant Concept",
+      "url": "https://polygon.com/heartland-netflix-review",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T08:00:17+00:00",
+      "score": 8,
+      "event_key": "Netflix releases Heartland western noir musical starring Jessica Chastain",
+      "title_ru": "На Netflix вышел вестерн-нуар-мюзикл Heartland с Джессикой Честейн",
+      "threads_teaser_ru": "На Netflix состоялась премьера необычного экспериментального проекта — вестерн-нуара-мюзикла Heartland. Джессика Честейн играет бывшую кантри-звезду, которая отправляется на поиски пропавшей родственницы, но фильм критикуют за предсказуемый сюжет.",
+      "telegram_message_id": "2616",
+      "telegram_url": "https://t.me/gamepulse_newss/2616",
+      "telegram_published_at": "2026-11-13T08:17:45.753069+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/_dsc4031_r-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T05:17:13.909135+00:00"
+  "updated_at": "2026-11-13T08:17:45.753142+00:00"
 }
