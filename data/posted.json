@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "355c35424f107c5ce624f074",
-      "title": "The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike",
-      "url": "https://blog.playstation.com/2026/10/19/the-saros-zenith-update-out-today-brings-more-ways-to-play-for-newcomers-and-veterans-alike",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-19T12:05:05+00:00",
-      "score": 12,
-      "event_key": "saros zenith update released with new modes and modifiers",
-      "title_ru": "Обновление Zenith для Saros",
-      "threads_teaser_ru": "Для Saros вышло крупное бесплатное обновление Zenith. Оно добавляет режим Boss rush, New Game+ с новыми правилами, модификаторы сложности и полезные настройки доступности.",
-      "telegram_message_id": "1451",
-      "telegram_url": "https://t.me/gamepulse_newss/1451",
-      "telegram_published_at": "2026-10-19T12:16:42.654771+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/9aa3044b4b1785651b3dfe461fc0dcc1ce503a67-scaled.jpg",
-      "video_url": "https://stream.mux.com/NkWCQZqPysB02TAz5xugZkD145i006Z493GaaYRDiPY028/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJOa1dDUVpxUHlzQjAyVEF6NXh1Z1prRDE0NWkwMDZaNDkzR2FhWVJEaVBZMDI4IiwiYXVkIjoidiIsImV4cCI6MTc5MjQ1NTExOSwia2lkIjoiNEw1eU9janJWMU5VcVZ6Y1V2SkJuMXdUbTRlVEdHOU1oMDIwMVlrNWp1OU5BIn0.X-2rsMPYH7Ofs4ffj0sqtyfuR1-6yAX3x1eRuJv2Kxiu3WnZSj5Za9iuILovfa9A-yuoNRM_8LaOzdDe0xuqd4FYTB4fKfEJSpyEqi0a3MtoKyOyI5PLd6zhXr0QFTy89nFgGgTlb7c0MlDAa-2DuQRW-GlRosRcPGYcax_BgnHASyuVkcYhsxlJx6MDOP6fehYDGBSt_5UlnJL1noF1crgYh1zu-FgiPp0-SO5Y0-FSIfHOw-L00-HeGZ8vj974oDvbQssOgUKqZjAnVXgnz5hbcNf2_P6mrFgsp_e5rk0rFyQnngrZVfuDO8CbfJEobd4CrOMQyFaQo471zIzVHg",
-      "threads_published_at": "2026-10-19T12:16:44.238679+00:00"
-    },
-    {
       "fingerprint": "5892fa7813254d99e2aff512",
       "title": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
       "url": "https://eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
@@ -20523,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/ow_s1_herolineup_keyart.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-13T23:03:48.048070+00:00"
+    },
+    {
+      "fingerprint": "3d2a5050eaeff3d67bb89764",
+      "title": "Marvel Officially Confirms New Avengers Team for Doomsday",
+      "url": "https://polygon.com/avengers-doomsday-marvel-confirms-new-team-lineup",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T21:02:48+00:00",
+      "score": 8,
+      "event_key": "Marvel confirms official Avengers team lineup for Avengers: Doomsday",
+      "title_ru": "Marvel раскрыла состав команды в Avengers: Doomsday",
+      "threads_teaser_ru": "Marvel назвала официальный состав героев Avengers: Doomsday. В команду вошли Сэм Уилсон, Хоакин Торрес, Скотт Лэнг, Тор и Шанг-Чи. В блокбастере также заявлено участие Fantastic Four и Людей Икс, а противостоять им будет Доктор Дум в исполнении Роберта Дауни-младшего.",
+      "telegram_message_id": "2652",
+      "telegram_url": "https://t.me/gamepulse_newss/2652",
+      "telegram_published_at": "2026-11-13T23:16:59.245419+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/avengers-doomsday-thor.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T23:03:48.048146+00:00"
+  "updated_at": "2026-11-13T23:16:59.245515+00:00"
 }
