@@ -20522,9 +20522,10 @@
       "telegram_message_id": "2613",
       "telegram_url": "https://t.me/gamepulse_newss/2613",
       "telegram_published_at": "2026-11-13T03:32:29.267282+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/12/valheim-comicbookcoverart1-1794514240051.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/12/valheim-comicbookcoverart1-1794514240051.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-13T03:32:30.710380+00:00"
     }
   ],
-  "updated_at": "2026-11-13T03:32:29.267368+00:00"
+  "updated_at": "2026-11-13T03:32:30.710467+00:00"
 }
