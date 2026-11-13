@@ -20521,10 +20521,11 @@
       "telegram_message_id": "2630",
       "telegram_url": "https://t.me/gamepulse_newss/2630",
       "telegram_published_at": "2026-11-13T14:17:18.891435+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-1-12-35-pm.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/fable-official-something-in-the-water-gameplay-trailer-1794570054.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/fable-official-something-in-the-water-gameplay-trailer-1794570054.mp4",
+      "threads_published_at": "2026-11-13T14:17:20.368227+00:00"
     }
   ],
-  "updated_at": "2026-11-13T14:17:18.891546+00:00"
+  "updated_at": "2026-11-13T14:17:20.368347+00:00"
 }
