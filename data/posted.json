@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4dc8b2bc85a3c6ac7dc745a6",
-      "title": "13 Years Ago, 'The Legend of Korra' Finally Answered the Biggest Avatar Mystery",
-      "url": "https://polygon.com/avatar-legend-of-korra-beginnings-origin-story",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T16:00:17+00:00",
-      "score": 8,
-      "event_key": "The Legend of Korra Beginnings episode importance",
-      "title_ru": "Важность эпизода «Beginnings» в The Legend of Korra для актуального сюжета",
-      "threads_teaser_ru": "13 лет назад в The Legend of Korra вышли эпизоды «Beginnings», объяснившие происхождение Аватара. Сейчас, на фоне выхода Avatar: Seven Havens, фанаты вновь обращаются к этой истории, чтобы понять последствия выбора Korra и природу современного конфликта в мире духов.",
-      "telegram_message_id": "1425",
-      "telegram_url": "https://t.me/gamepulse_newss/1425",
-      "telegram_published_at": "2026-10-18T17:02:34.190708+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/korra-wan-artististic-2.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2024/07/20120913_the-legend-of-korra-book-1-air-trailer-1-english-hd-1720640152.mp4",
-      "threads_published_at": "2026-10-18T17:02:35.603443+00:00"
-    },
-    {
       "fingerprint": "1ea8e746e474a77bd3aaee9d",
       "title": "The PS6's memory and storage alone reportedly cost more than $680",
       "url": "https://eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
@@ -20525,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/13/images-1-1794566948475.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T12:02:11.326065+00:00"
+    },
+    {
+      "fingerprint": "f7339f93b2b78bb7fdd225b3",
+      "title": "Deadpool Star Ryan Reynolds Responds After Avengers: Doomsday Writing Credit Reportedly Revealed",
+      "url": "https://ign.com/articles/deadpool-star-ryan-reynolds-responds-after-avengers-doomsday-writing-credit-reportedly-revealed",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T12:56:24+00:00",
+      "score": 13,
+      "event_key": "ryan reynolds writing credit for avengers doomsday",
+      "title_ru": "Ryan Reynolds прокомментировал сообщения о его участии в написании сценария Avengers: Doomsday",
+      "threads_teaser_ru": "Ryan Reynolds и Hugh Jackman числятся в списке сценаристов предстоящего блокбастера Avengers: Doomsday. Актер отреагировал на новости ироничным видео, а фанаты теперь гадают, увидят ли они любимых персонажей на экране в декабре.",
+      "telegram_message_id": "2626",
+      "telegram_url": "https://t.me/gamepulse_newss/2626",
+      "telegram_published_at": "2026-11-13T13:02:51.226766+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/08/20/deadpool-and-wolverine-wolverinepool-variant-1724166282353.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-13T12:02:11.326148+00:00"
+  "updated_at": "2026-11-13T13:02:51.226858+00:00"
 }
