@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3cdcf7e895c8cb6a2b208792",
-      "title": "Star Wars Zero Company Finally Makes Starting A New Campaign Worth It",
-      "url": "https://polygon.com/star-wars-zero-company-second-patch-reaction",
-      "source": "Polygon",
-      "published_at_source": "2026-10-17T14:54:09+00:00",
-      "score": 12,
-      "event_key": "Star Wars Zero Company patch 1.2 release campaign modifiers",
-      "title_ru": "Star Wars Zero Company получила обновление 1.2 с новыми настройками кампании",
-      "threads_teaser_ru": "В Star Wars Zero Company вышло крупное обновление 1.2: разработчики добавили множество модификаторов сложности для кампании. Теперь можно настроить частоту гибели юнитов и изменить другие параметры тактического геймплея перед стартом игры.",
-      "telegram_message_id": "1402",
-      "telegram_url": "https://t.me/gamepulse_newss/1402",
-      "telegram_published_at": "2026-10-17T15:46:55.979850+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/felshi-main_a15c4c25.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-17T15:46:57.362364+00:00"
-    },
-    {
       "fingerprint": "4341115093f74b43a777067e",
       "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
       "url": "https://ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/12/verbatimps5ssd-1794525202727.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-13T00:16:34.352376+00:00"
+    },
+    {
+      "fingerprint": "1c0fee80010f9223cfef0702",
+      "title": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil",
+      "url": "https://rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-12T15:31:10+00:00",
+      "score": 11,
+      "event_key": "announcement of action game The Sound of Fury",
+      "title_ru": "Анонсирован экшен The Sound of Fury, где предстоит сражаться музыкальными инструментами",
+      "threads_teaser_ru": "Представлен The Sound of Fury — экшен, в котором классический музыкант спускается в ад, чтобы сразиться с дьяволом. Вместо обычных клинков в ход идут музыкальные инструменты, а враги вынуждены пускаться в пляс прямо во время боя. Релиз ожидается в конце 2027 года.",
+      "telegram_message_id": "2603",
+      "telegram_url": "https://t.me/gamepulse_newss/2603",
+      "telegram_published_at": "2026-11-13T00:32:51.901405+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/The-Sound-of-Fury-reveal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T00:16:34.352464+00:00"
+  "updated_at": "2026-11-13T00:32:51.901497+00:00"
 }
