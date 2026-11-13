@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8e46b58cb4720272c4ab31d6",
-      "title": "11 Years Later, Dragon Ball Super: Beerus Finally Nails Akira Toriyama's Original Vision",
-      "url": "https://polygon.com/dragon-ball-super-beerus-finally-respects-toriyamas-vision",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T14:00:18+00:00",
-      "score": 8,
-      "event_key": "dragon ball super beerus new york comic con premiere",
-      "title_ru": "Dragon Ball Super: Beerus воплощает оригинальное видение Акиры Ториямы",
-      "threads_teaser_ru": "Аниме Dragon Ball Super: Beerus получило премьерный показ на New York Comic Con 2026. Проект исправляет ошибки сериала 2015 года, улучшая анимацию и темп, а также точнее адаптируя мангу перед релизом арки про Моро в 2027 году.",
-      "telegram_message_id": "1417",
-      "telegram_url": "https://t.me/gamepulse_newss/1417",
-      "telegram_published_at": "2026-10-18T14:02:03.214936+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-ball-super-beerus.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-18T14:02:04.559211+00:00"
-    },
-    {
       "fingerprint": "99a26c45c4679b7252e0450a",
       "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
       "url": "https://eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
@@ -20527,7 +20510,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
       "threads_published_at": "2026-11-13T08:32:34.906181+00:00"
+    },
+    {
+      "fingerprint": "8c862b8f31741421a938d725",
+      "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
+      "url": "https://rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-12T22:53:40+00:00",
+      "score": 7,
+      "event_key": "Slay the Spire 2 beta update adds The Fool character",
+      "title_ru": "Крупнейшее бета-обновление Slay the Spire 2 добавляет нового персонажа и два режима игры",
+      "threads_teaser_ru": "В Slay the Spire 2 вышло самое крупное бета-обновление на данный момент. В игре появились новый персонаж The Fool, режим Blitz с измененными правилами экономики и хардкорный режим Dread для опытных игроков.",
+      "telegram_message_id": "2618",
+      "telegram_url": "https://t.me/gamepulse_newss/2618",
+      "telegram_published_at": "2026-11-13T09:02:35.116089+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/slay-the-spire-2-the-fool.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T08:32:34.906296+00:00"
+  "updated_at": "2026-11-13T09:02:35.116197+00:00"
 }
