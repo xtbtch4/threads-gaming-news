@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "931e35552fe5fa4f482a55b1",
-      "title": "D&D's New Arcana Unleashed Feats Are Breaking the Game, but There's an Easy Fix",
-      "url": "https://polygon.com/dnd-arcana-unleashed-adept-feats-broken-fix-dungeons-dragons",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T15:00:19+00:00",
-      "score": 8,
-      "event_key": "arcana-unleashed-adept-feats-dungeons-dragons-balance",
-      "title_ru": "Новые черты из книги Arcana Unleashed для Dungeons & Dragons вызывают споры среди игроков",
-      "threads_teaser_ru": "Новые черты Adept из книги Arcana Unleashed для Dungeons & Dragons позволяют любым классам изучать мощные заклинания вроде Fireball. Это вызывает споры о балансе и стирании границ между классами, но Dungeon Masters могут легко решить проблему через сюжет.",
-      "telegram_message_id": "1422",
-      "telegram_url": "https://t.me/gamepulse_newss/1422",
-      "telegram_published_at": "2026-10-18T15:16:59.307760+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/341922.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/luis-carazo-says-this-is-the-most-important-part-of-d-d-1791882245.mp4",
-      "threads_published_at": "2026-10-18T15:17:00.648647+00:00"
-    },
-    {
       "fingerprint": "0c756d4fa6703730e9f2fc40",
       "title": "A Remaster Of The Best Shrek Game Ever Just Leaked",
       "url": "https://polygon.com/shrek-2-remastered-leak",
@@ -20528,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/2_SN4DvSM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-13T10:46:46.868367+00:00"
+    },
+    {
+      "fingerprint": "7a19fc81f5ce91cda7eb7144",
+      "title": "Horu is a sci-fi 4X RTS inspired by Star Wars: Empire at War in which spaceships are spellcasters who can summon black holes",
+      "url": "https://rockpapershotgun.com/horu-is-a-sci-fi-4x-rts-inspired-by-star-wars-empire-at-war-in-which-spaceships-are-spellcasters-who-can-summon-black-holes",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-13T11:00:00+00:00",
+      "score": 10,
+      "event_key": "horu-sci-fi-4x-rts-announced-steam",
+      "title_ru": "Анонсирована Horu — масштабная научно-фантастическая 4X RTS",
+      "threads_teaser_ru": "В Steam появилась страница Horu — масштабной 4X RTS, вдохновленной Star Wars: Empire at War. Игра предлагает огромные космические и наземные сражения, магию и элементы глобальной стратегии.",
+      "telegram_message_id": "2623",
+      "telegram_url": "https://t.me/gamepulse_newss/2623",
+      "telegram_published_at": "2026-11-13T11:01:57.619417+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/horu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T10:46:46.868461+00:00"
+  "updated_at": "2026-11-13T11:01:57.619762+00:00"
 }
