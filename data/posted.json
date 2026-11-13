@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f8f37b076695d5f082385f96",
-      "title": "Samson dev Liquid Swords has reportedly gone bankrupt",
-      "url": "https://eurogamer.net/liquid-swords-samson-developer-bankrupt",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-18T15:21:13+00:00",
-      "score": 8,
-      "event_key": "liquid swords samson developer has reportedly gone bankrupt",
-      "title_ru": "Разработчики Samson студия Liquid Swords объявили о банкротстве",
-      "threads_teaser_ru": "Шведская студия Liquid Swords, выпустившая экшен Samson, согласно отчетам, объявила о банкротстве. Около 30 сотрудников не получали зарплату месяцы, но выплаты покроет государство, а управляющий ищет покупателя.",
-      "telegram_message_id": "1432",
-      "telegram_url": "https://t.me/gamepulse_newss/1432",
-      "telegram_published_at": "2026-10-18T21:46:56.793840+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ss_c74b6df6643c4b6c0c0e015be9013a4c68fd3deb.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-18T21:46:58.261194+00:00"
-    },
-    {
       "fingerprint": "f367f75dfe29d30bc44c099a",
       "title": "63 Years Later, the Stellar Action Comic Strip Most America Never Heard of Deserves Another Shot",
       "url": "https://polygon.com/modesty-blaise-retrospective",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/11_2fde2a.jpg?w=300",
       "threads_published_at": "2026-11-13T15:03:33.325396+00:00"
+    },
+    {
+      "fingerprint": "93c33743cebb70e3e9d00152",
+      "title": "Steam’s Angriest New Game Is the Perfect Place to Channel Your AI Hate",
+      "url": "https://polygon.com/virtue-and-a-sledgehammer-review",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T13:00:18+00:00",
+      "score": 10,
+      "event_key": "Virtue and a Sledgehammer game release and themes",
+      "title_ru": "Virtue and a Sledgehammer: борьба против ИИ и принятие утраты",
+      "threads_teaser_ru": "В новой игре Virtue and a Sledgehammer героиня берется за кувалду, чтобы уничтожить город, ставший «роботизированным раем». Это не просто экшен против ИИ, а философская история о том, почему человеческая смертность и несовершенство — это то, что делает нас людьми.",
+      "telegram_message_id": "2633",
+      "telegram_url": "https://t.me/gamepulse_newss/2633",
+      "telegram_published_at": "2026-11-13T15:17:15.895957+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/virtue-and-a-sledgehammer-robots.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-13T15:03:33.325494+00:00"
+  "updated_at": "2026-11-13T15:17:15.896047+00:00"
 }
