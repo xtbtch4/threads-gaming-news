@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e149e20f6330782b663bd584",
-      "title": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
-      "url": "https://polygon.com/gta-san-andreas-bigfoot-myth",
-      "source": "Polygon",
-      "published_at_source": "2026-10-18T01:00:18+00:00",
-      "score": 9,
-      "event_key": "GTA: San Andreas Bigfoot myth analysis",
-      "title_ru": "Миф о Bigfoot в GTA: San Andreas как символ эпохи",
-      "threads_teaser_ru": "Легендарный Bigfoot в Grand Theft Auto: San Andreas — это всего лишь городской миф из 2004 года. Почему игроки того времени верили в существование монстра и как изменилось отношение к «секретам» в играх с появлением датамайнинга и доступного интернета.",
-      "telegram_message_id": "1408",
-      "telegram_url": "https://t.me/gamepulse_newss/1408",
-      "telegram_published_at": "2026-10-18T11:32:23.976559+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22947291/GTA_Trilogy___Definitive_Edition___San_Andreas___Screen_3.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-18T11:32:25.220541+00:00"
-    },
-    {
       "fingerprint": "7fd0c83552167b27112c9940",
       "title": "Join the Pumpkaboo’s Sweet Surprises! event in Pokémon Pokopia - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/join-the-pumpkaboos-sweet-surprises-event-in-pokemon-pokopia",
@@ -20524,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-13T01:47:19.042217+00:00"
+    },
+    {
+      "fingerprint": "4a9c0da4025a42c3989f2e72",
+      "title": "Cartoon-styled \"lite-vania\" Lola's Familiars: Prison of Argnoh will have you springing yourself, and your summoned pals, from magic jail",
+      "url": "https://rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-12T17:08:00+00:00",
+      "score": 9,
+      "event_key": "Caracal Games announces Lola's Familiars: Prison of Argnoh trailer",
+      "title_ru": "Анонсирован 2D-платформер Lola's Familiars: Prison of Argnoh",
+      "threads_teaser_ru": "Появился первый трейлер 2D-платформера Lola's Familiars: Prison of Argnoh. В этой «lite-vania» от Caracal Games юная ведьма пытается сбежать из тюрьмы, используя силы призванных фамильяров. Дата релиза пока неизвестна, но страница в Steam уже открыта.",
+      "telegram_message_id": "2609",
+      "telegram_url": "https://t.me/gamepulse_newss/2609",
+      "telegram_published_at": "2026-11-13T02:17:11.272596+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Lola's-Familiars-Prison-of-Argnoh-convo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-13T01:47:19.042306+00:00"
+  "updated_at": "2026-11-13T02:17:11.272675+00:00"
 }
