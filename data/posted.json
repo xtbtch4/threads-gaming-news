@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6efc159f69151e9851e1755b",
-      "title": "\"I was a real anglophile\": A Canadian's obsession with Viz magazine is why Grand Theft Auto: London's streets are covered in dogs' eggs",
-      "url": "https://rockpapershotgun.com/i-was-a-real-anglophile-a-canadians-obsession-with-viz-magazine-is-why-grand-theft-auto-londons-streets-are-covered-in-dogs-eggs",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-19T16:30:00+00:00",
-      "score": 14,
-      "event_key": "kanadskie_razrabotchiki_sozdavali_gta_london",
-      "title_ru": "Как канадские разработчики создавали Grand Theft Auto: London",
-      "threads_teaser_ru": "Материал о создании Grand Theft Auto: London раскрыл неожиданный факт: своим появлением собачьи экскременты на улицах игры обязаны увлечению канадского художника британским журналом Viz.",
-      "telegram_message_id": "1462",
-      "telegram_url": "https://t.me/gamepulse_newss/1462",
-      "telegram_published_at": "2026-10-19T16:32:22.636378+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-london.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T16:32:24.124568+00:00"
-    },
-    {
       "fingerprint": "7363c2a0ea31c5ff73092143",
       "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
       "url": "https://gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/13/gettyimages-2299644955-1794584479663.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T01:46:52.922275+00:00"
+    },
+    {
+      "fingerprint": "fa16c09f22a9f23b632895ea",
+      "title": "Kevin Feige Didn't Want Wanda in VisionQuest Because He Was Worried She Would 'Distract' From the Core Show",
+      "url": "https://ign.com/articles/kevin-feige-didnt-want-wanda-in-visionquest-because-he-was-worried-she-would-distract-from-the-core-show",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T22:41:34+00:00",
+      "score": 6,
+      "event_key": "Kevin Feige opposed Wanda Maximoff appearance in VisionQuest series",
+      "title_ru": "Кевин Файги не хотел появления Ванды в сериале VisionQuest",
+      "threads_teaser_ru": "Почему Ванда не появилась в VisionQuest? Пол Беттани раскрыл, что Кевин Файги был против: он боялся, что героиня «отвлечет» зрителей от истории Вижна. Но финал шоу преподнес сюрприз для фанатов киновселенной.",
+      "telegram_message_id": "2663",
+      "telegram_url": "https://t.me/gamepulse_newss/2663",
+      "telegram_published_at": "2026-11-14T02:02:36.361145+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/08/03/wandavision-1691088299084.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T01:46:52.922365+00:00"
+  "updated_at": "2026-11-14T02:02:36.361262+00:00"
 }
