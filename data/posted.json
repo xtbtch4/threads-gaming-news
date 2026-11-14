@@ -20523,9 +20523,10 @@
       "telegram_message_id": "2697",
       "telegram_url": "https://t.me/gamepulse_newss/2697",
       "telegram_published_at": "2026-11-14T21:02:37.337085+00:00",
-      "threads_id": null,
-      "image_url": "https://sm.ign.com/t/ign_in/news/t/the-game-a/the-game-awards-2026-are-coming-to-disney_mckf.1200.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://sm.ign.com/t/ign_in/news/t/the-game-a/the-game-awards-2026-are-coming-to-disney_mckf.1200.jpg",
+      "threads_published_at": "2026-11-14T21:02:38.824445+00:00"
     }
   ],
-  "updated_at": "2026-11-14T21:02:37.337170+00:00"
+  "updated_at": "2026-11-14T21:02:38.824532+00:00"
 }
