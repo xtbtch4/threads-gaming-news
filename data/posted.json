@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7363c2a0ea31c5ff73092143",
-      "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
-      "url": "https://gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-19T16:18:07+00:00",
-      "score": 13,
-      "event_key": "richard_summers_calvert_voices_biddy_blas_star_wars_galactic_racer",
-      "title_ru": "Кто озвучил Biddy Blas в Star Wars: Galactic Racer",
-      "threads_teaser_ru": "Гонщика Biddy Blas в Star Wars: Galactic Racer озвучил британский рестлер и актер Ричард Саммерс-Кальверт. Персонаж быстро завоевал огромную популярность в сети и стал героем мемов.",
-      "telegram_message_id": "1463",
-      "telegram_url": "https://t.me/gamepulse_newss/1463",
-      "telegram_published_at": "2026-10-19T16:46:45.323294+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Biddy-Blas-Crowley.jpg?w=300",
-      "threads_published_at": "2026-10-19T16:46:47.345159+00:00"
-    },
-    {
       "fingerprint": "a09cfd3448538d963ca12a12",
       "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
       "url": "https://rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
@@ -20522,7 +20505,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2023/08/03/wandavision-1691088299084.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T02:02:37.684547+00:00"
+    },
+    {
+      "fingerprint": "dc6555da9da963cdc20d7732",
+      "title": "6 Most-Anticipated Steam Games You Should Add to Your Wishlist Right Now",
+      "url": "https://polygon.com/wishlister-nov-13",
+      "source": "Polygon",
+      "published_at_source": "2026-11-13T21:30:26+00:00",
+      "score": 6,
+      "event_key": "Polygon wishlist recommendations of upcoming Steam games",
+      "title_ru": "Polygon назвали шесть ожидаемых игр для списка желаемого в Steam",
+      "threads_teaser_ru": "Polygon составили список из шести любопытных новинок, на которые стоит обратить внимание в Steam. В подборке нашлось место всему: от личных историй о преодолении болезни до необычных аркад и RPG с открытым миром.",
+      "telegram_message_id": "2664",
+      "telegram_url": "https://t.me/gamepulse_newss/2664",
+      "telegram_published_at": "2026-11-14T02:17:31.170408+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/11/floor-plan-slap-out-of-it-press-image-6.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-14T02:02:37.684648+00:00"
+  "updated_at": "2026-11-14T02:17:31.170489+00:00"
 }
