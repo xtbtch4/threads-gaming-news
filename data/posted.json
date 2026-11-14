@@ -20519,10 +20519,11 @@
       "telegram_message_id": "2656",
       "telegram_url": "https://t.me/gamepulse_newss/2656",
       "telegram_published_at": "2026-11-14T00:17:00.673545+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/fallouts2tbimage3_3000.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-1786528077.mp4"
+      "video_url": "https://video.polygonimages.com/2026/08/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-1786528077.mp4",
+      "threads_published_at": "2026-11-14T00:17:02.536964+00:00"
     }
   ],
-  "updated_at": "2026-11-14T00:17:00.673655+00:00"
+  "updated_at": "2026-11-14T00:17:02.537073+00:00"
 }
