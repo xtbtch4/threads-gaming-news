@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "013e7b6682459a57908d7d30",
-      "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
-      "url": "https://ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T21:14:31+00:00",
-      "score": 15,
-      "event_key": "love and deepspace blade runner crossover valko controversy",
-      "title_ru": "Love and Deepspace запускает кроссовер с Blade Runner на фоне параллелей с удаленным персонажем",
-      "threads_teaser_ru": "В Love and Deepspace начался кроссовер с Blade Runner 2049, вызвавший у фанатов ассоциации с отмененным персонажем Valko. Игроки нашли параллели в сюжетах и надеются на возвращение героя.",
-      "telegram_message_id": "1470",
-      "telegram_url": "https://t.me/gamepulse_newss/1470",
-      "telegram_published_at": "2026-10-19T22:02:45.640142+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/edited-photo-1792443609711.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-19T22:02:47.418632+00:00"
-    },
-    {
       "fingerprint": "8f4df5e977ec2b5c4ae1ef87",
       "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
       "url": "https://ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildhub.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-14T05:17:02.790946+00:00"
+    },
+    {
+      "fingerprint": "f8edc8bdfab46d0930890d70",
+      "title": "What we've been playing - \"Whether he means to or not, he serves sass all over town\"",
+      "url": "https://eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-14T08:00:00+00:00",
+      "score": 9,
+      "event_key": "eurogamer staff shares what they have been playing this week",
+      "title_ru": "Во что играют сотрудники Eurogamer: от Ocarina of Time до World of Warcraft",
+      "threads_teaser_ru": "Редакция Eurogamer рассказала о своих текущих игровых сессиях. Кто-то впервые проходит классическую Ocarina of Time, другие полностью погрузились в World of Warcraft или изучают стратегии в Fire Emblem.",
+      "telegram_message_id": "2671",
+      "telegram_url": "https://t.me/gamepulse_newss/2671",
+      "telegram_published_at": "2026-11-14T08:02:34.098906+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/link-ocarina-remake-adult.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-14T05:17:02.791040+00:00"
+  "updated_at": "2026-11-14T08:02:34.099003+00:00"
 }
