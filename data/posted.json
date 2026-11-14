@@ -20521,10 +20521,11 @@
       "telegram_message_id": "2675",
       "telegram_url": "https://t.me/gamepulse_newss/2675",
       "telegram_published_at": "2026-11-14T10:17:17.780710+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/image-3.png?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/ytdown-com_youtube_media_xeqp4vvuyry_severance-official-trailer-apple-tv_001_1080p-1794600782.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/ytdown-com_youtube_media_xeqp4vvuyry_severance-official-trailer-apple-tv_001_1080p-1794600782.mp4",
+      "threads_published_at": "2026-11-14T10:17:19.327700+00:00"
     }
   ],
-  "updated_at": "2026-11-14T10:17:17.780800+00:00"
+  "updated_at": "2026-11-14T10:17:19.327801+00:00"
 }
