@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5f1162b62d4058da53644604",
-      "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
-      "url": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-19T18:00:00+00:00",
-      "score": 14,
-      "event_key": "modern warfare 4 operators weapons and multiplayer features",
-      "title_ru": "Подробности о релизе Call of Duty: Modern Warfare 4",
-      "threads_teaser_ru": "Xbox Wire опубликовал подробности о мультиплеере Call of Duty: Modern Warfare 4 перед релизом. Что известно об операторах, оружии и системе создания классов на запуске?",
-      "telegram_message_id": "1466",
-      "telegram_url": "https://t.me/gamepulse_newss/1466",
-      "telegram_published_at": "2026-10-19T18:02:40.033116+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-RFL-OPS-WEAPONS-TOUT-2343b867635ca44979bc.jpg",
-      "threads_published_at": "2026-10-19T18:02:41.337284+00:00"
-    },
-    {
       "fingerprint": "c9043898a20f3ce894c0fead",
       "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
       "url": "https://polygon.com/gta-6-rdr2-horse-balls-confirmed-rockstar",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/07/17/star-trek-commander-deck-deal-amazon-ign-1784274048211.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T02:47:16.798358+00:00"
+    },
+    {
+      "fingerprint": "98c0336b6a3d8079673bf36f",
+      "title": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
+      "url": "https://ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
+      "source": "IGN",
+      "published_at_source": "2026-11-14T02:36:04+00:00",
+      "score": 7,
+      "event_key": "James Gunn refutes Skydance meddling rumors Man of Tomorrow",
+      "title_ru": "Джеймс Ганн опроверг слухи о вмешательстве Skydance в фильм Man of Tomorrow",
+      "threads_teaser_ru": "Джеймс Ганн ответил на слухи о том, что студия Skydance уже вносит изменения в его фильм Man of Tomorrow. Режиссер утверждает, что никто из новых руководителей даже не видел ленту. Разбираемся, что происходит с будущим DCU.",
+      "telegram_message_id": "2667",
+      "telegram_url": "https://t.me/gamepulse_newss/2667",
+      "telegram_published_at": "2026-11-14T03:02:48.658634+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/14/james-gunn-rumors-1794623291199.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T02:47:16.798441+00:00"
+  "updated_at": "2026-11-14T03:02:48.658695+00:00"
 }
