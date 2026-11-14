@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "55d7d50f8d3c859063470abd",
-      "title": "We've had two great Star Wars games this year, probably because Lucasfilm Games says it's now \"more flexible\" about who it takes pitches from",
-      "url": "https://eurogamer.net/star-wars-games-small-developers-lucasfilm-games-plan",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-19T13:06:53+00:00",
-      "score": 11,
-      "event_key": "lucasfilm games more flexible with star wars pitches",
-      "title_ru": "Lucasfilm Games стала гибче подходить к выбору партнеров для создания игр по Star Wars",
-      "threads_teaser_ru": "Lucasfilm Games изменила подход к выдаче лицензий на игры по Star Wars и теперь открыта для предложений от самых разных студий, что уже привело к релизу Zero Company и Galactic Racer.",
-      "telegram_message_id": "1455",
-      "telegram_url": "https://t.me/gamepulse_newss/1455",
-      "telegram_published_at": "2026-10-19T13:16:43.969614+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-biddy-blas-capture-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T13:16:45.611393+00:00"
-    },
-    {
       "fingerprint": "b8e236dcf88b43cf4cf68cd4",
       "title": "Faraway – Official Release Date Reveal Trailer",
       "url": "https://gamespot.com/videos/faraway-official-release-date-reveal-trailer",
@@ -20522,7 +20505,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/01/30/pc-first-mins-br-1738277933414.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T00:02:20.382271+00:00"
+    },
+    {
+      "fingerprint": "b712267407e18c592c6d8cbf",
+      "title": "Fallout 5 and Fallout Remasters Officially Announced",
+      "url": "https://polygon.com/fallout-5-fo3-remaster-new-games-bethesda-softworks",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T00:16:18+00:00",
+      "score": 14,
+      "event_key": "bethesda_announces_fallout_5_and_remasters",
+      "title_ru": "Bethesda анонсировала Fallout 5 и ремастеры Fallout 3 и Fallout: New Vegas",
+      "threads_teaser_ru": "Bethesda анонсировала ремастеры Fallout 3 и Fallout: New Vegas, а также полноценную Fallout 5, которая находится на стадии препродакшна. Что еще вошло в планы компании по развитию серии?",
+      "telegram_message_id": "2656",
+      "telegram_url": "https://t.me/gamepulse_newss/2656",
+      "telegram_published_at": "2026-11-14T00:17:00.673545+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/fallouts2tbimage3_3000.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-1786528077.mp4"
     }
   ],
-  "updated_at": "2026-11-14T00:02:20.382365+00:00"
+  "updated_at": "2026-11-14T00:17:00.673655+00:00"
 }
