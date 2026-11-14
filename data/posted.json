@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a09cfd3448538d963ca12a12",
-      "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
-      "url": "https://rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-19T17:02:28+00:00",
-      "score": 12,
-      "event_key": "digital-sun-delays-revamp-playtest-genai-fears",
-      "title_ru": "Разработчики Moonlighter отложили публичную демоверсию ReVamp из-за опасений клонирования с помощью ИИ",
-      "threads_teaser_ru": "Авторы Moonlighter отложили публичное тестирование ReVamp на Steam из-за страха перед ИИ-клонами. Вместо этого пройдет закрытый тест в Discord.",
-      "telegram_message_id": "1464",
-      "telegram_url": "https://t.me/gamepulse_newss/1464",
-      "telegram_published_at": "2026-10-19T17:17:07.787427+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/revamp_WenWzly.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T17:17:09.388940+00:00"
-    },
-    {
       "fingerprint": "8299a8710814f24a3d46f257",
       "title": "Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update",
       "url": "https://eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high",
@@ -20522,7 +20505,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/11/floor-plan-slap-out-of-it-press-image-6.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-14T02:17:32.565105+00:00"
+    },
+    {
+      "fingerprint": "c0db8872e16de27476eb84e3",
+      "title": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
+      "url": "https://polygon.com/professor-layton-nintendo-ds-remake-release-date-2027",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T02:25:17+00:00",
+      "score": 10,
+      "event_key": "professor layton and the curious village remake announced",
+      "title_ru": "Анонсирован ремейк Professor Layton and the Curious Village",
+      "threads_teaser_ru": "Компания Level-5 анонсировала ремейк классической игры Professor Layton and the Curious Village к 20-летию серии. Проект выйдет в 2027 году на нескольких платформах.",
+      "telegram_message_id": "2665",
+      "telegram_url": "https://t.me/gamepulse_newss/2665",
+      "telegram_published_at": "2026-11-14T02:32:27.890672+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-and-the-new-world-of-steam.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/pv-remake-pv-level5-vision-2026-ii-ver-level5ch-1080p-1789054145.mp4"
     }
   ],
-  "updated_at": "2026-11-14T02:17:32.565189+00:00"
+  "updated_at": "2026-11-14T02:32:27.890765+00:00"
 }
