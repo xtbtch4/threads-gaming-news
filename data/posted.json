@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8299a8710814f24a3d46f257",
-      "title": "Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update",
-      "url": "https://eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-19T17:22:27+00:00",
-      "score": 15,
-      "event_key": "arc-raiders-frozen-trails-player-numbers-six-month-high",
-      "title_ru": "Онлайн Arc Raiders достиг шестимесячного максимума после выхода обновления Frozen Trails",
-      "threads_teaser_ru": "Благодаря обновлению Frozen Trails и бесплатным выходным аудитория extraction shooter Arc Raiders подскочила до 1,7 миллиона суточных игроков, показав лучший результат за последние полгода.",
-      "telegram_message_id": "1465",
-      "telegram_url": "https://t.me/gamepulse_newss/1465",
-      "telegram_published_at": "2026-10-19T17:32:45.940640+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/arc-raiders-headline.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-19T17:32:47.308600+00:00"
-    },
-    {
       "fingerprint": "5f1162b62d4058da53644604",
       "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
       "url": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features",
@@ -20523,7 +20506,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-and-the-new-world-of-steam.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/pv-remake-pv-level5-vision-2026-ii-ver-level5ch-1080p-1789054145.mp4",
       "threads_published_at": "2026-11-14T02:32:29.415073+00:00"
+    },
+    {
+      "fingerprint": "e92ad494e183da1b65e3845f",
+      "title": "Magic: The Gathering’s Star Trek Commander Precons Ranked: Why We Are the Borg Takes the Top Spot",
+      "url": "https://ign.com/articles/magic-the-gathering-star-trek-commander-decks-ranked",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T21:30:00+00:00",
+      "score": 6,
+      "event_key": "IGN ranks Magic: The Gathering Star Trek Commander decks",
+      "title_ru": "IGN составили рейтинг колод Magic: The Gathering в тематике Star Trek",
+      "threads_teaser_ru": "IGN проанализировали четыре новых набора Magic: The Gathering по мотивам Star Trek. Авторы материала оценили геймплей, ценность карт и переиздания, отдав лидерство колоде We Are the Borg.",
+      "telegram_message_id": "2666",
+      "telegram_url": "https://t.me/gamepulse_newss/2666",
+      "telegram_published_at": "2026-11-14T02:47:15.339651+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/17/star-trek-commander-deck-deal-amazon-ign-1784274048211.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T02:32:29.415193+00:00"
+  "updated_at": "2026-11-14T02:47:15.339732+00:00"
 }
