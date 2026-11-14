@@ -20522,9 +20522,10 @@
       "telegram_message_id": "2681",
       "telegram_url": "https://t.me/gamepulse_newss/2681",
       "telegram_published_at": "2026-11-14T12:17:20.210219+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/popeyes-sandwich-1794351677687.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/popeyes-sandwich-1794351677687.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-14T12:17:21.751728+00:00"
     }
   ],
-  "updated_at": "2026-11-14T12:17:20.210325+00:00"
+  "updated_at": "2026-11-14T12:17:21.751804+00:00"
 }
