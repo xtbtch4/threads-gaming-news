@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e3bd07823d4db7180827e94d",
-      "title": "Stupid Never Dies – 26 Minute Full Dungeon Run Gameplay",
-      "url": "https://gamespot.com/videos/stupid-never-dies-26-minute-full-dungeon-run-gameplay",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-19T22:00:00+00:00",
-      "score": 8,
-      "event_key": "gameplay video release for dungeon run in Stupid Never Dies",
-      "title_ru": "26-минутный геймплейный ролик Stupid Never Dies",
-      "threads_teaser_ru": "Опубликовано 26-минутное прохождение подземелья в Stupid Never Dies. В ролике показаны 27 уровней поздней стадии игры, механика превращения в монстров после «Style Eat» и сражения, в которых герой способен побеждать боссов с одного удара.",
-      "telegram_message_id": "1478",
-      "telegram_url": "https://t.me/gamepulse_newss/1478",
-      "telegram_published_at": "2026-10-20T02:32:42.996959+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/gameplay_StupidNeverDies_Dungeon_v1.jpg?w=300",
-      "threads_published_at": "2026-10-20T02:32:44.478230+00:00"
-    },
-    {
       "fingerprint": "ca2a540a426f53b6c6b5259d",
       "title": "Saros Gets Boss Rush And Tons Of Difficulty Options With Zenith Update",
       "url": "https://gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update",
@@ -20523,7 +20506,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_20-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-14T11:32:11.616157+00:00"
+    },
+    {
+      "fingerprint": "342926eefdebf4487984fdf9",
+      "title": "20 Years Ago, the Best Sci-Fi Show of the Century Delivered the Most Epic Space Battle in TV History",
+      "url": "https://polygon.com/battlestar-galactica-season-3-exodus-20-year-anniversary-adama-maneuver",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T09:04:18+00:00",
+      "score": 5,
+      "event_key": "battlestar galactica exodus part 2 anniversary space battle",
+      "title_ru": "20 лет эпизоду \"Exodus, Part 2\" сериала Battlestar Galactica",
+      "threads_teaser_ru": "Эпизод \"Exodus, Part 2\" сериала Battlestar Galactica отметил свое 20-летие. Серия запомнилась масштабной битвой за New Caprica, рискованным маневром адмирала Adama и гибелью корабля Pegasus.",
+      "telegram_message_id": "2679",
+      "telegram_url": "https://t.me/gamepulse_newss/2679",
+      "telegram_published_at": "2026-11-14T11:46:31.046773+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/exodus-missiles.avif?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/ytdown-com_youtube_media_ismzkurcajm_battlestar-galactica-galactica-tricks-the-cylons_001_1080p-1-1791831497.mp4"
     }
   ],
-  "updated_at": "2026-11-14T11:32:11.616239+00:00"
+  "updated_at": "2026-11-14T11:46:31.046886+00:00"
 }
