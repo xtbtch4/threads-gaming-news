@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b8e236dcf88b43cf4cf68cd4",
-      "title": "Faraway – Official Release Date Reveal Trailer",
-      "url": "https://gamespot.com/videos/faraway-official-release-date-reveal-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-19T13:23:00+00:00",
-      "score": 15,
-      "event_key": "Faraway release date announcement November 2026",
-      "title_ru": "Анонсирована дата релиза аркадной головоломки Faraway",
-      "threads_teaser_ru": "Стала известна дата выхода минималистичной аркадной головоломки Faraway от создателя Eliss Стефа Тириона. Игра о падающей звезде и созвездиях появится на множестве платформ уже 5 ноября.",
-      "telegram_message_id": "1456",
-      "telegram_url": "https://t.me/gamepulse_newss/1456",
-      "telegram_published_at": "2026-10-19T13:32:12.636883+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/1_36b4a0.jpg?w=300",
-      "threads_published_at": "2026-10-19T13:32:14.166306+00:00"
-    },
-    {
       "fingerprint": "fccecbe60a71479e75796e5e",
       "title": "After 16 Years, Chill Sci-Fi Game Faraway Has A Release Date",
       "url": "https://gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date",
@@ -20523,7 +20506,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/fallouts2tbimage3_3000.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/i-fixed-fallout-s-music-by-creating-a-totally-new-genre-1786528077.mp4",
       "threads_published_at": "2026-11-14T00:17:02.536964+00:00"
+    },
+    {
+      "fingerprint": "50be051df83afecb5a94dfea",
+      "title": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are In Talks for \"AAA\" Video Game Adaptation",
+      "url": "https://ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T23:49:32+00:00",
+      "score": 9,
+      "event_key": "Blade Runner franchise owners in talks for AAA video game",
+      "title_ru": "Владельцы франшизы Blade Runner ведут переговоры о создании AAA-игры",
+      "threads_teaser_ru": "Похоже, вселенная Blade Runner может получить новую крупную игру. Продюсеры франшизы подтвердили, что ведут переговоры о разработке проекта уровня AAA, где игроки смогут по-настоящему погрузиться в этот культовый киберпанк-мир.",
+      "telegram_message_id": "2657",
+      "telegram_url": "https://t.me/gamepulse_newss/2657",
+      "telegram_published_at": "2026-11-14T00:32:45.739330+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2022/09/15/blade-runner-2099-1663254300147.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T00:17:02.537073+00:00"
+  "updated_at": "2026-11-14T00:32:45.739392+00:00"
 }
