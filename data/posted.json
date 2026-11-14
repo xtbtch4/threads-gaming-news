@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ef3c6cc3719198a5349f75bd",
-      "title": "The Mafia Trilogy Has Hit Its Lowest Price, And You’d Be A Fool To Refuse",
-      "url": "https://gamespot.com/articles/the-mafia-trilogy-has-hit-its-lowest-price-and-youd-be-a-fool-to-refuse",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-20T08:23:07+00:00",
-      "score": 7,
-      "event_key": "mafia trilogy lowest price fanatical sale",
-      "title_ru": "The Mafia Trilogy получила рекордно низкую скидку на Fanatical",
-      "threads_teaser_ru": "Коллекция The Mafia Trilogy получила рекордную скидку на Fanatical и теперь стоит всего 10,49 долларов за три Steam-ключа. Сборник включает около 50 часов сюжетного контента.",
-      "telegram_message_id": "1499",
-      "telegram_url": "https://t.me/gamepulse_newss/1499",
-      "telegram_published_at": "2026-10-20T08:46:45.671026+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-mafia-trilogy-deal-lowest-price.jpg?w=300",
-      "threads_published_at": "2026-10-20T08:46:47.172972+00:00"
-    },
-    {
       "fingerprint": "a3f2d29db7a44fa44e341d1a",
       "title": "Umamusame: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\"",
       "url": "https://eurogamer.net/umamusame-pretty-derby-la-concert-cancelled-visa-issues",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/03/03/puzzle-site-1772543174828.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T22:02:40.636664+00:00"
+    },
+    {
+      "fingerprint": "7c03aece7f5baf362a7fc5f0",
+      "title": "League of Legends: New Dawn Revealed, Major Overhaul Set for 2027",
+      "url": "https://polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T22:03:57+00:00",
+      "score": 14,
+      "event_key": "league of legends new dawn update announced for 2027",
+      "title_ru": "Анонсировано масштабное обновление League of Legends: New Dawn на 2027 год",
+      "threads_teaser_ru": "Riot Games анонсировала масштабное обновление League of Legends под названием New Dawn, релиз которого запланирован на 2027 год. Игра получит новый клиент, обновленную карту и свежий контент, а все подробности раскроют в январе.",
+      "telegram_message_id": "2700",
+      "telegram_url": "https://t.me/gamepulse_newss/2700",
+      "telegram_published_at": "2026-11-14T22:16:33.091019+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/still002.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-14T22:02:40.636755+00:00"
+  "updated_at": "2026-11-14T22:16:33.091112+00:00"
 }
