@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8f4df5e977ec2b5c4ae1ef87",
-      "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
-      "url": "https://ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T21:38:26+00:00",
-      "score": 13,
-      "event_key": "users demand AI content filter on Steam Next Fest",
-      "title_ru": "Пользователи Steam требуют внедрения фильтра контента, сгенерированного ИИ, на Steam Next Fest",
-      "threads_teaser_ru": "На стартовавшем Steam Next Fest пользователи заметили наплыв игр, созданных с помощью нейросетей. Игроки просят Valve добавить фильтр, позволяющий скрывать проекты с ИИ-контентом, но пока площадка полагается лишь на автоматические алгоритмы.",
-      "telegram_message_id": "1471",
-      "telegram_url": "https://t.me/gamepulse_newss/1471",
-      "telegram_published_at": "2026-10-19T22:17:13.942367+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-19T22:17:15.416952+00:00"
-    },
-    {
       "fingerprint": "52a0d1c525fbc363aecd8c35",
       "title": "The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack",
       "url": "https://news.xbox.com/en-us/2026/10/19/the-call-of-duty-endowment-c-o-d-e-presents-the-forged-in-valor-series-a-look-into-the-making-of-the-valor-pack",
@@ -20523,7 +20506,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/link-ocarina-remake-adult.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-14T08:02:35.642928+00:00"
+    },
+    {
+      "fingerprint": "5c076e1addad0c027c922f01",
+      "title": "Zelda Fans Who Loved Ocarina of Time Need to Play This Game Next",
+      "url": "https://polygon.com/zelda-link-past-retrospective-35-years",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T09:00:17+00:00",
+      "score": 8,
+      "event_key": "retrospective of The Legend of Zelda A Link to the Past",
+      "title_ru": "Почему стоит сыграть в The Legend of Zelda: A Link to the Past после Ocarina of Time",
+      "threads_teaser_ru": "Закончили прохождение ремейка The Legend of Zelda: Ocarina of Time и не знаете, что запустить дальше? Автор Polygon советует обратить внимание на игру, которая заложила основы для многих механик серии — классическую The Legend of Zelda: A Link to the Past.",
+      "telegram_message_id": "2672",
+      "telegram_url": "https://t.me/gamepulse_newss/2672",
+      "telegram_published_at": "2026-11-14T09:18:29.947232+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24100929/Link.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-40th-anniversary-direct-9-8-2026-1788885700.mp4"
     }
   ],
-  "updated_at": "2026-11-14T08:02:35.643037+00:00"
+  "updated_at": "2026-11-14T09:18:29.947343+00:00"
 }
