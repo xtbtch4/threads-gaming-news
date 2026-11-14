@@ -20522,9 +20522,10 @@
       "telegram_message_id": "2687",
       "telegram_url": "https://t.me/gamepulse_newss/2687",
       "telegram_published_at": "2026-11-14T18:02:29.672999+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-14T18:02:32.193894+00:00"
     }
   ],
-  "updated_at": "2026-11-14T18:02:29.673090+00:00"
+  "updated_at": "2026-11-14T18:02:32.193979+00:00"
 }
