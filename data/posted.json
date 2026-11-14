@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c9043898a20f3ce894c0fead",
-      "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
-      "url": "https://polygon.com/gta-6-rdr2-horse-balls-confirmed-rockstar",
-      "source": "Polygon",
-      "published_at_source": "2026-10-19T17:54:41+00:00",
-      "score": 12,
-      "event_key": "rockstar-confirms-rdr2-horse-details-and-gta-6-physics",
-      "title_ru": "Rockstar подтвердила наличие известной детали с физикой в Red Dead Redemption 2 и намекнула на GTA 6",
-      "threads_teaser_ru": "Спустя почти десять лет Rockstar подтвердила существование знаменитой детали из Red Dead Redemption 2 с уникальной физикой. Журналист Джейсон Шрайер считает, что GTA 6 будет полна подобных проработанных мелочей.",
-      "telegram_message_id": "1467",
-      "telegram_url": "https://t.me/gamepulse_newss/1467",
-      "telegram_published_at": "2026-10-19T18:17:32.907818+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-19T18:17:34.571377+00:00"
-    },
-    {
       "fingerprint": "76d83f7e8136201803bd1ac2",
       "title": "\"Sexy sorceresses\" and \"bare-chested fighters\": Dragon Age's original artists wanted to base it on Conan the Barbarian, much to the outrage of the designers",
       "url": "https://rockpapershotgun.com/sexy-sorceresses-and-bare-chested-fighters-dragon-ages-original-artists-wanted-to-base-it-on-conan-the-barbarian-much-to-the-outrage-of-the-designers",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/14/james-gunn-rumors-1794623291199.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T03:02:50.075450+00:00"
+    },
+    {
+      "fingerprint": "01c55e689252c286facf890d",
+      "title": "Save Over 50% Off the Logitech G29 Racing Wheel, Pedals, and Driving Shifter Bundle for PS5 and PC",
+      "url": "https://ign.com/articles/logitech-g29-racing-wheel-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-13T20:55:00+00:00",
+      "score": 6,
+      "event_key": "Logitech G29 racing wheel bundle discount Woot",
+      "title_ru": "Logitech G29 Racing Wheel со скидкой 50% в рамках подготовки к «Черной пятницы»",
+      "threads_teaser_ru": "Магазин Woot! предложил комплект Logitech G29 Racing Wheel вместе с педалями и рычагом переключения передач за $179,99. Это «open box» товар, продаваемый с дополнительной скидкой по коду перед началом «Черной пятницы».",
+      "telegram_message_id": "2668",
+      "telegram_url": "https://t.me/gamepulse_newss/2668",
+      "telegram_published_at": "2026-11-14T03:17:15.039205+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/13/logitechg29-1794598396252.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T03:02:50.075540+00:00"
+  "updated_at": "2026-11-14T03:17:15.039284+00:00"
 }
