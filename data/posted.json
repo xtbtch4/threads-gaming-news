@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ac030aa9ddf8a3fddd1c80a0",
-      "title": "Stupid Never Dies Is Easily the Worst Game of 2026",
-      "url": "https://polygon.com/stupid-never-dies-review",
-      "source": "Polygon",
-      "published_at_source": "2026-10-19T22:00:17+00:00",
-      "score": 7,
-      "event_key": "Polygon review of Stupid Never Dies by GPTRACK50",
-      "title_ru": "Polygon раскритиковал Stupid Never Dies",
-      "threads_teaser_ru": "Критический обзор Polygon называет Stupid Never Dies худшей игрой 2026 года. Рецензент раскритиковал «неуклюжий» геймплей, утомительную структуру рогалика и крайне спорный сюжет об оживлении замороженного тела девушки.",
-      "telegram_message_id": "1489",
-      "telegram_url": "https://t.me/gamepulse_newss/1489",
-      "telegram_published_at": "2026-10-20T05:17:32.413471+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-golem-fight.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-20T05:17:33.827607+00:00"
-    },
-    {
       "fingerprint": "56526ea32f88f2db15c9efb0",
       "title": "New Pokémon Release Finally Lets You Play As Team Rocket",
       "url": "https://polygon.com/new-pokemon-game-team-rocket-evolved-what-is-trailer-release",
@@ -20525,7 +20508,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/the-first-sliver-mtg-art.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/planeswalker-sneak-peek-netflix-1794597130.mp4",
       "threads_published_at": "2026-11-14T18:32:47.123257+00:00"
+    },
+    {
+      "fingerprint": "e7e7832a03cf4dda98033235",
+      "title": "35 Years Later, Tim Burton’s Greatest Love Story Is Officially on Streaming",
+      "url": "https://polygon.com/tim-burton-edward-scissorhands-love-story",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T18:00:17+00:00",
+      "score": 8,
+      "event_key": "35th anniversary of Tim Burton film Edward Scissorhands",
+      "title_ru": "Фильм Edward Scissorhands празднует 35-летие",
+      "threads_teaser_ru": "Фильму Edward Scissorhands исполнилось 35 лет. История о человеке с ножницами вместо рук стала одной из самых личных работ Тима Бёртона. Вспоминаем, как создавалась эта готическая сказка с Джонни Деппом и Вайноной Райдер, и почему её концепция смутила сценаристку при первой встрече.",
+      "telegram_message_id": "2690",
+      "telegram_url": "https://t.me/gamepulse_newss/2690",
+      "telegram_published_at": "2026-11-14T18:46:49.217470+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/winona.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-14T18:32:47.123359+00:00"
+  "updated_at": "2026-11-14T18:46:49.217551+00:00"
 }
