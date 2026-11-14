@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c74581f671a9b31a0839fcfe",
-      "title": "Hellraiser's Clive Barker Feared New Game Would Be 'Overly Censored' But Is 'Proud as F**k at the End Result'",
-      "url": "https://ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T21:44:42+00:00",
-      "score": 8,
-      "event_key": "clive_barker_praises_hellraiser_revival_game",
-      "title_ru": "Создатель Hellraiser остался доволен игрой Hellraiser: Revival",
-      "threads_teaser_ru": "Создатель Hellraiser Клайв Баркер признался, что боялся чрезмерной цензуры в Hellraiser: Revival, но остался горд результатом и смелостью разработчиков из Saber Interactive.",
-      "telegram_message_id": "1480",
-      "telegram_url": "https://t.me/gamepulse_newss/1480",
-      "telegram_published_at": "2026-10-20T03:02:29.951903+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/03/10/clivebarkershellrasierrevivaloriginsdeveloperdiaryvideo-ign-blogroll-1773154687012.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T03:02:31.559345+00:00"
-    },
-    {
       "fingerprint": "4fe35f991652056412775448",
       "title": "Even Sexyy Red Is Confused Why Storm Doesn't Have More Legendary Skins",
       "url": "https://ign.com/articles/even-sexyy-red-is-confused-why-storm-doesnt-have-more-legendary-skins",
@@ -20525,7 +20508,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fellowship-nazgul.avif?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/the-rings-of-power-season-3-official-trailer-1792600670.mp4",
       "threads_published_at": "2026-11-14T12:02:27.599164+00:00"
+    },
+    {
+      "fingerprint": "aa260edbb0d6a13354eefbba",
+      "title": "Popeyes Is Riding the GTA 6 Hype With a New 'Spice City' Chicken Sandwich",
+      "url": "https://ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T08:09:00+00:00",
+      "score": 5,
+      "event_key": "Popeyes launches Spice City sandwich to celebrate GTA 6 release",
+      "title_ru": "Popeyes выпустит сэндвич «Spice City» в день выхода GTA 6",
+      "threads_teaser_ru": "Сеть ресторанов Popeyes решила поддержать релиз GTA 6 выпуском тематического сэндвича «Spice City». Новинка появится в меню 19 ноября — в тот же день, что и долгожданная игра от Rockstar. Детали состава и акции для тех, кто планирует провести день за консолью — внутри.",
+      "telegram_message_id": "2681",
+      "telegram_url": "https://t.me/gamepulse_newss/2681",
+      "telegram_published_at": "2026-11-14T12:17:20.210219+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/popeyes-sandwich-1794351677687.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T12:02:27.599270+00:00"
+  "updated_at": "2026-11-14T12:17:20.210325+00:00"
 }
