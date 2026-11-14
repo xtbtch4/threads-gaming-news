@@ -20522,9 +20522,10 @@
       "telegram_message_id": "2688",
       "telegram_url": "https://t.me/gamepulse_newss/2688",
       "telegram_published_at": "2026-11-14T18:16:33.013266+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/super-meat-boy-again-plus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/super-meat-boy-again-plus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-14T18:16:34.497887+00:00"
     }
   ],
-  "updated_at": "2026-11-14T18:16:33.013351+00:00"
+  "updated_at": "2026-11-14T18:16:34.497973+00:00"
 }
