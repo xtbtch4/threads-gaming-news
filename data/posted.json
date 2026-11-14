@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "af891f4d15327d295931244c",
-      "title": "Save $110 for Your First Year With McAfee+ Scam Detector, Including a VPN, Antivirus and Online Protection in the Age of AI",
-      "url": "https://ign.com/articles/mcafee-plus-advanced-online-protection-plan-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T19:31:23+00:00",
-      "score": 8,
-      "event_key": "mcafee plus advanced online protection plan deal",
-      "title_ru": "Скидка $110 на первый год подписки на McAfee+ Advanced",
-      "threads_teaser_ru": "Скидка $110 доступна на первый год подписки на McAfee+ с защитой от угроз эпохи искусственного интеллекта, включающей VPN, антивирус и детектор мошенничества.",
-      "telegram_message_id": "1484",
-      "telegram_url": "https://t.me/gamepulse_newss/1484",
-      "telegram_published_at": "2026-10-20T04:02:22.593415+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/mcafee-protection-blogroll-1-1792437215944.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T04:02:24.012223+00:00"
-    },
-    {
       "fingerprint": "56db87f371fffafa3b294922",
       "title": "PSA Responds After More Than $100,000 Worth of Graded Trading Cards Stolen from FedEx Truck",
       "url": "https://ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/bigwalkmegaphone.png?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-14T14:33:13.063890+00:00"
+    },
+    {
+      "fingerprint": "7ccdd2bf648633c32dc538fd",
+      "title": "When GTA 5 Took On Zuckerberg and Hit Peak Satire - IGN",
+      "url": "https://ign.com/articles/when-gta-5-took-on-zuckerberg-and-hit-peak-satire",
+      "source": "IGN",
+      "published_at_source": "2026-11-14T08:30:00+00:00",
+      "score": 12,
+      "event_key": "grand_theft_auto_v_friend_request_mission_satire",
+      "title_ru": "Когда Grand Theft Auto V высмеяла Кремниевую долину",
+      "threads_teaser_ru": "В материале IGN вспоминают миссию Friend Request из Grand Theft Auto V, где разработчики высмеяли Кремниевую долину, стартапы и главу LifeInvader Джея Норриса.",
+      "telegram_message_id": "2685",
+      "telegram_url": "https://t.me/gamepulse_newss/2685",
+      "telegram_published_at": "2026-11-14T16:47:06.300975+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/gta-5-aotl-blog-1794325834932.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T14:33:13.063978+00:00"
+  "updated_at": "2026-11-14T16:47:06.301059+00:00"
 }
