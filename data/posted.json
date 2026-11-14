@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "db2fed352340aef8ba2dae87",
-      "title": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
-      "url": "https://rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-19T13:25:56+00:00",
-      "score": 6,
-      "event_key": "Needle In A Haystack developers accuse clone of code theft",
-      "title_ru": "Разработчики игры Needle In A Haystack обвинили авторов клона в краже исходного кода",
-      "threads_teaser_ru": "Студия NoGlyph обвинила разработчиков проекта A Game About Needle In A Haystack в прямом копировании исходного кода их игры Needle In A Haystack. В найденных файлах клона обнаружили идентичные классы и даже специфические сообщения об ошибках.",
-      "telegram_message_id": "1497",
-      "telegram_url": "https://t.me/gamepulse_newss/1497",
-      "telegram_published_at": "2026-10-20T07:47:19.351335+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/needle-in-a-haystack-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-20T07:47:20.658422+00:00"
-    },
-    {
       "fingerprint": "cf652820c75ebd9ef02a42fa",
       "title": "How To Get The New Morphed Deviations In Once Human: Isles of Abyss",
       "url": "https://gamespot.com/articles/once-human-isles-of-abyss-morphed-deviations-how-to-get",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://sm.ign.com/t/ign_in/news/t/the-game-a/the-game-awards-2026-are-coming-to-disney_mckf.1200.jpg",
       "threads_published_at": "2026-11-14T21:02:38.824445+00:00"
+    },
+    {
+      "fingerprint": "afcddae5655a27e7f681c5ca",
+      "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
+      "url": "https://rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-14T21:31:00+00:00",
+      "score": 9,
+      "event_key": "Rasen early access launch",
+      "title_ru": "Rasen вышла в ранний доступ",
+      "threads_teaser_ru": "PvP-ориентированная игра Rasen вышла в ранний доступ в Steam. Проект делает ставку на динамичные бои на холодном оружии и, что необычно для 3D-арен, использует технологию rollback netcode для снижения задержек. Доступна демоверсия.",
+      "telegram_message_id": "2698",
+      "telegram_url": "https://t.me/gamepulse_newss/2698",
+      "telegram_published_at": "2026-11-14T21:32:57.338653+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/rasen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-14T21:02:38.824532+00:00"
+  "updated_at": "2026-11-14T21:32:57.338746+00:00"
 }
