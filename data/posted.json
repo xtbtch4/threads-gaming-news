@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fccecbe60a71479e75796e5e",
-      "title": "After 16 Years, Chill Sci-Fi Game Faraway Has A Release Date",
-      "url": "https://gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-19T13:00:00+00:00",
-      "score": 15,
-      "event_key": "faraway release date announced after sixteen years",
-      "title_ru": "Релиз расслабляющей научно-фантастической игры Faraway состоится через 16 лет после анонса",
-      "threads_teaser_ru": "Научно-фантастическая игра Faraway от разработчика Steph Thirion и издательства Annapurna Interactive получила дату релиза спустя 16 лет после анонса. Проект выйдет 5 ноября на ПК и консолях.",
-      "telegram_message_id": "1457",
-      "telegram_url": "https://t.me/gamepulse_newss/1457",
-      "telegram_published_at": "2026-10-19T14:02:06.809408+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Faraway.jpg?w=300",
-      "threads_published_at": "2026-10-19T14:02:08.320887+00:00"
-    },
-    {
       "fingerprint": "ad6e7009d605d5b5917a275a",
       "title": "Taika Waititi's Star Wars Movie Gets Disappointing Update",
       "url": "https://polygon.com/star-wars-taika-waititi-movie-on-ice",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2022/09/15/blade-runner-2099-1663254300147.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T00:32:47.241662+00:00"
+    },
+    {
+      "fingerprint": "6362cedd58eb5166cf624e62",
+      "title": "Official Zelda Website Raises Eyebrows By Labeling 3DS Game As Playable On Switch",
+      "url": "https://gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-13T17:13:06+00:00",
+      "score": 8,
+      "event_key": "nintendo website lists 3ds zelda for switch",
+      "title_ru": "Официальный сайт Nintendo ошибочно указал The Legend of Zelda: A Link Between Worlds как игру для Switch",
+      "threads_teaser_ru": "На сайте Nintendo на короткое время появилась информация, что классика с 3DS — The Legend of Zelda: A Link Between Worlds — доступна подписчикам Nintendo Switch Online. Является ли это ошибкой или намеком на будущее обновление библиотеки сервиса, пока неизвестно.",
+      "telegram_message_id": "2658",
+      "telegram_url": "https://t.me/gamepulse_newss/2658",
+      "telegram_published_at": "2026-11-14T00:47:06.765378+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-3DS-and-2DS-The-Legend-of-Zelda_-A-Link-Between-Worlds-Trailer-0-1-48.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-14T00:32:47.241741+00:00"
+  "updated_at": "2026-11-14T00:47:06.765473+00:00"
 }
