@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "52a0d1c525fbc363aecd8c35",
-      "title": "The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack",
-      "url": "https://news.xbox.com/en-us/2026/10/19/the-call-of-duty-endowment-c-o-d-e-presents-the-forged-in-valor-series-a-look-into-the-making-of-the-valor-pack",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-19T22:23:07+00:00",
-      "score": 12,
-      "event_key": "call of duty endowment launches forged in valor series",
-      "title_ru": "The Call of Duty Endowment представила серию Forged in Valor",
-      "threads_teaser_ru": "The Call of Duty Endowment запускает видеосерию Forged in Valor. Зрителям покажут, как создавался набор Valor Pack для игр франшизы Call of Duty. Подробности о проекте уже раскрыты.",
-      "telegram_message_id": "1472",
-      "telegram_url": "https://t.me/gamepulse_newss/1472",
-      "telegram_published_at": "2026-10-19T22:32:43.451951+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-CODE-FORGED-IN-VALOR-TOUT-cc3914605f091248c7e6.jpg",
-      "threads_published_at": "2026-10-19T22:32:44.777308+00:00"
-    },
-    {
       "fingerprint": "4d272efbafa2ba4b568038d4",
       "title": "PS5 \"bullet ballet\" game Saros gets a big update to make it both easier and harder",
       "url": "https://eurogamer.net/saros-update-zenith-ps5-new-game-plus",
@@ -20524,7 +20507,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24100929/Link.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-40th-anniversary-direct-9-8-2026-1788885700.mp4",
       "threads_published_at": "2026-11-14T09:18:31.235892+00:00"
+    },
+    {
+      "fingerprint": "6d5f5e7c8041f1b5c163c876",
+      "title": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads",
+      "url": "https://eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-13T19:52:50+00:00",
+      "score": 9,
+      "event_key": "The Legend of Zelda popularity decline before Breath of the Wild",
+      "title_ru": "The Legend of Zelda теряла популярность перед выходом Breath of the Wild",
+      "threads_teaser_ru": "Перед выходом The Legend of Zelda: Breath of the Wild франшиза переживала не лучшие времена. Бывшие маркетологи Nintendo отмечают, что популярность серии падала, а продажи новых игр разочаровывали. Рассказываем, почему компании пришлось пойти на радикальные перемены.",
+      "telegram_message_id": "2673",
+      "telegram_url": "https://t.me/gamepulse_newss/2673",
+      "telegram_published_at": "2026-11-14T09:47:23.509864+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Close-up-of-Princess-Zelda-in-Breath-of-the-Wild.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-14T09:18:31.235999+00:00"
+  "updated_at": "2026-11-14T09:47:23.509963+00:00"
 }
