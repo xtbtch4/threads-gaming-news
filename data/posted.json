@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "95d8a310f51e33879d75cc3f",
-      "title": "D&D’s Dark Sun Creator Reveals Why the Controversial Setting Is ‘Not Political’",
-      "url": "https://polygon.com/dnd-dungeons-dragons-dark-sun-creator-original-setting-political-interview-dragon-kings",
-      "source": "Polygon",
-      "published_at_source": "2026-10-19T20:00:16+00:00",
-      "score": 9,
-      "event_key": "Timothy Brown discusses Dark Sun development and themes",
-      "title_ru": "Создатель Dark Sun ответил на вопросы о политическом подтексте сеттинга",
-      "threads_teaser_ru": "В 1991 году студия TSR выпустила мрачный мир Dark Sun, который до сих пор вызывает споры из-за тем рабства и экологии. Соавтор сеттинга Тимоти Браун объяснил, почему дизайн изначально не задумывался как политическое высказывание и как создавалась уникальная атмосфера Athas.",
-      "telegram_message_id": "1476",
-      "telegram_url": "https://t.me/gamepulse_newss/1476",
-      "telegram_published_at": "2026-10-20T02:03:20.717098+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dark-sun-illustration-warrior.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/luis-carazo-says-this-is-the-most-important-part-of-d-d-1791882245.mp4",
-      "threads_published_at": "2026-10-20T02:03:22.396455+00:00"
-    },
-    {
       "fingerprint": "0c2db7876082e8e8a133b851",
       "title": "3 Video Games Where Your Choices Actually Make a Difference",
       "url": "https://polygon.com/best-games-choices-impact",
@@ -20525,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/polygon-steam-stock-art-graffiti.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-14T11:02:36.245113+00:00"
+    },
+    {
+      "fingerprint": "fd6b5becad42b10f5daaa2f3",
+      "title": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+      "url": "https://eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-14T11:15:00+00:00",
+      "score": 11,
+      "event_key": "call of duty endowment valor pack remembrance day",
+      "title_ru": "Call of Duty Endowment отмечает День памяти с набором Valor Pack",
+      "threads_teaser_ru": "Call of Duty Endowment отмечает День памяти и 17-летие, напоминая о наборе Valor Pack для Modern Warfare 4 и Warzone. Все средства от его продажи идут на трудоустройство ветеранов.",
+      "telegram_message_id": "2677",
+      "telegram_url": "https://t.me/gamepulse_newss/2677",
+      "telegram_published_at": "2026-11-14T11:16:47.676445+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-14-at-11.11.15.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-14T11:02:36.245211+00:00"
+  "updated_at": "2026-11-14T11:16:47.676528+00:00"
 }
