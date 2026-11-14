@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "57cf4012d9140374d3f4203d",
-      "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
-      "url": "https://ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T22:18:08+00:00",
-      "score": 6,
-      "event_key": "fan made PS1 style game Resident Evil movie adaptation",
-      "title_ru": "Фанатская игра в стиле PS1 по мотивам фильма Resident Evil от Зака Креггера стала вирусной",
-      "threads_teaser_ru": "Фильм Resident Evil Зака Креггера превратили в ретро-игру в стиле PS1. Инди-разработчик перенес в проект сцену погони, сохранив фиксированные углы камеры и характерную графику оригинальных частей франшизы.",
-      "telegram_message_id": "1496",
-      "telegram_url": "https://t.me/gamepulse_newss/1496",
-      "telegram_published_at": "2026-10-20T07:31:59.298376+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/01/resident-evil-090126-poster-thumb-1788295069881.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T07:32:00.597976+00:00"
-    },
-    {
       "fingerprint": "db2fed352340aef8ba2dae87",
       "title": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
       "url": "https://rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-casualties-unknown-deal.jpg?w=300",
       "threads_published_at": "2026-11-14T20:46:47.396456+00:00"
+    },
+    {
+      "fingerprint": "0478ad0e61d3cd4dc53a11f5",
+      "title": "The Game Awards 2026 are Coming to Disney+",
+      "url": "https://in.ign.com/news/276885/the-game-awards-2026-are-coming-to-disney",
+      "source": "IGN",
+      "published_at_source": "2026-11-12T11:17:00+00:00",
+      "score": 5,
+      "event_key": "The Game Awards 2026 will be streamed on Disney+",
+      "title_ru": "Церемония The Game Awards 2026 будет транслироваться на Disney+",
+      "threads_teaser_ru": "Церемония The Game Awards 2026 впервые появится на Disney+. Популярное игровое событие расширяет географию вещания, сохраняя при этом привычные трансляции на других платформах. Рассказываем, зачем Disney понадобилось партнерство с организаторами шоу.",
+      "telegram_message_id": "2697",
+      "telegram_url": "https://t.me/gamepulse_newss/2697",
+      "telegram_published_at": "2026-11-14T21:02:37.337085+00:00",
+      "threads_id": null,
+      "image_url": "https://sm.ign.com/t/ign_in/news/t/the-game-a/the-game-awards-2026-are-coming-to-disney_mckf.1200.jpg"
     }
   ],
-  "updated_at": "2026-11-14T20:46:47.396542+00:00"
+  "updated_at": "2026-11-14T21:02:37.337170+00:00"
 }
