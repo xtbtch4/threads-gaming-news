@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "56db87f371fffafa3b294922",
-      "title": "PSA Responds After More Than $100,000 Worth of Graded Trading Cards Stolen from FedEx Truck",
-      "url": "https://ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T18:44:55+00:00",
-      "score": 8,
-      "event_key": "graded trading cards stolen from fedex truck psa",
-      "title_ru": "Коллекционные карточки стоимостью более $100 000 украли из грузовика FedEx",
-      "threads_teaser_ru": "Коллекция из сотни редких карточек стоимостью более $100 000 была похищена из грузовика FedEx в Южной Калифорнии. PSA уже деактивировала сертификаты украденных предметов и пообещала выплатить компенсации.",
-      "telegram_message_id": "1485",
-      "telegram_url": "https://t.me/gamepulse_newss/1485",
-      "telegram_published_at": "2026-10-20T04:16:36.248184+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/hundreds-of-psa-graded-trading-cards-stolen-from-fedex-truck-1792435194146.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T04:16:37.758101+00:00"
-    },
-    {
       "fingerprint": "0e600bbe225fda538ae05e17",
       "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
       "url": "https://eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
@@ -20525,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/10/gta-5-aotl-blog-1794325834932.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-14T16:47:07.708553+00:00"
+    },
+    {
+      "fingerprint": "7774c122fe2c75543237780a",
+      "title": "The Zelda: Ocarina of Time Remake Is an Event Even if You’re Not Playing It",
+      "url": "https://polygon.com/switchboard-zelda-ocarina-of-time-reception",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T17:00:19+00:00",
+      "score": 10,
+      "event_key": "zelda ocarina of time switch 2 release reception polygon",
+      "title_ru": "Реакция на релиз The Legend of Zelda: Ocarina of Time для Switch 2",
+      "threads_teaser_ru": "Выход ремейка The Legend of Zelda: Ocarina of Time на Switch 2 стал главным игровым событием недели, объединив новичков и фанатов серии.",
+      "telegram_message_id": "2686",
+      "telegram_url": "https://t.me/gamepulse_newss/2686",
+      "telegram_published_at": "2026-11-14T17:02:39.984358+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-owl.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-14T16:47:07.708633+00:00"
+  "updated_at": "2026-11-14T17:02:39.984452+00:00"
 }
