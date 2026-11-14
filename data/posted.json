@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "71d3d8b05d91ec70292364e7",
-      "title": "Clayface Stars Praise Batman: The Animated Series and Ron Perlman's 'Amazing' Performance as the DC Villain",
-      "url": "https://ign.com/articles/clayface-cast-batman-animated-series-fandom",
-      "source": "IGN",
-      "published_at_source": "2026-10-19T23:10:53+00:00",
-      "score": 6,
-      "event_key": "actors discuss Clayface and Batman: The Animated Series influence",
-      "title_ru": "Актеры Clayface о влиянии Batman: The Animated Series",
-      "threads_teaser_ru": "Том Рис Харрис и Наоми Аки рассказали, как мультсериал Batman: The Animated Series повлиял на работу над проектом Clayface. Сценарий Майка Флэнагана опирается на классический эпизод «Feat of Clay», а актеры отдельно отметили выдающуюся озвучку Рона Перлмана.",
-      "telegram_message_id": "1495",
-      "telegram_url": "https://t.me/gamepulse_newss/1495",
-      "telegram_published_at": "2026-10-20T07:17:16.918908+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/btas-clayface-thumb-1792450433852.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T07:17:18.309259+00:00"
-    },
-    {
       "fingerprint": "57cf4012d9140374d3f4203d",
       "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
       "url": "https://ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-simpsons-fortnite-loading-screen.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-14T20:32:43.930692+00:00"
+    },
+    {
+      "fingerprint": "0b7e59dc38f513958cfd9ac8",
+      "title": "Casualties: Unknown Is A Brutal 97%-Rated Survival Game That Will Make You Realize Your Mortality, And At A Cheap Price, Too",
+      "url": "https://gamespot.com/articles/casualties-unknown-is-a-brutal-97-rated-survival-game-that-will-make-you-realize-your-mortality-and-at-a-cheap-price-too",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-14T16:05:24+00:00",
+      "score": 6,
+      "event_key": "Casualties: Unknown Steam launch positive user reception",
+      "title_ru": "Survival-игра Casualties: Unknown получила высокие оценки пользователей",
+      "threads_teaser_ru": "Survival-игра Casualties: Unknown стартовала с рейтингом 97% в Steam. Проект выделяется крайне высокой сложностью, системой симуляции травм и необходимостью выживать в суровых условиях инопланетной планеты. Рассказываем, что делает этот «инди-бриллиант» особенным.",
+      "telegram_message_id": "2696",
+      "telegram_url": "https://t.me/gamepulse_newss/2696",
+      "telegram_published_at": "2026-11-14T20:46:46.069340+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-casualties-unknown-deal.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-14T20:32:43.930782+00:00"
+  "updated_at": "2026-11-14T20:46:46.069432+00:00"
 }
