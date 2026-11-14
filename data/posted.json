@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4ee4824bf60c6c397612e816",
-      "title": "After Beating Castlevania: Belmont’s Curse, Help Dracula Rebuild In This Awesome Roguelike",
-      "url": "https://gamespot.com/articles/after-beating-castlevania-belmonts-curse-help-dracula-rebuild-in-this-awesome-roguelike",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-19T21:20:06+00:00",
-      "score": 12,
-      "event_key": "Draftula demo release on Steam",
-      "title_ru": "Анонсирована демоверсия roguelike-игры Draftula",
-      "threads_teaser_ru": "Вышла демоверсия roguelike-игры Draftula. В этом проекте игроки строят замок для Дракулы, используя комнаты как игровые элементы, чтобы защититься от нападения рыцаря. Недавно в демо добавили режим Nightly с таблицей лидеров.",
-      "telegram_message_id": "1469",
-      "telegram_url": "https://t.me/gamepulse_newss/1469",
-      "telegram_published_at": "2026-10-19T21:32:16.815400+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/maxresdefault_7fde0d.jpg?w=300",
-      "threads_published_at": "2026-10-19T21:32:18.192187+00:00"
-    },
-    {
       "fingerprint": "013e7b6682459a57908d7d30",
       "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
       "url": "https://ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
@@ -20523,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/microsoft-ice-reliance-no-azure-for-apartheid-statement-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-14T03:32:59.865290+00:00"
+    },
+    {
+      "fingerprint": "8424f8557ae1ade6cb86c5ec",
+      "title": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+      "url": "https://polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses",
+      "source": "Polygon",
+      "published_at_source": "2026-11-14T05:15:17+00:00",
+      "score": 8,
+      "event_key": "Pokemon Go Wild Area 2026 global event details",
+      "title_ru": "Детали ивента Wild Area 2026 в Pokémon Go",
+      "threads_teaser_ru": "В Pokémon Go начался ивент Wild Area 2026. Игроков ждут дебют Gigantamax Duraludon, рейды с Dynamax Dialga и Palkia, а также возвращение Black Kyurem и White Kyurem. Событие продлится до 15 ноября, включая ротацию мест обитания, бонусы для владельцев билетов и особые атаки покемонов.",
+      "telegram_message_id": "2670",
+      "telegram_url": "https://t.me/gamepulse_newss/2670",
+      "telegram_published_at": "2026-11-14T05:17:01.280551+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildhub.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-14T03:32:59.865374+00:00"
+  "updated_at": "2026-11-14T05:17:01.280634+00:00"
 }
