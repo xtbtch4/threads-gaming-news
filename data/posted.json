@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cf652820c75ebd9ef02a42fa",
-      "title": "How To Get The New Morphed Deviations In Once Human: Isles of Abyss",
-      "url": "https://gamespot.com/articles/once-human-isles-of-abyss-morphed-deviations-how-to-get",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-20T08:09:15+00:00",
-      "score": 9,
-      "event_key": "once human isles of abyss morphed deviations guide",
-      "title_ru": "Как получить новые Morphed Deviations в Once Human: Isles of Abyss",
-      "threads_teaser_ru": "Дополнение Isles of Abyss для Once Human добавляет новые Morphed Deviations и уникальное существо Duet, которое можно получить за победу над боссом The Sunken Lord.",
-      "telegram_message_id": "1498",
-      "telegram_url": "https://t.me/gamepulse_newss/1498",
-      "telegram_published_at": "2026-10-20T08:16:38.446416+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/deviations.png?w=300",
-      "threads_published_at": "2026-10-20T08:16:39.889849+00:00"
-    },
-    {
       "fingerprint": "ef3c6cc3719198a5349f75bd",
       "title": "The Mafia Trilogy Has Hit Its Lowest Price, And You’d Be A Fool To Refuse",
       "url": "https://gamespot.com/articles/the-mafia-trilogy-has-hit-its-lowest-price-and-youd-be-a-fool-to-refuse",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/rasen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-14T21:32:58.622854+00:00"
+    },
+    {
+      "fingerprint": "728d77c0d8d80e5a11d199db",
+      "title": "Resident Evil Requiem Star Hopes Grace Ashcroft Has 'a Long Way to Go' Even if She Won't 'Ever Be a Leon Character'",
+      "url": "https://ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
+      "source": "IGN",
+      "published_at_source": "2026-11-14T21:31:21+00:00",
+      "score": 7,
+      "event_key": "Angela Sant'Albano discusses future of Grace Ashcroft Resident Evil Requiem",
+      "title_ru": "Актриса Resident Evil Requiem о будущем персонажа Grace Ashcroft",
+      "threads_teaser_ru": "Исполнительница роли Grace Ashcroft в Resident Evil Requiem рассказала, чего ждет от будущего своей героини. Актриса Анджела Сант-Альбано считает, что та вряд ли станет «персонажем уровня Leon», но у героини все еще есть большой потенциал для внутреннего роста.",
+      "telegram_message_id": "2699",
+      "telegram_url": "https://t.me/gamepulse_newss/2699",
+      "telegram_published_at": "2026-11-14T22:02:39.197542+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/03/03/puzzle-site-1772543174828.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-14T21:32:58.622937+00:00"
+  "updated_at": "2026-11-14T22:02:39.197630+00:00"
 }
