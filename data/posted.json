@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "14efa6e4ee48cb6e4dfbf352",
-      "title": "GTA 5, Red Dead Redemption 2, and More Are Being Removed from the PS Plus Game Catalog",
-      "url": "https://ign.com/articles/gta-5-red-dead-redemption-2-and-more-are-being-removed-from-the-ps-plus-game-catalog",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T17:39:10+00:00",
-      "score": 15,
-      "event_key": "GTA 5 Red Dead Redemption 2 leaving PlayStation Plus catalog",
-      "title_ru": "GTA 5 и Red Dead Redemption 2 покидают каталог PlayStation Plus",
-      "threads_teaser_ru": "17 ноября из каталога PlayStation Plus Extra и Premium удалят ряд крупных игр, включая GTA 5 и Red Dead Redemption 2. У пользователей остается ограниченное время, чтобы пройти эти проекты в рамках подписки, прежде чем они станут недоступны для запуска без покупки.",
-      "telegram_message_id": "1526",
-      "telegram_url": "https://t.me/gamepulse_newss/1526",
-      "telegram_published_at": "2026-10-20T18:02:57.567315+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/10/rdr2-1789077021807.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T18:02:59.071471+00:00"
-    },
-    {
       "fingerprint": "fa7748b08a977f067751e142",
       "title": "Xbox Game Pass’s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
       "url": "https://gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/capcom-characters.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-15T19:02:17.216736+00:00"
+    },
+    {
+      "fingerprint": "6ba81fcf748e648b447c2bb6",
+      "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
+      "url": "https://ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
+      "source": "IGN",
+      "published_at_source": "2026-11-15T19:41:28+00:00",
+      "score": 11,
+      "event_key": "gta 6 jason and lucia small time criminals",
+      "title_ru": "Главные герои GTA 6 начнут путь с мелких преступлений",
+      "threads_teaser_ru": "В GTA 6 персонажи Jason и Lucia начнут свой криминальный путь с мелких дел вроде угона простых машин, постепенно продвигаясь к крупным ограблениям. Разработчики также обещают впервые добавить механизмы эмпатии.",
+      "telegram_message_id": "2727",
+      "telegram_url": "https://t.me/gamepulse_newss/2727",
+      "telegram_published_at": "2026-11-15T20:02:05.045254+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-15T19:02:17.216808+00:00"
+  "updated_at": "2026-11-15T20:02:05.045327+00:00"
 }
