@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "33697e21dc831d7fc4357c21",
-      "title": "DayZ Badlands Collector's Vinyl Box Set Available Exclusively at IGN Store",
-      "url": "https://ign.com/articles/dayz-badlands-collectors-vinyl-box-set-ign-store",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T17:00:00+00:00",
-      "score": 13,
-      "event_key": "dayz badlands collectors vinyl box set announced",
-      "title_ru": "Анонсирован коллекционный виниловый набор DayZ Badlands",
-      "threads_teaser_ru": "В IGN Store открылся предзаказ на эксклюзивный коллекционный виниловый набор DayZ Badlands стоимостью 140 долларов. В комплект вошли саундтрек, редкие предметы и Steam-код для ПК.",
-      "telegram_message_id": "1524",
-      "telegram_url": "https://t.me/gamepulse_newss/1524",
-      "telegram_published_at": "2026-10-20T17:02:50.068388+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/dayz-thumb-1792442615159.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T17:02:51.766247+00:00"
-    },
-    {
       "fingerprint": "e1ba84a5547dca2b962788f6",
       "title": "Magenta Down: A Journey Across a Hostile Exoplanet",
       "url": "https://news.xbox.com/en-us/2026/10/20/magenta-down-reveal-xbox-ign-id",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Clockwork-Revolution-_-Xbox-Games-Showcase-2025-0-50-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-15T18:16:57.917692+00:00"
+    },
+    {
+      "fingerprint": "4dfe6676ade7db1e5abb1a6d",
+      "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
+      "url": "https://polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T18:41:30+00:00",
+      "score": 12,
+      "event_key": "gta-6-completion-time-and-trophies-leak",
+      "title_ru": "Утечка деталей о прохождении Grand Theft Auto 6",
+      "threads_teaser_ru": "Инсайдеры поделились информацией о продолжительности Grand Theft Auto 6: сюжет займет около 50 часов, а полное прохождение на 100% потребует от 200 часов из-за сложных достижений и изучения животных.",
+      "telegram_message_id": "2725",
+      "telegram_url": "https://t.me/gamepulse_newss/2725",
+      "telegram_published_at": "2026-11-15T18:46:44.490521+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-15T18:16:57.917777+00:00"
+  "updated_at": "2026-11-15T18:46:44.490605+00:00"
 }
