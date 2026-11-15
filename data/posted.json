@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b4ef27d663104e8135877fdf",
-      "title": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update",
-      "url": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-20T19:00:00+00:00",
-      "score": 14,
-      "event_key": "grounded-2-rot-and-ruin-update-released",
-      "title_ru": "Обновление Rot and Ruin для Grounded 2",
-      "threads_teaser_ru": "Обновление Rot and Ruin для Grounded 2 добавляет поленницу с новыми термитами, босса-сороконожку, транспорт Potato Beetle Buggy, систему покраски построек и улучшение снаряжения с помощью Bismuth.",
-      "telegram_message_id": "1530",
-      "telegram_url": "https://t.me/gamepulse_newss/1530",
-      "telegram_published_at": "2026-10-20T19:02:33.657255+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/g2-HERO-env-woodpile-max-002-62ab2edb0d25e588218a.jpg",
-      "threads_published_at": "2026-10-20T19:02:35.155664+00:00"
-    },
-    {
       "fingerprint": "9495548f4d64d45bfbc95775",
       "title": "The Clash Royale Board Game Reaches Its Crowdfunding Goal in Less Than an Hour",
       "url": "https://ign.com/articles/the-clash-royale-board-game-reaches-its-crowdfunding-goal-in-less-than-an-hour",
@@ -20533,7 +20516,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bldx_s1_ut_250806_walber_00342r_cropc_f_3000-1.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/ytdown-com_youtube_media_nt8mdw5nkd0_bloodaxe-teaser-trailer-prime-video_001_1080p-1791849404.mp4",
       "threads_published_at": "2026-11-15T21:32:17.424804+00:00"
+    },
+    {
+      "fingerprint": "38e8dc51e65b5b520d3325a4",
+      "title": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
+      "url": "https://ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
+      "source": "IGN",
+      "published_at_source": "2026-11-15T22:18:57+00:00",
+      "score": 9,
+      "event_key": "xbox_confirms_project_helix_pc_games_support",
+      "title_ru": "Xbox подтвердила, что Project Helix сможет запускать игры с PC",
+      "threads_teaser_ru": "Microsoft раскрыла новые детали о Project Helix в специальном праздничном издании журнала. Устройство создается как консоль для запуска игр с PC.",
+      "telegram_message_id": "2731",
+      "telegram_url": "https://t.me/gamepulse_newss/2731",
+      "telegram_published_at": "2026-11-15T23:02:17.523264+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-15T21:32:17.424923+00:00"
+  "updated_at": "2026-11-15T23:02:17.523355+00:00"
 }
