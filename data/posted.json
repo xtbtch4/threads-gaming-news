@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a4b3e7d0f095e1c7a5f5e6e7",
-      "title": "Kratos Would Have Had a Different Name Were It Not for Relentless Domino's Pizza Jokes, God of War Creator Reveals",
-      "url": "https://ign.com/articles/dominos-pizza-jokes-god-of-war-dev-name-kratos",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T10:50:33+00:00",
-      "score": 11,
-      "event_key": "god of war krypto name origin dominos pizza",
-      "title_ru": "Kratos мог получить другое имя из-за шуток про пиццу",
-      "threads_teaser_ru": "Главный герой God of War мог получить совсем другое имя, но разработчики из Santa Monica Studio испортили его постоянными шутками про пиццу.",
-      "telegram_message_id": "1510",
-      "telegram_url": "https://t.me/gamepulse_newss/1510",
-      "telegram_published_at": "2026-10-20T11:31:58.811683+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/12/08/godofwarragnarok-valhalla-blogroll-1701999185810.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T11:32:00.658418+00:00"
-    },
-    {
       "fingerprint": "fcc6befdac8e11ec539e803b",
       "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
       "url": "https://eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
@@ -20530,7 +20513,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-10-16-01-am.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4",
       "threads_published_at": "2026-11-15T08:02:32.284864+00:00"
+    },
+    {
+      "fingerprint": "958bf812e9f9afac676b25c7",
+      "title": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
+      "url": "https://polygon.com/jamie-lannisters-best-game-of-thrones-quote-is-an-all-time-fantasy-hit",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T11:00:17+00:00",
+      "score": 5,
+      "event_key": "Jaime Lannister memorable quote Game of Thrones analysis",
+      "title_ru": "Анализ ключевой цитаты Jaime Lannister в Game of Thrones",
+      "threads_teaser_ru": "Издание Polygon разобрало, почему одна из самых ранних фраз Jaime Lannister в первом эпизоде Game of Thrones стала определяющей для всего сюжета. Речь идет о моменте в Винтерфелле, после которого жизнь персонажа и судьба Вестероса изменились навсегда.",
+      "telegram_message_id": "2711",
+      "telegram_url": "https://t.me/gamepulse_newss/2711",
+      "telegram_published_at": "2026-11-15T11:02:36.247884+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16180812/fff0d9dfb4ca0146ca40c7c544774aab6d742bd96e2c9159d72602d7cc9a29e0816324128c1aed588d806f603b3019b3.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2024/07/20170220_game-of-thrones-season-1-trailer-1721242000.mp4"
     }
   ],
-  "updated_at": "2026-11-15T08:02:32.284995+00:00"
+  "updated_at": "2026-11-15T11:02:36.247996+00:00"
 }
