@@ -20527,10 +20527,11 @@
       "telegram_message_id": "2711",
       "telegram_url": "https://t.me/gamepulse_newss/2711",
       "telegram_published_at": "2026-11-15T11:02:36.247884+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16180812/fff0d9dfb4ca0146ca40c7c544774aab6d742bd96e2c9159d72602d7cc9a29e0816324128c1aed588d806f603b3019b3.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2024/07/20170220_game-of-thrones-season-1-trailer-1721242000.mp4"
+      "video_url": "https://video.polygonimages.com/2024/07/20170220_game-of-thrones-season-1-trailer-1721242000.mp4",
+      "threads_published_at": "2026-11-15T11:02:37.511564+00:00"
     }
   ],
-  "updated_at": "2026-11-15T11:02:36.247996+00:00"
+  "updated_at": "2026-11-15T11:02:37.511680+00:00"
 }
