@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fa7748b08a977f067751e142",
-      "title": "Xbox Game Pass’s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
-      "url": "https://gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-20T09:27:00+00:00",
-      "score": 14,
-      "event_key": "xbox game pass second wave games revealed",
-      "title_ru": "Новая волна игр для Xbox Game Pass",
-      "threads_teaser_ru": "Microsoft представила вторую волну игр для подписки Xbox Game Pass. Она продолжает январскую линейку, в которую уже вошли Gears of War: E-Day и Battlefield 6.",
-      "telegram_message_id": "1527",
-      "telegram_url": "https://t.me/gamepulse_newss/1527",
-      "telegram_published_at": "2026-10-20T18:17:41.148074+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-20T18:17:42.798651+00:00"
-    },
-    {
       "fingerprint": "2a2c98e26182f3e8338ae4dd",
       "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
       "url": "https://ign.com/articles/save-10-gift-card-with-select-game-including-gta-6",
@@ -20531,7 +20514,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-15T20:02:06.415542+00:00"
+    },
+    {
+      "fingerprint": "e7d0811a61fc1138a0c8c303",
+      "title": "17 Years Ago, the Longest Running Sci-Fi Show Flipped Its Core Concept On Its Head",
+      "url": "https://polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T20:00:18+00:00",
+      "score": 5,
+      "event_key": "david-tennant-the-waters-of-mars-retrospective",
+      "title_ru": "Эволюция образа Десятого Доктора в специальном эпизоде Doctor Who",
+      "threads_teaser_ru": "Ретроспектива культового осеннего спецэпизода Doctor Who 2009 года напоминает о моменте, когда Десятый Доктор перешел черту и возомнил себя хозяином времени.",
+      "telegram_message_id": "2728",
+      "telegram_url": "https://t.me/gamepulse_newss/2728",
+      "telegram_published_at": "2026-11-15T20:17:00.597026+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/doctor-who-the-waters-of-mars.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4"
     }
   ],
-  "updated_at": "2026-11-15T20:02:06.415631+00:00"
+  "updated_at": "2026-11-15T20:17:00.597126+00:00"
 }
