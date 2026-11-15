@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d46297529a4380ee535181d9",
-      "title": "New Fortnite Season Might Not Be One Piece After All, New Official Ads Reveal",
-      "url": "https://polygon.com/fortnite-one-piece-anime-mini-season-pass",
-      "source": "Polygon",
-      "published_at_source": "2026-10-20T09:46:45+00:00",
-      "score": 10,
-      "event_key": "fortnite_new_season_might_not_feature_one_piece",
-      "title_ru": "Новый сезон Fortnite может не получить кроссовер с One Piece",
-      "threads_teaser_ru": "Новые рекламные постеры Fortnite в метро Мадрида намекают на то, что грядущий мини-сезон может получить не эксклюзивный кроссовер с One Piece, а оригинальную пиратскую тему с аниме-скинами от Epic Games.",
-      "telegram_message_id": "1503",
-      "telegram_url": "https://t.me/gamepulse_newss/1503",
-      "telegram_published_at": "2026-10-20T09:48:00.776525+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/luffy-one-piece.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-20T09:48:02.289425+00:00"
-    },
-    {
       "fingerprint": "05249bbae1b3ecc778b248de",
       "title": "Techland CEO Addresses Fans as Dying Light: The Beast Support Comes to an End",
       "url": "https://ign.com/articles/dying-light-the-beast-no-updates",
@@ -20526,7 +20509,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_kirbyandtheworldbeyond_scrn_19.jpeg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-15T00:32:12.252900+00:00"
+    },
+    {
+      "fingerprint": "b03b29b034e0a60aa24bf9bc",
+      "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
+      "url": "https://polygon.com/co-op-games-real-life-schedules",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T01:00:17+00:00",
+      "score": 8,
+      "event_key": "co-op games for busy schedules list by polygon",
+      "title_ru": "Подборка кооперативных игр для тех, у кого мало свободного времени",
+      "threads_teaser_ru": "Мало времени на игры? Polygon составили список из 10 кооперативных проектов, в которые комфортно играть при плотном графике: от сессионных развлечений до кампаний с Friend’s Pass для игры вдвоем с одной копии.",
+      "telegram_message_id": "2704",
+      "telegram_url": "https://t.me/gamepulse_newss/2704",
+      "telegram_published_at": "2026-11-15T01:03:00.154875+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22389863/snow__2_.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4"
     }
   ],
-  "updated_at": "2026-11-15T00:32:12.252998+00:00"
+  "updated_at": "2026-11-15T01:03:00.154968+00:00"
 }
