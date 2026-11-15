@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cfa1328b59eaed95841ab4bb",
-      "title": "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename",
-      "url": "https://ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T14:56:01+00:00",
-      "score": 13,
-      "event_key": "potential steam deck 2 chip appears in benchmarks",
-      "title_ru": "В сети появились данные о возможном процессоре для Steam Deck 2",
-      "threads_teaser_ru": "В сети заметили бенчмарки возможного процессора для Steam Deck 2 с кодовым названием «Gainsborough». Чип получил 6 ядер, 12 потоков и 24 ГБ памяти LPDDR5, но до финального релиза еще далеко.",
-      "telegram_message_id": "1520",
-      "telegram_url": "https://t.me/gamepulse_newss/1520",
-      "telegram_published_at": "2026-10-20T15:47:34.163184+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/11/09/vlcsnap-2023-11-08-15h13m58s271-1699488141465.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T15:47:36.270382+00:00"
-    },
-    {
       "fingerprint": "621f2f4a9ae51da727011d87",
       "title": "Bethesda Reveals What's Coming Next to Fallout 4 With First-Look at a Trio of New Mods",
       "url": "https://ign.com/articles/bethesda-reveals-whats-coming-next-to-fallout-4-with-first-look-at-a-trio-of-new-mods",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Magazine_mockup_perspective-37cf15975daed19bb5dd.png",
       "threads_published_at": "2026-11-15T17:02:16.661574+00:00"
+    },
+    {
+      "fingerprint": "e32f073a4343025cf84c931e",
+      "title": "The 2026 GOTY Race Could Be a Disaster for Indie Games",
+      "url": "https://polygon.com/goty-2026-game-awards-indie-big-walk-ai",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T17:00:19+00:00",
+      "score": 6,
+      "event_key": "big walk ai controversy 2026 game awards",
+      "title_ru": "Инди-игры могут столкнуться с трудностями в гонке за GOTY в 2026 году",
+      "threads_teaser_ru": "Успех инди-игр на The Game Awards в 2025 году может не повториться в 2026-м. Главный претендент в лице Big Walk столкнулся с серьезным скандалом из-за использования генеративного ИИ при написании кода.",
+      "telegram_message_id": "2721",
+      "telegram_url": "https://t.me/gamepulse_newss/2721",
+      "telegram_published_at": "2026-11-15T17:16:58.232446+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/big_walk_ho2uyexilo.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-15T17:02:16.661661+00:00"
+  "updated_at": "2026-11-15T17:16:58.232559+00:00"
 }
