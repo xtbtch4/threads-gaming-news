@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2a2c98e26182f3e8338ae4dd",
-      "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
-      "url": "https://ign.com/articles/save-10-gift-card-with-select-game-including-gta-6",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T17:34:13+00:00",
-      "score": 12,
-      "event_key": "best_buy_gift_card_promotion_fall_2026",
-      "title_ru": "Best Buy дарит скидку на подарочные карты при покупке игр вроде GTA 6",
-      "threads_teaser_ru": "Best Buy предлагает скидку $10 на подарочные карты PlayStation Store, Xbox Store и Nintendo eShop при покупке крупных игр вроде GTA 6, Modern Warfare 4 и Gears of War: E-Day.",
-      "telegram_message_id": "1528",
-      "telegram_url": "https://t.me/gamepulse_newss/1528",
-      "telegram_published_at": "2026-10-20T18:32:04.581299+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/untitled-design-1792517205060.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T18:32:06.183317+00:00"
-    },
-    {
       "fingerprint": "76de2155c99ecdf5c287775c",
       "title": "Three CRITICAL REFLEX Hits Are Coming to XBOX, And One Arrives Today",
       "url": "https://news.xbox.com/en-us/2026/10/20/critical-reflex-games-xbox-update",
@@ -20532,7 +20515,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/doctor-who-the-waters-of-mars.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4",
       "threads_published_at": "2026-11-15T20:17:02.117037+00:00"
+    },
+    {
+      "fingerprint": "cd6185ea6b119b699ff5375a",
+      "title": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+      "url": "https://rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-14T08:53:00+00:00",
+      "score": 5,
+      "event_key": "blood of dawnwalker update 1.2 adds new game plus",
+      "title_ru": "The Blood of Dawnwalker получит режим New Game+",
+      "threads_teaser_ru": "На следующей неделе в The Blood of Dawnwalker появится режим New Game+ вместе с обновлением 1.2. Игроки смогут перенести свой прогресс, а также оценить измененный баланс врагов и улучшения геометрии локаций.",
+      "telegram_message_id": "2729",
+      "telegram_url": "https://t.me/gamepulse_newss/2729",
+      "telegram_published_at": "2026-11-15T21:02:28.152389+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/blood-of-dawnwalker-time-mechanics-not-lock-future-entries-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-15T20:17:02.117146+00:00"
+  "updated_at": "2026-11-15T21:02:28.152497+00:00"
 }
