@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f4f92a873bc9d37a16704f73",
-      "title": "'GTA 6' at Risk as PS5 Hackers Officially Claim Major New Breakthrough",
-      "url": "https://polygon.com/ps5-jailbreak-gta-6-piracy-firmware-update-hypervisor-sony-rockstar",
-      "source": "Polygon",
-      "published_at_source": "2026-10-20T16:09:44+00:00",
-      "score": 14,
-      "event_key": "ps5 jailbreak firmware 14.10 kernel access gta 6",
-      "title_ru": "Хакеры заявили о прорыве в взломе PlayStation 5 на фоне обсуждения безопасности GTA 6",
-      "threads_teaser_ru": "Хакеры сообщили о получении доступа на уровне ядра на прошивке 14.10 для PlayStation 5. Именно она, как ожидается, потребуется для запуска Grand Theft Auto 6, однако впереди еще множество технических препятствий.",
-      "telegram_message_id": "1523",
-      "telegram_url": "https://t.me/gamepulse_newss/1523",
-      "telegram_published_at": "2026-10-20T16:32:27.173961+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vice_city_09-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-20T16:32:29.018613+00:00"
-    },
-    {
       "fingerprint": "33697e21dc831d7fc4357c21",
       "title": "DayZ Badlands Collector's Vinyl Box Set Available Exclusively at IGN Store",
       "url": "https://ign.com/articles/dayz-badlands-collectors-vinyl-box-set-ign-store",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/15/madden-nfl-27-1794762344457.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-15T18:02:25.119415+00:00"
+    },
+    {
+      "fingerprint": "a5d6c0a139d5c90c5ad46d1c",
+      "title": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+      "url": "https://eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-15T17:47:40+00:00",
+      "score": 11,
+      "event_key": "inxile office campus drive by shooting suspect arrested",
+      "title_ru": "Полиция арестовала подозреваемого после стрельбы у офиса inXile",
+      "threads_teaser_ru": "Полиция задержала подозреваемого после стрельбы из проезжающего автомобиля у офисного комплекса в Калифорнии, где находится студия inXile Entertainment. К счастью, никто не пострадал.",
+      "telegram_message_id": "2724",
+      "telegram_url": "https://t.me/gamepulse_newss/2724",
+      "telegram_published_at": "2026-11-15T18:16:56.491151+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Clockwork-Revolution-_-Xbox-Games-Showcase-2025-0-50-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-15T18:02:25.119506+00:00"
+  "updated_at": "2026-11-15T18:16:56.491260+00:00"
 }
