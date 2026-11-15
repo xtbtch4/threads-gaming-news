@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eb188ae642b5ae7ccde24b43",
-      "title": "Here’s An Exclusive Look At How Cyberpunk: Edgerunners’ Cast Will Look In The Hit Trading Card Game",
-      "url": "https://gamespot.com/articles/heres-an-exclusive-look-at-how-cyberpunk-edgerunners-cast-will-look-in-the-hit-trading-card-game",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-20T16:00:00+00:00",
-      "score": 15,
-      "event_key": "cyberpunk tcg edgerunners burn bright expansion announced",
-      "title_ru": "Анонсировано первое дополнение Edgerunners: Burn Bright для настольной карточной игры по Cyberpunk",
-      "threads_teaser_ru": "Компания WeirdCo анонсировала первое дополнение Edgerunners: Burn Bright для популярной карточной игры по вселенной Cyberpunk. Релиз намечен на весну 2027 года.",
-      "telegram_message_id": "1522",
-      "telegram_url": "https://t.me/gamepulse_newss/1522",
-      "telegram_published_at": "2026-10-20T16:17:21.083892+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Your-New-Life-Awaits-Set-2-Key-Art-rezied.jpg?w=300",
-      "threads_published_at": "2026-10-20T16:17:22.686153+00:00"
-    },
-    {
       "fingerprint": "f4f92a873bc9d37a16704f73",
       "title": "'GTA 6' at Risk as PS5 Hackers Officially Claim Major New Breakthrough",
       "url": "https://polygon.com/ps5-jailbreak-gta-6-piracy-firmware-update-hypervisor-sony-rockstar",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/37031-1794263579-549918053.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-15T17:46:56.102092+00:00"
+    },
+    {
+      "fingerprint": "5fa99a72e3859fa16d880975",
+      "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+      "url": "https://ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-15T17:22:20+00:00",
+      "score": 13,
+      "event_key": "ea adds dont delete message to madden nfl 27",
+      "title_ru": "EA добавила сообщение «Don't Delete!» в Madden NFL 27 на фоне скорого релиза Grand Theft Auto VI",
+      "threads_teaser_ru": "EA добавила необычное всплывающее уведомление в Madden NFL 27, призывая игроков не удалять симулятор ради освобождения места на диске перед релизом Grand Theft Auto VI.",
+      "telegram_message_id": "2723",
+      "telegram_url": "https://t.me/gamepulse_newss/2723",
+      "telegram_published_at": "2026-11-15T18:02:23.686974+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/15/madden-nfl-27-1794762344457.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-15T17:46:56.102207+00:00"
+  "updated_at": "2026-11-15T18:02:23.687091+00:00"
 }
