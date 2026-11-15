@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "64ca894a16c24f4aeb5ffa07",
-      "title": "\"This act is intended to demonstrate solidarity with Palestine\" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel",
-      "url": "https://eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-20T08:49:14+00:00",
-      "score": 9,
-      "event_key": "umurangi generation studio blocks penguin colony sale in israel",
-      "title_ru": "Создатели Umurangi Generation заблокировали продажи Penguin Colony в Израиле",
-      "threads_teaser_ru": "Студия Origame Digital запретила продажи своей новой игры Penguin Colony в Израиле. Издатель Fellow Traveller подтвердил блокировку, назвав ее актом солидарности с Палестиной.",
-      "telegram_message_id": "1501",
-      "telegram_url": "https://t.me/gamepulse_newss/1501",
-      "telegram_published_at": "2026-10-20T09:16:52.418102+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/penguin-colony-character-shot-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-20T09:16:53.874205+00:00"
-    },
-    {
       "fingerprint": "4c9efcd8171bec7b75a587e0",
       "title": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
       "url": "https://rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/the-snackbar-at-the-end-of-the-world.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-14T23:02:50.461049+00:00"
+    },
+    {
+      "fingerprint": "f04d52ca8057904c77bb5e3b",
+      "title": "Calvin and Hobbes’ 5 Greatest Spaceman Spiff Comic Strips",
+      "url": "https://polygon.com/calvin-hobbes-best-spaceman-spiff-comics",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T00:00:17+00:00",
+      "score": 5,
+      "event_key": "Polygon lists best Spaceman Spiff comics from Calvin and Hobbes",
+      "title_ru": "Polygon представил подборку лучших комиксов про Spaceman Spiff из Calvin and Hobbes",
+      "threads_teaser_ru": "Polygon составил список лучших выпусков Calvin and Hobbes, посвященных фантазиям главного героя о космических путешествиях. Рассказываем, как Билл Уоттерсон придумал альтер-эго Spaceman Spiff и почему эти комиксы стали одними из самых визуально выразительных.",
+      "telegram_message_id": "2702",
+      "telegram_url": "https://t.me/gamepulse_newss/2702",
+      "telegram_published_at": "2026-11-15T00:17:17.813980+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/calvin-hobbes-spaceman.avif?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-14T23:02:50.461144+00:00"
+  "updated_at": "2026-11-15T00:17:17.814054+00:00"
 }
