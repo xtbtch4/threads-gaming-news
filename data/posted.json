@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5ffc97daf7583bd4a549e2f2",
-      "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
-      "url": "https://rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-20T11:00:28+00:00",
-      "score": 14,
-      "event_key": "abiotic-factor-second-year-roadmap-dlc-mods",
-      "title_ru": "Abiotic Factor получила дорожную карту на второй год поддержки",
-      "threads_teaser_ru": "Разработчики Abiotic Factor анонсировали дорожную карту на второй год, которая включает официальную поддержку модов, зимнее обновление и платное дополнение Entropic Break.",
-      "telegram_message_id": "1508",
-      "telegram_url": "https://t.me/gamepulse_newss/1508",
-      "telegram_published_at": "2026-10-20T11:02:34.102346+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Abiotic-Factor-scientist.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-20T11:02:35.547811+00:00"
-    },
-    {
       "fingerprint": "95e0101442d90bfbdc0fffc8",
       "title": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon",
       "url": "https://eurogamer.net/destiny-2-unvaulting-bungie-date-details",
@@ -20528,7 +20511,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-twinrova-fire.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-15T03:32:41.908772+00:00"
+    },
+    {
+      "fingerprint": "ba0314381e400aa6630b96c3",
+      "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+      "url": "https://polygon.com/tomb-raider-remake-changes-legacy-of-atlantis",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T03:14:17+00:00",
+      "score": 6,
+      "event_key": "Tomb Raider Legacy of Atlantis gameplay reveal controversy",
+      "title_ru": "Игровые механики Tomb Raider: Legacy of Atlantis вызвали споры среди фанатов",
+      "threads_teaser_ru": "В сети обсуждают новые подробности Tomb Raider: Legacy of Atlantis. Разработчики добавили в ремейк дерево навыков, крафт и механику замедления времени, что вызвало недовольство фанатов оригинала. Авторы уверяют: игру все еще можно пройти только с парными пистолетами.",
+      "telegram_message_id": "2709",
+      "telegram_url": "https://t.me/gamepulse_newss/2709",
+      "telegram_published_at": "2026-11-15T03:47:03.436585+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tomb-raider-legacy-of-atlantis-lara-croft.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/tomb-raider-legacy-of-atlantis-combat-progression-reimagined-play-tomb-raider-1080p-1787063323.mp4"
     }
   ],
-  "updated_at": "2026-11-15T03:32:41.908856+00:00"
+  "updated_at": "2026-11-15T03:47:03.436706+00:00"
 }
