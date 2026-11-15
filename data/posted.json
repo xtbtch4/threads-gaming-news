@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "95e0101442d90bfbdc0fffc8",
-      "title": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon",
-      "url": "https://eurogamer.net/destiny-2-unvaulting-bungie-date-details",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-20T10:54:59+00:00",
-      "score": 13,
-      "event_key": "bungie details unvaulting plans for destiny 2 content",
-      "title_ru": "Bungie вскоре поделится деталями возвращения контента в Destiny 2",
-      "threads_teaser_ru": "Bungie скоро поделится первыми подробностями долгожданного возвращения удаленного контента в Destiny 2. Вместо обычной дорожной карты разработчики покажут «полосу прогресса» и расскажут о планах уже в конце октября.",
-      "telegram_message_id": "1509",
-      "telegram_url": "https://t.me/gamepulse_newss/1509",
-      "telegram_published_at": "2026-10-20T11:16:36.580974+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-20T11:16:37.964413+00:00"
-    },
-    {
       "fingerprint": "a4b3e7d0f095e1c7a5f5e6e7",
       "title": "Kratos Would Have Had a Different Name Were It Not for Relentless Domino's Pizza Jokes, God of War Creator Reveals",
       "url": "https://ign.com/articles/dominos-pizza-jokes-god-of-war-dev-name-kratos",
@@ -20529,7 +20512,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tomb-raider-legacy-of-atlantis-lara-croft.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/tomb-raider-legacy-of-atlantis-combat-progression-reimagined-play-tomb-raider-1080p-1787063323.mp4",
       "threads_published_at": "2026-11-15T03:47:04.631635+00:00"
+    },
+    {
+      "fingerprint": "0eb32552acc5644c49d00f78",
+      "title": "I Can't Wait to Ignore the Main Story of GTA 6",
+      "url": "https://polygon.com/gta-6-main-story-side-activities",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T08:00:17+00:00",
+      "score": 10,
+      "event_key": "grand theft auto 6 side activities and world exploration",
+      "title_ru": "Ожидание побочных активностей в Grand Theft Auto 6",
+      "threads_teaser_ru": "До релиза Grand Theft Auto 6 осталось меньше недели. Пока все ждут историю Джейсона и Люсии, многие игроки предвкушают десятки побочных активностей вроде мини-гольфа, дайвинга и рыбалки.",
+      "telegram_message_id": "2710",
+      "telegram_url": "https://t.me/gamepulse_newss/2710",
+      "telegram_published_at": "2026-11-15T08:02:30.698181+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-10-16-01-am.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4"
     }
   ],
-  "updated_at": "2026-11-15T03:47:04.631743+00:00"
+  "updated_at": "2026-11-15T08:02:30.698286+00:00"
 }
