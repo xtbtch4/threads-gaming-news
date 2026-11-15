@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e1ba84a5547dca2b962788f6",
-      "title": "Magenta Down: A Journey Across a Hostile Exoplanet",
-      "url": "https://news.xbox.com/en-us/2026/10/20/magenta-down-reveal-xbox-ign-id",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-20T17:02:16+00:00",
-      "score": 12,
-      "event_key": "magenta-down-announced-for-2027",
-      "title_ru": "Анонс приключения Magenta Down",
-      "threads_teaser_ru": "Анонсирована игра Magenta Down, в которой игрокам предстоит выживать на враждебной экзопланете после крушения корабля. Проект выйдет в 2027 году и предложит атмосферное путешествие с упором на принятие сложных решений.",
-      "telegram_message_id": "1525",
-      "telegram_url": "https://t.me/gamepulse_newss/1525",
-      "telegram_published_at": "2026-10-20T17:17:11.662998+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Magenta-Down-Hero-Art-9703d3e3e92793698d9c.jpg",
-      "threads_published_at": "2026-10-20T17:17:12.956661+00:00"
-    },
-    {
       "fingerprint": "14efa6e4ee48cb6e4dfbf352",
       "title": "GTA 5, Red Dead Redemption 2, and More Are Being Removed from the PS Plus Game Catalog",
       "url": "https://ign.com/articles/gta-5-red-dead-redemption-2-and-more-are-being-removed-from-the-ps-plus-game-catalog",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-15T18:46:45.855107+00:00"
+    },
+    {
+      "fingerprint": "47329ea539d45731f84bdefa",
+      "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
+      "url": "https://polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T19:00:17+00:00",
+      "score": 12,
+      "event_key": "monster hunter wilds nintendo switch 2 release date",
+      "title_ru": "Monster Hunter Wilds выйдет на Nintendo Switch 2",
+      "threads_teaser_ru": "Самая быстро продаваемая игра Capcom в истории, Monster Hunter Wilds, готовится к релизу на Nintendo Switch 2. Проект получит кроссплей и скидку на предзаказ.",
+      "telegram_message_id": "2726",
+      "telegram_url": "https://t.me/gamepulse_newss/2726",
+      "telegram_published_at": "2026-11-15T19:02:15.778110+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/capcom-characters.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-15T18:46:45.855204+00:00"
+  "updated_at": "2026-11-15T19:02:15.778206+00:00"
 }
