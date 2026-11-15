@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fcc6befdac8e11ec539e803b",
-      "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
-      "url": "https://eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-20T11:43:36+00:00",
-      "score": 9,
-      "event_key": "pegi_raises_age_rating_for_loot_boxes_to_16",
-      "title_ru": "PEGI повышает возрастной рейтинг игр с лутбоксами до 16 лет",
-      "threads_teaser_ru": "Европейское агентство PEGI начало повышать возрастные рейтинги цифровых игр с лутбоксами и платными случайными предметами до 16 лет. Изменения уже затронули серию EA Sports FC и Zenless Zone Zero.",
-      "telegram_message_id": "1511",
-      "telegram_url": "https://t.me/gamepulse_newss/1511",
-      "telegram_published_at": "2026-10-20T11:47:13.069212+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/as-ea-rejects-loot-boxes-and-pay-to-win-im-left-wondering-what-about-fifa-1529662660384.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-20T11:47:14.798585+00:00"
-    },
-    {
       "fingerprint": "49c2744a4928d963cbb73ed8",
       "title": "There's Real Force Behind These Star Wars Battlefront 3 Rumors",
       "url": "https://ign.com/articles/theres-real-force-behind-these-star-wars-battlefront-3-rumors",
@@ -20531,7 +20514,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16180812/fff0d9dfb4ca0146ca40c7c544774aab6d742bd96e2c9159d72602d7cc9a29e0816324128c1aed588d806f603b3019b3.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2024/07/20170220_game-of-thrones-season-1-trailer-1721242000.mp4",
       "threads_published_at": "2026-11-15T11:02:37.511564+00:00"
+    },
+    {
+      "fingerprint": "3b41cae91b56a419e5a3b039",
+      "title": "Stardew Valley Meets Night in the Woods in One of 2026's Scariest New Games",
+      "url": "https://polygon.com/village-in-the-shade-new-farm-sim-horror-game",
+      "source": "Polygon",
+      "published_at_source": "2026-11-15T12:00:17+00:00",
+      "score": 6,
+      "event_key": "polygon-preview-village-in-the-shade-horror-farm-sim",
+      "title_ru": "Обзор Village in the Shade",
+      "threads_teaser_ru": "Village in the Shade от Nippon Ichi Software объединяет уютный симулятор фермы с мрачным хоррором о жутких традициях закрытой общины. Игроков ждет суровое выживание и глубокая экономика.",
+      "telegram_message_id": "2712",
+      "telegram_url": "https://t.me/gamepulse_newss/2712",
+      "telegram_published_at": "2026-11-15T12:31:59.014867+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/village-in-the-shade-preview-4.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-15T11:02:37.511680+00:00"
+  "updated_at": "2026-11-15T12:31:59.014968+00:00"
 }
