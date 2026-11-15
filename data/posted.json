@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "09fdf0e4df17cdba0fd97fa6",
-      "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
-      "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-20T13:30:11+00:00",
-      "score": 7,
-      "event_key": "Final Fantasy Resonance Visions gameplay details and features",
-      "title_ru": "Подробности механики Visions в Final Fantasy Resonance",
-      "threads_teaser_ru": "Разработчики Final Fantasy Resonance раскрыли детали системы Visions: игроки смогут призывать легендарных героев серии, таких как Sephiroth и Noctis. Эти помощники не только меняют исход боя, но и глубоко влияют на развитие характеристик и навыков основных персонажей.",
-      "telegram_message_id": "1515",
-      "telegram_url": "https://t.me/gamepulse_newss/1515",
-      "telegram_published_at": "2026-10-20T13:47:25.246453+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/10/b2c7ca25d91b7dd6592fe89b4e9f59d9b914eb00.jpg",
-      "video_url": "https://stream.mux.com/zfE8wwXyTBV4a9TrnLOlBwMgZSBrqDRDBtuSVRr01qXY/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ6ZkU4d3dYeVRCVjRhOVRybkxPbEJ3TWdaU0JycURSREJ0dVNWUnIwMXFYWSIsImF1ZCI6InYiLCJleHAiOjE3OTI1NDcxMjksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.k9u8MpeG15yWZWb95K4P2DOjSarGapxMrp5onV72iNYqzSmvd8zHKOBrrSS2hwPqGJDI991IEpaQGVnzT-nqzvdypgEljMJAtUmDOVpO6UGteKSz4Z4k1WfgeIiVptcc1gt-LRzAKYARx8oGU0Fx53fdUQrhLGA-4i0MiiQ2litOa68lvOJd1agQbmOYk1m2_mMnowVczzIDqocuLa32uWd3dS-lWaqmrSoghBGE71_gA-aJv_1Tax35_gkiLBuw_Z6A2kZvNrXjMgmJYfa3dwdRj92sbJlcSBhv5ouo0mngtHnzff_1DipczePPXfPKaSliycDTWgAzgAW7a7RV7Q",
-      "threads_published_at": "2026-10-20T13:47:26.649748+00:00"
-    },
-    {
       "fingerprint": "30d1238b1cdb85036df7025f",
       "title": "Justice Is Keeping The GTA 6 Hype At Arm’s Length While Making Its Soundtrack",
       "url": "https://gamespot.com/articles/justice-is-keeping-the-gta-6-hype-at-arms-length-while-making-its-soundtrack",
@@ -20532,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-15T14:32:02.518461+00:00"
+    },
+    {
+      "fingerprint": "c8a567bb7092f57e1f300539",
+      "title": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+      "url": "https://eurogamer.net/blade-runner-2099-triple-a-talks",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-15T14:43:00+00:00",
+      "score": 9,
+      "event_key": "blade-runner-2099-producers-hint-triple-a-game",
+      "title_ru": "Авторы Blade Runner 2099 намекнули на возможную крупнобюджетную игру по франшизе",
+      "threads_teaser_ru": "Исполнительные продюсеры Blade Runner 2099 намекнули на возможное создание масштабной видеоигры по знаменитой научно-фантастической вселенной.",
+      "telegram_message_id": "2716",
+      "telegram_url": "https://t.me/gamepulse_newss/2716",
+      "telegram_published_at": "2026-11-15T15:02:39.195243+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/blade-runner-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-15T14:32:02.518548+00:00"
+  "updated_at": "2026-11-15T15:02:39.195333+00:00"
 }
