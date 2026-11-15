@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "761059f8488e0e487e5a70b4",
-      "title": "Netflix’s Push Into Gaming Continues To Fall Short",
-      "url": "https://gamespot.com/articles/netflixs-push-into-gaming-continues-to-fall-short",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-20T15:25:48+00:00",
-      "score": 15,
-      "event_key": "netflix gaming engagement falls short of targets",
-      "title_ru": "Новые данные о результатах игрового направления Netflix",
-      "threads_teaser_ru": "Новые данные показали, сколько подписчиков Netflix пользуются игровым сервисом компании. Опубликована статистика вовлеченности на 2026 год, а также детали изменения стратегии компании в игровой сфере.",
-      "telegram_message_id": "1519",
-      "telegram_url": "https://t.me/gamepulse_newss/1519",
-      "telegram_published_at": "2026-10-20T15:32:50.260775+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuringnetflix.png?w=300",
-      "threads_published_at": "2026-10-20T15:32:51.586386+00:00"
-    },
-    {
       "fingerprint": "cfa1328b59eaed95841ab4bb",
       "title": "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename",
       "url": "https://ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/12/xbox-25-blogroll-1794443667177.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-15T16:16:47.329904+00:00"
+    },
+    {
+      "fingerprint": "6982369cb2d459fd6a94fe5e",
+      "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+      "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-15T17:01:00+00:00",
+      "score": 12,
+      "event_key": "xbox 25th anniversary magazine released",
+      "title_ru": "Анонсирован выпуск специального печатного издания XBOX – The 25th Anniversary Magazine",
+      "threads_teaser_ru": "К 25-летию бренда выпущен специальный журнал XBOX – The 25th Anniversary Magazine, рассказывающий об истории игр, железа и планах на будущее. Цифровая версия уже доступна всем желающим, а на страницах издания можно найти даже новые детали о Fable.",
+      "telegram_message_id": "2720",
+      "telegram_url": "https://t.me/gamepulse_newss/2720",
+      "telegram_published_at": "2026-11-15T17:02:15.425847+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Magazine_mockup_perspective-37cf15975daed19bb5dd.png"
     }
   ],
-  "updated_at": "2026-11-15T16:16:47.330003+00:00"
+  "updated_at": "2026-11-15T17:02:15.425933+00:00"
 }
