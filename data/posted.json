@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a1bd15d69949d72f21225ce3",
-      "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
-      "url": "https://eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-21T09:21:49+00:00",
-      "score": 10,
-      "event_key": "physical disc sales statistics for playstation games report",
-      "title_ru": "Аналитика продаж физических копий игр на PlayStation",
-      "threads_teaser_ru": "Новый отчет аналитиков показал, что Resident Evil: Requiem на физических дисках для PlayStation заработала больше, чем все версии игры на Xbox. Несмотря на стратегию Sony по переходу в «цифру», продажи дисков остаются важным источником дохода для одиночных проектов.",
-      "telegram_message_id": "1544",
-      "telegram_url": "https://t.me/gamepulse_newss/1544",
-      "telegram_published_at": "2026-10-21T09:32:35.777992+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/resident-evil-requiem-nostalgia-26.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-21T09:32:37.252697+00:00"
-    },
-    {
       "fingerprint": "55839ef1f3bdfdef15ced44e",
       "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
       "url": "https://ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
@@ -20534,7 +20517,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/16/vice-city-21-1794822946581.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T11:02:29.963638+00:00"
+    },
+    {
+      "fingerprint": "81637d39287730c0ccc413d8",
+      "title": "AI Chat App Character.ai is Attempting to Stave Off Bankruptcy, And Has a $20 Million Offer From Disney",
+      "url": "https://ign.com/articles/ai-chat-app-characterai-is-attempting-to-stave-off-bankruptcy-and-has-a-20-million-offer-from-disney",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T10:58:01+00:00",
+      "score": 7,
+      "event_key": "character-ai-bankruptcy-disney-offer",
+      "title_ru": "Character.ai пытается избежать банкротства на фоне предложений от Disney",
+      "threads_teaser_ru": "Приложение Character.ai столкнулось с банкротством, но получило предложения о покупке технологий и активов. Свою заинтересованность проявили Disney и новая компания Smirks and Pangs Acquisition LLC.",
+      "telegram_message_id": "2745",
+      "telegram_url": "https://t.me/gamepulse_newss/2745",
+      "telegram_published_at": "2026-11-16T11:16:58.685210+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/16/character-ai-logo-1794825092581.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T11:02:29.963728+00:00"
+  "updated_at": "2026-11-16T11:16:58.685306+00:00"
 }
