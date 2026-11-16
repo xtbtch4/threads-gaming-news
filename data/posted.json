@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eb33d619ea902f33bb9544b9",
-      "title": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
-      "url": "https://rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-21T08:07:06+00:00",
-      "score": 10,
-      "event_key": "Subnautica 2 receives major content update including new region",
-      "title_ru": "Subnautica 2 получит крупное обновление с новым регионом и механизмом Tadpole",
-      "threads_teaser_ru": "Авторы Subnautica 2 анонсировали крупное обновление с «самым пугающим регионом» в истории серии, новым механизмом Tadpole (Frog) и полезными изменениями в управлении. Дата выхода контента пока не уточняется.",
-      "telegram_message_id": "1542",
-      "telegram_url": "https://t.me/gamepulse_newss/1542",
-      "telegram_published_at": "2026-10-21T08:17:38.361031+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-21-082915.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-21T08:17:39.900215+00:00"
-    },
-    {
       "fingerprint": "d1e38bf4690d6c0ad0cabe7f",
       "title": "17 Years Later, Johnny Depp’s Overlooked Action Crime Thriller Is Officially Free on YouTube",
       "url": "https://polygon.com/public-enemies-free-on-youtube",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-multiplayer-mod-cybermp-open-beta-01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-16T10:32:29.061187+00:00"
+    },
+    {
+      "fingerprint": "8afb7bf89603d240131f50dd",
+      "title": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1",
+      "url": "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-16T10:43:38+00:00",
+      "score": 12,
+      "event_key": "minecraft-dungeons-ii-the-humblers-awaken-release-date",
+      "title_ru": "Анонсировано дополнении для Minecraft Dungeons II",
+      "threads_teaser_ru": "Стала известна дата выхода дополнения Minecraft Dungeons II: The Humblers Awaken. Релиз состоится уже 1 декабря 2026 года.",
+      "telegram_message_id": "2743",
+      "telegram_url": "https://t.me/gamepulse_newss/2743",
+      "telegram_published_at": "2026-11-16T10:46:40.754930+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/MDII_Keyart_DLC1_Artwork_Logo-5a5bea2a51eedecd1b3a.jpg"
     }
   ],
-  "updated_at": "2026-11-16T10:32:29.061281+00:00"
+  "updated_at": "2026-11-16T10:46:40.755018+00:00"
 }
