@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ef283143c6c6476cfdd0ea4e",
-      "title": "Exclusive — See 7 New Cards From Magic: The Gathering Star Trek, Including 1 That Remembers the Most Iconic Drink of TNG",
-      "url": "https://ign.com/articles/exclusive-see-7-new-cards-from-magic-the-gathering-star-trek-including-1-that-remembers-the-most-iconic-drink-of-tng",
-      "source": "IGN",
-      "published_at_source": "2026-10-21T16:00:00+00:00",
-      "score": 15,
-      "event_key": "ign-reveals-seven-new-magic-the-gathering-star-trek-cards",
-      "title_ru": "IGN показал семь новых карт из набора Magic: The Gathering Star Trek",
-      "threads_teaser_ru": "IGN представил семь новых карт из набора Magic: The Gathering Star Trek, выход которого намечен на 13 ноября 2026 года. Среди них — артефакт 'Tea, Earl Grey, Hot' и другие интересные новинки.",
-      "telegram_message_id": "1560",
-      "telegram_url": "https://t.me/gamepulse_newss/1560",
-      "telegram_published_at": "2026-10-21T16:02:49.783106+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/08/24/ste-1692892641332.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-21T16:02:51.237884+00:00"
-    },
-    {
       "fingerprint": "6b627a39fff195919b21229e",
       "title": "BioWare Officially Shutting Down and New Mass Effect Canceled",
       "url": "https://polygon.com/ea-bioware-closure-mass-efffect-5-canceled",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-burning-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-16T19:47:09.184152+00:00"
+    },
+    {
+      "fingerprint": "50b076c7c55eb7eccf718103",
+      "title": "Rockstar Could Have Released GTA 6 Sooner As GTA 5.5, But “You Have To Take Big Swings”",
+      "url": "https://gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-16T16:29:14+00:00",
+      "score": 14,
+      "event_key": "Rockstar Games explains long GTA 6 development time",
+      "title_ru": "Rockstar объяснила долгий процесс разработки GTA 6",
+      "threads_teaser_ru": "Разработчики из Rockstar Games могли выпустить игру быстрее, если бы сделали проект формата «GTA 5.5», но решили взять планку выше. В итоге Grand Theft Auto 6 выходит 19 ноября на PS5 и Xbox Series X|S — вот что об этом говорят представители студии и издателя.",
+      "telegram_message_id": "2761",
+      "telegram_url": "https://t.me/gamepulse_newss/2761",
+      "telegram_published_at": "2026-11-16T20:33:16.269492+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_13_3d2957.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-16T19:47:09.184241+00:00"
+  "updated_at": "2026-11-16T20:33:16.269591+00:00"
 }
