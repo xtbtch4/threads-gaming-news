@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d16b6fd20081178913fb94df",
-      "title": "Fallout Day Continues: The World of Fallout Museum Exhibit Expands, Choose the Flavor of Nuka Twist, and More",
-      "url": "https://ign.com/articles/fallout-day-continues-the-world-of-fallout-museum-exhibit-expands-choose-the-flavor-of-nuka-twist-and-more",
-      "source": "IGN",
-      "published_at_source": "2026-10-21T15:00:00+00:00",
-      "score": 15,
-      "event_key": "bethesda announces real world fallouts day partnerships and exhibits",
-      "title_ru": "Bethesda анонсировала новые реальные партпроекты в рамках Fallout Day",
-      "threads_teaser_ru": "Bethesda раскрыла новые подробности к Fallout Day: расширение выставки в Лас-Вегасе, возвращение кафе в Токио и голосование за новый вкус напитка вместе с Jones Soda.",
-      "telegram_message_id": "1559",
-      "telegram_url": "https://t.me/gamepulse_newss/1559",
-      "telegram_published_at": "2026-10-21T15:02:50.062356+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/atomic-museum-4-1792593604368.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-21T15:02:51.995880+00:00"
-    },
-    {
       "fingerprint": "ef283143c6c6476cfdd0ea4e",
       "title": "Exclusive — See 7 New Cards From Magic: The Gathering Star Trek, Including 1 That Remembers the Most Iconic Drink of TNG",
       "url": "https://ign.com/articles/exclusive-see-7-new-cards-from-magic-the-gathering-star-trek-including-1-that-remembers-the-most-iconic-drink-of-tng",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/13/familyguy-peterclause-thumb-1794603904005.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T18:02:40.462812+00:00"
+    },
+    {
+      "fingerprint": "5f9e57f78af21387098f378b",
+      "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+      "url": "https://eurogamer.net/gta-6-leaker-pleads-guilty",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-16T18:51:40+00:00",
+      "score": 15,
+      "event_key": "gta 6 2022 leaker pleads guilty to hacking rockstar",
+      "title_ru": "Хакер, сливший кадры GTA 6 в 2022 году, признал свою вину",
+      "threads_teaser_ru": "Хакер, взломавший в 2022 году Rockstar Games и сливший кадры GTA 6, официально признал свою вину в суде. Ущерб от его кибератак оценили в миллионы фунтов, а для самого взлома использовались необычные подручные средства.",
+      "telegram_message_id": "2760",
+      "telegram_url": "https://t.me/gamepulse_newss/2760",
+      "telegram_published_at": "2026-11-16T19:47:07.889546+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-burning-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-16T18:02:40.462934+00:00"
+  "updated_at": "2026-11-16T19:47:07.889618+00:00"
 }
