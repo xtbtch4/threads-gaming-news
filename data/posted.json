@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d87a9433f4d7df33c3093a7e",
-      "title": "Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options",
-      "url": "https://ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T19:40:15+00:00",
-      "score": 13,
-      "event_key": "xbox game pass major overhaul ala carte options",
-      "title_ru": "Xbox Game Pass ждет масштабное обновление с выбором функций",
-      "threads_teaser_ru": "По данным издания Fortune, корпорация Microsoft готовит масштабную переработку сервиса Xbox Game Pass с внедрением системы à la carte и многоуровневой структуры подписки.",
-      "telegram_message_id": "1535",
-      "telegram_url": "https://t.me/gamepulse_newss/1535",
-      "telegram_published_at": "2026-10-20T20:16:57.098648+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/image-2-1792525205185.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T20:16:58.648416+00:00"
-    },
-    {
       "fingerprint": "efb9684ea4f7decac661a83d",
       "title": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
       "url": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains",
@@ -20533,7 +20516,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/trails-in-the-sky-first-chapter-demo.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-16T01:17:00.126388+00:00"
+    },
+    {
+      "fingerprint": "bede9cc61730f1d97d2c5640",
+      "title": "Halo Defined a Generation of LAN Parties — Then It Killed Them",
+      "url": "https://polygon.com/halo-combat-evolve-lan-party-memories",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T02:00:17+00:00",
+      "score": 8,
+      "event_key": "haloLANpartieshistoryxbox25thanniversary",
+      "title_ru": "Как Halo: Combat Evolved и Xbox сформировали культуру LAN-вечеринок",
+      "threads_teaser_ru": "Накануне 25-летия Xbox и Halo: Combat Evolved вспоминаем легендарные LAN-вечеринки с кабелями Ethernet по всему дому и до 16 игроков на четырех телевизорах. Но почему выход Halo 2 изменил всё?",
+      "telegram_message_id": "2736",
+      "telegram_url": "https://t.me/gamepulse_newss/2736",
+      "telegram_published_at": "2026-11-16T02:02:35.620203+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/halo-2-map-pack-image.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/10/i-read-every-halo-novel-and-became-the-master-chief-of-loneliness-unraveled-1791369525.mp4"
     }
   ],
-  "updated_at": "2026-11-16T01:17:00.126478+00:00"
+  "updated_at": "2026-11-16T02:02:35.620320+00:00"
 }
