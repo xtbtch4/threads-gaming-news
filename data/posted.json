@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "477ea6f6f9869b4262b64e64",
-      "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
-      "url": "https://rockpapershotgun.com/i-want-room-to-make-a-wrong-turn-following-samson-devs-bankruptcy-its-founder-is-considering-how-ai-might-factor-into-new-studio-plans",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-21T12:30:00+00:00",
-      "score": 14,
-      "event_key": "liquid swords studio bankruptcy and founder new studio plans",
-      "title_ru": "Основатель Liquid Swords планирует новую студию после банкротства",
-      "threads_teaser_ru": "После банкротства студии Liquid Swords ее основатель Христофер Сундберг уже планирует открытие новой компании. Он рассказал, каким видит будущий процесс разработки и как планирует использовать генеративный искусственный интеллект.",
-      "telegram_message_id": "1553",
-      "telegram_url": "https://t.me/gamepulse_newss/1553",
-      "telegram_published_at": "2026-10-21T12:32:32.756537+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-21T12:32:34.220222+00:00"
-    },
-    {
       "fingerprint": "ab3810405704d11ff4acff40",
       "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
       "url": "https://ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/01/23/fable-thefirstpreview-blogroll-1769205292794.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T13:46:40.399916+00:00"
+    },
+    {
+      "fingerprint": "bfa85d6b5387dfba84b47d6c",
+      "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX",
+      "url": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-16T14:00:00+00:00",
+      "score": 12,
+      "event_key": "dj_khaled_dr_xbox_prescription_gaming_week",
+      "title_ru": "DJ Khaled выступил в роли Dr. XBOX и предложил взять отгул ради игр",
+      "threads_teaser_ru": "DJ Khaled в образе Dr. XBOX объявил о наступлении крупной игровой недели и порекомендовал фанатам взять отгул, чтобы играть на XBOX без отвлечения на дела.",
+      "telegram_message_id": "2754",
+      "telegram_url": "https://t.me/gamepulse_newss/2754",
+      "telegram_published_at": "2026-11-16T14:02:27.218475+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/DrXboxHero-6ca3789132d7f8b18cf0.jpg"
     }
   ],
-  "updated_at": "2026-11-16T13:46:40.400002+00:00"
+  "updated_at": "2026-11-16T14:02:27.218561+00:00"
 }
