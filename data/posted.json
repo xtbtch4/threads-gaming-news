@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "55839ef1f3bdfdef15ced44e",
-      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
-      "url": "https://ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
-      "source": "IGN",
-      "published_at_source": "2026-10-21T09:36:28+00:00",
-      "score": 15,
-      "event_key": "sony_releases_ps5_firmware_update_amid_jailbreak_efforts",
-      "title_ru": "Sony выпустила новое системное обновление для PS5 на фоне гонки джейлбрейков",
-      "threads_teaser_ru": "Sony выпустила обновление ПО для PS5 на фоне активности сообщества хомбреу и попыток взлома консоли перед релизом GTA 6.",
-      "telegram_message_id": "1545",
-      "telegram_url": "https://t.me/gamepulse_newss/1545",
-      "telegram_published_at": "2026-10-21T10:16:35.654359+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-21T10:16:36.983652+00:00"
-    },
-    {
       "fingerprint": "522cc3d3003b0329e83ed7fb",
       "title": "Further Xbox layoff rounds reportedly planned for this month, November, and January, while a Game Pass overhaul is in the works",
       "url": "https://rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
@@ -20534,7 +20517,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/16/character-ai-logo-1794825092581.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T11:17:00.085589+00:00"
+    },
+    {
+      "fingerprint": "d0ee8a8c76c2cb2252aa0652",
+      "title": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
+      "url": "https://eurogamer.net/umamusume-dev-seven-new-games-2030",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-16T11:20:50+00:00",
+      "score": 9,
+      "event_key": "Cyberagent seven new mobile games by 2030",
+      "title_ru": "Cyberagent планирует выпустить семь новых мобильных игр до 2030 года",
+      "threads_teaser_ru": "Материнская компания разработчика Cygames намерена выпустить семь крупных мобильных игр до 2030 года. Ранее компания заявила об очень высокой окупаемости своих прошлых проектов в мобильном сегменте.",
+      "telegram_message_id": "2746",
+      "telegram_url": "https://t.me/gamepulse_newss/2746",
+      "telegram_published_at": "2026-11-16T11:32:17.076448+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/umamusume-pretty-derby-running.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-16T11:17:00.085695+00:00"
+  "updated_at": "2026-11-16T11:32:17.076553+00:00"
 }
