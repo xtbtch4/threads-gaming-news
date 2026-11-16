@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "56edac088061053635328116",
-      "title": "Even Call of Duty has a parry now and it's kind of brilliant - but do we need it in every game?",
-      "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-parry-melee-best-moments",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-21T11:22:21+00:00",
-      "score": 9,
-      "event_key": "Modern Warfare 4 adds parry mechanic to campaign",
-      "title_ru": "В кампании Modern Warfare 4 появилась механика парирования",
-      "threads_teaser_ru": "В кампании Modern Warfare 4 появилась неожиданная механика: теперь для прохождения ряда рукопашных схваток необходимо освоить систему парирования. Разбираемся, как Infinity Ward изменили привычный геймплей шутера.",
-      "telegram_message_id": "1549",
-      "telegram_url": "https://t.me/gamepulse_newss/1549",
-      "telegram_published_at": "2026-10-21T11:32:24.796026+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-price-parry-prompt-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-21T11:32:26.111154+00:00"
-    },
-    {
       "fingerprint": "794f8214454a1b33bb9da3cc",
       "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
       "url": "https://rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
@@ -20534,7 +20517,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-16T12:47:16.273246+00:00"
+    },
+    {
+      "fingerprint": "359e56a1406881ba8045d707",
+      "title": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
+      "url": "https://ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T12:26:44+00:00",
+      "score": 15,
+      "event_key": "gta-6-second-day-one-patch-released",
+      "title_ru": "GTA 6 получила второе обновление перед релизом",
+      "threads_teaser_ru": "До релиза GTA 6 остается совсем немного, и разработчики выпустили уже второе обновление перед запуском. Патч на PS5 весит 602 МБ, а на Xbox — на 1 ГБ больше. Официального списка изменений пока нет.",
+      "telegram_message_id": "2750",
+      "telegram_url": "https://t.me/gamepulse_newss/2750",
+      "telegram_published_at": "2026-11-16T13:02:42.567620+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/12/vintage-vice-city-pack-exclusive-looks-01-1794487245980.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T12:47:16.273330+00:00"
+  "updated_at": "2026-11-16T13:02:42.567714+00:00"
 }
