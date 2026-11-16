@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9495548f4d64d45bfbc95775",
-      "title": "The Clash Royale Board Game Reaches Its Crowdfunding Goal in Less Than an Hour",
-      "url": "https://ign.com/articles/the-clash-royale-board-game-reaches-its-crowdfunding-goal-in-less-than-an-hour",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T11:00:00+00:00",
-      "score": 12,
-      "event_key": "clash royale board game kickstarter crowdfunding goal reached",
-      "title_ru": "Настольная игра Clash Royale собрала нужную сумму на Kickstarter менее чем за час",
-      "threads_teaser_ru": "Настольная адаптация Clash Royale под названием Clash Royale: The Grand Arena собрала необходимую сумму на Kickstarter менее чем за час после запуска. Кампания продлится до ноября.",
-      "telegram_message_id": "1531",
-      "telegram_url": "https://t.me/gamepulse_newss/1531",
-      "telegram_published_at": "2026-10-20T19:17:10.687529+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/11/10/clash-royale-1762796186181.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T19:17:12.238909+00:00"
-    },
-    {
       "fingerprint": "630e6f57896b41a55a5ad697",
       "title": "Arctic Eggs, Mouthwashing, and No, I'm Not a Human Are Coming to Xbox | IDXBOX",
       "url": "https://ign.com/articles/arctic-eggs-mouthwashing-and-no-im-not-a-human-are-coming-to-xbox-idxbox",
@@ -20533,7 +20516,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-15T23:02:18.909337+00:00"
+    },
+    {
+      "fingerprint": "65694fb8a482e59388ac643e",
+      "title": "5 Brilliant Books To Read Before Kicking the Bucket",
+      "url": "https://polygon.com/brilliant-books-read-before-you-die",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T00:00:17+00:00",
+      "score": 8,
+      "event_key": "polygon_five_brilliant_books_recommendations_2026",
+      "title_ru": "Пять книг для обязательного чтения по версии Polygon",
+      "threads_teaser_ru": "Издание Polygon представило подборку из пяти выдающихся книг, включая классику русской литературы, исторические романы и психологические триллеры.",
+      "telegram_message_id": "2732",
+      "telegram_url": "https://t.me/gamepulse_newss/2732",
+      "telegram_published_at": "2026-11-16T00:02:36.467688+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/perfume-movie.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-15T23:02:18.909425+00:00"
+  "updated_at": "2026-11-16T00:02:36.467780+00:00"
 }
