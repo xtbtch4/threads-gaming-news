@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "efb9684ea4f7decac661a83d",
-      "title": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
-      "url": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-20T20:00:00+00:00",
-      "score": 12,
-      "event_key": "Gauntlet mode added to Fountains on Xbox",
-      "title_ru": "Режим Gauntlet появился в Fountains на Xbox",
-      "threads_teaser_ru": "В Fountains на Xbox добавили режим Gauntlet: проверяем свои силы в серии сражений с боссами подряд. Рассказываем, как устроены перерывы между битвами, что стало с расходуемыми предметами и какие еще игры издателя Crunching Koalas получили скидки.",
-      "telegram_message_id": "1536",
-      "telegram_url": "https://t.me/gamepulse_newss/1536",
-      "telegram_published_at": "2026-10-20T20:32:34.981762+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FOUNTAINS_Xbox_trailer_thumbnail_3840x2160px-3454a26deff161397e83-scaled.jpg",
-      "threads_published_at": "2026-10-20T20:32:36.551185+00:00"
-    },
-    {
       "fingerprint": "db9d34d38c4c906ffd712968",
       "title": "Fight Night, EA's Beloved but Long-Dormant Boxing Sim Franchise, Is Coming Back",
       "url": "https://ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
@@ -20534,7 +20517,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/halo-2-map-pack-image.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/i-read-every-halo-novel-and-became-the-master-chief-of-loneliness-unraveled-1791369525.mp4",
       "threads_published_at": "2026-11-16T02:02:37.081338+00:00"
+    },
+    {
+      "fingerprint": "55cbfc8439e31d28de77ef97",
+      "title": "David Tennant Officially Returns to Doctor Who in 2027",
+      "url": "https://polygon.com/doctor-who-david-tennant-returns-audio-drama-2027",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T02:01:18+00:00",
+      "score": 6,
+      "event_key": "david tennant returns to doctor who audio drama 2027",
+      "title_ru": "David Tennant вернется к роли в аудиодраме Doctor Who — The Tenth Doctor and Rani в 2027 году",
+      "threads_teaser_ru": "David Tennant снова озвучит Десятого Доктора в новом 12-серийном проекте Doctor Who — The Tenth Doctor and Rani от Big Finish, релиз которого намечен на август 2027 года. К нему присоединится актриса Anjli Mohindra в роли Рани Чандры.",
+      "telegram_message_id": "2737",
+      "telegram_url": "https://t.me/gamepulse_newss/2737",
+      "telegram_published_at": "2026-11-16T02:16:35.018974+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24138791/Screen_Shot_2022_10_25_at_10.11.48_AM.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/06/sq-samara-weaving-3cut-1781200768.mp4"
     }
   ],
-  "updated_at": "2026-11-16T02:02:37.081447+00:00"
+  "updated_at": "2026-11-16T02:16:35.019072+00:00"
 }
