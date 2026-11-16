@@ -20532,10 +20532,11 @@
       "telegram_message_id": "2739",
       "telegram_url": "https://t.me/gamepulse_newss/2739",
       "telegram_published_at": "2026-11-16T04:32:02.761373+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24610033/BM_FirstLook_7.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4",
+      "threads_published_at": "2026-11-16T04:32:04.054390+00:00"
     }
   ],
-  "updated_at": "2026-11-16T04:32:02.761471+00:00"
+  "updated_at": "2026-11-16T04:32:04.054499+00:00"
 }
