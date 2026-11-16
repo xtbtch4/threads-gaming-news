@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fbe39b5e3c9914e36cd81eab",
-      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
-      "url": "https://ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T21:07:11+00:00",
-      "score": 13,
-      "event_key": "gta-6-beer-brands-real-life-production",
-      "title_ru": "Пивные бренды из GTA 6 могут появиться в реальной жизни",
-      "threads_teaser_ru": "Американское ведомство одобрило этикетки для реального выпуска пивных брендов из GTA 6, включая Patriot Beer и Pißwasser. Напитки производит пивоварня во Флориде, но точная дата поступления в продажу пока неизвестна.",
-      "telegram_message_id": "1538",
-      "telegram_url": "https://t.me/gamepulse_newss/1538",
-      "telegram_published_at": "2026-10-20T22:02:29.143263+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/07/gta-6-1791374410439.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T22:02:30.683875+00:00"
-    },
-    {
       "fingerprint": "91727d5d46c8d7c27a47513b",
       "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
       "url": "https://ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
@@ -20535,7 +20518,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-16T03:17:06.739505+00:00"
+    },
+    {
+      "fingerprint": "298d0bb8038dabd7f215787a",
+      "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
+      "url": "https://polygon.com/black-mirror-season-8-update-netflix",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T04:20:17+00:00",
+      "score": 8,
+      "event_key": "black mirror season eight in production netflix",
+      "title_ru": "Восьмой сезон Black Mirror находится в производстве",
+      "threads_teaser_ru": "Сериал Black Mirror официально вернется на Netflix с восьмым сезоном. Создатель шоу Чарли Брукер снова занят написанием сценария и продюсированием проекта.",
+      "telegram_message_id": "2739",
+      "telegram_url": "https://t.me/gamepulse_newss/2739",
+      "telegram_published_at": "2026-11-16T04:32:02.761373+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24610033/BM_FirstLook_7.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4"
     }
   ],
-  "updated_at": "2026-11-16T03:17:06.739592+00:00"
+  "updated_at": "2026-11-16T04:32:02.761471+00:00"
 }
