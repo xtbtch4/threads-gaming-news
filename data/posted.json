@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "91727d5d46c8d7c27a47513b",
-      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
-      "url": "https://ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
-      "source": "IGN",
-      "published_at_source": "2026-10-20T22:48:37+00:00",
-      "score": 15,
-      "event_key": "fans suspect rockstar filming live action trailer in miami",
-      "title_ru": "Фанаты считают, что Rockstar Games снимает игровой трейлер GTA 6 в Майами",
-      "threads_teaser_ru": "В Майами заметили съемочные группы и автомобили с отсылками к внутриигровым брендам. Фанаты предполагают, что Rockstar Games готовит дорогой лайв-экшен трейлер к релизу GTA 6.",
-      "telegram_message_id": "1539",
-      "telegram_url": "https://t.me/gamepulse_newss/1539",
-      "telegram_published_at": "2026-10-20T23:02:35.491040+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-20T23:02:37.097898+00:00"
-    },
-    {
       "fingerprint": "ebafde0e231390580d6d0a79",
       "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
       "url": "https://polygon.com/shrek-2-remastered-release-date-trailer-online-co-op",
@@ -20536,7 +20519,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24610033/BM_FirstLook_7.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4",
       "threads_published_at": "2026-11-16T04:32:04.054390+00:00"
+    },
+    {
+      "fingerprint": "7840f06990c6709073acbc16",
+      "title": "PlayStation's Black Friday Sale Expands to Include Physical PS5 Games and DualSense Controllers",
+      "url": "https://ign.com/articles/playstation-black-friday-video-game-deals-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T08:12:00+00:00",
+      "score": 7,
+      "event_key": "playstation_black_friday_sale_physical_games_dualsense",
+      "title_ru": "Распродажа PlayStation Black Friday расширилась на физические игры и контроллеры",
+      "threads_teaser_ru": "Sony обновила распродажу PlayStation Black Friday 2026, добавив скидки на физические диски для PS5, аксессуары и геймпады DualSense. Консоли пока остаются без официальных скидок, но снижены цены на множество хитов.",
+      "telegram_message_id": "2740",
+      "telegram_url": "https://t.me/gamepulse_newss/2740",
+      "telegram_published_at": "2026-11-16T09:02:40.280542+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/ps5-games-on-sale-black-friday-ign-2026-1-1793280796940.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T04:32:04.054499+00:00"
+  "updated_at": "2026-11-16T09:02:40.280631+00:00"
 }
