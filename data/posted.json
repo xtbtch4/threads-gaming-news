@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b1c062463a3e3ee678077ea9",
-      "title": "Rayman Legends Retold’s New Baguette Costumes Are A Tip Of The Beret To Expedition 33",
-      "url": "https://gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-21T18:02:00+00:00",
-      "score": 11,
-      "event_key": "Ubisoft adds Clair Obscur: Expedition 33 baguette costumes to Rayman Legends Retold",
-      "title_ru": "В Rayman Legends Retold появятся тематические костюмы-отсылки",
-      "threads_teaser_ru": "В грядущем ремейке Rayman Legends Retold появятся новые костюмы с багетами. Разработчики из Ubisoft подтвердили, что этот образ — своеобразная дань уважения коллегам из студии Sandfall Interactive, создавших Clair Obscur: Expedition 33.",
-      "telegram_message_id": "1570",
-      "telegram_url": "https://t.me/gamepulse_newss/1570",
-      "telegram_published_at": "2026-10-22T05:17:27.207067+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Baguette-1.jpg?w=300",
-      "threads_published_at": "2026-10-22T05:17:28.680588+00:00"
-    },
-    {
       "fingerprint": "bdfbcbd19bc741ea8a229d08",
       "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
       "url": "https://eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T23:32:55.152782+00:00"
+    },
+    {
+      "fingerprint": "befef34f0b6dfa3bf233747b",
+      "title": "Blizzard Tries 2 World of Warcraft Dungeon Fixes Over the Weekend to Stop Boosting Services",
+      "url": "https://ign.com/articles/blizzard-tries-two-world-of-warcraft-dungeon-fixes-over-the-weekend-to-stop-boosting-services",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T21:43:39+00:00",
+      "score": 11,
+      "event_key": "blizzard world of warcraft forever dungeon xp hotfix",
+      "title_ru": "Blizzard изменила систему получения опыта в подземельях World of Warcraft Forever",
+      "threads_teaser_ru": "Blizzard обновила систему начисления опыта в подземельях World of Warcraft Forever, чтобы остановить «бустинг». После неудачной первой попытки, затронувшей обычных игроков, разработчики ввели новое ограничение: XP отключается, только если игрок выше врагов более чем на 12 уровней.",
+      "telegram_message_id": "2771",
+      "telegram_url": "https://t.me/gamepulse_newss/2771",
+      "telegram_published_at": "2026-11-16T23:47:07.079620+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/wow-forever-blogroll-1793833617221.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T23:32:55.152869+00:00"
+  "updated_at": "2026-11-16T23:47:07.079686+00:00"
 }
