@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fad71fb1da24240f36a6b419",
-      "title": "After 15-Year Absence, EA Is Bringing Back The Fight Night Franchise",
-      "url": "https://gamespot.com/articles/after-15-year-absence-ea-is-bringing-back-the-fight-night-franchise",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-21T13:37:04+00:00",
-      "score": 15,
-      "event_key": "ea sports is bringing back fight night franchise",
-      "title_ru": "EA возвращает франшизу Fight Night после 15-летнего перерыва",
-      "threads_teaser_ru": "Компания EA Sports неожиданно объявила о возвращении серии боксерских симуляторов Fight Night спустя 15 лет после выхода последней части. Что известно об анонсе?",
-      "telegram_message_id": "1557",
-      "telegram_url": "https://t.me/gamepulse_newss/1557",
-      "telegram_published_at": "2026-10-21T14:03:17.994772+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/fightnight.png?w=300",
-      "threads_published_at": "2026-10-21T14:03:19.731348+00:00"
-    },
-    {
       "fingerprint": "38d506454411970baea1f823",
       "title": "The Apothecary Diaries: The False Imperial Brother – Gameplay Reveal Trailer",
       "url": "https://gamespot.com/videos/the-apothecary-diaries-the-false-imperial-brother-gameplay-reveal-trailer",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-16T15:47:00.317456+00:00"
+    },
+    {
+      "fingerprint": "5f86dc45e0a7d8e26860fa03",
+      "title": "The History of Grand Theft Auto Easter Eggs.",
+      "url": "https://ign.com/articles/the-history-of-grand-theft-auto-easter-eggs",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T16:00:00+00:00",
+      "score": 13,
+      "event_key": "ign_history_of_grand_theft_auto_easter_eggs",
+      "title_ru": "История пасхалок в серии Grand Theft Auto",
+      "threads_teaser_ru": "Издание IGN рассказало об истории пасхалок и секретов в картах серии Grand Theft Auto. От ранних шуток британских разработчиков в играх с видом сверху до культовых тайн вроде гигантского бьющегося сердца в GTA 4.",
+      "telegram_message_id": "2758",
+      "telegram_url": "https://t.me/gamepulse_newss/2758",
+      "telegram_published_at": "2026-11-16T16:16:41.828571+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/16/gta-easter-eggs-blogroll-1794841916182.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T15:47:00.317542+00:00"
+  "updated_at": "2026-11-16T16:16:41.828660+00:00"
 }
