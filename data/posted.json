@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ab3810405704d11ff4acff40",
-      "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
-      "url": "https://ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
-      "source": "IGN",
-      "published_at_source": "2026-10-21T09:53:34+00:00",
-      "score": 9,
-      "event_key": "shrek 2 remastered pc requirements surprise fans",
-      "title_ru": "Системные требования Shrek 2 Remastered удивили игроков",
-      "threads_teaser_ru": "Системные требования ПК-версии Shrek 2 Remastered вызвали удивление в сети: для игры требуются видеокарты уровня RTX 4060 и выше.",
-      "telegram_message_id": "1554",
-      "telegram_url": "https://t.me/gamepulse_newss/1554",
-      "telegram_published_at": "2026-10-21T12:46:41.081187+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/shrek-2-remasterd-screenshot-farfaraway-1792575980552.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-21T12:46:42.859482+00:00"
-    },
-    {
       "fingerprint": "e5bb261898833c9637c8e6bf",
       "title": "Samsung Galaxy Tab S12 Ultra Australia Launch: Everything You Need to Know, Specs and Local Pricing",
       "url": "https://ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/DrXboxHero-6ca3789132d7f8b18cf0.jpg",
       "threads_published_at": "2026-11-16T14:02:28.854366+00:00"
+    },
+    {
+      "fingerprint": "39c13a69f28be9eff147bbf9",
+      "title": "New James Bond Actor Has Been Officially Announced: Robert Pattinson is 007",
+      "url": "https://polygon.com/next-james-bond-actor-cast-denis-villeneuve",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T15:06:04+00:00",
+      "score": 12,
+      "event_key": "robert pattinson cast as next james bond denis villeneuve",
+      "title_ru": "Robert Pattinson стал новым Джеймсом Бондом",
+      "threads_teaser_ru": "Amazon MGM Studios объявила, что новым Джеймсом Бондом официально стал Robert Pattinson. Фильм снимет режиссер Denis Villeneuve, а дата выхода картины пока не названа.",
+      "telegram_message_id": "2755",
+      "telegram_url": "https://t.me/gamepulse_newss/2755",
+      "telegram_published_at": "2026-11-16T15:16:58.217874+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdcosm_ec008.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-16T14:02:28.854459+00:00"
+  "updated_at": "2026-11-16T15:16:58.217952+00:00"
 }
