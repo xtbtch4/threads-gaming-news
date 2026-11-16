@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b037a70fcade68b71bf50c29",
-      "title": "Diablo: Unbound Officially Announced for 2027 Release",
-      "url": "https://polygon.com/diablo-unbound-announcement-blizzard-glass-cannon-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-21T19:14:05+00:00",
-      "score": 14,
-      "event_key": "diablo unbound board game announced glass cannon",
-      "title_ru": "Анонсирована настольная игра Diablo: Unbound",
-      "threads_teaser_ru": "Компания Blizzard и студия Glass Cannon Unplugged анонсировали кооперативную настольную игру Diablo: Unbound с механиками колодостроения и бросков кубиков. Проект рассчитан на 1–4 игроков.",
-      "telegram_message_id": "1563",
-      "telegram_url": "https://t.me/gamepulse_newss/1563",
-      "telegram_published_at": "2026-10-21T19:17:15.787568+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/diablo-unbound-cover.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-21T19:17:17.345802+00:00"
-    },
-    {
       "fingerprint": "3baa0ddac0e52001dd5983ab",
       "title": "Major Skyrim Update Officially Comes to 'Elder Scrolls Online'",
       "url": "https://polygon.com/elder-scrolls-online-skyrim-update-free-dlc",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Star-Wars-Galactic-Racer-ship-getting-ready-for-a-race.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-16T21:17:43.852942+00:00"
+    },
+    {
+      "fingerprint": "62e47e23e537a17ce4ee11b1",
+      "title": "5 Billion Sims and Counting: The Sims FreePlay Celebrates 15 Years",
+      "url": "https://ea.com/news/celebrating-15-years",
+      "source": "Electronic Arts",
+      "published_at_source": "2026-11-16T19:00:00+00:00",
+      "score": 13,
+      "event_key": "The Sims FreePlay 15th anniversary celebration and update",
+      "title_ru": "The Sims FreePlay отмечает 15-летие праздничными мероприятиями",
+      "threads_teaser_ru": "The Sims FreePlay исполняется 15 лет. Студия EA Firemonkeys анонсировала праздничные события, которые продлятся с 24 ноября по 15 декабря. Игроков ждут подарки, ностальгический контент и взгляд в будущее мобильной игры.",
+      "telegram_message_id": "2764",
+      "telegram_url": "https://t.me/gamepulse_newss/2764",
+      "telegram_published_at": "2026-11-16T21:33:01.028838+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/74nQXyr3dcOccYuXQbPwR7/34c376f65e511bfe31c5b4ee34fef81b/SFP_15th-Birthday_Full-Size.png?im=AspectCrop=(16,9),xPosition=0.49713541666666666,yPosition=0.37800925925925927"
     }
   ],
-  "updated_at": "2026-11-16T21:17:43.853035+00:00"
+  "updated_at": "2026-11-16T21:33:01.028944+00:00"
 }
