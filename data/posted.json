@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f5417ae097dd36fac25560d4",
-      "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
-      "url": "https://eurogamer.net/xbox-layoffs-october-november-january-report",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-21T10:47:21+00:00",
-      "score": 15,
-      "event_key": "xbox planning three more rounds of layoffs",
-      "title_ru": "Xbox готовит три новые волны увольнений",
-      "threads_teaser_ru": "Игровое подразделение Microsoft планирует три новых раунда увольнений: первый ожидается в этом месяце, второй в ноябре, а третий в январе 2027 года. Названы и внутренние оценки стоимости консолей Helix следующего поколения.",
-      "telegram_message_id": "1547",
-      "telegram_url": "https://t.me/gamepulse_newss/1547",
-      "telegram_published_at": "2026-10-21T11:02:45.853401+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-21T11:02:47.467487+00:00"
-    },
-    {
       "fingerprint": "c505dcc341d879e95c3d0746",
       "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
       "url": "https://eurogamer.net/football-manager-27-free-to-play-five-days",
@@ -20534,7 +20517,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/wolverine-on-sale-for-black-friday-ps5-ign-2026-1793280790704.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T11:46:56.652240+00:00"
+    },
+    {
+      "fingerprint": "013c48590603b5db25260c7e",
+      "title": "'We Can't Afford Kathryn Hahn': VisionQuest Creator Explains Why Agatha Harkness Didn't Appear",
+      "url": "https://ign.com/articles/we-cant-afford-kathryn-hahn-visionquest-creator-explains-why-agatha-harkness-didnt-appear",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T11:16:30+00:00",
+      "score": 9,
+      "event_key": "visionquestcreator_explains_absence_agatha_harkness",
+      "title_ru": "Создатель VisionQuest объяснил отсутствие Agatha Harkness в сериале",
+      "threads_teaser_ru": "Создатель шоу VisionQuest Терри Маталас объяснил, почему в финале сериала не появилась Agatha Harkness, хотя ее присутствие в жизни героев все же ощущается.",
+      "telegram_message_id": "2748",
+      "telegram_url": "https://t.me/gamepulse_newss/2748",
+      "telegram_published_at": "2026-11-16T12:02:23.122421+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2024/08/29/agathathumb-1724951416836.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T11:46:56.652325+00:00"
+  "updated_at": "2026-11-16T12:02:23.122531+00:00"
 }
