@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "38d506454411970baea1f823",
-      "title": "The Apothecary Diaries: The False Imperial Brother – Gameplay Reveal Trailer",
-      "url": "https://gamespot.com/videos/the-apothecary-diaries-the-false-imperial-brother-gameplay-reveal-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-21T13:48:11+00:00",
-      "score": 15,
-      "event_key": "announcement of The Apothecary Diaries The False Imperial Brother game",
-      "title_ru": "Анонсирована игра The Apothecary Diaries: The False Imperial Brother",
-      "threads_teaser_ru": "Стала известна дата выхода первой консольной игры по вселенной The Apothecary Diaries. The False Imperial Brother поступит в продажу 18 марта 2027 года на современных консолях и PC. Игрокам предстоит примерить на себя роль Маомао и распутать клубок заговоров.",
-      "telegram_message_id": "1558",
-      "telegram_url": "https://t.me/gamepulse_newss/1558",
-      "telegram_published_at": "2026-10-21T14:48:37.410074+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-21T14:48:39.602242+00:00"
-    },
-    {
       "fingerprint": "d16b6fd20081178913fb94df",
       "title": "Fallout Day Continues: The World of Fallout Museum Exhibit Expands, Choose the Flavor of Nuka Twist, and More",
       "url": "https://ign.com/articles/fallout-day-continues-the-world-of-fallout-museum-exhibit-expands-choose-the-flavor-of-nuka-twist-and-more",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/16/gta-easter-eggs-blogroll-1794841916182.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T16:16:43.362959+00:00"
+    },
+    {
+      "fingerprint": "ff86123989e10f6aa42f82af",
+      "title": "Family Guy: Holiday Special 2026 Exclusive Trailer, Key Art and Hulu Release Date Revealed",
+      "url": "https://ign.com/articles/family-guy-holiday-special-2026-trailer-key-art-release-date-plot",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T17:30:00+00:00",
+      "score": 15,
+      "event_key": "Family Guy The Peter Clause holiday special release",
+      "title_ru": "Анонсирован праздничный спецвыпуск Family Guy: The Peter Clause",
+      "threads_teaser_ru": "Вышел трейлер праздничного спецвыпуска Family Guy: «The Peter Clause». В эпизоде Питер будет бороться за роль официального городского Санты после того, как в Куахоге наступило Рождество. Релиз состоится 30 ноября на Hulu.",
+      "telegram_message_id": "2759",
+      "telegram_url": "https://t.me/gamepulse_newss/2759",
+      "telegram_published_at": "2026-11-16T18:02:39.147952+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/13/familyguy-peterclause-thumb-1794603904005.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-16T16:16:43.363087+00:00"
+  "updated_at": "2026-11-16T18:02:39.148047+00:00"
 }
