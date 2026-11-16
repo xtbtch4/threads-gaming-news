@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ebafde0e231390580d6d0a79",
-      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
-      "url": "https://polygon.com/shrek-2-remastered-release-date-trailer-online-co-op",
-      "source": "Polygon",
-      "published_at_source": "2026-10-20T23:05:59+00:00",
-      "score": 14,
-      "event_key": "shrek-2-remastered-announced-aspyr",
-      "title_ru": "Анонсирована Shrek 2 Remastered с поддержкой онлайн-кооператива",
-      "threads_teaser_ru": "Анонсирована Shrek 2 Remastered от Aspyr с разрешением 4K и онлайн-кооперативом на четырех игроков. Игра выйдет в ноябре на современных платформах.",
-      "telegram_message_id": "1540",
-      "telegram_url": "https://t.me/gamepulse_newss/1540",
-      "telegram_published_at": "2026-10-20T23:16:43.087620+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/shrek-2-remastered-key.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/dreamworks-shrek-2-remastered-official-announce-trailer-pre-order-now-1792529192.mp4",
-      "threads_published_at": "2026-10-20T23:16:44.434904+00:00"
-    },
-    {
       "fingerprint": "f658b9e698575c7b41969fc8",
       "title": "Apex Legends™: Ranked Roadmap",
       "url": "https://ea.com/games/apex-legends/apex-legends/news/ranked-roadmap-31-32",
@@ -20536,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/ps5-games-on-sale-black-friday-ign-2026-1-1793280796940.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T09:02:41.801477+00:00"
+    },
+    {
+      "fingerprint": "cf97f3ab68fb9b93b801f030",
+      "title": "EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects",
+      "url": "https://eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-16T09:24:00+00:00",
+      "score": 9,
+      "event_key": "ea_appoints_sam_cooper_as_battlefield_boss",
+      "title_ru": "EA назначила нового руководителя франшизы Battlefield",
+      "threads_teaser_ru": "EA назначила Сэма Купера, бывшего директора по продуктам и live-сервису Call of Duty в Activision, новым руководителем франшизы Battlefield.",
+      "telegram_message_id": "2741",
+      "telegram_url": "https://t.me/gamepulse_newss/2741",
+      "telegram_published_at": "2026-11-16T09:32:22.470258+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/battlefield-6-season-4-gameplay-screen-11.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-16T09:02:41.801567+00:00"
+  "updated_at": "2026-11-16T09:32:22.470349+00:00"
 }
