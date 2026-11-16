@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "243aae4143960562994bfc4e",
-      "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
-      "url": "https://gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-21T17:12:53+00:00",
-      "score": 15,
-      "event_key": "electronic arts shuts down bioware studio",
-      "title_ru": "EA закрывает студию BioWare и отменяет следующую Mass Effect",
-      "threads_teaser_ru": "Electronic Arts закрывает студию BioWare и отменяет разработку следующей игры в серии Mass Effect. Под сокращение попадают около 50 сотрудников студии и еще 350 работников в других подразделениях компании.",
-      "telegram_message_id": "1562",
-      "telegram_url": "https://t.me/gamepulse_newss/1562",
-      "telegram_published_at": "2026-10-21T19:02:15.329930+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/mass-effect-image.jpg?w=300",
-      "threads_published_at": "2026-10-21T19:02:16.710524+00:00"
-    },
-    {
       "fingerprint": "b037a70fcade68b71bf50c29",
       "title": "Diablo: Unbound Officially Announced for 2027 Release",
       "url": "https://polygon.com/diablo-unbound-announcement-blizzard-glass-cannon-games",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/cwr-image.jpg?w=300",
       "threads_published_at": "2026-11-16T21:02:48.876575+00:00"
+    },
+    {
+      "fingerprint": "b929d0095f982848d4c6aa8a",
+      "title": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
+      "url": "https://eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-16T19:38:20+00:00",
+      "score": 13,
+      "event_key": "Star Wars: Galactic Racer adding split-screen mode",
+      "title_ru": "В Star Wars: Galactic Racer добавят сплит-скрин и режим Free Play в 2027 году",
+      "threads_teaser_ru": "В начале 2027 года в Star Wars: Galactic Racer появится локальный мультиплеер. Студия Fuse Games добавит режим Free Play, который позволит устраивать гонки на разделенном экране для четырех игроков с выбором любых трасс и персонажей.",
+      "telegram_message_id": "2763",
+      "telegram_url": "https://t.me/gamepulse_newss/2763",
+      "telegram_published_at": "2026-11-16T21:17:42.251436+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Star-Wars-Galactic-Racer-ship-getting-ready-for-a-race.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-16T21:02:48.876657+00:00"
+  "updated_at": "2026-11-16T21:17:42.251527+00:00"
 }
