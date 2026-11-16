@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "73b7c22a66141c3878f4423e",
-      "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
-      "url": "https://gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-20T19:29:33+00:00",
-      "score": 15,
-      "event_key": "next gen xbox project helix price 2028 report",
-      "title_ru": "Новая консоль Xbox может выйти в 2028 году и стоить до $1800",
-      "threads_teaser_ru": "Новое поколение консолей Xbox может обойтись покупателям в сумму до $1800 и выйти в 2028 году, если верить свежему отчету. Также Microsoft готовит портативное устройство.",
-      "telegram_message_id": "1533",
-      "telegram_url": "https://t.me/gamepulse_newss/1533",
-      "telegram_published_at": "2026-10-20T19:46:54.582903+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-2.png?w=300",
-      "threads_published_at": "2026-10-20T19:46:56.265451+00:00"
-    },
-    {
       "fingerprint": "28b3d36e93c5a30b62064d22",
       "title": "AMD FSR 4.1 Is Finally Coming to Xbox Series X, Rivaling PS5's QSSR",
       "url": "https://ign.com/articles/amd-fsr-41-is-finally-coming-to-xbox-series-x-rivaling-ps5s-qssr",
@@ -20533,7 +20516,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/15/jensen-huang-1794786327545.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-16T00:16:38.515384+00:00"
+    },
+    {
+      "fingerprint": "5306ba3ddfd25bdb13879d14",
+      "title": "Extremely Rare Pokémon Game Found 20 Years Later",
+      "url": "https://polygon.com/pokemon-pokepark-fishing-rally-ds-found",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T00:59:53+00:00",
+      "score": 8,
+      "event_key": "rare pokepark fishing rally ds game found",
+      "title_ru": "Найдена редкая игра PokéPark Fishing Rally DS",
+      "threads_teaser_ru": "Коллекционер обнаружил рабочий картридж с редкой игрой PokéPark Fishing Rally DS, которая считалась утерянной почти 20 лет после закрытия парка развлечений.",
+      "telegram_message_id": "2734",
+      "telegram_url": "https://t.me/gamepulse_newss/2734",
+      "telegram_published_at": "2026-11-16T01:02:45.508940+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/pokemon-winds-and-waves-screen-wailord.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-16T00:16:38.515471+00:00"
+  "updated_at": "2026-11-16T01:02:45.509030+00:00"
 }
