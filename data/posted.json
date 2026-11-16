@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f658b9e698575c7b41969fc8",
-      "title": "Apex Legends™: Ranked Roadmap",
-      "url": "https://ea.com/games/apex-legends/apex-legends/news/ranked-roadmap-31-32",
-      "source": "Respawn / Apex Legends",
-      "published_at_source": "2026-10-20T17:00:00+00:00",
-      "score": 10,
-      "event_key": "Apex Legends Ranked mode changes roadmap season 31 32",
-      "title_ru": "Respawn представила дорожную карту изменений рейтингового режима в Apex Legends",
-      "threads_teaser_ru": "В Apex Legends меняют правила рейтинговых матчей. В 31-м сезоне для игроков ранга Diamond и выше введут систему запрета легенд, изменят стоимость входа в матчи и упростят доступ к рейтингу, отменив специальные испытания.",
-      "telegram_message_id": "1541",
-      "telegram_url": "https://t.me/gamepulse_newss/1541",
-      "telegram_published_at": "2026-10-21T00:17:04.258336+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/71aeaZBvN4IHx7zRrRlEvp/a5a8db8195631c42aac16c7d535fba4e/Ranked_Roadmap_Thumbnail_16x9.jpg?im=AspectCrop=(16,9),xPosition=0.2140625,yPosition=0.28703703703703703",
-      "threads_published_at": "2026-10-21T00:17:05.573617+00:00"
-    },
-    {
       "fingerprint": "eb33d619ea902f33bb9544b9",
       "title": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
       "url": "https://rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/battlefield-6-season-4-gameplay-screen-11.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-16T09:32:24.130624+00:00"
+    },
+    {
+      "fingerprint": "a30d3247c2dea217bc0ec11e",
+      "title": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+      "url": "https://rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-16T10:28:20+00:00",
+      "score": 8,
+      "event_key": "cybermp multiplayer mod cyberpunk 2077 open beta",
+      "title_ru": "Мультиплеерный мод CyberMP для Cyberpunk 2077 вышел в открытую бету",
+      "threads_teaser_ru": "Мультиплеерный мод CyberMP для Cyberpunk 2077 вышел в открытую бету спустя почти шесть лет разработки. Он позволяет устраивать гонки и PvP-перестрелки в Night City, но на старте возможны баги и вылеты.",
+      "telegram_message_id": "2742",
+      "telegram_url": "https://t.me/gamepulse_newss/2742",
+      "telegram_published_at": "2026-11-16T10:32:26.833837+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-multiplayer-mod-cybermp-open-beta-01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-16T09:32:24.130722+00:00"
+  "updated_at": "2026-11-16T10:32:26.833925+00:00"
 }
