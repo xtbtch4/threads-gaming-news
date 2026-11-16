@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c3e0c443ddd450e3dc534d1b",
-      "title": "Crimson Desert Charting the Unknown DLC Features Revealed, Including Shipbuilding, Romance, and Housing",
-      "url": "https://ign.com/articles/crimson-desert-charting-the-unknown-dlc-features-revealed-including-shipbuilding-romance-and-housing",
-      "source": "IGN",
-      "published_at_source": "2026-10-21T11:29:54+00:00",
-      "score": 15,
-      "event_key": "crimson-desert-charting-the-unknown-dlc-announced",
-      "title_ru": "Анонсировано DLC Charting the Unknown для Crimson Desert",
-      "threads_teaser_ru": "Компания Pearl Abyss раскрыла подробности дополнения Charting the Unknown для Crimson Desert. DLC принесет в игру судостроение, подводное исследование, романтические отношения, строительство жилья и управление бизнесом.",
-      "telegram_message_id": "1551",
-      "telegram_url": "https://t.me/gamepulse_newss/1551",
-      "telegram_published_at": "2026-10-21T12:02:56.127461+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/marriage-1792581311395.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-21T12:02:57.691144+00:00"
-    },
-    {
       "fingerprint": "54f655e1a37dae36791057ef",
       "title": "'Aragorn Will Always Be Viggo,' Says Jamie Dornan Ahead of His Turn as the Iconic Character in The Lord of the Rings: The Hunt for Gollum",
       "url": "https://ign.com/articles/aragorn-will-always-be-viggo-says-jamie-dornan-the-hunt-for-gollum",
@@ -20534,7 +20517,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/vice-magic-city-mayhem-1ufs7.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-16T13:16:44.462017+00:00"
+    },
+    {
+      "fingerprint": "e9d925fe05ccf7305f9dc723",
+      "title": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
+      "url": "https://polygon.com/final-fantasy-7-director-naoki-hamaguchi",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T13:24:55+00:00",
+      "score": 12,
+      "event_key": "naoki hamaguchi final fantasy 7 revelation fan reactions direction",
+      "title_ru": "Режиссер Final Fantasy 7: Revelation не опирается на мнение фанатов",
+      "threads_teaser_ru": "Режиссер Naoki Hamaguchi заявил, что мнение фанатов не влияет на сюжет Final Fantasy 7: Revelation. Команда Square Enix сама определяет направление трилогии перед апрельским релизом.",
+      "telegram_message_id": "2752",
+      "telegram_url": "https://t.me/gamepulse_newss/2752",
+      "telegram_published_at": "2026-11-16T13:32:03.909773+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/cloud-ff7-revelation.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/final-fantasy-vii-revelation-release-date-reveal-trailer-ps5-games-playstation-1080p-1788449421.mp4"
     }
   ],
-  "updated_at": "2026-11-16T13:16:44.462101+00:00"
+  "updated_at": "2026-11-16T13:32:03.909888+00:00"
 }
