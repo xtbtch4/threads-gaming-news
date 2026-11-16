@@ -20531,10 +20531,11 @@
       "telegram_message_id": "2752",
       "telegram_url": "https://t.me/gamepulse_newss/2752",
       "telegram_published_at": "2026-11-16T13:32:03.909773+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/cloud-ff7-revelation.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/final-fantasy-vii-revelation-release-date-reveal-trailer-ps5-games-playstation-1080p-1788449421.mp4"
+      "video_url": "https://video.polygonimages.com/2026/09/final-fantasy-vii-revelation-release-date-reveal-trailer-ps5-games-playstation-1080p-1788449421.mp4",
+      "threads_published_at": "2026-11-16T13:32:05.256040+00:00"
     }
   ],
-  "updated_at": "2026-11-16T13:32:03.909888+00:00"
+  "updated_at": "2026-11-16T13:32:05.256152+00:00"
 }
