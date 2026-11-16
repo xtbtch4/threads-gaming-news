@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6b627a39fff195919b21229e",
-      "title": "BioWare Officially Shutting Down and New Mass Effect Canceled",
-      "url": "https://polygon.com/ea-bioware-closure-mass-efffect-5-canceled",
-      "source": "Polygon",
-      "published_at_source": "2026-10-21T17:23:18+00:00",
-      "score": 14,
-      "event_key": "ea-shuts-down-bioware-cancels-mass-effect",
-      "title_ru": "EA закрывает BioWare и отменяет следующую Mass Effect",
-      "threads_teaser_ru": "Electronic Arts закрывает студию BioWare после более чем 30 лет работы. Из-за этого разработка новой игры в серии Mass Effect была официально отменена.",
-      "telegram_message_id": "1561",
-      "telegram_url": "https://t.me/gamepulse_newss/1561",
-      "telegram_published_at": "2026-10-21T17:32:17.257872+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/mass-effect-space-opera-games-2.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-21T17:32:18.817682+00:00"
-    },
-    {
       "fingerprint": "243aae4143960562994bfc4e",
       "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
       "url": "https://gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_13_3d2957.jpg?w=300",
       "threads_published_at": "2026-11-16T20:33:17.723249+00:00"
+    },
+    {
+      "fingerprint": "e8680b6021b76c1b6950f6a9",
+      "title": "Shooting Suspect In Custody After Opening Fire Near Xbox Dev’s Studio",
+      "url": "https://gamespot.com/articles/shooting-suspect-in-custody-after-opening-fire-near-xbox-devs-studio",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-16T15:52:19+00:00",
+      "score": 14,
+      "event_key": "suspect arrested after shooting near InXile Entertainment studio",
+      "title_ru": "Полиция задержала подозреваемого в стрельбе рядом с офисом InXile Entertainment",
+      "threads_teaser_ru": "В Калифорнии задержали подозреваемого в стрельбе рядом с офисом разработчиков InXile Entertainment. Инцидент произошел 11 ноября, обошлось без пострадавших. Студия сейчас активно сотрудничает с полицией и продолжает работу над Clockwork Revolution.",
+      "telegram_message_id": "2762",
+      "telegram_url": "https://t.me/gamepulse_newss/2762",
+      "telegram_published_at": "2026-11-16T21:02:47.487539+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/cwr-image.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-16T20:33:17.723348+00:00"
+  "updated_at": "2026-11-16T21:02:47.487628+00:00"
 }
