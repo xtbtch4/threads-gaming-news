@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2282453dfc9077c32668d78c",
-      "title": "Call of Duty: Modern Warfare 4 w/Devs – Campaign, Multiplayer, DMZ, and More | Official XBOX Podcast",
-      "url": "https://news.xbox.com/en-us/2026/10/22/call-of-duty-modern-warfare-4-w-devs-campaign-multiplayer-dmz-and-more-official-xbox-podcast",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-22T16:15:45+00:00",
-      "score": 12,
-      "event_key": "infinity-ward-discusses-call-of-duty-modern-warfare-4",
-      "title_ru": "Подробности Call of Duty: Modern Warfare 4 от разработчиков из Infinity Ward",
-      "threads_teaser_ru": "Разработчики из Infinity Ward рассказали о создании Call of Duty: Modern Warfare 4, уделив особое внимание новой кампании на Корейском полуострове, мультиплееру и возвращению режима DMZ.",
-      "telegram_message_id": "1604",
-      "telegram_url": "https://t.me/gamepulse_newss/1604",
-      "telegram_published_at": "2026-10-22T16:33:00.332006+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Wire_EP288-cf9232d2f160c5054323.jpg",
-      "threads_published_at": "2026-10-22T16:33:02.804999+00:00"
-    },
-    {
       "fingerprint": "daaa1a7f4bed77d4bb4abbf9",
       "title": "FINAL FANTASY RESONANCE is a Delightful Return to the Series’ Classic Roots",
       "url": "https://news.xbox.com/en-us/2026/10/22/final-fantasy-resonance-available-now",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/04/02/ss-f2e70b5823510daa062293ff0b03821e1dee2d37-1920x1080-1775136508858.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T16:17:22.713337+00:00"
+    },
+    {
+      "fingerprint": "7bdf5149e9d60162f811a4b2",
+      "title": "Embracer begin yet another round of layoffs at Crystal Dynamics, while they're still midway through development on two Tomb Raider games",
+      "url": "https://rockpapershotgun.com/embracer-begin-yet-another-round-of-layoffs-at-crystal-dynamics-while-theyre-still-midway-through-development-on-two-tomb-raider-games",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T16:03:00+00:00",
+      "score": 12,
+      "event_key": "embracer_layoffs_crystal_dynamics_tomb_raider",
+      "title_ru": "Embracer проводит новые увольнения в Crystal Dynamics",
+      "threads_teaser_ru": "Холдинг Embracer проводит пятую волну увольнений в студии Crystal Dynamics с момента ее покупки в 2022 году. Сокращения затронули разработчиков, пока студия продолжает работу над двумя проектами серии Tomb Raider.",
+      "telegram_message_id": "2805",
+      "telegram_url": "https://t.me/gamepulse_newss/2805",
+      "telegram_published_at": "2026-11-17T16:32:39.613405+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Tomb-Raider-LoA.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T16:17:22.713426+00:00"
+  "updated_at": "2026-11-17T16:32:39.613488+00:00"
 }
