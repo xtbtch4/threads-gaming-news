@@ -20533,9 +20533,10 @@
       "telegram_message_id": "2815",
       "telegram_url": "https://t.me/gamepulse_newss/2815",
       "telegram_published_at": "2026-11-17T20:33:03.685791+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/civ7.png?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/civ7.png?w=300",
+      "threads_published_at": "2026-11-17T20:33:05.145744+00:00"
     }
   ],
-  "updated_at": "2026-11-17T20:33:03.685876+00:00"
+  "updated_at": "2026-11-17T20:33:05.145830+00:00"
 }
