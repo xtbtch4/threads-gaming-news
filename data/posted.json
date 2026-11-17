@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cd3c45c4841270a4d4046b42",
-      "title": "Xbox Insiders Can Cloud Stream Games Without Game Pass (But There's a Catch) - IGN Daily Fix",
-      "url": "https://ign.com/videos/xbox-insiders-can-cloud-stream-games-without-game-pass-but-theres-a-catch-ign-daily-fix",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T16:18:00+00:00",
-      "score": 12,
-      "event_key": "Xbox Insider cloud streaming time blocks testing",
-      "title_ru": "Xbox тестирует облачный стриминг игр без подписки Game Pass",
-      "threads_teaser_ru": "Xbox начала тестирование облачного стриминга для участников программы Xbox Insider без необходимости покупать подписку Game Pass. Теперь можно приобрести пакеты часов для игры в облаке, начиная от $3,99 за 10 часов, которые не сгорают со временем.",
-      "telegram_message_id": "1622",
-      "telegram_url": "https://t.me/gamepulse_newss/1622",
-      "telegram_published_at": "2026-10-22T23:47:32.514812+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/gfix-102226-blogroll-1792711067079.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T23:47:33.870853+00:00"
-    },
-    {
       "fingerprint": "5f66593d9f697b52abb05c20",
       "title": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
       "url": "https://ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T22:17:08.289829+00:00"
+    },
+    {
+      "fingerprint": "5ab0d99ce7dbca754deb7232",
+      "title": "Infinity Nikki Players Baffled After Elon Musk's Mom Appears in Game's Update Trailers",
+      "url": "https://ign.com/articles/infinity-nikki-players-baffled-after-elon-musks-mom-appears-in-games-update-trailers",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T22:56:11+00:00",
+      "score": 13,
+      "event_key": "maye_musk_appears_in_infinity_nikki_trailers",
+      "title_ru": "Мать Илона Маска появилась в трейлерах обновления для Infinity Nikki",
+      "threads_teaser_ru": "Появление матери Илона Маска в трейлерах обновления 3.0 для Infinity Nikki озадачило западных игроков и вызвало восторг у аудитории в Китае.",
+      "telegram_message_id": "2826",
+      "telegram_url": "https://t.me/gamepulse_newss/2826",
+      "telegram_published_at": "2026-11-17T23:16:43.735592+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/maye-musk-infinity-nikki-confusion-1794955678498.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T22:17:08.289936+00:00"
+  "updated_at": "2026-11-17T23:16:43.735687+00:00"
 }
