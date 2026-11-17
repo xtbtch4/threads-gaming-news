@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ba3a1c80af025e4dc03662df",
-      "title": "DevGAMM Awards 2026 Reveals 70 Nominated Games For Its 3rd Annual Show: See the Full List",
-      "url": "https://ign.com/articles/devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show-see-the-full-list",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T13:00:00+00:00",
-      "score": 11,
-      "event_key": "devgamm-awards-2026-reveals-70-nominated-games",
-      "title_ru": "DevGAMM Awards 2026 объявила список номинантов",
-      "threads_teaser_ru": "Стали известны 70 номинантов третьей премии DevGAMM Awards, отобранные из почти 1100 заявок. Победителей объявят 18 ноября в Лиссабоне, а общий призовой фонд превысит 140 тысяч долларов.",
-      "telegram_message_id": "1596",
-      "telegram_url": "https://t.me/gamepulse_newss/1596",
-      "telegram_published_at": "2026-10-22T13:32:25.128654+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/devegam-1792624866535.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T13:32:27.130670+00:00"
-    },
-    {
       "fingerprint": "a9880d8fbef694cf686b9702",
       "title": "First GTA 6 TV Commercial Strips Out Steamy Shower Scenes, but Shows More of Lucia's Fancy Hair Tech",
       "url": "https://ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/modern-warfare-2019-gameplay-shot-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T13:47:43.780215+00:00"
+    },
+    {
+      "fingerprint": "87ccb27004e1f8182cb58ef6",
+      "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
+      "url": "https://ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T13:32:25+00:00",
+      "score": 13,
+      "event_key": "schools prepare for mass absences on gta 6 launch day",
+      "title_ru": "Как школы готовятся к массовым прогулам в день релиза GTA 6",
+      "threads_teaser_ru": "Школы по всему миру готовятся к массовым прогулам учеников из-за релиза GTA 6. Одни учебные заведения рассылают предупреждения родителям, другие — разыгрывают подарочные карты.",
+      "telegram_message_id": "2797",
+      "telegram_url": "https://t.me/gamepulse_newss/2797",
+      "telegram_published_at": "2026-11-17T14:02:39.429401+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T13:47:43.780318+00:00"
+  "updated_at": "2026-11-17T14:02:39.429502+00:00"
 }
