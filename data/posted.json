@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "632d1d4848b58b0c4d6cdd60",
-      "title": "Free Play Days – Dying Light 2, Riders Republic, Monster Hunter Stories, Let’s Build a Zoo, and More",
-      "url": "https://news.xbox.com/en-us/2026/10/22/free-play-days-10-22-2026",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-22T15:00:00+00:00",
-      "score": 16,
-      "event_key": "xbox_free_play_days_october_2026",
-      "title_ru": "Новые игры в рамках акции Free Play Days на Xbox",
-      "threads_teaser_ru": "Подписчики Xbox Game Pass получили доступ к Dying Light 2: Stay Human – Reloaded Edition, Let’s Build a Zoo и Tropico 6 по акции Free Play Days.",
-      "telegram_message_id": "1599",
-      "telegram_url": "https://t.me/gamepulse_newss/1599",
-      "telegram_published_at": "2026-10-22T15:17:03.593723+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10-22-26_1920x1080-2ccc59cf839d992aed42.jpg",
-      "threads_published_at": "2026-10-22T15:17:05.154465+00:00"
-    },
-    {
       "fingerprint": "42de68a248616789da4c512b",
       "title": "Skate Studio Also Hit With Cuts as Scope of EA's Mass Layoffs Becomes Clearer",
       "url": "https://ign.com/articles/skate-studio-hit-with-layoffs",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/0bc50241318e52395ab70077faf8e1f0e3cf7c1d.png?w=300",
       "threads_published_at": "2026-11-17T14:32:17.058380+00:00"
+    },
+    {
+      "fingerprint": "ffea2de7559a7944b22ea904",
+      "title": "'GTA 6' Pre-orders Come With An Important Asterisk",
+      "url": "https://polygon.com/gta-6-preorder-bonuses-plus-release-perks-digital-ultimate-edition",
+      "source": "Polygon",
+      "published_at_source": "2026-11-17T13:25:35+00:00",
+      "score": 10,
+      "event_key": "gta-6-digital-preorders-include-free-gta-plus-month",
+      "title_ru": "Важная деталь предзаказов GTA 6",
+      "threads_teaser_ru": "Предзаказ GTA 6 включает бесплатный месяц подписки GTA Plus, но важно вовремя отменить ее после окончания пробного периода, чтобы избежать автопродления.",
+      "telegram_message_id": "2800",
+      "telegram_url": "https://t.me/gamepulse_newss/2800",
+      "telegram_published_at": "2026-11-17T14:47:17.389815+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_25.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-17T14:32:17.058469+00:00"
+  "updated_at": "2026-11-17T14:47:17.389890+00:00"
 }
