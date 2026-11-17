@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "88f7eb9f3e4de7c7eabc490d",
-      "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
-      "url": "https://eurogamer.net/stranger-than-heaven-preview",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-21T14:00:41+00:00",
-      "score": 9,
-      "event_key": "stranger than heaven preview rgg action game",
-      "title_ru": "Предварительный обзор Stranger Than Heaven",
-      "threads_teaser_ru": "Издание Euro поделилось первыми впечатлениями от Stranger Than Heaven. Новая игра от RGG предлагает необычную боевую систему на триггерах, смену эпох в Японии и музыкальные мини-игры.",
-      "telegram_message_id": "1578",
-      "telegram_url": "https://t.me/gamepulse_newss/1578",
-      "telegram_published_at": "2026-10-22T08:32:15.651781+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/stranger-than-heaven-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T08:32:17.029007+00:00"
-    },
-    {
       "fingerprint": "d123e9ff00784fb4861bdc7a",
       "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
       "url": "https://ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikmin-4-screenshot-16-9.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-17T02:17:17.824744+00:00"
+    },
+    {
+      "fingerprint": "182e017fdfebcf2202a772de",
+      "title": "Christopher Nolan's The Odyssey Comes to Digital With Over 90 Minutes of Bonus Features",
+      "url": "https://ign.com/articles/how-to-watch-the-odyssey-2026-bonus-features",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T05:00:00+00:00",
+      "score": 9,
+      "event_key": "The Odyssey Christopher Nolan digital release",
+      "title_ru": "Фильм The Odyssey Кристофера Нолана вышел в «цифре»",
+      "threads_teaser_ru": "Фильм The Odyssey Кристофера Нолана добрался до «цифры» спустя рекордные четыре месяца после выхода в кинотеатрах. Цифровая версия включает более 90 минут бонусов о съемках, а также специальное соотношение сторон 1.78:1.",
+      "telegram_message_id": "2779",
+      "telegram_url": "https://t.me/gamepulse_newss/2779",
+      "telegram_published_at": "2026-11-17T05:02:49.408391+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/02/odysseythumb-1783019960744.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T02:17:17.824841+00:00"
+  "updated_at": "2026-11-17T05:02:49.408490+00:00"
 }
