@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5f66593d9f697b52abb05c20",
-      "title": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
-      "url": "https://ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T00:05:00+00:00",
-      "score": 13,
-      "event_key": "asus zenscreen portable monitor amazon discount black friday",
-      "title_ru": "Скидка на портативный монитор ASUS ZenScreen",
-      "threads_teaser_ru": "В преддверии Black Friday на Amazon снизилась цена на портативный монитор ASUS ZenScreen 15.6\" USB Portable Monitor — устройство можно купить за 99 долларов со скидкой в 50 долларов.",
-      "telegram_message_id": "1623",
-      "telegram_url": "https://t.me/gamepulse_newss/1623",
-      "telegram_published_at": "2026-10-23T01:02:11.491910+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/asuszenscreen2-1792705821026.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T01:02:12.914102+00:00"
-    },
-    {
       "fingerprint": "745e9d1dcab227e5dc7be266",
       "title": "25 Years Since Its Reveal, and People Still Search for iPods “Every Two Seconds” on eBay",
       "url": "https://ign.com/articles/people-still-search-for-ipods-every-two-seconds-on-ebay",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/maye-musk-infinity-nikki-confusion-1794955678498.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T23:16:45.289898+00:00"
+    },
+    {
+      "fingerprint": "34b21cbc2f112a967700b352",
+      "title": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
+      "url": "https://rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T21:33:50+00:00",
+      "score": 10,
+      "event_key": "dead_by_daylight_2027_update_ugc_workshop",
+      "title_ru": "Behaviour Interactive анонсировала масштабное обновление для Dead by Daylight на 2027 год",
+      "threads_teaser_ru": "В 2027 году для Dead by Daylight выйдет крупное обновление с инструментами для создания пользовательского контента, динамической погодой, улучшенной графикой и переработанными картами.",
+      "telegram_message_id": "2827",
+      "telegram_url": "https://t.me/gamepulse_newss/2827",
+      "telegram_published_at": "2026-11-17T23:32:29.890024+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dead-by-daylight-future.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T23:16:45.289987+00:00"
+  "updated_at": "2026-11-17T23:32:29.890118+00:00"
 }
