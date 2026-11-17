@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "227d32a64d0f47606712d507",
-      "title": "Phantom Blade Zero Will Get a Physical Release, But There's a Catch",
-      "url": "https://polygon.com/phantom-blade-zero-physical-release-disc",
-      "source": "Polygon",
-      "published_at_source": "2026-10-22T09:43:37+00:00",
-      "score": 10,
-      "event_key": "phantom-blade-zero-physical-release-2027-ps5",
-      "title_ru": "Phantom Blade Zero получит физическое издание на дисках",
-      "threads_teaser_ru": "Экшен-RPG Phantom Blade Zero обзаведется физическим изданием для PlayStation 5 на диске, но придется набраться терпения — релиз коробочной версии задержится до 2027 года.",
-      "telegram_message_id": "1582",
-      "telegram_url": "https://t.me/gamepulse_newss/1582",
-      "telegram_published_at": "2026-10-22T09:46:46.560447+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/phantom-blade-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-22T09:46:47.823460+00:00"
-    },
-    {
       "fingerprint": "a6ff23c6ffeeebcb0bcdafb6",
       "title": "Street Fighter Was Never Going to Be a Dark, Grounded Batman Begins-Style Movie, Director Insists — the Studio Wanted Silliness and Absurdity",
       "url": "https://ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_SARAS_SALON_02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T09:32:07.748884+00:00"
+    },
+    {
+      "fingerprint": "e82fff2ed2b0fc25d68643a2",
+      "title": "\"GTA is going to be a golden ticket for [many] content creators.\"",
+      "url": "https://za.ign.com/grand-theft-auto-vi/245652/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T10:44:00+00:00",
+      "score": 9,
+      "event_key": "GTA 6 release economic and cultural impact",
+      "title_ru": "Влияние релиза GTA 6 на индустрию развлечений",
+      "threads_teaser_ru": "Релиз GTA 6 обещает стать культурным феноменом, способным затмить кинопремьеры и праздники. Экономисты прогнозируют миллиардные убытки из-за снижения производительности труда в первые дни выхода, так как миллионы игроков планируют отгулы ради игры Rockstar.",
+      "telegram_message_id": "2783",
+      "telegram_url": "https://t.me/gamepulse_newss/2783",
+      "telegram_published_at": "2026-11-17T09:46:55.582938+00:00",
+      "threads_id": null,
+      "image_url": "https://sm.ign.com/t/ign_za/news/t/this-is-ak/this-is-akin-to-a-moon-landing-how-gamings-top-content-creat_fwy4.1200.jpg"
     }
   ],
-  "updated_at": "2026-11-17T09:32:07.748974+00:00"
+  "updated_at": "2026-11-17T09:46:55.583035+00:00"
 }
