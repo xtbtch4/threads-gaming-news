@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19de32949e6f5e1c9ae26a7e",
-      "title": "Award-Winning Sci-Fi Author Reveals Role on Canceled Mass Effect",
-      "url": "https://polygon.com/mass-effect-5-story-authors-who-was-working-on-it-bioware",
-      "source": "Polygon",
-      "published_at_source": "2026-10-22T16:46:41+00:00",
-      "score": 14,
-      "event_key": "sci fi authors reveal roles on canceled mass effect 5",
-      "title_ru": "Писатели-фантасты раскрыли свое участие в отмененной Mass Effect 5",
-      "threads_teaser_ru": "После закрытия BioWare и отмены Mass Effect 5 писатели Дерек Кюнскен и Кэтрин Валенте рассказали о своем участии в разработке игры и создании ее сюжета.",
-      "telegram_message_id": "1606",
-      "telegram_url": "https://t.me/gamepulse_newss/1606",
-      "telegram_published_at": "2026-10-22T17:02:57.767674+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/garrus-romance.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
-      "threads_published_at": "2026-10-22T17:03:00.432999+00:00"
-    },
-    {
       "fingerprint": "fb4edf4ac35a09f7c6188bd0",
       "title": "Dispatch celebrates its first anniversary with commentary and storyboard modes for every single episode, if you've got the deluxe edition anyway",
       "url": "https://rockpapershotgun.com/dispatch-celebrates-its-first-anniversary-with-commentary-and-storyboard-modes-for-every-single-episode-if-youve-got-the-deluxe-edition-anyway",
@@ -20537,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/playstation-tribunal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T16:47:25.911876+00:00"
+    },
+    {
+      "fingerprint": "0bb6eeefdc430b7558700909",
+      "title": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More",
+      "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-17T17:00:00+00:00",
+      "score": 14,
+      "event_key": "xbox_game_pass_november_2026_wave_2_lineup",
+      "title_ru": "Новинки Xbox Game Pass: во второй волне ноября 2026 года",
+      "threads_teaser_ru": "Microsoft представила вторую волну игр для подписки Xbox Game Pass на ноябрь и начало декабря 2026 года. В каталог войдут самые разные проекты от приключений и головоломок до шутеров.",
+      "telegram_message_id": "2807",
+      "telegram_url": "https://t.me/gamepulse_newss/2807",
+      "telegram_published_at": "2026-11-17T17:02:51.688275+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XGP_ComingSoon171126_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-2b3ccff528820c96b6f9.jpg"
     }
   ],
-  "updated_at": "2026-11-17T16:47:25.911958+00:00"
+  "updated_at": "2026-11-17T17:02:51.688405+00:00"
 }
