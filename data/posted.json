@@ -20532,9 +20532,10 @@
       "telegram_message_id": "2783",
       "telegram_url": "https://t.me/gamepulse_newss/2783",
       "telegram_published_at": "2026-11-17T09:46:55.582938+00:00",
-      "threads_id": null,
-      "image_url": "https://sm.ign.com/t/ign_za/news/t/this-is-ak/this-is-akin-to-a-moon-landing-how-gamings-top-content-creat_fwy4.1200.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://sm.ign.com/t/ign_za/news/t/this-is-ak/this-is-akin-to-a-moon-landing-how-gamings-top-content-creat_fwy4.1200.jpg",
+      "threads_published_at": "2026-11-17T09:46:57.109830+00:00"
     }
   ],
-  "updated_at": "2026-11-17T09:46:55.583035+00:00"
+  "updated_at": "2026-11-17T09:46:57.109920+00:00"
 }
