@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "47dfdb754cd27cf08ad6bfb1",
-      "title": "Mass Effect 5 was aiming to offer a \"level of autonomy and choice\" that could vault it into orbit with Larian and CD Projekt's top RPGs, former dev says post-cancellation",
-      "url": "https://rockpapershotgun.com/mass-effect-5-was-aiming-to-offer-a-level-of-autonomy-and-choice-that-could-vault-it-into-orbit-with-larian-and-cd-projekts-top-rpgs-former-dev-says-post-cancellation",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-22T09:49:44+00:00",
-      "score": 12,
-      "event_key": "mass effect 5 development details after bioware closure",
-      "title_ru": "Бывший разработчик рассказал о целях закрытой игры Mass Effect 5",
-      "threads_teaser_ru": "Бывший разработчик отмененной Mass Effect 5 поделился подробностями о том, каким авторы видели продолжение серии до закрытия студии BioWare компанией Electronic Arts.",
-      "telegram_message_id": "1586",
-      "telegram_url": "https://t.me/gamepulse_newss/1586",
-      "telegram_published_at": "2026-10-22T10:46:52.897266+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-broshep.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T10:46:54.530305+00:00"
-    },
-    {
       "fingerprint": "f2e28b48dbb7fe89225d174e",
       "title": "'Regions Are Cheating and We Need to Address It' — Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
       "url": "https://ign.com/articles/wardogs-fans-upset-region-lock",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png?w=300",
       "threads_published_at": "2026-11-17T10:47:04.214872+00:00"
+    },
+    {
+      "fingerprint": "a5732fbecd1e1ef64f77ea3d",
+      "title": "Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim",
+      "url": "https://ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T10:26:26+00:00",
+      "score": 15,
+      "event_key": "sony-releases-ps5-firmware-update-before-gta-6",
+      "title_ru": "Sony выпустила новое обновление безопасности для PS5 накануне релиза GTA 6",
+      "threads_teaser_ru": "Sony выпустила новое обновление безопасности для PS5 накануне релиза GTA 6. Патч вышел на фоне активности хакеров и обсуждения вопросов защиты игр от пиратства.",
+      "telegram_message_id": "2787",
+      "telegram_url": "https://t.me/gamepulse_newss/2787",
+      "telegram_published_at": "2026-11-17T11:02:19.217924+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/vintage-vice-city-pack-exclusive-looks-05-1794910948115.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T10:47:04.214957+00:00"
+  "updated_at": "2026-11-17T11:02:19.218011+00:00"
 }
