@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1e911896e9fc77d2c8ee42db",
-      "title": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
-      "url": "https://rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-22T14:53:43+00:00",
-      "score": 14,
-      "event_key": "xbox mandate four days a week in office washington",
-      "title_ru": "Xbox ужесточает требования к работе в офисе для сотрудников в Вашингтоне",
-      "threads_teaser_ru": "Стало известно, что сотрудники Xbox рядом с штаб-квартирой Microsoft в Вашингтоне с февраля 2027 года будут обязаны посещать офис четыре дня в неделю вместо прежних трех.",
-      "telegram_message_id": "1602",
-      "telegram_url": "https://t.me/gamepulse_newss/1602",
-      "telegram_published_at": "2026-10-22T16:03:22.474778+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-ceo-activision-blizzard-deal-mixed-answer-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T16:03:25.040600+00:00"
-    },
-    {
       "fingerprint": "c449dbe6c3f8e642008ce12d",
       "title": "Superhero Workplace Comedy Hit 'Dispatch' Reveals Huge Update and New Platforms",
       "url": "https://polygon.com/dispatch-anniversary-new-modes-mobile-release",
@@ -20537,7 +20520,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/11/35ee932cfac0044b7c4d4d1d41f95533dd2f3202-scaled.jpg",
       "video_url": "https://stream.mux.com/w3S7NEANX00YiXha2MznwRJaAg45JmObF4VxwQcQklzE/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ3M1M3TkVBTlgwMFlpWGhhMk16bndSSmFBZzQ1Sm1PYkY0Vnh3UWNRa2x6RSIsImF1ZCI6InYiLCJleHAiOjE3OTQ5NzE1OTgsImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.Elmixzz1sJeX3Cusj_802L3nFKJZn9lffAHlSp5Um0nmxC5Ws3AIm3CLAMgL1IkmjLh5yT9IsqKu-zPIo77GkSynr1_LTkWuGZkeXRcGtA2h-khqRe-Vl-kHMUw3AQAGnskz5HcEY9W_xQCHhdIdejuK5hmn7KoqdDCy72l8mtx5WdE-NwOcWMAnJfh4wWgYBS-lPx30gCCbJjpk5y6KRtVPi2glHPOhR8xNZEM2PXZ7FhQCwosv6Vx_HXPcjtqA91bJbaReldTK4taANivhxPCiprbP_1WpSoSfU-187CEoSf9oQD9zXxhN7-q_8sCzAV7tFAXu2RWpvE9K3JVIfQ",
       "threads_published_at": "2026-11-17T15:17:30.037408+00:00"
+    },
+    {
+      "fingerprint": "3e4b3be8556d79d66992b818",
+      "title": "Exodus Reveals Female Protagonist and Voice Actor, Shown in New Trailer for Upcoming Mass Effect-Like RPG",
+      "url": "https://ign.com/articles/exodus-reveals-female-protagonist-and-voice-actor-shown-in-new-trailer-for-upcoming-mass-effect-like-rpg",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T15:45:52+00:00",
+      "score": 13,
+      "event_key": "Exodus reveals female protagonist Jun Aslan voice actor",
+      "title_ru": "В новом трейлере Exodus показали женскую версию главного героя и раскрыли актрису озвучивания",
+      "threads_teaser_ru": "Студия Archetype Entertainment представила новый трейлер RPG Exodus, где впервые показали женскую версию протагониста Jun Aslan. Её озвучила Carina Conti, тогда как за мужскую версию по-прежнему отвечает Stephen Oyoung. Выход игры ожидается 7 апреля 2027 года.",
+      "telegram_message_id": "2803",
+      "telegram_url": "https://t.me/gamepulse_newss/2803",
+      "telegram_published_at": "2026-11-17T16:02:59.636480+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/female-jun-1-1794928969400.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T15:17:30.037527+00:00"
+  "updated_at": "2026-11-17T16:02:59.636570+00:00"
 }
