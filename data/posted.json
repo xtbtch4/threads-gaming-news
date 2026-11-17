@@ -20533,9 +20533,10 @@
       "telegram_message_id": "2808",
       "telegram_url": "https://t.me/gamepulse_newss/2808",
       "telegram_published_at": "2026-11-17T17:32:37.608151+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/xcom-enemy-unknown-hq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/xcom-enemy-unknown-hq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-17T17:32:39.166415+00:00"
     }
   ],
-  "updated_at": "2026-11-17T17:32:37.608248+00:00"
+  "updated_at": "2026-11-17T17:32:39.166528+00:00"
 }
