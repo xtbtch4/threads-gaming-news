@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a9880d8fbef694cf686b9702",
-      "title": "First GTA 6 TV Commercial Strips Out Steamy Shower Scenes, but Shows More of Lucia's Fancy Hair Tech",
-      "url": "https://ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T13:40:42+00:00",
-      "score": 15,
-      "event_key": "first_gta_6_tv_commercial_broadcast",
-      "title_ru": "Вышел первый телевизионный ролик GTA 6",
-      "threads_teaser_ru": "Первый ТВ-ролик GTA 6 на телевидении показал измененные кадры из трейлера: сцены в душе вырезали, а моменты с самолетом и главными героями продлили. Упоминание Xbox исчезло из-за сделки с PlayStation.",
-      "telegram_message_id": "1597",
-      "telegram_url": "https://t.me/gamepulse_newss/1597",
-      "telegram_published_at": "2026-10-22T14:02:29.998799+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/screenshot-2026-10-22-143504-1792676168085.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T14:02:31.730337+00:00"
-    },
-    {
       "fingerprint": "de35dd9979a031f0a67cabb3",
       "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
       "url": "https://eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
@@ -20535,7 +20518,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T14:02:40.909246+00:00"
+    },
+    {
+      "fingerprint": "ccde74890be2e84ddd093b44",
+      "title": "First details on MLB The Show 27",
+      "url": "https://blog.playstation.com/2026/11/17/first-details-on-mlb-the-show-27",
+      "source": "PlayStation Blog",
+      "published_at_source": "2026-11-17T14:00:23+00:00",
+      "score": 10,
+      "event_key": "San Diego Studio announces Tech Test return for MLB The Show 27",
+      "title_ru": "Первые детали MLB The Show 27 и возвращение Tech Test",
+      "threads_teaser_ru": "San Diego Studio анонсировала возвращение Tech Test для предстоящей MLB The Show 27. Кроме того, в актуальной MLB The Show 26 снова появились наборы Now & Later, позволяющие получить бонусы на старте следующей части серии.",
+      "telegram_message_id": "2798",
+      "telegram_url": "https://t.me/gamepulse_newss/2798",
+      "telegram_published_at": "2026-11-17T14:17:00.478648+00:00",
+      "threads_id": null,
+      "image_url": "https://blog.playstation.com/tachyon/2048/11/b629a310e4bac8288f76e56b99624cb57b67037e-scaled.jpg",
+      "video_url": "https://stream.mux.com/fFUXyGXK602W00fpkZ2wYEqwizKzLKUXHdCMqSPbB98Dg/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmRlVYeUdYSzYwMlcwMGZwa1oyd1lFcXdpekt6TEtVWEhkQ01xU1BiQjk4RGciLCJhdWQiOiJ2IiwiZXhwIjoxNzk0OTY4MTg1LCJraWQiOiI0TDV5T2NqclYxTlVxVnpjVXZKQm4xd1RtNGVUR0c5TWgwMjAxWWs1anU5TkEifQ.mDS0KdofuXQ0X_y0uIsuUgTVxKQdX2w1ZPaNkcVZRGmisZw5JoK8xOpsCXWGKc4ze4IK_3i59DqAHFBMMDbeUm4nJ9U5z7Kh62L62TMEaAslbVcXmHD6r78pFDmkQKbB4QCaTX9lZ4xrYNOpUq0DzgZVrPeWMe3UdAnSbTgfylB8acquaqGSRc6k9X63P13lOjGZpc8IGXi0kLXws6xWlcuFUqtwY8frYNxYy-DAayjXziofatx0bmkRJdxn-OEACDri_yxH-vZBx43A6ycvnTll65JZWI2C_i3WYYM7G26q94uUGrlNQ-eZ-Hu8dgYdlv0YEjTXhlzMRSj7udcHug"
     }
   ],
-  "updated_at": "2026-11-17T14:02:40.909336+00:00"
+  "updated_at": "2026-11-17T14:17:00.478765+00:00"
 }
