@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f2e28b48dbb7fe89225d174e",
-      "title": "'Regions Are Cheating and We Need to Address It' — Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
-      "url": "https://ign.com/articles/wardogs-fans-upset-region-lock",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T10:38:21+00:00",
-      "score": 9,
-      "event_key": "wardogs developer implements region locking ping limit",
-      "title_ru": "Разработчики Wardogs объяснили введение региональных ограничений",
-      "threads_teaser_ru": "Введение региональных ограничений в Wardogs через ограничение пинга вызвало волну критики и требования возврата средств от игроков, не имеющих возможности играть с друзьями.",
-      "telegram_message_id": "1587",
-      "telegram_url": "https://t.me/gamepulse_newss/1587",
-      "telegram_published_at": "2026-10-22T11:02:45.211079+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/03/04/wardogs-blog-1772625638529.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T11:02:46.733266+00:00"
-    },
-    {
       "fingerprint": "35015042941e33d9e9e6af2a",
       "title": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
       "url": "https://ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/vintage-vice-city-pack-exclusive-looks-05-1794910948115.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T11:02:20.837476+00:00"
+    },
+    {
+      "fingerprint": "08e7f5856c8baa07423fe3db",
+      "title": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+      "url": "https://rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T10:27:30+00:00",
+      "score": 8,
+      "event_key": "judge denies dismissal of RAM price fixing lawsuit Samsung Micron SK Hynix",
+      "title_ru": "Суд отклонил ходатайство Samsung, SK Hynix и Micron о прекращении дела о ценовом сговоре",
+      "threads_teaser_ru": "Судебная тяжба против Samsung, SK Hynix и Micron продолжается: иск о ценовом сговоре на рынке RAM не был отклонен. Судья использовала необычную аналогию с поведением ястребов, чтобы описать возможные согласованные действия компаний.",
+      "telegram_message_id": "2788",
+      "telegram_url": "https://t.me/gamepulse_newss/2788",
+      "telegram_published_at": "2026-11-17T11:17:16.186205+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ram-stick-pile-resized-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T11:02:20.837560+00:00"
+  "updated_at": "2026-11-17T11:17:16.186294+00:00"
 }
