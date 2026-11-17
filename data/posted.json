@@ -20533,9 +20533,10 @@
       "telegram_message_id": "2814",
       "telegram_url": "https://t.me/gamepulse_newss/2814",
       "telegram_published_at": "2026-11-17T20:17:44.979656+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/15/civilization7thegaulstourtrailer-ign-blogroll-1789485779044.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/15/civilization7thegaulstourtrailer-ign-blogroll-1789485779044.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-17T20:17:46.489947+00:00"
     }
   ],
-  "updated_at": "2026-11-17T20:17:44.979755+00:00"
+  "updated_at": "2026-11-17T20:17:46.490039+00:00"
 }
