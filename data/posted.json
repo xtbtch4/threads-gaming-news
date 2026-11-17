@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3fa3a67fb93b7ee57f1b6812",
-      "title": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play",
-      "url": "https://rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-22T17:45:41+00:00",
-      "score": 14,
-      "event_key": "internal-mass-effect-trailer-leaked-after-bioware-shutdown",
-      "title_ru": "Утек внутренний трейлер отмененной Mass Effect",
-      "threads_teaser_ru": "Спустя день после закрытия BioWare и отмены новой Mass Effect в сети опубликовали внутренний трейлер невышедшей игры. В ролике показали геймплейные наметки, название Mass Effect Universe и постаревшую Liara T'Soni.",
-      "telegram_message_id": "1608",
-      "telegram_url": "https://t.me/gamepulse_newss/1608",
-      "telegram_published_at": "2026-10-22T18:02:25.840186+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-5-liara.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T18:02:28.277003+00:00"
-    },
-    {
       "fingerprint": "c4d4412c57946a4d3970405d",
       "title": "EA Could Sell BioWare’s IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says",
       "url": "https://gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/xcom-enemy-unknown-hq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T17:32:39.166415+00:00"
+    },
+    {
+      "fingerprint": "ba2b6b0aaee5d79f6847239c",
+      "title": "Critical Role's Newest Campaign Officially Gets a Release Date and Cast Announcement",
+      "url": "https://polygon.com/critical-role-new-campaign-reign-of-the-weredragon-chris-perkins-release-date",
+      "source": "Polygon",
+      "published_at_source": "2026-11-17T17:00:20+00:00",
+      "score": 11,
+      "event_key": "critical-role-reign-of-the-weredragon-release-date",
+      "title_ru": "Critical Role анонсировала дату выхода мини-сериала Reign of the Weredragon",
+      "threads_teaser_ru": "Critical Role назвала дату премьеры мини-сериала Reign of the Weredragon по Daggerheart. Мастером игры выступит Крис Перкинс, а действие развернется в темном фэнтезийном мире Whelvia.",
+      "telegram_message_id": "2809",
+      "telegram_url": "https://t.me/gamepulse_newss/2809",
+      "telegram_published_at": "2026-11-17T17:47:14.008090+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Chris-Perkins-and-Jeremy-Crawford-join-Critical-Role.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-17T17:32:39.166528+00:00"
+  "updated_at": "2026-11-17T17:47:14.008175+00:00"
 }
