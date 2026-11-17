@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2600d04876f76339a260d9e7",
-      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-      "url": "https://ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
-      "source": "IGN",
-      "published_at_source": "2026-10-21T23:15:44+00:00",
-      "score": 10,
-      "event_key": "GTA 6 real life Burger Shot opening in Miami",
-      "title_ru": "В Майами открывается реальный Burger Shot из серии GTA",
-      "threads_teaser_ru": "Перед релизом GTA 6 компания Rockstar Games продолжает масштабную рекламную кампанию в Майами. На арене Kaseya Center открылся реальный Burger Shot, а баскетбольная команда Miami Heat проведет тематический матч в специальной форме.",
-      "telegram_message_id": "1572",
-      "telegram_url": "https://t.me/gamepulse_newss/1572",
-      "telegram_published_at": "2026-10-22T06:47:45.781075+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/burger-shot-1792623074820.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T06:47:47.306747+00:00"
-    },
-    {
       "fingerprint": "66e5049c51a90f8aa43b6732",
       "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
       "url": "https://eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/16/lucia-subway-1794871549836.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T00:17:05.253630+00:00"
+    },
+    {
+      "fingerprint": "ed303bd1663cc36545c99cc2",
+      "title": "UK Conservative leader Kemi Badenoch is more worried \"about the amount of time\" people will spend on GTA 6 than the game's violent content",
+      "url": "https://eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-16T17:48:40+00:00",
+      "score": 10,
+      "event_key": "UK Conservative leader comments on GTA 6 release time concerns",
+      "title_ru": "Лидер Консервативной партии Великобритании высказалась о GTA 6",
+      "threads_teaser_ru": "Лидер Консервативной партии Великобритании Кеми Баденок прокомментировала скорый выход GTA 6. Вместо обсуждения жестокости игры, она выразила опасения по поводу того, сколько времени игроки будут проводить за экраном.",
+      "telegram_message_id": "2773",
+      "telegram_url": "https://t.me/gamepulse_newss/2773",
+      "telegram_published_at": "2026-11-17T00:33:15.280078+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/nz-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T00:17:05.253731+00:00"
+  "updated_at": "2026-11-17T00:33:15.280186+00:00"
 }
