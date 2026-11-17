@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3bb4e030048f0e69b631af58",
-      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
-      "url": "https://eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-22T17:00:49+00:00",
-      "score": 11,
-      "event_key": "masahiro-sakurai-generative-ai-unoriginal-games",
-      "title_ru": "Масахиро Сакураи высказался о влиянии генеративного ИИ на видеоигры",
-      "threads_teaser_ru": "Масахиро Сакураи считает, что генеративный ИИ вызовет волну неоригинальных игр и массового контента низкого качества, однако подлинное человеческое творчество повторить невозможно.",
-      "telegram_message_id": "1613",
-      "telegram_url": "https://t.me/gamepulse_newss/1613",
-      "telegram_published_at": "2026-10-22T19:16:54.326619+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T19:16:56.619258+00:00"
-    },
-    {
       "fingerprint": "da2dd3c6b7c941bb6ac4b252",
       "title": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
       "url": "https://gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/mondrayn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T20:02:51.793169+00:00"
+    },
+    {
+      "fingerprint": "26d8e224bf1b383e5c6c2154",
+      "title": "'These Decisions Are Never Easy' — Civilization Developer Firaxis Lays Off One Third of Its Workforce",
+      "url": "https://ign.com/articles/firaxis-lays-off-one-third-of-its-workforce",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T18:45:18+00:00",
+      "score": 9,
+      "event_key": "Firaxis Games lays off one third of workforce",
+      "title_ru": "Firaxis Games сокращает около трети штата",
+      "threads_teaser_ru": "Firaxis Games проводит массовые сокращения: студию покинет около трети сотрудников, включая главу компании. Разработчики Civilization и XCOM реструктуризируют команду, чтобы сосредоточиться на своих ключевых компетенциях в жанре стратегий.",
+      "telegram_message_id": "2814",
+      "telegram_url": "https://t.me/gamepulse_newss/2814",
+      "telegram_published_at": "2026-11-17T20:17:44.979656+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/15/civilization7thegaulstourtrailer-ign-blogroll-1789485779044.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T20:02:51.793254+00:00"
+  "updated_at": "2026-11-17T20:17:44.979755+00:00"
 }
