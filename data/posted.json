@@ -20532,9 +20532,10 @@
       "telegram_message_id": "2780",
       "telegram_url": "https://t.me/gamepulse_newss/2780",
       "telegram_published_at": "2026-11-17T09:02:56.403953+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Project-Helix-logo-and-name-written-in-white-on-a-black-background.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Project-Helix-logo-and-name-written-in-white-on-a-black-background.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-17T09:02:57.916671+00:00"
     }
   ],
-  "updated_at": "2026-11-17T09:02:56.404067+00:00"
+  "updated_at": "2026-11-17T09:02:57.916788+00:00"
 }
