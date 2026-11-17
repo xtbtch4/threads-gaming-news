@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e312a84df2922cfa6670ed39",
-      "title": "Everything We Know About the PS6, Sony’s Next-Gen Console",
-      "url": "https://polygon.com/ps6-playstation-6-release-date-price",
-      "source": "Polygon",
-      "published_at_source": "2026-10-22T20:12:31+00:00",
-      "score": 14,
-      "event_key": "playstation-6-price-release-date-details",
-      "title_ru": "Что известно о консоли PlayStation 6",
-      "threads_teaser_ru": "Появились новые подробности о PlayStation 6: консоль может стоить от $1000, а ее релиз из-за дефицита памяти сдвигается на 2028 или 2029 год. Узнайте главные факты о ценах, производстве и планах Sony.",
-      "telegram_message_id": "1617",
-      "telegram_url": "https://t.me/gamepulse_newss/1617",
-      "telegram_published_at": "2026-10-22T20:17:07.191050+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pio-episode-2-final-1788303679.mp4",
-      "threads_published_at": "2026-10-22T20:17:08.491626+00:00"
-    },
-    {
       "fingerprint": "8f6146094f43527df94655fc",
       "title": "EA Has A New Plan For Madden, And It Leans Into Everything The Company Gets Wrong",
       "url": "https://gamespot.com/articles/ea-project-gridiron-open-world-football-leans-into-everything-the-company-gets-wrong",
@@ -20536,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/pspulseexploreblack-1794947790301.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T21:02:43.314675+00:00"
+    },
+    {
+      "fingerprint": "0fd0b25e25413bbbd8d6ec24",
+      "title": "World of Fallout Exhibit at the Las Vegas Atomic Museum Expands – and It’s Full of Easter Eggs for Fans",
+      "url": "https://news.xbox.com/en-us/2026/11/17/world-of-fallout-expansion",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-17T21:10:49+00:00",
+      "score": 12,
+      "event_key": "world of fallout exhibit expands las vegas atomic museum",
+      "title_ru": "Выставка World of Fallout в Лас-Вегасе увеличилась вдвое",
+      "threads_teaser_ru": "Экспозиция World of Fallout в музее Лас-Вегаса увеличилась вдвое благодаря двум новым галереям. Посетителей ждут робот Mister Handy, костюмы из сериала Fallout, интерактивный Overseer’s Desk и множество пасхалок.",
+      "telegram_message_id": "2818",
+      "telegram_url": "https://t.me/gamepulse_newss/2818",
+      "telegram_published_at": "2026-11-17T21:17:04.283795+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/world-of-fallout-prepare-for-the-future_55651439266_o-b9c32d7a0950a13cc7c7.jpg"
     }
   ],
-  "updated_at": "2026-11-17T21:02:43.314781+00:00"
+  "updated_at": "2026-11-17T21:17:04.283900+00:00"
 }
