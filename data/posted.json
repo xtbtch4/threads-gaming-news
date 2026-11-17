@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d032c8314c6c10752c59f01c",
-      "title": "The Power of PEAK Friendship, Coming to XBOX Today",
-      "url": "https://news.xbox.com/en-us/2026/10/22/peak-friendship-coming-to-xbox-today",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-22T17:00:00+00:00",
-      "score": 12,
-      "event_key": "peak_released_on_xbox_series_xs",
-      "title_ru": "Кооперативная игра PEAK вышла на Xbox Series X|S",
-      "threads_teaser_ru": "Кооперативная игра PEAK от студий Aggro Crab и Landfall сегодня вышла на Xbox Series X|S. Проект поддерживает кроссплей и включает все актуальные обновления контента.",
-      "telegram_message_id": "1610",
-      "telegram_url": "https://t.me/gamepulse_newss/1610",
-      "telegram_published_at": "2026-10-22T18:32:19.158561+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/PEAK_KeyArt-2e3692d877241a51244b.jpg",
-      "threads_published_at": "2026-10-22T18:32:22.202088+00:00"
-    },
-    {
       "fingerprint": "f9ea4476632ebc7aa4b9ea2b",
       "title": "Seth Rogen and Brad Bird Lead 2026 Infinity Festival Lineup",
       "url": "https://ign.com/articles/seth-rogen-brad-bird-infinity-festival",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-17T18:17:06.690871+00:00"
+    },
+    {
+      "fingerprint": "d2dd0a9359d0d5dd2e9960a3",
+      "title": "Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce",
+      "url": "https://ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T16:23:12+00:00",
+      "score": 11,
+      "event_key": "mcdonalds home alone collaboration with macaulay culkin",
+      "title_ru": "McDonald's запустит коллаборацию с Home Alone: в рекламе снялся Macaulay Culkin",
+      "threads_teaser_ru": "Macaulay Culkin вернулся к образу Kevin для новой коллаборации McDonald's и Home Alone. В меню появятся пицца-закуски, специальный соус и коллекционные носки, а за покупки будут дарить доступы к Disney+.",
+      "telegram_message_id": "2811",
+      "telegram_url": "https://t.me/gamepulse_newss/2811",
+      "telegram_published_at": "2026-11-17T18:32:38.681505+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/mcdonaldshomealone-1794931412510.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T18:17:06.690984+00:00"
+  "updated_at": "2026-11-17T18:32:38.681603+00:00"
 }
