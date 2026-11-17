@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a6ff23c6ffeeebcb0bcdafb6",
-      "title": "Street Fighter Was Never Going to Be a Dark, Grounded Batman Begins-Style Movie, Director Insists — the Studio Wanted Silliness and Absurdity",
-      "url": "https://ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T09:33:48+00:00",
-      "score": 9,
-      "event_key": "Street Fighter director discusses film tone and studio vision",
-      "title_ru": "Режиссер Street Fighter объяснил выбор абсурдного стиля фильма",
-      "threads_teaser_ru": "Режиссер экранизации Street Fighter ответил критикам тона фильма. Почему студия Legendary настояла на абсурдном стиле и отказалась от мрачной атмосферы в духе Batman Begins, а также каковы шансы на сиквел — рассказываем в новом посте.",
-      "telegram_message_id": "1583",
-      "telegram_url": "https://t.me/gamepulse_newss/1583",
-      "telegram_published_at": "2026-10-22T10:02:23.133537+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/street-fighter-ending-explained-thumb-1792186722001.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T10:02:24.523109+00:00"
-    },
-    {
       "fingerprint": "e36697007779b9eb2d036bf8",
       "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
       "url": "https://eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://sm.ign.com/t/ign_za/news/t/this-is-ak/this-is-akin-to-a-moon-landing-how-gamings-top-content-creat_fwy4.1200.jpg",
       "threads_published_at": "2026-11-17T09:46:57.109830+00:00"
+    },
+    {
+      "fingerprint": "e082c1e797949de98c98866e",
+      "title": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?",
+      "url": "https://eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-17T10:11:00+00:00",
+      "score": 13,
+      "event_key": "returning to grand theft auto san andreas while waiting for gta 6",
+      "title_ru": "Возвращение в Grand Theft Auto: San Andreas на фоне ожидания GTA 6",
+      "threads_teaser_ru": "Возвращение в Grand Theft Auto: San Andreas в ожидании GTA 6 позволяет по-новому взглянуть на масштаб и уникальную эстетику классической игры спустя почти 20 лет.",
+      "telegram_message_id": "2784",
+      "telegram_url": "https://t.me/gamepulse_newss/2784",
+      "telegram_published_at": "2026-11-17T10:16:52.971894+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-san-andreas-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T09:46:57.109920+00:00"
+  "updated_at": "2026-11-17T10:16:52.971981+00:00"
 }
