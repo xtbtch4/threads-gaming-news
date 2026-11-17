@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "df308d07cd441ae2a6d9ce58",
-      "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
-      "url": "https://gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-22T12:09:00+00:00",
-      "score": 12,
-      "event_key": "blizzard keeps secrets for world of warcraft forever launch",
-      "title_ru": "Blizzard скрывает секреты World of Warcraft: Forever до релиза",
-      "threads_teaser_ru": "Участники беты World of Warcraft: Forever изучили игру вдоль и поперек, но разработчики припасли немало сюрпризов для релиза и последующих обновлений.",
-      "telegram_message_id": "1616",
-      "telegram_url": "https://t.me/gamepulse_newss/1616",
-      "telegram_published_at": "2026-10-22T20:02:24.624532+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-22T20:02:26.194758+00:00"
-    },
-    {
       "fingerprint": "e312a84df2922cfa6670ed39",
       "title": "Everything We Know About the PS6, Sony’s Next-Gen Console",
       "url": "https://polygon.com/ps6-playstation-6-release-date-price",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/hand-1794940265358.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T20:47:19.810088+00:00"
+    },
+    {
+      "fingerprint": "a8fff12c5a0df4771a2551a7",
+      "title": "Save 40% Off the PlayStation Pulse Explore Planar Magnetic Gaming Earbuds for Black Friday",
+      "url": "https://ign.com/articles/sony-pulse-playstation-gaming-earbuds-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T21:00:00+00:00",
+      "score": 13,
+      "event_key": "playstation-pulse-explore-earbuds-black-friday-discount-2026",
+      "title_ru": "Скидка 40% на беспроводные наушники PlayStation Pulse Explore в рамках распродажи Black Friday",
+      "threads_teaser_ru": "Amazon снизил цену на беспроводные наушники PlayStation Pulse Explore на 40% в рамках распродажи Black Friday. Устройство с планарными магнитными драйверами доступно за 119 долларов США.",
+      "telegram_message_id": "2817",
+      "telegram_url": "https://t.me/gamepulse_newss/2817",
+      "telegram_published_at": "2026-11-17T21:02:41.533958+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/pspulseexploreblack-1794947790301.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T20:47:19.810190+00:00"
+  "updated_at": "2026-11-17T21:02:41.534054+00:00"
 }
