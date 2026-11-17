@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "715d811895119dcc766ef975",
-      "title": "PlayStation Store: September 2026’s top downloads",
-      "url": "https://blog.playstation.com/2026/10/22/playstation-store-september-2026s-top-downloads",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-22T13:00:25+00:00",
-      "score": 14,
-      "event_key": "playstation-store-september-2026-top-downloads",
-      "title_ru": "Самые загружаемые игры в PlayStation Store за сентябрь 2026 года",
-      "threads_teaser_ru": "Опубликованы итоги загрузок в PlayStation Store за сентябрь 2026 года для консолей PS5, PS4, PS VR2 и free-to-play игр. Узнайте, какие проекты стали самыми популярными в США и Европе.",
-      "telegram_message_id": "1595",
-      "telegram_url": "https://t.me/gamepulse_newss/1595",
-      "telegram_published_at": "2026-10-22T13:17:12.416144+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/10/f75309229638ec507a024680d726688a0be74bcd.jpg",
-      "threads_published_at": "2026-10-22T13:17:13.824016+00:00"
-    },
-    {
       "fingerprint": "ba3a1c80af025e4dc03662df",
       "title": "DevGAMM Awards 2026 Reveals 70 Nominated Games For Its 3rd Annual Show: See the Full List",
       "url": "https://ign.com/articles/devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show-see-the-full-list",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jason_duval_07.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-17T13:32:42.611720+00:00"
+    },
+    {
+      "fingerprint": "dacb9b731ff918174bf63d6a",
+      "title": "Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out",
+      "url": "https://eurogamer.net/call-of-duty-medieval-prototype-infinity-ward",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-17T12:49:20+00:00",
+      "score": 11,
+      "event_key": "Infinity Ward prototyped medieval Call of Duty game",
+      "title_ru": "Infinity Ward экспериментировала с прототипом Call of Duty в сеттинге средневековья",
+      "threads_teaser_ru": "Infinity Ward когда-то создавала прототип Call of Duty про рыцарей и мечи. Разработчики исследовали возможность смены военного сеттинга на средневековье, но игра так и не увидела свет.",
+      "telegram_message_id": "2796",
+      "telegram_url": "https://t.me/gamepulse_newss/2796",
+      "telegram_published_at": "2026-11-17T13:47:42.157016+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-2019-gameplay-shot-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T13:32:42.611806+00:00"
+  "updated_at": "2026-11-17T13:47:42.157132+00:00"
 }
