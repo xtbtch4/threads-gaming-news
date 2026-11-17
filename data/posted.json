@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f607291a8f228034730e0c9b",
-      "title": "Before There Was Heated Rivalry, There Was Yuri!!! On Ice",
-      "url": "https://ign.com/articles/before-there-was-heated-rivalry-there-was-yuri-on-ice",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T12:00:00+00:00",
-      "score": 9,
-      "event_key": "yuri on ice anime tenth anniversary retrospective",
-      "title_ru": "Влияние Yuri!!! On Ice спустя десять лет после премьеры",
-      "threads_teaser_ru": "Спустя десять лет после выхода финала Yuri!!! On Ice вспоминаем, как спортивное аниме о фигурном катании изменило восприятие квир-представления в медиа и вызвало рекордный ажиотаж.",
-      "telegram_message_id": "1591",
-      "telegram_url": "https://t.me/gamepulse_newss/1591",
-      "telegram_published_at": "2026-10-22T12:02:27.991998+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets1.ignimgs.com/2018/02/09/yuri-on-ice-1518202460746.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T12:02:29.535078+00:00"
-    },
-    {
       "fingerprint": "ed8a2fa2c7edea2b7b40f022",
       "title": "Tomb Raider: Legacy of Atlantis – the evolution of Lara Croft’s design",
       "url": "https://blog.playstation.com/2026/10/22/tomb-raider-legacy-of-atlantis-the-evolution-of-lara-crofts-design",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Final-Fantasy-XIV-Evercold.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T12:02:41.809774+00:00"
+    },
+    {
+      "fingerprint": "733c2c41a414388e3101ada8",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Is Already Running Rampant on PC — but Can Nintendo Do Anything About It?",
+      "url": "https://ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T11:23:51+00:00",
+      "score": 11,
+      "event_key": "The Legend of Zelda: Ocarina of Time remake PC port legality",
+      "title_ru": "Ремейк The Legend of Zelda: Ocarina of Time уже работает на PC: юридические перспективы борьбы Nintendo",
+      "threads_teaser_ru": "Ремейк The Legend of Zelda: Ocarina of Time уже запустили на PC через эмуляторы и инструменты рекомпиляции. Юристы обсуждают, сможет ли Nintendo заблокировать этот софт, учитывая прецеденты легальности эмуляции и строгие законы о защите авторских прав (DMCA).",
+      "telegram_message_id": "2792",
+      "telegram_url": "https://t.me/gamepulse_newss/2792",
+      "telegram_published_at": "2026-11-17T12:17:23.962873+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/thelegendofzeldaocarinaoftime-48-1794914142571.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T12:02:41.809878+00:00"
+  "updated_at": "2026-11-17T12:17:23.962974+00:00"
 }
