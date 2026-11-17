@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "da2dd3c6b7c941bb6ac4b252",
-      "title": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
-      "url": "https://gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-22T19:02:15+00:00",
-      "score": 15,
-      "event_key": "valve employee mentions hlx project at game sound con",
-      "title_ru": "Упоминание проекта HLX сотрудником Valve вызвало слухи о Half-Life 3",
-      "threads_teaser_ru": "Выступление звукового дизайнера Valve на мероприятии Game Sound Con породило новую волну слухов о разработке продолжения культовой серии. Во время рассказа об аудиосистемах он упомянул загадочный проект \"HLX\".",
-      "telegram_message_id": "1614",
-      "telegram_url": "https://t.me/gamepulse_newss/1614",
-      "telegram_published_at": "2026-10-22T19:32:03.241835+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/HL.jpg?w=300",
-      "threads_published_at": "2026-10-22T19:32:04.555864+00:00"
-    },
-    {
       "fingerprint": "e32122f9e46b4f1441b74c09",
       "title": "Soccer Star Erling Haaland Is A Call Of Duty Camper, And I Really Hate It",
       "url": "https://gamespot.com/articles/soccer-star-erling-haaland-is-a-call-of-duty-camper-and-i-really-hate-it",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/09/15/civilization7thegaulstourtrailer-ign-blogroll-1789485779044.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T20:17:46.489947+00:00"
+    },
+    {
+      "fingerprint": "1ac4e83915d5d0c43226744d",
+      "title": "Civilization Dev Lays Off 1/3 Of Staff, New XCOM Game Facing “Development Struggles” – Report",
+      "url": "https://gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-17T20:05:42+00:00",
+      "score": 15,
+      "event_key": "Firaxis Games layoffs and XCOM development struggles",
+      "title_ru": "Firaxis Games сокращает треть штата на фоне проблем с разработкой новой игры",
+      "threads_teaser_ru": "Студия Firaxis Games увольняет треть сотрудников. В компании также сменится руководство: пост главы покидает Хизер Хейзен. Разработка новой игры во вселенной XCOM продолжается, несмотря на внутренние проблемы, возникшие прошлым летом.",
+      "telegram_message_id": "2815",
+      "telegram_url": "https://t.me/gamepulse_newss/2815",
+      "telegram_published_at": "2026-11-17T20:33:03.685791+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/civ7.png?w=300"
     }
   ],
-  "updated_at": "2026-11-17T20:17:46.490039+00:00"
+  "updated_at": "2026-11-17T20:33:03.685876+00:00"
 }
