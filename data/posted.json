@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "66e5049c51a90f8aa43b6732",
-      "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
-      "url": "https://eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-21T14:13:43+00:00",
-      "score": 13,
-      "event_key": "AMD FSR 4.1 integration on Xbox and handhelds",
-      "title_ru": "AMD FSR 4.1 появится на Xbox Series X/S и портативных консолях",
-      "threads_teaser_ru": "AMD внедряет технологию масштабирования FSR 4.1 на Xbox Series X, Series S и портативные консоли ROG Ally и Ally X. Это обновление призвано повысить качество изображения и производительность игр за счет алгоритмов машинного обучения. Подробности внутри.",
-      "telegram_message_id": "1573",
-      "telegram_url": "https://t.me/gamepulse_newss/1573",
-      "telegram_published_at": "2026-10-22T07:03:09.609204+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T07:03:10.974632+00:00"
-    },
-    {
       "fingerprint": "4bf5f28cc4cd501a48421d0b",
       "title": "PlayStation Indies: 9 must-play horror games for the spooky season",
       "url": "https://blog.playstation.com/2026/10/21/playstation-indies-9-must-play-horror-games-for-the-spooky-season",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/nz-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T00:33:16.792737+00:00"
+    },
+    {
+      "fingerprint": "ea7c9207f1d149bc76a528b2",
+      "title": "Spider-Man: Brand New Day Re-Release With New Footage Sets December Release Date, Tickets on Sale This Week",
+      "url": "https://ign.com/articles/spider-man-brand-new-day-re-release-with-new-footage-sets-december-release-date-tickets-on-sale-this-week",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T00:18:08+00:00",
+      "score": 12,
+      "event_key": "Spider-Man: Brand New Day theatrical re-release announcement",
+      "title_ru": "Spider-Man: Brand New Day возвращается в кинотеатры с дополнительными сценами",
+      "threads_teaser_ru": "Marvel Studios выпускает в прокат расширенную версию фильма Spider-Man: Brand New Day. Зрителей ждут новые сцены и дополнительные сюрпризы, а билеты поступят в продажу уже в этот четверг.",
+      "telegram_message_id": "2774",
+      "telegram_url": "https://t.me/gamepulse_newss/2774",
+      "telegram_published_at": "2026-11-17T01:02:59.983126+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/spider-man-brand-new-day-re-release-1794874181762.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T00:33:16.792832+00:00"
+  "updated_at": "2026-11-17T01:02:59.983201+00:00"
 }
