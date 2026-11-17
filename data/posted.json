@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ed8a2fa2c7edea2b7b40f022",
-      "title": "Tomb Raider: Legacy of Atlantis – the evolution of Lara Croft’s design",
-      "url": "https://blog.playstation.com/2026/10/22/tomb-raider-legacy-of-atlantis-the-evolution-of-lara-crofts-design",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-22T11:59:38+00:00",
-      "score": 10,
-      "event_key": "tomb_raider_legacy_of_atlantis_lara_croft_design_evolution",
-      "title_ru": "Эволюция дизайна Lara Croft в Tomb Raider: Legacy of Atlantis",
-      "threads_teaser_ru": "Crystal Dynamics и Flying Wild Hog показали, как создавался современный образ Lara Croft для Tomb Raider: Legacy of Atlantis. Разработчики использовали сканирование реальной одежды и технологии Unreal.",
-      "telegram_message_id": "1592",
-      "telegram_url": "https://t.me/gamepulse_newss/1592",
-      "telegram_published_at": "2026-10-22T12:17:09.634318+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/10/1fb9385643e941ef863c7ba971014601f52f5e15.png",
-      "threads_published_at": "2026-10-22T12:17:11.305403+00:00"
-    },
-    {
       "fingerprint": "91df4e7b520972d3c8f9aadf",
       "title": "Playasia Store Pulled Offline After Weeks of 'Increasingly Sophisticated and Relentless Attacks'",
       "url": "https://ign.com/articles/playasia-store-taken-offline-relentless-attacks",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/thelegendofzeldaocarinaoftime-48-1794914142571.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T12:17:25.464564+00:00"
+    },
+    {
+      "fingerprint": "02be8ae1d96fa3d2d172bad7",
+      "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
+      "url": "https://eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-17T12:27:00+00:00",
+      "score": 11,
+      "event_key": "Yasunori Mitsuda suggests retiring Dragon Quest series",
+      "title_ru": "Композитор Chrono Trigger предложил завершить серию Dragon Quest",
+      "threads_teaser_ru": "Композитор Chrono Trigger и соратник Akira Toriyama, Yasunori Mitsuda, считает, что франшизу Dragon Quest пора завершить. Он призвал Yuji Horii создать новый RPG-проект вместо попыток копировать стиль покойного художника в новых мобильных играх.",
+      "telegram_message_id": "2793",
+      "telegram_url": "https://t.me/gamepulse_newss/2793",
+      "telegram_published_at": "2026-11-17T12:47:23.730280+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Dragon-Quest-old-new.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T12:17:25.464654+00:00"
+  "updated_at": "2026-11-17T12:47:23.730401+00:00"
 }
