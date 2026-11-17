@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e36697007779b9eb2d036bf8",
-      "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
-      "url": "https://eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-22T08:40:15+00:00",
-      "score": 9,
-      "event_key": "DICE and Respawn reportedly developing new Star Wars: Battlefront game",
-      "title_ru": "Star Wars: Battlefront 3 якобы находится в разработке у студий DICE и Respawn",
-      "threads_teaser_ru": "Студии DICE и Respawn, известные по Battlefield и Apex Legends, якобы работают над новой игрой серии Star Wars: Battlefront. Это подтверждается данными нескольких источников и служебной запиской руководства EA, хотя официально детали проекта пока не раскрыты.",
-      "telegram_message_id": "1584",
-      "telegram_url": "https://t.me/gamepulse_newss/1584",
-      "telegram_published_at": "2026-10-22T10:17:23.213977+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T10:17:24.648543+00:00"
-    },
-    {
       "fingerprint": "68c809ce7f17a1b9f43f622f",
       "title": "From the Anime to the Game — Free Update Brings Edgerunners 2 Content and More to Cyberpunk 2077!",
       "url": "https://news.xbox.com/en-us/2026/10/22/cyberpunk-2077-edgerunners-2-update",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-san-andreas-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T10:16:54.355725+00:00"
+    },
+    {
+      "fingerprint": "487ed3882b333c07ace132e7",
+      "title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-gold-farm-exploit",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-17T09:51:30+00:00",
+      "score": 9,
+      "event_key": "World of Warcraft Forever Blackmaw Hold gold farming exploit",
+      "title_ru": "В World of Warcraft: Forever игроки использовали баг для массового фарма золота",
+      "threads_teaser_ru": "Экономика World of Warcraft: Forever пострадала из-за бага в подземелье Blackmaw Hold. Игроки массово фармили золото на слабых противниках, что вызвало недовольство сообщества. Blizzard исправила уязвимость, но судьба полученного игроками золота пока неизвестна.",
+      "telegram_message_id": "2785",
+      "telegram_url": "https://t.me/gamepulse_newss/2785",
+      "telegram_published_at": "2026-11-17T10:32:37.692602+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Wow-gold-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T10:16:54.355807+00:00"
+  "updated_at": "2026-11-17T10:32:37.692691+00:00"
 }
