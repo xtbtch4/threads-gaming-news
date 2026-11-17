@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fd861a5ec5bbacee8f879d5d",
-      "title": "Another Day, Another Pokemon Card Heist Worth Nearly $1 Million",
-      "url": "https://gamespot.com/articles/another-day-another-pokemon-card-heist-worth-nearly-1-million",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-21T17:50:47+00:00",
-      "score": 9,
-      "event_key": "pokemon cards theft from fedex truck california",
-      "title_ru": "Кража коллекционных карточек на миллион долларов в Калифорнии",
-      "threads_teaser_ru": "В Калифорнии из грузовика FedEx украли партию коллекционных карточек стоимостью около 963 тысяч долларов. Груз принадлежал коллекционерам, отправившим его на оценку.",
-      "telegram_message_id": "1576",
-      "telegram_url": "https://t.me/gamepulse_newss/1576",
-      "telegram_published_at": "2026-10-22T08:02:06.452881+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/teamrocket-image.jpg?w=300",
-      "threads_published_at": "2026-10-22T08:02:07.678391+00:00"
-    },
-    {
       "fingerprint": "89c316a31e56c9b2ab75701d",
       "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
       "url": "https://eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/16/shokopenrunproblack-1794869831983.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T01:32:43.565432+00:00"
+    },
+    {
+      "fingerprint": "cbe850e30a698050a2e40496",
+      "title": "The Odyssey's Most Disturbing Scene Barely Used Any CGI. Here's How They Pulled It Off.",
+      "url": "https://polygon.com/the-odyssey-pig-transformation-practical-effects",
+      "source": "Polygon",
+      "published_at_source": "2026-11-16T20:00:24+00:00",
+      "score": 9,
+      "event_key": "The Odyssey transformation practical effects production details",
+      "title_ru": "В фильме The Odyssey сцену превращения людей в свиней сняли почти без CGI",
+      "threads_teaser_ru": "В фильме The Odyssey Кристофера Нолана жуткую сцену превращения людей в свиней сняли без использования компьютерной графики. Вместо CGI команда применила силиконовые формы на магнитах, что позволило актрисе Саманте Мортон самой управлять трансформацией прямо в кадре.",
+      "telegram_message_id": "2777",
+      "telegram_url": "https://t.me/gamepulse_newss/2777",
+      "telegram_published_at": "2026-11-17T02:02:27.708149+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-matt-damon.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-17T01:32:43.565529+00:00"
+  "updated_at": "2026-11-17T02:02:27.708230+00:00"
 }
