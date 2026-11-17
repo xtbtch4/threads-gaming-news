@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "de35dd9979a031f0a67cabb3",
-      "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
-      "url": "https://eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-22T13:35:34+00:00",
-      "score": 15,
-      "event_key": "bioware-cancelled-mass-effect-autonomy-choice",
-      "title_ru": "Отмененная Mass Effect от BioWare должна была предложить беспрецедентную свободу выбора",
-      "threads_teaser_ru": "Бывший разработчик BioWare рассказал об отмененной игре во вселенной Mass Effect. Проект должен был превзойти по уровню свободы выбора Baldur's Gate 3 и The Witcher.",
-      "telegram_message_id": "1598",
-      "telegram_url": "https://t.me/gamepulse_newss/1598",
-      "telegram_published_at": "2026-10-22T14:16:59.697966+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T14:17:01.070418+00:00"
-    },
-    {
       "fingerprint": "632d1d4848b58b0c4d6cdd60",
       "title": "Free Play Days – Dying Light 2, Riders Republic, Monster Hunter Stories, Let’s Build a Zoo, and More",
       "url": "https://news.xbox.com/en-us/2026/10/22/free-play-days-10-22-2026",
@@ -20536,7 +20519,23 @@
       "image_url": "https://blog.playstation.com/tachyon/2048/11/b629a310e4bac8288f76e56b99624cb57b67037e-scaled.jpg",
       "video_url": "https://stream.mux.com/fFUXyGXK602W00fpkZ2wYEqwizKzLKUXHdCMqSPbB98Dg/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmRlVYeUdYSzYwMlcwMGZwa1oyd1lFcXdpekt6TEtVWEhkQ01xU1BiQjk4RGciLCJhdWQiOiJ2IiwiZXhwIjoxNzk0OTY4MTg1LCJraWQiOiI0TDV5T2NqclYxTlVxVnpjVXZKQm4xd1RtNGVUR0c5TWgwMjAxWWs1anU5TkEifQ.mDS0KdofuXQ0X_y0uIsuUgTVxKQdX2w1ZPaNkcVZRGmisZw5JoK8xOpsCXWGKc4ze4IK_3i59DqAHFBMMDbeUm4nJ9U5z7Kh62L62TMEaAslbVcXmHD6r78pFDmkQKbB4QCaTX9lZ4xrYNOpUq0DzgZVrPeWMe3UdAnSbTgfylB8acquaqGSRc6k9X63P13lOjGZpc8IGXi0kLXws6xWlcuFUqtwY8frYNxYy-DAayjXziofatx0bmkRJdxn-OEACDri_yxH-vZBx43A6ycvnTll65JZWI2C_i3WYYM7G26q94uUGrlNQ-eZ-Hu8dgYdlv0YEjTXhlzMRSj7udcHug",
       "threads_published_at": "2026-11-17T14:17:01.914111+00:00"
+    },
+    {
+      "fingerprint": "c32625d041943aa25c38d5f6",
+      "title": "Deadlock Has Convinced Me We Should All Be Role-Playing In Competitive Games",
+      "url": "https://gamespot.com/articles/deadlock-has-convinced-me-we-should-all-be-role-playing-in-competitive-games",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-17T14:08:01+00:00",
+      "score": 13,
+      "event_key": "roleplaying-improves-communication-and-reduces-toxicity-in-deadlock",
+      "title_ru": "Опыт ролевой игры в Deadlock",
+      "threads_teaser_ru": "Автор статьи рассказал об опыте отыгрыша за персонажа Rem в онлайн-шутере Deadlock. Такой подход помогает снизить уровень токсичности в матчах и делает командную коммуникацию более комфортной.",
+      "telegram_message_id": "2799",
+      "telegram_url": "https://t.me/gamepulse_newss/2799",
+      "telegram_published_at": "2026-11-17T14:32:15.672079+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/0bc50241318e52395ab70077faf8e1f0e3cf7c1d.png?w=300"
     }
   ],
-  "updated_at": "2026-11-17T14:17:01.914224+00:00"
+  "updated_at": "2026-11-17T14:32:15.672183+00:00"
 }
