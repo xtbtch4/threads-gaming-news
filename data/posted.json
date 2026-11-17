@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "35015042941e33d9e9e6af2a",
-      "title": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
-      "url": "https://ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T10:17:24+00:00",
-      "score": 9,
-      "event_key": "capcom data breach affects eleven million accounts",
-      "title_ru": "Capcom предупреждает о фишинге после утечки данных более 11 млн аккаунтов",
-      "threads_teaser_ru": "Capcom предупредила игроков о возможных фишинговых атаках после утечки данных более чем 11 миллионов учетных записей Capcom ID, произошедшей 19 октября.",
-      "telegram_message_id": "1588",
-      "telegram_url": "https://t.me/gamepulse_newss/1588",
-      "telegram_published_at": "2026-10-22T11:17:13.267235+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/gettyimages-2230476823-1792664085949.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T11:17:14.657554+00:00"
-    },
-    {
       "fingerprint": "0cd1b5ea6f7e08269b73cfb4",
       "title": "\"We made a very difficult decision\": Australian indie showcase Freeplay reject antisemitism claims after delisting a Jewish sponsor who was allegedly accused of being a \"zionist\"",
       "url": "https://rockpapershotgun.com/we-made-a-very-difficult-decision-australian-indie-showcase-freeplay-reject-antisemitism-claims-after-delisting-a-jewish-sponsor-who-was-allegedly-accused-of-being-a-zionist",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ram-stick-pile-resized-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T11:17:17.804738+00:00"
+    },
+    {
+      "fingerprint": "220ee928ad2285bb87cdd597",
+      "title": "Break up and re-commodify a fallen Earth in Steel Gullet, a satisfyingly funereal factory puzzler that really loves thermodynamics",
+      "url": "https://rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T11:30:00+00:00",
+      "score": 8,
+      "event_key": "Steel Gullet PC release thermodynamics factory engineering game",
+      "title_ru": "Релиз Steel Gullet: инженерная головоломка с акцентом на термодинамику",
+      "threads_teaser_ru": "На PC вышла Steel Gullet — необычная инженерная головоломка про автоматизацию и переработку мусора на постапокалиптической Земле. Главная фишка игры — детальная симуляция термодинамики, где нужно учитывать температуру плавления и физические свойства материалов.",
+      "telegram_message_id": "2789",
+      "telegram_url": "https://t.me/gamepulse_newss/2789",
+      "telegram_published_at": "2026-11-17T11:33:06.917759+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Steel-Gullet.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-17T11:17:17.804821+00:00"
+  "updated_at": "2026-11-17T11:33:06.917849+00:00"
 }
