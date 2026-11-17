@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f9ea4476632ebc7aa4b9ea2b",
-      "title": "Seth Rogen and Brad Bird Lead 2026 Infinity Festival Lineup",
-      "url": "https://ign.com/articles/seth-rogen-brad-bird-infinity-festival",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T17:30:00+00:00",
-      "score": 11,
-      "event_key": "Seth Rogen Brad Bird Infinity Festival 2026 lineup",
-      "title_ru": "Seth Rogen и Brad Bird вошли в лайнап Infinity Festival 2026",
-      "threads_teaser_ru": "Seth Rogen, Brad Bird и Travis Knight станут ключевыми участниками ноябрьского Infinity Festival в Лос-Анджелесе. Зрителей ждут специальные показы и презентации новых анимационных проектов.",
-      "telegram_message_id": "1611",
-      "telegram_url": "https://t.me/gamepulse_newss/1611",
-      "telegram_published_at": "2026-10-22T18:47:06.599529+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/if-pic-1790371889888-1792619621556.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T18:47:07.979884+00:00"
-    },
-    {
       "fingerprint": "0594efe7c940225cbeb6089e",
       "title": "How More Than 40 New Traits Change Your Strategy in Becastled",
       "url": "https://news.xbox.com/en-us/2026/10/22/how-more-than-40-new-traits-change-your-strategy",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/mcdonaldshomealone-1794931412510.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T18:32:40.174689+00:00"
+    },
+    {
+      "fingerprint": "40ff6056359fef735859fe37",
+      "title": "The BROTTAR 65\" Tall Display Cabinet Drops to $110 for Black Friday, More Room to Showcase Your Collection",
+      "url": "https://ign.com/articles/brottar-corner-display-cabinet-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T19:00:00+00:00",
+      "score": 11,
+      "event_key": "brottar-display-cabinet-amazon-discount-black-friday",
+      "title_ru": "Скидка на шкаф-витрину BROTTAR в рамках Black Friday",
+      "threads_teaser_ru": "На Amazon началась распродажа шкафа-витрины BROTTAR высотой 65 дюймов: цена снизилась до 110 долларов по специальному купону. Модель оснащена подсветкой и стеклянными дверцами.",
+      "telegram_message_id": "2812",
+      "telegram_url": "https://t.me/gamepulse_newss/2812",
+      "telegram_published_at": "2026-11-17T19:03:03.911860+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/brottar2-1794941444905.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T18:32:40.174781+00:00"
+  "updated_at": "2026-11-17T19:03:03.911938+00:00"
 }
