@@ -20532,9 +20532,10 @@
       "telegram_message_id": "2793",
       "telegram_url": "https://t.me/gamepulse_newss/2793",
       "telegram_published_at": "2026-11-17T12:47:23.730280+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Dragon-Quest-old-new.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Dragon-Quest-old-new.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-17T12:47:25.416464+00:00"
     }
   ],
-  "updated_at": "2026-11-17T12:47:23.730401+00:00"
+  "updated_at": "2026-11-17T12:47:25.416560+00:00"
 }
