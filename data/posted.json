@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c4d4412c57946a4d3970405d",
-      "title": "EA Could Sell BioWare’s IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says",
-      "url": "https://gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-22T17:34:21+00:00",
-      "score": 12,
-      "event_key": "ea_shuts_down_bioware_considers_selling_ip",
-      "title_ru": "Бывший руководитель BioWare допустил продажу франшиз студии со стороны EA",
-      "threads_teaser_ru": "После закрытия BioWare и отмены новой Mass Effect бывший руководитель студии Марк Дарра допустил, что EA может продать права на Dragon Age, Mass Effect и Jade Empire для сокращения долга в 55 млрд долларов.",
-      "telegram_message_id": "1609",
-      "telegram_url": "https://t.me/gamepulse_newss/1609",
-      "telegram_published_at": "2026-10-22T18:17:02.706524+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/07/Dragon-Age.jpg?w=300",
-      "threads_published_at": "2026-10-22T18:17:04.959366+00:00"
-    },
-    {
       "fingerprint": "d032c8314c6c10752c59f01c",
       "title": "The Power of PEAK Friendship, Coming to XBOX Today",
       "url": "https://news.xbox.com/en-us/2026/10/22/peak-friendship-coming-to-xbox-today",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Chris-Perkins-and-Jeremy-Crawford-join-Critical-Role.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-17T17:47:15.593255+00:00"
+    },
+    {
+      "fingerprint": "2910dc9777ad8174f3ed69ec",
+      "title": "GTA 6’s Lucia Actor Revealed, And It’s The Person Everyone Already Guessed",
+      "url": "https://gamespot.com/articles/gta-6s-lucia-actor-revealed-and-its-the-person-everyone-already-guessed",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-17T10:00:00+00:00",
+      "score": 14,
+      "event_key": "gta 6 lucia actor manni l perez revealed",
+      "title_ru": "Раскрыта актриса роли Lucia в GTA 6",
+      "threads_teaser_ru": "Наконец-то официально раскрыта актриса, сыгравшая Lucia в Grand Theft Auto 6. Подтвердились давние догадки фанатов, вычисливших её задолго до анонса.",
+      "telegram_message_id": "2810",
+      "telegram_url": "https://t.me/gamepulse_newss/2810",
+      "telegram_published_at": "2026-11-17T18:17:05.112585+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-17T17:47:15.593339+00:00"
+  "updated_at": "2026-11-17T18:17:05.112686+00:00"
 }
