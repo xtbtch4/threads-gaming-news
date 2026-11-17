@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "21264882a0147122e5b582ae",
-      "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
-      "url": "https://ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
-      "source": "IGN",
-      "published_at_source": "2026-10-22T22:18:28+00:00",
-      "score": 15,
-      "event_key": "cyberpunk 2 quest team half former modders pawel sasko",
-      "title_ru": "Половина команды квестов Cyberpunk 2 состоит из бывших моддеров",
-      "threads_teaser_ru": "Павел Саско сообщил, что примерно половина команды квестов Cyberpunk 2 состоит из бывших моддеров, которых CD Projekt Red привлекла к работе над сиквелом.",
-      "telegram_message_id": "1621",
-      "telegram_url": "https://t.me/gamepulse_newss/1621",
-      "telegram_published_at": "2026-10-22T23:02:21.689647+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/11/26/ss-b20689e73e3ac19bcc5fad2c18d0353c769de144-1920x1080-1764175642324.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-22T23:02:23.066837+00:00"
-    },
-    {
       "fingerprint": "cd3c45c4841270a4d4046b42",
       "title": "Xbox Insiders Can Cloud Stream Games Without Game Pass (But There's a Catch) - IGN Daily Fix",
       "url": "https://ign.com/videos/xbox-insiders-can-cloud-stream-games-without-game-pass-but-theres-a-catch-ign-daily-fix",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gabe-newell-superyacht-reactions-1794950231881.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T22:02:48.958696+00:00"
+    },
+    {
+      "fingerprint": "d8a8c7574f04479e031a76b3",
+      "title": "Nearly Half of Polled IGN Readers Are Taking Time Off to Play GTA 6",
+      "url": "https://ign.com/articles/nearly-half-of-polled-ign-readers-are-taking-time-off-to-play-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T20:01:07+00:00",
+      "score": 11,
+      "event_key": "ign_poll_gta_6_release_time_off",
+      "title_ru": "Почти половина читателей IGN возьмут отгул ради релиза GTA 6",
+      "threads_teaser_ru": "Опрос IGN показал, что почти половина читателей собираются взять отгул или сослаться на болезнь, чтобы сыграть в GTA 6 в день релиза. Экономисты оценивают возможные потери производительности в США в $1 млрд.",
+      "telegram_message_id": "2822",
+      "telegram_url": "https://t.me/gamepulse_newss/2822",
+      "telegram_published_at": "2026-11-17T22:17:06.562567+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T22:02:48.958776+00:00"
+  "updated_at": "2026-11-17T22:17:06.562668+00:00"
 }
