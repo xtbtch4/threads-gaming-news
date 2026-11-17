@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0cd1b5ea6f7e08269b73cfb4",
-      "title": "\"We made a very difficult decision\": Australian indie showcase Freeplay reject antisemitism claims after delisting a Jewish sponsor who was allegedly accused of being a \"zionist\"",
-      "url": "https://rockpapershotgun.com/we-made-a-very-difficult-decision-australian-indie-showcase-freeplay-reject-antisemitism-claims-after-delisting-a-jewish-sponsor-who-was-allegedly-accused-of-being-a-zionist",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-22T11:30:06+00:00",
-      "score": 14,
-      "event_key": "freeplay-parallels-sponsor-delisting-controversy",
-      "title_ru": "Freeplay отвергает обвинения в антисемитизме после скандала со спонсором Parallels",
-      "threads_teaser_ru": "Австралийский инди-шоукейс Parallels оказался в центре скандала после того, как организаторы вернули пожертвование еврейскому разработчику из-за обвинений в сионизме.",
-      "telegram_message_id": "1589",
-      "telegram_url": "https://t.me/gamepulse_newss/1589",
-      "telegram_published_at": "2026-10-22T11:32:23.348300+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/menorah-in-unpacking.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-22T11:32:24.760819+00:00"
-    },
-    {
       "fingerprint": "559f24d0647f634713b43ec9",
       "title": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
       "url": "https://eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Steel-Gullet.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-17T11:33:08.511319+00:00"
+    },
+    {
+      "fingerprint": "efb94b4790bab4b9d133cdf4",
+      "title": "Xbox Game Pass Is Losing 8 More Games In November",
+      "url": "https://gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-17T03:40:00+00:00",
+      "score": 10,
+      "event_key": "xbox game pass loses eight games in november",
+      "title_ru": "Xbox Game Pass покидают еще 8 игр в ноябре",
+      "threads_teaser_ru": "В библиотеке Xbox Game Pass намечается очередная волна удалений. Стало известно, что 30 ноября сервис покинут сразу 8 игр. Проверьте свой список запланированных к прохождению проектов, чтобы успеть уделить им время до их исчезновения из подписки.",
+      "telegram_message_id": "2790",
+      "telegram_url": "https://t.me/gamepulse_newss/2790",
+      "telegram_published_at": "2026-11-17T11:46:52.439914+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-17T11:33:08.511412+00:00"
+  "updated_at": "2026-11-17T11:46:52.440008+00:00"
 }
