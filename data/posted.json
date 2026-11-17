@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4bf5f28cc4cd501a48421d0b",
-      "title": "PlayStation Indies: 9 must-play horror games for the spooky season",
-      "url": "https://blog.playstation.com/2026/10/21/playstation-indies-9-must-play-horror-games-for-the-spooky-season",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-21T16:00:31+00:00",
-      "score": 10,
-      "event_key": "playstation-blog-indie-horror-games-halloween-lineup",
-      "title_ru": "PlayStation Blog представил подборку хорроров и инди-игр к Хэллоуину",
-      "threads_teaser_ru": "PlayStation Blog опубликовал подборку инди-игр к Хэллоуину. В список вошли мрачные roguelite-проекты, кооперативные хорроры и уютные головоломки, включая CloverPit, Escape_the_Backrooms, Fangtopia, Graveyard Keeper 2 и Reanimal.",
-      "telegram_message_id": "1574",
-      "telegram_url": "https://t.me/gamepulse_newss/1574",
-      "telegram_published_at": "2026-10-22T07:17:02.982974+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/b8b3d8ade29d753cdd58cede7f1b74b5acd1e3d9.jpg",
-      "threads_published_at": "2026-10-22T07:17:04.216752+00:00"
-    },
-    {
       "fingerprint": "2395f0603263713bc225d52b",
       "title": "How Long Is Final Fantasy: Resonance – Chapter List And Total Hours",
       "url": "https://gamespot.com/articles/how-long-is-final-fantasy-resonance-chapter-list-and-total-hours",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/spider-man-brand-new-day-re-release-1794874181762.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-17T01:03:01.685577+00:00"
+    },
+    {
+      "fingerprint": "d333a9b6a819c290f520f303",
+      "title": "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pokémon Go",
+      "url": "https://ign.com/articles/there-really-is-no-escape-from-the-duolingo-owl-who-will-soon-join-pokmon-go",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T01:00:00+00:00",
+      "score": 9,
+      "event_key": "Duolingo and Pokémon Go crossover event announcement",
+      "title_ru": "Duo из Duolingo появится в Pokémon Go в рамках коллаборации",
+      "threads_teaser_ru": "В Pokémon Go стартует необычная коллаборация: в игру добавят элементы из Duolingo. Пользователи могут получить уникальных Pokémon и тематические фоны, выполняя языковые уроки. Также в приложении стали доступны виртуальные аксессуары от Crocs.",
+      "telegram_message_id": "2775",
+      "telegram_url": "https://t.me/gamepulse_newss/2775",
+      "telegram_published_at": "2026-11-17T01:17:21.945622+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/16/image-1794833742037.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T01:03:01.685662+00:00"
+  "updated_at": "2026-11-17T01:17:21.945744+00:00"
 }
