@@ -20534,9 +20534,10 @@
       "telegram_message_id": "2806",
       "telegram_url": "https://t.me/gamepulse_newss/2806",
       "telegram_published_at": "2026-11-17T16:47:24.014549+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/playstation-tribunal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/playstation-tribunal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-17T16:47:25.911876+00:00"
     }
   ],
-  "updated_at": "2026-11-17T16:47:24.014646+00:00"
+  "updated_at": "2026-11-17T16:47:25.911958+00:00"
 }
