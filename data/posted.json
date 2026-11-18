@@ -20534,9 +20534,10 @@
       "telegram_message_id": "2858",
       "telegram_url": "https://t.me/gamepulse_newss/2858",
       "telegram_published_at": "2026-11-18T11:47:04.478722+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_03-1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_03-1.jpg?w=300",
+      "threads_published_at": "2026-11-18T11:47:06.053122+00:00"
     }
   ],
-  "updated_at": "2026-11-18T11:47:04.478819+00:00"
+  "updated_at": "2026-11-18T11:47:06.053216+00:00"
 }
