@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dfb8b13fc3023d3a6d148dfa",
-      "title": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
-      "url": "https://rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-23T09:30:58+00:00",
-      "score": 10,
-      "event_key": "Cyberpunk 2077 dual wielding weapon mods release",
-      "title_ru": "Моддеры расширили систему парного оружия в Cyberpunk 2077",
-      "threads_teaser_ru": "Обновление Edgerunners 2 для Cyberpunk 2077 добавило стрельбу с двух рук, но только для пистолетов. Моддеры быстро исправили это: теперь в Night City можно бегать с двумя штурмовыми винтовками или дробовиками, хотя авторы предупреждают о возможных ошибках и дисбалансе.",
-      "telegram_message_id": "1625",
-      "telegram_url": "https://t.me/gamepulse_newss/1625",
-      "telegram_published_at": "2026-10-23T09:33:01.287774+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/cyberpunk-2077-dual-wield-any-gun-mods-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T09:33:02.694703+00:00"
-    },
-    {
       "fingerprint": "982d2afacc02e9764ccb2e2a",
       "title": "Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season",
       "url": "https://polygon.com/vinland-saga-season-3-creator-update-not-in-production",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-17T23:47:40.696519+00:00"
+    },
+    {
+      "fingerprint": "7840f3044b980276ab8efb3e",
+      "title": "GTA 6 Vice City NBA Court Revealed by Miami Heat",
+      "url": "https://ign.com/articles/gta-6-vice-city-nba-court-revealed-by-miami-heat",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T23:51:09+00:00",
+      "score": 15,
+      "event_key": "miami heat unveils gta 6 vice city basketball court",
+      "title_ru": "Miami Heat представили баскетбольную площадку в стиле GTA 6",
+      "threads_teaser_ru": "Команда Miami Heat представила уникальную баскетбольную площадку в стиле GTA 6 для одного из домашних матчей против Milwaukee Bucks. На паркет нанесли фирменный логотип «VI» и цвета игры.",
+      "telegram_message_id": "2829",
+      "telegram_url": "https://t.me/gamepulse_newss/2829",
+      "telegram_published_at": "2026-11-18T00:02:43.686508+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/lucia-caminos-14-1794958825605.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-17T23:47:40.696588+00:00"
+  "updated_at": "2026-11-18T00:02:43.686608+00:00"
 }
