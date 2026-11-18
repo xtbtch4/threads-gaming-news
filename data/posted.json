@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c8392aa9fc125031f54446fe",
-      "title": "GTA 6: Rockstar Devs Say They Had \"Dark\" Period During Game's Development",
-      "url": "https://in.ign.com/grand-theft-auto-vi/275215/gta-6-rockstar-devs-say-they-had-dark-period-during-games-development",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T01:47:00+00:00",
-      "score": 13,
-      "event_key": "rockstar devs dark period gta 6 development",
-      "title_ru": "Разработчики Grand Theft Auto 6 рассказали о сложном периоде производства",
-      "threads_teaser_ru": "Разработчики Grand Theft Auto 6 поделились подробностями о трудном периоде производства игры с 2019 по 2022 год, когда студии приходилось балансировать между реализмом и абсурдными элементами.",
-      "telegram_message_id": "1654",
-      "telegram_url": "https://t.me/gamepulse_newss/1654",
-      "telegram_published_at": "2026-10-23T18:46:40.666337+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://sm.ign.com/t/ign_in/news/g/gta-6-fans/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and_xsfq.1200.png",
-      "threads_published_at": "2026-10-23T18:46:42.003067+00:00"
-    },
-    {
       "fingerprint": "37ea115ab71eca5a015c7576",
       "title": "Fallout Day 2026 Celebration Roundup",
       "url": "https://fallout.bethesda.net/en-US/news/fallout-day-celebration-2026-roundup",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-15.jpg?w=300",
       "threads_published_at": "2026-11-18T11:32:13.529626+00:00"
+    },
+    {
+      "fingerprint": "05e09d0f33eef1af383b75bd",
+      "title": "Can You Keep Playing After Finishing GTA 6’s Story?",
+      "url": "https://gamespot.com/articles/can-you-keep-playing-after-finishing-gta-6s-story",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-18T11:26:12+00:00",
+      "score": 9,
+      "event_key": "continue playing after finishing GTA 6 story",
+      "title_ru": "Можно ли продолжить игру после завершения сюжета GTA 6?",
+      "threads_teaser_ru": "После завершения 65-часовой сюжетной кампании GTA 6 игроки смогут продолжить исследование мира Leonida. Кроме того, прохождение финала открывает читы.",
+      "telegram_message_id": "2858",
+      "telegram_url": "https://t.me/gamepulse_newss/2858",
+      "telegram_published_at": "2026-11-18T11:47:04.478722+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_03-1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-18T11:32:13.529715+00:00"
+  "updated_at": "2026-11-18T11:47:04.478819+00:00"
 }
