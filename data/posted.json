@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d1d1de1c6756030e02967c15",
-      "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
-      "url": "https://eurogamer.net/half-life-3-developer-references-codename-public",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-23T12:43:22+00:00",
-      "score": 11,
-      "event_key": "valve-developer-accidentally-references-hlx-codeword",
-      "title_ru": "Разработчик из Valve случайно упомянул кодовое имя проекта HLX",
-      "threads_teaser_ru": "Во время недавней трансляции сотрудник Valve случайно упомянул кодовое имя HLX, обсуждая звуковые технологии компании. Это вновь привлекло внимание к слухам вокруг долгожданного проекта.",
-      "telegram_message_id": "1632",
-      "telegram_url": "https://t.me/gamepulse_newss/1632",
-      "telegram_published_at": "2026-10-23T12:46:54.822350+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/half-life-2-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T12:46:56.330554+00:00"
-    },
-    {
       "fingerprint": "d890104f689a8687f8c4f55f",
       "title": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6",
       "url": "https://ign.com/articles/ps5-console-bundle-deal-ahead-of-gta-6-and-black-friday",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Gloomwood-Cursed-Fishdogs.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T01:32:10.510567+00:00"
+    },
+    {
+      "fingerprint": "58bdab5fe0c2d8aa74d8bd5a",
+      "title": "GTA 6's Release Will Stress The Internet Just As Everything's Falling Apart",
+      "url": "https://polygon.com/gta-6-release-apple-down-outages-microsoft-chase-bank-issues",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T01:29:36+00:00",
+      "score": 10,
+      "event_key": "grand-theft-auto-6-release-internet-outages-november",
+      "title_ru": "Запуск Grand Theft Auto 6 совпал с масштабными сбоями в сети",
+      "threads_teaser_ru": "Релиз Grand Theft Auto 6 приближается на фоне череды сбоев в работе крупных технологических сервисов, банков и интернет-провайдеров по всему миру.",
+      "telegram_message_id": "2836",
+      "telegram_url": "https://t.me/gamepulse_newss/2836",
+      "telegram_published_at": "2026-11-18T01:46:42.088253+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_15-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-18T01:32:10.510678+00:00"
+  "updated_at": "2026-11-18T01:46:42.088354+00:00"
 }
