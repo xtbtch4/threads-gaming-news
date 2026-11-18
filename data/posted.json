@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "59028379cd68286683002d45",
-      "title": "7 Hilarious ‘Far Side’ Comics With the Worst Puns",
-      "url": "https://polygon.com/best-far-side-comics-with-terrible-puns",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T09:00:21+00:00",
-      "score": 5,
-      "event_key": "Polygon selects The Far Side comics with puns",
-      "title_ru": "Polygon представил подборку комиксов The Far Side с игрой слов",
-      "threads_teaser_ru": "Издание Polygon вспомнило семь работ из классических комиксов The Far Side, где Gary Larson использовал максимально примитивные каламбуры. Рассказываем, как автор сочетал интеллектуальный подход с абсурдным юмором.",
-      "telegram_message_id": "1695",
-      "telegram_url": "https://t.me/gamepulse_newss/1695",
-      "telegram_published_at": "2026-10-24T09:02:44.698014+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-23-at-11-53-50-am-1.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
-      "threads_published_at": "2026-10-24T09:02:46.240540+00:00"
-    },
-    {
       "fingerprint": "02d3a27442f2c40d2aef5ae4",
       "title": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
       "url": "https://polygon.com/final-fantasy-14-php-issues-planet-watering-community-response",
@@ -20537,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/screenshot-2026-11-18-171305-1795024150465.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T23:02:59.484830+00:00"
+    },
+    {
+      "fingerprint": "28f5385d5cf28b9d6db55327",
+      "title": "Clair Obscur: Expedition 33's Lead Writer Has Left Sandfall to Help Game Devs Tell Better Stories",
+      "url": "https://ign.com/articles/clair-obscur-expedition-33-lead-writer-left-sandfall",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T16:35:23+00:00",
+      "score": 8,
+      "event_key": "clair_obscur_expedition_33_lead_writer_left_sandfall",
+      "title_ru": "Ведущий сценарист Clair Obscur: Expedition 33 покинула студию Sandfall",
+      "threads_teaser_ru": "Ведущий сценарист Clair Obscur: Expedition 33 Дженнифер Сведберг-Йен покинула студию Sandfall. Она планирует запустить фонд для поддержки новых авторов и развития нарративного дизайна в видеоиграх.",
+      "telegram_message_id": "2899",
+      "telegram_url": "https://t.me/gamepulse_newss/2899",
+      "telegram_published_at": "2026-11-18T23:17:14.404547+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/03/13/clairthumb-1741875039872.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T23:02:59.484918+00:00"
+  "updated_at": "2026-11-18T23:17:14.404600+00:00"
 }
