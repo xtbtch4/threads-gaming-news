@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "02d3a27442f2c40d2aef5ae4",
-      "title": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
-      "url": "https://polygon.com/final-fantasy-14-php-issues-planet-watering-community-response",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T09:05:18+00:00",
-      "score": 6,
-      "event_key": "Final Fantasy 14 players water plants during PHP vulnerability",
-      "title_ru": "Игроки Final Fantasy 14 спасали растения друг друга во время сбоя PHP",
-      "threads_teaser_ru": "Во время недавнего сбоя PHP, затронувшего Final Fantasy 14, игроки объединились, чтобы спасти сады друг друга. Пока владельцы не могли зайти в игру, добровольцы бесплатно поливали чужие растения, используя механику посещения домов.",
-      "telegram_message_id": "1696",
-      "telegram_url": "https://t.me/gamepulse_newss/1696",
-      "telegram_published_at": "2026-10-24T09:17:30.360397+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2849754/ffxiv_pub_patch2.3_15.1403627489.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-24T09:17:31.977410+00:00"
-    },
-    {
       "fingerprint": "8840c565274b17cb36c6e2b3",
       "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
       "url": "https://eurogamer.net/phantom-blade-zero-hit-not-out",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/03/13/clairthumb-1741875039872.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T23:17:16.050484+00:00"
+    },
+    {
+      "fingerprint": "42710da1f68f193aedd18f81",
+      "title": "Switch 2 Is Getting an All-new Gamecube Controller",
+      "url": "https://polygon.com/nintendo-switch-2-wireless-game-cube-controller-8bitdo",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T19:15:29+00:00",
+      "score": 7,
+      "event_key": "8bitdo announces wireless gamecube controller for switch 2 pc",
+      "title_ru": "8BitDo анонсировала беспроводной геймпад GC Bluetooth Gamepad в стиле GameCube для Switch 2 и PC",
+      "threads_teaser_ru": "Компания 8BitDo представила беспроводной геймпад GC Bluetooth Gamepad в стиле классического контроллера GameCube, который поступит в продажу 10 декабря 2026 года по цене $49.99 для Switch, Switch 2 и PC.",
+      "telegram_message_id": "2900",
+      "telegram_url": "https://t.me/gamepulse_newss/2900",
+      "telegram_published_at": "2026-11-18T23:32:21.127660+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/8bitdo-game-cube-controller.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-18T23:17:16.050543+00:00"
+  "updated_at": "2026-11-18T23:32:21.127761+00:00"
 }
