@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bcd43b448d37fbe37d0f2821",
-      "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Hulu (October 23-25)",
-      "url": "https://polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-23-25",
-      "source": "Polygon",
-      "published_at_source": "2026-10-23T20:01:19+00:00",
-      "score": 7,
-      "event_key": "Cyberpunk Edgerunners and other TV series release",
-      "title_ru": "Подборка сериалов на выходные: второй сезон Cyberpunk: Edgerunners, The Terminal List и другие",
-      "threads_teaser_ru": "Стриминговые сервисы обновили библиотеки новыми сериалами. Среди ключевых релизов — второй сезон Cyberpunk: Edgerunners, новые серии боевика The Terminal List с Крисом Прэттом и криминальный хит Lupin. Полный список новинок доступен в нашем обзоре.",
-      "telegram_message_id": "1678",
-      "telegram_url": "https://t.me/gamepulse_newss/1678",
-      "telegram_published_at": "2026-10-24T01:32:31.987746+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-terminal-list.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-24T01:32:33.429285+00:00"
-    },
-    {
       "fingerprint": "b8bf41d30f5b3dc8a8d69fb6",
       "title": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
       "url": "https://eurogamer.net/netflix-500m-xbox-film-tv-rights",
@@ -20539,7 +20522,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ck3-header-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T18:32:50.972031+00:00"
+    },
+    {
+      "fingerprint": "2b6b2187009fcc132768ccc7",
+      "title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
+      "url": "https://eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-18T18:42:20+00:00",
+      "score": 13,
+      "event_key": "GTA 6 cheats unlock requirement after main story",
+      "title_ru": "В GTA 6 читы станут доступны только после прохождения основной сюжетной линии",
+      "threads_teaser_ru": "В Grand Theft Auto 6 нельзя использовать читы до завершения основного сюжета. После прохождения откроется специальное меню, но для получения самих кодов придется выполнять дополнительные задания. Активация «читерства» также блокирует сохранения и достижения.",
+      "telegram_message_id": "2882",
+      "telegram_url": "https://t.me/gamepulse_newss/2882",
+      "telegram_published_at": "2026-11-18T18:47:56.435628+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T18:32:50.972135+00:00"
+  "updated_at": "2026-11-18T18:47:56.435747+00:00"
 }
