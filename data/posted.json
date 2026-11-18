@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ae05270c403156301978426d",
-      "title": "Saros: creating the epic Overlords of Carcosa",
-      "url": "https://blog.playstation.com/2026/10/23/saros-creating-the-epic-overlords-of-carcosa",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-23T11:59:40+00:00",
-      "score": 9,
-      "event_key": "Housemarque and Nixxes detail boss design for Saros",
-      "title_ru": "Подробности разработки боссов в Saros от Housemarque и Nixxes",
-      "threads_teaser_ru": "Housemarque и Nixxes раскрыли процесс совместной разработки боссов для Saros. Команды уделили внимание не только визуальной составляющей, но и трехфазным механикам, чтобы каждое сражение было честным и динамичным. Узнайте, как создавались The Prophet, The Architect и другие враги.",
-      "telegram_message_id": "1671",
-      "telegram_url": "https://t.me/gamepulse_newss/1671",
-      "telegram_published_at": "2026-10-23T23:17:26.523236+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/10/a72625381e38fc3fd0fa0a8932dcf40f98acbc99-scaled.jpg",
-      "threads_published_at": "2026-10-23T23:17:27.937461+00:00"
-    },
-    {
       "fingerprint": "77309c2061e29a576bab5212",
       "title": "Nintendo Legend Shigeru Miyamoto Becomes First Game Designer to Be Awarded Japan's Order of Culture",
       "url": "https://ign.com/articles/nintendo-legend-shigeru-miyamoto-becomes-first-game-designer-to-be-awarded-japans-order-of-culture",
@@ -20538,7 +20521,24 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_02_ce9fd2.jpg?w=300",
       "threads_published_at": "2026-11-18T16:02:56.674599+00:00"
+    },
+    {
+      "fingerprint": "41a099da64e31188765364c9",
+      "title": "Expedition 33 Narrative Lead Officially Exits Award-Winning Studio",
+      "url": "https://polygon.com/clair-obscur-expedition-33-jennifer-svedberg-yen-sandfall",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T15:32:11+00:00",
+      "score": 12,
+      "event_key": "lead writer Jennifer Svedberg-Yen leaves Sandfall Interactive",
+      "title_ru": "Ведущий сценарист Clair Obscur: Expedition 33 покинула студию Sandfall Interactive",
+      "threads_teaser_ru": "Ведущий сценарист хитовой Clair Obscur: Expedition 33 Дженнифер Сведберг-Йен покинула студию Sandfall Interactive. Она планирует развивать свои кинопроекты и открыть фонд поддержки игровых студий, которые уделяют особое внимание нарративу.",
+      "telegram_message_id": "2875",
+      "telegram_url": "https://t.me/gamepulse_newss/2875",
+      "telegram_published_at": "2026-11-18T16:47:00.611930+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/clair-obscur-expedition-33-gustave-giving-up.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/04/clair-obscur_-expedition-33-_-thank-you-update-trailer-publer-com-1777038315.mp4"
     }
   ],
-  "updated_at": "2026-11-18T16:02:56.674672+00:00"
+  "updated_at": "2026-11-18T16:47:00.612032+00:00"
 }
