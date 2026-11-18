@@ -20534,9 +20534,10 @@
       "telegram_message_id": "2868",
       "telegram_url": "https://t.me/gamepulse_newss/2868",
       "telegram_published_at": "2026-11-18T14:32:12.600276+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-35.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-35.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-18T14:32:14.065461+00:00"
     }
   ],
-  "updated_at": "2026-11-18T14:32:12.600382+00:00"
+  "updated_at": "2026-11-18T14:32:14.065564+00:00"
 }
