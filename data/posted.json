@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fb3145d0b127f9438b980cb7",
-      "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
-      "url": "https://eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-23T14:55:40+00:00",
-      "score": 9,
-      "event_key": "modern warfare 4 dmz possum perk controversy",
-      "title_ru": "Игроки Modern Warfare 4 раскритиковали перк Possum в режиме DMZ",
-      "threads_teaser_ru": "В Modern Warfare 4 разгорелись споры вокруг способности Possum для режима DMZ. Перк позволяет один раз за матч самостоятельно вернуться в игру после смерти. Игроки недовольны тем, что механика обесценивает победы в перестрелках, но некоторые уже предлагают способы контрстратегии.",
-      "telegram_message_id": "1642",
-      "telegram_url": "https://t.me/gamepulse_newss/1642",
-      "telegram_published_at": "2026-10-23T15:32:59.948974+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T15:33:01.430595+00:00"
-    },
-    {
       "fingerprint": "a94293a51c9d946a961ac5b0",
       "title": "Save Mass Effect Petition Hits 50,000 Signatures, Just Days After BioWare Closure",
       "url": "https://ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
@@ -20536,7 +20519,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/01/Timothee-Chalamet-Paul-Atreides-Zendaya-Chani-Dune-Part-2.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/gamedirectorsfinal-1794862917.mp4",
       "threads_published_at": "2026-11-18T04:32:35.643717+00:00"
+    },
+    {
+      "fingerprint": "98b5fa56f7fa454de08a3cf4",
+      "title": "The CyberPowerPC RTX 5070 Gaming PC With 32GB of RAM and 2TB SSD Drops Below $2,000 for Black Friday",
+      "url": "https://ign.com/articles/cyberpowerpc-rtx-5070-gaming-pc-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T20:10:00+00:00",
+      "score": 6,
+      "event_key": "CyberPowerPC RTX 5070 gaming PC discount Black Friday Best Buy",
+      "title_ru": "CyberPowerPC с RTX 5070 подешевел в преддверии «Черной пятницы»",
+      "threads_teaser_ru": "В Best Buy на два дня снизили цену на игровой ПК CyberPowerPC с RTX 5070 и процессором Intel Core Ultra 7 270K Plus. Система получила 32 ГБ оперативной памяти DDR5 и SSD на 2 ТБ, что выделяет её на фоне аналогичных по стоимости предложений.",
+      "telegram_message_id": "2846",
+      "telegram_url": "https://t.me/gamepulse_newss/2846",
+      "telegram_published_at": "2026-11-18T04:47:03.117453+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/cyberpowerpc6-1794944403445.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T04:32:35.643822+00:00"
+  "updated_at": "2026-11-18T04:47:03.117553+00:00"
 }
