@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6f2d4b1e6b80b55fc94e81ba",
-      "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
-      "url": "https://eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-23T20:12:34+00:00",
-      "score": 11,
-      "event_key": "shigeru-miyamoto-comments-on-generative-ai-in-game-development",
-      "title_ru": "Сигеру Миямото высказался о роли генеративного ИИ в разработке игр",
-      "threads_teaser_ru": "Сигеру Миямото считает, что для человеческих дизайнеров всегда останется роль в создании игр, даже если генеративный ИИ сможет справляться со всеми техническими задачами.",
-      "telegram_message_id": "1660",
-      "telegram_url": "https://t.me/gamepulse_newss/1660",
-      "telegram_published_at": "2026-10-23T20:16:59.797796+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T20:17:01.000203+00:00"
-    },
-    {
       "fingerprint": "4a1f0109d764ec614b1a69f8",
       "title": "Leave It To Double Fine To Make The First Single-Player Friendslop Game",
       "url": "https://gamespot.com/articles/leave-it-to-double-fine-to-make-the-first-single-player-friendslop-game",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1795006209352.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T13:02:28.598148+00:00"
+    },
+    {
+      "fingerprint": "84eb1c85fb6826ba66c49234",
+      "title": "GTA 6 Uses FSR 4.1 on Xbox Series S to Upscale From 720p to 1080p",
+      "url": "https://ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T12:24:45+00:00",
+      "score": 13,
+      "event_key": "gta-6-fsr-4-1-xbox-series-s",
+      "title_ru": "GTA 6 использует FSR 4.1 на Xbox Series S",
+      "threads_teaser_ru": "Стали известны технические детали работы GTA 6 на консоли Xbox Series S. Разработчики применили технологию FSR 4.1 для апскейла с 720p до 1080p.",
+      "telegram_message_id": "2864",
+      "telegram_url": "https://t.me/gamepulse_newss/2864",
+      "telegram_published_at": "2026-11-18T13:17:12.621466+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-41-1795004610502.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T13:02:28.598245+00:00"
+  "updated_at": "2026-11-18T13:17:12.621591+00:00"
 }
