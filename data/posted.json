@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "040353ebde54caaadf683631",
-      "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
-      "url": "https://eurogamer.net/video-game-industry-reacts-to-bioware-closure",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-22T05:56:00+00:00",
-      "score": 6,
-      "event_key": "BioWare studio closure and widespread EA layoffs",
-      "title_ru": "Индустрия отреагировала на закрытие BioWare",
-      "threads_teaser_ru": "Внезапное закрытие BioWare вызвало волну скорби и критики в игровой индустрии. Разработчики вспоминают наследие студии, а эксперты задаются вопросами о будущем их знаменитых франшиз после того, как EA объявила о масштабных сокращениях в нескольких дочерних командах.",
-      "telegram_message_id": "1687",
-      "telegram_url": "https://t.me/gamepulse_newss/1687",
-      "telegram_published_at": "2026-10-24T04:32:34.344002+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/solas_dragon_age_veilguard.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T04:32:35.736522+00:00"
-    },
-    {
       "fingerprint": "7f309a91aff1724b1b2eede2",
       "title": "Register for the 2026 Epic AI MegaJam",
       "url": "https://unrealengine.com/news/2026-epic-ai-megajam",
@@ -20538,7 +20521,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gta-6-jason-house-1795034681860.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T21:02:42.295119+00:00"
+    },
+    {
+      "fingerprint": "70233642fafe81cb53f7f58d",
+      "title": "Magic: The Gathering Designer Reveals the Biggest Problem With Marvel’s Infinity Stones",
+      "url": "https://polygon.com/mtg-marvel-infinity-stones-spoilers-mark-rosewater-interview",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T19:00:18+00:00",
+      "score": 10,
+      "event_key": "Mark Rosewater discusses Magic: The Gathering Marvel Infinity Stones design challenges",
+      "title_ru": "Mark Rosewater о проблемах дизайна Infinity Stones в Magic: The Gathering",
+      "threads_teaser_ru": "Дизайнер Magic: The Gathering Mark Rosewater объяснил, как команда адаптировала шесть камней Infinity Stones под пять цветов маны игры. Это решение потребовало компромиссов для сохранения баланса и механик.",
+      "telegram_message_id": "2891",
+      "telegram_url": "https://t.me/gamepulse_newss/2891",
+      "telegram_published_at": "2026-11-18T21:17:17.191164+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/two-hands-cup-the-time-stone-in-art-from-magic-the-gathering.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/ytdown-com_youtube_media_srkvfow4t08_magic-the-gathering-i-marvel-darkhold-destiny-official-announcement_001_1080p-1794853417.mp4"
     }
   ],
-  "updated_at": "2026-11-18T21:02:42.295209+00:00"
+  "updated_at": "2026-11-18T21:17:17.191257+00:00"
 }
