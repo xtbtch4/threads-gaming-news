@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "700fec083c63b4fda718f604",
-      "title": "'Press Play' — Amazon Reveals Full PlayStation x Lisa Merch Collection as the Blackpink Star Drops New EP",
-      "url": "https://ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T15:59:38+00:00",
-      "score": 13,
-      "event_key": "Amazon reveals PlayStation x Lisa merch collection",
-      "title_ru": "Amazon представил полную коллекцию мерча PlayStation x Lisa",
-      "threads_teaser_ru": "Вместе с выходом нового EP «Press Play» певица Lisa представила полноценную коллаборацию с PlayStation. Помимо одежды и аксессуаров, в продажу вернулся тематический DualSense, а в ноябре коллекцию пополнит фирменный чехол для контроллера.",
-      "telegram_message_id": "1646",
-      "telegram_url": "https://t.me/gamepulse_newss/1646",
-      "telegram_published_at": "2026-10-23T16:32:10.502203+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/lisaxplaystation-1-1792768975329.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T16:32:11.903528+00:00"
-    },
-    {
       "fingerprint": "449df27a1b682317a52840ad",
       "title": "Beloved Game Studio’s Fate Looks Grim after Xbox Abandons It",
       "url": "https://polygon.com/arkane-studios-potential-closure-november-2026-microsoft",
@@ -20538,7 +20521,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collage-maker-11-oct-2023-09-56-pm-1670.jpeg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
       "threads_published_at": "2026-11-18T05:32:38.250470+00:00"
+    },
+    {
+      "fingerprint": "310010868b9abcbc2db2b639",
+      "title": "Google Play Reveals Best Games of 2026 in India, Featuring Titles Like Arknights: Endfield, Monument Valley 3 and More",
+      "url": "https://in.ign.com/ign-misc/277335/google-play-reveals-best-games-of-2026-in-india-featuring-titles-like-arknights-endfield-monument-va",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T15:28:00+00:00",
+      "score": 6,
+      "event_key": "google play best games 2026 in india winners announced",
+      "title_ru": "Google Play назвала лучшие игры 2026 года в Индии",
+      "threads_teaser_ru": "Google Play представила список лучших мобильных игр 2026 года в Индии. Главным победителем стала Arknights: Endfield, завоевавшая награды сразу в двух ключевых номинациях, включая «Лучший сюжет». В число отмеченных релизов также попала Monument Valley 3.",
+      "telegram_message_id": "2850",
+      "telegram_url": "https://t.me/gamepulse_newss/2850",
+      "telegram_published_at": "2026-11-18T08:17:04.424080+00:00",
+      "threads_id": null,
+      "image_url": "https://sm.ign.com/t/ign_in/screenshot/default/best-of-2026-blogpost-header-image-dd-xfn-glowidth-1300-1_f3tz.1200.jpg"
     }
   ],
-  "updated_at": "2026-11-18T05:32:38.250597+00:00"
+  "updated_at": "2026-11-18T08:17:04.424186+00:00"
 }
