@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9ddf14007c9fbae60b17b82e",
-      "title": "Helldivers 3 \"only makes sense\" if it’s so unlike Helldivers 2 \"that both games can exist side by side\", says Arrowhead boss, discussing their new prototype game",
-      "url": "https://rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-23T12:20:39+00:00",
-      "score": 12,
-      "event_key": "arrowhead_discusses_potential_helldivers_3_development",
-      "title_ru": "Arrowhead высказалась о возможном создании Helldivers 3",
-      "threads_teaser_ru": "Глава Arrowhead Game Studios рассказал, при каких условиях студия возьмется за создание Helldivers 3. Сейчас 95% команды продолжают поддерживать Helldivers 2.",
-      "telegram_message_id": "1631",
-      "telegram_url": "https://t.me/gamepulse_newss/1631",
-      "telegram_published_at": "2026-10-23T12:32:11.321142+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Helldivers-2-side-by-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T12:32:12.837897+00:00"
-    },
-    {
       "fingerprint": "d1d1de1c6756030e02967c15",
       "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
       "url": "https://eurogamer.net/half-life-3-developer-references-codename-public",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/the-finals-casters-speak-out-1794959859365.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T01:16:37.432940+00:00"
+    },
+    {
+      "fingerprint": "1f04350677c661891e27c404",
+      "title": "Former Dishonored designer joins the team on New Blood's Victorian immersive sim Gloomwood, with a new level and new weapons coming this year",
+      "url": "https://rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T15:32:10+00:00",
+      "score": 9,
+      "event_key": "former-dishonored-designer-joins-gloomwood-team",
+      "title_ru": "Бывший дизайнер Dishonored присоединился к разработчикам Gloomwood",
+      "threads_teaser_ru": "К команде разработчиков Gloomwood присоединился бывший дизайнер Dishonored Жульен Эвейе. Авторы также анонсировали выход крупного обновления до конца года.",
+      "telegram_message_id": "2835",
+      "telegram_url": "https://t.me/gamepulse_newss/2835",
+      "telegram_published_at": "2026-11-18T01:32:09.236937+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Gloomwood-Cursed-Fishdogs.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T01:16:37.433037+00:00"
+  "updated_at": "2026-11-18T01:32:09.237048+00:00"
 }
