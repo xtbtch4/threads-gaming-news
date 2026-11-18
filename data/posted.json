@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1163d513383ea4a12deb4986",
-      "title": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
-      "url": "https://rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-23T10:51:01+00:00",
-      "score": 14,
-      "event_key": "star_trek_online_producer_criticizes_studio_closures",
-      "title_ru": "Star Trek Online исполнительный продюсер критикует закрытие игровых студий",
-      "threads_teaser_ru": "Исполнительный продюсер Star Trek Online Томас Марроне раскритиковал закрытие студий вроде BioWare ради стартапов и ИИ-технологий, назвав это самосаботажем и уничтожением ценных активов.",
-      "telegram_message_id": "1630",
-      "telegram_url": "https://t.me/gamepulse_newss/1630",
-      "telegram_published_at": "2026-10-23T12:16:47.631824+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T12:16:49.076079+00:00"
-    },
-    {
       "fingerprint": "9ddf14007c9fbae60b17b82e",
       "title": "Helldivers 3 \"only makes sense\" if it’s so unlike Helldivers 2 \"that both games can exist side by side\", says Arrowhead boss, discussing their new prototype game",
       "url": "https://rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/targetblackfriday-1762459453578-1794960073525.webp?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T01:02:22.957277+00:00"
+    },
+    {
+      "fingerprint": "56f4eb2887f20b88aeb58c63",
+      "title": "'It's Been a Sh*tshow' — Esports Casters Call for Change After Embark Studios Replaces Talent for The Finals' Grand Major Qualifier Highlight Reel With Game's AI Commentators",
+      "url": "https://ign.com/articles/its-been-a-shtshow-esports-casters-call-for-change-after-embark-studios-replaces-talent-for-the-finals-grand-major-qualifier-highlight-reel-with-games-ai-commentators",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T00:32:54+00:00",
+      "score": 9,
+      "event_key": "embark_studios_replaces_the_finals_casters_with_ai",
+      "title_ru": "Embark Studios раскритиковали за замену киберспортивных кастеров The Finals на ИА-комментаторов",
+      "threads_teaser_ru": "Embark Studios удалили видеоролик с итогами квалификаций The Finals, где реальных киберспортивных комментаторов заменили на ИИ-ведущих Scotty и June. Это вызвало волну критики в индустрии.",
+      "telegram_message_id": "2834",
+      "telegram_url": "https://t.me/gamepulse_newss/2834",
+      "telegram_published_at": "2026-11-18T01:16:36.223980+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/the-finals-casters-speak-out-1794959859365.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T01:02:22.957367+00:00"
+  "updated_at": "2026-11-18T01:16:36.224083+00:00"
 }
