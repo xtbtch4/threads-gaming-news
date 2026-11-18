@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "10f5e3ca3b0ff550c9133a8b",
-      "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
-      "url": "https://polygon.com/gta-3-retrospective",
-      "source": "Polygon",
-      "published_at_source": "2026-10-23T11:00:19+00:00",
-      "score": 12,
-      "event_key": "GTA 3 25th anniversary retrospective review",
-      "title_ru": "Ретроспектива GTA 3: как проект Rockstar изменил игры с открытым миром",
-      "threads_teaser_ru": "Спустя 25 лет Grand Theft Auto 3 остается одним из самых значимых достижений в истории индустрии. Разбираемся, как разработчикам удалось реализовать концепцию живого открытого мира на PlayStation 2, используя динамический стриминг данных и уникальную структуру миссий.",
-      "telegram_message_id": "1628",
-      "telegram_url": "https://t.me/gamepulse_newss/1628",
-      "telegram_published_at": "2026-10-23T11:17:29.997659+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-3-4.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-23T11:17:31.314708+00:00"
-    },
-    {
       "fingerprint": "e570004fc32eeabca5b15eae",
       "title": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises",
       "url": "https://rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/exodus-femjun-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T00:32:32.500179+00:00"
+    },
+    {
+      "fingerprint": "1d54ab692182a31c5b3ccafe",
+      "title": "How to Get Ready for November 19",
+      "url": "https://news.xbox.com/en-us/2026/11/17/how-to-get-ready-for-november-19",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-18T00:00:00+00:00",
+      "score": 9,
+      "event_key": "xbox preparation guide for november 19 2026 releases",
+      "title_ru": "Как подготовиться к 19 ноября на XBOX",
+      "threads_teaser_ru": "Приближается 19 ноября 2026 года — главный игровой день для владельцев XBOX. Узнайте, как освободить память на консоли, подготовить обновления и настроить всё для комфортной игры.",
+      "telegram_message_id": "2832",
+      "telegram_url": "https://t.me/gamepulse_newss/2832",
+      "telegram_published_at": "2026-11-18T00:46:51.632280+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/NOV_19-579506ca340bbdac68fc.jpg"
     }
   ],
-  "updated_at": "2026-11-18T00:32:32.500267+00:00"
+  "updated_at": "2026-11-18T00:46:51.632373+00:00"
 }
