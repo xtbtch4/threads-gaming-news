@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "85c6a2e4e683e0dd0c6cfafb",
-      "title": "Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms",
-      "url": "https://gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T15:31:00+00:00",
-      "score": 15,
-      "event_key": "arkane lyon faces closure risk by november",
-      "title_ru": "Arkane Lyon может закрыться уже в ноябре",
-      "threads_teaser_ru": "Студии Arkane Lyon грозит закрытие, если до 13 ноября не удастся найти покупателя. Профсоюзы пытаются спасти рабочие места команды, которая продолжает разработку Marvel's Blade.",
-      "telegram_message_id": "1644",
-      "telegram_url": "https://t.me/gamepulse_newss/1644",
-      "telegram_published_at": "2026-10-23T16:02:56.046032+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1581/15811374/4232391-blade.jpg?w=300",
-      "threads_published_at": "2026-10-23T16:02:57.411854+00:00"
-    },
-    {
       "fingerprint": "28a876a802107732b1d08a90",
       "title": "Fallout Shelter: The Experiment Is the Official Title for the Prime Video Reality Competition Show, Release Date Announced on Fallout Day",
       "url": "https://ign.com/articles/fallout-shelter-the-experiment-is-the-official-title-for-the-prime-video-reality-competition-show-release-date-announced-on-fallout-day",
@@ -20537,7 +20520,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pmdwish_ec001.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4",
       "threads_published_at": "2026-11-18T05:02:19.703650+00:00"
+    },
+    {
+      "fingerprint": "48a0f012ac39a0fcca360689",
+      "title": "Fox News Talked About GTA 6, and It Went as Well as You'd Expect",
+      "url": "https://ign.com/articles/fox-news-talked-about-gta-6-and-it-went-as-well-as-youd-expect",
+      "source": "IGN",
+      "published_at_source": "2026-11-16T07:40:00+00:00",
+      "score": 6,
+      "event_key": "Fox News covers GTA 6 release and characters",
+      "title_ru": "Телеканал Fox News обсудил GTA 6",
+      "threads_teaser_ru": "Телеканал Fox News обсудил предстоящую GTA 6, вызвав неоднозначную реакцию. Ведущая Rachel Campos-Duffy заявила, что игра может навредить обществу, а также ошибочно назвала одного из главных героев игры, Lucia, «проституткой».",
+      "telegram_message_id": "2848",
+      "telegram_url": "https://t.me/gamepulse_newss/2848",
+      "telegram_published_at": "2026-11-18T05:17:24.617802+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T05:02:19.703762+00:00"
+  "updated_at": "2026-11-18T05:17:24.617898+00:00"
 }
