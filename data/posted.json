@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9b992c27e5f98df8de607353",
-      "title": "Sims Competitor InZoi Deletes “Uncomfortable” Post After Fan Pushback",
-      "url": "https://gamespot.com/articles/sims-competitor-inzoi-deletes-uncomfortable-post-after-fan-pushback",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T21:17:52+00:00",
-      "score": 12,
-      "event_key": "inzoi deletes controversial playground post on x",
-      "title_ru": "InZoi удалила спорный пост в X после критики фанатов",
-      "threads_teaser_ru": "Разработчики InZoi удалили скандальный пост в X с изображением мужчины на детской площадке после того, как фанаты обвинили их в неуместных намеках. Публикация была призвана показать улучшения игры и грядущее DLC.",
-      "telegram_message_id": "1666",
-      "telegram_url": "https://t.me/gamepulse_newss/1666",
-      "telegram_published_at": "2026-10-23T21:47:01.889913+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/4466637-inzoibeingmean.webp?w=300",
-      "threads_published_at": "2026-10-23T21:47:03.443006+00:00"
-    },
-    {
       "fingerprint": "64e8be23d12b79922a8171bc",
       "title": "Watch the Official Grand Theft Auto VI Launch Trailer – Explore Leonida Before the Game Arrives November 19",
       "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19",
@@ -20537,7 +20520,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/lucia-mission-failed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T14:47:04.014949+00:00"
+    },
+    {
+      "fingerprint": "edd6989f3769cf630174c82c",
+      "title": "GTA 6 Really Is Better On PS5 Than Xbox",
+      "url": "https://polygon.com/gta-6-ps5-vs-xbox",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T15:00:18+00:00",
+      "score": 14,
+      "event_key": "grand theft auto 6 dualsense integration on ps5",
+      "title_ru": "Особенности версии Grand Theft Auto 6 для PlayStation 5",
+      "threads_teaser_ru": "Журналисты поделились впечатлениями от Grand Theft Auto 6 на PlayStation 5. Главным отличием версии стала детальная поддержка особенностей контроллера DualSense, от звуков телефона до тактильной отдачи.",
+      "telegram_message_id": "2870",
+      "telegram_url": "https://t.me/gamepulse_newss/2870",
+      "telegram_published_at": "2026-11-18T15:03:25.546946+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/55504761597_008d0d7839_k-1.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-18T14:47:04.015033+00:00"
+  "updated_at": "2026-11-18T15:03:25.547064+00:00"
 }
