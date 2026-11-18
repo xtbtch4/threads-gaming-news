@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5e8b515b68bc16d9af0f7bfb",
-      "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
-      "url": "https://ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T21:03:56+00:00",
-      "score": 13,
-      "event_key": "mass-effect-fans-call-for-ea-boycott-bioware-closure",
-      "title_ru": "Фанаты Mass Effect призывают к бойкоту EA после закрытия BioWare",
-      "threads_teaser_ru": "Фанаты Mass Effect призывают бойкотировать продукты EA после закрытия BioWare и отмены новой части серии. Петиция в защиту игры собрала уже более 76 500 подписей, но эксперты скептически смотрят на требования игроков.",
-      "telegram_message_id": "1668",
-      "telegram_url": "https://t.me/gamepulse_newss/1668",
-      "telegram_published_at": "2026-10-23T22:32:20.849174+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/11/07/mass-effect-legendary-edition-liara-1762534445971.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T22:32:22.241575+00:00"
-    },
-    {
       "fingerprint": "bb1981aceb2b1be6a847741e",
       "title": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
       "url": "https://rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
@@ -20538,7 +20521,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-18T15:17:22.448925+00:00"
+    },
+    {
+      "fingerprint": "a85f58b300fc86804169c907",
+      "title": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years",
+      "url": "https://eurogamer.net/playstation-sony-game-awards-no-nominations",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-18T15:17:10+00:00",
+      "score": 15,
+      "event_key": "playstation-no-goty-nominations-the-game-awards-2026",
+      "title_ru": "PlayStation впервые за 11 лет осталась без номинаций на Game of the Year на The Game Awards",
+      "threads_teaser_ru": "Впервые с 2015 года ни одна игра от PlayStation не получила номинацию в категории Game of the Year на премии The Game Awards 2026. При этом компания представлена в других категориях с проектами Marvel's Wolverine, Saros, Marvel Tōkon: Fighting Souls, Marathon и God of War Laufey.",
+      "telegram_message_id": "2872",
+      "telegram_url": "https://t.me/gamepulse_newss/2872",
+      "telegram_published_at": "2026-11-18T15:32:39.330901+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/1_NSDDo7c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T15:17:22.449016+00:00"
+  "updated_at": "2026-11-18T15:32:39.331025+00:00"
 }
