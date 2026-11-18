@@ -20535,9 +20535,10 @@
       "telegram_message_id": "2889",
       "telegram_url": "https://t.me/gamepulse_newss/2889",
       "telegram_published_at": "2026-11-18T20:47:35.966330+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-and-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-and-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-18T20:47:37.621927+00:00"
     }
   ],
-  "updated_at": "2026-11-18T20:47:35.966419+00:00"
+  "updated_at": "2026-11-18T20:47:37.622014+00:00"
 }
