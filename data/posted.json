@@ -20535,9 +20535,10 @@
       "telegram_message_id": "2896",
       "telegram_url": "https://t.me/gamepulse_newss/2896",
       "telegram_published_at": "2026-11-18T22:31:56.352293+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/burgerking-1795028388152.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/burgerking-1795028388152.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-18T22:31:57.634125+00:00"
     }
   ],
-  "updated_at": "2026-11-18T22:31:56.352387+00:00"
+  "updated_at": "2026-11-18T22:31:57.634214+00:00"
 }
