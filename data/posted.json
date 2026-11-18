@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a94293a51c9d946a961ac5b0",
-      "title": "Save Mass Effect Petition Hits 50,000 Signatures, Just Days After BioWare Closure",
-      "url": "https://ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T14:59:00+00:00",
-      "score": 15,
-      "event_key": "save mass effect petition hits 50000 signatures bioware closure",
-      "title_ru": "Петиция #SaveMassEffect набрала более 50 000 подписей после закрытия BioWare",
-      "threads_teaser_ru": "Петиция #SaveMassEffect собрала более 50 000 подписей после недавнего закрытия BioWare компанией EA и отмены новой игры. Фанаты требуют передать франшизу другой студии или продать IP.",
-      "telegram_message_id": "1643",
-      "telegram_url": "https://t.me/gamepulse_newss/1643",
-      "telegram_published_at": "2026-10-23T15:47:21.478321+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/me-1792767524907.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T15:47:22.998110+00:00"
-    },
-    {
       "fingerprint": "85c6a2e4e683e0dd0c6cfafb",
       "title": "Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms",
       "url": "https://gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms",
@@ -20536,7 +20519,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/cyberpowerpc6-1794944403445.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T04:47:04.763159+00:00"
+    },
+    {
+      "fingerprint": "a7972848c0172ecf26c7852a",
+      "title": "66 Years Later, William Shatner's Forgotten 'Twilight Zone' Is Still a Haunting Masterpiece",
+      "url": "https://polygon.com/william-shatner-the-twilight-zone-nick-of-time",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T05:00:18+00:00",
+      "score": 8,
+      "event_key": "william shatner nick of time twilight zone anniversary",
+      "title_ru": "Эпизоду The Twilight Zone с Уильямом Шатнером исполнилось 66 лет",
+      "threads_teaser_ru": "Издание Polygon напомнило о классическом эпизоде «Nick of Time» сериала The Twilight Zone с Уильямом Шатнером, который вышел ровно 66 лет назад. В центре сюжета — одержимость загадочным гадальным автографом в небольшой закусочной.",
+      "telegram_message_id": "2847",
+      "telegram_url": "https://t.me/gamepulse_newss/2847",
+      "telegram_published_at": "2026-11-18T05:02:18.400240+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pmdwish_ec001.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/sq-mcelroys-3draft-1794512609.mp4"
     }
   ],
-  "updated_at": "2026-11-18T04:47:04.763241+00:00"
+  "updated_at": "2026-11-18T05:02:18.400350+00:00"
 }
