@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "553b80b5710ddee3affe1f4a",
-      "title": "Epic Games Store makes 2 PC games completely free this week",
-      "url": "https://polygon.com/epic-games-store-free-games-10-22-2026-download",
-      "source": "Polygon",
-      "published_at_source": "2026-10-22T07:56:00+00:00",
-      "score": 6,
-      "event_key": "Epic Games Store weekly free games Sker Ritual Home",
-      "title_ru": "В Epic Games Store началась новая раздача двух игр",
-      "threads_teaser_ru": "В Epic Games Store стартовала раздача двух хорроров: кооперативного шутера Sker Ritual и детективной игры Home. Забрать проекты можно бесплатно до 29 октября.",
-      "telegram_message_id": "1694",
-      "telegram_url": "https://t.me/gamepulse_newss/1694",
-      "telegram_published_at": "2026-10-24T08:32:25.349766+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sker-ritual-screenshot-1.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/sker-ritual-new-gameplay-trailer-1792615932.mp4",
-      "threads_published_at": "2026-10-24T08:32:26.639906+00:00"
-    },
-    {
       "fingerprint": "59028379cd68286683002d45",
       "title": "7 Hilarious ‘Far Side’ Comics With the Worst Puns",
       "url": "https://polygon.com/best-far-side-comics-with-terrible-puns",
@@ -20538,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-18T22:46:48.295035+00:00"
+    },
+    {
+      "fingerprint": "db35c5f26937155f77d78ea9",
+      "title": "Robert Downey Jr. Teases Avengers: Doomsday With New Behind the Scenes Footage",
+      "url": "https://ign.com/articles/robert-downey-jr-teases-avengers-doomsday-with-new-behind-the-scenes-footage",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T18:11:47+00:00",
+      "score": 8,
+      "event_key": "robert downey jr discusses avengers doomsday behind the scenes footage",
+      "title_ru": "Robert Downey Jr. поделился новыми кадрами со съемок Avengers: Doomsday",
+      "threads_teaser_ru": "Marvel выпустила новое видео со съемок Avengers: Doomsday с участием Robert Downey Jr., приуроченное к месяцу до премьеры фильма в кинотеатрах.",
+      "telegram_message_id": "2898",
+      "telegram_url": "https://t.me/gamepulse_newss/2898",
+      "telegram_published_at": "2026-11-18T23:02:57.885656+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/screenshot-2026-11-18-171305-1795024150465.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T22:46:48.295125+00:00"
+  "updated_at": "2026-11-18T23:02:57.885749+00:00"
 }
