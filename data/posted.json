@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8840c565274b17cb36c6e2b3",
-      "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
-      "url": "https://eurogamer.net/phantom-blade-zero-hit-not-out",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-23T12:33:45+00:00",
-      "score": 9,
-      "event_key": "Phantom Blade Zero pre-order performance and steam data",
-      "title_ru": "Phantom Blade Zero приближается к релизу с 500 тысячами предзаказов в Steam",
-      "threads_teaser_ru": "Phantom Blade Zero еще не вышла, но уже показывает впечатляющие результаты. По оценкам аналитиков, экшен собрал 500 тысяч предзаказов в Steam и 2,5 млн добавлений в список желаемого. Разбираемся, как игра обходит крупные новинки еще до старта продаж.",
-      "telegram_message_id": "1697",
-      "telegram_url": "https://t.me/gamepulse_newss/1697",
-      "telegram_published_at": "2026-10-24T10:02:45.163945+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero---Release-Date-Announcement-Trailer-_-PS5-Games-0-48-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T10:02:46.620922+00:00"
-    },
-    {
       "fingerprint": "0d45793cf843bd7242271cbd",
       "title": "Game of Thrones’ Perfect Replacement is a 100+ Hours Fantasy Series that's Free on YouTube",
       "url": "https://polygon.com/game-of-thrones-replacement-critical-role",
@@ -20536,7 +20519,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/8bitdo-game-cube-controller.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-18T23:32:22.639495+00:00"
+    },
+    {
+      "fingerprint": "6379dac6cc9f82b86a281570",
+      "title": "Korridor turns those Youtube ads for vertical mobile shooters into a new, \"deeply strategic\" genre, and I can't decide if it's lying",
+      "url": "https://rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-18T17:10:00+00:00",
+      "score": 7,
+      "event_key": "korridordemo-released-by-tinytoad",
+      "title_ru": "Вышла демоверсия Korridor, превращающая рекламу мобильных шутеров в отдельную игру",
+      "threads_teaser_ru": "Вышла демоверсия Korridor от TinyToad. Проект превращает рекламу мобильных вертикальных шутеров в стратегический «gates shooter» с элементами roguelike и bullet heaven.",
+      "telegram_message_id": "2901",
+      "telegram_url": "https://t.me/gamepulse_newss/2901",
+      "telegram_published_at": "2026-11-18T23:47:23.939052+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/20261118154502_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T23:32:22.639586+00:00"
+  "updated_at": "2026-11-18T23:47:23.939148+00:00"
 }
