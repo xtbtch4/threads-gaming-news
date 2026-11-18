@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f4cce890bdef234a8cca756",
-      "title": "This Comfortable Big and Tall Gaming Chair Drops to $129.99 With Free Delivery Ahead of Black Friday",
-      "url": "https://ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T16:20:00+00:00",
-      "score": 10,
-      "event_key": "comhoma big and tall gaming chair discount amazon black friday",
-      "title_ru": "Скидка на кресло COMHOMA Big and Tall Gaming Chair",
-      "threads_teaser_ru": "На Amazon перед Black Friday снизилась цена на геймерское кресло COMHOMA Big and Tall Gaming Chair до 129,99 долларов США при использовании специального купона.",
-      "telegram_message_id": "1662",
-      "telegram_url": "https://t.me/gamepulse_newss/1662",
-      "telegram_published_at": "2026-10-23T20:46:53.441572+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/gtplayerbigandtall-1792771861497.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T20:46:54.781408+00:00"
-    },
-    {
       "fingerprint": "b0c2fa3e76d4dcca5bbb2f76",
       "title": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
       "url": "https://ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/steamdb-update-post-nexus-mods-acquisition-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T13:32:43.327496+00:00"
+    },
+    {
+      "fingerprint": "839502d7cd9d68138e65292f",
+      "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+      "url": "https://ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T11:20:00+00:00",
+      "score": 9,
+      "event_key": "gta 6 15 minutes first mission gameplay ps5 pro",
+      "title_ru": "15 минут игрового процесса первой миссии GTA 6",
+      "threads_teaser_ru": "IGN показал 15 минут геймплея первой полноценной миссии GTA 6 на PS5 Pro. Ролик записан без сюжетных спойлеров из пролога и демонстрирует задание по перевозке наркотиков на архипелаге Florida Keys.",
+      "telegram_message_id": "2866",
+      "telegram_url": "https://t.me/gamepulse_newss/2866",
+      "telegram_published_at": "2026-11-18T13:47:12.014664+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/first-mission-blog-1794991763105.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T13:32:43.327582+00:00"
+  "updated_at": "2026-11-18T13:47:12.014716+00:00"
 }
