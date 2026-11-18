@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "77309c2061e29a576bab5212",
-      "title": "Nintendo Legend Shigeru Miyamoto Becomes First Game Designer to Be Awarded Japan's Order of Culture",
-      "url": "https://ign.com/articles/nintendo-legend-shigeru-miyamoto-becomes-first-game-designer-to-be-awarded-japans-order-of-culture",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T08:48:00+00:00",
-      "score": 9,
-      "event_key": "Shigeru Miyamoto awarded Japan Order of Culture",
-      "title_ru": "Сигэру Миямото стал первым геймдизайнером, удостоенным Ордена культуры Японии",
-      "threads_teaser_ru": "Сигэру Миямото вошел в историю как первый геймдизайнер, ставший кавалером Ордена культуры Японии. Награду, вручаемую императором, разработчик получит 3 ноября. Он подчеркнул, что считает это признанием труда всей своей команды.",
-      "telegram_message_id": "1672",
-      "telegram_url": "https://t.me/gamepulse_newss/1672",
-      "telegram_published_at": "2026-10-23T23:32:35.624281+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/gettyimages-1478890250-1792770150535.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T23:32:37.301886+00:00"
-    },
-    {
       "fingerprint": "6a077b17edbb6e5a274eb6fa",
       "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
       "url": "https://polygon.com/darkwing-duck-reboot-disney-plus",
@@ -20539,7 +20522,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/clair-obscur-expedition-33-gustave-giving-up.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/04/clair-obscur_-expedition-33-_-thank-you-update-trailer-publer-com-1777038315.mp4",
       "threads_published_at": "2026-11-18T16:47:02.045996+00:00"
+    },
+    {
+      "fingerprint": "b471da0eed1ab3c0091c941f",
+      "title": "The Keepsake Sea sets sail in Disney Dreamlight Valley – News",
+      "url": "https://nintendo.com/us/whatsnew/the-keepsake-sea-sets-sail-in-disney-dreamlight-valley",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-18T17:00:00+00:00",
+      "score": 15,
+      "event_key": "keepsake_sea_expansion_disney_dreamlight_valley_released",
+      "title_ru": "Дополнение The Keepsake Sea для Disney Dreamlight Valley",
+      "threads_teaser_ru": "Для Disney Dreamlight Valley вышло дополнение The Keepsake Sea. Игроки смогут превратиться в русалок, исследовать новые подводные зоны, встретить персонажей Disney и получить особый бонус.",
+      "telegram_message_id": "2876",
+      "telegram_url": "https://t.me/gamepulse_newss/2876",
+      "telegram_published_at": "2026-11-18T17:02:44.501129+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-18T16:47:02.046096+00:00"
+  "updated_at": "2026-11-18T17:02:44.501219+00:00"
 }
