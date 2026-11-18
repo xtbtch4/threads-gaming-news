@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4a1f0109d764ec614b1a69f8",
-      "title": "Leave It To Double Fine To Make The First Single-Player Friendslop Game",
-      "url": "https://gamespot.com/articles/leave-it-to-double-fine-to-make-the-first-single-player-friendslop-game",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T19:55:29+00:00",
-      "score": 11,
-      "event_key": "double_fine_releases_thank_you_bus_driver",
-      "title_ru": "Double Fine выпустила новую игру Thank You Bus Driver",
-      "threads_teaser_ru": "Студия Double Fine выпустила одиночную игру Thank You Bus Driver в Steam за 5 долларов. В ней нужно управлять автобусом в монохромном городе, перевозить пассажиров и наводить порядок в салоне.",
-      "telegram_message_id": "1661",
-      "telegram_url": "https://t.me/gamepulse_newss/1661",
-      "telegram_published_at": "2026-10-23T20:32:31.566553+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_3f3de80493c3a3a2626dd20109d2a8fb1622ee4b.1920x1080.jpg?w=300",
-      "threads_published_at": "2026-10-23T20:32:33.146639+00:00"
-    },
-    {
       "fingerprint": "9f4cce890bdef234a8cca756",
       "title": "This Comfortable Big and Tall Gaming Chair Drops to $129.99 With Free Delivery Ahead of Black Friday",
       "url": "https://ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-october-2026",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-41-1795004610502.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T13:17:14.159556+00:00"
+    },
+    {
+      "fingerprint": "e29a87770c579554873e4ad6",
+      "title": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
+      "url": "https://rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-18T13:25:50+00:00",
+      "score": 11,
+      "event_key": "steamdb upcoming updates affiliate links and mods tab",
+      "title_ru": "SteamDB получит партнерские ссылки и вкладку с модами после покупки Nexus Mods",
+      "threads_teaser_ru": "После приобретения SteamDB владельцы Nexus Mods анонсировали добавление партнерских ссылок на авторизованных ритейлеров и отдельной вкладки для модификаций.",
+      "telegram_message_id": "2865",
+      "telegram_url": "https://t.me/gamepulse_newss/2865",
+      "telegram_published_at": "2026-11-18T13:32:41.806804+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/steamdb-update-post-nexus-mods-acquisition-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T13:17:14.159652+00:00"
+  "updated_at": "2026-11-18T13:32:41.806871+00:00"
 }
