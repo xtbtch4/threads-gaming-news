@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4fd997cfd3cc7248f598b227",
-      "title": "Control Resonant’s Unsettling Board Dialogue Is Carefully Crafted Gibberish",
-      "url": "https://gamespot.com/articles/control-resonant-unsettling-board-dialogue-is-carefully-crafted-gibberish",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T13:30:35+00:00",
-      "score": 10,
-      "event_key": "control resonant board dialogue gibberish remedy entertainment",
-      "title_ru": "Разработчики Control Resonant рассказали о создании пугающей речи The Board",
-      "threads_teaser_ru": "Загадочная речь сущности The Board в Control Resonant оказалась тщательно созданной бессмыслицей. Разработчики объяснили, как устроен этот звуковой трюк.",
-      "telegram_message_id": "1636",
-      "telegram_url": "https://t.me/gamepulse_newss/1636",
-      "telegram_published_at": "2026-10-23T13:47:10.075113+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resonant-3.jpg?w=300",
-      "threads_published_at": "2026-10-23T13:47:11.495151+00:00"
-    },
-    {
       "fingerprint": "234e9acaddfcdbab4ebcfd15",
       "title": "Next Week on XBOX: New Games for October 26 to 30",
       "url": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Unity-Fellowship-announcement.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T02:32:38.294247+00:00"
+    },
+    {
+      "fingerprint": "1287c1e25a7e1a98eb066b10",
+      "title": "Firaxis reportedly cuts a third of its staff as studio head departs and new XCOM struggles",
+      "url": "https://eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-17T18:13:20+00:00",
+      "score": 8,
+      "event_key": "firaxis_layoffs_studio_head_departure_2026",
+      "title_ru": "Firaxis сократила треть штата на фоне ухода главы студии",
+      "threads_teaser_ru": "Студия Firaxis Games сократила около трети сотрудников на фоне ухода руководителя Heather Hazen и проблем с разработкой новой игры XCOM.",
+      "telegram_message_id": "2840",
+      "telegram_url": "https://t.me/gamepulse_newss/2840",
+      "telegram_published_at": "2026-11-18T02:47:01.375258+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Sid-Meier_s-Civilization-VII---Benjamin-Franklin-vs.-Ashoka.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T02:32:38.294326+00:00"
+  "updated_at": "2026-11-18T02:47:01.375348+00:00"
 }
