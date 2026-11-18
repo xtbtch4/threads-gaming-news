@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6a077b17edbb6e5a274eb6fa",
-      "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
-      "url": "https://polygon.com/darkwing-duck-reboot-disney-plus",
-      "source": "Polygon",
-      "published_at_source": "2026-10-23T23:33:18+00:00",
-      "score": 8,
-      "event_key": "Disney announces new Darkwing Duck series",
-      "title_ru": "Disney официально анонсировала новый сериал Darkwing Duck",
-      "threads_teaser_ru": "Disney возвращает Darkwing Duck: анонсирован новый мультсериал для Disney Plus. Drake Mallard предстоит вернуться в строй после 35-летнего отсутствия, заручившись поддержкой подростка по имени Duckie. Известен и впечатляющий актерский состав во главе с Mark Hamill.",
-      "telegram_message_id": "1673",
-      "telegram_url": "https://t.me/gamepulse_newss/1673",
-      "telegram_published_at": "2026-10-23T23:47:44.135298+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/darkwingduck_2026_release_image_hd_updated_20260918-logo.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-23T23:47:45.818938+00:00"
-    },
-    {
       "fingerprint": "d59fb0ec0ba56e48d2853653",
       "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
       "url": "https://polygon.com/best-classic-jrpgs-no-remake",
@@ -20539,7 +20522,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-18T17:02:46.124559+00:00"
+    },
+    {
+      "fingerprint": "5f56da0e4f574839be6dbbf8",
+      "title": "I've Played the First 30 Minutes Of GTA 6 On Every Console, Here's How Performance Compares",
+      "url": "https://ign.com/articles/ive-played-the-first-30-minutes-of-gta-6-on-every-console-heres-how-performance-compares",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T16:56:31+00:00",
+      "score": 11,
+      "event_key": "GTA 6 console performance testing and comparison",
+      "title_ru": "Первые тесты производительности GTA 6 на консолях",
+      "threads_teaser_ru": "Журналисты оценили работу GTA 6 на разных консолях. Если на PS5 и Xbox Series X производительность стабильна, то Xbox Series S показывает просадки до 24 fps. Лучший опыт, по мнению автора, дает PlayStation 5 Pro, но стоит ли переплата за улучшенные тени и стабильность — вопрос открытый.",
+      "telegram_message_id": "2877",
+      "telegram_url": "https://t.me/gamepulse_newss/2877",
+      "telegram_published_at": "2026-11-18T17:17:26.890918+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-21-1795020922593.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T17:02:46.124644+00:00"
+  "updated_at": "2026-11-18T17:17:26.891022+00:00"
 }
