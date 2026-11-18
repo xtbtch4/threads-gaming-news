@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4c44f2e7b616ec2fe87f8f39",
-      "title": "Indie Game Dev Takes Down Vibe-Coded Zombie Shooter After San Francisco Officials Condemn 'Dehumanizing' Game",
-      "url": "https://ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T22:27:09+00:00",
-      "score": 7,
-      "event_key": "indie dev pulls Tenderloin Night Shift game after backlash",
-      "title_ru": "Разработчик удалил игру Tenderloin Night Shift после критики властей Сан-Франциско",
-      "threads_teaser_ru": "Разработчик удалил спорный шутер Tenderloin Night Shift, действие которого происходило в Сан-Франциско. Власти города осудили игру за изображение бездомных в образе зомби, назвав проект «дегуманизирующим». Автор признал ошибку и направил всю выручку на благотворительность.",
-      "telegram_message_id": "1677",
-      "telegram_url": "https://t.me/gamepulse_newss/1677",
-      "telegram_published_at": "2026-10-24T01:17:17.398015+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-24T01:17:18.992307+00:00"
-    },
-    {
       "fingerprint": "bcd43b448d37fbe37d0f2821",
       "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Hulu (October 23-25)",
       "url": "https://polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-23-25",
@@ -20539,7 +20522,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/06/12/toystory-recap-blogroll-1781287059744.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T18:17:46.611061+00:00"
+    },
+    {
+      "fingerprint": "1e761d8ca311414f005c5b37",
+      "title": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
+      "url": "https://rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-18T16:40:00+00:00",
+      "score": 11,
+      "event_key": "Crusader Kings 3 Silk and Silver expansion Florin update released",
+      "title_ru": "Для Crusader Kings 3 вышли дополнение Silk and Silver и бесплатное обновление Florin",
+      "threads_teaser_ru": "В Crusader Kings 3 вышло дополнение Silk and Silver и крупный бесплатный апдейт «Florin». Главное изменение: режим безземельного авантюриста теперь доступен в базовой игре. Рассказываем, что изменилось и какие ограничения остались для тех, у кого нет DLC Roads to Power.",
+      "telegram_message_id": "2881",
+      "telegram_url": "https://t.me/gamepulse_newss/2881",
+      "telegram_published_at": "2026-11-18T18:32:49.477439+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ck3-header-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T18:17:46.611152+00:00"
+  "updated_at": "2026-11-18T18:32:49.477537+00:00"
 }
