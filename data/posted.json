@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d5eba1fed2b44d257870a92f",
-      "title": "BioWare Is No More, But Its Impact On Queer Representation In Video Games Will Live On Forever",
-      "url": "https://gamespot.com/articles/bioware-is-no-more-but-its-impact-on-queer-representation-in-video-games-will-live-on-forever",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T14:00:00+00:00",
-      "score": 12,
-      "event_key": "bioware_shuttered_by_ea_and_lgbtq_representation_legacy",
-      "title_ru": "BioWare закрыта: как студия повлияла на квир-репрезентацию в видеоиграх",
-      "threads_teaser_ru": "Electronic Arts закрыла BioWare, отменив Mass Effect 5 и оставив около 50 сотрудников без работы. Вспоминаем исторический вклад студии в квир-репрезентацию.",
-      "telegram_message_id": "1639",
-      "telegram_url": "https://t.me/gamepulse_newss/1639",
-      "telegram_published_at": "2026-10-23T14:32:20.721829+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/poster.jpg?w=300",
-      "threads_published_at": "2026-10-23T14:32:22.269917+00:00"
-    },
-    {
       "fingerprint": "6e9d7b8a3f06eeafd119c903",
       "title": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
       "url": "https://rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/LPDT_Wire_Hero_1920x1080-1d5b148eefa8a5a971a2.jpg",
       "threads_published_at": "2026-11-18T03:47:39.290386+00:00"
+    },
+    {
+      "fingerprint": "4edf37c02e3514be5003be21",
+      "title": "Slow down a bit and help a cow find a friend in the lush-looking, hand-drawn, milk deliver-em-up Milki Delivery, which is out now",
+      "url": "https://rockpapershotgun.com/slow-down-a-bit-and-help-a-cow-find-a-friend-in-the-lush-looking-hand-drawn-milk-deliver-em-up-milki-delivery-which-is-out-now",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T22:54:10+00:00",
+      "score": 7,
+      "event_key": "release of adventure game Milki Delivery on Steam",
+      "title_ru": "Состоялся релиз приключенческой игры Milki Delivery",
+      "threads_teaser_ru": "В Steam вышла Milki Delivery — расслабляющее приключение о доставке молока в живописной сельской местности. Игрокам предстоит помочь корове найти друга, исследовать мир, управляя перемещением с помощью мыши, и помогать местным жителям.",
+      "telegram_message_id": "2843",
+      "telegram_url": "https://t.me/gamepulse_newss/2843",
+      "telegram_published_at": "2026-11-18T04:02:46.710178+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/milki-delivery.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T03:47:39.290526+00:00"
+  "updated_at": "2026-11-18T04:02:46.710272+00:00"
 }
