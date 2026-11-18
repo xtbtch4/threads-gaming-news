@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ea6c73784a39086aa555a07d",
-      "title": "Phantom Blade Zero – Everything To Know",
-      "url": "https://gamespot.com/videos/phantom-blade-zero-everything-to-know",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T21:00:00+00:00",
-      "score": 6,
-      "event_key": "overview of phantom blade zero features and game details",
-      "title_ru": "Что нужно знать о Phantom Blade Zero",
-      "threads_teaser_ru": "Вышел подробный разбор Phantom Blade Zero: от корней в стиле уся до специфических настроек сложности. Рассказываем, что именно стоит знать об этой игре, сочетающей восточную эстетику и уникальную боевую систему.",
-      "telegram_message_id": "1685",
-      "telegram_url": "https://t.me/gamepulse_newss/1685",
-      "telegram_published_at": "2026-10-24T03:47:22.866995+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ETK_PhantomBladeZero_20261022V3.jpg?w=300",
-      "threads_published_at": "2026-10-24T03:47:24.261380+00:00"
-    },
-    {
       "fingerprint": "24f6d2235fc7b98b26df3edb",
       "title": "The New York Game Awards Returns For Its 16th Show in January 2027",
       "url": "https://ign.com/articles/the-new-york-game-awards-returns-for-its-16th-show-in-january-2027",
@@ -20538,7 +20521,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-online-winterhold.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-18T20:32:01.763458+00:00"
+    },
+    {
+      "fingerprint": "8b2f516bb6c3f95c662773ae",
+      "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+      "url": "https://eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-18T20:40:20+00:00",
+      "score": 11,
+      "event_key": "GTA 6 male nudity censorship in Japanese version",
+      "title_ru": "В японской версии GTA 6 мужскую наготу частично скрыли с помощью нижнего белья",
+      "threads_teaser_ru": "Игроки из Японии сообщают о цензуре в GTA 6: мужских персонажей, которые в международной версии появляются обнаженными, «прикрыли» черными стрингами. Похоже, это решение было принято для получения возрастного рейтинга в стране.",
+      "telegram_message_id": "2889",
+      "telegram_url": "https://t.me/gamepulse_newss/2889",
+      "telegram_published_at": "2026-11-18T20:47:35.966330+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-and-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T20:32:01.763549+00:00"
+  "updated_at": "2026-11-18T20:47:35.966419+00:00"
 }
