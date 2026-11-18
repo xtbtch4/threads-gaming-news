@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ff389797f5c5460b2577e138",
-      "title": "Work, Game, Watch, Create: The Lenovo Legion 5i Is Strong Enough for All of It",
-      "url": "https://ign.com/articles/work-game-watch-create-the-lenovo-legion-5i-is-strong-enough-for-all-of-it",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T10:00:00+00:00",
-      "score": 7,
-      "event_key": "Lenovo announces features of the Lenovo Legion 5i laptop",
-      "title_ru": "Lenovo анонсировала возможности ноутбука Lenovo Legion 5i",
-      "threads_teaser_ru": "Ноутбук Lenovo Legion 5i получил процессоры Intel Core Ultra и видеокарты NVIDIA GeForce RTX 50. Производитель заявляет, что мощности устройства достаточно для одновременного рендеринга видео, учебы и игр без потери частоты кадров.",
-      "telegram_message_id": "1682",
-      "telegram_url": "https://t.me/gamepulse_newss/1682",
-      "telegram_published_at": "2026-10-24T02:47:13.216341+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/20/01-legion-5-15iax11-glacier-white-hero-front-facing-jd-1792534677689.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-24T02:47:14.640681+00:00"
-    },
-    {
       "fingerprint": "a6314a8666fdb167f38713a4",
       "title": "The Witcher's Geralt Officially Returns for New Adventure",
       "url": "https://polygon.com/the-witcher-geralt-returns-in-2026-with-new-release",
@@ -20539,7 +20522,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Volvy-Adventure.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T19:47:22.028377+00:00"
+    },
+    {
+      "fingerprint": "1f3ac2fc34e8a1e50b131269",
+      "title": "DevGamm Awards 2026 Winners Revealed",
+      "url": "https://ign.com/articles/devgamm-awards-2026-winners-revealed",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T20:00:00+00:00",
+      "score": 13,
+      "event_key": "devgamm-awards-2026-winners-phonopolis",
+      "title_ru": "Победители премии DevGAMM Awards 2026",
+      "threads_teaser_ru": "В Лиссабоне подвели итоги церемонии DevGAMM Awards 2026, где жюри выбрало победителей в 17 категориях среди 70 номинантов. Главную награду вечера забрал один конкретный проект.",
+      "telegram_message_id": "2886",
+      "telegram_url": "https://t.me/gamepulse_newss/2886",
+      "telegram_published_at": "2026-11-18T20:02:34.752121+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/devegam-1792624866535-1795013597166.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T19:47:22.028471+00:00"
+  "updated_at": "2026-11-18T20:02:34.752223+00:00"
 }
