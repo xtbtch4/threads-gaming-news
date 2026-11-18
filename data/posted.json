@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6e9d7b8a3f06eeafd119c903",
-      "title": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
-      "url": "https://rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-23T14:43:20+00:00",
-      "score": 10,
-      "event_key": "arkane-lyon-takeover-negotiations-marvels-blade-deadline",
-      "title_ru": "Переговоры о будущем Arkane Lyon и судьба Marvel's Blade",
-      "threads_teaser_ru": "Будущее разработчиков Dishonored из Arkane Lyon решается на фоне приближающегося ноябрьского дедлайна. Рассматриваются разные варианты поглощения, а производство Marvel's Blade близтится к завершению.",
-      "telegram_message_id": "1640",
-      "telegram_url": "https://t.me/gamepulse_newss/1640",
-      "telegram_published_at": "2026-10-23T14:46:48.658489+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/marvel-blade-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T14:46:49.988204+00:00"
-    },
-    {
       "fingerprint": "09af67499dc351b2b12da099",
       "title": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
       "url": "https://rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/milki-delivery.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T04:02:48.209613+00:00"
+    },
+    {
+      "fingerprint": "c3f95ad71977149ef8c9826a",
+      "title": "We've almost reached Peak Sauron",
+      "url": "https://polygon.com/video/we-ve-almost-reached-peak-sauron",
+      "source": "Polygon",
+      "published_at_source": "2026-11-17T20:34:00+00:00",
+      "score": 7,
+      "event_key": "showrunner patrick mckay comments on sauron development in rings of power",
+      "title_ru": "Шоураннер Rings of Power о развитии Саурона",
+      "threads_teaser_ru": "В сериале Rings of Power Саурон еще не стал тем самым Темным Лордом, которого знают зрители. Шоураннер проекта Патрик Маккей объяснил, что персонаж лишь находится на пути к этому статусу, и развитие антагониста остается одной из центральных линий сюжета.",
+      "telegram_message_id": "2844",
+      "telegram_url": "https://t.me/gamepulse_newss/2844",
+      "telegram_published_at": "2026-11-18T04:17:15.415597+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/we-ve-almost-reached-peak-sauron.png?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-18T04:02:48.209707+00:00"
+  "updated_at": "2026-11-18T04:17:15.415674+00:00"
 }
