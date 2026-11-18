@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fb67e1602d854502e4ef76bc",
-      "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
-      "url": "https://ign.com/articles/ahead-of-gta-6-playstation-5-sales-were-up-22-likely-due-to-wolverine",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T18:43:16+00:00",
-      "score": 10,
-      "event_key": "playstation 5 sales up 22 percent gta 6 wolverine",
-      "title_ru": "Продажи PlayStation 5 выросли на 22% перед релизом GTA 6",
-      "threads_teaser_ru": "Продажи PlayStation 5 выросли на 22% в преддверии релиза GTA 6 благодаря осенним релизам, среди которых ключевую роль сыграла Marvel's Wolverine.",
-      "telegram_message_id": "1658",
-      "telegram_url": "https://t.me/gamepulse_newss/1658",
-      "telegram_published_at": "2026-10-23T19:47:13.650695+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/29/wolverine-ending-explained-blogroll-1790703344423.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T19:47:15.072724+00:00"
-    },
-    {
       "fingerprint": "ab5e5ac633498ebfd0e07f60",
       "title": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
       "url": "https://rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/clair-obscur-svedberg-yen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T12:32:45.126138+00:00"
+    },
+    {
+      "fingerprint": "11315cee636b6ed4533996c7",
+      "title": "PC remains GTA 6's last hope for 60fps smoothness as Rockstar confirm such an option isn't coming to even the swankiest consoles",
+      "url": "https://rockpapershotgun.com/pc-remains-gta-6s-last-hope-for-60fps-smoothness-as-rockstar-confirm-such-an-option-isnt-coming-to-even-the-swankiest-consoles",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-18T12:06:00+00:00",
+      "score": 9,
+      "event_key": "rockstar-confirms-gta-6-console-30fps-limit",
+      "title_ru": "Rockstar подтвердила отсутствие режима 60 FPS для GTA 6 на консолях",
+      "threads_teaser_ru": "Консольный релиз GTA 6 на этой неделе идет в 30 FPS, и Rockstar подтвердила, что режимы с повышенной частотой кадров не появятся даже на PS5 Pro из-за ограничений центрального процессора.",
+      "telegram_message_id": "2862",
+      "telegram_url": "https://t.me/gamepulse_newss/2862",
+      "telegram_published_at": "2026-11-18T12:46:54.232300+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-dnacers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T12:32:45.126229+00:00"
+  "updated_at": "2026-11-18T12:46:54.232405+00:00"
 }
