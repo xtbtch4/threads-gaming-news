@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6068c45fc8efd28c897a55f8",
-      "title": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\"",
-      "url": "https://eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-24T07:00:00+00:00",
-      "score": 6,
-      "event_key": "Eurogamer What We've Been Playing weekly gaming update",
-      "title_ru": "Eurogamer поделились впечатлениями от Warframe, Over the Hill и Switch Sports Resort",
-      "threads_teaser_ru": "В свежем выпуске What We've Been Playing на Eurogamer авторы обсуждают Warframe, где игроки массово фармят Moon Flesh ради ограниченных наград, медитативную Over the Hill и неожиданно увлекательный одиночный режим в Switch Sports Resort.",
-      "telegram_message_id": "1692",
-      "telegram_url": "https://t.me/gamepulse_newss/1692",
-      "telegram_published_at": "2026-10-24T07:32:05.076123+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/warframe-moon-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T07:32:06.414077+00:00"
-    },
-    {
       "fingerprint": "ad669919c7d9da35762fb919",
       "title": "50 Years Later, the Best War Series of All Time Is Still Unlike Anything Else on TV",
       "url": "https://polygon.com/mash-tv-series-retrospective",
@@ -20538,7 +20521,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/New-Project.jpg?w=300",
       "threads_published_at": "2026-11-18T22:16:55.597619+00:00"
+    },
+    {
+      "fingerprint": "08915c68c21a1e82b0a94c0d",
+      "title": "Burger King’s Chocolate Whopper Prank Is Being Turned Into a Real Burger",
+      "url": "https://ign.com/articles/burger-kings-chocolate-whopper-prank-is-being-turned-into-a-real-burger",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T20:22:04+00:00",
+      "score": 9,
+      "event_key": "burger-king-chocolate-whopper-flameground-seoul-launch",
+      "title_ru": "Burger King превращает первоапрельскую шутку Chocolate Whopper в реальный бургер",
+      "threads_teaser_ru": "Знаменитая первоапрельская шутка Burger King о шоколадном бургере станет реальностью. Десертный Chocolate Whopper появится в новом флагманском ресторане в Сеуле, но продажи будут строго ограничены.",
+      "telegram_message_id": "2896",
+      "telegram_url": "https://t.me/gamepulse_newss/2896",
+      "telegram_published_at": "2026-11-18T22:31:56.352293+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/burgerking-1795028388152.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T22:16:55.597705+00:00"
+  "updated_at": "2026-11-18T22:31:56.352387+00:00"
 }
