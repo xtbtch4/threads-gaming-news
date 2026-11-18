@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d374794e5847e9fb7616ea11",
-      "title": "Mass Effect-Style Game Exodus Picked a Hell of a Time to Reveal Its Redesigned Male Protagonist",
-      "url": "https://ign.com/articles/exodus-protagonist-jun-makeover",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T11:31:19+00:00",
-      "score": 11,
-      "event_key": "exodus-male-protagonist-redesign-archetype",
-      "title_ru": "Archetype показала обновленную внешность главного героя в Exodus",
-      "threads_teaser_ru": "Студия Archetype обновила внешность мужского протагониста в Exodus после жалоб игроков. Новый дизайн показали на фоне новостей об отмене Mass Effect 5 и закрытии BioWare. Релиз игры намечен на 2027 год.",
-      "telegram_message_id": "1635",
-      "telegram_url": "https://t.me/gamepulse_newss/1635",
-      "telegram_published_at": "2026-10-23T13:32:13.037585+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/companions-group-new-jun-head-1792754136159.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T13:32:14.527861+00:00"
-    },
-    {
       "fingerprint": "4fd997cfd3cc7248f598b227",
       "title": "Control Resonant’s Unsettling Board Dialogue Is Carefully Crafted Gibberish",
       "url": "https://gamespot.com/articles/control-resonant-unsettling-board-dialogue-is-carefully-crafted-gibberish",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/14/solstice-final-trailer-grab-00004rc-1794681765912.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T02:17:14.200242+00:00"
+    },
+    {
+      "fingerprint": "aaf8d8be0e44cf458a86e644",
+      "title": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months",
+      "url": "https://rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-17T12:00:10+00:00",
+      "score": 8,
+      "event_key": "Unity launches Unity Fellowship grant program for indie developers",
+      "title_ru": "Unity запустила грантовую программу Unity Fellowship для инди-разработчиков",
+      "threads_teaser_ru": "Unity запускает программу Unity Fellowship: 50 тысяч долларов без возврата и дележки выручки для инди-разработчиков, планирующих релиз в течение года. Ограничения по участию также включают некоторые страны и регионы.",
+      "telegram_message_id": "2839",
+      "telegram_url": "https://t.me/gamepulse_newss/2839",
+      "telegram_published_at": "2026-11-18T02:32:36.754461+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Unity-Fellowship-announcement.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T02:17:14.200311+00:00"
+  "updated_at": "2026-11-18T02:32:36.754564+00:00"
 }
