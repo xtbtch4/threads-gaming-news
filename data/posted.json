@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "09af67499dc351b2b12da099",
-      "title": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
-      "url": "https://rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-23T15:09:45+00:00",
-      "score": 14,
-      "event_key": "release of puzzle game Woim on Steam",
-      "title_ru": "Вышла головоломка Woim",
-      "threads_teaser_ru": "Вышла новая головоломка в жанре sokoban под названием Woim. В ней вы играете за червя, которому нужно поедать яблоки, решать пространственные задачи и даже разделяться на две части, чтобы справиться с препятствиями на 50 уровнях.",
-      "telegram_message_id": "1641",
-      "telegram_url": "https://t.me/gamepulse_newss/1641",
-      "telegram_published_at": "2026-10-23T15:17:44.116014+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/woim.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T15:17:46.130334+00:00"
-    },
-    {
       "fingerprint": "fb3145d0b127f9438b980cb7",
       "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
       "url": "https://eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
@@ -20535,7 +20518,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/we-ve-almost-reached-peak-sauron.png?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-18T04:17:16.796788+00:00"
+    },
+    {
+      "fingerprint": "d369b78a3052f3cdcc6c86ea",
+      "title": "Dune Magic: The Gathering Crossover Officially Confirmed After Major Leak",
+      "url": "https://polygon.com/dune-magic-the-gathering-secret-lair-superdrop-november-2026",
+      "source": "Polygon",
+      "published_at_source": "2026-11-17T19:22:17+00:00",
+      "score": 7,
+      "event_key": "Dune Magic The Gathering Secret Lair collaboration announcement",
+      "title_ru": "Анонсирована коллаборация Dune и Magic: The Gathering",
+      "threads_teaser_ru": "Вселенная Dune официально приходит в Magic: The Gathering. Wizards of the Coast анонсировали тематический супердроп Secret Lair, который включает новые карты с персонажами франшизы, планетой Arrakis и легендарными червями. Старт продаж намечен на 30 ноября.",
+      "telegram_message_id": "2845",
+      "telegram_url": "https://t.me/gamepulse_newss/2845",
+      "telegram_published_at": "2026-11-18T04:32:34.323708+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/01/Timothee-Chalamet-Paul-Atreides-Zendaya-Chani-Dune-Part-2.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/gamedirectorsfinal-1794862917.mp4"
     }
   ],
-  "updated_at": "2026-11-18T04:17:16.796864+00:00"
+  "updated_at": "2026-11-18T04:32:34.323808+00:00"
 }
