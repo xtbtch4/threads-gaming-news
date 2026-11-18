@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "28a876a802107732b1d08a90",
-      "title": "Fallout Shelter: The Experiment Is the Official Title for the Prime Video Reality Competition Show, Release Date Announced on Fallout Day",
-      "url": "https://ign.com/articles/fallout-shelter-the-experiment-is-the-official-title-for-the-prime-video-reality-competition-show-release-date-announced-on-fallout-day",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T15:16:16+00:00",
-      "score": 15,
-      "event_key": "amazon announced fallout shelter the experiment release date",
-      "title_ru": "Amazon анонсировала дату выхода шоу Fallout Shelter: The Experiment",
-      "threads_teaser_ru": "Amazon объявила дату выхода и официальное название своего нового реалити-шоу во вселенной Fallout. Проект Fallout Shelter: The Experiment стартует на Prime Video в январе 2027 года.",
-      "telegram_message_id": "1645",
-      "telegram_url": "https://t.me/gamepulse_newss/1645",
-      "telegram_published_at": "2026-10-23T16:17:20.605163+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/23/falloutthumb-1792768406961.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T16:17:22.066395+00:00"
-    },
-    {
       "fingerprint": "700fec083c63b4fda718f604",
       "title": "'Press Play' — Amazon Reveals Full PlayStation x Lisa Merch Collection as the Blackpink Star Drops New EP",
       "url": "https://ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep",
@@ -20537,7 +20520,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T05:17:25.945881+00:00"
+    },
+    {
+      "fingerprint": "7b32a34839c73120f6b13699",
+      "title": "63 Years Later, the Best 'Peanuts' Sally Line Is Still an Iconic Comic Strip Quote",
+      "url": "https://polygon.com/sally-brown-best-quotes-peanuts-charlie-brown",
+      "source": "Polygon",
+      "published_at_source": "2026-11-18T03:10:17+00:00",
+      "score": 5,
+      "event_key": "Sally Brown Peanuts comic strip legacy analysis",
+      "title_ru": "Лучшая цитата Sally Brown из комиксов Peanuts",
+      "threads_teaser_ru": "Помните Sally Brown из Peanuts? В комиксе 1987 года она преподала урок, который сегодня звучит как идеальный совет для пользователей соцсетей: сначала разберись, о чем речь, а потом критикуй. Разбираем, почему её история актуальна спустя десятилетия.",
+      "telegram_message_id": "2849",
+      "telegram_url": "https://t.me/gamepulse_newss/2849",
+      "telegram_published_at": "2026-11-18T05:32:36.832519+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collage-maker-11-oct-2023-09-56-pm-1670.jpeg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4"
     }
   ],
-  "updated_at": "2026-11-18T05:17:25.945969+00:00"
+  "updated_at": "2026-11-18T05:32:36.832614+00:00"
 }
