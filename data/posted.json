@@ -20535,9 +20535,10 @@
       "telegram_message_id": "2888",
       "telegram_url": "https://t.me/gamepulse_newss/2888",
       "telegram_published_at": "2026-11-18T20:32:00.217551+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-online-winterhold.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-online-winterhold.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-18T20:32:01.763458+00:00"
     }
   ],
-  "updated_at": "2026-11-18T20:32:00.217637+00:00"
+  "updated_at": "2026-11-18T20:32:01.763549+00:00"
 }
