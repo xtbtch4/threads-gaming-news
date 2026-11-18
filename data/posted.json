@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d59fb0ec0ba56e48d2853653",
-      "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
-      "url": "https://polygon.com/best-classic-jrpgs-no-remake",
-      "source": "Polygon",
-      "published_at_source": "2026-10-23T22:19:03+00:00",
-      "score": 8,
-      "event_key": "list of classic JRPGs that do not need remakes",
-      "title_ru": "Семь классических JRPG, не нуждающихся в ремейках",
-      "threads_teaser_ru": "Polygon составили список из 7 классических JRPG, которые настолько хороши, что не нуждаются в ремейках. В подборку вошли такие хиты, как Earthbound, Chrono Trigger и Final Fantasy 9. Рассказываем, во что до сих пор стоит поиграть без обновлений.",
-      "telegram_message_id": "1674",
-      "telegram_url": "https://t.me/gamepulse_newss/1674",
-      "telegram_published_at": "2026-10-24T00:02:59.093878+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/suikoden-2.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-24T00:03:00.608245+00:00"
-    },
-    {
       "fingerprint": "13cdaac2d4b7ab630a008351",
       "title": "Shepard Actor Reacts To Leaked Mass Effect Trailer, Is “Holding Hope” The Game Will Live On",
       "url": "https://gamespot.com/articles/shepard-actor-reacts-to-leaked-mass-effect-trailer-is-holding-hope-the-game-will-live-on",
@@ -20539,7 +20522,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-21-1795020922593.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T17:17:28.472981+00:00"
+    },
+    {
+      "fingerprint": "6c2f0e43bf76b23fe8ec2553",
+      "title": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
+      "url": "https://eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-18T17:35:50+00:00",
+      "score": 15,
+      "event_key": "fired_rockstar_employees_named_in_gta_6_credits",
+      "title_ru": "Уволенные сотрудники Rockstar упомянуты в титрах Grand Theft Auto 6",
+      "threads_teaser_ru": "Не менее 28 из 34 сотрудников, уволенных из Rockstar около года назад, попали в титры Grand Theft Auto 6. Это стало известно на фоне проходящего в Шотландии трибунала по делу об их увольнении.",
+      "telegram_message_id": "2878",
+      "telegram_url": "https://t.me/gamepulse_newss/2878",
+      "telegram_published_at": "2026-11-18T17:47:23.889484+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/brian-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T17:17:28.473056+00:00"
+  "updated_at": "2026-11-18T17:47:23.889581+00:00"
 }
