@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2ce92c0e301277353f7ed8ee",
-      "title": "Rideshare Stimulator’s Biggest Problem Isn’t AI, It’s That The Game Just Isn’t Very Good",
-      "url": "https://gamespot.com/articles/rideshare-stimulators-biggest-problem-isnt-ai-its-that-the-game-just-isnt-very-good",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T15:54:47+00:00",
-      "score": 11,
-      "event_key": "rideshare-stimulator-gameplay-and-ai-controversy",
-      "title_ru": "Главная проблема Rideshare Stimulator",
-      "threads_teaser_ru": "Игра Rideshare Stimulator от Saber Interactive оказалась в центре скандала из-за использования искусственного интеллекта и обвинений от бывшего сценариста. Но главная беда проекта кроется в скучном и утомительном геймплее.",
-      "telegram_message_id": "1657",
-      "telegram_url": "https://t.me/gamepulse_newss/1657",
-      "telegram_published_at": "2026-10-23T19:32:12.104957+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_9228c635fc30d058e07286fd576d970ee6ffac71.1920x1080.jpg?w=300",
-      "threads_published_at": "2026-10-23T19:32:13.613018+00:00"
-    },
-    {
       "fingerprint": "fb67e1602d854502e4ef76bc",
       "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
       "url": "https://ign.com/articles/ahead-of-gta-6-playstation-5-sales-were-up-22-likely-due-to-wolverine",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gta6-launch-live-1-blogroll-1794989693164.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T12:16:55.920933+00:00"
+    },
+    {
+      "fingerprint": "b453883162cd6916a406bc8f",
+      "title": "Clair Obscur's narrative lead has left developer Sandfall Interactive after \"wrapping up some final stuff for Expedition\"",
+      "url": "https://eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-18T12:18:10+00:00",
+      "score": 13,
+      "event_key": "narrative_lead_leaves_sandfall_interactive_after_expedition_33",
+      "title_ru": "Ведущий сценарист Clair Obscur: Expedition 33 покинула студию Sandfall Interactive",
+      "threads_teaser_ru": "Ведущий сценарист Clair Obscur: Expedition 33 Дженнифер Сведберг-Йен объявила об уходе из Sandfall Interactive после получения премии BAFTA Breakthrough US. Она планирует заняться собственными проектами и создать фонд для поддержки игровых сценаристов.",
+      "telegram_message_id": "2861",
+      "telegram_url": "https://t.me/gamepulse_newss/2861",
+      "telegram_published_at": "2026-11-18T12:32:43.637206+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/clair-obscur-svedberg-yen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T12:16:55.921028+00:00"
+  "updated_at": "2026-11-18T12:32:43.637292+00:00"
 }
