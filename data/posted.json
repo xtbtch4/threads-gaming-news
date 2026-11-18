@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "982d2afacc02e9764ccb2e2a",
-      "title": "Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season",
-      "url": "https://polygon.com/vinland-saga-season-3-creator-update-not-in-production",
-      "source": "Polygon",
-      "published_at_source": "2026-10-23T10:04:21+00:00",
-      "score": 10,
-      "event_key": "Makoto Yukimura states Vinland Saga season 3 not in development",
-      "title_ru": "Автор Vinland Saga сообщил, что третий сезон аниме пока не находится в разработке",
-      "threads_teaser_ru": "Плохие новости для поклонников Vinland Saga. Автор оригинала Макото Юкимура подтвердил, что работа над третьим сезоном аниме в настоящий момент не ведется. Официальные студии и издатели пока хранят молчание о планах на продолжение истории Торфинна.",
-      "telegram_message_id": "1626",
-      "telegram_url": "https://t.me/gamepulse_newss/1626",
-      "telegram_published_at": "2026-10-23T10:17:29.875413+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23403755/11811844.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-23T10:17:31.348151+00:00"
-    },
-    {
       "fingerprint": "6b48958fefed5d528193198c",
       "title": "Cyberpunk 2077 2.5 Update Secretly Added The Witcher 3 Sword and Cosmetics",
       "url": "https://ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/lucia-caminos-14-1794958825605.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-18T00:02:44.975287+00:00"
+    },
+    {
+      "fingerprint": "b486af3cd3984a91ba698977",
+      "title": "The Baseus 20,000mAh 45W Power Bank With Dual USB-C Cables Drops to $21 After Coupon",
+      "url": "https://ign.com/articles/baseus-20000mah-45w-power-bank-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-17T23:15:00+00:00",
+      "score": 13,
+      "event_key": "baseus-20000mah-45w-power-bank-amazon-deal",
+      "title_ru": "Скидка на внешний аккумулятор Baseus 20,000mAh 45W перед Black Friday",
+      "threads_teaser_ru": "Перед Black Friday на Amazon можно выгодно купить портативный аккумулятор Baseus 20,000mAh 45W со встроенными кабелями USB-C. Устройство подходит для одновременной игры и зарядки портативных консолей.",
+      "telegram_message_id": "2830",
+      "telegram_url": "https://t.me/gamepulse_newss/2830",
+      "telegram_published_at": "2026-11-18T00:17:02.546451+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/baseuspowerbank2-1794951685591.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T00:02:44.975399+00:00"
+  "updated_at": "2026-11-18T00:17:02.546534+00:00"
 }
