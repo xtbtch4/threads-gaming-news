@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5a4705cf56c117089cd80402",
-      "title": "The Acer Nitro RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
-      "url": "https://ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-23T20:25:00+00:00",
-      "score": 9,
-      "event_key": "Best Buy discount on Acer Nitro 65 gaming PC",
-      "title_ru": "Best Buy предлагает игровой ПК Acer Nitro 65 с видеокартой Radeon RX 9060 XT за $1 199",
-      "threads_teaser_ru": "На этой неделе в Best Buy действует скидка на игровой ПК Acer Nitro 65. За $1 199,99 предлагается сборка с процессором AMD Ryzen 7 8700F и видеокартой Radeon RX 9060 XT, оснащенной 16 ГБ видеопамяти, что является важным преимуществом для игры в разрешении 1440p.",
-      "telegram_message_id": "1665",
-      "telegram_url": "https://t.me/gamepulse_newss/1665",
-      "telegram_published_at": "2026-10-23T21:32:40.598887+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/acernitro85-1792607882452.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-23T21:32:41.871728+00:00"
-    },
-    {
       "fingerprint": "9b992c27e5f98df8de607353",
       "title": "Sims Competitor InZoi Deletes “Uncomfortable” Post After Fan Pushback",
       "url": "https://gamespot.com/articles/sims-competitor-inzoi-deletes-uncomfortable-post-after-fan-pushback",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-35.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T14:32:14.065461+00:00"
+    },
+    {
+      "fingerprint": "ac21521a7d3dbcd81f619ae7",
+      "title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
+      "url": "https://eurogamer.net/gta-6-multiple-save-files-replay-missions",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-18T14:24:00+00:00",
+      "score": 10,
+      "event_key": "gta 6 mission replay removed save slots",
+      "title_ru": "В GTA 6 нельзя перепроходить пройденные миссии",
+      "threads_teaser_ru": "В GTA 6 нельзя будет повторно проходить уже завершенные миссии, как это было в прошлых частях серии. Разработчики объяснили это решение изменением подход к дизайну и стремлением дать игрокам больше свободы.",
+      "telegram_message_id": "2869",
+      "telegram_url": "https://t.me/gamepulse_newss/2869",
+      "telegram_published_at": "2026-11-18T14:47:02.456310+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/lucia-mission-failed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-18T14:32:14.065564+00:00"
+  "updated_at": "2026-11-18T14:47:02.456399+00:00"
 }
