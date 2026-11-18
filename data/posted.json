@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ab5e5ac633498ebfd0e07f60",
-      "title": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
-      "url": "https://rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-23T17:26:32+00:00",
-      "score": 10,
-      "event_key": "future-no-thanks-developer-removes-ai-voices-refunds",
-      "title_ru": "Разработчик Future? No Thanks! удалил ИИ-озвучку и предложил игрокам возврат денег",
-      "threads_teaser_ru": "Создатель Future? No Thanks! убрал из игры ИИ-озвучку роботов после волны критики в соцсетях и пообещал вернуть деньги недовольным игрокам.",
-      "telegram_message_id": "1659",
-      "telegram_url": "https://t.me/gamepulse_newss/1659",
-      "telegram_published_at": "2026-10-23T20:02:27.481302+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-23T20:02:28.863380+00:00"
-    },
-    {
       "fingerprint": "6f2d4b1e6b80b55fc94e81ba",
       "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
       "url": "https://eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
@@ -20537,7 +20520,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-dnacers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T12:46:55.595204+00:00"
+    },
+    {
+      "fingerprint": "a2921fd40331335926dfc172",
+      "title": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
+      "url": "https://ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T12:50:38+00:00",
+      "score": 13,
+      "event_key": "gta-6-no-60fps-on-playstation-5-pro",
+      "title_ru": "GTA 6 не получит патч до 60fps на PlayStation 5 Pro",
+      "threads_teaser_ru": "Разработчики из Rockstar подтвердили, что GTA 6 не получит режим 60fps на PlayStation 5 Pro из-за ограничений процессора. Игра на всех консолях будет работать при 30fps.",
+      "telegram_message_id": "2863",
+      "telegram_url": "https://t.me/gamepulse_newss/2863",
+      "telegram_published_at": "2026-11-18T13:02:26.952747+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1795006209352.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-18T12:46:55.595291+00:00"
+  "updated_at": "2026-11-18T13:02:26.952862+00:00"
 }
