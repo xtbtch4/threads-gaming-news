@@ -20535,10 +20535,11 @@
       "telegram_message_id": "2875",
       "telegram_url": "https://t.me/gamepulse_newss/2875",
       "telegram_published_at": "2026-11-18T16:47:00.611930+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/clair-obscur-expedition-33-gustave-giving-up.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/04/clair-obscur_-expedition-33-_-thank-you-update-trailer-publer-com-1777038315.mp4"
+      "video_url": "https://video.polygonimages.com/2026/04/clair-obscur_-expedition-33-_-thank-you-update-trailer-publer-com-1777038315.mp4",
+      "threads_published_at": "2026-11-18T16:47:02.045996+00:00"
     }
   ],
-  "updated_at": "2026-11-18T16:47:00.612032+00:00"
+  "updated_at": "2026-11-18T16:47:02.046096+00:00"
 }
