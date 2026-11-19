@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "22df6ea928de382f975c7836",
-      "title": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
-      "url": "https://ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T10:53:12+00:00",
-      "score": 15,
-      "event_key": "epic_games_tim_sweeney_criticizes_steam_ai_disclosure",
-      "title_ru": "Tim Sweeney назвал политической акцией требования Valve по раскрытию информации об AI в Steam",
-      "threads_teaser_ru": "Глава Epic Games Tim Sweeney раскритиковал политику Valve в отношении AI, назвав обязательное раскрытие информации об искусственном интеллекте в Steam политической акцией.",
-      "telegram_message_id": "1750",
-      "telegram_url": "https://t.me/gamepulse_newss/1750",
-      "telegram_published_at": "2026-10-26T11:02:25.023388+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/gettyimages-1236597522-1793011807415.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-26T11:02:26.635415+00:00"
-    },
-    {
       "fingerprint": "bf2448b62b634d870b2d5283",
       "title": "Xbox Seeks Partner to Support Arkane Lyon as It Finishes Marvel's Blade, Extends Search for Buyer",
       "url": "https://ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam-machine-pre-order.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T23:17:26.741489+00:00"
+    },
+    {
+      "fingerprint": "ede00596714027c3a4827873",
+      "title": "Video Game Spending Dropped 14% This October, Possibly Because Everyone Was Preparing for GTA 6",
+      "url": "https://ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T22:20:09+00:00",
+      "score": 11,
+      "event_key": "video game spending decrease October GTA 6",
+      "title_ru": "Расходы на видеоигры в октябре снизились на 14%",
+      "threads_teaser_ru": "Расходы игроков на видеоигры в октябре упали на 14%. Аналитики связывают снижение показателей с ожиданием релиза GTA 6. В отчете Circana отмечается, что падение затронуло как консольный, так и мобильный рынки, несмотря на выходы Call of Duty: Modern Warfare 4 и Gears of War: E-Day.",
+      "telegram_message_id": "2954",
+      "telegram_url": "https://t.me/gamepulse_newss/2954",
+      "telegram_published_at": "2026-11-19T23:32:58.375123+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gta-benefts-1794997452264.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T23:17:26.741572+00:00"
+  "updated_at": "2026-11-19T23:32:58.375230+00:00"
 }
