@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b585b10245ede4b5edea04da",
-      "title": "Nintendo Legend Reveals Super Mario Bros.' Most Surprising Innovation",
-      "url": "https://polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T12:05:18+00:00",
-      "score": 12,
-      "event_key": "shigeru-miyamoto-super-mario-bros-innovation-interview",
-      "title_ru": "Сигэру Миямото назвал главную инновацию Super Mario Bros.",
-      "threads_teaser_ru": "Создатель Super Mario Bros. Сигэру Миямото рассказал о самой неожиданной инновации культовой игры для NES, которая выделяет ее среди других проектов даже спустя десятилетия.",
-      "telegram_message_id": "1724",
-      "telegram_url": "https://t.me/gamepulse_newss/1724",
-      "telegram_published_at": "2026-10-25T12:16:25.831283+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4",
-      "threads_published_at": "2026-10-25T12:16:27.058969+00:00"
-    },
-    {
       "fingerprint": "dfdcb44514375880bb024cb1",
       "title": "GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years",
       "url": "https://polygon.com/gta-san-andreas-retrospective",
@@ -20525,7 +20507,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T12:46:54.526042+00:00"
+    },
+    {
+      "fingerprint": "4650b8354b2400c98fc25fd0",
+      "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
+      "url": "https://ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T12:46:36+00:00",
+      "score": 11,
+      "event_key": "gamestop-ceo-criticizes-digital-only-gta-6-release",
+      "title_ru": "Глава GameStop критикует отказ от физических дисков в GTA 6",
+      "threads_teaser_ru": "Генеральный директор GameStop Ryan Cohen заявил, что переход GTA 6 и всей индустрии на полностью цифровой формат ущемляет интересы игроков и розничных продавцов.",
+      "telegram_message_id": "2928",
+      "telegram_url": "https://t.me/gamepulse_newss/2928",
+      "telegram_published_at": "2026-11-19T13:03:09.631941+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gettyimages-2304782431-1795091095449.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T12:46:54.526132+00:00"
+  "updated_at": "2026-11-19T13:03:09.632033+00:00"
 }
