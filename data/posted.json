@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "223612906e8745861e3f4c7d",
-      "title": "Clayface Looks Like a Win for the DCU After Earning $43 Million in Box Office Opening Weekend",
-      "url": "https://ign.com/articles/clayface-looks-like-a-win-for-the-dcu-after-earning-43-million-in-box-office-opening-weekend",
-      "source": "IGN",
-      "published_at_source": "2026-10-25T19:19:00+00:00",
-      "score": 9,
-      "event_key": "Clayface movie box office opening weekend result",
-      "title_ru": "Фильм Clayface показал успешный старт в прокате",
-      "threads_teaser_ru": "Фильм Clayface успешно стартовал в прокате, собрав $43 млн за первые выходные. Картина получила рейтинг R, высокие оценки критиков и зрителей, а также получила редкую для жанра хоррора оценку «A-» от CinemaScore.",
-      "telegram_message_id": "1735",
-      "telegram_url": "https://t.me/gamepulse_newss/1735",
-      "telegram_published_at": "2026-10-25T20:02:43.075526+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/25/clayface-1792955641287.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-25T20:02:44.565226+00:00"
-    },
-    {
       "fingerprint": "159b8021f9976e4f79bca7dd",
       "title": "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
       "url": "https://ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/jason-and-lucia-02-landscape-1024x576-1795102471167.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T16:47:36.788054+00:00"
+    },
+    {
+      "fingerprint": "2879ae8ee236e794a8d8a88f",
+      "title": "Assassin's Creed Maker Ubisoft Confirms Further Layoffs, With 166 Jobs Lost From 2 Major Studios",
+      "url": "https://ign.com/articles/ubisoft-cuts-166-jobs-assassins-creed",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T15:15:00+00:00",
+      "score": 15,
+      "event_key": "ubisoft layoffs montreal quebec 166 jobs",
+      "title_ru": "Ubisoft сокращает 166 сотрудников в студиях в Монреале и Квебеке",
+      "threads_teaser_ru": "Компания Ubisoft подтвердила сокращение 166 сотрудников в своих ключевых студиях в Монреале и Квебеке из-за изменения производственных потребностей и отмены некоторых проектов.",
+      "telegram_message_id": "2939",
+      "telegram_url": "https://t.me/gamepulse_newss/2939",
+      "telegram_published_at": "2026-11-19T17:17:23.756646+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2021/05/25/assassins-creed-valhalla-1621913022247.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T16:47:36.788146+00:00"
+  "updated_at": "2026-11-19T17:17:23.756732+00:00"
 }
