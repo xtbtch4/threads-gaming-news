@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9e3a68ca6faac441f928b29f",
-      "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly",
-      "url": "https://polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T10:13:19+00:00",
-      "score": 10,
-      "event_key": "shigeru_miyamoto_comments_on_ai_at_press_conference",
-      "title_ru": "Сигэру Миямото высказался об искусственном интеллекте",
-      "threads_teaser_ru": "Создатель Super Mario Сигэру Миямото прокомментировал влияние искусственного интеллекта на индустрию и сравнил его с появлением первых компьютеров. Что думает легендарный геймдизайнер?",
-      "telegram_message_id": "1699",
-      "telegram_url": "https://t.me/gamepulse_newss/1699",
-      "telegram_published_at": "2026-10-24T11:47:02.138786+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/08/super-mario-odyssey-trailer.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-24T11:47:03.608134+00:00"
-    },
-    {
       "fingerprint": "e95bcc2ff22e077b6d2de223",
       "title": "5 Years Later, Metroid Dread’s Perfect Ending Is Still One of Nintendo’s Best",
       "url": "https://polygon.com/metroid-dread-5-year-retrospective",
@@ -20535,7 +20518,24 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-19T00:02:58.223941+00:00"
+    },
+    {
+      "fingerprint": "de3a2e58897cd15363630924",
+      "title": "The 10 greatest games to never get a GOTY nomination",
+      "url": "https://polygon.com/greatest-games-no-goty-nominations",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T00:00:18+00:00",
+      "score": 8,
+      "event_key": "greatest games to never get a goty nomination polygon",
+      "title_ru": "Великие игры без номинаций на GOTY",
+      "threads_teaser_ru": "Издание Polygon вспомнило знаковые видеоигры, которые несмотря на успех и любовь игроков никогда не получали номинацию на Game of the Year. В список вошли хиты прошлых лет вроде Dark Souls 3, Outer Wilds и Hollow Knight.",
+      "telegram_message_id": "2903",
+      "telegram_url": "https://t.me/gamepulse_newss/2903",
+      "telegram_published_at": "2026-11-19T00:17:06.529443+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/mina-the-hollower-best-area-order-3.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/ghost-of-y-tei-complete-edition-announce-trailer-ps5-games-playstation-1080p-1786547721.mp4"
     }
   ],
-  "updated_at": "2026-11-19T00:02:58.224044+00:00"
+  "updated_at": "2026-11-19T00:17:06.529562+00:00"
 }
