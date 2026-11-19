@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a459f4bb9166ff1a45547069",
-      "title": "5 Most Perfect 1980s Games That Nobody Remembers",
-      "url": "https://polygon.com/best-forgotten-1980s-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T00:53:58+00:00",
-      "score": 8,
-      "event_key": "polygon best forgotten 1980s games review list",
-      "title_ru": "Пять забытых игр 80-х, заслуживающих внимания",
-      "threads_teaser_ru": "Какие игры 80-х остаются уникальными даже спустя десятилетия? Вспоминаем пять забытых проектов, от механики взлома в Paradroid до «космических шахмат» The Sentinel, которые предложили необычные решения для своего времени.",
-      "telegram_message_id": "1720",
-      "telegram_url": "https://t.me/gamepulse_newss/1720",
-      "telegram_published_at": "2026-10-25T01:33:11.527419+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/paradroid.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/sq-kenanandkel-3cut-1781884883.mp4",
-      "threads_published_at": "2026-10-25T01:33:13.356745+00:00"
-    },
-    {
       "fingerprint": "9855478e57ccabe627395e8a",
       "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
       "url": "https://polygon.com/kingdom-hearts-4-worlds-theories",
@@ -20528,7 +20510,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdgomi_ec012.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T11:32:57.684248+00:00"
+    },
+    {
+      "fingerprint": "4db5092bcfdf87d0ff357e22",
+      "title": "How to keep stolen cars and weapons in GTA 6",
+      "url": "https://polygon.com/gta-6-keep-stolen-vehicles-weapons-register",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T11:01:18+00:00",
+      "score": 7,
+      "event_key": "how to keep stolen vehicles and weapons in gta 6",
+      "title_ru": "Как сохранять украденный транспорт и оружие в GTA 6",
+      "threads_teaser_ru": "Узнайте, как в Grand Theft Auto 6 сохранить украденные автомобили и найденное оружие. Для машин потребуется регистрация или гараж, а оружие можно прятать в багажнике.",
+      "telegram_message_id": "2924",
+      "telegram_url": "https://t.me/gamepulse_newss/2924",
+      "telegram_published_at": "2026-11-19T11:47:07.870371+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-claim-vehicles-weapons-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T11:32:57.684334+00:00"
+  "updated_at": "2026-11-19T11:47:07.870458+00:00"
 }
