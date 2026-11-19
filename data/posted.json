@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "645abf3c1e04a3f0ea062f91",
-      "title": "Call of Duty®: Modern Warfare® 4 is out now for Nintendo Switch 2. Stay frosty.",
-      "url": "https://nintendo.com/us/whatsnew/call-of-duty-r-modern-warfare-r-4-is-out-now-for-nintendo-switch-2-stay-frosty",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-23T16:00:00+00:00",
-      "score": 7,
-      "event_key": "call-of-duty-modern-warfare-4-released-nintendo-switch-2",
-      "title_ru": "Call of Duty: Modern Warfare 4 вышла на Nintendo Switch 2",
-      "threads_teaser_ru": "Игра Call of Duty: Modern Warfare 4 стала доступна на консоли Nintendo Switch 2. Пользователей ждут сюжетная кампания, мультиплеер с 12 картами на старте и режим DMZ.",
-      "telegram_message_id": "1732",
-      "telegram_url": "https://t.me/gamepulse_newss/1732",
-      "telegram_published_at": "2026-10-25T17:02:04.157583+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-25T17:02:05.508788+00:00"
-    },
-    {
       "fingerprint": "b9ffc3bf4a4af263ccc9afb7",
       "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
       "url": "https://polygon.com/clayface-opening-weekend-box-office",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T15:33:12.608292+00:00"
+    },
+    {
+      "fingerprint": "fb9a683b1251ae0848601da4",
+      "title": "Why GTA 6 Doesn’t Include Disney World",
+      "url": "https://gamespot.com/articles/why-gta-6-doesnt-include-disney-world",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-19T14:46:06+00:00",
+      "score": 13,
+      "event_key": "gta 6 does not include disney world parody",
+      "title_ru": "Почему в GTA 6 не будет пародии на Disney World",
+      "threads_teaser_ru": "Разработчики GTA 6 рассказали, почему в игре не появится аналог Walt Disney World. Создатели столкнулись с нехваткой ресурсов и отсутствием сюжетных причин для добавления столь масштабного объекта.",
+      "telegram_message_id": "2936",
+      "telegram_url": "https://t.me/gamepulse_newss/2936",
+      "telegram_published_at": "2026-11-19T15:47:26.705796+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DIS.png?w=300"
     }
   ],
-  "updated_at": "2026-11-19T15:33:12.608380+00:00"
+  "updated_at": "2026-11-19T15:47:26.705888+00:00"
 }
