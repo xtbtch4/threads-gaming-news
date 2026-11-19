@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e52552a77703a658c7963013",
-      "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
-      "url": "https://ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
-      "source": "IGN",
-      "published_at_source": "2026-10-25T04:23:32+00:00",
-      "score": 9,
-      "event_key": "arrest man wielding knife on Miami Vice 85 set",
-      "title_ru": "На съемках фильма Miami Vice ‘85 задержали вооруженного мужчину",
-      "threads_teaser_ru": "На бруклинской съемочной площадке фильма Miami Vice ‘85 полиция задержала 23-летнего мужчину, угрожавшего членам группы ножом. Подозреваемому уже предъявлены официальные обвинения, а производство картины продолжается в Нью-Йорке.",
-      "telegram_message_id": "1722",
-      "telegram_url": "https://t.me/gamepulse_newss/1722",
-      "telegram_published_at": "2026-10-25T05:02:39.346966+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/12/miami-vice-85-michael-b-jordan-1791817174472.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-25T05:02:40.811129+00:00"
-    },
-    {
       "fingerprint": "e3c01b75ca6ad400f1a3cfc2",
       "title": "9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid",
       "url": "https://polygon.com/best-nerdy-kid-far-side-comics",
@@ -20526,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/vintage-vice-city-weapon-pattern-01-1795088290717.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T12:02:10.909883+00:00"
+    },
+    {
+      "fingerprint": "93d13fbd546afc56e9e1af4b",
+      "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+      "url": "https://ign.com/articles/microsoft-polls-users-after-plastering-gta-6-artwork-over-xbox-custom-dashboard-backgrounds",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T11:00:09+00:00",
+      "score": 11,
+      "event_key": "microsoft-polls-users-xbox-event-backgrounds-gta-6",
+      "title_ru": "Microsoft запустила опрос после жалоб пользователей на рекламу GTA 6 на Xbox",
+      "threads_teaser_ru": "Xbox автоматически заменила кастомные фоны пользователей на рекламу GTA 6, включив функцию Event Backgrounds по умолчанию. Игроки возмущены навязыванием рекламы, а Microsoft собирает отзывы через специальный опрос.",
+      "telegram_message_id": "2926",
+      "telegram_url": "https://t.me/gamepulse_newss/2926",
+      "telegram_published_at": "2026-11-19T12:32:12.937502+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/untitled-1-1795085988612.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T12:02:10.909973+00:00"
+  "updated_at": "2026-11-19T12:32:12.937587+00:00"
 }
