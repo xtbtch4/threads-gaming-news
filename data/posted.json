@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a1cd29cde845f9991f359049",
-      "title": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
-      "url": "https://rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-24T17:03:55+00:00",
-      "score": 12,
-      "event_key": "paralives first major update delayed to next year",
-      "title_ru": "Первое крупное обновление Paralives перенесено на следующий год",
-      "threads_teaser_ru": "Первое крупное обновление Paralives откладывается до 2025 года. Разработчики готовят масштабные улучшения: от расширения системы отношений и экономики до новых настроек телосложения в Paramaker.",
-      "telegram_message_id": "1708",
-      "telegram_url": "https://t.me/gamepulse_newss/1708",
-      "telegram_published_at": "2026-10-24T17:17:26.294239+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/paralives-first-major-updated.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T17:17:27.643227+00:00"
-    },
-    {
       "fingerprint": "d47429b4ef153cd6564e1abb",
       "title": "The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos",
       "url": "https://polygon.com/steam-next-fest-october-2026-most-played-games",
@@ -20532,7 +20515,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jasopn-lucia-bank-robbery.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T05:17:00.660868+00:00"
+    },
+    {
+      "fingerprint": "8a48f47982595265535ed5c8",
+      "title": "GTA 6 Cast List: Who plays Jason, Lucia and More",
+      "url": "https://polygon.com/gta-6-cast-list-actors-cameos-grand-theft-auto",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T05:01:18+00:00",
+      "score": 11,
+      "event_key": "grand-theft-auto-6-cast-actors-revealed",
+      "title_ru": "Актёрский состав Grand Theft Auto 6: кто озвучил главных героев",
+      "threads_teaser_ru": "Стало известно, кто озвучил главных героев и ключевых персонажей в Grand Theft Auto 6. В актёрский состав вошли Дилан Рурк, Манни Л. Перес, Боб Мойнихан и Стивен Рут.",
+      "telegram_message_id": "2912",
+      "telegram_url": "https://t.me/gamepulse_newss/2912",
+      "telegram_published_at": "2026-11-19T08:02:16.486739+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T05:17:00.660968+00:00"
+  "updated_at": "2026-11-19T08:02:16.486823+00:00"
 }
