@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "58d0a91af87e1565bbae7375",
-      "title": "Avengers: Doomsday Teaser Reveals Who Was Edited Out of the First Trailer, Fans Say",
-      "url": "https://ign.com/articles/avengers-doomsday-teaser-reveals-who-was-edited-out-of-the-first-trailer-fans-say",
-      "source": "IGN",
-      "published_at_source": "2026-10-24T16:28:24+00:00",
-      "score": 15,
-      "event_key": "avengers doomsday teaser reveals character edited from trailer",
-      "title_ru": "Новый тизер Avengers: Doomsday раскрыл персонажа, удаленного из первого трейлера",
-      "threads_teaser_ru": "Новый тизер Avengers: Doomsday заставил фанатов гадать, кого именно Marvel вырезала из первого трейлера. Новые кадры показали Стива Роджерса рядом с Беном Гриммом, подтвердив догадки зрителей, но породили новые споры о сюжете.",
-      "telegram_message_id": "1707",
-      "telegram_url": "https://t.me/gamepulse_newss/1707",
-      "telegram_published_at": "2026-10-24T17:02:53.443125+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/15/doomthumb-1786767136045.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-24T17:02:54.856637+00:00"
-    },
-    {
       "fingerprint": "a1cd29cde845f9991f359049",
       "title": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
       "url": "https://rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
@@ -20532,7 +20515,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T05:03:13.246960+00:00"
+    },
+    {
+      "fingerprint": "bc8a99a32f9a35eb2d7dfe8c",
+      "title": "All Cheat Codes in GTA 6",
+      "url": "https://polygon.com/gta-6-cheat-codes-list-unlock",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T05:01:18+00:00",
+      "score": 9,
+      "event_key": "GTA 6 cheat codes unlocking and activation details",
+      "title_ru": "Как работают чит-коды в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 система чит-кодов работает иначе, чем в прошлых частях серии. Доступ к ним открывается только после титров, а для разблокировки каждого отдельного кода нужно выполнить конкретное внутриигровое задание. Как их активировать и какие есть ограничения — рассказываем в посте.",
+      "telegram_message_id": "2911",
+      "telegram_url": "https://t.me/gamepulse_newss/2911",
+      "telegram_published_at": "2026-11-19T05:16:59.296234+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jasopn-lucia-bank-robbery.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T05:03:13.247047+00:00"
+  "updated_at": "2026-11-19T05:16:59.296321+00:00"
 }
