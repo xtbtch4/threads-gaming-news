@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d47429b4ef153cd6564e1abb",
-      "title": "The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos",
-      "url": "https://polygon.com/steam-next-fest-october-2026-most-played-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T17:22:30+00:00",
-      "score": 10,
-      "event_key": "most popular demos of Steam Next Fest October 2026",
-      "title_ru": "Самые популярные демоверсии фестиваля Steam Next Fest в октябре 2026 года",
-      "threads_teaser_ru": "Valve раскрыла список самых популярных демоверсий на октябрьском Steam Next Fest. В лидерах — асимметричная игра Worst Class Ever, которую опробовали более 300 тысяч человек, необычный кооператив Fart Together и survival-шутер Frostrail от авторов Barotrauma.",
-      "telegram_message_id": "1709",
-      "telegram_url": "https://t.me/gamepulse_newss/1709",
-      "telegram_published_at": "2026-10-24T17:32:23.772499+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ss_ba43feaedadc6d744d649f7ee6590a7ed8ae98d7-1920x1080.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-24T17:32:24.955271+00:00"
-    },
-    {
       "fingerprint": "e85cd7932c0bcfa961813fc9",
       "title": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
       "url": "https://eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
@@ -20532,7 +20515,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T08:02:17.969140+00:00"
+    },
+    {
+      "fingerprint": "8e26b1cd97d68eeb07a485dd",
+      "title": "How To Ditch The Cops In GTA 6",
+      "url": "https://gamespot.com/videos/how-to-ditch-the-cops-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-19T08:00:00+00:00",
+      "score": 9,
+      "event_key": "gta 6 police escape guide gamespot",
+      "title_ru": "Как оторваться от полиции в Grand Theft Auto VI",
+      "threads_teaser_ru": "Полиция в Grand Theft Auto VI представляет серьезную угрозу для игроков, но несколько полезных стратегий помогут легко оторваться от преследования.",
+      "telegram_message_id": "2913",
+      "telegram_url": "https://t.me/gamepulse_newss/2913",
+      "telegram_published_at": "2026-11-19T08:16:56.988487+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA5_LoseTheCops_V1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-19T08:02:17.969238+00:00"
+  "updated_at": "2026-11-19T08:16:56.988577+00:00"
 }
