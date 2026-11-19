@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2c4bca2068c491699491ef1f",
-      "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
-      "url": "https://polygon.com/phantom-blade-zero-review",
-      "source": "Polygon",
-      "published_at_source": "2026-10-26T00:00:18+00:00",
-      "score": 8,
-      "event_key": "Phantom Blade Zero release date and gameplay overview",
-      "title_ru": "Обзор экшена Phantom Blade Zero от S-Game",
-      "threads_teaser_ru": "Phantom Blade Zero выходит на PC и PS5 29 октября. Игра делает ставку на визуальную эстетику фильмов о боевых искусствах 90-х, но сталкивается с неоднозначной реализацией механики выносливости и повторяемостью боевого процесса.",
-      "telegram_message_id": "1741",
-      "telegram_url": "https://t.me/gamepulse_newss/1741",
-      "telegram_published_at": "2026-10-26T00:17:06.746227+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_review_lead.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-26T00:17:08.398645+00:00"
-    },
-    {
       "fingerprint": "24ab71d343922bb2e235cb39",
       "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
       "url": "https://polygon.com/best-snes-games-nintendo-switch-online-classics",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/keepsake-county.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T19:03:36.792202+00:00"
+    },
+    {
+      "fingerprint": "e4fc233fcce1e09f5a0b1507",
+      "title": "World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard",
+      "url": "https://eurogamer.net/wow-forever-weekly-players-15-years",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-19T18:52:50+00:00",
+      "score": 11,
+      "event_key": "World of Warcraft Forever record weekly player count 15 years",
+      "title_ru": "Blizzard: еженедельная аудитория World of Warcraft: Forever — рекордная за 15 лет",
+      "threads_teaser_ru": "У World of Warcraft: Forever новый рекорд: еженедельная аудитория игры стала самой большой за 15 лет. Blizzard поделилась впечатляющей статистикой запусков, убийств и квестов за первые две недели после релиза.",
+      "telegram_message_id": "2945",
+      "telegram_url": "https://t.me/gamepulse_newss/2945",
+      "telegram_published_at": "2026-11-19T19:17:49.943473+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T19:03:36.792299+00:00"
+  "updated_at": "2026-11-19T19:17:49.943574+00:00"
 }
