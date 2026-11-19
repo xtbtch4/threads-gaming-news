@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "869a9d92b21f246d8d1b14b2",
-      "title": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
-      "url": "https://gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-23T09:29:00+00:00",
-      "score": 7,
-      "event_key": "Blizzard improves layering system for World of Warcraft: Forever launch",
-      "title_ru": "Blizzard улучшит систему layering в World of Warcraft: Forever к запуску",
-      "threads_teaser_ru": "Blizzard готовят важные изменения для системы layering в World of Warcraft: Forever перед запуском. Разработчики отреагировали на критику технологии, пообещав значительные улучшения. Подробности о том, что именно изменится, пока не раскрываются.",
-      "telegram_message_id": "1731",
-      "telegram_url": "https://t.me/gamepulse_newss/1731",
-      "telegram_published_at": "2026-10-25T16:17:14.409958+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-25T16:17:15.796813+00:00"
-    },
-    {
       "fingerprint": "645abf3c1e04a3f0ea062f91",
       "title": "Call of Duty®: Modern Warfare® 4 is out now for Nintendo Switch 2. Stay frosty.",
       "url": "https://nintendo.com/us/whatsnew/call-of-duty-r-modern-warfare-r-4-is-out-now-for-nintendo-switch-2-stay-frosty",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/screenshot-2026-11-19-143016-1795098701216.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T15:03:18.597374+00:00"
+    },
+    {
+      "fingerprint": "1e7f5ffd5a47b8331addcd21",
+      "title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
+      "url": "https://rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-19T15:30:00+00:00",
+      "score": 14,
+      "event_key": "LSD:FIH tops Epic AI MegaJam popularity rankings",
+      "title_ru": "Игра про рыбу со снайперской винтовкой стала популярной на Epic AI MegaJam",
+      "threads_teaser_ru": "На Epic AI MegaJam, где поощрялось использование нейросетей, лидером по популярности стала игра LSD:FIH. Её разработчик сделал проект без применения генеративного ИИ, прямо указав на это в описании работы.",
+      "telegram_message_id": "2935",
+      "telegram_url": "https://t.me/gamepulse_newss/2935",
+      "telegram_published_at": "2026-11-19T15:33:11.198570+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T15:03:18.597462+00:00"
+  "updated_at": "2026-11-19T15:33:11.198652+00:00"
 }
