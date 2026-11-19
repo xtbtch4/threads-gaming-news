@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "25576dc72460fb91d5dd72fb",
-      "title": "D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day",
-      "url": "https://polygon.com/sword-world-rpg-crowdfunding-backerkit-success",
-      "source": "Polygon",
-      "published_at_source": "2026-10-26T09:59:38+00:00",
-      "score": 10,
-      "event_key": "sword-world-rpg-backerkit-crowdfunding-success",
-      "title_ru": "Настольная игра Sword World RPG собрала более $2 млн за сутки на BackerKit",
-      "threads_teaser_ru": "Англоязычная адаптация популярной японской настольной игры Sword World RPG собрала более $2 млн за сутки на BackerKit. Кампания продлится до 20 ноября, а релиз ожидается в декабре 2027 года.",
-      "telegram_message_id": "1748",
-      "telegram_url": "https://t.me/gamepulse_newss/1748",
-      "telegram_published_at": "2026-10-26T10:32:16.673829+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sword-world-rpg-header.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
-      "threads_published_at": "2026-10-26T10:32:18.026143+00:00"
-    },
-    {
       "fingerprint": "d9f7bb0bc363f8a3e3d9ddbb",
       "title": "Pokémon Go November 2026 event and raid schedule",
       "url": "https://eurogamer.net/pokemon-go-november-2026-event-raid-schedule",
@@ -20520,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-19T22:47:01.084607+00:00"
+    },
+    {
+      "fingerprint": "f27491ffcf1182745384c6de",
+      "title": "GTA 6's Viral NPC May Actually Have a Dark Secret",
+      "url": "https://ign.com/articles/gta-6-mandy-serial-killer",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T22:38:34+00:00",
+      "score": 11,
+      "event_key": "GTA 6 Mandy NPC dark secret investigation",
+      "title_ru": "Фанаты GTA 6 обнаружили пугающие детали в истории персонажа по имени Mandy",
+      "threads_teaser_ru": "Похоже, у Mandy из GTA 6 есть очень мрачный секрет. Фанаты начали исследовать её дом после выполнения миссии и нашли улики, указывающие на возможные убийства. Что именно скрывает эта героиня, которую игроки изначально приняли за обычного NPC?",
+      "telegram_message_id": "2952",
+      "telegram_url": "https://t.me/gamepulse_newss/2952",
+      "telegram_published_at": "2026-11-19T23:02:45.973515+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-mandy-1795125785845.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T22:47:01.084690+00:00"
+  "updated_at": "2026-11-19T23:02:45.973607+00:00"
 }
