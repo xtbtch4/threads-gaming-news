@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d12b05c7a7a06e9c43440508",
-      "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
-      "url": "https://polygon.com/best-books-cozy-horror-fall-season",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T21:00:19+00:00",
-      "score": 8,
-      "event_key": "cozy horror book recommendations list for autumn",
-      "title_ru": "5 книг в жанре «уютный хоррор» для осеннего чтения",
-      "threads_teaser_ru": "Polygon составили список из 5 книг в жанре «уютный хоррор», которые идеально подходят для осенней атмосферы. Среди них работы Ширли Джексон, Рэя Брэдбери и Грейди Хендрикса, сочетающие мистические сюжеты с ностальгией и элементами повседневности.",
-      "telegram_message_id": "1716",
-      "telegram_url": "https://t.me/gamepulse_newss/1716",
-      "telegram_published_at": "2026-10-24T21:02:33.054544+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/my-best-friends-exorcism.jpg?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-24T21:02:34.235264+00:00"
-    },
-    {
       "fingerprint": "041245783c718fcc25ee1d8d",
       "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
       "url": "https://rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
@@ -20529,7 +20512,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-underwater-discoveries-kentons-treasures-.jpg?w=300",
       "threads_published_at": "2026-11-19T10:16:56.385943+00:00"
+    },
+    {
+      "fingerprint": "21d364c8b1bf1a104f383a87",
+      "title": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
+      "url": "https://rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-19T10:34:20+00:00",
+      "score": 10,
+      "event_key": "rockstar_employment_tribunal_closing_statements_verdict",
+      "title_ru": "Завершились слушания по делу об увольнениях в Rockstar",
+      "threads_teaser_ru": "В трудовом трибунале подошли к концу слушания по делу об увольнении 34 работников Rockstar. Теперь стороны ждут вердикта судьи, который может занять от нескольких недель до месяцев.",
+      "telegram_message_id": "2920",
+      "telegram_url": "https://t.me/gamepulse_newss/2920",
+      "telegram_published_at": "2026-11-19T10:46:37.494342+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T10:16:56.386042+00:00"
+  "updated_at": "2026-11-19T10:46:37.494435+00:00"
 }
