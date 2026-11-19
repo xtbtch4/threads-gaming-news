@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bcacf6f2ad4f3b94a2ba1d88",
-      "title": "Dead by Daylight Is Losing Another Horror Icon",
-      "url": "https://polygon.com/dead-by-daylight-chucky-removed",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T15:17:05+00:00",
-      "score": 8,
-      "event_key": "Dead by Daylight removing Chucky Chapter DLC",
-      "title_ru": "Dead by Daylight лишится контента по франшизе Chucky",
-      "threads_teaser_ru": "Студия Behaviour Interactive сообщила, что из Dead by Daylight будет удален контент по франшизе Chucky. У игроков остался последний месяц, чтобы приобрести дополнение со скидкой, прежде чем оно исчезнет из магазинов навсегда.",
-      "telegram_message_id": "1711",
-      "telegram_url": "https://t.me/gamepulse_newss/1711",
-      "telegram_published_at": "2026-10-24T18:02:44.697144+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25117661/dbd_artwork.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/nikkifortniteshort-1792792136.mp4",
-      "threads_published_at": "2026-10-24T18:02:45.922770+00:00"
-    },
-    {
       "fingerprint": "5208575fb4cf516747c07067",
       "title": "Stalker 2's next update has already leaked",
       "url": "https://eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
@@ -20532,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6_13ThingsToKnow_SITE.jpg?w=300",
       "threads_published_at": "2026-11-19T08:32:19.812980+00:00"
+    },
+    {
+      "fingerprint": "929ce17c0213ab1aaed9d77d",
+      "title": "This LEGO Botanical Set Is the Perfect Decoration for Thanksgiving — Now at It's Lowest Price of the Year",
+      "url": "https://ign.com/articles/lego-dried-flower-centerpiece-deal-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T08:53:42+00:00",
+      "score": 9,
+      "event_key": "lego dried flower centerpiece black friday amazon discount",
+      "title_ru": "Скидка на набор LEGO Dried Flower Centerpiece в рамках распродажи Black Friday",
+      "threads_teaser_ru": "Набор LEGO Dried Flower Centerpiece получил скидку на распродаже Black Friday на Amazon. Комплект, снятый с производства ранее в этом году, продается по самой низкой цене за год.",
+      "telegram_message_id": "2915",
+      "telegram_url": "https://t.me/gamepulse_newss/2915",
+      "telegram_published_at": "2026-11-19T09:02:50.964973+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/legodriedflowers-1795034548023.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T08:32:19.813073+00:00"
+  "updated_at": "2026-11-19T09:02:50.965086+00:00"
 }
