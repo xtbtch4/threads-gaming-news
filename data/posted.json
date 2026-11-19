@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3ca4bf47991141d2746b2520",
-      "title": "Forza Might Actually Lose at The Game Awards for the First Time in a Decade",
-      "url": "https://polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T16:00:18+00:00",
-      "score": 6,
-      "event_key": "forza_horizon_6_star_wars_galactic_racer_tga_2026",
-      "title_ru": "Forza Horizon 6 может впервые за долгое время проиграть на The Game Awards",
-      "threads_teaser_ru": "В категории «Лучшая спортивная/гоночная игра» на The Game Awards 2026 года привычный фаворит Forza Horizon 6 может уступить победу проекту Star Wars: Galactic Racer благодаря его инновациям и культовым жанровым корням.",
-      "telegram_message_id": "1734",
-      "telegram_url": "https://t.me/gamepulse_newss/1734",
-      "telegram_published_at": "2026-10-25T17:31:51.663034+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/assets_2026_01_1769110938_fh6_screenshots_11-city-car-meet.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-25T17:31:52.958257+00:00"
-    },
-    {
       "fingerprint": "223612906e8745861e3f4c7d",
       "title": "Clayface Looks Like a Win for the DCU After Earning $43 Million in Box Office Opening Weekend",
       "url": "https://ign.com/articles/clayface-looks-like-a-win-for-the-dcu-after-earning-43-million-in-box-office-opening-weekend",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-19-2026_1920x1080-b78ad7d532dc2e29d577.jpg",
       "threads_published_at": "2026-11-19T16:17:20.535056+00:00"
+    },
+    {
+      "fingerprint": "f4ddc320b40c7b76424935f2",
+      "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
+      "url": "https://ign.com/articles/rockstar-publishes-full-gta-6-credits-but-beware-they-contain-major-spoilers",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T15:43:11+00:00",
+      "score": 15,
+      "event_key": "Rockstar Games publishes full GTA 6 credits containing spoilers",
+      "title_ru": "Rockstar опубликовала полные титры GTA 6, содержащие спойлеры",
+      "threads_teaser_ru": "Rockstar выложила в сеть полные титры GTA 6. В списке из 6000 имен подтвердились актеры главных героев, множество приглашенных знаменитостей и даже указаны уволенные ранее сотрудники. Внимание: в тексте присутствуют сюжетные спойлеры.",
+      "telegram_message_id": "2938",
+      "telegram_url": "https://t.me/gamepulse_newss/2938",
+      "telegram_published_at": "2026-11-19T16:47:35.458990+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/jason-and-lucia-02-landscape-1024x576-1795102471167.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T16:17:20.535171+00:00"
+  "updated_at": "2026-11-19T16:47:35.459080+00:00"
 }
