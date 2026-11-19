@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b3f365ff59192c88f22e9352",
-      "title": "One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies",
-      "url": "https://polygon.com/zero-parades-mass-effect-2-comparison",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T15:00:18+00:00",
-      "score": 11,
-      "event_key": "Zero Parades: For Dead Spies gameplay and Mass Effect comparison",
-      "title_ru": "Zero Parades: For Dead Spies сравнивают с Mass Effect 2",
-      "threads_teaser_ru": "Игра Zero Parades: For Dead Spies от студии ZA/UM оказалась очень похожа на Mass Effect 2 по структуре и механике сбора команды. Рассказываем, как изометрическая RPG про шпионов заимствует лучшие элементы культовой франшизы.",
-      "telegram_message_id": "1704",
-      "telegram_url": "https://t.me/gamepulse_newss/1704",
-      "telegram_published_at": "2026-10-24T15:02:49.323859+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23632439/ss_9ecf8386f29c5e3ef066d7591816add13a98d2b0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/05/zero-parades-for-dead-spies-features-gameplay-trailer-1779119847.mp4",
-      "threads_published_at": "2026-10-24T15:02:50.858673+00:00"
-    },
-    {
       "fingerprint": "6e1f7ff71ecd81c0e5225b28",
       "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
       "url": "https://polygon.com/steam-personal-calendar-wide-release",
@@ -20534,7 +20516,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2024/09/09/thematrix25thanniversarytrailer2-ign-blogroll-1725901667745.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T01:17:04.842963+00:00"
+    },
+    {
+      "fingerprint": "a8116669d1ec25edbbe48b26",
+      "title": "Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain",
+      "url": "https://rockpapershotgun.com/chronicles-medieval-devs-raw-power-are-bankrupt-but-their-sandbox-rpg-lives-on-at-a-new-studio-co-founded-by-satisfactory-devs-coffee-stain",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-18T12:53:00+00:00",
+      "score": 6,
+      "event_key": "Coffee Stain acquires Chronicles Medieval after Raw Power bankruptcy",
+      "title_ru": "Coffee Stain спасла Chronicles: Medieval после банкротства студии Raw Power Games",
+      "threads_teaser_ru": "Разработка амбициозной стратегии Chronicles: Medieval продолжится: после банкротства авторов из Raw Power Games права на игру и финансирование выкупила Coffee Stain Group. Проект сохраняет релизное окно в 2027 году.",
+      "telegram_message_id": "2908",
+      "telegram_url": "https://t.me/gamepulse_newss/2908",
+      "telegram_published_at": "2026-11-19T01:32:58.599817+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/chronicles-medieval-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T01:17:04.843020+00:00"
+  "updated_at": "2026-11-19T01:32:58.599901+00:00"
 }
