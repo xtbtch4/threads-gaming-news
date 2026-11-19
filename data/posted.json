@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "10382cb9e8c40256ce8ed076",
-      "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
-      "url": "https://polygon.com/5-hardest-platformers-ever-ranked",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T16:01:20+00:00",
-      "score": 8,
-      "event_key": "Polygon ranks five hardest video game platformers in history",
-      "title_ru": "Polygon составил рейтинг самых сложных платформеров в истории",
-      "threads_teaser_ru": "Polygon представил рейтинг самых сложных платформеров всех времен. В список попали не только ретро-хиты вроде Castlevania и Sonic the Hedgehog, но и современные проекты, такие как Crash Bandicoot 4: It's About Time и Cuphead. Узнайте, почему эти игры до сих пор считаются настоящим испытанием.",
-      "telegram_message_id": "1706",
-      "telegram_url": "https://t.me/gamepulse_newss/1706",
-      "telegram_published_at": "2026-10-24T16:47:25.514564+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/06/rayman-legends-retold-press-image-9.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-24T16:47:27.250952+00:00"
-    },
-    {
       "fingerprint": "58d0a91af87e1565bbae7375",
       "title": "Avengers: Doomsday Teaser Reveals Who Was Edited Out of the First Trailer, Fans Say",
       "url": "https://ign.com/articles/avengers-doomsday-teaser-reveals-who-was-edited-out-of-the-first-trailer-fans-say",
@@ -20532,7 +20515,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gta-6-social-media-1795012615418.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T02:16:55.496436+00:00"
+    },
+    {
+      "fingerprint": "bc94e413696f1bd5f1fdf6bd",
+      "title": "How Long Does It Take To Beat GTA 6?",
+      "url": "https://polygon.com/gta-6-how-long-to-beat-grand-theft-auto",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T05:01:18+00:00",
+      "score": 10,
+      "event_key": "GTA 6 estimated main story playtime disclosure",
+      "title_ru": "Стала известна примерная продолжительность прохождения сюжета GTA 6",
+      "threads_teaser_ru": "Журналисты оценили время прохождения сюжетной кампании GTA 6. Даже при самом быстром стиле игры потребуется около 53 часов, а полноценное изучение контента может занять более 100 часов. Новинка от Rockstar обещает стать самой длинной игрой в серии.",
+      "telegram_message_id": "2910",
+      "telegram_url": "https://t.me/gamepulse_newss/2910",
+      "telegram_published_at": "2026-11-19T05:03:11.678615+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T02:16:55.496533+00:00"
+  "updated_at": "2026-11-19T05:03:11.678696+00:00"
 }
