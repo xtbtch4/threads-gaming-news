@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "159b8021f9976e4f79bca7dd",
-      "title": "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
-      "url": "https://ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
-      "source": "IGN",
-      "published_at_source": "2026-10-25T17:30:24+00:00",
-      "score": 15,
-      "event_key": "leaks-reveal-canceled-bioware-mass-effect-game-details",
-      "title_ru": "Утечка раскрыла подробности отменённой игры серии Mass Effect",
-      "threads_teaser_ru": "Утечка информации об отменённой игре серии Mass Effect раскрыла амбициозные планы BioWare по переносу всех решений из трилогии в новый проект под названием Mass Effect: Universe.",
-      "telegram_message_id": "1736",
-      "telegram_url": "https://t.me/gamepulse_newss/1736",
-      "telegram_published_at": "2026-10-25T20:16:34.240912+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/21/masseffect-blogroll-1792622452670.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-25T20:16:35.578918+00:00"
-    },
-    {
       "fingerprint": "d4eff6d61fcf7adb0baa84bb",
       "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
       "url": "https://polygon.com/batman-arkham-city-retrospective-best-superhero-video-game",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2021/05/25/assassins-creed-valhalla-1621913022247.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T17:17:25.286885+00:00"
+    },
+    {
+      "fingerprint": "54d5be6a9492e72d0b213a7f",
+      "title": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
+      "url": "https://eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-19T17:48:50+00:00",
+      "score": 13,
+      "event_key": "gta-6-players-find-ufo-and-bigfoot-easter-eggs",
+      "title_ru": "Игроки в Grand Theft Auto 6 нашли UFO и Bigfoot",
+      "threads_teaser_ru": "Спустя часы после релиза Grand Theft Auto 6 игроки обнаружили в игре похищения инопланетянами и встречи с Bigfoot. Рассказываем, где искать эти пасхалки и что для этого нужно.",
+      "telegram_message_id": "2940",
+      "telegram_url": "https://t.me/gamepulse_newss/2940",
+      "telegram_published_at": "2026-11-19T18:02:42.133637+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-19-at-17.37.59.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T17:17:25.286971+00:00"
+  "updated_at": "2026-11-19T18:02:42.133729+00:00"
 }
