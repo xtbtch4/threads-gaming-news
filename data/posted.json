@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "24ab71d343922bb2e235cb39",
-      "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
-      "url": "https://polygon.com/best-snes-games-nintendo-switch-online-classics",
-      "source": "Polygon",
-      "published_at_source": "2026-10-26T02:44:34+00:00",
-      "score": 5,
-      "event_key": "best snes games nintendo switch online classics",
-      "title_ru": "Лучшие игры для SNES на Nintendo Switch Online",
-      "threads_teaser_ru": "Издание Polygon представило подборку из 10 лучших игр для Super Nintendo, доступных по подписке Nintendo Switch Online в разделе Nintendo Classics. В список вошли легендарные проекты Nintendo.",
-      "telegram_message_id": "1742",
-      "telegram_url": "https://t.me/gamepulse_newss/1742",
-      "telegram_published_at": "2026-10-26T02:47:06.426987+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/a-brief-history-of-nintendo-not-letting-you-play-as-zelda-1787217288.mp4",
-      "threads_published_at": "2026-10-26T02:47:07.928007+00:00"
-    },
-    {
       "fingerprint": "d45a79bee7f0cc3235d7d637",
       "title": "Mass Effect's Commander Shepard Actors, Destiny Community Help #SaveMassEffect Petition Cross 200,000 Signatures",
       "url": "https://ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
@@ -20521,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T19:17:51.354117+00:00"
+    },
+    {
+      "fingerprint": "9323c0bc3fd91c9de2d77841",
+      "title": "GTA 6 Devs Are Still Worried About Layoffs, Despite Making One of the Most Successful Games Ever Made",
+      "url": "https://ign.com/articles/gta-6-devs-are-still-worried-about-layoffs-despite-making-one-of-the-most-successful-games-ever-made",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T19:38:02+00:00",
+      "score": 15,
+      "event_key": "gta-6-developers-worry-about-layoffs-and-unionization",
+      "title_ru": "Разработчики GTA 6 опасаются увольнений на фоне успехов игры",
+      "threads_teaser_ru": "Несмотря на огромный коммерческий успех GTA 6, разработчики игры переживают из-за возможных увольнений и влияния искусственного интеллекта на индустрию.",
+      "telegram_message_id": "2946",
+      "telegram_url": "https://t.me/gamepulse_newss/2946",
+      "telegram_published_at": "2026-11-19T20:02:29.998642+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/ultimate-edition-goodtime-gear-01-1782295792418-1795067565426.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T19:17:51.354206+00:00"
+  "updated_at": "2026-11-19T20:02:29.998732+00:00"
 }
