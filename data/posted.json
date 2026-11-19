@@ -20529,9 +20529,10 @@
       "telegram_message_id": "2913",
       "telegram_url": "https://t.me/gamepulse_newss/2913",
       "telegram_published_at": "2026-11-19T08:16:56.988487+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA5_LoseTheCops_V1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA5_LoseTheCops_V1.jpg?w=300",
+      "threads_published_at": "2026-11-19T08:16:58.733549+00:00"
     }
   ],
-  "updated_at": "2026-11-19T08:16:56.988577+00:00"
+  "updated_at": "2026-11-19T08:16:58.733638+00:00"
 }
