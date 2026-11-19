@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f410bc1fc635d7d2e1368e9a",
-      "title": "The 5 least-scary scary games for people who are scared of scary games",
-      "url": "https://polygon.com/best-not-scary-horror-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T20:00:18+00:00",
-      "score": 8,
-      "event_key": "Polygon selects non-scary games for Halloween atmosphere",
-      "title_ru": "Polygon составил список игр с атмосферой Хэллоуина для тех, кто боится хорроров",
-      "threads_teaser_ru": "Любите атмосферу Хэллоуина, но не фанат хорроров? Редакция Polygon собрала 5 игр с пугающей эстетикой и осенним настроением, которые не заставят вас вздрагивать от страха и не принесут ночных кошмаров.",
-      "telegram_message_id": "1715",
-      "telegram_url": "https://t.me/gamepulse_newss/1715",
-      "telegram_published_at": "2026-10-24T20:03:00.093174+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7808383/Night_in_the_Woods_art.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/penko-park-on-steam-1792783122.mp4",
-      "threads_published_at": "2026-10-24T20:03:01.512862+00:00"
-    },
-    {
       "fingerprint": "d12b05c7a7a06e9c43440508",
       "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
       "url": "https://polygon.com/best-books-cozy-horror-fall-season",
@@ -20530,7 +20512,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/burgerkingheartwhopper-1795043229403.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T10:02:17.130117+00:00"
+    },
+    {
+      "fingerprint": "fe692b387f055a8e4b26d5d1",
+      "title": "All Underwater Discoveries In GTA 6 – Kenton’s Treasures Guide",
+      "url": "https://gamespot.com/articles/gta-6-underwater-discoveries-kentons-treasures-guide",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-19T09:42:51+00:00",
+      "score": 9,
+      "event_key": "gta-6-underwater-discoveries-kentons-treasures-guide",
+      "title_ru": "Гայդ по подводным находкам и сокровищам в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 можно искать подводные сокровища в рамках активности Kenton’s Treasures. Узнайте, как начать задания капитана Kenton, использовать металлоискатель и защищаться от акул.",
+      "telegram_message_id": "2919",
+      "telegram_url": "https://t.me/gamepulse_newss/2919",
+      "telegram_published_at": "2026-11-19T10:16:54.967437+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-underwater-discoveries-kentons-treasures-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-19T10:02:17.130201+00:00"
+  "updated_at": "2026-11-19T10:16:54.967534+00:00"
 }
