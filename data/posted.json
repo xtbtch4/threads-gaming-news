@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1767106d9a6ba4465633768b",
-      "title": "Nintendo Is Still Being Wildly Underestimated",
-      "url": "https://polygon.com/switchboard-nintendo-switch-sports-resort",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T13:00:18+00:00",
-      "score": 8,
-      "event_key": "nintendo switch sports resort critical reception polygon",
-      "title_ru": "Polygon: критики недооценивают Nintendo Switch Sports Resort",
-      "threads_teaser_ru": "Почему казуальные хиты от Nintendo, такие как Nintendo Switch Sports Resort, получают от критиков оценки ниже, чем «хардкорные» релизы? Разбираемся в логике оценок и феномене восприятия игр, созданных для широкой аудитории.",
-      "telegram_message_id": "1702",
-      "telegram_url": "https://t.me/gamepulse_newss/1702",
-      "telegram_published_at": "2026-10-24T13:02:33.201080+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-table-tennis.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/house-flipper-2-launch-trailer-nintendo-switch-2-1792704289.mp4",
-      "threads_published_at": "2026-10-24T13:02:34.673762+00:00"
-    },
-    {
       "fingerprint": "b7e6cb0b970df07758df0522",
       "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
       "url": "https://gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look",
@@ -20535,7 +20517,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T00:46:54.936247+00:00"
+    },
+    {
+      "fingerprint": "6897c5e5d1df301fc03681d9",
+      "title": "The New Game That Will Be Pulling Me Away From GTA 6",
+      "url": "https://gamespot.com/articles/the-new-game-that-will-be-pulling-me-away-from-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-18T20:22:06+00:00",
+      "score": 6,
+      "event_key": "australia_did_it_release",
+      "title_ru": "Релиз тактической игры Australia Did It",
+      "threads_teaser_ru": "Новая тактическая игра Australia Did It от создателя Nuclear Throne уже доступна. Проект сочетает пошаговую защиту поезда с элементами survivorslike и необычными механиками комбинации юнитов.",
+      "telegram_message_id": "2906",
+      "telegram_url": "https://t.me/gamepulse_newss/2906",
+      "telegram_published_at": "2026-11-19T01:02:40.539256+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/australia-did-it.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-19T00:46:54.936344+00:00"
+  "updated_at": "2026-11-19T01:02:40.539373+00:00"
 }
