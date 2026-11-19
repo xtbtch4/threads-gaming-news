@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "041245783c718fcc25ee1d8d",
-      "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
-      "url": "https://rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-24T21:52:00+00:00",
-      "score": 8,
-      "event_key": "announcement of surreal platformer Abelina for 2027",
-      "title_ru": "Анонсирован сюрреалистичный платформер Abelina",
-      "threads_teaser_ru": "Анонсирован сюрреалистичный платформер Abelina — история о человеке, который после смерти пытается найти счастье в загадочном мире. Над игрой работают бывшие создатели CG для League of Legends и композитор фильма Resident Evil. Релиз намечен на 2027 год.",
-      "telegram_message_id": "1717",
-      "telegram_url": "https://t.me/gamepulse_newss/1717",
-      "telegram_published_at": "2026-10-24T22:02:26.099347+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/abelina.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T22:02:27.313961+00:00"
-    },
-    {
       "fingerprint": "8d0248679b3e9c8b4d834e8f",
       "title": "Every Legend of Zelda Movie Character and Cast Member Confirmed So Far",
       "url": "https://polygon.com/the-legend-of-zelda-2027-movie-cast-link-zelda-ganondorf",
@@ -20529,7 +20512,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T10:46:38.926176+00:00"
+    },
+    {
+      "fingerprint": "6f71dcb19508e43336db54a6",
+      "title": "GTA 6's Prologue Can Go Way More Differently Than You Might Think",
+      "url": "https://ign.com/articles/gta-6s-prologue-can-go-way-more-differently-than-you-might-think",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T10:30:00+00:00",
+      "score": 9,
+      "event_key": "gta-6 prologue police escape details",
+      "title_ru": "Детали прохождения пролога в GTA 6",
+      "threads_teaser_ru": "Оказывается, в прологе GTA 6 можно успешно уйти от погони полиции на Seashark, но игра всё равно найдет способ вернуть героиню к сюжетным событиям.",
+      "telegram_message_id": "2921",
+      "telegram_url": "https://t.me/gamepulse_newss/2921",
+      "telegram_published_at": "2026-11-19T11:02:26.163174+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/prologue-blog-1795085546484.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T10:46:38.926270+00:00"
+  "updated_at": "2026-11-19T11:02:26.163264+00:00"
 }
