@@ -20531,9 +20531,10 @@
       "telegram_message_id": "2907",
       "telegram_url": "https://t.me/gamepulse_newss/2907",
       "telegram_published_at": "2026-11-19T01:17:03.675880+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2024/09/09/thematrix25thanniversarytrailer2-ign-blogroll-1725901667745.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2024/09/09/thematrix25thanniversarytrailer2-ign-blogroll-1725901667745.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-19T01:17:04.842963+00:00"
     }
   ],
-  "updated_at": "2026-11-19T01:17:03.675950+00:00"
+  "updated_at": "2026-11-19T01:17:04.843020+00:00"
 }
