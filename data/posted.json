@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2a1aa8be2d55a1f54490dc64",
-      "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-      "url": "https://ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-      "source": "IGN",
-      "published_at_source": "2026-10-25T15:14:17+00:00",
-      "score": 13,
-      "event_key": "manni l perez gta 6 instagram livestream",
-      "title_ru": "Актриса, которую считают голосом Lucia в GTA 6, провела трансляцию",
-      "threads_teaser_ru": "Актриса Манни Л. Перес, которой приписывают роль Lucia в GTA 6, провела трансляцию и мастерски проигнорировала вопросы фанатов о грядущей игре.",
-      "telegram_message_id": "1730",
-      "telegram_url": "https://t.me/gamepulse_newss/1730",
-      "telegram_published_at": "2026-10-25T16:02:08.515493+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/24/lucia-hi-res-headshot-artwork-1787583598249.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-25T16:02:09.779375+00:00"
-    },
-    {
       "fingerprint": "869a9d92b21f246d8d1b14b2",
       "title": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
       "url": "https://gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Easy-mode-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T14:46:59.963055+00:00"
+    },
+    {
+      "fingerprint": "fccaa35b92848d54c2ed2f09",
+      "title": "GTA 6's Jason and Lucia Actors Spotted Together in First Photo",
+      "url": "https://ign.com/articles/gta-6s-jason-and-lucia-actors-spotted-together-in-first-photo",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T14:38:41+00:00",
+      "score": 11,
+      "event_key": "GTA 6 Jason and Lucia actors confirmed together",
+      "title_ru": "Актеры главных героев GTA 6 впервые появились на совместном фото",
+      "threads_teaser_ru": "Раскрыты личности актеров главных героев Grand Theft Auto 6. Джейсона и Люсию сыграли Дилан Рурк и Манни Л. Перез. Совместное фото актеров опубликовала каскадер проекта, подтвердив участие Рурка в разработке игры.",
+      "telegram_message_id": "2934",
+      "telegram_url": "https://t.me/gamepulse_newss/2934",
+      "telegram_published_at": "2026-11-19T15:03:16.524770+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/screenshot-2026-11-19-143016-1795098701216.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T14:46:59.963157+00:00"
+  "updated_at": "2026-11-19T15:03:16.524854+00:00"
 }
