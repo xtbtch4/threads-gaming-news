@@ -20516,9 +20516,10 @@
       "telegram_message_id": "2953",
       "telegram_url": "https://t.me/gamepulse_newss/2953",
       "telegram_published_at": "2026-11-19T23:17:25.231759+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam-machine-pre-order.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam-machine-pre-order.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-19T23:17:26.741489+00:00"
     }
   ],
-  "updated_at": "2026-11-19T23:17:25.231840+00:00"
+  "updated_at": "2026-11-19T23:17:26.741572+00:00"
 }
