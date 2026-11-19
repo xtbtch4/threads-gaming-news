@@ -20517,9 +20517,10 @@
       "telegram_message_id": "2946",
       "telegram_url": "https://t.me/gamepulse_newss/2946",
       "telegram_published_at": "2026-11-19T20:02:29.998642+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/ultimate-edition-goodtime-gear-01-1782295792418-1795067565426.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/ultimate-edition-goodtime-gear-01-1782295792418-1795067565426.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-19T20:02:31.496678+00:00"
     }
   ],
-  "updated_at": "2026-11-19T20:02:29.998732+00:00"
+  "updated_at": "2026-11-19T20:02:31.496772+00:00"
 }
