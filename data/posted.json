@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e3c01b75ca6ad400f1a3cfc2",
-      "title": "9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid",
-      "url": "https://polygon.com/best-nerdy-kid-far-side-comics",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T11:00:18+00:00",
-      "score": 8,
-      "event_key": "Gary Larson The Far Side Nerdy Kid character overview",
-      "title_ru": "Подборка комиксов The Far Side с персонажем Nerdy Kid",
-      "threads_teaser_ru": "Gary Larson в своих комиксах The Far Side не использовал постоянных героев, но один типаж появлялся чаще других. Вспоминаем девять лучших историй про Nerdy Kid — мальчика, который вечно попадает в нелепые ситуации.",
-      "telegram_message_id": "1723",
-      "telegram_url": "https://t.me/gamepulse_newss/1723",
-      "telegram_published_at": "2026-10-25T11:02:45.257691+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-23-at-10-31-55-am.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
-      "threads_published_at": "2026-10-25T11:02:46.503049+00:00"
-    },
-    {
       "fingerprint": "b585b10245ede4b5edea04da",
       "title": "Nintendo Legend Reveals Super Mario Bros.' Most Surprising Innovation",
       "url": "https://polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation",
@@ -20526,7 +20508,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/untitled-1-1795085988612.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T12:32:14.435511+00:00"
+    },
+    {
+      "fingerprint": "b1cc5ac157fb468c66dcb95f",
+      "title": "20 Years Ago, Nintendo’s Awkwardly Named Console Defied All Its Biggest Doubters",
+      "url": "https://polygon.com/nintendo-wii-20th-anniversary",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T12:00:18+00:00",
+      "score": 10,
+      "event_key": "nintendo wii 20th anniversary history market impact",
+      "title_ru": "История консоли Wii от Nintendo",
+      "threads_teaser_ru": "Двадцать лет назад Nintendo выпустила консоль Wii, которая получила странное название, но смогла изменить всю игровую индустрию и привлечь новых игроков.",
+      "telegram_message_id": "2927",
+      "telegram_url": "https://t.me/gamepulse_newss/2927",
+      "telegram_published_at": "2026-11-19T12:46:52.907910+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T12:32:14.435593+00:00"
+  "updated_at": "2026-11-19T12:46:52.907996+00:00"
 }
