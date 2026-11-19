@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d4eff6d61fcf7adb0baa84bb",
-      "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
-      "url": "https://polygon.com/batman-arkham-city-retrospective-best-superhero-video-game",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T20:00:18+00:00",
-      "score": 8,
-      "event_key": "batman arkham city legacy and influence retrospective",
-      "title_ru": "Влияние Batman: Arkham City на жанр супергеройских игр",
-      "threads_teaser_ru": "Спустя 15 лет после релиза Batman: Arkham City остается непревзойденным шедевром и эталоном в жанре супергеройских игр, определившим механику многих будущих хитов.",
-      "telegram_message_id": "1737",
-      "telegram_url": "https://t.me/gamepulse_newss/1737",
-      "telegram_published_at": "2026-10-25T20:31:50.778746+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9759137/City.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-25T20:31:51.983282+00:00"
-    },
-    {
       "fingerprint": "6facffc6e99e7c44576a4c76",
       "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
       "url": "https://polygon.com/calvin-hobbes-vocabulary",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-19-at-17.37.59.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T18:02:43.546843+00:00"
+    },
+    {
+      "fingerprint": "45aa6f7c7c33be60b74f12d8",
+      "title": "Now That I've Played GTA 6 on PS5 Pro, Here's What I Want Out of the PC Version",
+      "url": "https://ign.com/articles/now-that-ive-played-gta-6-on-ps5-pro-heres-what-i-want-out-of-the-pc-version",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T16:51:41+00:00",
+      "score": 13,
+      "event_key": "ign editor shares expectations for pc version of gta 6",
+      "title_ru": "Чего ожидать от ПК-версии GTA 6 после игры на PS5 Pro",
+      "threads_teaser_ru": "Редактор IGN поделилась ожиданиями от ПК-версии GTA 6 после игры на консолях. Каких улучшений в частоте кадров, графике и технологиях стоит ждать на персональных компьютерах?",
+      "telegram_message_id": "2941",
+      "telegram_url": "https://t.me/gamepulse_newss/2941",
+      "telegram_published_at": "2026-11-19T18:17:06.215739+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtavi-37-1795107050305.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T18:02:43.546926+00:00"
+  "updated_at": "2026-11-19T18:17:06.215849+00:00"
 }
