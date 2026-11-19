@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9855478e57ccabe627395e8a",
-      "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
-      "url": "https://polygon.com/kingdom-hearts-4-worlds-theories",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T00:39:16+00:00",
-      "score": 8,
-      "event_key": "Kingdom Hearts 4 potential worlds and locations analysis",
-      "title_ru": "Миры Kingdom Hearts 4: ожидания фанатов и прогнозы",
-      "threads_teaser_ru": "Какие миры Disney могут появиться в Kingdom Hearts 4? Анализируем официальные подтверждения, такие как Coco и Hercules, и обсуждаем теории фанатов: от интеграции Star Wars до возвращения в Arendelle и потенциального визита в Zootopia.",
-      "telegram_message_id": "1721",
-      "telegram_url": "https://t.me/gamepulse_newss/1721",
-      "telegram_published_at": "2026-10-25T01:47:34.210257+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/kh4_d23_4k_1.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/kingdom-hearts-iv-extended-d23-2026-coco-trailer-1786886067.mp4",
-      "threads_published_at": "2026-10-25T01:47:35.698540+00:00"
-    },
-    {
       "fingerprint": "e52552a77703a658c7963013",
       "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
       "url": "https://ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
@@ -20527,7 +20509,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-claim-vehicles-weapons-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T11:47:09.318399+00:00"
+    },
+    {
+      "fingerprint": "9c65343d8ebdb75cf0fa8bc2",
+      "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
+      "url": "https://ign.com/articles/gta-6-estimated-to-have-reached-20-million-preorders-ahead-of-launch",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T11:39:00+00:00",
+      "score": 13,
+      "event_key": "gta 6 reaches estimated 20 million preorders",
+      "title_ru": "Аналитики оценивают предзаказы GTA 6 в 20 миллионов копий до релиза",
+      "threads_teaser_ru": "По оценкам аналитиков, перед релизом количество предзаказов GTA 6 достигло около 20 миллионов копий, а выручка превысила 1.6 миллиарда долларов. Основная доля продаж пришлась на PlayStation 5.",
+      "telegram_message_id": "2925",
+      "telegram_url": "https://t.me/gamepulse_newss/2925",
+      "telegram_published_at": "2026-11-19T12:02:09.187477+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/vintage-vice-city-weapon-pattern-01-1795088290717.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T11:47:09.318491+00:00"
+  "updated_at": "2026-11-19T12:02:09.187563+00:00"
 }
