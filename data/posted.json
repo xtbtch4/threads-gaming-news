@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d9f7bb0bc363f8a3e3d9ddbb",
-      "title": "Pokémon Go November 2026 event and raid schedule",
-      "url": "https://eurogamer.net/pokemon-go-november-2026-event-raid-schedule",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T02:46:00+00:00",
-      "score": 6,
-      "event_key": "pokemon go november 2026 event and raid schedule",
-      "title_ru": "Расписание событий и рейдов в Pokémon Go на ноябрь 2026 года",
-      "threads_teaser_ru": "Стало известно расписание событий, рейдов и мероприятий в Pokémon Go на ноябрь 2026 года. Главным фокусом месяца станет Go Wild Area 2026: Global и связанные с ним активности.",
-      "telegram_message_id": "1749",
-      "telegram_url": "https://t.me/gamepulse_newss/1749",
-      "telegram_published_at": "2026-10-26T10:46:55.843157+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Pokemon-Go-November-2026-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T10:46:57.263952+00:00"
-    },
-    {
       "fingerprint": "22df6ea928de382f975c7836",
       "title": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
       "url": "https://ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-mandy-1795125785845.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T23:02:48.256372+00:00"
+    },
+    {
+      "fingerprint": "f5884a6033ad86ad72b0a3b4",
+      "title": "Valve Warns of a Possible Steam Machine Price Hike",
+      "url": "https://polygon.com/steam-machine-possible-price-hike",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T23:07:46+00:00",
+      "score": 12,
+      "event_key": "Valve warns of possible Steam Machine price increase",
+      "title_ru": "Valve предупредила о возможном повышении цен на Steam Machine",
+      "threads_teaser_ru": "Valve заявила о возможном подорожании Steam Machine и трудностях с производством. Модель 512 GB поступила в свободную продажу, а вот очередь на версию 2 TB закрывается из-за нехватки компонентов.",
+      "telegram_message_id": "2953",
+      "telegram_url": "https://t.me/gamepulse_newss/2953",
+      "telegram_published_at": "2026-11-19T23:17:25.231759+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam-machine-pre-order.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T23:02:48.256462+00:00"
+  "updated_at": "2026-11-19T23:17:25.231840+00:00"
 }
