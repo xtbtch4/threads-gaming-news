@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5208575fb4cf516747c07067",
-      "title": "Stalker 2's next update has already leaked",
-      "url": "https://eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-24T18:08:22+00:00",
-      "score": 15,
-      "event_key": "playstation asia leaked stalker 2 heart of chornobyl update 2.1",
-      "title_ru": "Детали обновления 2.1 для S.T.A.L.K.E.R. 2: Heart of Chornobyl утекли в сеть",
-      "threads_teaser_ru": "Детали грядущего обновления 2.1 для S.T.A.L.K.E.R. 2: Heart of Chornobyl случайно раскрыл аккаунт PlayStation Asia. Патч под названием The Zone Lookout должен выйти на следующей неделе.",
-      "telegram_message_id": "1712",
-      "telegram_url": "https://t.me/gamepulse_newss/1712",
-      "telegram_published_at": "2026-10-24T18:18:18.041057+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T18:18:19.425523+00:00"
-    },
-    {
       "fingerprint": "cd59842f6c5a82fa0afee3d3",
       "title": "Commander Shepard Voice Actors Call for Action to Save Mass Effect",
       "url": "https://polygon.com/mass-effect-universe-canceled-jennifer-hale-mark-meer-support-petition",
@@ -20531,7 +20514,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/legodriedflowers-1795034548023.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T09:02:52.648715+00:00"
+    },
+    {
+      "fingerprint": "e2c700a042175ccc93efc1c7",
+      "title": "The Altruists Review",
+      "url": "https://ign.com/articles/the-altruists-review-netflix",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T08:01:00+00:00",
+      "score": 6,
+      "event_key": "netflix releases the altruists series about ftx scandal",
+      "title_ru": "Обзор сериала The Altruists от Netflix",
+      "threads_teaser_ru": "На Netflix вышел сериал The Altruists о крахе криптобиржи FTX и скандале вокруг Сэма Бэнкмана-Фрида и Кэролайн Эллисон. Главные роли исполнили Энтони Бойл и Юлия Гарнер.",
+      "telegram_message_id": "2916",
+      "telegram_url": "https://t.me/gamepulse_newss/2916",
+      "telegram_published_at": "2026-11-19T09:16:47.648372+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/alt-1795046526189.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T09:02:52.648812+00:00"
+  "updated_at": "2026-11-19T09:16:47.648455+00:00"
 }
