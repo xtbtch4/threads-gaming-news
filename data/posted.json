@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b9ffc3bf4a4af263ccc9afb7",
-      "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
-      "url": "https://polygon.com/clayface-opening-weekend-box-office",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T16:02:01+00:00",
-      "score": 6,
-      "event_key": "Clayface box office performance Skydance results",
-      "title_ru": "Фильм Clayface возглавил прокат в США",
-      "threads_teaser_ru": "Фильм Clayface стал лидером проката, принеся студии Skydance вторую победу подряд. Хоррор заработал 24,5 миллиона долларов, что соответствует ожиданиям для фильмов с небольшим бюджетом, несмотря на неоднозначные отзывы критиков о сюжете.",
-      "telegram_message_id": "1733",
-      "telegram_url": "https://t.me/gamepulse_newss/1733",
-      "telegram_published_at": "2026-10-25T17:17:25.478942+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/clayface-movie-screenshot.webp?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/07/clayface-official-trailer-1784738960.mp4",
-      "threads_published_at": "2026-10-25T17:17:26.820615+00:00"
-    },
-    {
       "fingerprint": "3ca4bf47991141d2746b2520",
       "title": "Forza Might Actually Lose at The Game Awards for the First Time in a Decade",
       "url": "https://polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer",
@@ -20521,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DIS.png?w=300",
       "threads_published_at": "2026-11-19T15:47:28.207322+00:00"
+    },
+    {
+      "fingerprint": "900d9b36181abc410abbf36a",
+      "title": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, Polterguys: Possession Party, and More",
+      "url": "https://news.xbox.com/en-us/2026/11/19/free-play-days-11-19-2026",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-19T16:00:00+00:00",
+      "score": 16,
+      "event_key": "xbox free play days november 2026 deadlink slayers x",
+      "title_ru": "Бесплатные выходные с Deadlink, Slayers X и другими играми в Xbox",
+      "threads_teaser_ru": "С 19 по 22 ноября подписчики XBOX Game Pass могут бесплатно играть в Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer и Polterguys: Possession Party. А для Thomas & Friends: Wonders of Sodor доступна двухчасовая пробная версия для всех пользователей.",
+      "telegram_message_id": "2937",
+      "telegram_url": "https://t.me/gamepulse_newss/2937",
+      "telegram_published_at": "2026-11-19T16:17:19.019461+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-19-2026_1920x1080-b78ad7d532dc2e29d577.jpg"
     }
   ],
-  "updated_at": "2026-11-19T15:47:28.207414+00:00"
+  "updated_at": "2026-11-19T16:17:19.019543+00:00"
 }
