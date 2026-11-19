@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0d45793cf843bd7242271cbd",
-      "title": "Game of Thrones’ Perfect Replacement is a 100+ Hours Fantasy Series that's Free on YouTube",
-      "url": "https://polygon.com/game-of-thrones-replacement-critical-role",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T11:01:19+00:00",
-      "score": 10,
-      "event_key": "critical role campaign 4 comparison to game of thrones",
-      "title_ru": "Polygon назвали Critical Role заменой Game of Thrones",
-      "threads_teaser_ru": "Ищете замену Game of Thrones? Издание Polygon рекомендует присмотреться к Campaign 4 от шоу Critical Role. Политический хаос, борьба за власть, интриги и постоянный риск смерти персонажей — вот что ждет зрителей в этом D&D-шоу на 100+ часов.",
-      "telegram_message_id": "1698",
-      "telegram_url": "https://t.me/gamepulse_newss/1698",
-      "telegram_published_at": "2026-10-24T11:02:18.320172+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3687796/game-of-thrones-505-jon-snow_2100.0.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/critical-role-iv-official-trailer-1786740297.mp4",
-      "threads_published_at": "2026-10-24T11:02:19.698643+00:00"
-    },
-    {
       "fingerprint": "9e3a68ca6faac441f928b29f",
       "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly",
       "url": "https://polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo",
@@ -20536,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/20261118154502_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-18T23:47:25.355973+00:00"
+    },
+    {
+      "fingerprint": "6a2c135f55a867171ebd89e6",
+      "title": "Jason Loves Cats In GTA 6, But Not All Of Them",
+      "url": "https://gamespot.com/articles/jason-loves-cats-in-gta-6-but-not-all-of-them",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-18T09:07:00+00:00",
+      "score": 9,
+      "event_key": "jason loves cats in gta 6",
+      "title_ru": "Jason любит кошек в GTA 6",
+      "threads_teaser_ru": "В грядущем блокбастере GTA 6 один из главных героев, Jason, сможет выразить свою любовь к кошкам. Однако, судя по деталям, далеко не все животные удостонятся его симпатии.",
+      "telegram_message_id": "2902",
+      "telegram_url": "https://t.me/gamepulse_newss/2902",
+      "telegram_published_at": "2026-11-19T00:02:56.869394+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-18T23:47:25.356074+00:00"
+  "updated_at": "2026-11-19T00:02:56.869492+00:00"
 }
