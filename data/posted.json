@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "83ffdee225a1c084e2240274",
-      "title": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
-      "url": "https://polygon.com/bloodsport-free-youtube",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T01:00:18+00:00",
-      "score": 10,
-      "event_key": "Bloodsport movie available for free streaming on YouTube",
-      "title_ru": "Классический боевик Bloodsport доступен для бесплатного просмотра на YouTube",
-      "threads_teaser_ru": "Классический боевик 1988 года Bloodsport с Жаном-Клодом Ван Даммом теперь доступен для бесплатного просмотра на YouTube. Картина считается одним из источников вдохновения для создания культовых файтингов вроде Mortal Kombat и Street Fighter II.",
-      "telegram_message_id": "1719",
-      "telegram_url": "https://t.me/gamepulse_newss/1719",
-      "telegram_published_at": "2026-10-25T01:02:44.688390+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jean-claude-van-damme-bloodsport.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/trailers/movies/182161.mp4",
-      "threads_published_at": "2026-10-25T01:02:46.130365+00:00"
-    },
-    {
       "fingerprint": "a459f4bb9166ff1a45547069",
       "title": "5 Most Perfect 1980s Games That Nobody Remembers",
       "url": "https://polygon.com/best-forgotten-1980s-games",
@@ -20529,7 +20511,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVI_FlawlessBankRobbery_site.jpg?w=300",
       "threads_published_at": "2026-11-19T11:17:12.154327+00:00"
+    },
+    {
+      "fingerprint": "c86b8fc0b9ea22472cfc18c6",
+      "title": "Dead by Daylight Teases the Arrival of the King of Monsters",
+      "url": "https://polygon.com/godzilla-dead-by-daylight",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T11:20:38+00:00",
+      "score": 10,
+      "event_key": "dead_by_daylight_godzilla_teaser_hartshorne_mall",
+      "title_ru": "Dead by Daylight тизерит появление Godzilla",
+      "threads_teaser_ru": "Студия Behaviour Interactive выпустила интригующий тизер для Dead by Daylight, намекающий на кроссовер с Godzilla и появление карты Hartshorne Mall уже 24 ноября.",
+      "telegram_message_id": "2923",
+      "telegram_url": "https://t.me/gamepulse_newss/2923",
+      "telegram_published_at": "2026-11-19T11:32:55.934075+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdgomi_ec012.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-19T11:17:12.154412+00:00"
+  "updated_at": "2026-11-19T11:32:55.934165+00:00"
 }
