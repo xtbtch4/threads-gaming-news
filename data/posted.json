@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e85cd7932c0bcfa961813fc9",
-      "title": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
-      "url": "https://eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-24T17:17:53+00:00",
-      "score": 9,
-      "event_key": "FBI investigates theft of 6000 PSA graded trading cards",
-      "title_ru": "ФБР расследует кражу более 6000 коллекционных карточек из грузовика FedEx",
-      "threads_teaser_ru": "В Калифорнии расследуют крупную кражу: из грузовика FedEx похитили свыше 6000 коллекционных карточек, включая почти 3000 карт Pokémon. PSA уже деактивировала сертификаты украденных лотов, чтобы их было сложнее перепродать.",
-      "telegram_message_id": "1710",
-      "telegram_url": "https://t.me/gamepulse_newss/1710",
-      "telegram_published_at": "2026-10-24T17:47:59.555781+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/detective-pikachu-short.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-24T17:48:00.821523+00:00"
-    },
-    {
       "fingerprint": "bcacf6f2ad4f3b94a2ba1d88",
       "title": "Dead by Daylight Is Losing Another Horror Icon",
       "url": "https://polygon.com/dead-by-daylight-chucky-removed",
@@ -20532,7 +20515,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA5_LoseTheCops_V1.jpg?w=300",
       "threads_published_at": "2026-11-19T08:16:58.733549+00:00"
+    },
+    {
+      "fingerprint": "0f5f3241c482071d9d56bfe1",
+      "title": "GTA 6 – 13 Things I Wish I Knew",
+      "url": "https://gamespot.com/videos/gta-6-13-things-i-wish-i-knew",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-19T05:00:00+00:00",
+      "score": 9,
+      "event_key": "GTA 6 release tips Leonida state Rockstar",
+      "title_ru": "Выход GTA 6: 13 полезных советов для игры",
+      "threads_teaser_ru": "Состоялся релиз Grand Theft Auto VI от Rockstar. Игрокам стали доступны 13 ключевых советов, которые помогут получить преимущество на старте в вымышленном штате Leonida.",
+      "telegram_message_id": "2914",
+      "telegram_url": "https://t.me/gamepulse_newss/2914",
+      "telegram_published_at": "2026-11-19T08:32:18.361961+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6_13ThingsToKnow_SITE.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-19T08:16:58.733638+00:00"
+  "updated_at": "2026-11-19T08:32:18.362054+00:00"
 }
