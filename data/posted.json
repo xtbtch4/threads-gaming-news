@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7f7a783e8662c865ac8f8877",
-      "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
-      "url": "https://ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T03:28:52+00:00",
-      "score": 15,
-      "event_key": "dragon ball xenoverse 2 10th anniversary update",
-      "title_ru": "Dragon Ball Xenoverse 2 получит праздничное обновление в честь 10-летия",
-      "threads_teaser_ru": "Bandai Namco анонсировала двухчастное обновление к 10-летию Dragon Ball Xenoverse 2, которое принесет редкие предметы, костюмы и награды для будущей Dragon Ball Xenoverse 3.",
-      "telegram_message_id": "1744",
-      "telegram_url": "https://t.me/gamepulse_newss/1744",
-      "telegram_published_at": "2026-10-26T04:02:36.654559+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/dragon-ball-xenoverse-2-1792984932660.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-26T04:02:37.925712+00:00"
-    },
-    {
       "fingerprint": "a0d7c71f852a6f2f556c69f9",
       "title": "Eric Bauza, Voice Acting Legend Behind Bugs Bunny and Daffy Duck, Dead at 46",
       "url": "https://ign.com/articles/eric-bauza-voice-acting-legend-behind-bugs-bunny-and-daffy-duck-dead-at-46",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-helmet.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T20:17:23.119227+00:00"
+    },
+    {
+      "fingerprint": "bbfdbf9567f57b6aa3924c20",
+      "title": "'I’m So F**kin’ Bitter' — Doja Cat Begs Rockstar to Put Her Music on the GTA 6 Soundtrack",
+      "url": "https://ign.com/articles/im-so-fkin-bitter-doja-cat-begs-rockstar-to-put-her-music-on-the-gta-6-soundtrack",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T20:31:02+00:00",
+      "score": 13,
+      "event_key": "Doja Cat criticizes Rockstar over GTA 6 soundtrack exclusion",
+      "title_ru": "Doja Cat раскритиковала Rockstar за отсутствие своих песен в саундтреке GTA 6",
+      "threads_teaser_ru": "Doja Cat осталась крайне недовольна тем, что её песни не попали в саундтрек GTA 6. Певица, известная как активный геймер, эмоционально высказалась в соцсетях, однако поклонники подсказали ей, что Rockstar еще могут расширить плейлисты игры в будущем.",
+      "telegram_message_id": "2948",
+      "telegram_url": "https://t.me/gamepulse_newss/2948",
+      "telegram_published_at": "2026-11-19T21:03:18.358501+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/doja-cat-calls-out-rockstar-over-gta-6-snub-1795119810504.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T20:17:23.119314+00:00"
+  "updated_at": "2026-11-19T21:03:18.358603+00:00"
 }
