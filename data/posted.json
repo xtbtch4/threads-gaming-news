@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "91aa598b170ced988a3bc041",
-      "title": "Celebrate Helldivers 2 Liberty Day 2026 with in-game gifts today",
-      "url": "https://blog.playstation.com/2026/10/26/celebrate-helldivers-2-liberty-day-2026-with-in-game-gifts-today",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-26T10:00:05+00:00",
-      "score": 10,
-      "event_key": "helldivers-2-liberty-day-2026-celebration",
-      "title_ru": "Празднование Liberty Day в Helldivers 2",
-      "threads_teaser_ru": "Arrowhead Studios отмечает Liberty Day в Helldivers 2 подарками для игроков, включая ретро-оружие AR-23L Liberator Legacy, украшения для кораблей, новые товары в магазине Super Merch и тематические коллекционные фигурки.",
-      "telegram_message_id": "1747",
-      "telegram_url": "https://t.me/gamepulse_newss/1747",
-      "telegram_published_at": "2026-10-26T10:16:59.418248+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/eff4855b16a092b26b26caeee292ff736efc92b9.jpg",
-      "threads_published_at": "2026-10-26T10:17:00.909862+00:00"
-    },
-    {
       "fingerprint": "25576dc72460fb91d5dd72fb",
       "title": "D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day",
       "url": "https://polygon.com/sword-world-rpg-crowdfunding-backerkit-success",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/vintage-vice-city-pack-exclusive-looks-01-1795113789423.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T22:32:58.481734+00:00"
+    },
+    {
+      "fingerprint": "fb33889611d6e06ce1d281ec",
+      "title": "Get to know fearless bounty hunter Samus Aran with these games on Nintendo Switch",
+      "url": "https://nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-19T17:00:00+00:00",
+      "score": 12,
+      "event_key": "Nintendo highlights Metroid series and upcoming Metroid Ravenous release",
+      "title_ru": "Nintendo напомнила об истории Samus Aran перед выходом Metroid: Ravenous",
+      "threads_teaser_ru": "Перед релизом Metroid: Ravenous на Nintendo Switch 2, компания Nintendo предложила игрокам освежить в памяти 2D-приключения Samus Aran. Узнайте интересные факты о создании названия серии и эволюции героини, а также о том, как получить доступ к классике через Nintendo Switch Online.",
+      "telegram_message_id": "2951",
+      "telegram_url": "https://t.me/gamepulse_newss/2951",
+      "telegram_published_at": "2026-11-19T22:46:59.823470+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-19T22:32:58.481825+00:00"
+  "updated_at": "2026-11-19T22:46:59.823540+00:00"
 }
