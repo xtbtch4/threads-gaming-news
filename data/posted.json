@@ -20520,9 +20520,10 @@
       "telegram_message_id": "2929",
       "telegram_url": "https://t.me/gamepulse_newss/2929",
       "telegram_published_at": "2026-11-19T13:32:39.170798+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-19T13:32:40.761744+00:00"
     }
   ],
-  "updated_at": "2026-11-19T13:32:39.170887+00:00"
+  "updated_at": "2026-11-19T13:32:40.761837+00:00"
 }
