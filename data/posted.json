@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d43d948730603bb63505bcd8",
-      "title": "Tomb Raider's 2027's Return Looks Stunning in New Official Footage",
-      "url": "https://polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T20:58:54+00:00",
-      "score": 12,
-      "event_key": "tomb_raider_legacy_of_atlantis_new_trailer_2027",
-      "title_ru": "Новый трейлер Tomb Raider: Legacy of Atlantis",
-      "threads_teaser_ru": "Разработчики показали свежий трейлер ремейка Tomb Raider: Legacy of Atlantis, приуроченный к 30-летию серии. Ролик демонстрирует обновленные локации и классические моменты с современными геймплейными механиками.",
-      "telegram_message_id": "1739",
-      "telegram_url": "https://t.me/gamepulse_newss/1739",
-      "telegram_published_at": "2026-10-25T21:02:18.965467+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tomb-raider_-legacy-of-atlantis-30th-anniversary-teaser-video-_-tomb-raider-0-55-screenshot.jpeg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-25T21:02:20.247692+00:00"
-    },
-    {
       "fingerprint": "5ce362941d31813d31bc575d",
       "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
       "url": "https://ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
@@ -20521,7 +20504,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9992187/riverdale.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2024/06/20170127_riverdale-official-trailer-hd-netflix-1717513994.mp4",
       "threads_published_at": "2026-11-19T18:32:38.979615+00:00"
+    },
+    {
+      "fingerprint": "76da00cb5b06002f57b2ce83",
+      "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+      "url": "https://ign.com/articles/where-is-gta-6s-disney-world-parody-rockstar-north-co-studio-head-explains-no-show",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T16:42:07+00:00",
+      "score": 13,
+      "event_key": "rockstar_explains_no_disney_world_in_gta_6",
+      "title_ru": "Rockstar объяснила отсутствие пародий на Disney World в GTA 6",
+      "threads_teaser_ru": "Почему в GTA 6 решили отказаться от пародии на Disney World? Со-руководитель Rockstar North объяснил это нехваткой сюжетных обоснований для столь масштабной работы.",
+      "telegram_message_id": "2943",
+      "telegram_url": "https://t.me/gamepulse_newss/2943",
+      "telegram_published_at": "2026-11-19T18:47:15.676955+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtavi-16-1795106399624.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T18:32:38.979716+00:00"
+  "updated_at": "2026-11-19T18:47:15.677041+00:00"
 }
