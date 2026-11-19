@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "dfdcb44514375880bb024cb1",
-      "title": "GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years",
-      "url": "https://polygon.com/gta-san-andreas-retrospective",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T13:00:18+00:00",
-      "score": 14,
-      "event_key": "gta san andreas retrospective polygon review controls",
-      "title_ru": "Ретроспектива Grand Theft Auto: San Andreas спустя 22 года",
-      "threads_teaser_ru": "Спустя 22 года после релиза автор Polygon перепрошел Grand Theft Auto: San Andreas и поделился впечатлениями. Масштаб и сюжет игры всё ещё хороши, но устаревшее управление и миссии с погонями теперь вызывают лишь раздражение.",
-      "telegram_message_id": "1725",
-      "telegram_url": "https://t.me/gamepulse_newss/1725",
-      "telegram_published_at": "2026-10-25T13:02:16.744539+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gtasanandreas_sweet_firing.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
-      "threads_published_at": "2026-10-25T13:02:18.319601+00:00"
-    },
-    {
       "fingerprint": "0ebedf21ffc36c54657ea6b8",
       "title": "Steve Rogers Wields Mjolnir in the Latest Avengers: Doomsday Trailer",
       "url": "https://polygon.com/avengers-doomsday-mjolnir-trailer",
@@ -20524,7 +20506,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gettyimages-2304782431-1795091095449.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T13:03:11.064104+00:00"
+    },
+    {
+      "fingerprint": "1003922d35d1b94ba05c6d37",
+      "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
+      "url": "https://eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-19T13:03:30+00:00",
+      "score": 11,
+      "event_key": "gamestop-ceo-criticizes-discless-games-after-gta-6-launch",
+      "title_ru": "Глава GameStop критикует релизы игр без дисков на фоне выхода GTA 6",
+      "threads_teaser_ru": "Генеральный директор GameStop Райан Коэн резко высказался против перехода индустрии на цифровой формат и релизы игр без физических дисков на фоне запуска GTA 6.",
+      "telegram_message_id": "2929",
+      "telegram_url": "https://t.me/gamepulse_newss/2929",
+      "telegram_published_at": "2026-11-19T13:32:39.170798+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T13:03:11.064191+00:00"
+  "updated_at": "2026-11-19T13:32:39.170887+00:00"
 }
