@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7487f6dc07497f8c56e7bb76",
-      "title": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
-      "url": "https://eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T09:53:04+00:00",
-      "score": 11,
-      "event_key": "canadian politician suggests bioware employee buyback after closure",
-      "title_ru": "Канадский политик предложил поддержать бывших сотрудников BioWare для выкупа студии",
-      "threads_teaser_ru": "Лидер канадской партии предложил выделить федеральную помощь бывшим сотрудникам BioWare для выкупа студии после ее закрытия корпорацией EA. Ранее EA перешла к новым владельцам через крупную сделку.",
-      "telegram_message_id": "1746",
-      "telegram_url": "https://t.me/gamepulse_newss/1746",
-      "telegram_published_at": "2026-10-26T10:01:58.764659+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-husks.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T10:02:00.229017+00:00"
-    },
-    {
       "fingerprint": "91aa598b170ced988a3bc041",
       "title": "Celebrate Helldivers 2 Liberty Day 2026 with in-game gifts today",
       "url": "https://blog.playstation.com/2026/10/26/celebrate-helldivers-2-liberty-day-2026-with-in-game-gifts-today",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-jason-against-fence-with-cops.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T21:17:22.985097+00:00"
+    },
+    {
+      "fingerprint": "34b4f4708c3b19f092926668",
+      "title": "Jason Showers in His Underwear in the Japanese Version of GTA 6, but Censorship Is Nothing New for Rockstar Games",
+      "url": "https://ign.com/articles/jason-showers-in-his-underwear-in-the-japanese-version-of-gta-6-but-censorship-is-nothing-new-for-rockstar-games",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T18:43:45+00:00",
+      "score": 12,
+      "event_key": "GTA 6 censorship in Japan CERO rating",
+      "title_ru": "Японская версия GTA 6 подверглась цензуре",
+      "threads_teaser_ru": "В японской версии GTA 6 Rockstar Games пришлось ввести цензуру: персонажи теперь принимают душ в нижнем белье, а уровень кровавых сцен снижен. Подобные меры потребовались для получения рейтинга от местного агентства CERO.",
+      "telegram_message_id": "2950",
+      "telegram_url": "https://t.me/gamepulse_newss/2950",
+      "telegram_published_at": "2026-11-19T22:32:56.613399+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/vintage-vice-city-pack-exclusive-looks-01-1795113789423.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T21:17:22.985189+00:00"
+  "updated_at": "2026-11-19T22:32:56.613499+00:00"
 }
