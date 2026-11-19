@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6e1f7ff71ecd81c0e5225b28",
-      "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
-      "url": "https://polygon.com/steam-personal-calendar-wide-release",
-      "source": "Polygon",
-      "published_at_source": "2026-10-24T15:20:31+00:00",
-      "score": 12,
-      "event_key": "Steam launches Personal Calendar feature for game recommendations",
-      "title_ru": "В Steam появилась функция «Персональный календарь» для рекомендаций игр",
-      "threads_teaser_ru": "В Steam заработал «Персональный календарь» — новый инструмент для рекомендаций игр. Он ежедневно показывает недавно вышедшие и будущие проекты, основываясь на вкусах похожих игроков, а не на платных размещениях.",
-      "telegram_message_id": "1705",
-      "telegram_url": "https://t.me/gamepulse_newss/1705",
-      "telegram_published_at": "2026-10-24T15:32:51.533190+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-personal-calendar.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
-      "threads_published_at": "2026-10-24T15:32:52.952429+00:00"
-    },
-    {
       "fingerprint": "10382cb9e8c40256ce8ed076",
       "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
       "url": "https://polygon.com/5-hardest-platformers-ever-ranked",
@@ -20533,7 +20515,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/chronicles-medieval-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-19T01:33:00.048804+00:00"
+    },
+    {
+      "fingerprint": "0e074fdc6925da1f663a25fe",
+      "title": "In GTA 6, Doomscrolling Is a Necessity If You Want to See Everything",
+      "url": "https://ign.com/articles/in-gta-6-doomscrolling-is-a-necessity-if-you-want-to-see-everything",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T06:37:00+00:00",
+      "score": 7,
+      "event_key": "gta 6 social media doomscrolling mission discovery",
+      "title_ru": "В GTA 6 социальные сети стали инструментом для поиска новых заданий",
+      "threads_teaser_ru": "Игровая версия социальных сетей в GTA 6 оказалась напрямую связана с поиском секретов и новых заданий. Изучение постов и объявлений позволяет автоматически отмечать на карте неисследованные миссии.",
+      "telegram_message_id": "2909",
+      "telegram_url": "https://t.me/gamepulse_newss/2909",
+      "telegram_published_at": "2026-11-19T02:16:54.269568+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gta-6-social-media-1795012615418.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T01:33:00.048888+00:00"
+  "updated_at": "2026-11-19T02:16:54.269657+00:00"
 }
