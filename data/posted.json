@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f2d48eb456d1a9b5673af7cd",
-      "title": "12 Anime Worth Watching This Fall",
-      "url": "https://ign.com/articles/new-anime-to-watch-in-fall-2006",
-      "source": "IGN",
-      "published_at_source": "2026-10-24T12:00:00+00:00",
-      "score": 7,
-      "event_key": "fall 2026 anime season release schedule",
-      "title_ru": "Главные аниме-премьеры осени 2026 года",
-      "threads_teaser_ru": "Осенний аниме-сезон 2026 года богат на громкие возвращения и премьеры. В списке обязательных к просмотру — новые сезоны Cyberpunk Edgerunners, Black Clover, Aoashi и Tokyo Revengers, а также свежие тайтлы вроде Firefly Wedding и Fool Night.",
-      "telegram_message_id": "1701",
-      "telegram_url": "https://t.me/gamepulse_newss/1701",
-      "telegram_published_at": "2026-10-24T12:32:23.318543+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/newanimefall26-oo-1792630117402.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-24T12:32:24.615440+00:00"
-    },
-    {
       "fingerprint": "1767106d9a6ba4465633768b",
       "title": "Nintendo Is Still Being Wildly Underestimated",
       "url": "https://polygon.com/switchboard-nintendo-switch-sports-resort",
@@ -20535,7 +20518,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_06.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-19T00:32:19.965764+00:00"
+    },
+    {
+      "fingerprint": "61685560a9409f30d93ffb76",
+      "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
+      "url": "https://ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-18T23:00:30+00:00",
+      "score": 11,
+      "event_key": "army members reenlisted for gta 6 paid time off",
+      "title_ru": "43 военнослужащих продлили контракт ради отгулов для игры в Grand Theft Auto VI",
+      "threads_teaser_ru": "43 военнослужащих американской армии продлили контракт в обмен на четыре дня оплачиваемого отпуска для игры в Grand Theft Auto VI. Стали известны подробности необычной акции из Форт-Стюарта.",
+      "telegram_message_id": "2905",
+      "telegram_url": "https://t.me/gamepulse_newss/2905",
+      "telegram_published_at": "2026-11-19T00:46:53.624715+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-19T00:32:19.965837+00:00"
+  "updated_at": "2026-11-19T00:46:53.624804+00:00"
 }
