@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6facffc6e99e7c44576a4c76",
-      "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
-      "url": "https://polygon.com/calvin-hobbes-vocabulary",
-      "source": "Polygon",
-      "published_at_source": "2026-10-25T20:00:18+00:00",
-      "score": 6,
-      "event_key": "calvin and hobbes vocabulary and pop culture impact",
-      "title_ru": "Влияние языкового юмора Calvin and Hobbes на поп-культуру",
-      "threads_teaser_ru": "Материал посвящен культовой серии комиксов Calvin and Hobbes и тому, как уникальный словарный запас главного героя повлиял на целое поколение комедийных авторов.",
-      "telegram_message_id": "1738",
-      "telegram_url": "https://t.me/gamepulse_newss/1738",
-      "telegram_published_at": "2026-10-25T20:46:46.708405+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-revenge-of-the-babysat.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-25T20:46:47.912238+00:00"
-    },
-    {
       "fingerprint": "d43d948730603bb63505bcd8",
       "title": "Tomb Raider's 2027's Return Looks Stunning in New Official Footage",
       "url": "https://polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary",
@@ -20520,7 +20503,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtavi-37-1795107050305.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T18:17:07.637660+00:00"
+    },
+    {
+      "fingerprint": "dc4577d2e2686f2012b6aec2",
+      "title": "Disney Plus Reveals Official Cast for Zombie Apocalypse Reboot of Classic Comic",
+      "url": "https://polygon.com/disney-afterlife-with-archie-cast-revealed",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T18:18:48+00:00",
+      "score": 14,
+      "event_key": "disney-plus-afterlife-with-archie-cast-revealed",
+      "title_ru": "Объявлен актерский состав сериала Afterlife with Archie",
+      "threads_teaser_ru": "Disney Plus назвал актерский состав сериала Afterlife with Archie про зомби-апокалипсис в Riverdale. Главные роли исполнят Васко Фариа, Алия Мастин, Сара Эбботт и другие.",
+      "telegram_message_id": "2942",
+      "telegram_url": "https://t.me/gamepulse_newss/2942",
+      "telegram_published_at": "2026-11-19T18:32:37.362895+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9992187/riverdale.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2024/06/20170127_riverdale-official-trailer-hd-netflix-1717513994.mp4"
     }
   ],
-  "updated_at": "2026-11-19T18:17:07.637743+00:00"
+  "updated_at": "2026-11-19T18:32:37.362996+00:00"
 }
