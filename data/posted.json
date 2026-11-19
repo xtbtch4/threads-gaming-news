@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5ce362941d31813d31bc575d",
-      "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
-      "url": "https://ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
-      "source": "IGN",
-      "published_at_source": "2026-10-25T09:43:00+00:00",
-      "score": 5,
-      "event_key": "magic-the-gathering-top-commander-precons-ign",
-      "title_ru": "IGN назвал самые мощные готовые колоды для Commander в Magic: The Gathering",
-      "threads_teaser_ru": "IGN представил список из 12 самых мощных готовых колод для формата Commander в Magic: The Gathering. В подборку вошли знаменитые наборы с драконами, вампирами и кроссоверы по популярным вселенным.",
-      "telegram_message_id": "1740",
-      "telegram_url": "https://t.me/gamepulse_newss/1740",
-      "telegram_published_at": "2026-10-25T22:02:20.849629+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/02/19/commander-deck-header-1771511880580.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-25T22:02:22.060438+00:00"
-    },
-    {
       "fingerprint": "2c4bca2068c491699491ef1f",
       "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
       "url": "https://polygon.com/phantom-blade-zero-review",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtavi-16-1795106399624.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-19T18:47:17.258275+00:00"
+    },
+    {
+      "fingerprint": "b96191923d7f36d7142d82ee",
+      "title": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe",
+      "url": "https://rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-19T17:05:40+00:00",
+      "score": 12,
+      "event_key": "Keepsake County stealth game release Steam",
+      "title_ru": "Состоялся релиз стелс-игры Keepsake County",
+      "threads_teaser_ru": "Пока внимание многих приковано к другим крупным релизам, в Steam вышла Keepsake County. Это «среднезападная стелс-игра» с процедурной генерацией уровней, где нужно грабить дома и продумывать пути отхода. Главная особенность — системный подход к планированию ограблений.",
+      "telegram_message_id": "2944",
+      "telegram_url": "https://t.me/gamepulse_newss/2944",
+      "telegram_published_at": "2026-11-19T19:03:35.313875+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/keepsake-county.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-19T18:47:17.258349+00:00"
+  "updated_at": "2026-11-19T19:03:35.313968+00:00"
 }
