@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7ccd1e6cb02e070758944250",
-      "title": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\"",
-      "url": "https://eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T17:48:33+00:00",
-      "score": 15,
-      "event_key": "sucker punch lays off twenty six developers",
-      "title_ru": "Sucker Punch сократила 26 разработчиков",
-      "threads_teaser_ru": "Студия Sucker Punch провела сокращения штата, затронувшие 26 сотрудников. Руководство объяснило это сложной ситуацией в индустрии и потребностями нового неанонсированного проекта.",
-      "telegram_message_id": "1773",
-      "telegram_url": "https://t.me/gamepulse_newss/1773",
-      "telegram_published_at": "2026-10-26T18:03:06.872731+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T18:03:08.696722+00:00"
-    },
-    {
       "fingerprint": "52ef2e8e3e4f8bf85db333ab",
       "title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
       "url": "https://eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_grotti_cheetah_04.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-20T11:47:05.605904+00:00"
+    },
+    {
+      "fingerprint": "7cad25aa8ad3778360bc38ef",
+      "title": "GTA 6's Full Credits Spark Returning Character Rumor — Are They Really in the Game?",
+      "url": "https://ign.com/articles/gta-6s-full-credits-spark-returning-character-rumor-are-they-really-in-the-game",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T11:27:05+00:00",
+      "score": 11,
+      "event_key": "gta-6-credits-reveal-returning-character-niko-bellic",
+      "title_ru": "Титры GTA 6 подтвердили возвращение персонажа из прошлых частей",
+      "threads_teaser_ru": "Полные титры GTA 6 раскрыли появление культового персонажа из прошлых частей серии. Актер Michael Hollick, озвучивший протагониста GTA 4, указан в списке как исполнитель роли загадочного наемника.",
+      "telegram_message_id": "2977",
+      "telegram_url": "https://t.me/gamepulse_newss/2977",
+      "telegram_published_at": "2026-11-20T12:02:30.353749+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-grotti-cheetah-04-1795173995841.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T11:47:05.605992+00:00"
+  "updated_at": "2026-11-20T12:02:30.353847+00:00"
 }
