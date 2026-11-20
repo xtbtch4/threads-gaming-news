@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "aa75e5718bd9408056660d6b",
-      "title": "After a year of testing, one of Steam's best features is finally out of beta, making it easier to find games you might actually like",
-      "url": "https://eurogamer.net/steam-personal-calendar-full-release",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T14:06:37+00:00",
-      "score": 10,
-      "event_key": "steam_personal_calendar_leaves_beta",
-      "title_ru": "Steam завершил тестирование функции Personal Calendar",
-      "threads_teaser_ru": "Компания Valve выпустила из беты функцию Personal Calendar для Steam. Она подбирает предстоящие игры и недавние релизы под ваши интересы и сортирует их по дате выхода.",
-      "telegram_message_id": "1762",
-      "telegram_url": "https://t.me/gamepulse_newss/1762",
-      "telegram_published_at": "2026-10-26T14:17:28.288267+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/steam-personal-calendar-final-release-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T14:17:29.815016+00:00"
-    },
-    {
       "fingerprint": "f38ffa08d564631c7a7d163c",
       "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
       "url": "https://gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/ps5pro-1795119533259.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T04:46:55.312440+00:00"
+    },
+    {
+      "fingerprint": "f84d61661bfbdda337766c41",
+      "title": "I Spent GTA 6’s Launch Playing A $5 Game That Also Came Out Today, And I Have No Regrets",
+      "url": "https://gamespot.com/articles/i-spent-gta-6s-launch-playing-a-5-game-that-also-came-out-today-and-i-have-no-regrets",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-19T20:23:00+00:00",
+      "score": 8,
+      "event_key": "Devolver Digital releases Volvy's Adventure: Reslimed same day as GTA 6",
+      "title_ru": "Издатель Devolver Digital выпустил игру Volvy’s Adventure: Reslimed в день релиза Grand Theft Auto 6",
+      "threads_teaser_ru": "Пока все обсуждали Grand Theft Auto 6, Devolver Digital выпустили свой новый платформер Volvy’s Adventure: Reslimed. Это игра от авторов Gunbrella, которая выделяется необычной механикой перемещения и стоит всего 5 долларов.",
+      "telegram_message_id": "2966",
+      "telegram_url": "https://t.me/gamepulse_newss/2966",
+      "telegram_published_at": "2026-11-20T05:03:02.213315+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/screenshot7-Large.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T04:46:55.312496+00:00"
+  "updated_at": "2026-11-20T05:03:02.213415+00:00"
 }
