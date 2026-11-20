@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ad43663171ad69124d46b844",
-      "title": "CoD: Modern Warfare 4 Players Discover A Secret Gun Printer In Multiplayer",
-      "url": "https://gamespot.com/articles/cod-modern-warfare-4-players-discover-a-secret-gun-printer-in-multiplayer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-26T17:29:44+00:00",
-      "score": 11,
-      "event_key": "cod modern warfare 4 cachette secret gun printer discovery",
-      "title_ru": "Игроки нашли секретный 3D-принтер на карте в Call of Duty: Modern Warfare 4",
-      "threads_teaser_ru": "На многопользовательской карте Cachette в Call of Duty: Modern Warfare 4 нашли секретный 3D-принтер. Устройство выдает случайные, полностью укомплектованные сборки оружия прямо во время матча. Рассказываем, где именно его искать и какое снаряжение можно получить.",
-      "telegram_message_id": "1789",
-      "telegram_url": "https://t.me/gamepulse_newss/1789",
-      "telegram_published_at": "2026-10-27T04:03:02.835926+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4-REVEAL-014-1.jpg?w=300",
-      "threads_published_at": "2026-10-27T04:03:04.156805+00:00"
-    },
-    {
       "fingerprint": "87416dfcc3e03cfee6be55e6",
       "title": "Major 'Avatar: Seven Havens’ Korra Reveal May Be Hiding the Truth About the Cataclysm",
       "url": "https://polygon.com/avatar-seven-havens-big-korra-reveal-feels-like-a-total-fakeout",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Pokemon-Fender.jpg?w=300",
       "threads_published_at": "2026-11-20T15:47:04.378744+00:00"
+    },
+    {
+      "fingerprint": "74233f0e978385e9b5c5b7db",
+      "title": "You Can Find the 'Bikini Girl' From the GTA 6 Trailer In-Game, With a Nod to All the Fan Theories",
+      "url": "https://ign.com/articles/gta-6-bikini-girl-trailer-easter-egg",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T14:44:52+00:00",
+      "score": 13,
+      "event_key": "GTA 6 Bikini Girl Easter egg found",
+      "title_ru": "В GTA 6 обнаружили «Bikini Girl» из дебютного трейлера",
+      "threads_teaser_ru": "В GTA 6 нашли ту самую «Bikini Girl» из трейлера 2023 года, вокруг которой фанаты строили теории. Оказалось, что персонаж существует в игре отдельно от протагонистки Lucia, и Rockstar даже добавили ироничный диалог на эту тему.",
+      "telegram_message_id": "2993",
+      "telegram_url": "https://t.me/gamepulse_newss/2993",
+      "telegram_published_at": "2026-11-20T16:03:09.903611+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/12/07/gta6-trailer-4k-00-00-38-29-still001-1701962524689.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T15:47:04.378829+00:00"
+  "updated_at": "2026-11-20T16:03:09.903711+00:00"
 }
