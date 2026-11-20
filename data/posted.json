@@ -20516,9 +20516,10 @@
       "telegram_message_id": "2956",
       "telegram_url": "https://t.me/gamepulse_newss/2956",
       "telegram_published_at": "2026-11-20T00:02:52.429261+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-jason-hoodie-1795130436791.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-jason-hoodie-1795130436791.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-20T00:02:54.285397+00:00"
     }
   ],
-  "updated_at": "2026-11-20T00:02:52.429329+00:00"
+  "updated_at": "2026-11-20T00:02:54.285506+00:00"
 }
