@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4d7f505799a8da9c27744df3",
-      "title": "As beloved Dishonored studio faces closure, Xbox agrees union request to extend negotiations deadline in hope of saving 217 jobs",
-      "url": "https://eurogamer.net/arkane-lyon-consultation-period-extended-december",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T14:47:30+00:00",
-      "score": 13,
-      "event_key": "xbox_extended_arkane_lyon_consultation_period",
-      "title_ru": "Xbox продлила консультационный период для Arkane Lyon",
-      "threads_teaser_ru": "Microsoft продлила срок консультаций для Arkane Lyon до декабря в поисках нового владельца для студии. Под угрозой увольнения находятся 217 человек, а судьба проекта Marvel's Blade остается неопределенной.",
-      "telegram_message_id": "1766",
-      "telegram_url": "https://t.me/gamepulse_newss/1766",
-      "telegram_published_at": "2026-10-26T16:17:16.730908+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/marvels-blade-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T16:17:18.583913+00:00"
-    },
-    {
       "fingerprint": "5e319c8ecb9dd6d07bbc98ef",
       "title": "Pokémon Pokopia DLC 2 Leaks Reveal New Pokémon and More",
       "url": "https://polygon.com/pokemon-pokopia-dlc-2-new-lineup-leaked",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-waink-landmarks-guide-.jpg?w=300",
       "threads_published_at": "2026-11-20T09:47:11.793361+00:00"
+    },
+    {
+      "fingerprint": "52a73e9d70c2effeb5cb5939",
+      "title": "All WAiNK Sculptures In GTA 6",
+      "url": "https://gamespot.com/articles/all-waink-sculptures-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T08:59:54+00:00",
+      "score": 10,
+      "event_key": "all waink sculptures locations in gta 6",
+      "title_ru": "Где найти все WAiNK Sculptures в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 игроки могут находить и сканировать уникальные WAiNK Sculptures с помощью приложения на телефоне. Узнайте, где именно спрятаны эти объекты в регионе Mariana County.",
+      "telegram_message_id": "2970",
+      "telegram_url": "https://t.me/gamepulse_newss/2970",
+      "telegram_published_at": "2026-11-20T10:02:33.670712+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-waink-sculptures-guide-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T09:47:11.793440+00:00"
+  "updated_at": "2026-11-20T10:02:33.670813+00:00"
 }
