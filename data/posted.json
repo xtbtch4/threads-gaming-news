@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "48852fe95cd0fcdbe998d4cb",
-      "title": "Compete for prizes in the Splatoon 3 Golden Egg Feast 2026 tournament! - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/competitive-play-compete-for-prizes-in-the-splatoon-3-golden-egg-feast-2026-tournament",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-26T16:00:00+00:00",
-      "score": 13,
-      "event_key": "Splatoon 3 Golden Egg Feast 2026 tournament announcement",
-      "title_ru": "Nintendo анонсировала турнир Splatoon 3 Golden Egg Feast 2026",
-      "threads_teaser_ru": "Nintendo анонсировала турнир по Salmon Run в Splatoon 3 — Golden Egg Feast 2026. Соревнование пройдет 7 ноября, регистрация уже открыта через приложение SplatNet 3. Победителей ждут призы, включая тематические геймерские кресла и рюкзаки.",
-      "telegram_message_id": "1770",
-      "telegram_url": "https://t.me/gamepulse_newss/1770",
-      "telegram_published_at": "2026-10-26T17:17:56.091596+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-26T17:17:57.585146+00:00"
-    },
-    {
       "fingerprint": "7e5b25bd4a7e2b9d1a301095",
       "title": "The Walking Trade: How I Built a Shop Simulator Without Ever Playing One",
       "url": "https://news.xbox.com/en-us/2026/10/26/the-walking-trade-how-i-built-a-shop-simulator",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T11:02:15.133657+00:00"
+    },
+    {
+      "fingerprint": "c53c3d8f9cd2646afb937661",
+      "title": "GTA 6 Players Find Red Dead Redemption Lore That Strongly Suggests Both Series Are Set in the Same Universe",
+      "url": "https://ign.com/articles/gta-6-red-dead-redemption-2-same-timeline",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T10:53:55+00:00",
+      "score": 13,
+      "event_key": "gta-6-red-dead-redemption-same-universe-lore-found",
+      "title_ru": "Игроки нашли в GTA 6 новые отсылки к Red Dead Redemption",
+      "threads_teaser_ru": "Игроки обнаружили в GTA 6 новые подтверждения того, что игра и серия Red Dead Redemption происходят в одной вселенной. Внутриигровая книга содержит детальные отсылки к событиям и персонажам вестерна.",
+      "telegram_message_id": "2974",
+      "telegram_url": "https://t.me/gamepulse_newss/2974",
+      "telegram_published_at": "2026-11-20T11:16:43.199308+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/rdr2-1795172002852.jpeg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T11:02:15.133762+00:00"
+  "updated_at": "2026-11-20T11:16:43.199404+00:00"
 }
