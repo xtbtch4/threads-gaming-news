@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4e64715e457207762559513e",
-      "title": "Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin",
-      "url": "https://ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T23:57:06+00:00",
-      "score": 8,
-      "event_key": "dead by daylight chucky store removal behaviour interactive",
-      "title_ru": "Разработчики Dead by Daylight прокомментировали удаление Chucky из магазинов",
-      "threads_teaser_ru": "Студия Behaviour Interactive объяснила причины удаления Chucky из магазинов Dead by Daylight и рассказала о возможном возвращении лицензионных персонажей в будущем.",
-      "telegram_message_id": "1798",
-      "telegram_url": "https://t.me/gamepulse_newss/1798",
-      "telegram_published_at": "2026-10-27T08:46:44.457978+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/chucky-dead-by-daylight-1793058562712.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T08:46:45.814429+00:00"
-    },
-    {
       "fingerprint": "7d9b572c3e69dbaabd4a83e0",
       "title": "You Can Play Buckshot Roulette in Real Life at this Tokyo Cafe — and Even Drink an Arctic Eggs Cocktail",
       "url": "https://ign.com/articles/you-can-play-buckshot-roulette-in-real-life-at-this-tokyo-cafe-and-even-drink-an-arctic-eggs-cocktail",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-jasons-stash-1795194400431.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T18:16:47.611991+00:00"
+    },
+    {
+      "fingerprint": "b6a8457012121b33daff6cb7",
+      "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
+      "url": "https://eurogamer.net/gta-6-credits-florida-joker-rockstar",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T18:23:50+00:00",
+      "score": 13,
+      "event_key": "florida_joker_in_gta_6_credits",
+      "title_ru": "Lawrence Sullivan из сети попал в титры GTA 6",
+      "threads_teaser_ru": "Скандальный интернет-персонаж Lawrence Sullivan, известный как «Florida Joker», официально появился в титрах GTA 6 после прошлых требований миллионов от разработчиков.",
+      "telegram_message_id": "3002",
+      "telegram_url": "https://t.me/gamepulse_newss/3002",
+      "telegram_published_at": "2026-11-20T18:32:47.772402+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-trailer-florida-joker.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-20T18:16:47.612078+00:00"
+  "updated_at": "2026-11-20T18:32:47.772481+00:00"
 }
