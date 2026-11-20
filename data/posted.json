@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b957f2ad7ea88315cfc9cc6f",
-      "title": "Hunger Games Director Hopes You Aren't Too Distracted With GTA 6 to See Sunrise on the Reaping",
-      "url": "https://ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T21:53:31+00:00",
-      "score": 13,
-      "event_key": "francis_lawrence_gta_6_sunrise_on_the_reaping",
-      "title_ru": "Режиссер Sunrise on the Reaping пошутил о релизе GTA 6",
-      "threads_teaser_ru": "Режиссер Sunrise on the Reaping Фрэнсис Лоуренс рассказал о своих любимых играх и пошутил о том, что релиз фильма совпадает по времени с выходом GTA 6.",
-      "telegram_message_id": "1781",
-      "telegram_url": "https://t.me/gamepulse_newss/1781",
-      "telegram_published_at": "2026-10-26T22:16:54.547977+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-26T22:16:56.166083+00:00"
-    },
-    {
       "fingerprint": "ae7d2a8d047e0283f1822089",
       "title": "GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
       "url": "https://ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gtaiv-hero-character-1920x1080-copy-1795175174241.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T13:46:50.419002+00:00"
+    },
+    {
+      "fingerprint": "2792b5cc6c34d66892f3f4ce",
+      "title": "GTA 6 Learned All the Right Lessons From Zelda: Breath of the Wild",
+      "url": "https://polygon.com/gta-6leonida-keys-breath-of-the-wild",
+      "source": "Polygon",
+      "published_at_source": "2026-11-20T14:00:17+00:00",
+      "score": 12,
+      "event_key": "gta 6 open world introduction leonida keys breath of the wild",
+      "title_ru": "GTA 6 заимствует удачный подход к открытому миру из The Legend of Zelda: Breath of the Wild",
+      "threads_teaser_ru": "Стало известно, как Grand Theft Auto 6 использует подход к открытому миру из The Legend of Zelda: Breath of the Wild, начиная приключение не в Vice City, а на изолированных островах Leonida Keys.",
+      "telegram_message_id": "2985",
+      "telegram_url": "https://t.me/gamepulse_newss/2985",
+      "telegram_published_at": "2026-11-20T14:02:45.896357+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/leonida_keys_01.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-20T13:46:50.419091+00:00"
+  "updated_at": "2026-11-20T14:02:45.896446+00:00"
 }
