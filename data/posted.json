@@ -20513,9 +20513,10 @@
       "telegram_message_id": "2984",
       "telegram_url": "https://t.me/gamepulse_newss/2984",
       "telegram_published_at": "2026-11-20T13:46:48.757352+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gtaiv-hero-character-1920x1080-copy-1795175174241.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gtaiv-hero-character-1920x1080-copy-1795175174241.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-20T13:46:50.419002+00:00"
     }
   ],
-  "updated_at": "2026-11-20T13:46:48.757433+00:00"
+  "updated_at": "2026-11-20T13:46:50.419091+00:00"
 }
