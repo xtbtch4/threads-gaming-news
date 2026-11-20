@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1f9385852c3776b5ff766248",
-      "title": "Amazon's Lord of the Rings Gandalf Costume Has Dropped to Its Lowest Price of the Year",
-      "url": "https://ign.com/articles/lord-of-the-rings-gandalf-costume-price-drop-halloween-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-27T00:01:00+00:00",
-      "score": 8,
-      "event_key": "amazon lord of the rings gandalf costume price drop",
-      "title_ru": "Официальный костюм Gandalf подешевел на Amazon",
-      "threads_teaser_ru": "На Amazon упала цена на официальный костюм Gandalf the Gray из фильма The Hobbit. Комплект сейчас продается за 36,33 доллара. Важный нюанс: в наборе нет бороды и парика, их придется докупать отдельно, чтобы образ был завершенным.",
-      "telegram_message_id": "1797",
-      "telegram_url": "https://t.me/gamepulse_newss/1797",
-      "telegram_published_at": "2026-10-27T08:32:23.381145+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/lord-of-the-rings-costume-1793056624990.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T08:32:24.615646+00:00"
-    },
-    {
       "fingerprint": "4e64715e457207762559513e",
       "title": "Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin",
       "url": "https://ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/shadowheart-book-bg3-announced-ign-1795194442338.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T18:02:45.117017+00:00"
+    },
+    {
+      "fingerprint": "264da8990c38418921902881",
+      "title": "GTA 6 Players Agree That Jason's Stash Needs a Major Tweak",
+      "url": "https://ign.com/articles/gta-6-players-agree-that-jasons-stash-needs-a-major-tweak",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T17:15:44+00:00",
+      "score": 13,
+      "event_key": "gta 6 players want rockstar games to fix jasons stash ui",
+      "title_ru": "Игроки GTA 6 просят Rockstar Games исправить интерфейс тайника Джейсона",
+      "threads_teaser_ru": "Игроки GTA 6 жалуются на неудобный интерфейс тайника Джейсона, где сложно выбрать точную сумму денег из-за резкого скачка счетчика. Сообщество просит Rockstar Games исправить проблему.",
+      "telegram_message_id": "3001",
+      "telegram_url": "https://t.me/gamepulse_newss/3001",
+      "telegram_published_at": "2026-11-20T18:16:46.109018+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-jasons-stash-1795194400431.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T18:02:45.117108+00:00"
+  "updated_at": "2026-11-20T18:16:46.109112+00:00"
 }
