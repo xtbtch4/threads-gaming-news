@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "40767b5c2825cd9c215f77b2",
-      "title": "Dune: Part 3 Final Trailer Reveals Key Change From the Books",
-      "url": "https://polygon.com/dune-part-3-final-trailer-book-changes",
-      "source": "Polygon",
-      "published_at_source": "2026-10-27T17:35:38+00:00",
-      "score": 12,
-      "event_key": "dune part 3 final trailer book changes",
-      "title_ru": "Финальный трейлер Dune: Part 3 показал ключевые отличия от книги",
-      "threads_teaser_ru": "Новый трейлер Dune: Part 3 раскрыл важные отличия сюжета от книги Dune Messiah. В фильме временной скачок увеличили до 19 лет, а роль Chani сделали гораздо более активной — она оказалась замешана в покушении на Пола Атрейдеса.",
-      "telegram_message_id": "1819",
-      "telegram_url": "https://t.me/gamepulse_newss/1819",
-      "telegram_published_at": "2026-10-27T17:47:07.903762+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/chani-dune-part-3.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-27T17:47:09.862169+00:00"
-    },
-    {
       "fingerprint": "a67607010eecc124eb8cd485",
       "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
       "url": "https://ign.com/articles/devil-woman-singer-cliff-richard-didnt-know-gta-6",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/thermaltakelgcs-1795198657605.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T23:32:33.765321+00:00"
+    },
+    {
+      "fingerprint": "1da85bf83ce7bb9d12542aa6",
+      "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+      "url": "https://gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T23:33:14+00:00",
+      "score": 12,
+      "event_key": "former nintendo president reggie fils aime reacts to mandy in gta 6",
+      "title_ru": "Бывший глава Nintendo of America отреагировал на персонажа из GTA 6",
+      "threads_teaser_ru": "Бывший глава Nintendo of America Реджи Фис-Эме проявил интерес к персонажу по имени Mandy из Grand Theft Auto 6, оставив любопытный комментарий в соцсетях после сравнения игры с Animal Crossing.",
+      "telegram_message_id": "3023",
+      "telegram_url": "https://t.me/gamepulse_newss/3023",
+      "telegram_published_at": "2026-11-20T23:46:48.449491+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Mandy-screenshot.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T23:32:33.765407+00:00"
+  "updated_at": "2026-11-20T23:46:48.449622+00:00"
 }
