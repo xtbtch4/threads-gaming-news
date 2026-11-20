@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9e5a7256b252ad8ae310b123",
-      "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
-      "url": "https://gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-26T19:14:12+00:00",
-      "score": 15,
-      "event_key": "diablo-4-season-16-war-plans-update",
-      "title_ru": "Система War Plans в Diablo 4 получит масштабные улучшения в Season 16",
-      "threads_teaser_ru": "В Season 16 для Diablo 4 система War Plans получит крупное обновление с новой мета-прогрессией War Plans Tactics, измененной системой рероллов и сезонным древом Tyrael's Boons.",
-      "telegram_message_id": "1777",
-      "telegram_url": "https://t.me/gamepulse_newss/1777",
-      "telegram_published_at": "2026-10-26T19:47:08.788843+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300",
-      "threads_published_at": "2026-10-26T19:47:10.424530+00:00"
-    },
-    {
       "fingerprint": "2a553b50f49830b307fea4cf",
       "title": "Emberville Delays Early Access Launch at the Last Minute",
       "url": "https://ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-tips-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-20T12:47:11.253594+00:00"
+    },
+    {
+      "fingerprint": "5498d331c56e6d88ac58ebc6",
+      "title": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
+      "url": "https://rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-20T13:00:00+00:00",
+      "score": 14,
+      "event_key": "akira_kurabayashi_passed_away_arika",
+      "title_ru": "Ушел из жизни разработчик Street Fighter EX и Tetris 99 Акира Курабаяси",
+      "threads_teaser_ru": "Ушел из жизни Акира Курабаяси — директор Arika и ветеран индустрии, работавший над сериями Street Fighter EX, Fighting EX Layer, а также над Tetris 99 и PAC-MAN 99.",
+      "telegram_message_id": "2981",
+      "telegram_url": "https://t.me/gamepulse_newss/2981",
+      "telegram_published_at": "2026-11-20T13:02:11.678840+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Kurabayashi.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-20T12:47:11.253692+00:00"
+  "updated_at": "2026-11-20T13:02:11.678923+00:00"
 }
