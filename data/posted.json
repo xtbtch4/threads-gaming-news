@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "36a3e06845237357759805fa",
-      "title": "Nintendo Announces Indie World Showcase For October 28",
-      "url": "https://gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-27T13:54:50+00:00",
-      "score": 12,
-      "event_key": "Nintendo announces Indie World Showcase for October 28",
-      "title_ru": "Nintendo анонсировала Indie World Showcase на 28 октября",
-      "threads_teaser_ru": "Nintendo проведет презентацию Indie World Showcase уже 28 октября. Трансляция продлится около 15 минут и сфокусируется на инди-проектах для Nintendo Switch и Nintendo Switch 2. Ожидаются свежие анонсы и обновления игр от сторонних партнеров.",
-      "telegram_message_id": "1812",
-      "telegram_url": "https://t.me/gamepulse_newss/1812",
-      "telegram_published_at": "2026-10-27T14:17:32.953363+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4660714-indie-world.jpg?w=300",
-      "threads_published_at": "2026-10-27T14:17:34.687068+00:00"
-    },
-    {
       "fingerprint": "4cfcdaae2682726681e62d67",
       "title": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only",
       "url": "https://ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/sexyyred-cameo-gta6-1795205750675.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T21:46:41.991776+00:00"
+    },
+    {
+      "fingerprint": "067742e1727cc749d8420b05",
+      "title": "Who is Johannes Zuch supposed to be in GTA 6?",
+      "url": "https://polygon.com/gta-6-tenebrae-lux-jonathan-blow",
+      "source": "Polygon",
+      "published_at_source": "2026-11-20T22:00:17+00:00",
+      "score": 12,
+      "event_key": "gta 6 includes tenebrae lux parody of jonathan blow",
+      "title_ru": "GTA 6 содержит пародию на артхаусные игры и разработчика Jonathan Blow",
+      "threads_teaser_ru": "В Grand Theft Auto 6 нашли полноценную играбельную пародию на артхаусные игры и разработчика Jonathan Blow под названием Tenebrae Lux.",
+      "telegram_message_id": "3016",
+      "telegram_url": "https://t.me/gamepulse_newss/3016",
+      "telegram_published_at": "2026-11-20T22:02:13.515074+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-tenebrae-lux-puzzle.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-20T21:46:41.991888+00:00"
+  "updated_at": "2026-11-20T22:02:13.515160+00:00"
 }
