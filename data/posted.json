@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "cb7d942d07e24c156df5ea20",
-      "title": "Steam's AI disclosures are akin to \"forcing developers to list their voting history\", says man who must hate seeing eggs virtue signal that they're free-range",
-      "url": "https://rockpapershotgun.com/steams-ai-disclosures-are-akin-to-forcing-developers-to-list-their-voting-history-says-man-who-must-hate-seeing-eggs-virtue-signal-that-theyre-free-range",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-26T17:03:44+00:00",
-      "score": 13,
-      "event_key": "Tim Sweeney criticizes Steam mandatory AI content disclosures",
-      "title_ru": "Tim Sweeney раскритиковал требования Steam раскрывать использование ИИ в играх",
-      "threads_teaser_ru": "Tim Sweeney назвал требования Steam по раскрытию информации об использовании генеративного ИИ «политическими эссе» и сравнил их с принуждением к раскрытию личных политических предпочтений разработчиков.",
-      "telegram_message_id": "1787",
-      "telegram_url": "https://t.me/gamepulse_newss/1787",
-      "telegram_published_at": "2026-10-27T02:47:55.437193+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/tim-sweeney-steam-ai-disclosures-political-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T02:47:56.945460+00:00"
-    },
-    {
       "fingerprint": "b966c350e9b9bafbbf013716",
       "title": "10 Years Later, Nintendo's Switch Reveal Is a Fascinating Time Capsule",
       "url": "https://polygon.com/nintendo-switch-nx-reveal-october-2016",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/battlegroundcleaningsimulator-trailer-blogroll-1794961431746.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T15:16:59.337199+00:00"
+    },
+    {
+      "fingerprint": "4c256d27e7972601696ccf94",
+      "title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
+      "url": "https://eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T15:19:30+00:00",
+      "score": 13,
+      "event_key": "gta-6-contains-easter-egg-referencing-gta-5-character",
+      "title_ru": "В GTA 6 нашли отсылку к персонажу из GTA 5",
+      "threads_teaser_ru": "В GTA 6 обнаружили неожиданную отсылку к персонажу из GTA 5. Внутриигровой журнал раскрывает судьбу старого знакомого спустя примерно 13 лет после событий прошлой части.",
+      "telegram_message_id": "2991",
+      "telegram_url": "https://t.me/gamepulse_newss/2991",
+      "telegram_published_at": "2026-11-20T15:32:28.657169+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-easter-egg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-20T15:16:59.337286+00:00"
+  "updated_at": "2026-11-20T15:32:28.657291+00:00"
 }
