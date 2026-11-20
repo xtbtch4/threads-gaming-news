@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7e5b25bd4a7e2b9d1a301095",
-      "title": "The Walking Trade: How I Built a Shop Simulator Without Ever Playing One",
-      "url": "https://news.xbox.com/en-us/2026/10/26/the-walking-trade-how-i-built-a-shop-simulator",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-26T17:30:00+00:00",
-      "score": 12,
-      "event_key": "The Walking Trade release on Xbox Series X|S",
-      "title_ru": "Симулятор магазина в зомби-апокалипсисе The Walking Trade вышел на Xbox",
-      "threads_teaser_ru": "Симулятор управления магазином The Walking Trade добрался до Xbox Series X|S. В игре нужно не только торговать и устанавливать цены, но и защищать лавку от зомби-апокалипсиса с помощью оружия и ловушек, нанимая выживших для помощи.",
-      "telegram_message_id": "1771",
-      "telegram_url": "https://t.me/gamepulse_newss/1771",
-      "telegram_published_at": "2026-10-26T17:32:53.863920+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/TWT_HeroWithLogo-b3e9c079bf158766b6ca.jpg",
-      "threads_published_at": "2026-10-26T17:32:55.504582+00:00"
-    },
-    {
       "fingerprint": "00561a8fd2259dd7e46a9890",
       "title": "With Xbox cuts not done, Microsoft offer voluntary buyouts to around 60,000 workers across the company in latest attempt to get rid of staff",
       "url": "https://rockpapershotgun.com/with-xbox-cuts-not-done-microsoft-offer-voluntary-buyouts-to-around-60000-workers-across-the-company-in-latest-attempt-to-get-rid-of-staff",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/rdr2-1795172002852.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T11:16:44.497176+00:00"
+    },
+    {
+      "fingerprint": "0207344f6808c0039b92c4b8",
+      "title": "Sold-out Legend of Zelda 40th Anniversary Switch 2 Is Coming Back Very Soon",
+      "url": "https://polygon.com/zelda-40-anniversary-switch-2-coming-back-january-stock-nintendo",
+      "source": "Polygon",
+      "published_at_source": "2026-11-20T10:51:53+00:00",
+      "score": 10,
+      "event_key": "zelda 40th anniversary switch 2 restock january 2027",
+      "title_ru": "The Legend of Zelda 40th Anniversary Switch 2 вернется в продажу в январе",
+      "threads_teaser_ru": "Лимитированный комплект The Legend of Zelda 40th Anniversary Switch 2, раскупленный за считанные секунды после старта предзаказов, снова появится в продаже в январе 2027 года. В Nintendo признали, что недооценили огромный спрос со стороны фанатов.",
+      "telegram_message_id": "2975",
+      "telegram_url": "https://t.me/gamepulse_newss/2975",
+      "telegram_published_at": "2026-11-20T11:32:25.925044+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-59-36-screenshot.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-20T11:16:44.497301+00:00"
+  "updated_at": "2026-11-20T11:32:25.925130+00:00"
 }
