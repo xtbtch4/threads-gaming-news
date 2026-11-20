@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8fd1c35998e86032808d43b5",
-      "title": "Paramount Canceled a Paranormal Activity Game Right Before Release. Now It's the Next P.T.",
-      "url": "https://polygon.com/paranormal-activity-canceled-playable-archive-interview",
-      "source": "Polygon",
-      "published_at_source": "2026-10-26T15:00:20+00:00",
-      "score": 14,
-      "event_key": "canceled Paranormal Activity game released as Playable Archive",
-      "title_ru": "Разработчик The Mortuary Assistant выпустил отмененную игру по лицензии Paranormal Activity",
-      "threads_teaser_ru": "Разработчик The Mortuary Assistant бесплатно выпустил Playable Archive — это бывшая игра по вселенной Paranormal Activity, которую отменили из-за отказа Paramount предоставить отсрочку на доработку. Узнайте историю создания и что именно попало в релиз.",
-      "telegram_message_id": "1764",
-      "telegram_url": "https://t.me/gamepulse_newss/1764",
-      "telegram_published_at": "2026-10-26T15:48:04.447404+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/playable-archive-shot5.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pa_trailer_1080-ezgif-com-video-to-mp4-converter-1792977462.mp4",
-      "threads_published_at": "2026-10-26T15:48:06.295987+00:00"
-    },
-    {
       "fingerprint": "b1b2dca391f84c6ffc1c9bcf",
       "title": "Scramble Knights Online: Changing Genres to Save a Game",
       "url": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change",
@@ -20519,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/1a1f4b417c47-screenshotUrl-e1795118820422.jpg?w=300",
       "threads_published_at": "2026-11-20T05:32:25.981558+00:00"
+    },
+    {
+      "fingerprint": "27889c458198bde97164c134",
+      "title": "All WAiNK Curiosities In GTA 6",
+      "url": "https://gamespot.com/articles/all-waink-curiosities-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T09:05:44+00:00",
+      "score": 10,
+      "event_key": "guide to finding all WAiNK Curiosities in Grand Theft Auto 6",
+      "title_ru": "Гайд по поиску WAiNK Curiosities в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 игроки могут собирать необычные объекты — WAiNK Curiosities. Они разбросаны по всему штату Leonida: от странных туш существ до заброшенных мест для вечеринок. Рассказываем, где искать эти загадочные находки и что они из себя представляют.",
+      "telegram_message_id": "2968",
+      "telegram_url": "https://t.me/gamepulse_newss/2968",
+      "telegram_published_at": "2026-11-20T09:17:11.253616+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-waink-curiosities-guide-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T05:32:25.981662+00:00"
+  "updated_at": "2026-11-20T09:17:11.253769+00:00"
 }
