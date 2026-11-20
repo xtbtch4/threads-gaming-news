@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f38ffa08d564631c7a7d163c",
-      "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
-      "url": "https://gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-26T14:23:35+00:00",
-      "score": 15,
-      "event_key": "arkane-lyon-search-buyer-marvels-blade-microsoft",
-      "title_ru": "Arkane Lyon получила дополнительное время на поиски нового владельца для завершения Marvel's Blade",
-      "threads_teaser_ru": "Microsoft продлила период консультаций для поиска нового владельца Arkane Lyon еще на месяц. Студия продолжает работу над Marvel's Blade, а эксперты отмечают высокую стоимость закрытия французского подразделения.",
-      "telegram_message_id": "1763",
-      "telegram_url": "https://t.me/gamepulse_newss/1763",
-      "telegram_published_at": "2026-10-26T14:47:23.459715+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Marvel-Blade.jpg?w=300",
-      "threads_published_at": "2026-10-26T14:47:24.770180+00:00"
-    },
-    {
       "fingerprint": "8fd1c35998e86032808d43b5",
       "title": "Paramount Canceled a Paranormal Activity Game Right Before Release. Now It's the Next P.T.",
       "url": "https://polygon.com/paranormal-activity-canceled-playable-archive-interview",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/screenshot7-Large.jpeg?w=300",
       "threads_published_at": "2026-11-20T05:03:03.622747+00:00"
+    },
+    {
+      "fingerprint": "b55b00d6c0850141a0f7bff8",
+      "title": "All GTA 6 Base Jump Locations",
+      "url": "https://gamespot.com/articles/all-gta-6-base-jump-locations",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-19T20:08:32+00:00",
+      "score": 8,
+      "event_key": "Grand Theft Auto 6 base jump challenges introduced",
+      "title_ru": "В Grand Theft Auto 6 появились испытания по бейсджампингу",
+      "threads_teaser_ru": "В Grand Theft Auto 6 вернулись испытания по бейсджампингу. В игре доступно 25 точек для прыжков, расположенных как в Vice City, так и за его пределами. Разбираемся, как правильно пользоваться парашютом, преодолевать воздушные чекпоинты и корректно совершать посадку.",
+      "telegram_message_id": "2967",
+      "telegram_url": "https://t.me/gamepulse_newss/2967",
+      "telegram_published_at": "2026-11-20T05:32:24.653013+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/1a1f4b417c47-screenshotUrl-e1795118820422.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T05:03:03.622832+00:00"
+  "updated_at": "2026-11-20T05:32:24.653104+00:00"
 }
