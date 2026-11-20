@@ -20515,9 +20515,10 @@
       "telegram_message_id": "2970",
       "telegram_url": "https://t.me/gamepulse_newss/2970",
       "telegram_published_at": "2026-11-20T10:02:33.670712+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-waink-sculptures-guide-.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-waink-sculptures-guide-.jpg?w=300",
+      "threads_published_at": "2026-11-20T10:02:35.158767+00:00"
     }
   ],
-  "updated_at": "2026-11-20T10:02:33.670813+00:00"
+  "updated_at": "2026-11-20T10:02:35.158846+00:00"
 }
