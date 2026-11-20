@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b966c350e9b9bafbbf013716",
-      "title": "10 Years Later, Nintendo's Switch Reveal Is a Fascinating Time Capsule",
-      "url": "https://polygon.com/nintendo-switch-nx-reveal-october-2016",
-      "source": "Polygon",
-      "published_at_source": "2026-10-27T01:00:17+00:00",
-      "score": 12,
-      "event_key": "10 year anniversary of Nintendo Switch initial reveal",
-      "title_ru": "Десять лет с момента анонса Nintendo Switch: ретроспектива",
-      "threads_teaser_ru": "С момента анонса Nintendo Switch прошло 10 лет. В 2016 году мало кто верил в успех гибридной консоли после провала Wii U. Вспоминаем, как Nintendo продавала нам идею портативного устройства с «взрослыми» играми вроде Skyrim, и что из этого вышло.",
-      "telegram_message_id": "1788",
-      "telegram_url": "https://t.me/gamepulse_newss/1788",
-      "telegram_published_at": "2026-10-27T03:32:37.841742+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7312765/NintendoSwitch_hardware.0.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-27T03:32:39.282169+00:00"
-    },
-    {
       "fingerprint": "ad43663171ad69124d46b844",
       "title": "CoD: Modern Warfare 4 Players Discover A Secret Gun Printer In Multiplayer",
       "url": "https://gamespot.com/articles/cod-modern-warfare-4-players-discover-a-secret-gun-printer-in-multiplayer",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-easter-egg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-20T15:32:30.500156+00:00"
+    },
+    {
+      "fingerprint": "58b58bcb4529b64f8499b151",
+      "title": "These Pokemon Anniversary Fender Guitars Have A Secret Weapon: Game Boy Sounds",
+      "url": "https://gamespot.com/articles/these-pokemon-anniversary-fender-guitars-have-a-secret-weapon-game-boy-sounds",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T15:27:47+00:00",
+      "score": 13,
+      "event_key": "pokemon fender guitars 30th anniversary",
+      "title_ru": "Fender анонсировала гитары в стиле Pokémon с 8-битным звуком",
+      "threads_teaser_ru": "The Pokemon Company и Fender представили электрогитары Stratocaster и Telecaster в стиле Pokemon Red и Pokemon Green. Главная фишка инструментов — переключатель, превращающий звук в 8-битное ретро-аудио в стиле Game Boy.",
+      "telegram_message_id": "2992",
+      "telegram_url": "https://t.me/gamepulse_newss/2992",
+      "telegram_published_at": "2026-11-20T15:47:02.855598+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Pokemon-Fender.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T15:32:30.500286+00:00"
+  "updated_at": "2026-11-20T15:47:02.855688+00:00"
 }
