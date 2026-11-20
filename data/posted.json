@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "70afa30682d5fbae3be9f5c0",
-      "title": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition",
-      "url": "https://rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-27T15:38:47+00:00",
-      "score": 14,
-      "event_key": "dark_messiah_community_edition_announced_with_coop_2026",
-      "title_ru": "Анонсирована Dark Messiah of Might and Magic: Community Edition с кооперативом и поддержкой 64-бит",
-      "threads_teaser_ru": "Фанатский проект Dark Messiah of Might and Magic: Community Edition перенесет игру 2006 года на новый движок Source и добавит кооператив, режим New Game+, поддержку 64-бит и инструменты для создания модов.",
-      "telegram_message_id": "1815",
-      "telegram_url": "https://t.me/gamepulse_newss/1815",
-      "telegram_published_at": "2026-10-27T15:46:42.831080+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Of-Might-and-Magic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T15:46:44.368804+00:00"
-    },
-    {
       "fingerprint": "bb590efb1be855d9a05ddd6e",
       "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
       "url": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/when-did-he-know-he-was-gandalf.png?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-20T22:32:32.533076+00:00"
+    },
+    {
+      "fingerprint": "6204ab698849e8888cde95d1",
+      "title": "This Had My Jaw On The Floor | GTA 6",
+      "url": "https://gamespot.com/videos/this-had-my-jaw-on-the-floor-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T22:30:00+00:00",
+      "score": 9,
+      "event_key": "gta 6 plane crash leonida grassrivers jason",
+      "title_ru": "Новые кадры GTA 6 демонстрируют крушение самолета",
+      "threads_teaser_ru": "В новом видео по GTA 6 показали крушение самолета в Leonida Grassrivers. Jason спешит на место падения, но выясняется, что он там не один.",
+      "telegram_message_id": "3019",
+      "telegram_url": "https://t.me/gamepulse_newss/3019",
+      "telegram_published_at": "2026-11-20T22:46:50.824277+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Featured_GTA6LeonidaStories_ThePlane_20201119V2.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T22:32:32.533164+00:00"
+  "updated_at": "2026-11-20T22:46:50.824366+00:00"
 }
