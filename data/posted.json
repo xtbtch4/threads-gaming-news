@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1985a08f4e60090423f39157",
-      "title": "Pokémon Unite closing down for good, but you'll still be able to use it afterwards, sort of",
-      "url": "https://eurogamer.net/pokemon-unite-closing-date",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-27T10:56:34+00:00",
-      "score": 13,
-      "event_key": "Pokémon Unite service closure date",
-      "title_ru": "Серверы Pokémon Unite отключат в марте 2027 года",
-      "threads_teaser_ru": "Серверы Pokémon Unite будут отключены 23 марта 2027 года. Разработчики добавят функцию Library, которая позволит просматривать достижения и коллекцию предметов после закрытия игры, но данные будут храниться локально и их нельзя будет перенести на другие устройства.",
-      "telegram_message_id": "1807",
-      "telegram_url": "https://t.me/gamepulse_newss/1807",
-      "telegram_published_at": "2026-10-27T11:32:32.393066+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/pokemon-unite-tier-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T11:32:33.859713+00:00"
-    },
-    {
       "fingerprint": "5426b1f5ebc635d85c5d4691",
       "title": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
       "url": "https://rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-missions-1794996224895.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T20:32:40.849840+00:00"
+    },
+    {
+      "fingerprint": "66f8f6f967838fbcc9cf5a23",
+      "title": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
+      "url": "https://eurogamer.net/persona-6-games-come-quicker-atlus",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T19:23:00+00:00",
+      "score": 9,
+      "event_key": "Atlus promises faster release schedule for future Persona games",
+      "title_ru": "Atlus обещает выпускать будущие части серии Persona быстрее",
+      "threads_teaser_ru": "Студия Atlus заявила, что будущие игры в серии Persona будут выходить быстрее. Генеральный продюсер Кадзухиса Вада отметил, что компания работает над сокращением времени ожидания между номерными частями, несмотря на сложность разработки крупных RPG.",
+      "telegram_message_id": "3011",
+      "telegram_url": "https://t.me/gamepulse_newss/3011",
+      "telegram_published_at": "2026-11-20T20:47:29.398673+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Persona-5-Royal---Take-Over-Trailer---Nintendo-Switch-0-45-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-20T20:32:40.849924+00:00"
+  "updated_at": "2026-11-20T20:47:29.398771+00:00"
 }
