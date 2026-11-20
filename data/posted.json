@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0a761391431ecf869ef867b2",
-      "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
-      "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-26T16:00:09+00:00",
-      "score": 12,
-      "event_key": "marvel cosmic invasion the siege of castle doom dlc details",
-      "title_ru": "Детали игрового процесса DLC The Siege of Castle Doom для Marvel Cosmic Invasion",
-      "threads_teaser_ru": "PlayStation Blog поделился подробностями второго DLC под названием The Siege of Castle Doom для Marvel Cosmic Invasion, которое выйдет 10 ноября и добавит новых персонажей и режим.",
-      "telegram_message_id": "1768",
-      "telegram_url": "https://t.me/gamepulse_newss/1768",
-      "telegram_published_at": "2026-10-26T16:47:15.727122+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2046/10/37cdc359029369148c8c4b23876f980ae2de984a.jpg",
-      "video_url": "https://stream.mux.com/EPgpuvLRXOLnoRbCNpzlyJhzIdTcKxZm3mB02lRUSxQo/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJFUGdwdXZMUlhPTG5vUmJDTnB6bHlKaHpJZFRjS3habTNtQjAybFJVU3hRbyIsImF1ZCI6InYiLCJleHAiOjE3OTMwNzYyMjYsImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.OWsFdaKaDM2hGkv93NPQWDMh3lOkywXo-VVvQhdv3QsugneTL7n4Qkw3cUqRXF7J_HmBXcaCMM59C1mdOAYykiTM095S1lGId6cmoDIUAYFF45NNEDDNuJrRQbkdvo11OfeH-1Osv5f182sn1KrPMUN2lKMxnvLxIqYylrgHz8wWshsU4hUhJi6Waa075BMDSJyMdmGP4Qk-GpNDBTp9e45ye0fuBu6jAJnxHlv9ePNwCkr1FA-PSWgOEiHltnEYsUKXdgxJp5qm-Xsou7hxSH4yTLqljuAakM24Od1XsEcb4KfdpJ8qR80YA9MSeiOGX82dpgot-Uq09Cejjr4_7g",
-      "threads_published_at": "2026-10-26T16:47:17.332487+00:00"
-    },
-    {
       "fingerprint": "ddfd460f44a079bac202c6f1",
       "title": "Microsoft Flight Simulator Releases World Update 23: Poland and the Baltics",
       "url": "https://news.xbox.com/en-us/2026/10/26/microsoft-flight-simulator-releases-world-update-23-poland-and-the-baltics",
@@ -20518,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Steam-Machine-review-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-20T10:17:04.067946+00:00"
+    },
+    {
+      "fingerprint": "19c80a1f24139572c25e821f",
+      "title": "You Can Now Buy the Steam Machine Without a Reservation – But Supplies Are Limited",
+      "url": "https://ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T22:34:28+00:00",
+      "score": 13,
+      "event_key": "valve steam machine available to purchase without reservation",
+      "title_ru": "Valve открыла свободную продажу Steam Machine на 512GB",
+      "threads_teaser_ru": "Valve сделала версию Steam Machine на 512GB доступной для покупки без предварительной записи. Однако с моделью на 2TB всё иначе: из-за дефицита памяти производство сильно ограничено, а дальнейшие цены и доступность устройств пока остаются под вопросом.",
+      "telegram_message_id": "2972",
+      "telegram_url": "https://t.me/gamepulse_newss/2972",
+      "telegram_published_at": "2026-11-20T10:47:16.803848+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/19/steammachine-blogroll-01-1781840311265.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T10:17:04.068040+00:00"
+  "updated_at": "2026-11-20T10:47:16.803932+00:00"
 }
