@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5ad0dc07c91d891861885a08",
-      "title": "Red Rising Director Francis Lawrence Says YA Series' Movie Adaptation Is a 'Priority' at Paramount Following Shelved Netflix Show",
-      "url": "https://ign.com/articles/red-rising-director-francis-lawrence-says-ya-series-movie-adaptation-is-a-priority-at-paramount-following-shelved-netflix-show",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T21:45:31+00:00",
-      "score": 10,
-      "event_key": "Red Rising movie adaptation moves to Paramount development",
-      "title_ru": "Экранизация Red Rising стала приоритетным проектом для Paramount",
-      "threads_teaser_ru": "Экранизация Red Rising сменила студию: после долгих лет разработки на Netflix права на проект вернулись автору книг Пирсу Брауну, и теперь фильм стал приоритетом для Paramount. Режиссер Фрэнсис Лоуренс уже подтвердил, что работа над сценарием идет полным ходом.",
-      "telegram_message_id": "1791",
-      "telegram_url": "https://t.me/gamepulse_newss/1791",
-      "telegram_published_at": "2026-10-27T05:47:13.126458+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/francis-lawrence-red-rising-interview-1793048349634.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T05:47:14.870163+00:00"
-    },
-    {
       "fingerprint": "1bf49f39016a246a0af4ece9",
       "title": "The Turtle Beach PlayTrek Nintendo Switch 2 Hard Shell Slim Case Seems Like a Steal for Just $15",
       "url": "https://ign.com/articles/turtle-beach-playtrek-nintendo-switch-2-case-deal-october-2026",
@@ -20516,7 +20499,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sink-my-bricks-key-art.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-20T16:17:09.977116+00:00"
+    },
+    {
+      "fingerprint": "441261675f487faa83411ed3",
+      "title": "Undertale Creator Officially Teases the End of Deltarune",
+      "url": "https://polygon.com/deltarune-chapter-6-7-finale-update-toby-fox",
+      "source": "Polygon",
+      "published_at_source": "2026-11-20T16:27:25+00:00",
+      "score": 12,
+      "event_key": "toby fox teases deltarune chapters 6 and 7 finale",
+      "title_ru": "Toby Fox поделился новостями о финале Deltarune",
+      "threads_teaser_ru": "Toby Fox рассказал о финальной стадии разработки Deltarune. Шестая глава уже структурно завершена и может выйти в 2027 году, а команда приступила к созданию седьмой главы.",
+      "telegram_message_id": "2995",
+      "telegram_url": "https://t.me/gamepulse_newss/2995",
+      "telegram_published_at": "2026-11-20T16:33:08.306116+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/deltarune-ch-5-key-art.webp?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-20T16:17:09.977208+00:00"
+  "updated_at": "2026-11-20T16:33:08.306216+00:00"
 }
