@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e10de4d4cd01e898f201a3d1",
-      "title": "XBOX Game Pass Is Coming to Eligible T-Mobile Customers",
-      "url": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-26T13:00:00+00:00",
-      "score": 16,
-      "event_key": "xbox game pass coming to t mobile customers",
-      "title_ru": "Xbox Game Pass появится у абонентов T-Mobile в США",
-      "threads_teaser_ru": "Абоненты T-Mobile в США смогут выбрать подписку Xbox Game Pass в рамках нового тарифного плана T-Mix уже в ноябре.",
-      "telegram_message_id": "1757",
-      "telegram_url": "https://t.me/gamepulse_newss/1757",
-      "telegram_published_at": "2026-10-26T13:02:54.959047+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX_TMO_16x9-R2D-4f063534a7b256d7123f.jpg",
-      "threads_published_at": "2026-10-26T13:02:56.669902+00:00"
-    },
-    {
       "fingerprint": "9af4b619d0d1e17439e4edc4",
       "title": "Xbox Veteran Who Just Got Promoted Under Asha Sharma Promptly Leaves Amid Mysterious Circumstances",
       "url": "https://gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/aaron-pierre-1795134812683.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T01:17:12.167819+00:00"
+    },
+    {
+      "fingerprint": "d1f45a1d239df1c5ddc36816",
+      "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
+      "url": "https://polygon.com/gta-6-texting-and-driving",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T21:00:18+00:00",
+      "score": 9,
+      "event_key": "GTA 6 smartphone driving mechanic explained",
+      "title_ru": "В GTA 6 реализована опасная механика использования смартфона за рулем",
+      "threads_teaser_ru": "В GTA 6 использование смартфона во время вождения стало одной из самых опасных механик. Попытка ответить на сообщение или проверить ленту Snapmatic прямо за рулем почти гарантированно приводит к авариям из-за ограничения обзора и потери управления.",
+      "telegram_message_id": "2961",
+      "telegram_url": "https://t.me/gamepulse_newss/2961",
+      "telegram_published_at": "2026-11-20T01:32:39.114574+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-driving.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-20T01:17:12.167911+00:00"
+  "updated_at": "2026-11-20T01:32:39.114656+00:00"
 }
