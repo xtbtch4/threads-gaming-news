@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5e319c8ecb9dd6d07bbc98ef",
-      "title": "Pokémon Pokopia DLC 2 Leaks Reveal New Pokémon and More",
-      "url": "https://polygon.com/pokemon-pokopia-dlc-2-new-lineup-leaked",
-      "source": "Polygon",
-      "published_at_source": "2026-10-26T16:00:10+00:00",
-      "score": 12,
-      "event_key": "pokemon pokopia dlc 2 leak datamine",
-      "title_ru": "Утечка раскрыла подробности второго DLC для Pokémon Pokopia",
-      "threads_teaser_ru": "Новые утечки по Pokémon Pokopia раскрыли возможное появление 25 новых существ, тематических событий и уникального персонажа в грядущем DLC для Nintendo Switch 2.",
-      "telegram_message_id": "1767",
-      "telegram_url": "https://t.me/gamepulse_newss/1767",
-      "telegram_published_at": "2026-10-26T16:32:45.447929+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/pok-mon-pokopia-halloween-habitat.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-26T16:32:47.075378+00:00"
-    },
-    {
       "fingerprint": "0a761391431ecf869ef867b2",
       "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
       "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-waink-sculptures-guide-.jpg?w=300",
       "threads_published_at": "2026-11-20T10:02:35.158767+00:00"
+    },
+    {
+      "fingerprint": "ebfd9e0f403b53df44939375",
+      "title": "Valve are pausing Steam Machine 2TB orders over \"supply constraints,\" though the 512GB model is free of its waitlist",
+      "url": "https://rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-20T10:05:00+00:00",
+      "score": 14,
+      "event_key": "valve pauses steam machine 2tb orders due to shortages",
+      "title_ru": "Valve приостановила прием заказов на 2TB версию Steam Machine",
+      "threads_teaser_ru": "Valve приостановила прием заказов на 2TB версию Steam Machine из-за дефицита комплектующих, но при этом открыла свободную продажу модели на 512GB. Компания также не исключает повышения цен на устройства в будущем.",
+      "telegram_message_id": "2971",
+      "telegram_url": "https://t.me/gamepulse_newss/2971",
+      "telegram_published_at": "2026-11-20T10:17:02.703870+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Steam-Machine-review-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-20T10:02:35.158846+00:00"
+  "updated_at": "2026-11-20T10:17:02.703968+00:00"
 }
