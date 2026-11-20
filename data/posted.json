@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ddfd460f44a079bac202c6f1",
-      "title": "Microsoft Flight Simulator Releases World Update 23: Poland and the Baltics",
-      "url": "https://news.xbox.com/en-us/2026/10/26/microsoft-flight-simulator-releases-world-update-23-poland-and-the-baltics",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-26T17:00:00+00:00",
-      "score": 14,
-      "event_key": "microsoft flight simulator world update 23 poland and the baltics",
-      "title_ru": "Релиз World Update 23: Poland and the Baltics для Microsoft Flight Simulator",
-      "threads_teaser_ru": "Для Microsoft Flight Simulator вышло обновление World Update 23: Poland and the Baltics, которое добавляет детально проработанные регионы Польши и стран Балтии.",
-      "telegram_message_id": "1769",
-      "telegram_url": "https://t.me/gamepulse_newss/1769",
-      "telegram_published_at": "2026-10-26T17:02:36.473577+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/WU23_HeroImage-JPG-4a83ea91a2b2808b81a4-scaled.jpg",
-      "threads_published_at": "2026-10-26T17:02:37.902779+00:00"
-    },
-    {
       "fingerprint": "48852fe95cd0fcdbe998d4cb",
       "title": "Compete for prizes in the Splatoon 3 Golden Egg Feast 2026 tournament! - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/competitive-play-compete-for-prizes-in-the-splatoon-3-golden-egg-feast-2026-tournament",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/06/19/steammachine-blogroll-01-1781840311265.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T10:47:18.103063+00:00"
+    },
+    {
+      "fingerprint": "cb62d786e3484740a54b2ba1",
+      "title": "Cyberleek Returns for GTA 6 Launch to Reportedly Release a Near-Complete Xbox Build, Threatens to Release the Game's Executable in Days",
+      "url": "https://ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T10:11:04+00:00",
+      "score": 15,
+      "event_key": "cyberleek-releases-xbox-build-gta-6",
+      "title_ru": "Cyberleek вернулся с утечкой сборки GTA 6 для Xbox",
+      "threads_teaser_ru": "Cyberleek вернулся к релизу GTA 6 и опубликовал почти полную сборку игры для Xbox без исполняемого файла, пригрозив выпустить его через несколько дней на фоне новой криптовалютной кампании.",
+      "telegram_message_id": "2973",
+      "telegram_url": "https://t.me/gamepulse_newss/2973",
+      "telegram_published_at": "2026-11-20T11:02:13.741736+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T10:47:18.103159+00:00"
+  "updated_at": "2026-11-20T11:02:13.741834+00:00"
 }
