@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f1d5f1fc4e70c4ae1112d4e1",
-      "title": "BioShock Movie Director Francis Lawrence Explains Why It's Taken Hollywood So Long to Adapt the Game",
-      "url": "https://ign.com/articles/bioshock-movie-director-francis-lawrence-explains-why-its-taken-hollywood-so-long-to-adapt-the-game",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T20:16:00+00:00",
-      "score": 7,
-      "event_key": "Francis Lawrence discusses BioShock movie adaptation development challenges",
-      "title_ru": "Режиссер экранизации BioShock объяснил сложность адаптации игры",
-      "threads_teaser_ru": "Экранизация BioShock от Netflix наконец-то приближается к производству. Режиссер Фрэнсис Лоуренс объяснил, почему проект «застрял» на десятилетие: главная сложность заключается в специфике игрового процесса, где игрок сам является центральным персонажем.",
-      "telegram_message_id": "1801",
-      "telegram_url": "https://t.me/gamepulse_newss/1801",
-      "telegram_published_at": "2026-10-27T09:32:33.221114+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/05/15/bioshock-thumb-1747268034865.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T09:32:34.796782+00:00"
-    },
-    {
       "fingerprint": "1864d5fd447db0c9efeec636",
       "title": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards",
       "url": "https://eurogamer.net/mass-effect-fans-save-rpg-times-square",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031144152_-Large.jpeg?w=300",
       "threads_published_at": "2026-11-20T19:02:33.003540+00:00"
+    },
+    {
+      "fingerprint": "0203f7281ae74513908d0791",
+      "title": "Hot Toys’ Lord Doom Figure Reveals Robert Downey Jr.’s Alternate MCU Look",
+      "url": "https://ign.com/articles/hot-toys-lord-doom-figure-reveals-robert-downey-jrs-alternate-mcu-look",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T18:45:32+00:00",
+      "score": 11,
+      "event_key": "hot-toys-lord-doom-figure-avengers-doomsday",
+      "title_ru": "Hot Toys показала фигурку Lord Doom в альтернативном образе из Avengers: Doomsday",
+      "threads_teaser_ru": "Компания Hot Toys представила коллекционную фигурку Lord Doom по мотивам нереализованного концепт-арт костюма персонажа Роберта Дауни-младшего из фильма Avengers: Doomsday.",
+      "telegram_message_id": "3005",
+      "telegram_url": "https://t.me/gamepulse_newss/3005",
+      "telegram_published_at": "2026-11-20T19:17:11.514760+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/mixcollage-20-nov-2026-01-03-pm-9349-1795197835670.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T19:02:33.003620+00:00"
+  "updated_at": "2026-11-20T19:17:11.514870+00:00"
 }
