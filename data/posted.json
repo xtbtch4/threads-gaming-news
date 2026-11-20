@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1864d5fd447db0c9efeec636",
-      "title": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards",
-      "url": "https://eurogamer.net/mass-effect-fans-save-rpg-times-square",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T20:07:29+00:00",
-      "score": 7,
-      "event_key": "fans campaign to save Mass Effect series after BioWare closure",
-      "title_ru": "Фанаты Mass Effect запустили кампанию по спасению серии",
-      "threads_teaser_ru": "Фанаты Mass Effect развернули борьбу за спасение серии после закрытия BioWare. На Таймс-сквер появился билборд с хэштегом #SaveMassEffect, а петиция в поддержку франшизы набрала уже более 226 тысяч подписей. В планах — новые акции в преддверии The Game Awards.",
-      "telegram_message_id": "1802",
-      "telegram_url": "https://t.me/gamepulse_newss/1802",
-      "telegram_published_at": "2026-10-27T09:47:03.070721+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Untitled-2_81p0NEm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T09:47:04.322194+00:00"
-    },
-    {
       "fingerprint": "90a64195d011831a3e4181ca",
       "title": "7 Reasons FF7 Is the Ultimate Video Game Fairy Tale",
       "url": "https://polygon.com/ff7-final-fantasy-7-fairy-tale",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/mixcollage-20-nov-2026-01-03-pm-9349-1795197835670.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T19:17:13.009405+00:00"
+    },
+    {
+      "fingerprint": "fde5eae1ecc7b2a7a387f6b9",
+      "title": "GTA 6 Display Settings Explained — Our Recommendations for Motion Blur, Brightness Reduction, and More",
+      "url": "https://ign.com/articles/gta-6-display-settings-explained-our-recommendations-for-motion-blur-brightness-reduction-and-more",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T16:56:06+00:00",
+      "score": 11,
+      "event_key": "gta-6-display-settings-guide-ign",
+      "title_ru": "Настройки дисплея в GTA 6: рекомендации по графике",
+      "threads_teaser_ru": "IGN поделилось разбором настроек дисплея в GTA 6 на PS5 и Xbox. Как настроить яркость, размытие в движении, уровень крови и контрастные шейдеры для Vice City.",
+      "telegram_message_id": "3006",
+      "telegram_url": "https://t.me/gamepulse_newss/3006",
+      "telegram_published_at": "2026-11-20T19:32:26.191888+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-saras-salon-03-1795193756470.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T19:17:13.009499+00:00"
+  "updated_at": "2026-11-20T19:32:26.191984+00:00"
 }
