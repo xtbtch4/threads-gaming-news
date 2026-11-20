@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a35b84dc370aecf1aeb43d84",
-      "title": "Phantom Blade Zero release time in your time zone",
-      "url": "https://polygon.com/phantom-blade-zero-release-time-when-edt-pdt",
-      "source": "Polygon",
-      "published_at_source": "2026-10-27T02:01:21+00:00",
-      "score": 9,
-      "event_key": "phantom-blade-zero-release-time-and-pre-order-bonuses",
-      "title_ru": "Точное время релиза Phantom Blade Zero и бонусы за предзаказ",
-      "threads_teaser_ru": "Стало известно точное время релиза экшена Phantom Blade Zero на PlayStation 5 и Windows PC, а также детали о бонусах за предзаказ и составе расширенного издания игры.",
-      "telegram_message_id": "1795",
-      "telegram_url": "https://t.me/gamepulse_newss/1795",
-      "telegram_published_at": "2026-10-27T07:17:03.419856+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_servicepost_head.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-27T07:17:04.889785+00:00"
-    },
-    {
       "fingerprint": "d35dc1e7d2c4cfb590b53019",
       "title": "9 Spooky 'Far Side' Comics That Are Perfect to Read Before Halloween",
       "url": "https://polygon.com/best-far-side-halloween-classic-monsters",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_08.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-20T17:32:13.820948+00:00"
+    },
+    {
+      "fingerprint": "92e8ac1b19540f3a3810fd87",
+      "title": "GTA 6 Doesn't Officially Have First-Person, but You Can Force It to — Here's How to Do It",
+      "url": "https://ign.com/articles/gta-6-doesnt-officially-have-first-person-but-you-can-force-it-to-heres-how-to-do-it",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T16:38:18+00:00",
+      "score": 12,
+      "event_key": "players find method to force first person in gta 6",
+      "title_ru": "Игроки нашли способ принудительно включить вид от первого лица в GTA 6",
+      "threads_teaser_ru": "Хотя в GTA 6 нет официального режима от первого лица, игроки нашли способ принудительно его включить на PS5 и Xbox Series X/S. Метод работает до перезагрузки сохранения, но имеет баги.",
+      "telegram_message_id": "2999",
+      "telegram_url": "https://t.me/gamepulse_newss/2999",
+      "telegram_published_at": "2026-11-20T17:47:20.614326+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/screenshot-2026-11-20-163743-1795192684888.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T17:32:13.821034+00:00"
+  "updated_at": "2026-11-20T17:47:20.614425+00:00"
 }
