@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3ad429f03b7ef7e673e923c6",
-      "title": "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
-      "url": "https://ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
-      "source": "IGN",
-      "published_at_source": "2026-10-26T20:43:26+00:00",
-      "score": 15,
-      "event_key": "assassins creed black flag resynced final major content update",
-      "title_ru": "Для Assassin's Creed Black Flag Resynced выходит последнее крупное обновление",
-      "threads_teaser_ru": "Ubisoft анонсировала финальное крупное обновление для Assassin's Creed Black Flag Resynced, которое привносит в игру долгожданный режим New Game+ и повышенную сложность Nightmare.",
-      "telegram_message_id": "1779",
-      "telegram_url": "https://t.me/gamepulse_newss/1779",
-      "telegram_published_at": "2026-10-26T21:02:36.992159+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/26/assassins-creed-black-flag-resynced-final-update-1793047206541.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-26T21:02:38.507808+00:00"
-    },
-    {
       "fingerprint": "23d6d840201959548f3c88d3",
       "title": "Canned Paranormal Activity Game Back From The Dead as Playable Archive, Free on Steam",
       "url": "https://ign.com/articles/canned-paranormal-activity-game-back-from-the-dead-as-playable-archive-free-on-steam",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-12.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-20T13:17:05.711693+00:00"
+    },
+    {
+      "fingerprint": "f03f83e46f32fcbffd3b329e",
+      "title": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
+      "url": "https://eurogamer.net/tenebrae-lux-gta-6-now-playing",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T13:21:00+00:00",
+      "score": 10,
+      "event_key": "playing tenea brae lux inside grand theft auto 6",
+      "title_ru": "Прохождение игры-внутри-игры Tenebrae Lux в Grand Theft Auto 6",
+      "threads_teaser_ru": "Внутри Grand Theft Auto 6 можно полностью пройти инди-головоломку Tenebrae Lux от вымышленного разработчика Johannes Zuch. Проект пародирует арт-хиты вроде The Witness.",
+      "telegram_message_id": "2983",
+      "telegram_url": "https://t.me/gamepulse_newss/2983",
+      "telegram_published_at": "2026-11-20T13:32:20.553022+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Tenebrae-lux-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-20T13:17:05.711780+00:00"
+  "updated_at": "2026-11-20T13:32:20.553117+00:00"
 }
