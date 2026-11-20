@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b4dd120904067cee6f75b65b",
-      "title": "The GameMaker engine series behind Undertale, Hotline Miami and Spelunky is going free for commercial use on PC",
-      "url": "https://rockpapershotgun.com/the-gamemaker-engine-series-behind-undertale-hotline-miami-and-spelunky-is-going-free-for-commercial-use-on-pc",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-26T18:15:00+00:00",
-      "score": 8,
-      "event_key": "GameMaker engine becomes free for commercial use on PC",
-      "title_ru": "GameMaker станет бесплатным для коммерческих релизов на PC",
-      "threads_teaser_ru": "С 1 января 2027 года GameMaker станет бесплатным для коммерческой публикации игр на PC, веб-платформах и мобильных устройствах. Для консольных релизов по-прежнему потребуется лицензия Enterprise.",
-      "telegram_message_id": "1800",
-      "telegram_url": "https://t.me/gamepulse_newss/1800",
-      "telegram_published_at": "2026-10-27T09:17:31.344936+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/spelunky-classic-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T09:17:32.824926+00:00"
-    },
-    {
       "fingerprint": "f1d5f1fc4e70c4ae1112d4e1",
       "title": "BioShock Movie Director Francis Lawrence Explains Why It's Taken Hollywood So Long to Adapt the Game",
       "url": "https://ign.com/articles/bioshock-movie-director-francis-lawrence-explains-why-its-taken-hollywood-so-long-to-adapt-the-game",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/mixcollage-19-nov-2026-04-00-pm-1715-1795122018900.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T18:47:12.005253+00:00"
+    },
+    {
+      "fingerprint": "03f3a1dd270bb2ec5cc01dd3",
+      "title": "GTA 6’s Auto-Drive Feature Is Easy To Miss But Extremely Handy",
+      "url": "https://gamespot.com/articles/gta-6s-auto-drive-feature-is-easy-to-miss-but-extremely-handy",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T18:30:40+00:00",
+      "score": 12,
+      "event_key": "gta-6-auto-drive-feature-guide",
+      "title_ru": "Функция автопилота в GTA 6",
+      "threads_teaser_ru": "В GTA 6 есть удобная функция автопилота для поездок на машине или лодке по метке на карте. Рассказываем, как ее активировать и на что она способна.",
+      "telegram_message_id": "3004",
+      "telegram_url": "https://t.me/gamepulse_newss/3004",
+      "telegram_published_at": "2026-11-20T19:02:31.684086+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031144152_-Large.jpeg?w=300"
     }
   ],
-  "updated_at": "2026-11-20T18:47:12.005341+00:00"
+  "updated_at": "2026-11-20T19:02:31.684174+00:00"
 }
