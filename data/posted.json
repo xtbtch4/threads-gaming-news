@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6ce52de3ac9fd1007e87a384",
-      "title": "New update for Nintendo Switch Online + Expansion Pack members! – News – Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/new-update-for-nintendo-switch-online-expansion-pack-members-october-2026",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-26T16:00:00+00:00",
-      "score": 14,
-      "event_key": "Nintendo Switch Online classic games library update",
-      "title_ru": "Обновление библиотеки классических игр Nintendo Switch Online",
-      "threads_teaser_ru": "Nintendo анонсировала скорое пополнение библиотеки классических игр для подписчиков Nintendo Switch Online и Expansion Pack. Ретро-хиты будут доступны как на оригинальной Nintendo Switch, так и на Nintendo Switch 2.",
-      "telegram_message_id": "1785",
-      "telegram_url": "https://t.me/gamepulse_newss/1785",
-      "telegram_published_at": "2026-10-27T01:47:23.335506+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-27T01:47:24.691867+00:00"
-    },
-    {
       "fingerprint": "c7169eedee75ac61b14cbb67",
       "title": "(For Southeast Asia) Crunchyroll Arrives for PS5 and PS4 users in Indonesia, Malaysia and Thailand",
       "url": "https://blog.playstation.com/2026/10/26/20261027-roll",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-chimp2-1795175972425.webp?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-20T14:47:25.854994+00:00"
+    },
+    {
+      "fingerprint": "00acb01176f8ae005f1f54d2",
+      "title": "Next Week on XBOX: New Games for November 23 to 27",
+      "url": "https://news.xbox.com/en-us/2026/11/20/next-week-on-xbox-new-games-for-november-23-to-27",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-20T15:00:00+00:00",
+      "score": 16,
+      "event_key": "upcoming games releases for XBOX November 23 to 27",
+      "title_ru": "Анонс игровых новинок для XBOX на неделю с 23 по 27 ноября",
+      "threads_teaser_ru": "С 23 по 27 ноября на платформы Xbox выйдет ряд новых игр, включая физический платформер Marupoyo, симулятор аукционов Storage Hunter Simulator, хоррор-партигейм Machine Party и обновленную классику MANIC MINER.",
+      "telegram_message_id": "2989",
+      "telegram_url": "https://t.me/gamepulse_newss/2989",
+      "telegram_published_at": "2026-11-20T15:03:40.673928+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/nwox-hero-f37af1684711fca65783.jpg"
     }
   ],
-  "updated_at": "2026-11-20T14:47:25.855079+00:00"
+  "updated_at": "2026-11-20T15:03:40.674030+00:00"
 }
