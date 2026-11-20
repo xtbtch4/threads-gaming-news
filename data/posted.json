@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "df7a7bd1058c1b6c63a88763",
-      "title": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
-      "url": "https://eurogamer.net/onimusha-way-of-the-sword-enemy-difficulty-capcom",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-26T12:32:53+00:00",
-      "score": 11,
-      "event_key": "capcom-onimusha-way-of-the-sword-difficulty-data",
-      "title_ru": "Capcom довольна уровнем сложности Onimusha: Way of the Sword",
-      "threads_teaser_ru": "Разработчики Onimusha: Way of the Sword прокомментировали баланс сложности игры. По словам режиссера Сатору Нихея, собранные данные подтверждают правильность выбранного уровня испытаний.",
-      "telegram_message_id": "1756",
-      "telegram_url": "https://t.me/gamepulse_newss/1756",
-      "telegram_published_at": "2026-10-26T12:47:04.550268+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-gameplay-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T12:47:06.191203+00:00"
-    },
-    {
       "fingerprint": "e10de4d4cd01e898f201a3d1",
       "title": "XBOX Game Pass Is Coming to Eligible T-Mobile Customers",
       "url": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-20T01:02:43.062534+00:00"
+    },
+    {
+      "fingerprint": "5a9d1749ce153f3b1276bea9",
+      "title": "Lanterns Star Aaron Pierre Addresses His DCU Future: 'What Will Be Will Be'",
+      "url": "https://ign.com/articles/lanterns-star-aaron-pierre-addresses-his-dcu-future-what-will-be-will-be",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T00:38:53+00:00",
+      "score": 9,
+      "event_key": "Aaron Pierre addresses future of Green Lantern in Man of Tomorrow",
+      "title_ru": "Актер Aaron Pierre прокомментировал будущее своего героя в DCU",
+      "threads_teaser_ru": "Актер Aaron Pierre, исполнивший роль Green Lantern в фильме Man of Tomorrow, отреагировал на увольнение руководства DC Studios. Пока в сети гадают, останется ли его персонаж в финальной версии ленты, актер сохраняет спокойствие и надеется на будущее развитие DC.",
+      "telegram_message_id": "2960",
+      "telegram_url": "https://t.me/gamepulse_newss/2960",
+      "telegram_published_at": "2026-11-20T01:17:10.634283+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/aaron-pierre-1795134812683.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T01:02:43.062620+00:00"
+  "updated_at": "2026-11-20T01:17:10.634372+00:00"
 }
