@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3c8aafbfff71619844f9b181",
-      "title": "\"IT FLIPS UP,\" Fallout New Vegas modders yell after releasing a funky Pip-Boy based on cancelled entry Van Buren's design docs",
-      "url": "https://rockpapershotgun.com/it-flips-up-fallout-new-vegas-modders-yell-after-releasing-a-funky-pip-boy-based-on-cancelled-entry-van-burens-design-docs",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-26T13:30:00+00:00",
-      "score": 14,
-      "event_key": "fallout_new_vegas_van_buren_pip_boy_mod",
-      "title_ru": "Моддеры выпустили для Fallout New Vegas новый Pip-Boy на основе документов отмененной Van Buren",
-      "threads_teaser_ru": "Для Fallout New Vegas вышел новый Pip-Boy на основе дизайн-документов отмененной игры Van Buren. Устройство получило уникальную анимацию, позволяющую крышке подниматься вверх при использовании.",
-      "telegram_message_id": "1759",
-      "telegram_url": "https://t.me/gamepulse_newss/1759",
-      "telegram_published_at": "2026-10-26T13:32:45.762750+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/fallout-new-vegas-van-buren-pip-boy-01.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-26T13:32:47.377984+00:00"
-    },
-    {
       "fingerprint": "9ff0549a8f4d2eec6cd8ae8c",
       "title": "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI — Now He's Public Enemy Number One",
       "url": "https://ign.com/articles/50000-dollar-ps5-exploit-found-with-ai",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6_Robberys_SITE.jpg?w=300",
       "threads_published_at": "2026-11-20T01:47:24.651083+00:00"
+    },
+    {
+      "fingerprint": "afff26d40bf3f4f9a6e447be",
+      "title": "GTA 6 Features a Few Cheeky Dexter Easter Eggs",
+      "url": "https://ign.com/articles/gta-6-features-a-few-cheeky-dexter-easter-eggs",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T10:35:00+00:00",
+      "score": 9,
+      "event_key": "GTA 6 players discover Dexter series easter eggs",
+      "title_ru": "В GTA 6 нашли отсылки к сериалу Dexter",
+      "threads_teaser_ru": "Игроки в GTA 6 начали находить в Vice City отсылки к культовому сериалу Dexter. В игре обнаружили здание «Trinity Apartments», квартиру с узнаваемым кондиционером, набор инструментов на крыше и лодку, подозрительно похожую на судно главного героя.",
+      "telegram_message_id": "2963",
+      "telegram_url": "https://t.me/gamepulse_newss/2963",
+      "telegram_published_at": "2026-11-20T04:17:16.863098+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta-6-dexter-1795102962512.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-20T01:47:24.651173+00:00"
+  "updated_at": "2026-11-20T04:17:16.863197+00:00"
 }
