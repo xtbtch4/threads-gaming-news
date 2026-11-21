@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "49a959480a1da73a445cd27b",
-      "title": "Kane Parsons Says He Is Working on Three 'Dream Projects,' Leading to Speculation Over Valve Collaboration",
-      "url": "https://ign.com/articles/kane-parsons-says-he-is-working-on-three-dream-projects-leading-to-speculation-over-valve-collaboration",
-      "source": "IGN",
-      "published_at_source": "2026-10-27T22:18:57+00:00",
-      "score": 13,
-      "event_key": "kane-parsons-three-dream-projects-valve-speculation",
-      "title_ru": "Режиссер Backrooms намекнул на работу над тремя новыми проектами",
-      "threads_teaser_ru": "Режиссер фильма Backrooms Кейн Парсонс сообщил о разработке трех «проектов мечты», что подогрело слухи о его возможном сотрудничестве с Valve.",
-      "telegram_message_id": "1836",
-      "telegram_url": "https://t.me/gamepulse_newss/1836",
-      "telegram_published_at": "2026-10-27T23:02:50.461355+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/05/22/backrooms-oo-1779468471139.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T23:02:52.075764+00:00"
-    },
-    {
       "fingerprint": "849c73a97b00477bf4e9a95f",
       "title": "Inside the Vault – World Pets and Hideouts Public Test Server",
       "url": "https://fallout.bethesda.net/en-US/news/inside-the-vault-world-pets-and-hideouts-public-test-server",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/RPS-100-Readers_Edition_Render_AW.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T04:17:14.168659+00:00"
+    },
+    {
+      "fingerprint": "30f96a074dfa619860ef91cd",
+      "title": "Furry Community Divided by GTA 6 Parody",
+      "url": "https://ign.com/articles/furry-community-divided-by-gta-6-parody",
+      "source": "IGN",
+      "published_at_source": "2026-11-19T11:46:00+00:00",
+      "score": 6,
+      "event_key": "GTA 6 satirical depiction of furry community controversy",
+      "title_ru": "GTA 6 разделило сообщество фурри",
+      "threads_teaser_ru": "В GTA 6 появилась сатирическая линия, в которой фурри объявлены вне закона, а полиция и охотники могут на них нападать. Сообщество разделилось: одни опасаются, что игра провоцирует реальную агрессию, другие же видят в этом лишь привычный для серии юмор над современной культурой.",
+      "telegram_message_id": "3040",
+      "telegram_url": "https://t.me/gamepulse_newss/3040",
+      "telegram_published_at": "2026-11-21T04:47:23.287088+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gta6-furries-blogroll-1795117217714.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-21T04:17:14.168745+00:00"
+  "updated_at": "2026-11-21T04:47:23.287180+00:00"
 }
