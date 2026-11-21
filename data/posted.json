@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c1c324e173b83b2650617700",
-      "title": "Check Out 46 Seconds Of New Final Fantasy 7 Revelation Gameplay (And A Pink Chocobo)",
-      "url": "https://gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-27T15:48:44+00:00",
-      "score": 11,
-      "event_key": "Final Fantasy 7 Revelation gameplay trailer and release date",
-      "title_ru": "Показан новый геймплей Final Fantasy 7 Revelation",
-      "threads_teaser_ru": "Опубликован новый геймплей Final Fantasy 7 Revelation: 46 секунд исследования ущелий под Midgar верхом на розовом чокобо. Игра обещает стать самой масштабной частью трилогии с весом около 200 ГБ и сотней часов контента.",
-      "telegram_message_id": "1827",
-      "telegram_url": "https://t.me/gamepulse_newss/1827",
-      "telegram_published_at": "2026-10-27T19:47:22.353749+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/FF7-Chocobo.jpg?w=300",
-      "threads_published_at": "2026-10-27T19:47:23.716603+00:00"
-    },
-    {
       "fingerprint": "94e5e2b3d4615ad219a81770",
       "title": "GTA 6 Developers Are About To Do Something Historic",
       "url": "https://gamespot.com/articles/gta-6-developers-are-about-to-do-something-historic",
@@ -20514,7 +20497,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ciri-witcher-4.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4",
       "threads_published_at": "2026-11-21T01:31:55.588471+00:00"
+    },
+    {
+      "fingerprint": "dd4204bca5c156985d5c054f",
+      "title": "Total War: Warhammer 40,000 breaks the game into star system mini-campaigns, each with their own stories and objectives",
+      "url": "https://eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T12:12:10+00:00",
+      "score": 7,
+      "event_key": "Total War: Warhammer 40,000 features star system mini-campaigns",
+      "title_ru": "Total War: Warhammer 40,000 разделит игру на мини-кампании",
+      "threads_teaser_ru": "Разработчики Total War: Warhammer 40,000 объяснили, почему игра разделена на мини-кампании по звездным системам: так проще передать масштаб галактики и создать уникальные истории для каждого региона. Оказалось, потеря целого отряда Space Marines — это критическая катастрофа.",
+      "telegram_message_id": "3031",
+      "telegram_url": "https://t.me/gamepulse_newss/3031",
+      "telegram_published_at": "2026-11-21T01:47:44.310673+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/total-war-warhammer-40k-space-marine.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T01:31:55.588602+00:00"
+  "updated_at": "2026-11-21T01:47:44.310773+00:00"
 }
