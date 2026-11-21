@@ -20512,10 +20512,11 @@
       "telegram_message_id": "3062",
       "telegram_url": "https://t.me/gamepulse_newss/3062",
       "telegram_published_at": "2026-11-21T16:47:11.266561+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/darkest-dungeons-2-dlc.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/darkest-dungeon-ii-the-butcher-s-asylum-gameplay-trailer-1795277091.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/darkest-dungeon-ii-the-butcher-s-asylum-gameplay-trailer-1795277091.mp4",
+      "threads_published_at": "2026-11-21T16:47:12.667147+00:00"
     }
   ],
-  "updated_at": "2026-11-21T16:47:11.266669+00:00"
+  "updated_at": "2026-11-21T16:47:12.667274+00:00"
 }
