@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "08b053862cbce62aec375228",
-      "title": "Save Over 50% Off the JBL Live Buds 3 Noise Canceling Wireless Earbuds Ahead of Black Friday",
-      "url": "https://ign.com/articles/jbl-live-buds-3-noise-canceling-wireless-earbuds-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-27T20:20:00+00:00",
-      "score": 10,
-      "event_key": "amazon discount on jbl live buds 3 earbuds",
-      "title_ru": "JBL Live Buds 3 подешевели более чем на 50% на Amazon",
-      "threads_teaser_ru": "На Amazon началась ранняя скидка на JBL Live Buds 3: цена упала с 200 до 91,99 доллара. Устройство выделяется необычным зарядным кейсом с сенсорным дисплеем и расширенной поддержкой функций Android, включая Google Fast Pair и Google Finder.",
-      "telegram_message_id": "1838",
-      "telegram_url": "https://t.me/gamepulse_newss/1838",
-      "telegram_published_at": "2026-10-28T03:02:57.523512+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/27/jbllivebuds3-1793131975975.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-28T03:02:58.869654+00:00"
-    },
-    {
       "fingerprint": "dd27fca0d06d4058ec36900c",
       "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
       "url": "https://rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
@@ -20514,7 +20497,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-treasure-everywhere.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
       "threads_published_at": "2026-11-21T05:03:02.057668+00:00"
+    },
+    {
+      "fingerprint": "ca5259af1361f3bd2f9aca3b",
+      "title": "GTA 6 has the audacity to include an in-game physical disc",
+      "url": "https://polygon.com/gta-6-physical-disc-spoof-game",
+      "source": "Polygon",
+      "published_at_source": "2026-11-19T17:00:00+00:00",
+      "score": 5,
+      "event_key": "GTA 6 includes Tenebrae Lux physical disc joke",
+      "title_ru": "В GTA 6 высмеяли отсутствие физических дисков",
+      "threads_teaser_ru": "В GTA 6 нашли ироничный момент, высмеивающий отказ от физических носителей. Пока игроки спорят об удобстве цифровых версий, Rockstar Games показывают в сюжетной сцене то, что в реальности теперь стало почти невозможным — обмен дисками между друзьями.",
+      "telegram_message_id": "3042",
+      "telegram_url": "https://t.me/gamepulse_newss/3042",
+      "telegram_published_at": "2026-11-21T05:17:27.988532+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-gt-6-cal-and-jaosn-playing-games-2.jpeg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-21T05:03:02.057794+00:00"
+  "updated_at": "2026-11-21T05:17:27.988591+00:00"
 }
