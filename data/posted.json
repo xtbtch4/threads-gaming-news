@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "218a98c3123274d98b5ffbbe",
-      "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
-      "url": "https://rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-27T17:00:00+00:00",
-      "score": 12,
-      "event_key": "Warhorse Studios cyberattack data breach investigation",
-      "title_ru": "Warhorse Studios подверглась кибератаке",
-      "threads_teaser_ru": "Студия Warhorse Studios, известная работой над Kingdom Come: Deliverance 2, стала жертвой кибератаки. Злоумышленники получили несанкционированный доступ к системам и данным компании. Разработчики уже работают с экспертами над устранением последствий и расследованием инцидента.",
-      "telegram_message_id": "1826",
-      "telegram_url": "https://t.me/gamepulse_newss/1826",
-      "telegram_published_at": "2026-10-27T19:32:57.425681+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/kingdom-come-deliverance-2-multiplayer-mod-work-in-progress-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T19:32:59.305005+00:00"
-    },
-    {
       "fingerprint": "c1c324e173b83b2650617700",
       "title": "Check Out 46 Seconds Of New Final Fantasy 7 Revelation Gameplay (And A Pink Chocobo)",
       "url": "https://gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo",
@@ -20513,7 +20496,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T01:17:17.336918+00:00"
+    },
+    {
+      "fingerprint": "b4401828a0c874498b3b0731",
+      "title": "The Witcher 4 Gets Official Update on Physical Release",
+      "url": "https://polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T01:28:17+00:00",
+      "score": 12,
+      "event_key": "cd_projekt_red_the_witcher_4_physical_release_2028",
+      "title_ru": "CD Projekt Red выпустит коробочное издание The Witcher 4",
+      "threads_teaser_ru": "CD Projekt Red планирует выпустить коробочное издание The Witcher 4 в 2028 году, несмотря на планы Sony прекратить производство дисков для PlayStation. Появится ли сам диск в коробке?",
+      "telegram_message_id": "3030",
+      "telegram_url": "https://t.me/gamepulse_newss/3030",
+      "telegram_published_at": "2026-11-21T01:31:54.411083+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ciri-witcher-4.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/pio-ep11-v2-1793888604.mp4"
     }
   ],
-  "updated_at": "2026-11-21T01:17:17.337002+00:00"
+  "updated_at": "2026-11-21T01:31:54.411196+00:00"
 }
