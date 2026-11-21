@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4a8fb09447a374de23729e3e",
-      "title": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO",
-      "url": "https://rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-28T12:30:00+00:00",
-      "score": 14,
-      "event_key": "undead-labs-state-of-decay-3-mmo-pivot",
-      "title_ru": "Undead Labs пыталась сделать из State of Decay 3 масштабную MMO",
-      "threads_teaser_ru": "Стало известно, что в течение нескольких лет студия Undead Labs разрабатывала State of Decay 3 в формате масштабной MMO. Позднее концепцию изменили, вернувшись к истокам серии.",
-      "telegram_message_id": "1849",
-      "telegram_url": "https://t.me/gamepulse_newss/1849",
-      "telegram_published_at": "2026-10-28T12:32:44.941461+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/State-of-Decay-3-car-fill-up.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-28T12:32:46.452966+00:00"
-    },
-    {
       "fingerprint": "bba18012c5de70d0ede7c5f2",
       "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
       "url": "https://gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/21/hunger-games-sunrise-thumb-1795219248912.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-21T13:47:00.462100+00:00"
+    },
+    {
+      "fingerprint": "9d2635536c51ebc730d14873",
+      "title": "GTA 6’s Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
+      "url": "https://ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map",
+      "source": "IGN",
+      "published_at_source": "2026-11-21T13:30:00+00:00",
+      "score": 11,
+      "event_key": "gta-6-early-open-world-exploration-preview",
+      "title_ru": "Исследование открытого мира в GTA 6",
+      "threads_teaser_ru": "Раннее исследование карты в GTA 6 позволяет найти необычные случайные события и проработанные детали за пределами стартовой локации, не дожидаясь продвижения по сюжету.",
+      "telegram_message_id": "3053",
+      "telegram_url": "https://t.me/gamepulse_newss/3053",
+      "telegram_published_at": "2026-11-21T14:02:47.647906+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-cow-story-blogroll-1795184902367.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-21T13:47:00.462199+00:00"
+  "updated_at": "2026-11-21T14:02:47.648010+00:00"
 }
