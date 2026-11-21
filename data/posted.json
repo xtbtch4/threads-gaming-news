@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "05ffaf615b624c823e6b147b",
-      "title": "Hot Wax sets fire to the Tetris playbook with slow-burn puzzle mechanics and a dollop of eldritch menace",
-      "url": "https://rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-28T13:30:00+00:00",
-      "score": 12,
-      "event_key": "Hot Wax release on Steam by PUNKCAKE Délicieux",
-      "title_ru": "Аркадная головоломка Hot Wax выходит в Steam",
-      "threads_teaser_ru": "Аркадная головоломка Hot Wax от PUNKCAKE Délicieux добирается до Steam после периода эксклюзивности на Itch.io. В игре нужно не просто складывать фигуры, а управлять таянием свечей-блоков с помощью огня под присмотром мистического божества.",
-      "telegram_message_id": "1853",
-      "telegram_url": "https://t.me/gamepulse_newss/1853",
-      "telegram_published_at": "2026-10-28T13:47:40.957763+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/20261028123222_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-28T13:47:42.338191+00:00"
-    },
-    {
       "fingerprint": "a2db742c1debfff2c934f879",
       "title": "Explore the Spookier Side of Space in No Man’s Sky: FORSAKEN!",
       "url": "https://news.xbox.com/en-us/2026/10/28/no-mans-sky-forsaken-update",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-21T15:02:38.206615+00:00"
+    },
+    {
+      "fingerprint": "875bffa2f1c8366f4e0088f9",
+      "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
+      "url": "https://eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-21T15:03:50+00:00",
+      "score": 13,
+      "event_key": "gta 6 ps5 crashing ce 108255 1 error",
+      "title_ru": "Grand Theft Auto 6 вызывает сбои на PS5 с ошибкой CE-108255-1",
+      "threads_teaser_ru": "Некоторые игроки Grand Theft Auto 6 на PS5 и Xbox Series X сталкиваются с вылетами и ошибкой CE-108255-1, мешающими прохождению сюжета. Стандартные способы решения пока не помогают.",
+      "telegram_message_id": "3057",
+      "telegram_url": "https://t.me/gamepulse_newss/3057",
+      "telegram_published_at": "2026-11-21T15:16:50.117970+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-14.55.00.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T15:02:38.206696+00:00"
+  "updated_at": "2026-11-21T15:16:50.118048+00:00"
 }
