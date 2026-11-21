@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8f84781132a5a5beec71e915",
-      "title": "Resident Evil Executive Producer Says the Series' Story Could End 'In the Next 10 Years'",
-      "url": "https://ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
-      "source": "IGN",
-      "published_at_source": "2026-10-27T21:49:51+00:00",
-      "score": 11,
-      "event_key": "Resident Evil narrative conclusion planned within 10 years",
-      "title_ru": "История Resident Evil может завершиться в ближайшие 10 лет",
-      "threads_teaser_ru": "Исполнительный продюсер Capcom Дзюн Такэути намекнул на финал истории Resident Evil. По его словам, завершение основного сюжета серии может произойти в ближайшие 10 лет. При этом в разработке уже находятся новые проекты по франшизе, включая ремейк Code Veronica.",
-      "telegram_message_id": "1834",
-      "telegram_url": "https://t.me/gamepulse_newss/1834",
-      "telegram_published_at": "2026-10-27T22:02:27.205356+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/03/03/resident-evil-requiem-leon-legacy-sequel-1772550107468.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T22:02:28.560288+00:00"
-    },
-    {
       "fingerprint": "a3c5983e17ea212b0e603790",
       "title": "You Can Unlock Lots Of Free Stuff In Pokemon Go’s Halloween 2026 Event",
       "url": "https://gamespot.com/articles/heres-everything-you-can-unlock-for-pokemon-go-halloween-2026",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-onyxia-lair-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T03:49:41.151158+00:00"
+    },
+    {
+      "fingerprint": "3ffd22ee8343c0f7ff61781f",
+      "title": "Fallout-Themed AriZona Iced Tea Gets Black Friday Discount, Including New 'Apocalyptic Orange' Flavor",
+      "url": "https://ign.com/articles/fallout-themed-arizona-iced-tea-gets-black-friday-discount-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T22:08:55+00:00",
+      "score": 5,
+      "event_key": "Fallout themed AriZona Iced Tea Black Friday discount",
+      "title_ru": "Fallout-тематический чай AriZona получил скидку в рамках Black Friday",
+      "threads_teaser_ru": "Fallout-тематический чай AriZona получил скидки на распродаже Black Friday. В линейку вошли три классических вкуса и новая версия «Apocalyptic Orange». Упаковки украшены артами с героями сериала от Amazon, а сами напитки теперь стоят ближе к стандартной цене бренда.",
+      "telegram_message_id": "3038",
+      "telegram_url": "https://t.me/gamepulse_newss/3038",
+      "telegram_published_at": "2026-11-21T04:02:48.123336+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/falloutarizona-2-1795210680262.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-21T03:49:41.151245+00:00"
+  "updated_at": "2026-11-21T04:02:48.123420+00:00"
 }
