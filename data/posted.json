@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "94d6b5519bb64375ed756e30",
-      "title": "Suit up as Astro Bot in Rayman Legends Retold",
-      "url": "https://blog.playstation.com/2026/10/28/suit-up-as-astro-bot-in-rayman-legends-retold",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-28T13:01:45+00:00",
-      "score": 12,
-      "event_key": "rayman legends retold astro bot costume announcement",
-      "title_ru": "Анонсирован эксклюзивный костюм Astro Bot в Rayman Legends Retold",
-      "threads_teaser_ru": "Rayman Legends Retold выйдет на PlayStation 5 и PlayStation 5 Pro 3 декабря 2026 года с бесплатным эксклюзивным костюмом Astro Bot в магазине портного Victor Velour.",
-      "telegram_message_id": "1851",
-      "telegram_url": "https://t.me/gamepulse_newss/1851",
-      "telegram_published_at": "2026-10-28T13:17:01.954577+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/10/e13114d013315c48235e480e4f0fcb97053e66ae-scaled.png",
-      "threads_published_at": "2026-10-28T13:17:03.575107+00:00"
-    },
-    {
       "fingerprint": "54df89b61e2ed7b14c3c904f",
       "title": "Mobile Suit Gundam: BATTLE OPERATION 3 – Official Announcement Trailer",
       "url": "https://gamespot.com/videos/mobile-suit-gundam-battle-operation-3-official-announcement-trailer",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/GTA-6-Radio-Station-Hosts-Tracks-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T14:32:28.639776+00:00"
+    },
+    {
+      "fingerprint": "089491597390617fafe255eb",
+      "title": "LEGO Insiders Weekend Is Live: Free Gifts with Purchase, Exclusive Discounts, and More",
+      "url": "https://ign.com/articles/lego-insiders-weekend-is-live-free-gifts-with-purchase-exclusive-discounts-and-more",
+      "source": "IGN",
+      "published_at_source": "2026-11-21T13:00:00+00:00",
+      "score": 6,
+      "event_key": "LEGO Insiders Weekend promotions and gifts",
+      "title_ru": "Стартовали выходные LEGO Insiders",
+      "threads_teaser_ru": "В официальном магазине LEGO начались выходные LEGO Insiders. С 21 по 22 ноября участники программы могут получить двойные баллы, скидки по коду INSIDERS10 и эксклюзивные подарки за покупку определенных наборов.",
+      "telegram_message_id": "3055",
+      "telegram_url": "https://t.me/gamepulse_newss/3055",
+      "telegram_published_at": "2026-11-21T14:47:09.980392+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/lego-insiders-wekend-copy-1795179985642.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-21T14:32:28.639872+00:00"
+  "updated_at": "2026-11-21T14:47:09.980471+00:00"
 }
