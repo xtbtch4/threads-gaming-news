@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "109c815307e639cc2b6b5383",
-      "title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
-      "url": "https://rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-27T21:28:32+00:00",
-      "score": 12,
-      "event_key": "Discord discoverable servers searchable on Google",
-      "title_ru": "Discord сделает сообщения в публичных серверах доступными через поиск",
-      "threads_teaser_ru": "Discord открывает индексацию сообщений в публичных серверах для поисковиков. С середины декабря переписку на таких серверах можно будет найти через Google, но участники смогут скрыть свои сообщения, а подросткам функция недоступна.",
-      "telegram_message_id": "1832",
-      "telegram_url": "https://t.me/gamepulse_newss/1832",
-      "telegram_published_at": "2026-10-27T21:32:59.058252+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/discord-public-messages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T21:33:00.798637+00:00"
-    },
-    {
       "fingerprint": "df8d918470bbd61d503bf307",
       "title": "Remember That Time BioWare Made A Sonic The Hedgehog RPG?",
       "url": "https://gamespot.com/articles/remember-that-time-bioware-made-a-sonic-the-hedgehog-rpg",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/1a1fa4f321856-screenshotUrl.jpg?w=300",
       "threads_published_at": "2026-11-21T03:17:34.785768+00:00"
+    },
+    {
+      "fingerprint": "905c21e3ac280ed5b9b50ec4",
+      "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
+      "url": "https://gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T15:54:00+00:00",
+      "score": 6,
+      "event_key": "malware linked to gacha game breaches city security",
+      "title_ru": "Вредоносное ПО, связанное с популярной gacha-игрой, нарушило систему безопасности города",
+      "threads_teaser_ru": "Вредоносное ПО, замаскированное под взломанную версию популярной gacha-игры, стало инструментом для атаки на систему безопасности города. Аналитики предупреждают об опасности использования сторонних модификаций.",
+      "telegram_message_id": "3036",
+      "telegram_url": "https://t.me/gamepulse_newss/3036",
+      "telegram_published_at": "2026-11-21T03:32:25.765019+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-21T03:17:34.785857+00:00"
+  "updated_at": "2026-11-21T03:32:25.765106+00:00"
 }
