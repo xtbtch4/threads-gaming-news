@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "84b895f08f834f784414eaf2",
-      "title": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
-      "url": "https://rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-28T11:40:49+00:00",
-      "score": 12,
-      "event_key": "pathologic 3 developers refuse to patch invisible apple tree",
-      "title_ru": "Разработчики Pathologic 3 отказались убирать баг с невидимым яблочным деревом",
-      "threads_teaser_ru": "Для Pathologic 3 вышло последнее крупное обновление с новыми режимами и фоторежимом. Авторы отказались исправлять баг с невидимым яблочным деревом, решив оставить его навсегда как элемент искусства.",
-      "telegram_message_id": "1846",
-      "telegram_url": "https://t.me/gamepulse_newss/1846",
-      "telegram_published_at": "2026-10-28T11:46:57.569790+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/pathologic-3-flamethrowers-and-trees.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-28T11:46:59.060150+00:00"
-    },
-    {
       "fingerprint": "0d5d49659747e788615f0f80",
       "title": "You Need to Have Completed Crimson Desert's Main Storyline to Begin Kliff, Oongka, and Damiane's New DLC Stories",
       "url": "https://ign.com/articles/you-need-to-have-completed-crimson-deserts-main-storyline-to-begin-kliff-oongka-and-damianes-new-dlc-stories",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/illegal-ops1-1795093051042.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-21T12:02:20.282045+00:00"
+    },
+    {
+      "fingerprint": "f3ddfd91354a47320ed7e5b1",
+      "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+      "url": "https://polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T13:00:17+00:00",
+      "score": 14,
+      "event_key": "rockstar_games_history_with_nintendo_consoles_and_gta",
+      "title_ru": "Polygon: отношения Rockstar и Nintendo изменились",
+      "threads_teaser_ru": "Почему у Rockstar есть порты Red Dead Redemption и L.A. Noire на Nintendo, но нет главных игр серии Grand Theft Auto? Разбираем историю отношений студии с платформами Nintendo.",
+      "telegram_message_id": "3050",
+      "telegram_url": "https://t.me/gamepulse_newss/3050",
+      "telegram_published_at": "2026-11-21T13:17:02.256947+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-3-switch.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-21T12:02:20.282120+00:00"
+  "updated_at": "2026-11-21T13:17:02.257032+00:00"
 }
