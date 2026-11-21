@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "51702e7c8c0b8bce00634d23",
-      "title": "Magic Is Reprinting a $20 Commander Powerhouse as a Star Trek Fan Favorite",
-      "url": "https://polygon.com/magic-gathering-mtg-star-trek-commander-reprint",
-      "source": "Polygon",
-      "published_at_source": "2026-10-27T20:32:08+00:00",
-      "score": 12,
-      "event_key": "Magic The Gathering Star Trek Secret Lair reveal",
-      "title_ru": "Wizards of the Coast анонсировала набор Magic: The Gathering по мотивам Star Trek",
-      "threads_teaser_ru": "Wizards of the Coast показали пять новых наборов Secret Lair для Magic: The Gathering, вдохновленных франшизой Star Trek. Среди новинок — перевыпуск популярной карты Thrasios, Triton Hero в образе Tendi из Lower Decks. Старт продаж намечен на 9 ноября.",
-      "telegram_message_id": "1830",
-      "telegram_url": "https://t.me/gamepulse_newss/1830",
-      "telegram_published_at": "2026-10-27T20:32:56.319327+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/kirk-orion-star-trek.png?w=1200&h=675&fit=crop",
-      "threads_published_at": "2026-10-27T20:32:57.789877+00:00"
-    },
-    {
       "fingerprint": "58d1b0a9a92e8bbf2045d180",
       "title": "The sound of Saros: Building an audio identity for Carcosa",
       "url": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Cal_Hampton_01.0xlil231_osh4.jpg?w=300",
       "threads_published_at": "2026-11-21T02:17:26.295173+00:00"
+    },
+    {
+      "fingerprint": "fedd835d1e43acd32ce50135",
+      "title": "Best Guns In GTA 6 And All Guns To Buy",
+      "url": "https://gamespot.com/articles/best-guns-in-gta-6-and-all-guns-to-buy",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-20T20:43:34+00:00",
+      "score": 6,
+      "event_key": "GTA 6 standard weapons and recommendations overview",
+      "title_ru": "Полный список стандартного оружия в GTA 6",
+      "threads_teaser_ru": "Изучаем арсенал GTA 6: в игре представлено 34 вида стандартного оружия. Разбираемся, какие модели лучше всего подходят для первых этапов прохождения в Leonida и чем различаются классы вооружения, от пистолетов до снайперских винтовок.",
+      "telegram_message_id": "3034",
+      "telegram_url": "https://t.me/gamepulse_newss/3034",
+      "telegram_published_at": "2026-11-21T03:02:54.888890+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_05.0kxp6enhvzqka.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-21T02:17:26.295277+00:00"
+  "updated_at": "2026-11-21T03:02:54.888971+00:00"
 }
