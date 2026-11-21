@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "df8d918470bbd61d503bf307",
-      "title": "Remember That Time BioWare Made A Sonic The Hedgehog RPG?",
-      "url": "https://gamespot.com/articles/remember-that-time-bioware-made-a-sonic-the-hedgehog-rpg",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-27T21:31:38+00:00",
-      "score": 13,
-      "event_key": "bioware sonic chronicles the dark brotherhood retro look",
-      "title_ru": "Как BioWare создала Sonic Chronicles: The Dark Brotherhood",
-      "threads_teaser_ru": "Вспоминаем самый необычный проект BioWare — портативную ролевую игру Sonic Chronicles: The Dark Brotherhood для Nintendo DS, которая так и осталась без продолжения из-за судебных споров.",
-      "telegram_message_id": "1833",
-      "telegram_url": "https://t.me/gamepulse_newss/1833",
-      "telegram_published_at": "2026-10-27T21:47:14.504664+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/sonic-dark-brotherhood.jpg?w=300",
-      "threads_published_at": "2026-10-27T21:47:15.798186+00:00"
-    },
-    {
       "fingerprint": "8f84781132a5a5beec71e915",
       "title": "Resident Evil Executive Producer Says the Series' Story Could End 'In the Next 10 Years'",
       "url": "https://ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-21T03:32:27.032828+00:00"
+    },
+    {
+      "fingerprint": "d5cad2b297454febd66b3888",
+      "title": "Blizzard wants to \"get rid\" of best-in-slot items in World of Warcraft: Forever by introducing situationally strong gear",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-developers-best-in-slot-podcast",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T09:46:30+00:00",
+      "score": 6,
+      "event_key": "World of Warcraft Forever developers challenge best in slot itemization",
+      "title_ru": "Разработчики World of Warcraft: Forever планируют отказаться от системы best-in-slot предметов",
+      "threads_teaser_ru": "В World of Warcraft: Forever решили пересмотреть классическую концепцию BIS-экипировки. Разработчики внедряют систему ситуативных бонусов, завязанных на типах врагов и биомах рейда Barrow Deeps, чтобы игрокам приходилось менять снаряжение под конкретных боссов.",
+      "telegram_message_id": "3037",
+      "telegram_url": "https://t.me/gamepulse_newss/3037",
+      "telegram_published_at": "2026-11-21T03:49:39.648851+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-onyxia-lair-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T03:32:27.032915+00:00"
+  "updated_at": "2026-11-21T03:49:39.648952+00:00"
 }
