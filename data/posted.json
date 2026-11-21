@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "65859ce809ca1dc7e3a1d7d9",
-      "title": "Football Manager 27: The Real World of Football Meets Your Digital Decisions | Official XBOX Podcast",
-      "url": "https://news.xbox.com/en-us/2026/10/28/football-manager-27-the-real-world-of-football-meets-your-digital-decisions-official-xbox-podcast",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-28T17:05:00+00:00",
-      "score": 11,
-      "event_key": "football manager 27 official xbox podcast release date",
-      "title_ru": "Football Manager 27: Подробности новой части на Official XBOX Podcast",
-      "threads_teaser_ru": "Football Manager 27 выходит на PC и Xbox уже 29 октября, а консольная версия появится 10 ноября — обе попадут в Game Pass. Разработчики рассказали об улучшениях интерфейса, новой функции Tactical Tweaks и базе данных из миллиона человек.",
-      "telegram_message_id": "1868",
-      "telegram_url": "https://t.me/gamepulse_newss/1868",
-      "telegram_published_at": "2026-10-29T02:32:23.606044+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Wire_EP289-7d0934c54be1131de39f.jpg",
-      "threads_published_at": "2026-10-29T02:32:25.258269+00:00"
-    },
-    {
       "fingerprint": "7f09cfa8244a8a51b08bf972",
       "title": "(For Southeast Asia) First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
       "url": "https://blog.playstation.com/2026/10/28/20261029-ps5",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/is-immortality-a-curse-for-elves.png?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-21T20:02:21.532585+00:00"
+    },
+    {
+      "fingerprint": "bb31abcc5ef06da56725451b",
+      "title": "Declasse Vamos code location in GTA 6",
+      "url": "https://polygon.com/gta-6-declasse-vamos-code-car-location",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T20:54:45+00:00",
+      "score": 8,
+      "event_key": "gta 6 declasse vamos garage code location",
+      "title_ru": "Где найти код от гаража с Declasse Vamos в GTA 6",
+      "threads_teaser_ru": "В GTA 6 для угона Declasse Vamos по заданию Moses потребуется найти код от запертого гаража. Подсказок на бумаге нет, но нужную комбинацию можно обнаружить на стенах соседнего дома.",
+      "telegram_message_id": "3072",
+      "telegram_url": "https://t.me/gamepulse_newss/3072",
+      "telegram_published_at": "2026-11-21T21:02:34.538434+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-21T20:02:21.532680+00:00"
+  "updated_at": "2026-11-21T21:02:34.538532+00:00"
 }
