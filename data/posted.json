@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e79f9837bd21a0792284fa5a",
-      "title": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
-      "url": "https://eurogamer.net/steam-ai-clone-game-problem-valve-response",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-28T14:43:53+00:00",
-      "score": 12,
-      "event_key": "Valve comments on AI game cloning on Steam",
-      "title_ru": "Valve предложила разработчикам защищаться от клонирования игр с помощью ИИ самостоятельно",
-      "threads_teaser_ru": "Valve прокомментировала проблему массового появления в Steam клонов игр, созданных с помощью ИИ. Вместо внедрения защитных мер компания предложила разработчикам самостоятельно делать проекты сложнее для копирования, чтобы выделиться на фоне плагиата.",
-      "telegram_message_id": "1866",
-      "telegram_url": "https://t.me/gamepulse_newss/1866",
-      "telegram_published_at": "2026-10-29T02:03:26.272840+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/needle-in-a-haystack-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T02:03:27.846855+00:00"
-    },
-    {
       "fingerprint": "c9eab205b1444f07ac62c56e",
       "title": "Sleeping Dogs Movie Director Explains Why The Adaptation Is Taking So Long",
       "url": "https://gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/darkest-dungeon-2-butchers-asylum.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T19:17:42.741101+00:00"
+    },
+    {
+      "fingerprint": "d37aa21acb9d15d139a90f2f",
+      "title": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
+      "url": "https://rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-21T18:57:00+00:00",
+      "score": 5,
+      "event_key": "eldritch empathy announced puzzle roguelite papers please",
+      "title_ru": "Анонсирован roguelite Eldritch Empathy в стиле Papers, Please",
+      "threads_teaser_ru": "Анонсирован puzzle roguelite Eldritch Empathy, вдохновленный Papers, Please. В нем нужно диагностировать лавкрафтианских существ, следить за уровнем рассудка и принимать решения, влияющие на общину.",
+      "telegram_message_id": "3070",
+      "telegram_url": "https://t.me/gamepulse_newss/3070",
+      "telegram_published_at": "2026-11-21T19:33:14.813623+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/eldritch-empathy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T19:17:42.741186+00:00"
+  "updated_at": "2026-11-21T19:33:14.813712+00:00"
 }
