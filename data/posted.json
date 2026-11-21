@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fff5c70493963a9394c728d4",
-      "title": "Play One of the Highest-Rated Call of Duty Games Ever Today",
-      "url": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-27T18:00:00+00:00",
-      "score": 12,
-      "event_key": "Call of Duty Black Ops 6 released on Game Pass",
-      "title_ru": "Call of Duty: Black Ops 6 вышла в Game Pass",
-      "threads_teaser_ru": "Call of Duty: Black Ops 6 пополнила библиотеку подписочного сервиса Game Pass. С сегодняшнего дня подписчики могут опробовать одну из самых высокооцененных игр в истории серии. Узнайте подробности релиза и доступные платформы в нашем основном материале.",
-      "telegram_message_id": "1822",
-      "telegram_url": "https://t.me/gamepulse_newss/1822",
-      "telegram_published_at": "2026-10-27T18:32:53.422597+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/HVk8eKDa8AAfh3U-4b99ce53fff453b2faa3.jpg",
-      "threads_published_at": "2026-10-27T18:32:55.009468+00:00"
-    },
-    {
       "fingerprint": "f68b65b2e030ccf4868f6e4b",
       "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
       "url": "https://rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ff7-remake-intergrade-xbox-3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T00:17:09.391453+00:00"
+    },
+    {
+      "fingerprint": "ffdb27993ba47b47cde103e8",
+      "title": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is",
+      "url": "https://eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T15:54:10+00:00",
+      "score": 8,
+      "event_key": "Star Wars: Galactic Racer Biddy Blas popularity growth",
+      "title_ru": "Разработчики Star Wars: Galactic Racer не ожидали такой популярности Biddy Blas",
+      "threads_teaser_ru": "Второстепенный герой Biddy Blas из Star Wars: Galactic Racer неожиданно для разработчиков из Fuse Games стал вирусной звездой. Фанаты полюбили его за харизматичность и необычные диалоги, а нарративный дизайнер игры рассказала, как создавался этот «хаотичный гоблин».",
+      "telegram_message_id": "3026",
+      "telegram_url": "https://t.me/gamepulse_newss/3026",
+      "telegram_published_at": "2026-11-21T00:32:47.353334+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/biddy-blas-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T00:17:09.391541+00:00"
+  "updated_at": "2026-11-21T00:32:47.353421+00:00"
 }
