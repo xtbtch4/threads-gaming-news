@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6b38f2b3299b69c7293d1c2d",
-      "title": "PlayStation Plus Free Games For November 2026 Revealed",
-      "url": "https://gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-28T15:38:07+00:00",
-      "score": 15,
-      "event_key": "playstation plus free games november 2026 revealed",
-      "title_ru": "Раскрыты бесплатные игры для подписчиков PlayStation Plus на ноябрь 2026 года",
-      "threads_teaser_ru": "Стали известны бесплатные игры для подписчиков PlayStation Plus на ноябрь 2026 года. С 3 ноября игроки смогут получить три проекта, включая Dead Island 2 и Tomb Raider 4-6 Remastered.",
-      "telegram_message_id": "1856",
-      "telegram_url": "https://t.me/gamepulse_newss/1856",
-      "telegram_published_at": "2026-10-28T15:47:07.645088+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/PS-Plus-November-2026.jpg?w=300",
-      "threads_published_at": "2026-10-28T15:47:09.198940+00:00"
-    },
-    {
       "fingerprint": "f6f39c5b0d8a4e80ca9bd3b3",
       "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
       "url": "https://gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/unnamed_6vaP0JC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T16:02:46.616926+00:00"
+    },
+    {
+      "fingerprint": "3933c7b4c58983bb6a8c5449",
+      "title": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
+      "url": "https://polygon.com/gta-6-impact-on-steam-roblox",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T16:05:15+00:00",
+      "score": 14,
+      "event_key": "GTA 6 launch impact on Steam and Roblox user counts",
+      "title_ru": "Релиз GTA 6 не оказал существенного влияния на показатели Steam и Roblox",
+      "threads_teaser_ru": "Аналитики выяснили, как релиз GTA 6 повлиял на другие платформы. Оказалось, что Steam и Roblox практически не заметили конкуренции со стороны самой ожидаемой игры года. Цифры аудитории остались на прежнем уровне, несмотря на колоссальное внимание к новинке на PS5 и Xbox Series X.",
+      "telegram_message_id": "3060",
+      "telegram_url": "https://t.me/gamepulse_newss/3060",
+      "telegram_published_at": "2026-11-21T16:16:44.658634+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-setting-vice-city.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-21T16:02:46.617021+00:00"
+  "updated_at": "2026-11-21T16:16:44.658714+00:00"
 }
