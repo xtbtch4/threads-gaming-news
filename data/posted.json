@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e5185badb48f31ca77f01090",
-      "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
-      "url": "https://ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T00:42:20+00:00",
-      "score": 15,
-      "event_key": "bioware_co_founder_reacts_to_studio_closure",
-      "title_ru": "Сооснователь BioWare высказался о закрытии студии и отмене игры",
-      "threads_teaser_ru": "Сооснователь BioWare Грег Зещук прокомментировал закрытие студии и отмену Mass Effect 5. По его словам, он пережил расставание с компанией много лет назад, но считает случившееся тяжелым ударом для родного города и индустрии.",
-      "telegram_message_id": "1864",
-      "telegram_url": "https://t.me/gamepulse_newss/1864",
-      "telegram_published_at": "2026-10-29T01:02:31.666536+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T01:02:33.082091+00:00"
-    },
-    {
       "fingerprint": "417e34cc46e083bac87c708c",
       "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2",
       "url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/deltarune-toby-fox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T18:02:58.448061+00:00"
+    },
+    {
+      "fingerprint": "fb2df2d60f3cd97751b0ace3",
+      "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+      "url": "https://ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind",
+      "source": "IGN",
+      "published_at_source": "2026-11-21T18:43:23+00:00",
+      "score": 11,
+      "event_key": "Neuralink participant plays GTA 6 using mind control",
+      "title_ru": "Участник испытаний Neuralink показал управление игрой GTA 6 силой мысли",
+      "threads_teaser_ru": "Участник испытаний Neuralink продемонстрировал возможности мозгового импланта в GTA 6. Технология позволила пользователю управлять действиями персонажа в игре силой мысли, что стало альтернативой прежним методам взаимодействия с компьютером.",
+      "telegram_message_id": "3068",
+      "telegram_url": "https://t.me/gamepulse_newss/3068",
+      "telegram_published_at": "2026-11-21T19:03:06.120644+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-21T18:02:58.448149+00:00"
+  "updated_at": "2026-11-21T19:03:06.120745+00:00"
 }
