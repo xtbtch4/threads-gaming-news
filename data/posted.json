@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "417e34cc46e083bac87c708c",
-      "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2",
-      "url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-28T15:31:43+00:00",
-      "score": 13,
-      "event_key": "playstation-plus-monthly-games-lineup-november-announcement",
-      "title_ru": "Анонсирована подборка игр PlayStation Plus на ноябрь",
-      "threads_teaser_ru": "Стали известны игры, которые пополнят библиотеку PlayStation Plus в ноябре. Подписчики сервиса получат доступ к Dead Island 2, сборнику Tomb Raider IV – VI Remastered и стратегии Monster Train 2. Игры будут доступны для загрузки с 3 ноября.",
-      "telegram_message_id": "1865",
-      "telegram_url": "https://t.me/gamepulse_newss/1865",
-      "telegram_published_at": "2026-10-29T01:47:32.501851+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/ee14b16f5f65f3dd7cdf074a83bbfa255de288ea-scaled.jpg",
-      "threads_published_at": "2026-10-29T01:47:33.798826+00:00"
-    },
-    {
       "fingerprint": "e79f9837bd21a0792284fa5a",
       "title": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
       "url": "https://eurogamer.net/steam-ai-clone-game-problem-valve-response",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-21T19:03:07.826981+00:00"
+    },
+    {
+      "fingerprint": "5dcdffe021b3650849552fb0",
+      "title": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+      "url": "https://rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-21T16:53:00+00:00",
+      "score": 12,
+      "event_key": "Red Hook Studios announces The Butcher's Asylum DLC",
+      "title_ru": "Анонсировано DLC The Butcher's Asylum для Darkest Dungeon 2",
+      "threads_teaser_ru": "Red Hook Studios анонсировала новое DLC для Darkest Dungeon 2 — гладиаторский режим The Butcher's Asylum. Игроков ждут короткие боевые забеги, новый персонаж The Ringmaster и необычная механика взаимодействия с публикой на арене.",
+      "telegram_message_id": "3069",
+      "telegram_url": "https://t.me/gamepulse_newss/3069",
+      "telegram_published_at": "2026-11-21T19:17:41.391127+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/darkest-dungeon-2-butchers-asylum.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T19:03:07.827068+00:00"
+  "updated_at": "2026-11-21T19:17:41.391212+00:00"
 }
