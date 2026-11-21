@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f6f39c5b0d8a4e80ca9bd3b3",
-      "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
-      "url": "https://gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-28T15:17:07+00:00",
-      "score": 15,
-      "event_key": "witchbrook release date announced for january 2027",
-      "title_ru": "Магический симулятор жизни Witchbrook получил дату релиза",
-      "threads_teaser_ru": "Долгострой Witchbrook выйдет 28 января 2027 года на PS5, Xbox Series X|S, PC, Nintendo Switch и Nintendo Switch 2. Пиксельный симулятор жизни предложит магическую учебу, кооператив и кастомизацию.",
-      "telegram_message_id": "1857",
-      "telegram_url": "https://t.me/gamepulse_newss/1857",
-      "telegram_published_at": "2026-10-28T16:02:58.777511+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/witchbrook.jpeg?w=300",
-      "threads_published_at": "2026-10-28T16:03:00.347488+00:00"
-    },
-    {
       "fingerprint": "538e39981fd680429751c690",
       "title": "CoD: Modern Warfare 4 And Warzone Season 1 Release Date And Details",
       "url": "https://gamespot.com/articles/cod-modern-warfare-4-and-warzone-season-1-release-date-and-details",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-setting-vice-city.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-21T16:16:45.982086+00:00"
+    },
+    {
+      "fingerprint": "fba77dfbc1516eb3d7fcd3d5",
+      "title": "GTA 6 Officially Includes Unreleased Song From Music Legend D'Angelo",
+      "url": "https://polygon.com/gta-6-dangelo-song-rockstar-games-radio",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T15:53:57+00:00",
+      "score": 10,
+      "event_key": "gta-6-unreleased-dangelo-song-kamikazi-radio",
+      "title_ru": "В саундтреке GTA 6 обнаружили неизданную песню D'Angelo",
+      "threads_teaser_ru": "Игроки обнаружили в масштабном саундтреке GTA 6 неизданную песню покойного музыканта D'Angelo. Официальный трек под названием \"Kamikazi\" звучит на одной из радиостанций игры.",
+      "telegram_message_id": "3061",
+      "telegram_url": "https://t.me/gamepulse_newss/3061",
+      "telegram_published_at": "2026-11-21T16:31:59.999107+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-21T16:16:45.982186+00:00"
+  "updated_at": "2026-11-21T16:31:59.999207+00:00"
 }
