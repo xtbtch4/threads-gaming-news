@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ff3e134c7807e094b0a679cc",
-      "title": "With The Division 3 Still in Active Development, Ubisoft Announces The Division Franchise Has Hit More Than 50 Million Players",
-      "url": "https://ign.com/articles/the-division-series-50-million-players",
-      "source": "IGN",
-      "published_at_source": "2026-10-28T13:29:29+00:00",
-      "score": 15,
-      "event_key": "the_division_series_reaches_50_million_players",
-      "title_ru": "Аудитория серии The Division превысила 50 миллионов игроков",
-      "threads_teaser_ru": "Аудитория франшизы The Division перешагнула отметку в 50 миллионов игроков в преддверии 10-летнего юбилея серии. Тем временем студия продолжает работу над новым DLC и грядущей The Division 3.",
-      "telegram_message_id": "1855",
-      "telegram_url": "https://t.me/gamepulse_newss/1855",
-      "telegram_published_at": "2026-10-28T14:17:34.244211+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/ss-6a63daf99f4725057f6959b95ffa2f3adc6842c1-1920x1080-1793193337632.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-28T14:17:35.712405+00:00"
-    },
-    {
       "fingerprint": "6b38f2b3299b69c7293d1c2d",
       "title": "PlayStation Plus Free Games For November 2026 Revealed",
       "url": "https://gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/what-is-jeffrey-wright-really-like.png?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-21T15:32:39.861958+00:00"
+    },
+    {
+      "fingerprint": "0f23e66a96a0e5ddac2f24dd",
+      "title": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
+      "url": "https://eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-21T15:56:10+00:00",
+      "score": 11,
+      "event_key": "phasmophobia resonance update release date unity 6",
+      "title_ru": "Обновление Resonance для Phasmophobia выйдет 24 ноября",
+      "threads_teaser_ru": "Обновление Resonance для Phasmophobia принесет движок Unity 6, новые инструменты вроде лозоискателей, улучшенные звуковые датчики и поддержку Xbox Play Anywhere уже 24 ноября.",
+      "telegram_message_id": "3059",
+      "telegram_url": "https://t.me/gamepulse_newss/3059",
+      "telegram_published_at": "2026-11-21T16:02:45.136733+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/unnamed_6vaP0JC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T15:32:39.862048+00:00"
+  "updated_at": "2026-11-21T16:02:45.136908+00:00"
 }
