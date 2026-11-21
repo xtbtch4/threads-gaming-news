@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7f09cfa8244a8a51b08bf972",
-      "title": "(For Southeast Asia) First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
-      "url": "https://blog.playstation.com/2026/10/28/20261029-ps5",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-10-29T02:03:29+00:00",
-      "score": 10,
-      "event_key": "Sony announces transparent Prism Collection accessories for PS5",
-      "title_ru": "Sony анонсировала аксессуары Prism Collection для PS5",
-      "threads_teaser_ru": "Sony анонсировала новую линейку аксессуаров Prism Collection для PS5 и DualSense с полупрозрачным дизайном. В серию войдут три цвета: Flare Orange, Emerald Green и Graphite Gray. Старт продаж намечен на февраль 2027 года.",
-      "telegram_message_id": "1869",
-      "telegram_url": "https://t.me/gamepulse_newss/1869",
-      "telegram_published_at": "2026-10-29T02:47:42.970612+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/10/a839e1fe644a591bd6d1d6fd4c8ca39481a832f0.jpg",
-      "threads_published_at": "2026-10-29T02:47:44.508371+00:00"
-    },
-    {
       "fingerprint": "2940f15cee8786fcd8384a5d",
       "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
       "url": "https://polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-21T21:02:36.203151+00:00"
+    },
+    {
+      "fingerprint": "1286969dcca5678e8c99884c",
+      "title": "Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios",
+      "url": "https://rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-21T21:27:20+00:00",
+      "score": 8,
+      "event_key": "night eye tv digital public access art games platform launch",
+      "title_ru": "Анонс NIGHT EYE TV: цифровое телевидение для необычных инди-игр",
+      "threads_teaser_ru": "Запущен проект NIGHT EYE TV, воссоздающий формат телевидения общественного доступа для необычных и экспериментальных видеоигр. Платформа предлагает виртуальный телевизор с каналами-клипами, а в будущем планирует стать магазином.",
+      "telegram_message_id": "3073",
+      "telegram_url": "https://t.me/gamepulse_newss/3073",
+      "telegram_published_at": "2026-11-21T21:33:00.167147+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/nighteye-tv.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T21:02:36.203261+00:00"
+  "updated_at": "2026-11-21T21:33:00.167247+00:00"
 }
