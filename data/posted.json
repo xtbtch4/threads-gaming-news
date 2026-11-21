@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bba18012c5de70d0ede7c5f2",
-      "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
-      "url": "https://gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-28T12:30:33+00:00",
-      "score": 12,
-      "event_key": "valve investigating ai slop problem steam next fest",
-      "title_ru": "Valve ищет решение проблемы с низкокачественным контентом на Steam Next Fest",
-      "threads_teaser_ru": "Valve прокомментировала критику Steam Next Fest из-за обилия низкокачественных и созданных с помощью ИИ демоверсий. Представители компании рассказали, почему в первые дни фестиваля показываются случайные игры.",
-      "telegram_message_id": "1850",
-      "telegram_url": "https://t.me/gamepulse_newss/1850",
-      "telegram_published_at": "2026-10-28T12:46:46.250825+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/Next-Fest.jpg?w=300",
-      "threads_published_at": "2026-10-28T12:46:47.771064+00:00"
-    },
-    {
       "fingerprint": "94d6b5519bb64375ed756e30",
       "title": "Suit up as Astro Bot in Rayman Legends Retold",
       "url": "https://blog.playstation.com/2026/10/28/suit-up-as-astro-bot-in-rayman-legends-retold",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-cow-story-blogroll-1795184902367.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-21T14:02:49.344230+00:00"
+    },
+    {
+      "fingerprint": "0f21358d7f3ae38e77f58d2c",
+      "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
+      "url": "https://eurogamer.net/gta-6-review-bombed-metacritic-user-score",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-21T14:19:40+00:00",
+      "score": 7,
+      "event_key": "gta 6 review bombed on metacritic user score",
+      "title_ru": "Grand Theft Auto 6 столкнулась с обзором бомбящих игроков на Metacritic",
+      "threads_teaser_ru": "Несмотря на 99 баллов от критиков на Metacritic, пользовательский рейтинг Grand Theft Auto 6 упал до 5.6 из 10. Игроки критикуют проект за 30 FPS на консолях, спорный сюжет и технические проблемы.",
+      "telegram_message_id": "3054",
+      "telegram_url": "https://t.me/gamepulse_newss/3054",
+      "telegram_published_at": "2026-11-21T14:32:27.294226+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-Radio-Station-Hosts-Tracks-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T14:02:49.344324+00:00"
+  "updated_at": "2026-11-21T14:32:27.294327+00:00"
 }
