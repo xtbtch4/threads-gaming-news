@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a4e9bcfc5749f1a97116f3dc",
-      "title": "BioWare Was Asked to Remove LGBTQ Flag from Canceled Mass Effect Game, Report Says",
-      "url": "https://polygon.com/mass-effect-universe-bioware-ea-remove-lgbtq-flag",
-      "source": "Polygon",
-      "published_at_source": "2026-10-28T11:14:41+00:00",
-      "score": 12,
-      "event_key": "bioware_asked_to_remove_lgbtq_flag_from_mass_effect",
-      "title_ru": "BioWare просили убрать LGBTQ-флаг из отмененной Mass Effect",
-      "threads_teaser_ru": "Бывшие сотрудники BioWare рассказали, что во время разработки отмененной Mass Effect Universe руководство EA попросило убрать из презентации флаг, напоминающий LGBTQIA+ символ.",
-      "telegram_message_id": "1844",
-      "telegram_url": "https://t.me/gamepulse_newss/1844",
-      "telegram_published_at": "2026-10-28T11:17:19.793260+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mass-effect-commander-shepard-femshep-and-liara.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-28T11:17:21.322247+00:00"
-    },
-    {
       "fingerprint": "5e7854de2e41e2f5261531b9",
       "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
       "url": "https://ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-week-maniac-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T10:02:44.878212+00:00"
+    },
+    {
+      "fingerprint": "077cf197dbb52de134e2970e",
+      "title": "5 Years Later, 'Yellowjackets' Officially Solves One of Its Last Huge Mysteries",
+      "url": "https://polygon.com/yellowjackets-season-4-plane-crash-location",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T11:00:18+00:00",
+      "score": 8,
+      "event_key": "yellowjackets-season-4-reveals-plane-crash-location",
+      "title_ru": "Yellowjackets раскрывает одно из главных мест крушения самолета",
+      "threads_teaser_ru": "Четвертый сезон сериала Yellowjackets официально раскрыл точное примерное место, где потерпел крушение самолет с футбольтной командой.",
+      "telegram_message_id": "3048",
+      "telegram_url": "https://t.me/gamepulse_newss/3048",
+      "telegram_published_at": "2026-11-21T11:02:33.914699+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/yellowjackets_s4_ds_0413_0673_rt.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-21T10:02:44.878302+00:00"
+  "updated_at": "2026-11-21T11:02:33.914786+00:00"
 }
