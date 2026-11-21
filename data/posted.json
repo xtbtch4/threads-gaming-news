@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6926e69f6186213fdb91febc",
-      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
-      "url": "https://ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
-      "source": "IGN",
-      "published_at_source": "2026-10-28T21:16:50+00:00",
-      "score": 13,
-      "event_key": "GTA 5 cast gives advice to GTA 6 actors",
-      "title_ru": "Актеры прошлых частей GTA дали советы исполнителям главных ролей в GTA 6",
-      "threads_teaser_ru": "Актеры, озвучившие Франклина, Майкла, Тревора и Си-Джея, дали советы тем, кто играет Джейсона и Люсию в GTA 6. Они призвали коллег довериться разработчикам из Rockstar и искренне ценить фанатов — главных творцов успеха франшизы.",
-      "telegram_message_id": "1863",
-      "telegram_url": "https://t.me/gamepulse_newss/1863",
-      "telegram_published_at": "2026-10-28T23:33:05.356916+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-28T23:33:07.101848+00:00"
-    },
-    {
       "fingerprint": "e5185badb48f31ca77f01090",
       "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
       "url": "https://ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
@@ -20516,7 +20499,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/does-anyone-know-what-ai-in-games-looks-like-1788276044.mp4",
       "threads_published_at": "2026-11-21T17:47:15.139086+00:00"
+    },
+    {
+      "fingerprint": "d97fbe195fdfb9169408de12",
+      "title": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
+      "url": "https://rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-21T17:54:00+00:00",
+      "score": 10,
+      "event_key": "toby fox keeps deltarune ending secret from development team",
+      "title_ru": "Toby Fox скрывает финал Deltarune от своей команды разработки",
+      "threads_teaser_ru": "Разработчик Deltarune Toby Fox не стал рассказывать своей команде финал игры. Он остановил чтение сценария седьмой главы на ключевом моменте, заявив, что сотрудники должны сначала сделать больше контента. Вся команда поддержала такой подход.",
+      "telegram_message_id": "3067",
+      "telegram_url": "https://t.me/gamepulse_newss/3067",
+      "telegram_published_at": "2026-11-21T18:02:56.881965+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/deltarune-toby-fox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T17:47:15.139195+00:00"
+  "updated_at": "2026-11-21T18:02:56.882079+00:00"
 }
