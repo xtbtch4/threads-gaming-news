@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0d5d49659747e788615f0f80",
-      "title": "You Need to Have Completed Crimson Desert's Main Storyline to Begin Kliff, Oongka, and Damiane's New DLC Stories",
-      "url": "https://ign.com/articles/you-need-to-have-completed-crimson-deserts-main-storyline-to-begin-kliff-oongka-and-damianes-new-dlc-stories",
-      "source": "IGN",
-      "published_at_source": "2026-10-28T11:52:50+00:00",
-      "score": 11,
-      "event_key": "Crimson Desert Charting the Unknown DLC entry requirements confirmed",
-      "title_ru": "Для доступа к сюжетным DLC Crimson Desert потребуется пройти основную кампанию",
-      "threads_teaser_ru": "Студия Pearl Abyss рассказала, как получить доступ к новому контенту в дополнении Charting the Unknown для Crimson Desert. Оказалось, что для сюжетных историй Kliff, Oongka и Damiane потребуется полное прохождение основной игры, чтобы избежать спойлеров.",
-      "telegram_message_id": "1847",
-      "telegram_url": "https://t.me/gamepulse_newss/1847",
-      "telegram_published_at": "2026-10-28T12:02:53.391354+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/cd2-1793188035545.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-28T12:02:55.072913+00:00"
-    },
-    {
       "fingerprint": "394faae43761f2bcaed9bb48",
       "title": "25 Years Later, Nintendo’s Spookiest Game Is a Must-Play On Switch 2",
       "url": "https://polygon.com/luigis-mansion-gamecube-retrospective-switch-online",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-3-switch.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-21T13:17:03.789931+00:00"
+    },
+    {
+      "fingerprint": "f10d2add8f57dc7447151c99",
+      "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+      "url": "https://ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
+      "source": "IGN",
+      "published_at_source": "2026-11-21T12:17:40+00:00",
+      "score": 11,
+      "event_key": "gta 6 players encounter aggressive surviving npcs",
+      "title_ru": "Игроки GTA 6 сталкиваются с NPC, которые дают жесткий отпор",
+      "threads_teaser_ru": "В GTA 6 игроки массово сталкиваются с NPC, которые умеют давать жесткий отпор. Они выдерживают удары, преследуют обидчиков после ранений и даже телепортируются.",
+      "telegram_message_id": "3051",
+      "telegram_url": "https://t.me/gamepulse_newss/3051",
+      "telegram_published_at": "2026-11-21T13:33:12.877751+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/21/gtavi-56-1795263173286.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-21T13:17:03.790025+00:00"
+  "updated_at": "2026-11-21T13:33:12.877843+00:00"
 }
