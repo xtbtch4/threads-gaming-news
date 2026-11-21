@@ -20513,9 +20513,10 @@
       "telegram_message_id": "3068",
       "telegram_url": "https://t.me/gamepulse_newss/3068",
       "telegram_published_at": "2026-11-21T19:03:06.120644+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-21T19:03:07.826981+00:00"
     }
   ],
-  "updated_at": "2026-11-21T19:03:06.120745+00:00"
+  "updated_at": "2026-11-21T19:03:07.827068+00:00"
 }
