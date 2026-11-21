@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f68b65b2e030ccf4868f6e4b",
-      "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
-      "url": "https://rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-27T18:37:53+00:00",
-      "score": 14,
-      "event_key": "rockstar uk union recognition vote gta 6 launch",
-      "title_ru": "Разработчики из британского подразделения Rockstar проведут голосование о признании профсоюза во время релиза GTA 6",
-      "threads_teaser_ru": "Сотрудники британского офиса Rockstar проведут голосование о признании профсоюза IWGB с 12 по 26 ноября — прямо во время релиза GTA 6. В случае успеха он станет крупнейшим в игровой индустрии Великобритании.",
-      "telegram_message_id": "1823",
-      "telegram_url": "https://t.me/gamepulse_newss/1823",
-      "telegram_published_at": "2026-10-27T18:47:25.402693+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-trailer-1-cap-o.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-27T18:47:27.098362+00:00"
-    },
-    {
       "fingerprint": "938c0c08c16c7a3de0ff0b0f",
       "title": "'Physical Books, But Not Physical Games?' — PlayStation Book Announcement Prompts Confusion Over Sony's Physical Media Stance",
       "url": "https://ign.com/articles/physical-books-but-not-physical-games-playstation-book-announcement-prompts-confusion-over-sonys-physical-media-stance",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/biddy-blas-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-21T00:32:48.744571+00:00"
+    },
+    {
+      "fingerprint": "1e7391d562ef447146b46601",
+      "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
+      "url": "https://eurogamer.net/gta-6-biggest-entertainment-launch",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-20T20:00:40+00:00",
+      "score": 9,
+      "event_key": "gta 6 biggest entertainment launch record sales",
+      "title_ru": "GTA 6 показала крупнейший запуск в истории индустрии развлечений",
+      "threads_teaser_ru": "Релиз GTA 6 побил все исторические рекорды индустрии развлечений: игра собрала 3,79 миллиарда долларов за первый день продаж и разошлась тиражом в 32,5 миллиона копий по предзаказам на PS5 и Xbox Series X/S.",
+      "telegram_message_id": "3027",
+      "telegram_url": "https://t.me/gamepulse_newss/3027",
+      "telegram_published_at": "2026-11-21T00:47:08.451174+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T00:32:48.744649+00:00"
+  "updated_at": "2026-11-21T00:47:08.451251+00:00"
 }
