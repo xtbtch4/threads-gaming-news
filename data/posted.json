@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f1543e51968bb2b7ddf2ad2",
-      "title": "World of Warcraft Forever Name Reservation Is Broken Ahead of Launch",
-      "url": "https://ign.com/articles/world-of-warcraft-forever-name-reservation-is-broken-ahead-of-launch",
-      "source": "IGN",
-      "published_at_source": "2026-10-27T18:06:57+00:00",
-      "score": 13,
-      "event_key": "World of Warcraft Forever name reservation system launch issues",
-      "title_ru": "Blizzard отложила возможность резервирования имен в World of Warcraft: Forever из-за технических проблем",
-      "threads_teaser_ru": "Система резервирования имен в World of Warcraft: Forever столкнулась с техническими сбоями перед полноценным релизом 4 ноября. У европейских игроков кнопка запуска стала неактивной, а разработчики сообщили о временной приостановке функции до решения проблем.",
-      "telegram_message_id": "1825",
-      "telegram_url": "https://t.me/gamepulse_newss/1825",
-      "telegram_published_at": "2026-10-27T19:17:29.666922+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/19/wow-forever-scenic-announce-skyborne-customization-062-1789806035954.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-27T19:17:31.311210+00:00"
-    },
-    {
       "fingerprint": "218a98c3123274d98b5ffbbe",
       "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
       "url": "https://rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/81eje-yy66l-ac-sl1500-1795216849076.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-21T01:03:02.349206+00:00"
+    },
+    {
+      "fingerprint": "4627560284aaca44ca4c1093",
+      "title": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
+      "url": "https://rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-20T16:04:10+00:00",
+      "score": 7,
+      "event_key": "nvidia geforce driver 621.24 ssd excessive writing issue",
+      "title_ru": "Драйвер Nvidia GeForce 621.24 может избыточно записывать данные на SSD",
+      "threads_teaser_ru": "Пользователи сообщают о проблеме с новым драйвером Nvidia GeForce 621.24: он может записывать до 30 ГБ данных в час на SSD. Разбираемся, как проверить активность накопителя и стоит ли откатываться на предыдущую версию ПО.",
+      "telegram_message_id": "3029",
+      "telegram_url": "https://t.me/gamepulse_newss/3029",
+      "telegram_published_at": "2026-11-21T01:17:16.062697+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-21T01:03:02.349278+00:00"
+  "updated_at": "2026-11-21T01:17:16.062747+00:00"
 }
