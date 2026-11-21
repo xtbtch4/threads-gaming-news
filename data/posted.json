@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "37af60efe813dff5553490ca",
-      "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-      "url": "https://ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T03:22:32+00:00",
-      "score": 15,
-      "event_key": "gta 6 map opens up early free exploration",
-      "title_ru": "Карта в GTA 6 откроется для свободного исследования на ранних этапах",
-      "threads_teaser_ru": "Стало известно, как будет работать карта в GTA 6: мир откроется для свободного исследования уже на ранних этапах после прохождения вводной части. Разработчики также рассказали о беспрецедентной детализации и масштабе игры.",
-      "telegram_message_id": "1871",
-      "telegram_url": "https://t.me/gamepulse_newss/1871",
-      "telegram_published_at": "2026-10-29T04:02:36.845162+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T04:02:38.239917+00:00"
-    },
-    {
       "fingerprint": "0fa1ddbd8a6703582e17edd0",
       "title": "Kane Parsons Confirms Meetings With Valve, But Won't Adapt Their Games If It Can't Be Done Right",
       "url": "https://ign.com/articles/kane-parsons-confirms-meetings-with-valve-but-wont-adapt-their-games-if-it-cant-be-done-right",
@@ -20516,7 +20499,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_08.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-21T22:03:07.024517+00:00"
+    },
+    {
+      "fingerprint": "9bd0411ff1546a99bcf83eba",
+      "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+      "url": "https://polygon.com/star-wars-new-jedi-order-era-update",
+      "source": "Polygon",
+      "published_at_source": "2026-11-21T22:18:17+00:00",
+      "score": 8,
+      "event_key": "Disney continues development of New Jedi Order and Filoni films",
+      "title_ru": "Disney продолжает работу над фильмами Star Wars: New Jedi Order и проектом Дэйва Филони",
+      "threads_teaser_ru": "Disney не отказывается от планов на новые фильмы по «Звездным войнам». Стало известно, что Star Wars: New Jedi Order и безымянный проект Дэйва Филони все еще находятся в разработке, несмотря на смену сценаристов и отсутствие громких анонсов.",
+      "telegram_message_id": "3075",
+      "telegram_url": "https://t.me/gamepulse_newss/3075",
+      "telegram_published_at": "2026-11-21T22:32:34.593385+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19812990/rey_finn_poe_in_star_wars_9_rise_of_skywalker_desert_wayfinder_scene.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/08/the-best-star-wars-comics-explained-1788185377.mp4"
     }
   ],
-  "updated_at": "2026-11-21T22:03:07.024620+00:00"
+  "updated_at": "2026-11-21T22:32:34.593488+00:00"
 }
