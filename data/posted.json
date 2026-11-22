@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eb5dc04314fc47fec65215b1",
-      "title": "FromSoftware's Nintendo Switch 2 Exclusive The Duskbloods Officially Delayed Into 2027",
-      "url": "https://ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T14:10:46+00:00",
-      "score": 15,
-      "event_key": "fromsoftware delays the duskbloods to 2027",
-      "title_ru": "The Duskbloods перенесена на 2027 год",
-      "threads_teaser_ru": "Игра The Duskbloods от FromSoftware официально перенесена на 2027 год. Эксклюзив для Nintendo Switch 2 должен был выйти до конца 2026 года, но разработчики решили уделить больше времени балансу и боевой системе.",
-      "telegram_message_id": "1892",
-      "telegram_url": "https://t.me/gamepulse_newss/1892",
-      "telegram_published_at": "2026-10-29T15:17:42.971086+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/theduskbloods-02-1793283021116.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T15:17:44.535122+00:00"
-    },
-    {
       "fingerprint": "00e811e397940a48b8039c02",
       "title": "Virtua Fighter Crossroads – Lionel Rafale Gameplay Reveal Trailer",
       "url": "https://gamespot.com/videos/virtua-fighter-crossroads-lionel-rafale-gameplay-reveal-trailer",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_13-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T18:02:46.947083+00:00"
+    },
+    {
+      "fingerprint": "9a92e8a00a14d01f6ca8ee3a",
+      "title": "Gather the crew for a little multiplayer mayhem! – News – Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/gather-the-crew-for-a-little-multiplayer-mayhem",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-22T17:00:00+00:00",
+      "score": 11,
+      "event_key": "nintendo switch multiplayer holiday games lineup",
+      "title_ru": "Подборка многопользовательских игр для Nintendo Switch и Nintendo Switch 2",
+      "threads_teaser_ru": "Nintendo предложила подборку игр для праздников на Nintendo Switch и Nintendo Switch 2, в которые можно играть всей семьей на одной системе.",
+      "telegram_message_id": "3096",
+      "telegram_url": "https://t.me/gamepulse_newss/3096",
+      "telegram_published_at": "2026-11-22T18:47:09.621780+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-22T18:02:46.947160+00:00"
+  "updated_at": "2026-11-22T18:47:09.621868+00:00"
 }
