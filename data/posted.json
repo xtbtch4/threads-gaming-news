@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fb97c391fcb7c6ecdb608d87",
-      "title": "Phantom Blade Zero Day-One Update Brings Performance Improvements, Nvidia Driver Warning",
-      "url": "https://ign.com/articles/phantom-blade-zero-day-one-update-nvidia-driver-warning",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T12:54:39+00:00",
-      "score": 13,
-      "event_key": "phantom-blade-zero-day-one-update-and-nvidia-driver-warning",
-      "title_ru": "Патч первого дня для Phantom Blade Zero улучшает производительность и добавляет предупреждение о драйверах Nvidia",
-      "threads_teaser_ru": "Для Phantom Blade Zero вышел патч первого дня с улучшениями производительности и графики. Разработчики также рекомендуют владельцам видеокарт Nvidia откатить драйвер до определенной версии.",
-      "telegram_message_id": "1884",
-      "telegram_url": "https://t.me/gamepulse_newss/1884",
-      "telegram_published_at": "2026-10-29T13:02:46.561044+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/02/phantombladezeroteasertrailer-ign-blogroll-1780442294968.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T13:02:48.457398+00:00"
-    },
-    {
       "fingerprint": "de1808dc0fd35a3296b1626b",
       "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
       "url": "https://polygon.com/gta-6-dog-poop-gameplay-south-park",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-sitting-together.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-22T11:32:18.128758+00:00"
+    },
+    {
+      "fingerprint": "8336af43fb7eee6b012626d7",
+      "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+      "url": "https://polygon.com/gta-6-no-kill-playthrough-fail",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T13:00:17+00:00",
+      "score": 12,
+      "event_key": "journalist attempts pacifist playthrough in Grand Theft Auto 6",
+      "title_ru": "Попытка пройти Grand Theft Auto 6 без убийств",
+      "threads_teaser_ru": "Журналист попытался пройти Grand Theft Auto 6 без убийств, но эксперимент быстро провалился из-за особенностей игрового процесса, сложностей с управлением транспортом и неизбежных столкновений.",
+      "telegram_message_id": "3088",
+      "telegram_url": "https://t.me/gamepulse_newss/3088",
+      "telegram_published_at": "2026-11-22T13:02:13.263468+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T11:32:18.128846+00:00"
+  "updated_at": "2026-11-22T13:02:13.263587+00:00"
 }
