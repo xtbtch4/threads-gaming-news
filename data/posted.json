@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "de1808dc0fd35a3296b1626b",
-      "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
-      "url": "https://polygon.com/gta-6-dog-poop-gameplay-south-park",
-      "source": "Polygon",
-      "published_at_source": "2026-10-29T10:31:55+00:00",
-      "score": 10,
-      "event_key": "Grand Theft Auto 6 gameplay shown in South Park episode",
-      "title_ru": "В новом эпизоде South Park показали геймплей Grand Theft Auto 6",
-      "threads_teaser_ru": "В последнем эпизоде South Park показали новый фрагмент геймплея Grand Theft Auto 6. В ролике главные герои Lucia Caminos и Jason Duval взаимодействуют с необычным объектом окружения, подтверждая высокий уровень детализации в будущей игре Rockstar.",
-      "telegram_message_id": "1885",
-      "telegram_url": "https://t.me/gamepulse_newss/1885",
-      "telegram_published_at": "2026-10-29T13:17:46.976683+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/ep7e2_updated-1791477808.mp4",
-      "threads_published_at": "2026-10-29T13:17:48.476860+00:00"
-    },
-    {
       "fingerprint": "205e9f54bac922e0f4294aa6",
       "title": "'High-Tech' Atari Hotel With Esports Venue and Creator Studios Breaks Ground in Phoenix",
       "url": "https://ign.com/articles/high-tech-atari-hotel-with-esports-venue-and-creator-studios-breaks-ground-in-phoenix",
@@ -20518,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T13:02:14.594912+00:00"
+    },
+    {
+      "fingerprint": "4884d315b3ffa73b7c73572b",
+      "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
+      "url": "https://polygon.com/gta-6-players-ridiculous-ways-to-steal-money",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T14:36:30+00:00",
+      "score": 12,
+      "event_key": "GTA 6 players discover ATM theft using tow truck",
+      "title_ru": "Игроки в GTA 6 нашли необычный способ кражи денег с помощью эвакуатора",
+      "threads_teaser_ru": "Пользователи Grand Theft Auto 6 делятся необычными способами заработка в открытом мире игры. Выяснилось, что при наличии эвакуатора можно буквально вырвать банкомат из стены, утащить его в безопасное место и вскрыть ради содержимого.",
+      "telegram_message_id": "3089",
+      "telegram_url": "https://t.me/gamepulse_newss/3089",
+      "telegram_published_at": "2026-11-22T14:47:17.055141+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/raul_bautista_landscape.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T13:02:14.595001+00:00"
+  "updated_at": "2026-11-22T14:47:17.055224+00:00"
 }
