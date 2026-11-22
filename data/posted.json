@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1e93f24561ef89846a067605",
-      "title": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
-      "url": "https://rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-29T12:34:09+00:00",
-      "score": 10,
-      "event_key": "Activision response Call of Duty Modern Warfare 4 controversy",
-      "title_ru": "Activision ответила на претензии к Call of Duty: Modern Warfare 4 из-за использования кадров трагедии в Итэвоне",
-      "threads_teaser_ru": "Вступительный ролик Call of Duty: Modern Warfare 4 вызвал споры в Южной Корее из-за включения реальных кадров давки в Итэвоне 2022 года. Activision ответила на претензии, заявив, что использование хроники не было попыткой сослаться на реальную трагедию.",
-      "telegram_message_id": "1883",
-      "telegram_url": "https://t.me/gamepulse_newss/1883",
-      "telegram_published_at": "2026-10-29T12:47:40.938254+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/call-of-duty-modern-warfare-4-south-korea-fire.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T12:47:42.340268+00:00"
-    },
-    {
       "fingerprint": "fb97c391fcb7c6ecdb608d87",
       "title": "Phantom Blade Zero Day-One Update Brings Performance Improvements, Nvidia Driver Warning",
       "url": "https://ign.com/articles/phantom-blade-zero-day-one-update-nvidia-driver-warning",
@@ -20518,7 +20501,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6058959/homer-simpson.0.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4",
       "threads_published_at": "2026-11-22T10:47:10.416232+00:00"
+    },
+    {
+      "fingerprint": "56bf3a0063323f2fb5c2ac8f",
+      "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+      "url": "https://eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-22T11:22:10+00:00",
+      "score": 15,
+      "event_key": "gta-6-player-psn-ban-nudist-photo",
+      "title_ru": "Игрок GTA 6 получил бан в PSN за внутриигровое фото из нудистского курорта",
+      "threads_teaser_ru": "Один из игроков Grand Theft Auto 6 получил 30-дневный бан в PSN за отправку другу внутриигрового фото из нудистского курорта через личные сообщения платформы.",
+      "telegram_message_id": "3087",
+      "telegram_url": "https://t.me/gamepulse_newss/3087",
+      "telegram_published_at": "2026-11-22T11:32:16.376670+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-sitting-together.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-22T10:47:10.416341+00:00"
+  "updated_at": "2026-11-22T11:32:16.376758+00:00"
 }
