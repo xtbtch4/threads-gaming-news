@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "beb20f934ff93400559f370e",
-      "title": "Nintendo Restocks Zelda 40th Anniversary Switch 2 Console",
-      "url": "https://polygon.com/zelda-40th-anniversary-switch-2-hardware-restock",
-      "source": "Polygon",
-      "published_at_source": "2026-10-29T16:24:04+00:00",
-      "score": 10,
-      "event_key": "nintendo_restocks_zelda_40th_anniversary_switch_2",
-      "title_ru": "Nintendo вновь пополнила запасы консоли Zelda 40th Anniversary Switch 2",
-      "threads_teaser_ru": "Nintendo попыталась удовлетворить высокий спрос и вернула в продажу лимитированную консоль Nintendo Switch 2 – The Legend of Zelda – 40th Anniversary Edition стоимостью $519.99. Тираж вновь раскупили за считанные минуты.",
-      "telegram_message_id": "1897",
-      "telegram_url": "https://t.me/gamepulse_newss/1897",
-      "telegram_published_at": "2026-10-29T16:47:13.973676+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-59-41-screenshot.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-29T16:47:16.451365+00:00"
-    },
-    {
       "fingerprint": "7cebfea30a25feecf6a3840a",
       "title": "The Elder Scrolls 6 Is Reportedly Subtitled 'Sentinel,' New Story Details Revealed Ahead of Rumored Announcement",
       "url": "https://ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T21:02:42.099418+00:00"
+    },
+    {
+      "fingerprint": "f7f2e089cf618c20879f9ce1",
+      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
+      "url": "https://polygon.com/gta-6-vice-city-boring",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T21:00:17+00:00",
+      "score": 12,
+      "event_key": "polygon author shares thoughts on grand theft auto 6 map and vice city",
+      "title_ru": "Vice City оказалась самой скучной частью карты Grand Theft Auto 6",
+      "threads_teaser_ru": "После 70 часов в Grand Theft Auto 6 автор Polygon пришел к неожиданному выводу: культовый город Vice City оказался наименее интересной частью огромного мира Leonida на фоне разнообразных провинций и дикой природы.",
+      "telegram_message_id": "3101",
+      "telegram_url": "https://t.me/gamepulse_newss/3101",
+      "telegram_published_at": "2026-11-22T21:32:27.346796+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-vice-city-skyline-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T21:02:42.099516+00:00"
+  "updated_at": "2026-11-22T21:32:27.346901+00:00"
 }
