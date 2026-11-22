@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8e890f82ba79183d9ef0f8c4",
-      "title": "Ubisoft Shares Cryptic Assassins Creed Codename Hexe Update",
-      "url": "https://ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T17:32:16+00:00",
-      "score": 15,
-      "event_key": "ubisoft_shares_cryptic_assassins_creed_codename_hexe_update",
-      "title_ru": "Ubisoft поделилась загадочным обновлением об Assassin's Creed Codename Hexe",
-      "threads_teaser_ru": "Ubisoft рассказала о разработке Assassin's Creed Codename Hexe и оставила в блоге загадочное зашифрованное послание для фанатов. Следующие крупные новости по игре появятся в 2027 году.",
-      "telegram_message_id": "1902",
-      "telegram_url": "https://t.me/gamepulse_newss/1902",
-      "telegram_published_at": "2026-10-29T18:02:50.666635+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/09/10/hexe-1662841484669.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T18:02:52.146817+00:00"
-    },
-    {
       "fingerprint": "2059e95479c86f4c58d096e9",
       "title": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
       "url": "https://rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/gta-6-console-blogroll-1795364248773.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T22:47:06.900214+00:00"
+    },
+    {
+      "fingerprint": "29907eb57c2ef0492fd89081",
+      "title": "Save $400 on Ecovacs' Flagship Robot Vacuum, the Deebot X12S OmniCyclone, for Black Friday",
+      "url": "https://ign.com/articles/ecovacs-deebot-x12s-omnicyclone-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T22:05:00+00:00",
+      "score": 9,
+      "event_key": "Ecovacs discounts Deebot X12S OmniCyclone for Black Friday",
+      "title_ru": "Ecovacs снизила цену на робот-пылесос Deebot X12S OmniCyclone в рамках Black Friday",
+      "threads_teaser_ru": "Компания Ecovacs предложила скидку 400 долларов на флагманский робот-пылесос Deebot X12S OmniCyclone в честь Black Friday. Устройство получило систему непрерывной очистки насадок и продвинутую станцию самообслуживания без сменных мешков.",
+      "telegram_message_id": "3106",
+      "telegram_url": "https://t.me/gamepulse_newss/3106",
+      "telegram_published_at": "2026-11-22T23:32:48.785084+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ecovacsdeebotx12s-1795213592517.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T22:47:06.900302+00:00"
+  "updated_at": "2026-11-22T23:32:48.785158+00:00"
 }
