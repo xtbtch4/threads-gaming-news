@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "11b6755c9c8bcfeee3100f83",
-      "title": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S",
-      "url": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-29T16:30:00+00:00",
-      "score": 14,
-      "event_key": "metro redux next gen update xbox series xs release",
-      "title_ru": "Вышло обновление METRO Redux для Xbox Series X|S",
-      "threads_teaser_ru": "Для Xbox Series X|S вышло бесплатное обновление METRO Redux, улучшающее графику, производительность и управление в METRO 2033 и Last Light Redux. Патч добавляет поддержку 4K, 120fps и тактильную отдачу контроллеров.",
-      "telegram_message_id": "1900",
-      "telegram_url": "https://t.me/gamepulse_newss/1900",
-      "telegram_published_at": "2026-10-29T17:32:48.163681+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-1-81be11dfea4d5d8f97e7.jpg",
-      "threads_published_at": "2026-10-29T17:32:49.664637+00:00"
-    },
-    {
       "fingerprint": "92a93d96e7ef74fb5e17008c",
       "title": "PlayStation Pulse Wireless Headset Is Up for Preorder for $99, and It’s Out the Same Day as GTA 6",
       "url": "https://ign.com/articles/playstation-pulse-wireless-headset-where-to-buy",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_bandito_lead.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T22:02:43.263651+00:00"
+    },
+    {
+      "fingerprint": "731713c12975af9867f0dc79",
+      "title": "American Psycho Reboot Is 'Not Happening,' Director Says",
+      "url": "https://polygon.com/american-psycho-reboot-movie-update-luca-guadagnino",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T18:09:46+00:00",
+      "score": 7,
+      "event_key": "Luca Guadagnino American Psycho reboot project canceled",
+      "title_ru": "Режиссер Luca Guadagnino опроверг работу над ремейком American Psycho",
+      "threads_teaser_ru": "Режиссер Luca Guadagnino официально подтвердил, что его работа над новой версией American Psycho отменена. Несмотря на готовый сценарий, проект не будет реализован. Также стало известно о судьбе его фильма по вселенной DC.",
+      "telegram_message_id": "3104",
+      "telegram_url": "https://t.me/gamepulse_newss/3104",
+      "telegram_published_at": "2026-11-22T22:17:17.834245+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25019298/american_psycho_bateman.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T22:02:43.263744+00:00"
+  "updated_at": "2026-11-22T22:17:17.834325+00:00"
 }
