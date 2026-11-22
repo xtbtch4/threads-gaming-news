@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "38b582d855d9234098e4b56b",
-      "title": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess",
-      "url": "https://rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-29T11:12:20+00:00",
-      "score": 14,
-      "event_key": "gta 6 smell reaction system revealed",
-      "title_ru": "В GTA 6 появится система реакции персонажей на запахи",
-      "threads_teaser_ru": "В GTA 6 будет система реакции персонажей на запахи: главные герои Lucia и Jason могут морщиться от неприятных ароматов в разных локациях открытого мира.",
-      "telegram_message_id": "1879",
-      "telegram_url": "https://t.me/gamepulse_newss/1879",
-      "telegram_published_at": "2026-10-29T11:17:17.434942+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-smell-reaction-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T11:17:18.833425+00:00"
-    },
-    {
       "fingerprint": "30357ced48e72d2ef68c6dec",
       "title": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments",
       "url": "https://eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/10/17/cosmererpg-review-thumb-1760726235430.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T08:02:49.432936+00:00"
+    },
+    {
+      "fingerprint": "232a8f62091369bd7a9fb4c7",
+      "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+      "url": "https://eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-22T10:00:10+00:00",
+      "score": 15,
+      "event_key": "grand theft auto online last ride community farewell before gta 6",
+      "title_ru": "Игроки устроили прощальный автопробег в Grand Theft Auto Online перед релизом GTA 6",
+      "threads_teaser_ru": "Сообщество Grand Theft Auto Online устроило масштабный прощальный автопробег Last Ride по всему Лос-Сантосу прямо перед релизом GTA 6, чтобы мирно проводить эпоху игры.",
+      "telegram_message_id": "3083",
+      "telegram_url": "https://t.me/gamepulse_newss/3083",
+      "telegram_published_at": "2026-11-22T10:02:20.649259+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-week-last-drive-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-22T08:02:49.433028+00:00"
+  "updated_at": "2026-11-22T10:02:20.649365+00:00"
 }
