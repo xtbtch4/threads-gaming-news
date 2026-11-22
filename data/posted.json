@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3899c93171e40b597bb1d1a1",
-      "title": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
-      "url": "https://eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-29T13:40:45+00:00",
-      "score": 13,
-      "event_key": "mouthwashing released on consoles and xbox game pass",
-      "title_ru": "Mouthwashing вышла на консолях и в Xbox Game Pass",
-      "threads_teaser_ru": "Признанный хоррор Mouthwashing от Wrong Organ стал доступен на консолях PS4, PS5, Switch и Xbox, а также пополнил каталог Xbox Game Pass. Ранее игра покорила ПК-игроков своей жуткой атмосферой и нелинейной историей.",
-      "telegram_message_id": "1887",
-      "telegram_url": "https://t.me/gamepulse_newss/1887",
-      "telegram_published_at": "2026-10-29T13:47:53.414346+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T13:47:54.959035+00:00"
-    },
-    {
       "fingerprint": "79952394663511b6cf2abd57",
       "title": "Dokapon Kingdom: Connect 2 | Official Announcement Trailer",
       "url": "https://gamespot.com/videos/dokapon-kingdom-connect-2-official-announcement-trailer",
@@ -20517,7 +20500,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_14-2.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T15:02:42.178554+00:00"
+    },
+    {
+      "fingerprint": "97b71e14cbe0b16aff374f99",
+      "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
+      "url": "https://polygon.com/gta-6-parody-binding-of-isaac-ai-use",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T15:29:47+00:00",
+      "score": 12,
+      "event_key": "binding-of-isaac-repentance-plus-ai-music-controversy",
+      "title_ru": "GTA 6-пародия в The Binding of Isaac использовала ИИ без ведома автора",
+      "threads_teaser_ru": "В свежем обновлении The Binding of Isaac: Repentance Plus обнаружили музыку, созданную с помощью нейросетей для пародии на GTA 6. Создатель игры Эдмунд Макмиллен заявил, что ничего об этом не знал.",
+      "telegram_message_id": "3091",
+      "telegram_url": "https://t.me/gamepulse_newss/3091",
+      "telegram_published_at": "2026-11-22T15:32:28.274159+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/binding-of-isaac-repentance-cropped-1.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-22T15:02:42.178633+00:00"
+  "updated_at": "2026-11-22T15:32:28.274255+00:00"
 }
