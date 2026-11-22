@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b5fb5e561ae99b6820e05b3a",
-      "title": "Some People Who Paid for WoW Forever Name Reservation Couldn't Reserve Their Name Due to a Weird Bug",
-      "url": "https://ign.com/articles/some-people-who-paid-for-wow-forever-name-reservation-couldnt-reserve-their-name-due-to-a-weird-bug",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T14:29:51+00:00",
-      "score": 11,
-      "event_key": "blizzard_fixed_wow_forever_name_reservation_bug",
-      "title_ru": "Проблема с бронированием имен в World of Warcraft Forever",
-      "threads_teaser_ru": "Игроки World of Warcraft Forever столкнулись с багом при бронировании имен из-за слишком строгого фильтра. В Blizzard заявили об исправлении ошибки.",
-      "telegram_message_id": "1896",
-      "telegram_url": "https://t.me/gamepulse_newss/1896",
-      "telegram_published_at": "2026-10-29T16:32:26.485442+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/worldofwarcraftforeverwarpathamvlaunchtrailer-ign-blogroll-1793224828816.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T16:32:27.972426+00:00"
-    },
-    {
       "fingerprint": "beb20f934ff93400559f370e",
       "title": "Nintendo Restocks Zelda 40th Anniversary Switch 2 Console",
       "url": "https://polygon.com/zelda-40th-anniversary-switch-2-hardware-restock",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason-gator.png?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T20:32:06.509464+00:00"
+    },
+    {
+      "fingerprint": "0ac8f0889aa06137e56fd8f5",
+      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+      "url": "https://ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T20:37:59+00:00",
+      "score": 13,
+      "event_key": "darts cut from gta 6 due to resource limits",
+      "title_ru": "Rockstar объяснила вырезку дартса из GTA 6",
+      "threads_teaser_ru": "Разработчики GTA 6 объяснили, почему фанатам не стоит ждать дартс и боулинг в игре. В Rockstar Games признались, что у команды просто не хватило ресурсов на качественную реализацию.",
+      "telegram_message_id": "3100",
+      "telegram_url": "https://t.me/gamepulse_newss/3100",
+      "telegram_published_at": "2026-11-22T21:02:40.736184+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T20:32:06.509552+00:00"
+  "updated_at": "2026-11-22T21:02:40.736296+00:00"
 }
