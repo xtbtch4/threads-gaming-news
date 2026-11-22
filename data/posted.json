@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "624da84cb204c2861c4a7593",
-      "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
-      "url": "https://eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-29T09:26:46+00:00",
-      "score": 13,
-      "event_key": "phantom-blade-zero-successful-steam-launch-sales",
-      "title_ru": "Phantom Blade Zero успешно стартовала на Steam",
-      "threads_teaser_ru": "Wuxia-экшен Phantom Blade Zero от S-Game успешно стартовал на релизе: пиковый онлайн в Steam превысил 431 тысячу игроков, а общие продажи игры, по оценкам аналитиков, перешагнули отметку в миллион копий.",
-      "telegram_message_id": "1876",
-      "telegram_url": "https://t.me/gamepulse_newss/1876",
-      "telegram_published_at": "2026-10-29T09:32:21.033213+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/phantom-blade-zero-hammer-attack-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T09:32:22.636443+00:00"
-    },
-    {
       "fingerprint": "11bf65841c9bd6932f193727",
       "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
       "url": "https://ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/m8dfrth_ec020.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T04:17:20.140003+00:00"
+    },
+    {
+      "fingerprint": "f4deebf60928d55e20d81f21",
+      "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+      "url": "https://ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+      "source": "IGN",
+      "published_at_source": "2026-11-20T15:30:00+00:00",
+      "score": 8,
+      "event_key": "GTA 6 launch triggers record traffic on Comcast network",
+      "title_ru": "Запуск GTA 6 вызвал рекордный рост интернет-трафика в сети Comcast",
+      "threads_teaser_ru": "Релиз GTA 6 стал самым масштабным событием в истории провайдера Comcast. 18 ноября нагрузка на сеть была настолько высока, что 24% всего интернет-трафика в пиковые часы пришлось исключительно на скачивание и запуск игры.",
+      "telegram_message_id": "3080",
+      "telegram_url": "https://t.me/gamepulse_newss/3080",
+      "telegram_published_at": "2026-11-22T05:16:59.121243+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/early-weapons1-1795092418085.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T04:17:20.140097+00:00"
+  "updated_at": "2026-11-22T05:16:59.121329+00:00"
 }
