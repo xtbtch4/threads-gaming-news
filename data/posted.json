@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "aded5db0a3739272baa81786",
-      "title": "Fatal Frame Transforms an Ordinary Hobby Into Bone-Chilling Horror",
-      "url": "https://polygon.com/fatal-frame-halloween-games",
-      "source": "Polygon",
-      "published_at_source": "2026-10-29T10:01:19+00:00",
-      "score": 8,
-      "event_key": "design philosophy and mechanics of Fatal Frame series",
-      "title_ru": "Особенности дизайна серии Fatal Frame: как хоррор заставляет игроков фотографировать призраков",
-      "threads_teaser_ru": "В серии Fatal Frame фотография стала способом борьбы с призраками. Создатель игры Макото Сибата сделал камеру не просто инструментом, а единственным средством защиты, которое заставляет игрока смотреть в глаза ужасу ради победы.",
-      "telegram_message_id": "1878",
-      "telegram_url": "https://t.me/gamepulse_newss/1878",
-      "telegram_published_at": "2026-10-29T10:32:32.271450+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fatalframe2_lead.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-29T10:32:33.823228+00:00"
-    },
-    {
       "fingerprint": "38b582d855d9234098e4b56b",
       "title": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess",
       "url": "https://rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/ign-headline-template-2026-9-2-1795323508266.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T06:03:03.027182+00:00"
+    },
+    {
+      "fingerprint": "92844ce3473f7bd7c3fa1ed4",
+      "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+      "url": "https://ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T07:23:48+00:00",
+      "score": 7,
+      "event_key": "cosmere rpg stormlight archive rulebook black friday discount",
+      "title_ru": "Основная книга правил The Cosmere RPG: The Stormlight Archive подешевела вдвое",
+      "threads_teaser_ru": "В честь «Черной пятницы» на Amazon на 50% упала цена на основную книгу правил для настольной ролевой игры The Cosmere RPG: The Stormlight Archive. Это самый низкий ценник с момента выхода проекта, который по своей сути близок к механикам Dungeons & Dragons.",
+      "telegram_message_id": "3082",
+      "telegram_url": "https://t.me/gamepulse_newss/3082",
+      "telegram_published_at": "2026-11-22T08:02:48.010982+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2025/10/17/cosmererpg-review-thumb-1760726235430.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T06:03:03.027268+00:00"
+  "updated_at": "2026-11-22T08:02:48.011086+00:00"
 }
