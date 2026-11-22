@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "41e0952955b8f9cc704ee8b5",
-      "title": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
-      "url": "https://eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-29T14:08:30+00:00",
-      "score": 15,
-      "event_key": "ea layoffs bioware studio closure employee morale report",
-      "title_ru": "Сотрудники EA рассказали об атмосфере страха и упадке морального духа после увольнений",
-      "threads_teaser_ru": "Сотрудники EA поделились подробностями о недавних увольнениях и закрытии BioWare. Они рассказали о закрытых звонках в Zoom для уведомления об уходе и атмосфере глубокого кризиса внутри компании.",
-      "telegram_message_id": "1889",
-      "telegram_url": "https://t.me/gamepulse_newss/1889",
-      "telegram_published_at": "2026-10-29T14:32:43.947979+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T14:32:45.464773+00:00"
-    },
-    {
       "fingerprint": "d896433335aac83f7a1005ed",
       "title": "The GTA 6: Original Score Has a Release Date and a Brand New Track You Can Listen to Right Now",
       "url": "https://ign.com/articles/the-gta-6-original-score-has-a-release-date-and-a-brand-new-track-you-can-listen-to-right-now",
@@ -20518,7 +20501,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-22T16:17:08.494150+00:00"
+    },
+    {
+      "fingerprint": "14935b22f31391e09ab9d7cb",
+      "title": "Christopher Nolan's The Odyssey Built a 36-Foot Cyclops Puppet and Hauled It Up a Mountain",
+      "url": "https://polygon.com/the-odyssey-cyclops-puppet-practical-effects",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T17:00:19+00:00",
+      "score": 10,
+      "event_key": "Christopher Nolan The Odyssey Cyclops puppet creation",
+      "title_ru": "Для фильма The Odyssey Кристофера Нолана создали 36-футовую марионетку циклопа",
+      "threads_teaser_ru": "Команда фильма The Odyssey Кристофера Нолана рассказала, как доставляла 36-футовую марионетку циклопа в горную пещеру. Из-за смены локации съемок авторам пришлось отказаться от сложной аниматроники в пользу упрощенной конструкции, которая реагировала на манипуляции как единое целое.",
+      "telegram_message_id": "3093",
+      "telegram_url": "https://t.me/gamepulse_newss/3093",
+      "telegram_published_at": "2026-11-22T17:03:14.392051+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cyclops.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/nolan_odyssey-1794858230.mp4"
     }
   ],
-  "updated_at": "2026-11-22T16:17:08.494237+00:00"
+  "updated_at": "2026-11-22T17:03:14.392146+00:00"
 }
