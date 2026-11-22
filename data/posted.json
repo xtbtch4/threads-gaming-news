@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6a332b2ab14ec0749a84a7b3",
-      "title": "New Updates Coming with Apex Legends™: Cipher",
-      "url": "https://ea.com/games/apex-legends/apex-legends/news/cipher-game-updates",
-      "source": "Respawn / Apex Legends",
-      "published_at_source": "2026-10-29T15:00:00+00:00",
-      "score": 11,
-      "event_key": "apex-legends-cipher-update-details-2026",
-      "title_ru": "Новые подробности об обновлениях в Apex Legends: Cipher",
-      "threads_teaser_ru": "В Apex Legends: Cipher игроков ждет переработка Crypto, парные револьверы Akimbo Wingman, опасные точки Strongholds с ценным лутом и бафы для Revenant и Lifeline.",
-      "telegram_message_id": "1895",
-      "telegram_url": "https://t.me/gamepulse_newss/1895",
-      "telegram_published_at": "2026-10-29T16:18:01.599713+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://drop-assets.ea.com/images/4JZSZYhNcauO6bysVQNEG7/e918ac130d826e30b96dbfc8295730e2/Apex_S31-Season_Crypto-Rewired-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.28020833333333334,yPosition=0.49537037037037035",
-      "threads_published_at": "2026-10-29T16:18:03.490572+00:00"
-    },
-    {
       "fingerprint": "b5fb5e561ae99b6820e05b3a",
       "title": "Some People Who Paid for WoW Forever Name Reservation Couldn't Reserve Their Name Due to a Weird Bug",
       "url": "https://ign.com/articles/some-people-who-paid-for-wow-forever-name-reservation-couldnt-reserve-their-name-due-to-a-weird-bug",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-22T19:47:32.133764+00:00"
+    },
+    {
+      "fingerprint": "435fe07e19c57ca5ba33f792",
+      "title": "GTA 6's T-shirts Are True Works of Art",
+      "url": "https://polygon.com/gta-6-t-shirts",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T20:30:17+00:00",
+      "score": 12,
+      "event_key": "fashion and t-shirts role in grand theft auto 6 gameplay",
+      "title_ru": "Дизайн одежды и коллекционирование футболок в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 одежда помогает скрываться от полиции: стражи порядка узнают игрока по наряду. Исследуя магазины и гаражные распродажи, можно собрать уникальную коллекцию футболок.",
+      "telegram_message_id": "3099",
+      "telegram_url": "https://t.me/gamepulse_newss/3099",
+      "telegram_published_at": "2026-11-22T20:32:05.108544+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason-gator.png?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T19:47:32.133853+00:00"
+  "updated_at": "2026-11-22T20:32:05.108625+00:00"
 }
