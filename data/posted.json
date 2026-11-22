@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "00e811e397940a48b8039c02",
-      "title": "Virtua Fighter Crossroads – Lionel Rafale Gameplay Reveal Trailer",
-      "url": "https://gamespot.com/videos/virtua-fighter-crossroads-lionel-rafale-gameplay-reveal-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-29T15:08:18+00:00",
-      "score": 13,
-      "event_key": "Lionel Rafale gameplay reveal trailer for Virtua Fighter Crossroads",
-      "title_ru": "Трейлер геймплея Lionel Rafale в Virtua Fighter Crossroads",
-      "threads_teaser_ru": "В свежем трейлере Virtua Fighter Crossroads представили нового персонажа — мастера боевых искусств по имени Lionel Rafale. Разработчики обещают, что это не ремейк, а полноценная эволюция серии с глубоким одиночным режимом.",
-      "telegram_message_id": "1893",
-      "telegram_url": "https://t.me/gamepulse_newss/1893",
-      "telegram_published_at": "2026-10-29T15:48:00.078038+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_59bde7.jpg?w=300",
-      "threads_published_at": "2026-10-29T15:48:01.755496+00:00"
-    },
-    {
       "fingerprint": "f369146fde9263caf5ee6a05",
       "title": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
       "url": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-22T18:47:11.694690+00:00"
+    },
+    {
+      "fingerprint": "7ce5456e7e0b2b3fff2a11ab",
+      "title": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
+      "url": "https://ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T18:15:04+00:00",
+      "score": 13,
+      "event_key": "rockstar explains inspirations for jason personality in gta 6",
+      "title_ru": "Rockstar рассказала об источниках вдохновения для характера Jason в GTA 6",
+      "threads_teaser_ru": "Разработчики из Rockstar Games рассказали, чем вдохновлялись при создании характера Jason для GTA 6. На образ протагониста повлияли фильмы со Стивом Маккуином и реальные военные.",
+      "telegram_message_id": "3097",
+      "telegram_url": "https://t.me/gamepulse_newss/3097",
+      "telegram_published_at": "2026-11-22T19:02:16.949858+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/22/jason-duval-gta-6-1795371162747.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T18:47:11.694781+00:00"
+  "updated_at": "2026-11-22T19:02:16.949961+00:00"
 }
