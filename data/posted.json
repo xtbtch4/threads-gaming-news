@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d862313583dc6079c96008a6",
-      "title": "Original GTA Artist Says He's 'Flattered' to See His Influence Continue in GTA 6 Cover Art",
-      "url": "https://ign.com/articles/original-gta-artist-says-hes-flattered-to-see-his-influence-continue-in-gta-6-cover-art",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T16:41:56+00:00",
-      "score": 15,
-      "event_key": "former rockstar artist stephen bliss discusses gta 6 cover art",
-      "title_ru": "Бывший художник Rockstar Games высказался об обложке GTA 6",
-      "threads_teaser_ru": "Бывший художник Rockstar Games Стивен Блисс оценил обложку GTA 6. Он признался, что польщен сохранением элементов, разработанных им много лет назад.",
-      "telegram_message_id": "1899",
-      "telegram_url": "https://t.me/gamepulse_newss/1899",
-      "telegram_published_at": "2026-10-29T17:17:32.940930+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/13/gta-3-cover-blog-1791888082659.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T17:17:34.414115+00:00"
-    },
-    {
       "fingerprint": "11b6755c9c8bcfeee3100f83",
       "title": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S",
       "url": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/21/gta-6-car-op-ed-blogroll-1795266423380.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T21:47:24.067102+00:00"
+    },
+    {
+      "fingerprint": "51f23c22ef932c7fae0f9021",
+      "title": "How to steal the BF Bandito in GTA 6",
+      "url": "https://polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T20:29:44+00:00",
+      "score": 7,
+      "event_key": "stealing BF Bandito vehicle for Moses in GTA 6",
+      "title_ru": "Гайд: как угнать BF Bandito в GTA 6 для Moses",
+      "threads_teaser_ru": "В GTA 6 появилась задача по угону внедорожника BF Bandito для персонажа по имени Moses. Машина ездит по трассе в Buckskin Swamp, и просто так её не забрать — разбираемся, как остановить транспорт и безопасно доставить его заказчику, получив награду в $3210.",
+      "telegram_message_id": "3103",
+      "telegram_url": "https://t.me/gamepulse_newss/3103",
+      "telegram_published_at": "2026-11-22T22:02:42.024560+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_bandito_lead.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T21:47:24.067187+00:00"
+  "updated_at": "2026-11-22T22:02:42.024656+00:00"
 }
