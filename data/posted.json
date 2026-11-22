@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "30357ced48e72d2ef68c6dec",
-      "title": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments",
-      "url": "https://eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-29T11:11:01+00:00",
-      "score": 11,
-      "event_key": "modern-warfare-4-itaewon-footage-backlash",
-      "title_ru": "Кадры давки в Итхэвоне в Modern Warfare 4 вызвали критику в Южной Корее",
-      "threads_teaser_ru": "Компания Activision подверглась критике в Южной Корее из-за использования реальных кадров давки в Итхэвоне во вступительных моментах игры Modern Warfare 4. Общественные организации требуют удалить материалы и принести извинения.",
-      "telegram_message_id": "1880",
-      "telegram_url": "https://t.me/gamepulse_newss/1880",
-      "telegram_published_at": "2026-10-29T11:32:19.266731+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T11:32:20.712591+00:00"
-    },
-    {
       "fingerprint": "92f526cf35c5a03b619a5c1a",
       "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
       "url": "https://eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-week-last-drive-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-22T10:02:22.222050+00:00"
+    },
+    {
+      "fingerprint": "b327dd4cddc37bacf6dc8af8",
+      "title": "I've never known a moment like this in video games",
+      "url": "https://eurogamer.net/gta-6-video-games-biggest-moment",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-22T01:00:00+00:00",
+      "score": 8,
+      "event_key": "GTA 6 historic record breaking launch statistics and impact",
+      "title_ru": "Масштаб запуска GTA 6: рекордные показатели и влияние на индустрию",
+      "threads_teaser_ru": "Запуск GTA 6 стал самым масштабным событием в истории медиа, обойдя по сборам в первый день даже Avengers: Endgame. Игра установила рекорды по просмотрам на стриминговых платформах и объемам интернет-трафика, а продажи за сутки составили 3,79 млрд долларов.",
+      "telegram_message_id": "3084",
+      "telegram_url": "https://t.me/gamepulse_newss/3084",
+      "telegram_published_at": "2026-11-22T10:17:03.810294+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-10.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-22T10:02:22.222154+00:00"
+  "updated_at": "2026-11-22T10:17:03.810373+00:00"
 }
