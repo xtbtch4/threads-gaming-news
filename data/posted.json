@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bfbebaee24ec0022b1c2fbf3",
-      "title": "GTA 6's Police Will Hunt You Down with Dogs",
-      "url": "https://polygon.com/grand-theft-auto-gta-6-rockstar-details-police-dogs-public-transportation-weather",
-      "source": "Polygon",
-      "published_at_source": "2026-10-29T11:55:20+00:00",
-      "score": 10,
-      "event_key": "GTA 6 police dog units and game world mechanics details",
-      "title_ru": "В GTA 6 полиция будет использовать служебных собак",
-      "threads_teaser_ru": "В Grand Theft Auto 6 полиция станет куда опаснее: правоохранители используют трекеры и камеры, чтобы выследить героев, а при задержании на помощь им придут служебные собаки. Также в игре появятся реалистичные маршруты общественного транспорта.",
-      "telegram_message_id": "1882",
-      "telegram_url": "https://t.me/gamepulse_newss/1882",
-      "telegram_published_at": "2026-10-29T12:17:28.952786+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-29T12:17:30.319577+00:00"
-    },
-    {
       "fingerprint": "1e93f24561ef89846a067605",
       "title": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
       "url": "https://rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
@@ -20517,7 +20500,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gideon-the-ninth.jpg?w=1200&h=675&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4",
       "threads_published_at": "2026-11-22T10:32:50.843401+00:00"
+    },
+    {
+      "fingerprint": "f84ada5b08ea23810768bdd6",
+      "title": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
+      "url": "https://polygon.com/the-simpsons-best-homer-quote",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T09:00:17+00:00",
+      "score": 5,
+      "event_key": "Homer Simpson best quote The Simpsons analysis",
+      "title_ru": "Лучшая цитата Гомера Симпсона по версии авторов The Simpsons",
+      "threads_teaser_ru": "В истории The Simpsons насчитываются сотни культовых фраз Гомера, но авторы сериала и критики часто выделяют одну конкретную цитату из 8-го сезона как самую правдивую и точную. Рассказываем, что это за фраза и почему ей отдали почетное место в финале эпизода.",
+      "telegram_message_id": "3086",
+      "telegram_url": "https://t.me/gamepulse_newss/3086",
+      "telegram_published_at": "2026-11-22T10:47:09.085366+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6058959/homer-simpson.0.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-22T10:32:50.843523+00:00"
+  "updated_at": "2026-11-22T10:47:09.085528+00:00"
 }
