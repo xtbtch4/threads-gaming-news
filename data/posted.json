@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a961a070f697deff0ac72f3c",
-      "title": "Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics",
-      "url": "https://ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-28T20:00:00+00:00",
-      "score": 10,
-      "event_key": "HP HyperX OMEN gaming laptop Walmart discount October 2026",
-      "title_ru": "Скидка $700 на игровой ноутбук HP HyperX OMEN с GeForce RTX 5060",
-      "threads_teaser_ru": "В Walmart снизили цену на игровой ноутбук HP HyperX OMEN: теперь модель с GeForce RTX 5060 (115W) и процессором AMD Ryzen 7 8745HX доступна за $1199. Устройство оснащено 15,3-дюймовым 2K-экраном на 165 Гц, 16 ГБ оперативной памяти и SSD на 1 ТБ.",
-      "telegram_message_id": "1874",
-      "telegram_url": "https://t.me/gamepulse_newss/1874",
-      "telegram_published_at": "2026-10-29T05:32:35.983469+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/22/hyperxomen15-1792697402545.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T05:32:37.542767+00:00"
-    },
-    {
       "fingerprint": "3565a1d3e6f1fd1877c3d737",
       "title": "Phantom Blade Zero: How boss weapons transform combat and exploration",
       "url": "https://blog.playstation.com/2026/10/28/phantom-blade-zero-how-boss-weapons-transform-combat-and-exploration",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/21/the-binding-of-isaac-repentance-ai-1795303836559.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T00:02:53.249958+00:00"
+    },
+    {
+      "fingerprint": "314097e79baa6e4d90cc0933",
+      "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+      "url": "https://polygon.com/kite-eating-tree-peanuts",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T03:00:28+00:00",
+      "score": 8,
+      "event_key": "history of the kite eating tree in peanuts",
+      "title_ru": "История Kite-Eating Tree из комиксов Peanuts",
+      "threads_teaser_ru": "В комиксах Peanuts у Чарли Брауна был необычный заклятый враг — дерево, которое питалось его воздушными змеями. Разбираемся, как возник этот персонаж и почему он стал героем сюжетов с участием EPA и пианино Шредера.",
+      "telegram_message_id": "3078",
+      "telegram_url": "https://t.me/gamepulse_newss/3078",
+      "telegram_published_at": "2026-11-22T03:02:37.264245+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T00:02:53.250043+00:00"
+  "updated_at": "2026-11-22T03:02:37.264324+00:00"
 }
