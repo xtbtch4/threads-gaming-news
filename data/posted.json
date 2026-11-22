@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "92f526cf35c5a03b619a5c1a",
-      "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
-      "url": "https://eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-29T11:59:54+00:00",
-      "score": 11,
-      "event_key": "world of warcraft housing cosmetics controversy kul tiran",
-      "title_ru": "Игроки World of Warcraft недовольны новыми предметами для жилья",
-      "threads_teaser_ru": "Игроки World of Warcraft критикуют Blizzard за новые наборы декора для жилья в стиле Kul Tiran. Сообщество считает это нарушением прежних обещаний не продавать расовые предметы в магазине.",
-      "telegram_message_id": "1881",
-      "telegram_url": "https://t.me/gamepulse_newss/1881",
-      "telegram_published_at": "2026-10-29T12:02:47.786816+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T12:02:49.239471+00:00"
-    },
-    {
       "fingerprint": "bfbebaee24ec0022b1c2fbf3",
       "title": "GTA 6's Police Will Hunt You Down with Dogs",
       "url": "https://polygon.com/grand-theft-auto-gta-6-rockstar-details-police-dogs-public-transportation-weather",
@@ -20516,7 +20499,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-10.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-22T10:17:05.140430+00:00"
+    },
+    {
+      "fingerprint": "bda43afeb7cf954fbc34580f",
+      "title": "8 Best Science Fantasy Books of the 21st Century",
+      "url": "https://polygon.com/best-science-fantasy-books-of-the-century",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T09:04:17+00:00",
+      "score": 5,
+      "event_key": "Polygon science fantasy books 21st century list release",
+      "title_ru": "Polygon представил подборку лучших книг в жанре «научное фэнтези» XXI века",
+      "threads_teaser_ru": "Polygon составил список лучших книг в жанре «научное фэнтези» XXI века. В подборку попали как громкие циклы вроде The Lunar Chronicles и Gideon the Ninth, так и популярная серия Dungeon Crawler Carl, по которой готовят адаптацию для стриминга.",
+      "telegram_message_id": "3085",
+      "telegram_url": "https://t.me/gamepulse_newss/3085",
+      "telegram_published_at": "2026-11-22T10:32:49.346907+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gideon-the-ninth.jpg?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-22T10:17:05.140519+00:00"
+  "updated_at": "2026-11-22T10:32:49.347018+00:00"
 }
