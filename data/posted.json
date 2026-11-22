@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "79952394663511b6cf2abd57",
-      "title": "Dokapon Kingdom: Connect 2 | Official Announcement Trailer",
-      "url": "https://gamespot.com/videos/dokapon-kingdom-connect-2-official-announcement-trailer",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-29T13:38:53+00:00",
-      "score": 15,
-      "event_key": "announcement of Dokapon Kingdom: Connect 2",
-      "title_ru": "Анонсирована Dokapon Kingdom: Connect 2",
-      "threads_teaser_ru": "Серия возвращается: анонсирована Dokapon Kingdom: Connect 2. В сиквеле появится кооператив против Giga Monsters, обновленная графика и новые классы персонажей. Игра выйдет летом 2027 года на Nintendo Switch, Nintendo Switch 2 и в Steam.",
-      "telegram_message_id": "1888",
-      "telegram_url": "https://t.me/gamepulse_newss/1888",
-      "telegram_published_at": "2026-10-29T14:03:42.358902+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/11_630a02.jpg?w=300",
-      "threads_published_at": "2026-10-29T14:03:43.943928+00:00"
-    },
-    {
       "fingerprint": "41e0952955b8f9cc704ee8b5",
       "title": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
       "url": "https://eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
@@ -20518,7 +20501,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/binding-of-isaac-repentance-cropped-1.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4",
       "threads_published_at": "2026-11-22T15:32:29.933122+00:00"
+    },
+    {
+      "fingerprint": "a52f40c9d9794686ff231f86",
+      "title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
+      "url": "https://eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-22T16:11:00+00:00",
+      "score": 15,
+      "event_key": "rockstar inspired jason personality steve mcqueen army rangers",
+      "title_ru": "Rockstar рассказала об источниках вдохновения для характера Джейсона в GTA 6",
+      "threads_teaser_ru": "Разработчики GTA 6 рассказали, почему Джейсон Дюваль так немногословен. Его образ создавался под влиянием Стива Маккуина и реальных армейских ветеранов.",
+      "telegram_message_id": "3092",
+      "telegram_url": "https://t.me/gamepulse_newss/3092",
+      "telegram_published_at": "2026-11-22T16:17:07.162203+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-22T15:32:29.933228+00:00"
+  "updated_at": "2026-11-22T16:17:07.162270+00:00"
 }
