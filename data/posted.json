@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f369146fde9263caf5ee6a05",
-      "title": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
-      "url": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-29T16:00:00+00:00",
-      "score": 12,
-      "event_key": "Titan Quest II XBOX Series X|S pre-order announcement",
-      "title_ru": "Titan Quest II выйдет на XBOX Series X|S в январе 2027 года",
-      "threads_teaser_ru": "Стартовали предзаказы на Titan Quest II для XBOX Series X|S. Полноценный релиз action RPG от THQ Nordic и Grimlore Games состоится 19 января 2027 года. Игрокам предстоит остановить богиню Немезиду, используя гибкую систему классов и глубокую кастомизацию навыков.",
-      "telegram_message_id": "1894",
-      "telegram_url": "https://t.me/gamepulse_newss/1894",
-      "telegram_published_at": "2026-10-29T16:03:09.075464+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image-0226cdae208fec3eaa6c.jpg",
-      "threads_published_at": "2026-10-29T16:03:10.648149+00:00"
-    },
-    {
       "fingerprint": "6a332b2ab14ec0749a84a7b3",
       "title": "New Updates Coming with Apex Legends™: Cipher",
       "url": "https://ea.com/games/apex-legends/apex-legends/news/cipher-game-updates",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/jason-duval-gta-6-1795371162747.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T19:02:18.168827+00:00"
+    },
+    {
+      "fingerprint": "0cbd2473e37335d809a581a3",
+      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
+      "url": "https://polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T19:32:30+00:00",
+      "score": 10,
+      "event_key": "Amber Wallin reveals secret role as GTA 6 voice actor",
+      "title_ru": "Актриса озвучки GTA 6 два года скрывала свою работу от мужа",
+      "threads_teaser_ru": "Комик Эмбер Уоллин два года скрывала от собственного мужа, что озвучила нескольких NPC в GTA 6. Узнал он об этом только после релиза игры — и реакция была запечатлена на видео, которое пара выложила в соцсети.",
+      "telegram_message_id": "3098",
+      "telegram_url": "https://t.me/gamepulse_newss/3098",
+      "telegram_published_at": "2026-11-22T19:47:30.903264+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T19:02:18.168925+00:00"
+  "updated_at": "2026-11-22T19:47:30.903332+00:00"
 }
