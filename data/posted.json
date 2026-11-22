@@ -20513,9 +20513,10 @@
       "telegram_message_id": "3084",
       "telegram_url": "https://t.me/gamepulse_newss/3084",
       "telegram_published_at": "2026-11-22T10:17:03.810294+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-10.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-10.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-22T10:17:05.140430+00:00"
     }
   ],
-  "updated_at": "2026-11-22T10:17:03.810373+00:00"
+  "updated_at": "2026-11-22T10:17:05.140519+00:00"
 }
