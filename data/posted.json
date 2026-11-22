@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7ad91131aa4b01b919252b64",
-      "title": "Free Play Days – WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea, and EVERSPACE 2",
-      "url": "https://news.xbox.com/en-us/2026/10/29/free-play-days-10-29-2026",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-29T15:00:00+00:00",
-      "score": 16,
-      "event_key": "xbox_free_play_days_october_november_2026",
-      "title_ru": "Новая подборка игр в рамках Free Play Days на Xbox",
-      "threads_teaser_ru": "Новая акция Free Play Days предлагает подписчикам Xbox Game Pass опробовать WUCHANG: Fallen Feathers, Darkwood, Spirittea и EVERSPACE 2, а Dead by Daylight доступна вообще всем владельцам консолей Xbox.",
-      "telegram_message_id": "1891",
-      "telegram_url": "https://t.me/gamepulse_newss/1891",
-      "telegram_published_at": "2026-10-29T15:02:57.380804+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_29.10.26_1920x1080-d80c149b51007d843111.jpg",
-      "threads_published_at": "2026-10-29T15:02:59.046052+00:00"
-    },
-    {
       "fingerprint": "eb5dc04314fc47fec65215b1",
       "title": "FromSoftware's Nintendo Switch 2 Exclusive The Duskbloods Officially Delayed Into 2027",
       "url": "https://ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027",
@@ -20520,7 +20503,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4",
       "threads_published_at": "2026-11-22T17:17:16.005163+00:00"
+    },
+    {
+      "fingerprint": "745d52e184c28da6a6b78266",
+      "title": "Six Years Too Late, Next-Gen Finally Arrives with GTA 6",
+      "url": "https://polygon.com/patch-notes-gta-6-next-gen",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T18:00:18+00:00",
+      "score": 11,
+      "event_key": "gta-6-next-gen-consoles-release-polygon",
+      "title_ru": "GTA 6 и новое поколение консолей",
+      "threads_teaser_ru": "Grand Theft Auto 6 стала главным технологическим скачком для текущего поколения консолей PS5 и Xbox Series X, заставив многих игроков наконец обновить железоспустя шесть лет.",
+      "telegram_message_id": "3095",
+      "telegram_url": "https://t.me/gamepulse_newss/3095",
+      "telegram_published_at": "2026-11-22T18:02:45.185713+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_13-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-22T17:17:16.005281+00:00"
+  "updated_at": "2026-11-22T18:02:45.185813+00:00"
 }
