@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "11bf65841c9bd6932f193727",
-      "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
-      "url": "https://ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T09:40:44+00:00",
-      "score": 13,
-      "event_key": "gta 6 gameplay footage premieres in south park",
-      "title_ru": "Кадры игрового процесса GTA 6 неожиданно показали в South Park",
-      "threads_teaser_ru": "В новом эпизоде South Park показали почти 20 секунд эксклюзивного игрового процесса GTA 6. В центре внимания оказалась необычная механика с собачьими фекалиями.",
-      "telegram_message_id": "1877",
-      "telegram_url": "https://t.me/gamepulse_newss/1877",
-      "telegram_published_at": "2026-10-29T10:02:33.066178+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T10:02:34.682724+00:00"
-    },
-    {
       "fingerprint": "aded5db0a3739272baa81786",
       "title": "Fatal Frame Transforms an Ordinary Hobby Into Bone-Chilling Horror",
       "url": "https://polygon.com/fatal-frame-halloween-games",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/19/early-weapons1-1795092418085.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-22T05:17:00.378994+00:00"
+    },
+    {
+      "fingerprint": "02fd05d0c4af8e5bc0109c52",
+      "title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
+      "url": "https://ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T05:08:36+00:00",
+      "score": 7,
+      "event_key": "Piranha Plant slippers Amazon Black Friday sale discount",
+      "title_ru": "Тапочки в стиле Piranha Plant из Super Mario участвуют в распродаже Amazon Black Friday",
+      "threads_teaser_ru": "Тапочки в стиле Piranha Plant из Super Mario продаются со скидкой на Amazon в рамках Black Friday. Их главная особенность — они превращаются в декоративную фигурку, если поставить их в специальную подставку-трубу. Важный нюанс: модель доступна только в одном размере.",
+      "telegram_message_id": "3081",
+      "telegram_url": "https://t.me/gamepulse_newss/3081",
+      "telegram_published_at": "2026-11-22T06:03:01.596033+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/22/ign-headline-template-2026-9-2-1795323508266.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T05:17:00.379087+00:00"
+  "updated_at": "2026-11-22T06:03:01.596121+00:00"
 }
