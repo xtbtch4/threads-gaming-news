@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d5875b9a72cb47e08e907567",
-      "title": "Ubisoft Is Pumping The Brakes On Assassin’s Creed Remakes For Now",
-      "url": "https://gamespot.com/articles/ubisoft-is-pumping-the-brakes-on-assassins-creed-remakes-for-now",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-29T18:00:48+00:00",
-      "score": 12,
-      "event_key": "ubisoft pause development of new assassin creed remakes",
-      "title_ru": "Ubisoft временно отказалась от разработки новых ремейков Assassin's Creed",
-      "threads_teaser_ru": "Ubisoft официально подтвердила, что сейчас не работает над новыми ремейками Assassin's Creed, сосредоточившись на будущих главах серии. Стали известны планы по развитию Codename Hexe и Codename Invictus, а также детали крупных обновлений для Assassin's Creed Black Flag Resynced и Assassin's Creed Valhalla.",
-      "telegram_message_id": "1908",
-      "telegram_url": "https://t.me/gamepulse_newss/1908",
-      "telegram_published_at": "2026-10-29T20:03:22.154428+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/07/Black-Flag-Resynced.jpg?w=300",
-      "threads_published_at": "2026-10-29T20:03:23.404201+00:00"
-    },
-    {
       "fingerprint": "36b0cb4137046d01802a62cf",
       "title": "Raiders of the North for Age of Empires IV is Available Now",
       "url": "https://news.xbox.com/en-us/2026/10/29/raiders-of-the-north-for-age-of-empires-iv-is-available-now",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/3-for-2-1795379206673.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-23T01:03:58.118008+00:00"
+    },
+    {
+      "fingerprint": "8a8665cdcdbe1d329d05e3ab",
+      "title": "The Bose QuietComfort Noise Canceling Headphone in Petal Pink Drop to a Mere $125 for Black Friday",
+      "url": "https://ign.com/articles/pink-bose-quietcomfort-noise-canceling-headphone-deal-november-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T22:45:00+00:00",
+      "score": 11,
+      "event_key": "bose quietcomfort price drop amazon black friday 2026",
+      "title_ru": "Наушники Bose QuietComfort подешевели до $125 на Amazon",
+      "threads_teaser_ru": "Беспроводные наушники Bose QuietComfort в расцветке Petal Pink упали в цене до $124.88 на Amazon в рамках распродажи Black Friday. Это рекордно низкая стоимость для новых устройств.",
+      "telegram_message_id": "3112",
+      "telegram_url": "https://t.me/gamepulse_newss/3112",
+      "telegram_published_at": "2026-11-23T01:16:54.137658+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/22/bosequietcomfortpink-1795387147603.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-23T01:03:58.118103+00:00"
+  "updated_at": "2026-11-23T01:16:54.137736+00:00"
 }
