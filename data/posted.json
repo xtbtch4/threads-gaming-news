@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e00834f5ff128419d846f8e5",
-      "title": "WoW: Forever Won’t Have Dead Servers",
-      "url": "https://gamespot.com/articles/wow-forever-wont-have-dead-servers",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-29T11:53:00+00:00",
-      "score": 9,
-      "event_key": "blizzard prevents dead servers in World of Warcraft Forever",
-      "title_ru": "Blizzard предотвратит появление «мертвых» серверов в World of Warcraft: Forever",
-      "threads_teaser_ru": "Blizzard анонсировала меры по борьбе с «мертвыми» серверами в World of Warcraft: Forever. Разработчики планируют использовать специальные инструменты, чтобы избежать проблем, с которыми столкнулись игроки в WoW Classic.",
-      "telegram_message_id": "1922",
-      "telegram_url": "https://t.me/gamepulse_newss/1922",
-      "telegram_published_at": "2026-10-30T04:17:22.703803+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-30T04:17:24.187298+00:00"
-    },
-    {
       "fingerprint": "8df7b7bfcebecea434165fa1",
       "title": "Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86",
       "url": "https://ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Warhammer-40%2C000_-Dawn-of-War-4---Official-Announcement-Trailer-_-gamescom-2025-0-16-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-23T18:03:05.128394+00:00"
+    },
+    {
+      "fingerprint": "fa557fbb9c60b34b79c8cb2f",
+      "title": "Poker Face Fans Get Devastating Official Update",
+      "url": "https://polygon.com/poker-face-tv-show-reboot-dead-rian-johnson",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T17:20:21+00:00",
+      "score": 14,
+      "event_key": "poker face reboot cancelled by rian johnson",
+      "title_ru": "Запланированный перезапуск Poker Face отменен",
+      "threads_teaser_ru": "Стало известно, что запланированный перезапуск сериала Poker Face с Питером Динклэйджем в главной роли больше не находится в разработке. Создатель шоу Райан Джонсон рассказал о судьбе проекта.",
+      "telegram_message_id": "3126",
+      "telegram_url": "https://t.me/gamepulse_newss/3126",
+      "telegram_published_at": "2026-11-23T18:16:54.163312+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/poker-face-natasha-lyonne.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-23T18:03:05.128475+00:00"
+  "updated_at": "2026-11-23T18:16:54.163391+00:00"
 }
