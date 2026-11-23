@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "664f9e9524160a09442fc8cc",
-      "title": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series",
-      "url": "https://rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-29T18:42:15+00:00",
-      "score": 14,
-      "event_key": "bungie-destiny-2-campaign-unvaulting-2028",
-      "title_ru": "Bungie планирует вернуть удаленные кампании в Destiny 2 к 2028 году",
-      "threads_teaser_ru": "Bungie рассказала о планах по возвращению удаленных кампаний в Destiny 2. Процесс может занять около года после начала полноценного производства в 2027 году, поэтому контент стоит ждать не раньше 2028-го.",
-      "telegram_message_id": "1905",
-      "telegram_url": "https://t.me/gamepulse_newss/1905",
-      "telegram_published_at": "2026-10-29T18:47:14.582840+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/destiny-2-final-shape-dread-enemies.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-29T18:47:16.002725+00:00"
-    },
-    {
       "fingerprint": "54e2ee3e74d0a14064f4b4a6",
       "title": "Assassin's Creed Valhalla is Getting New Game+ Six Years After Release",
       "url": "https://ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/gta-6-memorial-1795389611043.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-23T00:02:29.744511+00:00"
+    },
+    {
+      "fingerprint": "54c39123701d5268d03edab1",
+      "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
+      "url": "https://polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot",
+      "source": "Polygon",
+      "published_at_source": "2026-11-22T18:05:11+00:00",
+      "score": 6,
+      "event_key": "GTA 6 Hell event guide and boss fight walkthrough",
+      "title_ru": "В GTA 6 нашли секретное событие с демонами и уникальным оружием",
+      "threads_teaser_ru": "В GTA 6 можно устроить настоящий «адский» рейд. Рассказываем, где найти персонажей Dave и Beelzebub, как активировать секретный ритуал после 22:00 и за что дают уникальное оружие Hellspawn Comshot.",
+      "telegram_message_id": "3109",
+      "telegram_url": "https://t.me/gamepulse_newss/3109",
+      "telegram_published_at": "2026-11-23T00:17:37.209572+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_hellevent_lead2.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-23T00:02:29.744593+00:00"
+  "updated_at": "2026-11-23T00:17:37.209674+00:00"
 }
