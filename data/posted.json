@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e39529e10c4eb0d0ae7546e0",
-      "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania",
-      "url": "https://ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T21:57:00+00:00",
-      "score": 10,
-      "event_key": "Bethesda pays tribute to actor Patrick Stewart after his death",
-      "title_ru": "Bethesda почтила память Patrick Stewart, сыгравшего в The Elder Scrolls 4: Oblivion",
-      "threads_teaser_ru": "Скончался актер Patrick Stewart, известный в игровом сообществе по роли императора Uriel Septim VII в The Elder Scrolls 4: Oblivion. Разработчики Bethesda почтили его память, вспомнив, как серьезно актер подошел к работе над персонажем, несмотря на небольшое экранное время.",
-      "telegram_message_id": "1916",
-      "telegram_url": "https://t.me/gamepulse_newss/1916",
-      "telegram_published_at": "2026-10-30T02:32:26.962354+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/hv06502wmaayufx-1793310464924.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T02:32:28.304350+00:00"
-    },
-    {
       "fingerprint": "eff6ba0deae0a868d585cb23",
       "title": "Hit Indie Horror Game Mouthwashing is Getting a Live-Action Movie From the Director of Jennifer's Body",
       "url": "https://ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-23T11:02:31.934563+00:00"
+    },
+    {
+      "fingerprint": "547a46bfa5f48d31df29903e",
+      "title": "The Best Car To Register First In GTA 6",
+      "url": "https://gamespot.com/articles/gta-6-best-car-moses-registration",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T10:51:25+00:00",
+      "score": 9,
+      "event_key": "moses_first_car_registration_gta_6",
+      "title_ru": "Какую машину лучше зарегистрировать первой у Moses в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 персонаж Moses позволяет бесплатно зарегистрировать первую угнанную машину для Lucia. Журналисты рассказали, какую модель выгоднее всего выбрать и где ее найти.",
+      "telegram_message_id": "3120",
+      "telegram_url": "https://t.me/gamepulse_newss/3120",
+      "telegram_published_at": "2026-11-23T11:16:54.962842+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-best-car-moses-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-23T11:02:31.934654+00:00"
+  "updated_at": "2026-11-23T11:16:54.962932+00:00"
 }
