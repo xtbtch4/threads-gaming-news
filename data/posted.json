@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eff6ba0deae0a868d585cb23",
-      "title": "Hit Indie Horror Game Mouthwashing is Getting a Live-Action Movie From the Director of Jennifer's Body",
-      "url": "https://ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T21:18:43+00:00",
-      "score": 10,
-      "event_key": "Mouthwashing horror game gets live action movie adaptation",
-      "title_ru": "Инди-хоррор Mouthwashing получит экранизацию от режиссера Jennifer's Body",
-      "threads_teaser_ru": "Популярный инди-хоррор Mouthwashing получит полнометражную экранизацию от режиссера Карин Кусамы. Продюсированием ленты займется Скотт Дерриксон, а сценарий напишут авторы фильма The Invitation. В тот же день игра официально вышла на консолях.",
-      "telegram_message_id": "1917",
-      "telegram_url": "https://t.me/gamepulse_newss/1917",
-      "telegram_published_at": "2026-10-30T02:47:23.967816+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/mouthwashingthumb-1793305960020.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T02:47:25.532961+00:00"
-    },
-    {
       "fingerprint": "4201417b79c3779ec479901a",
       "title": "Death Stranding Isolations Anime Gets First Trailer",
       "url": "https://ign.com/articles/death-stranding-isolations-anime-gets-first-trailer",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-best-car-moses-.jpg?w=300",
       "threads_published_at": "2026-11-23T11:16:56.324839+00:00"
+    },
+    {
+      "fingerprint": "ddda110209e5ef9fd11cb1bf",
+      "title": "How To Complete All Moses Missions In GTA 6",
+      "url": "https://gamespot.com/articles/how-to-complete-all-moses-missions-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T10:44:36+00:00",
+      "score": 7,
+      "event_key": "completing moses missions in grand theft auto 6 guide",
+      "title_ru": "Гайд по заданиям персонажа Moses в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 можно заработать на угоне автомобилей для персонажа по имени Moses. Собрали основные советы по прохождению его миссий: от поиска специфических целей до получения уникального бонуса в виде спорткара Emperor Sultan.",
+      "telegram_message_id": "3121",
+      "telegram_url": "https://t.me/gamepulse_newss/3121",
+      "telegram_published_at": "2026-11-23T11:32:42.374488+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-moses-missions-cars-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-23T11:16:56.324927+00:00"
+  "updated_at": "2026-11-23T11:32:42.374574+00:00"
 }
