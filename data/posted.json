@@ -20518,9 +20518,10 @@
       "telegram_message_id": "3109",
       "telegram_url": "https://t.me/gamepulse_newss/3109",
       "telegram_published_at": "2026-11-23T00:17:37.209572+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_hellevent_lead2.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_hellevent_lead2.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-23T00:17:38.573624+00:00"
     }
   ],
-  "updated_at": "2026-11-23T00:17:37.209674+00:00"
+  "updated_at": "2026-11-23T00:17:38.573692+00:00"
 }
