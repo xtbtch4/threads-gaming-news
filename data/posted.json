@@ -20518,9 +20518,10 @@
       "telegram_message_id": "3134",
       "telegram_url": "https://t.me/gamepulse_newss/3134",
       "telegram_published_at": "2026-11-23T23:47:15.233750+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300",
+      "threads_published_at": "2026-11-23T23:47:16.562100+00:00"
     }
   ],
-  "updated_at": "2026-11-23T23:47:15.233856+00:00"
+  "updated_at": "2026-11-23T23:47:16.562212+00:00"
 }
