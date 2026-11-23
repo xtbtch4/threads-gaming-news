@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "21fa75cf137603680a1fb9b8",
-      "title": "Official The Elder Scrolls 6 Announcement Imminent, Report Says",
-      "url": "https://polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda",
-      "source": "Polygon",
-      "published_at_source": "2026-10-29T21:14:52+00:00",
-      "score": 14,
-      "event_key": "Bethesda likely announcing The Elder Scrolls 6 title in November",
-      "title_ru": "Bethesda может раскрыть название The Elder Scrolls 6 в ноябре",
-      "threads_teaser_ru": "Похоже, ожидание фанатов The Elder Scrolls 6 подходит к концу. Появились слухи, что Bethesda готовится раскрыть название следующей части к 15-летию Skyrim. Сообщается, что игра получит подзаголовок Sentinel, а её действие перенесет игроков в регион Hammerfell.",
-      "telegram_message_id": "1913",
-      "telegram_url": "https://t.me/gamepulse_newss/1913",
-      "telegram_published_at": "2026-10-30T00:02:37.949050+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/elder-scrolls-online-skyrim-update-1.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-30T00:02:39.288348+00:00"
-    },
-    {
       "fingerprint": "29a94acf565d231dec01fae0",
       "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
       "url": "https://ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-roofrepair-blogroll-1795414510325.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-23T07:02:42.425572+00:00"
+    },
+    {
+      "fingerprint": "38b80a64f53f64fb2b0f0bd6",
+      "title": "Naughty Dog Dev: GTA 6 Appears to Him as ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+      "url": "https://ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+      "source": "IGN",
+      "published_at_source": "2026-11-23T07:58:42+00:00",
+      "score": 11,
+      "event_key": "developers-stunned-by-gta-6-technical-achievement",
+      "title_ru": "Разработчики из разных студий поражены технологическим уровнем GTA 6",
+      "threads_teaser_ru": "Разработчики из Naughty Dog, Payday 2 и других студий поделились впечатлениями от релиза GTA 6. Опытные создатели игр признались, что поражены технологическим уровнем и масштабом проекта.",
+      "telegram_message_id": "3117",
+      "telegram_url": "https://t.me/gamepulse_newss/3117",
+      "telegram_published_at": "2026-11-23T08:02:29.542596+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-23T07:02:42.425661+00:00"
+  "updated_at": "2026-11-23T08:02:29.542681+00:00"
 }
