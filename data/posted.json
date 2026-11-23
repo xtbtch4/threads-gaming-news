@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1c0a16abc865f8d70ad27936",
-      "title": "Forza Motorsport Director and Turn 10 Boss Dan Greenawalt Retiring From Microsoft After 27 Years",
-      "url": "https://ign.com/articles/forza-motorsport-director-and-turn-10-boss-dan-greenawalt-retiring-from-microsoft-after-27-years",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T17:22:00+00:00",
-      "score": 13,
-      "event_key": "Dan Greenawalt retiring from Turn 10 Studios and Microsoft",
-      "title_ru": "Дэн Гринауолт покидает Microsoft после 27 лет работы",
-      "threads_teaser_ru": "Основатель Turn 10 Studios и ветеран Microsoft Дэн Гринауолт объявил об уходе из компании спустя 27 лет. Он руководил развитием восьми частей Forza Motorsport и стоял у истоков игровой франшизы, но теперь его студия переходит в режим поддержки Forza Horizon.",
-      "telegram_message_id": "1904",
-      "telegram_url": "https://t.me/gamepulse_newss/1904",
-      "telegram_published_at": "2026-10-29T18:33:00.035751+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/forzamotorsport-2023-blog-1696401871647-1793294503886.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T18:33:01.554229+00:00"
-    },
-    {
       "fingerprint": "664f9e9524160a09442fc8cc",
       "title": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series",
       "url": "https://rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
@@ -20521,7 +20504,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25325704/dragon_quest_slime_green.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/07/dragon-quest-vii-reimagined-launch-trailer-ps5-games-1783011809.mp4",
       "threads_published_at": "2026-11-22T23:47:22.102569+00:00"
+    },
+    {
+      "fingerprint": "91816613d5322df1641a6def",
+      "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+      "url": "https://ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
+      "source": "IGN",
+      "published_at_source": "2026-11-22T23:23:53+00:00",
+      "score": 9,
+      "event_key": "gta-6-developers-in-game-memorial-loved-ones",
+      "title_ru": "Разработчик GTA 6 почтил память матери внутриигровым мемориалом",
+      "threads_teaser_ru": "В GTA 6 обнаружили трогательный мемориал в регионе Leonida: разработчики Rockstar Games увековечили там память своих ушедших близких, включая мать Matt Green и родственников Terrance Radcliff.",
+      "telegram_message_id": "3108",
+      "telegram_url": "https://t.me/gamepulse_newss/3108",
+      "telegram_published_at": "2026-11-23T00:02:28.475133+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/22/gta-6-memorial-1795389611043.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-22T23:47:22.102674+00:00"
+  "updated_at": "2026-11-23T00:02:28.475227+00:00"
 }
