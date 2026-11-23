@@ -20518,9 +20518,10 @@
       "telegram_message_id": "3116",
       "telegram_url": "https://t.me/gamepulse_newss/3116",
       "telegram_published_at": "2026-11-23T07:02:40.906136+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-roofrepair-blogroll-1795414510325.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-roofrepair-blogroll-1795414510325.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-23T07:02:42.425572+00:00"
     }
   ],
-  "updated_at": "2026-11-23T07:02:40.906230+00:00"
+  "updated_at": "2026-11-23T07:02:42.425661+00:00"
 }
