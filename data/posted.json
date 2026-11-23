@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4201417b79c3779ec479901a",
-      "title": "Death Stranding Isolations Anime Gets First Trailer",
-      "url": "https://ign.com/articles/death-stranding-isolations-anime-gets-first-trailer",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T02:51:05+00:00",
-      "score": 15,
-      "event_key": "death stranding isolations anime first trailer disney plus 2027",
-      "title_ru": "Вышел первый трейлер аниме Death Stranding Isolations",
-      "threads_teaser_ru": "Kojima Productions показала первый трейлер анимационного сериала Death Stranding Isolations. Премьера шоу состоится эксклюзивно на Disney+ в 2027 году.",
-      "telegram_message_id": "1918",
-      "telegram_url": "https://t.me/gamepulse_newss/1918",
-      "telegram_published_at": "2026-10-30T03:02:42.954380+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/death-stranding-isolation-new-trailer-1793328613695.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T03:02:44.272252+00:00"
-    },
-    {
       "fingerprint": "0e15a86d654fce2b8baac6d8",
       "title": "Indian Video Game Market Generated US$1.04 Billion in Revenue in 2025: Report",
       "url": "https://in.ign.com/ign-misc/275637/indian-video-game-market-generated-us104-billion-in-revenue-in-2025-report",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-moses-missions-cars-.jpg?w=300",
       "threads_published_at": "2026-11-23T11:32:43.842128+00:00"
+    },
+    {
+      "fingerprint": "b861d206f8abc0ac7686b487",
+      "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
+      "url": "https://gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T12:32:22+00:00",
+      "score": 12,
+      "event_key": "GTA 6 chapter 2 checklist before moving to Vice City",
+      "title_ru": "Что нужно успеть сделать во второй главе GTA 6 перед переездом в Vice City",
+      "threads_teaser_ru": "Во второй главе GTA 6 есть «точка невозврата» — миссия «Checking Out». Прежде чем Джейсон и Люсия отправятся в Vice City, стоит разобраться с долгами в мотеле, найти пропавших туристов и собрать коллекционные предметы, которые после переезда станут недоступны.",
+      "telegram_message_id": "3122",
+      "telegram_url": "https://t.me/gamepulse_newss/3122",
+      "telegram_published_at": "2026-11-23T13:02:46.009262+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7-2.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-23T11:32:43.842215+00:00"
+  "updated_at": "2026-11-23T13:02:46.009348+00:00"
 }
