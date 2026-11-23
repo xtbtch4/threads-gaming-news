@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1d2960d4eec67ff85564427d",
-      "title": "Frank Miller Teases Sin City Future and Finally Drawing Teenage Mutant Ninja Turtles",
-      "url": "https://ign.com/articles/frank-miller-teases-sin-city-future-and-finally-drawing-teenage-mutant-ninja-turtles",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T18:43:49+00:00",
-      "score": 7,
-      "event_key": "Frank Miller updates on Sin City and Teenage Mutant Ninja Turtles",
-      "title_ru": "Frank Miller рассказал о будущем Sin City и работе над Teenage Mutant Ninja Turtles",
-      "threads_teaser_ru": "Frank Miller раскрыл подробности работы над вестерн-приквелом Sin City: Blood & Dust, поделился деталями создания своего sci-fi комикса Invasive Species и рассказал о первом официальном опыте рисования Teenage Mutant Ninja Turtles для выпуска #300.",
-      "telegram_message_id": "1929",
-      "telegram_url": "https://t.me/gamepulse_newss/1929",
-      "telegram_published_at": "2026-10-30T07:47:30.583525+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/29/mixcollage-29-oct-2026-01-33-pm-3295-1793295792638.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T07:47:32.157956+00:00"
-    },
-    {
       "fingerprint": "b9767b9fbefc222cba43f519",
       "title": "John Romero's Next Shooter Survived the Microsoft Purge, Now He's Taking Inspiration From The Legend of Zelda: Breath of the Wild",
       "url": "https://ign.com/articles/john-romeros-next-shooter-survived-the-microsoft-purge-now-hes-taking-inspiration-from-the-legend-of-zelda-breath-of-the-wild",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Escape-the-Baby-Alarm-brain-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-23T22:47:08.388964+00:00"
+    },
+    {
+      "fingerprint": "f9d6912a0cd21a6265cfeb94",
+      "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
+      "url": "https://polygon.com/gta-6-vicki-chapter-2-girls-trip",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T21:29:19+00:00",
+      "score": 12,
+      "event_key": "Grand Theft Auto 6 players obsess over new character Vicki",
+      "title_ru": "Игроки в Grand Theft Auto 6 переключили внимание с Мэнди на Вики",
+      "threads_teaser_ru": "Похоже, в Grand Theft Auto 6 сменилась любимица игроков. Фанаты, которые на старте были одержимы соседкой Джейсона по имени Мэнди, теперь массово обсуждают Вики из второй главы. Рассказываем, чем именно она покорила сообщество и кто подарил ей голос.",
+      "telegram_message_id": "3133",
+      "telegram_url": "https://t.me/gamepulse_newss/3133",
+      "telegram_published_at": "2026-11-23T23:32:54.623499+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia_caminos_06.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-23T22:47:08.389051+00:00"
+  "updated_at": "2026-11-23T23:32:54.623592+00:00"
 }
