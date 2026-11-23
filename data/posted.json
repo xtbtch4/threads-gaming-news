@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "29a94acf565d231dec01fae0",
-      "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
-      "url": "https://ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T23:13:44+00:00",
-      "score": 13,
-      "event_key": "Gears of War E-Day sales report Xbox Game Pass impact",
-      "title_ru": "Gears of War: E-Day разошлась тиражом более 400 000 копий за месяц",
-      "threads_teaser_ru": "Продажи Gears of War: E-Day достигли отметки в 400 000 копий за месяц. Аналитики связывают такой показатель с тем, что большинство игроков предпочли доступ по подписке Xbox Game Pass вместо покупки полной версии игры.",
-      "telegram_message_id": "1914",
-      "telegram_url": "https://t.me/gamepulse_newss/1914",
-      "telegram_published_at": "2026-10-30T00:18:19.488551+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/07/gears-of-war-e-day-xbox-console-exclusive-1780874341784.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T00:18:21.050960+00:00"
-    },
-    {
       "fingerprint": "d813e25b2b197c310aea3660",
       "title": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
       "url": "https://rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-23T08:02:31.486303+00:00"
+    },
+    {
+      "fingerprint": "d50e5f2b512489a5795e5d09",
+      "title": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+      "url": "https://eurogamer.net/activision-ai-voice-chat-npc-patent",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-23T09:27:50+00:00",
+      "score": 11,
+      "event_key": "activision-ai-voice-chat-npc-patent",
+      "title_ru": "Activision запатентовала систему на базе ИИ для обучения NPC по голосовому чату игроков",
+      "threads_teaser_ru": "Activision подала патент на ИИ-систему, которая записывает и анализирует голосовой чат игроков в ключевые моменты матчей, чтобы обучать NPC естественной речи и заменять стандартные реплики.",
+      "telegram_message_id": "3118",
+      "telegram_url": "https://t.me/gamepulse_newss/3118",
+      "telegram_published_at": "2026-11-23T09:32:16.424902+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-2.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-23T08:02:31.486395+00:00"
+  "updated_at": "2026-11-23T09:32:16.424994+00:00"
 }
