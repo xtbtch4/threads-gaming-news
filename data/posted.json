@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "229ad31a72345b11924600cb",
-      "title": "RAMageddon Will Only Get Worse in 2027, According to Samsung",
-      "url": "https://ign.com/articles/ramageddon-will-only-get-worse-in-2027-according-to-samsung",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T16:45:44+00:00",
-      "score": 10,
-      "event_key": "Samsung RAM supply shortage forecast 2027",
-      "title_ru": "Samsung: дефицит оперативной памяти усугубится в 2027 году",
-      "threads_teaser_ru": "Samsung прогнозирует дальнейшее усиление дефицита оперативной памяти в 2027 году. Причина кроется в переориентации производства на память HBM4 для ИИ-дата-центров. Потребительский сегмент отходит на второй план, что уже отражается на доступности игровых консолей.",
-      "telegram_message_id": "1912",
-      "telegram_url": "https://t.me/gamepulse_newss/1912",
-      "telegram_published_at": "2026-10-29T21:03:04.475496+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2022/06/24/corsair-dominator-platinum-rgb-1656107201735.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-29T21:03:05.950416+00:00"
-    },
-    {
       "fingerprint": "21fa75cf137603680a1fb9b8",
       "title": "Official The Elder Scrolls 6 Announcement Imminent, Report Says",
       "url": "https://polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda",
@@ -20521,7 +20504,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/clair-obscur-expedition-33-esquie.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/sq-kyle-gordon-3draft-1788543786.mp4",
       "threads_published_at": "2026-11-23T04:16:54.820712+00:00"
+    },
+    {
+      "fingerprint": "58ba5b2321fd12b26510fff5",
+      "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
+      "url": "https://ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-23T06:50:14+00:00",
+      "score": 9,
+      "event_key": "ign author wishes for more home repair activities in gta 6",
+      "title_ru": "Ремонт домов в Grand Theft Auto 6",
+      "threads_teaser_ru": "Автор IGN поделился впечатлениями от первых часов в Grand Theft Auto 6. Помимо ограблений и исследования Vice City, в начале игры можно заняться ремонтом дома Джейсона, но подобных активностей хотелось бы больше.",
+      "telegram_message_id": "3116",
+      "telegram_url": "https://t.me/gamepulse_newss/3116",
+      "telegram_published_at": "2026-11-23T07:02:40.906136+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-roofrepair-blogroll-1795414510325.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-23T04:16:54.820837+00:00"
+  "updated_at": "2026-11-23T07:02:40.906230+00:00"
 }
