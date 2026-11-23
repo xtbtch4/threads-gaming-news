@@ -20518,9 +20518,10 @@
       "telegram_message_id": "3125",
       "telegram_url": "https://t.me/gamepulse_newss/3125",
       "telegram_published_at": "2026-11-23T18:03:02.996412+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/Warhammer-40%2C000_-Dawn-of-War-4---Official-Announcement-Trailer-_-gamescom-2025-0-16-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/Warhammer-40%2C000_-Dawn-of-War-4---Official-Announcement-Trailer-_-gamescom-2025-0-16-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-23T18:03:05.128394+00:00"
     }
   ],
-  "updated_at": "2026-11-23T18:03:02.996490+00:00"
+  "updated_at": "2026-11-23T18:03:05.128475+00:00"
 }
