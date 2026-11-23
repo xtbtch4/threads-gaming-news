@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0e15a86d654fce2b8baac6d8",
-      "title": "Indian Video Game Market Generated US$1.04 Billion in Revenue in 2025: Report",
-      "url": "https://in.ign.com/ign-misc/275637/indian-video-game-market-generated-us104-billion-in-revenue-in-2025-report",
-      "source": "IGN",
-      "published_at_source": "2026-10-29T16:43:00+00:00",
-      "score": 10,
-      "event_key": "India Gaming Report 2025 revenue market analysis",
-      "title_ru": "Индийский рынок видеоигр заработал 1,04 миллиарда долларов в 2025 году",
-      "threads_teaser_ru": "Ассоциация разработчиков игр Индии представила отчет о состоянии рынка за 2025 год. Общая выручка достигла 1,04 млрд долларов, что на 14,8% больше показателей предыдущего года. Стали известны и главные приоритеты местных студий — большинство компаний сфокусированы на создании новых IP.",
-      "telegram_message_id": "1919",
-      "telegram_url": "https://t.me/gamepulse_newss/1919",
-      "telegram_published_at": "2026-10-30T03:32:27.344332+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://sm.ign.com/t/ign_in/screenshot/default/computer-games_66ma.1200.jpg",
-      "threads_published_at": "2026-10-30T03:32:28.740482+00:00"
-    },
-    {
       "fingerprint": "7987a3577380a9a0b57ba2fc",
       "title": "Everything Coming to Peacock in November",
       "url": "https://ign.com/articles/whats-new-on-peacock-november-2026",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7-2.jpg?w=300",
       "threads_published_at": "2026-11-23T13:02:47.532343+00:00"
+    },
+    {
+      "fingerprint": "15001519868d3135803f60ca",
+      "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
+      "url": "https://ign.com/articles/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet",
+      "source": "IGN",
+      "published_at_source": "2026-11-23T13:07:03+00:00",
+      "score": 15,
+      "event_key": "gta-6-update-01002002-rolling-out-without-patch-notes",
+      "title_ru": "Для GTA 6 выпустили первое после релизное обновление 01.002.002",
+      "threads_teaser_ru": "Для GTA 6 вышло первое обновление 01.002.002 на PS5 и Xbox Series X/S, но разработчики пока не опубликовали список изменений.",
+      "telegram_message_id": "3123",
+      "telegram_url": "https://t.me/gamepulse_newss/3123",
+      "telegram_published_at": "2026-11-23T14:02:46.972530+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-35-1795439002195.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-23T13:02:47.532435+00:00"
+  "updated_at": "2026-11-23T14:02:46.972621+00:00"
 }
