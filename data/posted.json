@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "36b0cb4137046d01802a62cf",
-      "title": "Raiders of the North for Age of Empires IV is Available Now",
-      "url": "https://news.xbox.com/en-us/2026/10/29/raiders-of-the-north-for-age-of-empires-iv-is-available-now",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-29T18:00:00+00:00",
-      "score": 12,
-      "event_key": "release of Raiders of the North for Age of Empires IV",
-      "title_ru": "Для Age of Empires IV вышло дополнение Raiders of the North",
-      "threads_teaser_ru": "Для стратегии Age of Empires IV вышло дополнение Raiders of the North. Игровой контент уже стал доступен пользователям. Подробности о составе обновления можно найти в официальных источниках.",
-      "telegram_message_id": "1909",
-      "telegram_url": "https://t.me/gamepulse_newss/1909",
-      "telegram_published_at": "2026-10-29T20:17:13.308580+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Raiders-of-the-North-16x9-1-c91b3dde1ff326105a7d.jpg",
-      "threads_published_at": "2026-10-29T20:17:14.617758+00:00"
-    },
-    {
       "fingerprint": "6de3772e97be7005f1ea06ce",
       "title": "Patrick Stewart's Greatest Captain Picard Quote Is Still a Defining Star Trek Moment",
       "url": "https://polygon.com/patrick-stewart-best-star-trek-quote",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/bosequietcomfortpink-1795387147603.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-23T01:16:55.400621+00:00"
+    },
+    {
+      "fingerprint": "76706166ff57daf4ad4ebe28",
+      "title": "Robert Pattinson's Forgotten Dark Fantasy Thriller Proves He's a Perfect James Bond",
+      "url": "https://polygon.com/the-lighthouse-robert-pattinson-james-bond",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T03:00:27+00:00",
+      "score": 6,
+      "event_key": "Robert Pattinson James Bond casting discussion The Lighthouse",
+      "title_ru": "Фильм The Lighthouse как аргумент в пользу Роберта Паттинсона на роль James Bond",
+      "threads_teaser_ru": "Спор о том, подходит ли Роберт Паттинсон на роль нового James Bond, продолжается. Аргументом «за» выступает фильм The Lighthouse: именно в этой картине актер показал способность к глубокому перевоплощению, развеяв стереотипы о своей карьере.",
+      "telegram_message_id": "3113",
+      "telegram_url": "https://t.me/gamepulse_newss/3113",
+      "telegram_published_at": "2026-11-23T03:16:59.608093+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/robert-pattinson-in-tenet.jpeg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-23T01:16:55.400713+00:00"
+  "updated_at": "2026-11-23T03:16:59.608152+00:00"
 }
