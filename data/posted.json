@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d813e25b2b197c310aea3660",
-      "title": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
-      "url": "https://rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-29T18:09:29+00:00",
-      "score": 13,
-      "event_key": "The Elder Scrolls 6 rumored subtitle and setting",
-      "title_ru": "СМИ: The Elder Scrolls 6 может получить подзаголовок Sentinel и перенести игроков в Hammerfell",
-      "threads_teaser_ru": "Ходят слухи, что Bethesda готовится к повторному анонсу The Elder Scrolls 6. Проект якобы получит подзаголовок Sentinel, а местом действия станет провинция Hammerfell. Основной сюжет может быть связан с тайнами происхождения самих Elder Scrolls.",
-      "telegram_message_id": "1915",
-      "telegram_url": "https://t.me/gamepulse_newss/1915",
-      "telegram_published_at": "2026-10-30T02:18:02.034574+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/elder-scrolls-6_gfTvT7Y.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-30T02:18:03.515622+00:00"
-    },
-    {
       "fingerprint": "e39529e10c4eb0d0ae7546e0",
       "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania",
       "url": "https://ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-2.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-23T09:32:18.236568+00:00"
+    },
+    {
+      "fingerprint": "60e8fa0f8a3cb23e182d145e",
+      "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
+      "url": "https://polygon.com/gta-6-streamers-copyright-claim-frank-el-santo",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T11:01:11+00:00",
+      "score": 10,
+      "event_key": "gta 6 youtube streams copyright claims frank el santo",
+      "title_ru": "Стримы GTA 6 на YouTube пострадали от массовых жалоб из-за колумбийского музыканта",
+      "threads_teaser_ru": "Трансляции GTA 6 на YouTube неожиданно получили множество страйков из-за колумбийского музыканта Frank El Santo. Его игровой стрим привел к сбою системы и массовым жалобам на других контент-мейкеров.",
+      "telegram_message_id": "3119",
+      "telegram_url": "https://t.me/gamepulse_newss/3119",
+      "telegram_published_at": "2026-11-23T11:02:30.432917+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-23T09:32:18.236658+00:00"
+  "updated_at": "2026-11-23T11:02:30.433000+00:00"
 }
