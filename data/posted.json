@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7c5535175b9ea3a5d1a09c59",
-      "title": "Families Who Lost Loved Ones in Seoul Halloween Crowd Crush Call on Activision to Pull Real Footage From Call of Duty: Modern Warfare 4",
-      "url": "https://ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T11:01:54+00:00",
-      "score": 11,
-      "event_key": "families-call-on-activision-to-pull-seoul-footage-from-mw4",
-      "title_ru": "Семьи погибших в давке в Сеуле требуют удалить кадры трагедии из Call of Duty: Modern Warfare 4",
-      "threads_teaser_ru": "Родственники жертв давки в Сеуле потребовали от Activision убрать реальные кадры трагедии 2022 года из вступительного ролика Call of Duty: Modern Warfare 4.",
-      "telegram_message_id": "1937",
-      "telegram_url": "https://t.me/gamepulse_newss/1937",
-      "telegram_published_at": "2026-10-30T12:46:34.715972+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1793357903664.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T12:46:36.024700+00:00"
-    },
-    {
       "fingerprint": "21a031f57c6adda8bbab8608",
       "title": "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
       "url": "https://ign.com/articles/magic-the-gathering-reality-fracture-commander-deck-is-among-the-most-powerful-weve-ever-released-according-to-wotc",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-24T01:46:46.433335+00:00"
+    },
+    {
+      "fingerprint": "d23052415732ed2db013f345",
+      "title": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
+      "url": "https://ign.com/articles/gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-trick-them-into-a-looney-tunes-style-crash",
+      "source": "IGN",
+      "published_at_source": "2026-11-23T23:03:36+00:00",
+      "score": 11,
+      "event_key": "GTA 6 players crashing into fake tunnel mural",
+      "title_ru": "Игроки в GTA 6 попадают в «Looney Tunes-аварии» из-за реалистичного мурала",
+      "threads_teaser_ru": "В GTA 6 игроки массово врезаются в стену в Vice City, принимая нарисованный на ней туннель за настоящий проезд. Похоже, Rockstar Games решили добавить в игру шутку в стиле мультфильмов Looney Tunes.",
+      "telegram_message_id": "3141",
+      "telegram_url": "https://t.me/gamepulse_newss/3141",
+      "telegram_published_at": "2026-11-24T02:02:58.627722+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T01:46:46.433422+00:00"
+  "updated_at": "2026-11-24T02:02:58.627808+00:00"
 }
