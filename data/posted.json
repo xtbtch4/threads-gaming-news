@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7f0414fac3619ac8ffae0ffc",
-      "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-      "url": "https://eurogamer.net/shovel-knight-3d-mina-financial-stability",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-30T19:55:21+00:00",
-      "score": 8,
-      "event_key": "Yacht Club Games developing new 3D game after Mina the Hollower",
-      "title_ru": "Yacht Club Games работает над новой 3D-игрой после успеха Mina the Hollower",
-      "threads_teaser_ru": "Успех Mina the Hollower позволил студии Yacht Club Games продолжить работу. Теперь большая часть команды занимается новой 3D-игрой. Разработчики признают, что отказ от мультипроектной модели в пользу одной цели помог им добиться успеха.",
-      "telegram_message_id": "1980",
-      "telegram_url": "https://t.me/gamepulse_newss/1980",
-      "telegram_published_at": "2026-10-31T01:47:14.283721+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/mina-treated.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-31T01:47:15.808471+00:00"
-    },
-    {
       "fingerprint": "ff0d65d1b4f42a371d393ef6",
       "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
       "url": "https://ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Gravity-Well.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T18:17:32.487147+00:00"
+    },
+    {
+      "fingerprint": "d276f179519d431597d0a3ac",
+      "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+      "url": "https://ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles",
+      "source": "IGN",
+      "published_at_source": "2026-11-24T18:50:31+00:00",
+      "score": 13,
+      "event_key": "rockstar-panini-america-gta-6-trading-cards",
+      "title_ru": "Rockstar анонсировала реальные коллекционные карточки по GTA 6",
+      "threads_teaser_ru": "Rockstar и Panini America выпустят реальные коллекционные карточки по GTA 6, основанные на внутриигровых предметах из Vice City. Релиз намечен на декабрь.",
+      "telegram_message_id": "3184",
+      "telegram_url": "https://t.me/gamepulse_newss/3184",
+      "telegram_published_at": "2026-11-24T19:16:50.076613+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/24/gta6cards-1795544757077.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T18:17:32.487235+00:00"
+  "updated_at": "2026-11-24T19:16:50.076695+00:00"
 }
