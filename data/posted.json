@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b508d729521a55f20413073b",
-      "title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
-      "url": "https://ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T22:49:01+00:00",
-      "score": 9,
-      "event_key": "Hideo Kojima cameo in My Chemical Romance animated short",
-      "title_ru": "Хидео Кодзима появился в новом анимационном ролике My Chemical Romance",
-      "threads_teaser_ru": "Хидео Кодзима неожиданно появился в новом анимационном проекте My Chemical Romance под названием Prelude to The End. Создатель Death Stranding озвучил второстепенного персонажа в короткометражке к 20-летию альбома The Black Parade.",
-      "telegram_message_id": "1972",
-      "telegram_url": "https://t.me/gamepulse_newss/1972",
-      "telegram_published_at": "2026-10-30T23:02:29.008917+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/my-chemical-romance-hideo-kojima-1793400372401.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T23:02:30.287379+00:00"
-    },
-    {
       "fingerprint": "721d5b65b9f8c1b36b172ebd",
       "title": "New Pokémon Release Brings Hundreds of New Eeveelutions",
       "url": "https://polygon.com/pokemon-new-eeveelutions-gba-game-download",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T11:47:10.934801+00:00"
+    },
+    {
+      "fingerprint": "795d7179aa8ad93511d132aa",
+      "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+      "url": "https://eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T11:47:40+00:00",
+      "score": 15,
+      "event_key": "gta-6-players-mastering-in-game-heists",
+      "title_ru": "Игроки в Grand Theft Auto 6 успешно справляются со сложными ограблениями",
+      "threads_teaser_ru": "Игроки в Grand Theft Auto 6 осваивают сложные ограбления банков и находят необычные методы кражи денег, включая вырывание банкоматов с помощью машин с лебедкой.",
+      "telegram_message_id": "3176",
+      "telegram_url": "https://t.me/gamepulse_newss/3176",
+      "telegram_published_at": "2026-11-24T12:02:50.207997+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T11:47:10.934880+00:00"
+  "updated_at": "2026-11-24T12:02:50.208066+00:00"
 }
