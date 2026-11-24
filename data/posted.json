@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "79a5ac1cae78f322bd2ee882",
-      "title": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect",
-      "url": "https://eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-30T15:15:54+00:00",
-      "score": 9,
-      "event_key": "Tenebris Somnia combines 8-bit adventure and live-action horror",
-      "title_ru": "Хоррор Tenebris Somnia объединяет 8-битную графику и живые съемки",
-      "threads_teaser_ru": "Tenebris Somnia экспериментирует с форматом: в этом инди-хорроре классический 8-битный геймплей сочетается с полноценными live-action вставками. Проект от продюсеров Faith: The Unholy Trinity активно использует реальные съемки для демонстрации жутких существ и сюрреалистичных сцен.",
-      "telegram_message_id": "1946",
-      "telegram_url": "https://t.me/gamepulse_newss/1946",
-      "telegram_published_at": "2026-10-30T15:17:39.946861+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/tenebris-somnia-2_rwR6NVJ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-30T15:17:41.438480+00:00"
-    },
-    {
       "fingerprint": "c0bdb38ea318258cc25c58e5",
       "title": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
       "url": "https://rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/rise-of-furax.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T04:02:46.218162+00:00"
+    },
+    {
+      "fingerprint": "363b290fa2cd7d1c68492b37",
+      "title": "GTA 6: All The Secret Controls And Gameplay Features You Might Have Missed",
+      "url": "https://gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T09:10:00+00:00",
+      "score": 9,
+      "event_key": "gta 6 secret controls gameplay stealth features whistle",
+      "title_ru": "Новые детали стелс-механик в GTA 6",
+      "threads_teaser_ru": "В GTA 6 обнаружили неожиданно эффективные стелс-механики. Одной из полезных функций для скрытного прохождения стала возможность свистеть, чтобы привлекать внимание врагов.",
+      "telegram_message_id": "3150",
+      "telegram_url": "https://t.me/gamepulse_newss/3150",
+      "telegram_published_at": "2026-11-24T04:17:47.402012+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-24T04:02:46.218249+00:00"
+  "updated_at": "2026-11-24T04:17:47.402101+00:00"
 }
