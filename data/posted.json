@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "92a66d24523a60a01a8a079e",
-      "title": "A PUBG TV Show Is Coming To Netflix, Starring Donald Glover",
-      "url": "https://gamespot.com/articles/a-pubg-tv-show-is-coming-to-netflix-starring-donald-glover",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-29T18:49:28+00:00",
-      "score": 13,
-      "event_key": "Netflix producing live action PUBG TV show starring Donald Glover",
-      "title_ru": "Netflix анонсировала сериал по PUBG с Дональдом Гловером в главной роли",
-      "threads_teaser_ru": "Netflix и Krafton готовят сериал по PUBG: главную роль исполнит Дональд Гловер. Он также возьмет на себя функции режиссера и сценариста проекта. Кроме того, в разработке находится анимационное шоу по франшизе от создателя Castlevania.",
-      "telegram_message_id": "1931",
-      "telegram_url": "https://t.me/gamepulse_newss/1931",
-      "telegram_published_at": "2026-10-30T10:46:49.058331+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/glover.png?w=300",
-      "threads_published_at": "2026-10-30T10:46:50.457688+00:00"
-    },
-    {
       "fingerprint": "9f92c1215d4c1e8fa4cfa1ac",
       "title": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
       "url": "https://ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300",
       "threads_published_at": "2026-11-23T23:47:16.562100+00:00"
+    },
+    {
+      "fingerprint": "bde6435585eae53688e25a15",
+      "title": "Deborah Ann Woll Reprising Role As God Of War’s Faye In Prime Video’s TV Show",
+      "url": "https://gamespot.com/articles/deborah-ann-woll-reprising-role-as-god-of-wars-faye-in-prime-videos-tv-show",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T18:07:54+00:00",
+      "score": 12,
+      "event_key": "Deborah Ann Woll to star in Prime Video God of War show",
+      "title_ru": "Дебора Анк Уолл повторит роль Faye в сериале God of War от Prime Video",
+      "threads_teaser_ru": "Стал известен актерский состав сериала God of War от Prime Video. К роли Faye вернется Дебора Анк Уолл, а Кратоса сыграет Дейв Батиста. Также в шоу появятся Олафур Дарри Олафссон в роли Тора и другие известные актеры.",
+      "telegram_message_id": "3135",
+      "telegram_url": "https://t.me/gamepulse_newss/3135",
+      "telegram_published_at": "2026-11-24T00:02:33.722797+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Faye.png?w=300"
     }
   ],
-  "updated_at": "2026-11-23T23:47:16.562212+00:00"
+  "updated_at": "2026-11-24T00:02:33.722882+00:00"
 }
