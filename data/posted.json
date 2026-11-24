@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19b227bf8b2f1d09d00c1c8f",
-      "title": "Trying Gears of War: E-Day with Max Settings on NVIDIA GeForce NOW",
-      "url": "https://ign.com/articles/trying-gears-of-war-e-day-with-max-settings-on-nvidia-geforce-now",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T11:14:32+00:00",
-      "score": 9,
-      "event_key": "gears of war e-day nvidia geforce now performance testing",
-      "title_ru": "Gears of War: E-Day протестировали в облачном сервисе NVIDIA GeForce NOW",
-      "threads_teaser_ru": "Gears of War: E-Day активно использует возможности Unreal Engine 5. В облачном сервисе NVIDIA GeForce NOW при максимальных настройках и использовании DLSS 4.5 игре удается поддерживать стабильный фреймрейт в 143 FPS, даже при высоких разрешениях.",
-      "telegram_message_id": "1940",
-      "telegram_url": "https://t.me/gamepulse_newss/1940",
-      "telegram_published_at": "2026-10-30T13:47:25.297071+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/19/screenshot-2026-10-16-223424-1792402885442.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T13:47:26.674479+00:00"
-    },
-    {
       "fingerprint": "65ce9314c905300b4dd16527",
       "title": "Honkai Star Rail version 4.7 livestream codes",
       "url": "https://polygon.com/honkai-star-rail-version-4-7-livestream-codes-redeem",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Sea-of-Remnants-Closed-Beta-Cover-Image-3b4f66ba999143ae3db8.jpg",
       "threads_published_at": "2026-11-24T02:32:11.637156+00:00"
+    },
+    {
+      "fingerprint": "6a8beb523ea8748beb247085",
+      "title": "GTA 6 Looks So Good That Real Photos and Videos Are Being Mistaken as Screenshots From the Game",
+      "url": "https://ign.com/articles/gta-6-looks-so-good-that-real-photos-and-videos-are-being-mistaken-as-screenshots-from-the-game",
+      "source": "IGN",
+      "published_at_source": "2026-11-23T22:43:02+00:00",
+      "score": 10,
+      "event_key": "gta 6 graphics mistaken for real life",
+      "title_ru": "Реальные фото и видео начали путать со скриншотами из GTA 6 из-за их реалистичности",
+      "threads_teaser_ru": "Реальные фотографии и видеоролики в соцсетях начали массово путать со скриншотами из GTA 6 из-за невероятной реалистичности графики и особенностей освещения в игре.",
+      "telegram_message_id": "3144",
+      "telegram_url": "https://t.me/gamepulse_newss/3144",
+      "telegram_published_at": "2026-11-24T02:47:13.956918+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/19/gtfm-oo-1795100688369.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T02:32:11.637243+00:00"
+  "updated_at": "2026-11-24T02:47:13.956975+00:00"
 }
