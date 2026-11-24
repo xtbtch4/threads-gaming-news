@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "930432170758752db3802daa",
-      "title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
-      "url": "https://ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T01:06:04+00:00",
-      "score": 9,
-      "event_key": "stranger than heaven optional cheats combat accessibility rgg studio",
-      "title_ru": "В Stranger Than Heaven появятся опциональные читы для облегчения боевки",
-      "threads_teaser_ru": "Разработчики Stranger Than Heaven из RGG Studio подтвердили, что в игре появятся опциональные читы и вспомогательные предметы для упрощения сложной боевой системы. Они помогут новичкам пройти сюжет, но будут заметны на персонаже визуально.",
-      "telegram_message_id": "1983",
-      "telegram_url": "https://t.me/gamepulse_newss/1983",
-      "telegram_published_at": "2026-10-31T03:17:12.824697+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/05/20/strangerthumb-1779284528353.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T03:17:14.383431+00:00"
-    },
-    {
       "fingerprint": "866ee4f6db134a4d500d7979",
       "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
       "url": "https://ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Showa.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T19:47:33.747047+00:00"
+    },
+    {
+      "fingerprint": "abaa70625a7f2658701b85ee",
+      "title": "Kevin Feige and the Russo Brothers are Planning a Special Tribute to Patrick Stewart as Avengers: Doomsday Release Approaches",
+      "url": "https://ign.com/articles/kevin-feige-and-the-russo-brothers-are-planning-a-special-tribute-to-patrick-stewart-as-avengers-doomsday-release-approaches",
+      "source": "IGN",
+      "published_at_source": "2026-11-24T19:25:55+00:00",
+      "score": 13,
+      "event_key": "Marvel Studios planning tribute to Patrick Stewart in Avengers Doomsday",
+      "title_ru": "Marvel Studios готовит трибьют Патрику Стюарту в Avengers: Doomsday",
+      "threads_teaser_ru": "Marvel Studios готовят особый трибьют Патрику Стюарту. Актер, ушедший из жизни в октябре, успел завершить работу над своей последней ролью в Avengers: Doomsday. В ленте его персонаж встретится на экране со своим давним другом Иэном Маккелленом.",
+      "telegram_message_id": "3187",
+      "telegram_url": "https://t.me/gamepulse_newss/3187",
+      "telegram_published_at": "2026-11-24T20:02:55.521683+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/24/kevin-feige-russo-brothers-are-planning-special-tribute-to-patrick-stewart-1795547883409.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T19:47:33.747137+00:00"
+  "updated_at": "2026-11-24T20:02:55.521774+00:00"
 }
