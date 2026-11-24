@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "21a031f57c6adda8bbab8608",
-      "title": "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
-      "url": "https://ign.com/articles/magic-the-gathering-reality-fracture-commander-deck-is-among-the-most-powerful-weve-ever-released-according-to-wotc",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T11:58:06+00:00",
-      "score": 9,
-      "event_key": "Wizards of the Coast releases powerful Multiverse Reforged Commander deck",
-      "title_ru": "Wizards of the Coast назвали новую колоду Commander одной из самых мощных",
-      "threads_teaser_ru": "Wizards of the Coast представили новую колоду Commander Multiverse Reforged для набора Reality Fracture. Разработчики решили ограничиться одним преконом вместо двух и уверены, что создали одну из самых мощных сборок в истории игры.",
-      "telegram_message_id": "1938",
-      "telegram_url": "https://t.me/gamepulse_newss/1938",
-      "telegram_published_at": "2026-10-30T13:02:58.440381+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/28/reality-fracture-where-to-buy-ign-1790588669382.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T13:02:59.873867+00:00"
-    },
-    {
       "fingerprint": "c6ee0826bd9555e7ddf30d73",
       "title": "Magic: The Gathering’s Hobbit Play Boosters Just Hit a New Lowest-Ever Price Ahead of Black Friday",
       "url": "https://ign.com/articles/magic-the-gathering-hobbit-play-boosters-just-hit-a-new-lowest-ever-price-ahead-of-black-friday",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-24T02:02:59.993094+00:00"
+    },
+    {
+      "fingerprint": "ec833c8825efd198bc03f2b6",
+      "title": "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry",
+      "url": "https://rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-23T11:45:10+00:00",
+      "score": 12,
+      "event_key": "ai generated music removed from binding of isaac update",
+      "title_ru": "Из обновления The Binding of Isaac Repentance+ убрали музыку, созданную с помощью ИИ",
+      "threads_teaser_ru": "Издателю Nicalis пришлось экстренно удалять музыку из обновления для The Binding of Isaac Repentance+. Игроки заметили, что треки для ежедневного забега в стиле GTA 6 были созданы с помощью ИИ.",
+      "telegram_message_id": "3142",
+      "telegram_url": "https://t.me/gamepulse_newss/3142",
+      "telegram_published_at": "2026-11-24T02:17:10.734515+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/binding-of-isaac-repentance-plus-update-ai-music-pulled-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T02:02:59.993195+00:00"
+  "updated_at": "2026-11-24T02:17:10.734580+00:00"
 }
