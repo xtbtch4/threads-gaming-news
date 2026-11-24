@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b0b82cba00f4675ce13eb3e2",
-      "title": "The Journey of Crimson Desert Continues with Charting the Unknown",
-      "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-29T22:00:00+00:00",
-      "score": 14,
-      "event_key": "crimson_desert_charting_the_unknown_dlc_release",
-      "title_ru": "Вышло дополнение Charting the Unknown для Crimson Desert",
-      "threads_teaser_ru": "Для Crimson Desert вышло крупное дополнение Charting the Unknown. Оно добавляет три новые сюжетные линии, морские путешествия на собственных кораблях, улучшенное строительство жилья и управление замками.",
-      "telegram_message_id": "1935",
-      "telegram_url": "https://t.me/gamepulse_newss/1935",
-      "telegram_published_at": "2026-10-30T12:17:01.405764+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Hero-Image_Crimson-Desert_DLC_KeyArtLayer_1920x1080-05f91c8520d05d01d228.jpg",
-      "threads_published_at": "2026-10-30T12:17:02.818305+00:00"
-    },
-    {
       "fingerprint": "58a6f9de9a356f65a72bf098",
       "title": "Phantom Blade Zero Director Reveals How He Made 'A Playable Kung Fu Movie’ with Donnie Yen",
       "url": "https://polygon.com/phantom-blade-zero-director-soulframe-interview-donnie-yen",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-3-4.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-24T00:47:06.363255+00:00"
+    },
+    {
+      "fingerprint": "7ddbdbbc96a3c942f2ad884e",
+      "title": "Can You Romance Vicki In GTA 6?",
+      "url": "https://gamespot.com/articles/can-you-romance-vicki-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T00:02:32+00:00",
+      "score": 12,
+      "event_key": "vicki_romance_availability_in_gta_6",
+      "title_ru": "Можно ли завести роман с Vicki в GTA 6?",
+      "threads_teaser_ru": "Игроки интересуются второстепенными персонажами Grand Theft Auto 6, такими как Vicki, с которой герои сталкиваются во второй главе. Узнайте, можно ли завести с ней роман и увидеть скрытую сцену в клубе.",
+      "telegram_message_id": "3139",
+      "telegram_url": "https://t.me/gamepulse_newss/3139",
+      "telegram_published_at": "2026-11-24T01:17:18.367486+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/9uy4bx7jyzlh1-e1795478260126.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-24T00:47:06.363329+00:00"
+  "updated_at": "2026-11-24T01:17:18.367580+00:00"
 }
