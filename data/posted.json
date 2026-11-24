@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4de3962689132ce8105bb8c7",
-      "title": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
-      "url": "https://rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-30T10:45:00+00:00",
-      "score": 8,
-      "event_key": "Phantom Blade Zero performance on Steam Deck and Steam Machine",
-      "title_ru": "Производительность Phantom Blade Zero на Steam Deck и Steam Machine",
-      "threads_teaser_ru": "Экшен Phantom Blade Zero плохо работает на Steam Deck, показывая нестабильную частоту кадров. На Steam Machine ситуация лучше, хотя для комфортной игры потребовалась настройка FSR и ручная корректировка управления Steam Controller.",
-      "telegram_message_id": "1987",
-      "telegram_url": "https://t.me/gamepulse_newss/1987",
-      "telegram_published_at": "2026-10-31T06:02:54.625600+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-Steam-Machine.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-31T06:02:56.084474+00:00"
-    },
-    {
       "fingerprint": "f2311a3f799145bef2909e2d",
       "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
       "url": "https://polygon.com/classic-games-bad-graphics-good-gameplay",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-18.32.30.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T21:17:58.112332+00:00"
+    },
+    {
+      "fingerprint": "e1e8f21e5c1c2e84c13280c7",
+      "title": "Nioh 3 Is Coming to XBOX in 2027",
+      "url": "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-24T19:00:00+00:00",
+      "score": 12,
+      "event_key": "Nioh 3 coming to XBOX Series X S",
+      "title_ru": "Серия Nioh дебютирует на XBOX в 2027 году",
+      "threads_teaser_ru": "Серия Nioh впервые появится на консолях XBOX: Team NINJA подтвердили дату выхода Nioh 3 и Nioh 3: Complete Edition. Игроков ждет новая механика боя и сюжет в сеттинге феодальной Японии.",
+      "telegram_message_id": "3191",
+      "telegram_url": "https://t.me/gamepulse_newss/3191",
+      "telegram_published_at": "2026-11-24T21:32:49.842792+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Nioh-3-Key-Art-Logo-1f9702a7ae1d63984be4.jpg"
     }
   ],
-  "updated_at": "2026-11-24T21:17:58.112416+00:00"
+  "updated_at": "2026-11-24T21:32:49.842876+00:00"
 }
