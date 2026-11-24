@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f2311a3f799145bef2909e2d",
-      "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
-      "url": "https://polygon.com/classic-games-bad-graphics-good-gameplay",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T02:36:37+00:00",
-      "score": 7,
-      "event_key": "polygon 15 classic games gameplay over graphics feature",
-      "title_ru": "Polygon составил список из 15 классических игр, где геймплей важнее графики",
-      "threads_teaser_ru": "Polygon выбрал 15 классических игр, которые доказывают, что геймплей важнее графики. От N+ и Mega Man 2 до Worms и SimCity — рассказываем, почему эти проекты остались актуальными спустя десятилетия.",
-      "telegram_message_id": "1988",
-      "telegram_url": "https://t.me/gamepulse_newss/1988",
-      "telegram_published_at": "2026-10-31T06:17:46.142313+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25068419/wind_waker_hd_sailing.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-31T06:17:47.460684+00:00"
-    },
-    {
       "fingerprint": "2d2527fc5ad2f3ceb98ac9f6",
       "title": "10 Free Browser Games That are Actually Fun to Play",
       "url": "https://polygon.com/best-free-browser-games-to-play",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Nioh-3-Key-Art-Logo-1f9702a7ae1d63984be4.jpg",
       "threads_published_at": "2026-11-24T21:32:51.206444+00:00"
+    },
+    {
+      "fingerprint": "ba938b2186f8725afa948f53",
+      "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+      "url": "https://polygon.com/gta-6-player-data-taking-it-slow-progress",
+      "source": "Polygon",
+      "published_at_source": "2026-11-24T19:08:18+00:00",
+      "score": 14,
+      "event_key": "GTA 6 completion rates player statistics",
+      "title_ru": "Статистика GTA 6: лишь 40% игроков прошли вторую главу",
+      "threads_teaser_ru": "Статистика Grand Theft Auto 6 удивляет: несмотря на огромную популярность игры, сюжетную кампанию пока завершают немногие. Лишь около 40% игроков на PS5 смогли пройти вторую главу, а до финала дошли менее 1%. При этом среднее время в игре остается высоким.",
+      "telegram_message_id": "3192",
+      "telegram_url": "https://t.me/gamepulse_newss/3192",
+      "telegram_published_at": "2026-11-24T21:47:02.370911+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-24T21:32:51.206526+00:00"
+  "updated_at": "2026-11-24T21:47:02.371011+00:00"
 }
