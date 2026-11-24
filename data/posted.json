@@ -20515,9 +20515,10 @@
       "telegram_message_id": "3174",
       "telegram_url": "https://t.me/gamepulse_newss/3174",
       "telegram_published_at": "2026-11-24T11:32:16.796246+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/boltgun-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/boltgun-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-24T11:32:18.278390+00:00"
     }
   ],
-  "updated_at": "2026-11-24T11:32:16.796339+00:00"
+  "updated_at": "2026-11-24T11:32:18.278479+00:00"
 }
