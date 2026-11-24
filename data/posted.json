@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b395fdc9eede11f1d08e58b8",
-      "title": "The Worst GTA Game Is One Rockstar Could Never Make Today",
-      "url": "https://polygon.com/gta-advance-worst-grand-theft-auto-game",
-      "source": "Polygon",
-      "published_at_source": "2026-10-30T21:01:18+00:00",
-      "score": 12,
-      "event_key": "gta-advance-history-and-impact-on-rockstar",
-      "title_ru": "Почему GTA Advance остаётся важной частью истории Rockstar",
-      "threads_teaser_ru": "GTA Advance часто называют худшей частью серии, но именно этот проект помог Rockstar осознать слабые места франшизы и проложил путь к будущим хитам.",
-      "telegram_message_id": "1966",
-      "telegram_url": "https://t.me/gamepulse_newss/1966",
-      "telegram_published_at": "2026-10-30T21:17:24.412841+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-advance.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
-      "threads_published_at": "2026-10-30T21:17:25.868940+00:00"
-    },
-    {
       "fingerprint": "659a0b08b9f5c1c7d31c01d3",
       "title": "Save 20% (or More) Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
       "url": "https://ign.com/articles/minecraft-dungeons-2-deal-october-2026",
@@ -20520,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_17_6288c6.jpg?w=300",
       "threads_published_at": "2026-11-24T09:02:52.853023+00:00"
+    },
+    {
+      "fingerprint": "eb3895bc8bb003b900f3b9d6",
+      "title": "After The Ocarina Of Time Remake, I Finally Forgive Navi",
+      "url": "https://gamespot.com/articles/after-the-ocarina-of-time-remake-i-finally-forgive-navi",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T11:20:00+00:00",
+      "score": 5,
+      "event_key": "author changes opinion on Navi after Ocarina of Time remake",
+      "title_ru": "Автор GameSpot пересмотрел отношение к Navi после ремейка Ocarina of Time",
+      "threads_teaser_ru": "Автор GameSpot признался, что изменил свое отношение к Navi из Ocarina of Time после знакомства с ремейком игры. Он рассказал, почему раньше считал этого персонажа одной из главных проблем индустрии, и как новый опыт помог ему пересмотреть свои взгляды.",
+      "telegram_message_id": "3170",
+      "telegram_url": "https://t.me/gamepulse_newss/3170",
+      "telegram_published_at": "2026-11-24T09:17:18.853427+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-24T09:02:52.853109+00:00"
+  "updated_at": "2026-11-24T09:17:18.853555+00:00"
 }
