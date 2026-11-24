@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2d2527fc5ad2f3ceb98ac9f6",
-      "title": "10 Free Browser Games That are Actually Fun to Play",
-      "url": "https://polygon.com/best-free-browser-games-to-play",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T02:09:02+00:00",
-      "score": 7,
-      "event_key": "polygon lists 10 free browser games to play",
-      "title_ru": "Подборка бесплатных браузерных игр от Polygon",
-      "threads_teaser_ru": "Издание Polygon выбрало 10 бесплатных браузерных игр, от текстовых детективов в духе Return of the Obra Dinn до необычных автобаттлеров по вселенной Diablo и долгоживущих MMO. Разбираемся, во что стоит поиграть прямо сейчас без скачивания.",
-      "telegram_message_id": "1989",
-      "telegram_url": "https://t.me/gamepulse_newss/1989",
-      "telegram_published_at": "2026-10-31T06:47:02.582815+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pio-5-v2-1790257329.mp4",
-      "threads_published_at": "2026-10-31T06:47:03.907465+00:00"
-    },
-    {
       "fingerprint": "84228fd18822360e5aa406c2",
       "title": "In Puckoff: Reloaded, Hockey Is About More Than Scoring Goals",
       "url": "https://news.xbox.com/en-us/2026/10/30/in-puckoff-reloaded-hockey-is-about-more",
@@ -20515,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-24T21:47:03.771238+00:00"
+    },
+    {
+      "fingerprint": "e71ff3c58af67c8d7f02da53",
+      "title": "Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme! – News – Nintendo Official Site",
+      "url": "https://nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-24T17:00:00+00:00",
+      "score": 12,
+      "event_key": "Tetris 99 58th MAXIMUS CUP event announcement",
+      "title_ru": "В Tetris 99 пройдет 58-й MAXIMUS CUP с тематикой Pikmin 4",
+      "threads_teaser_ru": "В Tetris 99 стартует 58-й турнир MAXIMUS CUP. За участие и заработанные 100 очков игроки на Nintendo Switch 2 получат тематический скин в стиле Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. Ивент пройдет с 26 по 30 ноября.",
+      "telegram_message_id": "3193",
+      "telegram_url": "https://t.me/gamepulse_newss/3193",
+      "telegram_published_at": "2026-11-24T22:17:28.601680+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-24T21:47:03.771322+00:00"
+  "updated_at": "2026-11-24T22:17:28.601772+00:00"
 }
