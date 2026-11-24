@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "588c9b591ebc42b0155b26f3",
-      "title": "VRChat Devs Spark Outrage After Refusing to Include AI Label Despite 95% of Fans Asking for It",
-      "url": "https://ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T20:11:52+00:00",
-      "score": 9,
-      "event_key": "VRChat developers refuse AI labels despite user survey results",
-      "title_ru": "Разработчики VRChat отказались добавлять метки для AI-контента вопреки результатам опроса",
-      "threads_teaser_ru": "Разработчики VRChat оказались в центре скандала: они отказались вводить метки для AI-контента, несмотря на то, что в их собственном опросе за это проголосовало 95% пользователей. Игроки возмущены игнорированием их мнения.",
-      "telegram_message_id": "1971",
-      "telegram_url": "https://t.me/gamepulse_newss/1971",
-      "telegram_published_at": "2026-10-30T22:47:40.860434+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/vrchat-devs-spark-outrage-over-ai-label-1793390533984.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T22:47:42.397644+00:00"
-    },
-    {
       "fingerprint": "b508d729521a55f20413073b",
       "title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
       "url": "https://ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/boltgun-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T11:32:18.278390+00:00"
+    },
+    {
+      "fingerprint": "cefb05141f6941b12d5d8fe3",
+      "title": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+      "url": "https://rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-24T11:38:50+00:00",
+      "score": 12,
+      "event_key": "cyberleek claims to release xbox executable for gta 6",
+      "title_ru": "GTA 6 leaker Cyberleek заявил о публикации исполняемого файла Xbox-версии",
+      "threads_teaser_ru": "GTA 6 leaker Cyberleek сообщил о публикации главного исполняемого файла предполагаемой Xbox-версии игры и передаче эстафеты проектам по эмуляции.",
+      "telegram_message_id": "3175",
+      "telegram_url": "https://t.me/gamepulse_newss/3175",
+      "telegram_published_at": "2026-11-24T11:47:09.031338+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T11:32:18.278479+00:00"
+  "updated_at": "2026-11-24T11:47:09.031439+00:00"
 }
