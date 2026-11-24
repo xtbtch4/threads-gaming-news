@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f774383ddd2e01cc291e070a",
-      "title": "The Witcher 3’s Fairy Tale-Inspired Quests Are Must-Plays for Any RPG Fan",
-      "url": "https://polygon.com/the-witcher-3-fairy-tale-quests",
-      "source": "Polygon",
-      "published_at_source": "2026-10-30T22:00:17+00:00",
-      "score": 8,
-      "event_key": "the witcher 3 fairy tale inspirations",
-      "title_ru": "Связь The Witcher 3: Wild Hunt со сказками",
-      "threads_teaser_ru": "В The Witcher 3: Wild Hunt есть немало отсылок к классическим сказкам, переосмысленным в мрачном стиле. От квеста «Ladies of the Wood» с мотивами Бабы-Яги до целого мира «The Land of a Thousand Fables» из дополнения Blood & Wine — рассказываем, как игра использует этот фольклорный пласт.",
-      "telegram_message_id": "1976",
-      "telegram_url": "https://t.me/gamepulse_newss/1976",
-      "telegram_published_at": "2026-10-31T00:47:42.010026+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3910694/witcher_3.0.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-31T00:47:43.322827+00:00"
-    },
-    {
       "fingerprint": "12ce3e9f05781b7a13234b04",
       "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
       "url": "https://ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-1793984731251.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-24T13:16:51.095937+00:00"
+    },
+    {
+      "fingerprint": "18f6ea0e2508b062dda041fd",
+      "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+      "url": "https://eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T13:40:00+00:00",
+      "score": 12,
+      "event_key": "project-leonida-gta-6-pc-port-shut-down",
+      "title_ru": "Проект по созданию неофициального порта GTA 6 на PC свернут после вмешательства Rockstar",
+      "threads_teaser_ru": "Крупнейший проект по созданию неофициального порта GTA 6 на ПК закрылся после вмешательства Rockstar. Разработчики удалили сервер и репозиторий.",
+      "telegram_message_id": "3180",
+      "telegram_url": "https://t.me/gamepulse_newss/3180",
+      "telegram_published_at": "2026-11-24T13:46:51.611062+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-hackers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T13:16:51.096025+00:00"
+  "updated_at": "2026-11-24T13:46:51.611149+00:00"
 }
