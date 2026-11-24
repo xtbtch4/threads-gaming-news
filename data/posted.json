@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "12ce3e9f05781b7a13234b04",
-      "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
-      "url": "https://ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T00:01:34+00:00",
-      "score": 15,
-      "event_key": "id software machinegames closer collaboration xbox layoffs",
-      "title_ru": "Студии id Software и MachineGames тесно сотрудничают после сокращений в Xbox",
-      "threads_teaser_ru": "Студии id Software и MachineGames объявили о тесном сотрудничестве после масштабных сокращений в Xbox. Разработчики объединяют технологические усилия.",
-      "telegram_message_id": "1977",
-      "telegram_url": "https://t.me/gamepulse_newss/1977",
-      "telegram_published_at": "2026-10-31T01:02:37.477096+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/doom-1793406375983.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T01:02:39.007544+00:00"
-    },
-    {
       "fingerprint": "cde4d3aa1d2320195ccfd0b6",
       "title": "10 Essential NES Games Still Missing From Switch Online",
       "url": "https://polygon.com/best-nes-games-missing-switch-online",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-hackers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T13:46:53.075007+00:00"
+    },
+    {
+      "fingerprint": "7327b3280a123dc91f421ccc",
+      "title": "Witcher 4 Has Fewer People Working On It Than It Did 3 Months Ago, But Just Barely",
+      "url": "https://gamespot.com/articles/witcher-4-has-fewer-people-working-on-it-than-it-did-3-months-ago-but-just-barely",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T17:01:21+00:00",
+      "score": 15,
+      "event_key": "witcher 4 headcount decreases slightly at cd projekt",
+      "title_ru": "Сокращение штата разработчиков The Witcher 4",
+      "threads_teaser_ru": "CD Projekt поделилась свежими данными о численности команд своих проектов. Над The Witcher 4 теперь работает 513 человек — чуть меньше, чем три месяца назад. Узнайте, как изменился штат разработчиков Cyberpunk 2 и других игр студии.",
+      "telegram_message_id": "3181",
+      "telegram_url": "https://t.me/gamepulse_newss/3181",
+      "telegram_published_at": "2026-11-24T17:17:20.753095+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/W4.png?w=300"
     }
   ],
-  "updated_at": "2026-11-24T13:46:53.075093+00:00"
+  "updated_at": "2026-11-24T17:17:20.753189+00:00"
 }
