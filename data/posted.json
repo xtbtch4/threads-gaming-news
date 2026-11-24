@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b9ac420b7f152eef8bcacc8d",
-      "title": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
-      "url": "https://rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-10-30T20:30:00+00:00",
-      "score": 11,
-      "event_key": "Soulframe open prelude launch and Verse of the Veilands update",
-      "title_ru": "Soulframe переходит в стадию открытого доступа в ноябре",
-      "threads_teaser_ru": "Soulframe покидает закрытую «альфу»: с 6 ноября доступ к игре получат все желающие. Вместе с запуском открытого прелюда разработчики внедрят новую систему прогрессии и очистки регионов, что немного изменит привычный уютный тон фэнтезийного мира.",
-      "telegram_message_id": "1965",
-      "telegram_url": "https://t.me/gamepulse_newss/1965",
-      "telegram_published_at": "2026-10-30T20:32:53.118891+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/SF_OpenPreludes4K(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-30T20:32:54.532881+00:00"
-    },
-    {
       "fingerprint": "b395fdc9eede11f1d08e58b8",
       "title": "The Worst GTA Game Is One Rockstar Could Never Make Today",
       "url": "https://polygon.com/gta-advance-worst-grand-theft-auto-game",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grassrivers_05.0.dx967tljry-1.jpg?w=300",
       "threads_published_at": "2026-11-24T08:47:33.327507+00:00"
+    },
+    {
+      "fingerprint": "c894d0b918851d9642dace85",
+      "title": "GTA 6 Has A Terrifying Unkillable NPC, Here’s How To Find Him",
+      "url": "https://gamespot.com/articles/gta-6-has-a-terrifying-unkillable-npc-heres-how-to-find-him",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-23T17:50:46+00:00",
+      "score": 5,
+      "event_key": "GTA 6 unkillable creepy NPC radio tower discovery",
+      "title_ru": "В GTA 6 нашли неуязвимого и агрессивного NPC",
+      "threads_teaser_ru": "В GTA 6 обнаружили жуткого NPC, который превращает игру в хоррор. Он обитает на вышке связи в Key Lento, не боится пуль и убивает с одного удара, пока не настигнет цель. Узнайте, как его найти (и почему лучше этого не делать).",
+      "telegram_message_id": "3169",
+      "telegram_url": "https://t.me/gamepulse_newss/3169",
+      "telegram_published_at": "2026-11-24T09:02:51.406007+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_17_6288c6.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-24T08:47:33.327597+00:00"
+  "updated_at": "2026-11-24T09:02:51.406062+00:00"
 }
