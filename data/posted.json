@@ -20517,9 +20517,10 @@
       "telegram_message_id": "3155",
       "telegram_url": "https://t.me/gamepulse_newss/3155",
       "telegram_published_at": "2026-11-24T05:32:26.693383+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-lucia-arcade-cabinet.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-lucia-arcade-cabinet.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-24T05:32:28.414548+00:00"
     }
   ],
-  "updated_at": "2026-11-24T05:32:26.693470+00:00"
+  "updated_at": "2026-11-24T05:32:28.414639+00:00"
 }
