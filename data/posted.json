@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d8c8a1f918df198f8641de80",
-      "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
-      "url": "https://ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T00:30:00+00:00",
-      "score": 8,
-      "event_key": "Arkade Gaming Gun controller announcement at Gamescom Asia 2026",
-      "title_ru": "Анонсирован контроллер Arkade Gaming Gun для ПК",
-      "threads_teaser_ru": "На Gamescom Asia 2026 показали контроллер Arkade Gaming Gun. Это устройство для ПК, которое позволяет играть в современные шутеры как в классические «тиры». Девайс не требует датчиков движения, но обойдется в $399 при релизе в 2027 году.",
-      "telegram_message_id": "1993",
-      "telegram_url": "https://t.me/gamepulse_newss/1993",
-      "telegram_published_at": "2026-10-31T07:47:38.446003+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/arkade-gaming-gun-motion-controls-for-any-pc-mac-shooter-mp4-00-00-01-35-still001-1793430116389.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T07:47:39.707441+00:00"
-    },
-    {
       "fingerprint": "bcd321fb49ade525685b93f6",
       "title": "Nintendo’s Biggest Game of the Year Isn't What You Think It Is",
       "url": "https://polygon.com/switchboard-tomodachi-life-huge",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/astario.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T23:02:53.466706+00:00"
+    },
+    {
+      "fingerprint": "272895034dbb849047aaba7c",
+      "title": "Dead by Daylight: Terrifier’s New Killer is No Laughing Matter",
+      "url": "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-24T17:00:00+00:00",
+      "score": 11,
+      "event_key": "Art the Clown joins Dead by Daylight roster",
+      "title_ru": "В Dead by Daylight появился новый убийца — Art the Clown",
+      "threads_teaser_ru": "В Dead by Daylight прибыл Art the Clown из серии Terrifier. Новый маньяк получил уникальную механику случайного оружия из мешка, семь видов добиваний и систему эмоций, которая напрямую влияет на эффективность его атак в матче.",
+      "telegram_message_id": "3197",
+      "telegram_url": "https://t.me/gamepulse_newss/3197",
+      "telegram_published_at": "2026-11-24T23:17:17.961349+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Keyart_Resizes_1920x1080_NO-LOGO-e13566f3baf87bba0e27.jpg"
     }
   ],
-  "updated_at": "2026-11-24T23:02:53.466811+00:00"
+  "updated_at": "2026-11-24T23:17:17.961454+00:00"
 }
