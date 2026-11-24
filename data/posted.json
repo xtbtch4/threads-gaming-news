@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7ce465abab1ec55c04fa5c6d",
-      "title": "HBO’s New Green Lantern Series Officially Gets an Important Update",
-      "url": "https://polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed",
-      "source": "Polygon",
-      "published_at_source": "2026-10-30T16:16:15+00:00",
-      "score": 12,
-      "event_key": "my adventures with green lantern episode count revealed",
-      "title_ru": "Стало известно количество эпизодов в My Adventures with Green Lantern",
-      "threads_teaser_ru": "Руководитель DC Studios Питер Сафран раскрыл детали анимационного сериала My Adventures with Green Lantern. Первый сезон получит 10 получасовых эпизодов, а в центре сюжета окажется Джессика Круз.",
-      "telegram_message_id": "1950",
-      "telegram_url": "https://t.me/gamepulse_newss/1950",
-      "telegram_published_at": "2026-10-30T16:17:30.867040+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/green-lantern-jessica-cruz.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-30T16:17:32.373713+00:00"
-    },
-    {
       "fingerprint": "a5bcc38287572914e6adf9c7",
       "title": "Terrible Lizards: Movement Is Your Weapon",
       "url": "https://news.xbox.com/en-us/2026/10/30/terrible-lizards-movement-is-your-weapon",
@@ -20519,7 +20502,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/05/08/gta6-ps5-pro-blogroll-1746706763762.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-24T05:02:32.974957+00:00"
+    },
+    {
+      "fingerprint": "37f5cbd44f9f642194d0d6d6",
+      "title": "Steam Officially Launches Its 2026 Game of the Year Awards Voting",
+      "url": "https://polygon.com/steam-awards-2026-game-of-the-year-nominations",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T21:48:05+00:00",
+      "score": 8,
+      "event_key": "steam awards 2026 nominations officially launch valve",
+      "title_ru": "Valve запустила голосование за номинантов премия Steam Awards 2026",
+      "threads_teaser_ru": "Valve открыла этап номинаций на премию Steam Awards 2026, включая новую категорию Hall of Fame Award для победителей прошлых лет. Голосование продлится до 30 ноября.",
+      "telegram_message_id": "3154",
+      "telegram_url": "https://t.me/gamepulse_newss/3154",
+      "telegram_published_at": "2026-11-24T05:16:31.957362+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4"
     }
   ],
-  "updated_at": "2026-11-24T05:02:32.975047+00:00"
+  "updated_at": "2026-11-24T05:16:31.957457+00:00"
 }
