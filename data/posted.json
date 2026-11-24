@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a585c464d7c25ab025972548",
-      "title": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
-      "url": "https://gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-30T09:46:00+00:00",
-      "score": 12,
-      "event_key": "EA shelved mysterious Sims project",
-      "title_ru": "EA закрыла секретный проект по франшизе The Sims",
-      "threads_teaser_ru": "Компания EA неожиданно свернула разработку таинственного проекта во вселенной The Sims. На фоне этого издатель подтвердил дальнейшую поддержку других своих ключевых франшиз.",
-      "telegram_message_id": "1960",
-      "telegram_url": "https://t.me/gamepulse_newss/1960",
-      "telegram_published_at": "2026-10-30T18:47:12.735141+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-30T18:47:14.625813+00:00"
-    },
-    {
       "fingerprint": "87fef778b30701c34b7c357c",
       "title": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets",
       "url": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/soldiers-at-war.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T07:32:38.076990+00:00"
+    },
+    {
+      "fingerprint": "cff2ee3947fc8e13352c8f48",
+      "title": "Think you know games? That we liked? This year? Then join the RPS Advent Calendar Guessing Game 2026",
+      "url": "https://rockpapershotgun.com/rps-advent-calendar-guessing-game-2026",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-23T18:01:10+00:00",
+      "score": 6,
+      "event_key": "rps advent calendar guessing game 2026 launched",
+      "title_ru": "Стартовал традиционный конкурс прогнозов RPS Advent Calendar Guessing Game 2026",
+      "threads_teaser_ru": "Читатели Rock Paper Shotgun могут принять участие в традиционном конкурсе прогнозов Advent Calendar Guessing Game 2026 и попытаться угадать лучшие игры года ради подписок на RPS Supporter.",
+      "telegram_message_id": "3164",
+      "telegram_url": "https://t.me/gamepulse_newss/3164",
+      "telegram_published_at": "2026-11-24T07:47:09.313077+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/2026-Advent-Calendar-Guessing-Game-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T07:32:38.077086+00:00"
+  "updated_at": "2026-11-24T07:47:09.313162+00:00"
 }
