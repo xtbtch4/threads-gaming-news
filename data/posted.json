@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "66ce0889ddc8aa68ed3859b1",
-      "title": "Save $310 Off the Lenovo Yoga Tab Plus Gen 2 Tablet, a Cost Effective Android Alternative to the iPad Pro",
-      "url": "https://ign.com/articles/lenovo-yoga-tab-plus-tablet-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T21:10:00+00:00",
-      "score": 9,
-      "event_key": "Lenovo Yoga Tab Plus Gen 2 discount deal October 2026",
-      "title_ru": "Lenovo Yoga Tab Plus Gen 2 подешевел на $310",
-      "threads_teaser_ru": "Lenovo устроила распродажу планшета Yoga Tab Plus Gen 2. Устройство с процессором Snapdragon 8 Elite и 12 ГБ ОЗУ можно приобрести со скидкой $310 при использовании специальных купонов. В комплект входят стилус и клавиатура.",
-      "telegram_message_id": "1970",
-      "telegram_url": "https://t.me/gamepulse_newss/1970",
-      "telegram_published_at": "2026-10-30T22:32:09.130314+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/lenovtabplusgen2-1793392876832.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T22:32:10.396804+00:00"
-    },
-    {
       "fingerprint": "588c9b591ebc42b0155b26f3",
       "title": "VRChat Devs Spark Outrage After Refusing to Include AI Label Despite 95% of Fans Asking for It",
       "url": "https://ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mv5bnjrlnzhkntmtmmexmi00otu2lwfkyjutmdzjnzk2odk0mgezxkeyxkfqcgc-_v1_.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-24T10:46:53.145996+00:00"
+    },
+    {
+      "fingerprint": "58269c0a71eb0fd20e2d3e11",
+      "title": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else",
+      "url": "https://eurogamer.net/warhammer-40000-boltgun-2-now-playing",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T11:31:10+00:00",
+      "score": 9,
+      "event_key": "boltgun-2-retro-fps-release-auroch-digital",
+      "title_ru": "Анонс и особенности ретро-шутера Boltgun 2",
+      "threads_teaser_ru": "Eurogamer поделился впечатлениями от ретро-шутера Boltgun 2 от студии Auroch Digital. Игра предлагает динамичный экшен, двух уникальных персонажей на выбор и фирменную жестокую атмосферу вселенной.",
+      "telegram_message_id": "3174",
+      "telegram_url": "https://t.me/gamepulse_newss/3174",
+      "telegram_published_at": "2026-11-24T11:32:16.796246+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/boltgun-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T10:46:53.146080+00:00"
+  "updated_at": "2026-11-24T11:32:16.796339+00:00"
 }
