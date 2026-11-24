@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "659a0b08b9f5c1c7d31c01d3",
-      "title": "Save 20% (or More) Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
-      "url": "https://ign.com/articles/minecraft-dungeons-2-deal-october-2026",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T20:30:00+00:00",
-      "score": 11,
-      "event_key": "Minecraft Dungeons 2 discount sale on Woot",
-      "title_ru": "Minecraft Dungeons 2 участвует в распродаже на Woot",
-      "threads_teaser_ru": "На площадке Woot стартовала распродажа игр для Nintendo Switch 2, в которую попала Minecraft Dungeons 2. С использованием промокода стоимость проекта временно снижена до 35,99 доллара.",
-      "telegram_message_id": "1967",
-      "telegram_url": "https://t.me/gamepulse_newss/1967",
-      "telegram_published_at": "2026-10-30T21:32:46.541142+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/minecraftdungeons2-1793390585254.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T21:32:47.925260+00:00"
-    },
-    {
       "fingerprint": "848fd47fb79bfabe1bb29118",
       "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
       "url": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state",
@@ -20519,7 +20502,23 @@
       "threads_id": "disabled",
       "image_url": "",
       "threads_published_at": "2026-11-24T09:17:20.757882+00:00"
+    },
+    {
+      "fingerprint": "460375f7c2a5f9711cf92f7c",
+      "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+      "url": "https://eurogamer.net/xbox-live-helix-killing-paid-membership",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T10:02:10+00:00",
+      "score": 11,
+      "event_key": "microsoft-considered-removing-paid-multiplayer-for-xbox-helix",
+      "title_ru": "Microsoft рассматривала отмену платного мультиплеера для консоли Xbox Helix",
+      "threads_teaser_ru": "Сообщается, что Microsoft планировала отказаться от платного мультиплеера для консоли следующего поколения Xbox Helix, но позже изменила свое решение из-за смены руководства и других факторов.",
+      "telegram_message_id": "3171",
+      "telegram_url": "https://t.me/gamepulse_newss/3171",
+      "telegram_published_at": "2026-11-24T10:02:47.577905+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/sharma-gold.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T09:17:20.757974+00:00"
+  "updated_at": "2026-11-24T10:02:47.578002+00:00"
 }
