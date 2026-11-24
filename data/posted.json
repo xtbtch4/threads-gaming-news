@@ -20518,9 +20518,10 @@
       "telegram_message_id": "3142",
       "telegram_url": "https://t.me/gamepulse_newss/3142",
       "telegram_published_at": "2026-11-24T02:17:10.734515+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/binding-of-isaac-repentance-plus-update-ai-music-pulled-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/binding-of-isaac-repentance-plus-update-ai-music-pulled-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-24T02:17:12.104213+00:00"
     }
   ],
-  "updated_at": "2026-11-24T02:17:10.734580+00:00"
+  "updated_at": "2026-11-24T02:17:12.104291+00:00"
 }
