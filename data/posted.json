@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0fb850781ae7a18181393998",
-      "title": "Disguise announces new Yoshi costumes just in time for Halloween - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/disguise-announces-new-yoshi-costumes-just-in-time-for-halloween",
-      "source": "Nintendo",
-      "published_at_source": "2026-10-30T16:00:00+00:00",
-      "score": 15,
-      "event_key": "disguise announces new yoshi halloween costumes",
-      "title_ru": "Disguise анонсировала новые костюмы Yoshi к Хэллоуину",
-      "threads_teaser_ru": "Компания Disguise представила новую коллекцию костюмов Yoshi к Хэллоуину. Они уже доступны в продаже на популярных площадках и в магазинах Северной Америки и EMEA.",
-      "telegram_message_id": "1953",
-      "telegram_url": "https://t.me/gamepulse_newss/1953",
-      "telegram_published_at": "2026-10-30T17:02:26.759173+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-10-30T17:02:28.071133+00:00"
-    },
-    {
       "fingerprint": "40bdd84ce857bf1f06663aec",
       "title": "Animal Crossing’s Biggest Competitor Officially Launches in December",
       "url": "https://polygon.com/petit-planet-release-date-trailer",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Faye-holds-a-mythical-sword-in-new-God-of-War-game-from-Sony-Santa-Monica.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T05:47:05.032454+00:00"
+    },
+    {
+      "fingerprint": "eb55b4257f3f090cd373c361",
+      "title": "Where to find the Port Gellhorn serial killer in GTA 6",
+      "url": "https://polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T22:48:22+00:00",
+      "score": 7,
+      "event_key": "gta-6-port-gellhorn-serial-killer-side-mission",
+      "title_ru": "Где найти серийного убийцу и пропавших туристов в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 можно пройти жуткое побочное задание в Port Gellhorn, связанное с поисками пропавших туристов и серийного убийцы. Рассказываем, с чего начать расследование и где искать улики.",
+      "telegram_message_id": "3157",
+      "telegram_url": "https://t.me/gamepulse_newss/3157",
+      "telegram_published_at": "2026-11-24T06:02:23.024416+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-port-gelhorn-missing-tourists.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-24T05:47:05.032545+00:00"
+  "updated_at": "2026-11-24T06:02:23.024494+00:00"
 }
