@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3d6ff361db8154f7571d7d53",
-      "title": "The Onion Is Ready For GTA 6: ‘You're Kind of a Dummy For Thinking This Is Gonna Change Everything\"",
-      "url": "https://polygon.com/the-onion-gta-6-coverage",
-      "source": "Polygon",
-      "published_at_source": "2026-10-30T14:30:18+00:00",
-      "score": 12,
-      "event_key": "the onion prepares satirical coverage for gta 6 release",
-      "title_ru": "The Onion шутит над ажиотажем вокруг GTA 6",
-      "threads_teaser_ru": "Сатирическое издание The Onion выпустило материалы, высмеивающие огромный ажиотаж вокруг грядущего релиза GTA 6 от Rockstar Games. Главный сценарист объяснил, почему такие игры идеальны для сатиры.",
-      "telegram_message_id": "1944",
-      "telegram_url": "https://t.me/gamepulse_newss/1944",
-      "telegram_published_at": "2026-10-30T14:47:28.110868+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-24.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/06/coverart-1782503168.mp4",
-      "threads_published_at": "2026-10-30T14:47:29.627787+00:00"
-    },
-    {
       "fingerprint": "262df47304c3f0b3bff98df7",
       "title": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3",
       "url": "https://eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3",
@@ -20521,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/bj-freezeezy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T03:32:06.890842+00:00"
+    },
+    {
+      "fingerprint": "e9722f6a92d5a14bf47b9d01",
+      "title": "Nightdive's Thief remaster will make the most \"infamous\" Thief Gold level a little less maddening, by \"just kind of pointing the player in the right direction\"",
+      "url": "https://rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-23T13:30:00+00:00",
+      "score": 10,
+      "event_key": "nightdive_thieves_guild_level_remaster_thief",
+      "title_ru": "Ремастер Thief сделает уровень Thieves Guild менее раздражающим",
+      "threads_teaser_ru": "В грядущем ремастере Thief: The Dark Project разработчики из Nightdive улучшат один из самых неоднозначных уровней серии — Thieves Guild. Локацию сделают менее запутанной с помощью новых текстур и визуальных подсказок.",
+      "telegram_message_id": "3148",
+      "telegram_url": "https://t.me/gamepulse_newss/3148",
+      "telegram_published_at": "2026-11-24T03:46:44.933248+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/thief-remaster_WT2VzYs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T03:32:06.890941+00:00"
+  "updated_at": "2026-11-24T03:46:44.933345+00:00"
 }
