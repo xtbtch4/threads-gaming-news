@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "721d5b65b9f8c1b36b172ebd",
-      "title": "New Pokémon Release Brings Hundreds of New Eeveelutions",
-      "url": "https://polygon.com/pokemon-new-eeveelutions-gba-game-download",
-      "source": "Polygon",
-      "published_at_source": "2026-10-30T22:42:17+00:00",
-      "score": 8,
-      "event_key": "pokemon oops all eevees fan game release",
-      "title_ru": "Фанаты выпустили игру с сотнями новых эволюций Eevee",
-      "threads_teaser_ru": "Вышла фанатская игра Pokémon Oops! All Eevees, в которой представлено более 300 новых форм для покемона Eevee. Модификация на базе Pokémon FireRed полностью меняет ростер существ и предлагает уникальный финал, где проверяются знания игрока об особенностях всех Eeveelutions.",
-      "telegram_message_id": "1973",
-      "telegram_url": "https://t.me/gamepulse_newss/1973",
-      "telegram_published_at": "2026-10-30T23:17:05.151022+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/eevee-grove-key-art.png?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/pokemoncards-1789859278.mp4",
-      "threads_published_at": "2026-10-30T23:17:06.507745+00:00"
-    },
-    {
       "fingerprint": "4122d2f898a74b9803fbc248",
       "title": "What GTA Clones Did Better Than Grand Theft Auto Itself",
       "url": "https://gamespot.com/articles/what-gta-clones-did-better-than-grand-theft-auto-itself",
@@ -20518,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T12:02:51.521406+00:00"
+    },
+    {
+      "fingerprint": "12ba59d0b2628a3976e37f3f",
+      "title": "Xbox Project Helix Was Reportedly Designed To Make Online Multiplayer Free",
+      "url": "https://gamespot.com/articles/xbox-project-helix-was-reportedly-designed-to-make-online-multiplayer-free",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T12:03:22+00:00",
+      "score": 15,
+      "event_key": "xbox project helix online multiplayer free consideration",
+      "title_ru": "Xbox Project Helix должна была сделать онлайн-мультиплеер бесплатным",
+      "threads_teaser_ru": "Консоль Xbox Project Helix изначально планировалась без платная подписки на онлайн-мультиплеер. Однако из-за смены руководства, роста цен на железо и курса на прибыльность планы могли измениться.",
+      "telegram_message_id": "3177",
+      "telegram_url": "https://t.me/gamepulse_newss/3177",
+      "telegram_published_at": "2026-11-24T12:16:53.679560+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.png?w=300"
     }
   ],
-  "updated_at": "2026-11-24T12:02:51.521493+00:00"
+  "updated_at": "2026-11-24T12:16:53.679647+00:00"
 }
