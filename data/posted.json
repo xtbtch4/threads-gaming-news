@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9147be99b19702523622a3c5",
-      "title": "Bungie Says 'Don't Buy Marathon as a Donation' as Destiny Players Look to Support Studio's Future",
-      "url": "https://ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T21:30:44+00:00",
-      "score": 9,
-      "event_key": "Bungie clarifies Marathon purchase is not donation for Destiny",
-      "title_ru": "Bungie попросила игроков не покупать Marathon в качестве «пожертвования» для поддержки Destiny",
-      "threads_teaser_ru": "Bungie прокомментировала опасения фанатов Destiny, которые посчитали, что студия просит покупать их новый шутер Marathon в качестве «пожертвования» для спасения франшизы. Джош Дин объяснил, что это было недопонимание, и призвал играть только в то, что действительно интересно.",
-      "telegram_message_id": "1969",
-      "telegram_url": "https://t.me/gamepulse_newss/1969",
-      "telegram_published_at": "2026-10-30T22:17:28.877193+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/05/24/marathon-blogroll-02-1684962151922.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T22:17:30.143174+00:00"
-    },
-    {
       "fingerprint": "66ce0889ddc8aa68ed3859b1",
       "title": "Save $310 Off the Lenovo Yoga Tab Plus Gen 2 Tablet, a Cost Effective Android Alternative to the iPad Pro",
       "url": "https://ign.com/articles/lenovo-yoga-tab-plus-tablet-deal-october-2026",
@@ -20518,7 +20501,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T10:17:02.712793+00:00"
+    },
+    {
+      "fingerprint": "803fb27c20bbbd49bb9b08c3",
+      "title": "Scott Pilgrim Is Officially Coming to Fortnite",
+      "url": "https://polygon.com/fortnite-scott-pilgrim-confirmed",
+      "source": "Polygon",
+      "published_at_source": "2026-11-24T10:31:49+00:00",
+      "score": 6,
+      "event_key": "Scott Pilgrim collaboration coming to Fortnite battle royale",
+      "title_ru": "Scott Pilgrim появится в Fortnite",
+      "threads_teaser_ru": "Вселенная Scott Pilgrim официально доберется до Fortnite. Автор серии Брайан Ли О'Мэлли подтвердил коллаборацию, а датамайнеры уже обнаружили в файлах игры упоминания новых скинов, эмоции и музыкальных инструментов.",
+      "telegram_message_id": "3173",
+      "telegram_url": "https://t.me/gamepulse_newss/3173",
+      "telegram_published_at": "2026-11-24T10:46:51.742143+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mv5bnjrlnzhkntmtmmexmi00otu2lwfkyjutmdzjnzk2odk0mgezxkeyxkfqcgc-_v1_.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-24T10:17:02.712886+00:00"
+  "updated_at": "2026-11-24T10:46:51.742222+00:00"
 }
