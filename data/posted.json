@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "eafcccedcfed98c86797fb1b",
-      "title": "Pokémon Announces Newest Collab, and It's With... Fender Guitars?!",
-      "url": "https://ign.com/articles/pokemon-announces-newest-collab-and-its-withfender-guitars",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T16:48:28+00:00",
-      "score": 13,
-      "event_key": "pokemon fender guitars collaboration 30th anniversary 2027",
-      "title_ru": "Pokémon анонсировала коллаборацию с Fender Guitars",
-      "threads_teaser_ru": "Компания The Pokémon Company анонсировала коллаборацию с Fender Guitars в честь 30-летия Pokémon Red и Pokémon Green. В 2027 году выйдут тематические гитары Stratocaster и Telecaster с функцией 8-битного звука.",
-      "telegram_message_id": "1958",
-      "telegram_url": "https://t.me/gamepulse_newss/1958",
-      "telegram_published_at": "2026-10-30T18:17:27.184384+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/pikachu-1793378514177.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T18:17:28.912212+00:00"
-    },
-    {
       "fingerprint": "496af8528428a1ece1f48b85",
       "title": "Official PlayStation Podcast Episode 552: Pumpkins and Pines",
       "url": "https://blog.playstation.com/2026/10/30/official-playstation-podcast-episode-552-shivering-silver",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/hisenseur8-1795478035035.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-24T07:02:31.130217+00:00"
+    },
+    {
+      "fingerprint": "d254648f92b23ffcba08fc3f",
+      "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
+      "url": "https://polygon.com/gta-6-nickelback-cover",
+      "source": "Polygon",
+      "published_at_source": "2026-11-24T00:00:18+00:00",
+      "score": 6,
+      "event_key": "grand theft auto 6 nickelback cover goes viral",
+      "title_ru": "Кавер на Nickelback в Grand Theft Auto 6 стал вирусным",
+      "threads_teaser_ru": "Саундтрек Grand Theft Auto 6 неожиданно вернул популярность хиту Nickelback. Благодаря внутриигровому радио трек зазвучал на греческом языке и стал вирусным в сети.",
+      "telegram_message_id": "3162",
+      "telegram_url": "https://t.me/gamepulse_newss/3162",
+      "telegram_published_at": "2026-11-24T07:16:29.473661+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/nickelback-photograph-gta-6.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-24T07:02:31.130309+00:00"
+  "updated_at": "2026-11-24T07:16:29.473743+00:00"
 }
