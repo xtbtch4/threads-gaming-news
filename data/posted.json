@@ -20514,9 +20514,10 @@
       "telegram_message_id": "3179",
       "telegram_url": "https://t.me/gamepulse_newss/3179",
       "telegram_published_at": "2026-11-24T13:16:49.715102+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-1793984731251.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-1793984731251.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-24T13:16:51.095937+00:00"
     }
   ],
-  "updated_at": "2026-11-24T13:16:49.715150+00:00"
+  "updated_at": "2026-11-24T13:16:51.096025+00:00"
 }
