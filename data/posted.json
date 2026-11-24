@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "84228fd18822360e5aa406c2",
-      "title": "In Puckoff: Reloaded, Hockey Is About More Than Scoring Goals",
-      "url": "https://news.xbox.com/en-us/2026/10/30/in-puckoff-reloaded-hockey-is-about-more",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-30T18:00:00+00:00",
-      "score": 7,
-      "event_key": "Puckoff: Reloaded release on Xbox Series X|S",
-      "title_ru": "Релиз сюжетной хоккейной игры Puckoff: Reloaded",
-      "threads_teaser_ru": "На Xbox Series X|S вышла Puckoff: Reloaded — хоккейный экшен с упором на сюжет и бои. Разработчики превратили дворовый спорт в историю о поиске легендарного игрока, где победить можно не только голами, но и нокаутами соперников.",
-      "telegram_message_id": "1990",
-      "telegram_url": "https://t.me/gamepulse_newss/1990",
-      "telegram_published_at": "2026-10-31T07:03:01.739435+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/PUCKOFF_RELOADED_hero_1-1f427c15ecebabcb614e.jpg",
-      "threads_published_at": "2026-10-31T07:03:03.170742+00:00"
-    },
-    {
       "fingerprint": "47d93d3d4da6a4708aff73a2",
       "title": "Happy Halloween from the Kennel! || Naughty Dog",
       "url": "https://naughtydog.com/blog/happy-halloween-from-the-kennel",
@@ -20514,7 +20497,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-24T22:17:30.064964+00:00"
+    },
+    {
+      "fingerprint": "2211afca807ea1e3712ead35",
+      "title": "GTA 6 players are discovering, who needs a gun when it's easier to rob a store with a crate of beer?",
+      "url": "https://eurogamer.net/grand-theft-auto-6-beer-robberies",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T16:33:50+00:00",
+      "score": 12,
+      "event_key": "Grand Theft Auto 6 store robbery with beer crates",
+      "title_ru": "В Grand Theft Auto 6 игроки используют ящики с пивом для ограблений",
+      "threads_teaser_ru": "В Grand Theft Auto 6 игроки нашли способ грабить магазины без оружия — они используют ящики с пивом и бутылки в качестве снарядов. Это позволяет тихо нейтрализовать охранников и персонал, не привлекая внимания полиции. Рассказываем, как это работает.",
+      "telegram_message_id": "3194",
+      "telegram_url": "https://t.me/gamepulse_newss/3194",
+      "telegram_published_at": "2026-11-24T22:32:37.427419+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-25.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOg7Y38SJdcXC4RJ-4OstFvMue1PaifuilH1dnUbHlppfvaV1lc_5YtizUVZa_6XiJwS0E1gV13wu8rDa1G15j_uuhwWvsftmVb5ss.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=zZXKt6-IrcMQ7kNvwHAp8yQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4OTk2NjY1Njk2MTM4ODcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=27e93c339563baf4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GOTYzMDMyMDgwM0U0MTk1OTE4QjQ1NkZFRDc1QjIwM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQzM0M2NTFGQTZCMzRDNjk5NkUxM0JDQjZDNjU5MTI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb-yNa33OnLPxUCKAJDMywXQFkAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xczIjHmGAL7gPblbwM5WuA&_nc_ss=70789&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSwLNJ9YOVwMPW0DdA4CSTIlFAgdf4Z8VpuoO6hI_Co2A&oe=6B07E066"
     }
   ],
-  "updated_at": "2026-11-24T22:17:30.065062+00:00"
+  "updated_at": "2026-11-24T22:32:37.427522+00:00"
 }
