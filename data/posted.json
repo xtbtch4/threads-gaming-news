@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4177572fb0075828f3835a68",
-      "title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
-      "url": "https://ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T02:13:24+00:00",
-      "score": 15,
-      "event_key": "final fantasy xiv evercold delayed release date february 2027",
-      "title_ru": "Дополнение Final Fantasy XIV Evercold отложено",
-      "threads_teaser_ru": "Дополнение Final Fantasy XIV Evercold задерживается: релиз сдвинулся с января на 23 февраля 2027 года. На мероприятии в Японии также показали новый класс Zephyr и объявили дату старта предзаказов.",
-      "telegram_message_id": "1982",
-      "telegram_url": "https://t.me/gamepulse_newss/1982",
-      "telegram_published_at": "2026-10-31T03:02:43.413944+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/zmuw00jj6cltw9cxd43buxhq3e-1793411179167.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T03:02:44.837925+00:00"
-    },
-    {
       "fingerprint": "930432170758752db3802daa",
       "title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
       "url": "https://ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ciri-the-witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T19:32:55.667478+00:00"
+    },
+    {
+      "fingerprint": "b022e69390deda3e57906dbb",
+      "title": "Action RPG Showa American Story seemingly delayed into 2027, with no comment on why from developer NEKCOM",
+      "url": "https://rockpapershotgun.com/action-rpg-showa-american-story-seemingly-delayed-into-2027-with-no-comment-on-why-from-developer-nekcom",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-24T13:50:10+00:00",
+      "score": 13,
+      "event_key": "Showa American Story release date delay to 2027",
+      "title_ru": "Релиз экшен-RPG Showa American Story, вероятно, перенесли на 2027 год",
+      "threads_teaser_ru": "Экшен-RPG Showa American Story, похоже, задержится до 2027 года. Официальных заявлений от студии NEKCOM пока нет, но дата релиза в Steam изменилась. Ранее авторы сообщали, что проект уже готов контентно и находится на стадии финальной полировки.",
+      "telegram_message_id": "3186",
+      "telegram_url": "https://t.me/gamepulse_newss/3186",
+      "telegram_published_at": "2026-11-24T19:47:31.818159+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Showa.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T19:32:55.667556+00:00"
+  "updated_at": "2026-11-24T19:47:31.818247+00:00"
 }
