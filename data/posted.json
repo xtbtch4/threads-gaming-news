@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d68a7c9e8818d82c313c63ea",
-      "title": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
-      "url": "https://eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-30T17:45:23+00:00",
-      "score": 13,
-      "event_key": "dark-souls-2-and-3-servers-temporarily-shutting-down",
-      "title_ru": "Серверы Dark Souls 2 и Dark Souls 3 временно отключают",
-      "threads_teaser_ru": "FromSoftware временно отключила серверы Dark Souls 2 и Dark Souls 3 на всех платформах из-за серверной проблемы. Сетевые функции и PvP временно недоступны.",
-      "telegram_message_id": "1956",
-      "telegram_url": "https://t.me/gamepulse_newss/1956",
-      "telegram_published_at": "2026-10-30T17:47:07.043011+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dark-souls-3-header_L2YTf0e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-30T17:47:08.772600+00:00"
-    },
-    {
       "fingerprint": "baba20712fef6331e3bfb519",
       "title": "HBO’s Harry Potter Series Finds Its Sorting Hat, Fat Lady, and Ghosts",
       "url": "https://ign.com/articles/hbos-harry-potter-series-finds-its-sorting-hat-fat-lady-and-ghosts",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/NVIDIA-CEO-Jensen-Huang-Keynote-at-CES-2025-20-19-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T06:32:32.147012+00:00"
+    },
+    {
+      "fingerprint": "47657dc92aecb21d1a94ded4",
+      "title": "The Best LEGO Gifts to Buy For Adults in 2026",
+      "url": "https://ign.com/articles/the-best-lego-gifts-for-adults-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-24T04:34:00+00:00",
+      "score": 6,
+      "event_key": "best lego gifts for adults 2026 ign",
+      "title_ru": "Лучшие конструкторы LEGO для взрослых в 2026 году",
+      "threads_teaser_ru": "Издание IGN представило подборку лучших наборов LEGO для взрослых на 2026 год. В список вошли масштабные релизы по Lord of the Rings, PlayStation, Pokémon, Star Trek и другим популярным вселенным.",
+      "telegram_message_id": "3160",
+      "telegram_url": "https://t.me/gamepulse_newss/3160",
+      "telegram_published_at": "2026-11-24T06:46:58.160190+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/09/lego-pokemon-1768228323199-1783617779931.webp?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T06:32:32.147101+00:00"
+  "updated_at": "2026-11-24T06:46:58.160261+00:00"
 }
