@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4122d2f898a74b9803fbc248",
-      "title": "What GTA Clones Did Better Than Grand Theft Auto Itself",
-      "url": "https://gamespot.com/articles/what-gta-clones-did-better-than-grand-theft-auto-itself",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-30T10:50:00+00:00",
-      "score": 9,
-      "event_key": "analysis of games competing with Grand Theft Auto series",
-      "title_ru": "Что «клоны» Grand Theft Auto делали лучше оригинала",
-      "threads_teaser_ru": "Серия Grand Theft Auto считается эталоном AAA-игр благодаря своему масштабу и инновациям. Однако в истории индустрии были проекты, которые пытались конкурировать с франшизой и в некоторых аспектах справлялись с этим лучше, чем сама Grand Theft Auto.",
-      "telegram_message_id": "1974",
-      "telegram_url": "https://t.me/gamepulse_newss/1974",
-      "telegram_published_at": "2026-10-30T23:47:59.825336+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-10-30T23:48:01.409160+00:00"
-    },
-    {
       "fingerprint": "d5441e9ced3181a8b1f5a65f",
       "title": "Magic: The Gathering Designers Detail Reality Fracture’s Jace Arc, Echoed Pairs, and Secret Lair Bundles",
       "url": "https://ign.com/articles/magic-the-gathering-designers-on-making-jace-relevant-for-reality-fracture-favorite-cards-and-that-secret-lair-bundle",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.png?w=300",
       "threads_published_at": "2026-11-24T12:16:56.046768+00:00"
+    },
+    {
+      "fingerprint": "1767668fe53ffaf838ea06d1",
+      "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
+      "url": "https://eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T11:54:00+00:00",
+      "score": 13,
+      "event_key": "rockstar_shopping_red_dead_redemption_rights",
+      "title_ru": "Rockstar ищет покупателей на кино- и телеправа на Red Dead Redemption",
+      "threads_teaser_ru": "Rockstar Games готова продать кино- и телеправа на Red Dead Redemption как минимум за 100 миллионов долларов. Однако экранизации Grand Theft Auto ждать не стоит.",
+      "telegram_message_id": "3178",
+      "telegram_url": "https://t.me/gamepulse_newss/3178",
+      "telegram_published_at": "2026-11-24T12:47:11.557941+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/rdr-2-hollywood-header-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T12:16:56.046875+00:00"
+  "updated_at": "2026-11-24T12:47:11.558062+00:00"
 }
