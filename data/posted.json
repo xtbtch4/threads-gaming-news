@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a5bcc38287572914e6adf9c7",
-      "title": "Terrible Lizards: Movement Is Your Weapon",
-      "url": "https://news.xbox.com/en-us/2026/10/30/terrible-lizards-movement-is-your-weapon",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-10-30T15:00:00+00:00",
-      "score": 11,
-      "event_key": "terrible-lizards-release-xbox-game-pass",
-      "title_ru": "Terrible Lizards вышла на Xbox Series X|S и Game Pass",
-      "threads_teaser_ru": "Экшен-платформер от первого лица Terrible Lizards уже доступен на XBOX Series X|S и в Game Pass. В этой игре про побег от динозавров-аниматроников движение заменяет оружие.",
-      "telegram_message_id": "1951",
-      "telegram_url": "https://t.me/gamepulse_newss/1951",
-      "telegram_published_at": "2026-10-30T16:32:27.048921+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/TitledHeroArt_1920x1080-6061668f5e0d4550d3e7.jpg",
-      "threads_published_at": "2026-10-30T16:32:28.552467+00:00"
-    },
-    {
       "fingerprint": "72c89cabcd53ac694595271b",
       "title": "Share of the Week: Costumes",
       "url": "https://blog.playstation.com/2026/10/30/share-of-the-week-costumes-3",
@@ -20520,7 +20503,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4",
       "threads_published_at": "2026-11-24T05:16:33.445357+00:00"
+    },
+    {
+      "fingerprint": "cf2adf182d69b5edbf0e30e9",
+      "title": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
+      "url": "https://polygon.com/gta-6-playable-video-games-ranked",
+      "source": "Polygon",
+      "published_at_source": "2026-11-23T21:04:57+00:00",
+      "score": 8,
+      "event_key": "polygon ranked playable video games inside grand theft auto 6",
+      "title_ru": "Игровые авторитеты: рейтинг видеоигр внутри Grand Theft Auto 6",
+      "threads_teaser_ru": "Внутри открытого мира Grand Theft Auto 6 игроки могут опробовать четыре полноценные видеоигры. Издание Polygon оценило их от худшей к лучшей — от аркадных тиров до сатирических артхаусных головоломок.",
+      "telegram_message_id": "3155",
+      "telegram_url": "https://t.me/gamepulse_newss/3155",
+      "telegram_published_at": "2026-11-24T05:32:26.693383+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-lucia-arcade-cabinet.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-24T05:16:33.445454+00:00"
+  "updated_at": "2026-11-24T05:32:26.693470+00:00"
 }
