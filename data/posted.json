@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c6ee0826bd9555e7ddf30d73",
-      "title": "Magic: The Gathering’s Hobbit Play Boosters Just Hit a New Lowest-Ever Price Ahead of Black Friday",
-      "url": "https://ign.com/articles/magic-the-gathering-hobbit-play-boosters-just-hit-a-new-lowest-ever-price-ahead-of-black-friday",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T11:34:02+00:00",
-      "score": 9,
-      "event_key": "magic the gathering hobbit play boosters price discount amazon",
-      "title_ru": "На Magic: The Gathering Hobbit Play Boosters установили минимальную цену в преддверии Black Friday",
-      "threads_teaser_ru": "В преддверии Black Friday стоимость коробки Play Boosters для Magic: The Gathering (Middle-Earth) опустилась до рекордно низкой отметки в $139,99 на Amazon. Рассказываем, что входит в комплект и как изменилась цена за одну упаковку.",
-      "telegram_message_id": "1939",
-      "telegram_url": "https://t.me/gamepulse_newss/1939",
-      "telegram_published_at": "2026-10-30T13:32:15.544855+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/14/the-hobbit-booster-boxes-ign-1786699466644.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T13:32:16.916454+00:00"
-    },
-    {
       "fingerprint": "19b227bf8b2f1d09d00c1c8f",
       "title": "Trying Gears of War: E-Day with Max Settings on NVIDIA GeForce NOW",
       "url": "https://ign.com/articles/trying-gears-of-war-e-day-with-max-settings-on-nvidia-geforce-now",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/binding-of-isaac-repentance-plus-update-ai-music-pulled-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T02:17:12.104213+00:00"
+    },
+    {
+      "fingerprint": "70635b75ed60abcf4c73cfd6",
+      "title": "Sea of Remnants: Set Sail for the Dawnbreaker Closed Beta on XBOX Series X",
+      "url": "https://news.xbox.com/en-us/2026/11/23/sea-of-remnants-set-sail-for-the-dawnbreaker-closed-beta-on-xbox-series-x",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-23T19:00:00+00:00",
+      "score": 11,
+      "event_key": "sea of remnants dawnbreaker closed beta xbox series x",
+      "title_ru": "Закрытое бета-тестирование Dawnbreaker для Sea of Remnants на XBOX Series X",
+      "threads_teaser_ru": "Для Sea of Remnants анонсировано закрытое бета-тестирование Dawnbreaker на XBOX Series X. Оно начнется 3 декабря для участников XBOX Insiders и предложит новые регионы, корабли и контент.",
+      "telegram_message_id": "3143",
+      "telegram_url": "https://t.me/gamepulse_newss/3143",
+      "telegram_published_at": "2026-11-24T02:32:10.229434+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Sea-of-Remnants-Closed-Beta-Cover-Image-3b4f66ba999143ae3db8.jpg"
     }
   ],
-  "updated_at": "2026-11-24T02:17:12.104291+00:00"
+  "updated_at": "2026-11-24T02:32:10.229522+00:00"
 }
