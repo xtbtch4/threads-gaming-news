@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f92c1215d4c1e8fa4cfa1ac",
-      "title": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
-      "url": "https://ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T10:14:57+00:00",
-      "score": 11,
-      "event_key": "Eiji Aonuma talks about young developers on Ocarina of Time remake",
-      "title_ru": "Продюсер серии The Legend of Zelda высказался о ремейке Ocarina of Time",
-      "threads_teaser_ru": "Эйдзи Аонума объяснил, почему для разработки ремейка The Legend of Zelda: Ocarina of Time было полезно привлечь сотрудников, которые никогда не играли в оригинал. Рассказываем, как это повлияло на создание игры для Nintendo Switch 2.",
-      "telegram_message_id": "1932",
-      "telegram_url": "https://t.me/gamepulse_newss/1932",
-      "telegram_published_at": "2026-10-30T11:03:04.325008+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/30/gettyimages-2301856430-1793355176145.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T11:03:05.845716+00:00"
-    },
-    {
       "fingerprint": "fad6fd3dec76941e155be788",
       "title": "Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom",
       "url": "https://rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
@@ -20521,7 +20504,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Faye.png?w=300",
       "threads_published_at": "2026-11-24T00:02:35.629942+00:00"
+    },
+    {
+      "fingerprint": "c80e47bf6932d6711af90286",
+      "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts",
+      "url": "https://ign.com/articles/call-of-dutys-player-count-dropped-by-over-40-following-gta-6s-release-according-to-analysts",
+      "source": "IGN",
+      "published_at_source": "2026-11-23T23:37:01+00:00",
+      "score": 11,
+      "event_key": "Call of Duty player count drop after GTA 6 release",
+      "title_ru": "Аналитики сообщили о падении аудитории Call of Duty на 42% после релиза GTA 6",
+      "threads_teaser_ru": "Релиз GTA 6 заметно ударил по показателям Call of Duty: ежедневный онлайн серии упал на 42%, снизившись до 4,4 млн человек. Больше всего пострадала версия игры для PS5, где отток аудитории составил 44%.",
+      "telegram_message_id": "3136",
+      "telegram_url": "https://t.me/gamepulse_newss/3136",
+      "telegram_published_at": "2026-11-24T00:17:09.895719+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-jason-and-lucia-cigar-1795473956655.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T00:02:35.630021+00:00"
+  "updated_at": "2026-11-24T00:17:09.895805+00:00"
 }
