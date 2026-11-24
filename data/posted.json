@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "866ee4f6db134a4d500d7979",
-      "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
-      "url": "https://ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T03:33:09+00:00",
-      "score": 9,
-      "event_key": "RGG Studio drops last-gen consoles for Stranger Than Heaven",
-      "title_ru": "Stranger Than Heaven станет первой игрой RGG Studio, созданной только для актуальных консолей",
-      "threads_teaser_ru": "RGG Studio впервые полностью откажется от поддержки консолей прошлого поколения ради Stranger Than Heaven. Разработчики обещают, что это позволит им наконец-то в полной мере использовать мощности PS5 и Xbox Series X|S.",
-      "telegram_message_id": "1984",
-      "telegram_url": "https://t.me/gamepulse_newss/1984",
-      "telegram_published_at": "2026-10-31T04:02:54.793112+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/16/strangerthumb-1792159745896.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T04:02:56.206019+00:00"
-    },
-    {
       "fingerprint": "c6c400080e174f5afa43a6ad",
       "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
       "url": "https://polygon.com/new-xbox-games-november-2026",
@@ -20516,7 +20499,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/24/kevin-feige-russo-brothers-are-planning-special-tribute-to-patrick-stewart-1795547883409.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-24T20:02:57.470746+00:00"
+    },
+    {
+      "fingerprint": "1a573d867b8d71c839be4ab6",
+      "title": "Lords of the Fallen 2 delayed to April 2027, exact release date coming next month",
+      "url": "https://eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-24T20:30:00+00:00",
+      "score": 15,
+      "event_key": "lords of the fallen 2 delayed to april 2027",
+      "title_ru": "Релиз Lords of the Fallen 2 перенесен на апрель 2027 года",
+      "threads_teaser_ru": "Релиз Soulslike-экшена Lords of the Fallen 2 отложен на апрель 2027 года. Точную дату выхода разработчики из CI Games назовут уже в декабре этого года. Игра создается для ПК и консолей.",
+      "telegram_message_id": "3188",
+      "telegram_url": "https://t.me/gamepulse_newss/3188",
+      "telegram_published_at": "2026-11-24T20:32:18.860516+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Lords-of-the-Fallen-II---Announcement-Trailer-_-PS5-Games-0-28-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-24T20:02:57.470832+00:00"
+  "updated_at": "2026-11-24T20:32:18.860617+00:00"
 }
