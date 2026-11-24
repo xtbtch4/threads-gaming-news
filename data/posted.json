@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "baba20712fef6331e3bfb519",
-      "title": "HBO’s Harry Potter Series Finds Its Sorting Hat, Fat Lady, and Ghosts",
-      "url": "https://ign.com/articles/hbos-harry-potter-series-finds-its-sorting-hat-fat-lady-and-ghosts",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T17:45:44+00:00",
-      "score": 13,
-      "event_key": "hbo harry potter series casting supporting characters ghosts",
-      "title_ru": "HBO объявила актеров на роли призраков и других персонажей сериала Harry Potter",
-      "threads_teaser_ru": "HBO раскрыла актерский состав сериала Harry Potter на роли второстепенных персонажей и призраков. Уильям Х. Мэйси озвучит Распределяющую шляпу, а Лео Билл сыграет Почти Безголового Ника. Премьера шоу состоится 25 декабря.",
-      "telegram_message_id": "1957",
-      "telegram_url": "https://t.me/gamepulse_newss/1957",
-      "telegram_published_at": "2026-10-30T18:02:49.739445+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2025/07/14/dominic-mclaughlin-1752518310331.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-30T18:02:51.425872+00:00"
-    },
-    {
       "fingerprint": "eafcccedcfed98c86797fb1b",
       "title": "Pokémon Announces Newest Collab, and It's With... Fender Guitars?!",
       "url": "https://ign.com/articles/pokemon-announces-newest-collab-and-its-withfender-guitars",
@@ -20520,7 +20503,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/07/09/lego-pokemon-1768228323199-1783617779931.webp?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-24T06:46:59.483184+00:00"
+    },
+    {
+      "fingerprint": "d5dc006471f0011c48b3b0e4",
+      "title": "Save Up to $1,100 Off the 2026 65\" Hisense UR8 RGB Mini-LED Ultimate Gaming TVs for Black Friday",
+      "url": "https://ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-black-friday-sale-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-24T00:35:00+00:00",
+      "score": 6,
+      "event_key": "hisense ur8 rgb mini-led tv black friday discount",
+      "title_ru": "Скидки на Hisense UR8 RGB Mini-LED TV в рамках распродажи Black Friday",
+      "threads_teaser_ru": "В период распродажи Black Friday телевизоры Hisense UR8 RGB Mini-LED получили значительные скидки в Best Buy. Модель на 65 дюймов упала в цене до $899.99, а версия на 75 дюймов — до $1,399.99.",
+      "telegram_message_id": "3161",
+      "telegram_url": "https://t.me/gamepulse_newss/3161",
+      "telegram_published_at": "2026-11-24T07:02:29.741012+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/hisenseur8-1795478035035.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T06:46:59.483268+00:00"
+  "updated_at": "2026-11-24T07:02:29.741135+00:00"
 }
