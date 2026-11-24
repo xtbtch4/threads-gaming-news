@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d5441e9ced3181a8b1f5a65f",
-      "title": "Magic: The Gathering Designers Detail Reality Fracture’s Jace Arc, Echoed Pairs, and Secret Lair Bundles",
-      "url": "https://ign.com/articles/magic-the-gathering-designers-on-making-jace-relevant-for-reality-fracture-favorite-cards-and-that-secret-lair-bundle",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T23:30:00+00:00",
-      "score": 9,
-      "event_key": "Magic: The Gathering Reality Fracture set designers interview",
-      "title_ru": "Дизайнеры Magic: The Gathering рассказали о создании сета Reality Fracture",
-      "threads_teaser_ru": "Дизайнеры Magic: The Gathering раскрыли детали работы над сетом Reality Fracture, включая историю Jace Beleren и механику карт Echoed Pairs. Также стало известно будущее наборов Secret Lair в мультивселенских сетах.",
-      "telegram_message_id": "1975",
-      "telegram_url": "https://t.me/gamepulse_newss/1975",
-      "telegram_published_at": "2026-10-31T00:17:48.777582+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/05/05/header-1778019833054.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T00:17:50.208960+00:00"
-    },
-    {
       "fingerprint": "f774383ddd2e01cc291e070a",
       "title": "The Witcher 3’s Fairy Tale-Inspired Quests Are Must-Plays for Any RPG Fan",
       "url": "https://polygon.com/the-witcher-3-fairy-tale-quests",
@@ -20517,7 +20500,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/rdr-2-hollywood-header-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-24T12:47:12.984773+00:00"
+    },
+    {
+      "fingerprint": "a665cffab99c5181a60fada3",
+      "title": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
+      "url": "https://ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates",
+      "source": "IGN",
+      "published_at_source": "2026-11-24T12:08:22+00:00",
+      "score": 11,
+      "event_key": "mass_effect_universe_would_have_answered_trilogy_endings",
+      "title_ru": "Отменённая Mass Effect Universe должна была ответить на вопросы о концовках Mass Effect 3 и судьбах напарников",
+      "threads_teaser_ru": "Сценаристка отменённой Mass Effect Universe Cat Valente рассказала, что игра должна была разрешить спорные концовки Mass Effect 3 и раскрыть судьбы напарников Шепарда, а также ответить на вопросы из Mass Effect: Andromeda.",
+      "telegram_message_id": "3179",
+      "telegram_url": "https://t.me/gamepulse_newss/3179",
+      "telegram_published_at": "2026-11-24T13:16:49.715102+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-1793984731251.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-24T12:47:12.984864+00:00"
+  "updated_at": "2026-11-24T13:16:49.715150+00:00"
 }
