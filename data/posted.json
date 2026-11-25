@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "15da31f73b90be1117b83dab",
-      "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
-      "url": "https://polygon.com/best-peanuts-comics-1960s",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T11:00:17+00:00",
-      "score": 5,
-      "event_key": "peanuts-1960s-charles-schulz-retrospective",
-      "title_ru": "Издание назвало 1960-е лучшим десятилетием в истории Peanuts",
-      "threads_teaser_ru": "Почему 1960-е годы стали лучшим периодом для культового комикса Peanuts авторства Чарльза Шульца? Разбираем знаковые выпуски и ключевые моменты эпохи.",
-      "telegram_message_id": "2031",
-      "telegram_url": "https://t.me/gamepulse_newss/2031",
-      "telegram_published_at": "2026-11-01T11:02:07.959620+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/08/how-are-comics-made-and-who-makes-them-1787662417.mp4",
-      "threads_published_at": "2026-11-01T11:02:09.367715+00:00"
-    },
-    {
       "fingerprint": "543249d71ffc6a04ce50e0c5",
       "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
       "url": "https://polygon.com/prime-video-sci-fi-near-perfect-first-scene",
@@ -20513,7 +20495,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-lucia-airpods-1795627820907.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T20:47:28.793928+00:00"
+    },
+    {
+      "fingerprint": "7508216cc34900f1264c87e0",
+      "title": "GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
+      "url": "https://ign.com/articles/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-theres-a-good-reason-for-that",
+      "source": "IGN",
+      "published_at_source": "2026-11-25T20:12:21+00:00",
+      "score": 15,
+      "event_key": "gta 6 lacks mission replay feature",
+      "title_ru": "В GTA 6 не будет функции перепрохождения миссий",
+      "threads_teaser_ru": "Разработчики из Rockstar Games объяснили, почему в GTA 6 решили отказаться от привычного меню перепрохождения миссий.",
+      "telegram_message_id": "3235",
+      "telegram_url": "https://t.me/gamepulse_newss/3235",
+      "telegram_published_at": "2026-11-25T21:02:28.053756+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-car-1795637243504.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-25T20:47:28.794032+00:00"
+  "updated_at": "2026-11-25T21:02:28.053840+00:00"
 }
