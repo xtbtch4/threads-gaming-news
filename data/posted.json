@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b3aed2fe748c16b124e5f5fb",
-      "title": "Everyone Is Running a Con in You Can See Everything",
-      "url": "https://ign.com/articles/everyone-is-running-a-con-in-you-can-see-everything",
-      "source": "IGN",
-      "published_at_source": "2026-11-01T13:00:00+00:00",
-      "score": 7,
-      "event_key": "you-can-see-everything-elizabeth-holmes-documentary",
-      "title_ru": "You Can See Everything исследует образ Elizabeth Holmes",
-      "threads_teaser_ru": "Документальный фильм You Can See Everything от Nathan Fielder и Lance Oppenheim бьет рекорды проката и исследует историю Elizabeth Holmes и Theranos, заставляя зрителей усомниться в границах правды.",
-      "telegram_message_id": "2035",
-      "telegram_url": "https://t.me/gamepulse_newss/2035",
-      "telegram_published_at": "2026-11-01T13:17:06.056175+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/23/youcanseeeverythingtrailer-ign-blogroll-1790169540816.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-01T13:17:07.626695+00:00"
-    },
-    {
       "fingerprint": "6479996b08835972c59d8758",
       "title": "UK Deals: AliExpress Has a Ton of Early Black Friday Deals for Gamers",
       "url": "https://ign.com/articles/uk-deals-aliexpress-has-a-ton-of-early-black-friday-deals-for-gamers",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/0608_01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T21:47:13.644515+00:00"
+    },
+    {
+      "fingerprint": "506a16d14c034b3754feeaec",
+      "title": "Sunrise on the Reaping Director Reveals That Every Hunger Games Movie Has Initially Been Rated R",
+      "url": "https://ign.com/articles/sunrise-on-the-reaping-director-reveals-that-every-hunger-games-movie-has-initially-been-rated-r",
+      "source": "IGN",
+      "published_at_source": "2026-11-25T21:52:45+00:00",
+      "score": 15,
+      "event_key": "francis lawrence reveals hunger games movies initially rated r",
+      "title_ru": "Режиссер The Hunger Games рассказал о возрастных рейтингах фильмов",
+      "threads_teaser_ru": "Режиссер Фрэнсис Лоуренс заявил, что все пять фильмов франшизы The Hunger Games изначально получали рейтинг R, после чего их создателям приходилось добиваться рейтинга PG-13 для широкого проката.",
+      "telegram_message_id": "3239",
+      "telegram_url": "https://t.me/gamepulse_newss/3239",
+      "telegram_published_at": "2026-11-25T22:02:52.312736+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/04/13/thehungergamessunriseonthereapingtrailer-ign-blogroll-1776086641064.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-25T21:47:13.644605+00:00"
+  "updated_at": "2026-11-25T22:02:52.312789+00:00"
 }
