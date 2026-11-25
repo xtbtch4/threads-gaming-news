@@ -20511,9 +20511,10 @@
       "telegram_message_id": "3201",
       "telegram_url": "https://t.me/gamepulse_newss/3201",
       "telegram_published_at": "2026-11-25T01:02:36.886600+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVI_GoToHell_20261124_v3.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVI_GoToHell_20261124_v3.jpg?w=300",
+      "threads_published_at": "2026-11-25T01:02:38.266747+00:00"
     }
   ],
-  "updated_at": "2026-11-25T01:02:36.886691+00:00"
+  "updated_at": "2026-11-25T01:02:38.266834+00:00"
 }
