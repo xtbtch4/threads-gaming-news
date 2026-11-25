@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6dd8650a319c75b139cee530",
-      "title": "Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke",
-      "url": "https://gamespot.com/articles/phantom-blade-zero-is-already-proving-its-prelaunch-hype-was-no-fluke",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-29T07:40:00+00:00",
-      "score": 7,
-      "event_key": "Phantom Blade Zero is a hit on PC after launch",
-      "title_ru": "Phantom Blade Zero стала хитом на PC после релиза",
-      "threads_teaser_ru": "Спустя всего несколько часов после релиза Phantom Blade Zero уже стала настоящим хитом на PC, подтвердив высокий интерес игроков, который сопровождал проект еще до выхода.",
-      "telegram_message_id": "2026",
-      "telegram_url": "https://t.me/gamepulse_newss/2026",
-      "telegram_published_at": "2026-11-01T01:46:50.389392+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-11-01T01:46:51.701245+00:00"
-    },
-    {
       "fingerprint": "4139ddb89fb217cb876202d0",
       "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
       "url": "https://polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Season-16-Helltide-Changes.jpg?w=300",
       "threads_published_at": "2026-11-25T18:17:23.669027+00:00"
+    },
+    {
+      "fingerprint": "aa68785c50db017e569df48d",
+      "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+      "url": "https://eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-25T16:42:30+00:00",
+      "score": 15,
+      "event_key": "rockstar_rob_nelson_gta_6_criminal_profile_explanation",
+      "title_ru": "Разработчики GTA 6 объяснили создание системы Criminal Profile",
+      "threads_teaser_ru": "Глава разработки Rockstar Games Роб Нельсон рассказал, почему в Grand Theft Auto 6 появилась система Criminal Profile и как на неё повлиял опыт работы над Red Dead Redemption 2.",
+      "telegram_message_id": "3230",
+      "telegram_url": "https://t.me/gamepulse_newss/3230",
+      "telegram_published_at": "2026-11-25T18:32:18.285246+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-25T18:17:23.669119+00:00"
+  "updated_at": "2026-11-25T18:32:18.285327+00:00"
 }
