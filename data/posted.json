@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "78d95a00ae2e371a43a197a9",
-      "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
-      "url": "https://polygon.com/dragon-delves-hansel-gretel",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T12:31:50+00:00",
-      "score": 8,
-      "event_key": "dungeons and dragons bakers doesnt dragon delves adventure",
-      "title_ru": "Приключение «Baker’s Doesn't» для Dungeons & Dragons",
-      "threads_teaser_ru": "Изданное в сборнике Dragon Delves приключение «Baker’s Doesn't» предлагает игрокам необычную сказочную историю по мотивам Гензель и Гретель, где предстоит спасти юного дракончика из пряничного домика.",
-      "telegram_message_id": "2033",
-      "telegram_url": "https://t.me/gamepulse_newss/2033",
-      "telegram_published_at": "2026-11-01T12:47:00.030999+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-delves-gingerbread-people.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-01T12:47:01.565157+00:00"
-    },
-    {
       "fingerprint": "6ae65b546a17248a796a29e9",
       "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
       "url": "https://polygon.com/legend-zelda-skyward-sword-retrospective",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T21:18:01.333836+00:00"
+    },
+    {
+      "fingerprint": "5ad050bba8662f6311e84af3",
+      "title": "'People Are Doing It Too Quickly Now' — The Hunger Games: Sunrise on the Reaping Director Speaks Out on YA Franchise Reboots",
+      "url": "https://ign.com/articles/people-are-doing-it-too-quickly-now-the-hunger-games-sunrise-on-the-reaping-director-speaks-out-on-ya-franchise-reboots",
+      "source": "IGN",
+      "published_at_source": "2026-11-25T20:14:57+00:00",
+      "score": 11,
+      "event_key": "Francis Lawrence on Hollywood movie reboots and The Hunger Games",
+      "title_ru": "Режиссер The Hunger Games: Sunrise on the Reaping высказался о перезапусках популярных франшиз",
+      "threads_teaser_ru": "Режиссер The Hunger Games Francis Lawrence считает, что современные голливудские ремейки выходят слишком быстро. Он сомневается, что перезапуск основной серии без участия автора Suzanne Collins был бы удачной идеей, особенно с учетом важности оригинального актерского состава.",
+      "telegram_message_id": "3237",
+      "telegram_url": "https://t.me/gamepulse_newss/3237",
+      "telegram_published_at": "2026-11-25T21:33:12.150343+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/07/04/hungerthumb-1783181917053.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-25T21:18:01.333909+00:00"
+  "updated_at": "2026-11-25T21:33:12.150428+00:00"
 }
