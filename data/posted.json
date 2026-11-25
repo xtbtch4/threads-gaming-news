@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "09739a839b7da576db08f09c",
-      "title": "Welcome to the New Era of Video Game Adaptations",
-      "url": "https://polygon.com/patch-notes-video-game-adaptations",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T10:00:17+00:00",
-      "score": 8,
-      "event_key": "hollywood_video_game_adaptations_wave_2026",
-      "title_ru": "Новая волна экранизаций видеоигр в Голливуде",
-      "threads_teaser_ru": "Голливуд охватил масштабный бум экранизаций видеоигр: в разработке находятся Elden Ring, сериал по PUBG с Дональдом Гловером, фильм Mouthwashing и аниме Death Stranding Isolation.",
-      "telegram_message_id": "2029",
-      "telegram_url": "https://t.me/gamepulse_newss/2029",
-      "telegram_published_at": "2026-11-01T10:03:01.270060+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/16-street-fighter.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-01T10:03:02.774683+00:00"
-    },
-    {
       "fingerprint": "00b68848c882f3f03682254c",
       "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
       "url": "https://eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
@@ -20513,7 +20496,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason2.JPG?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4",
       "threads_published_at": "2026-11-25T19:32:35.737336+00:00"
+    },
+    {
+      "fingerprint": "4125df6a7bf7d06aae9cfebb",
+      "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+      "url": "https://eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-25T15:19:10+00:00",
+      "score": 14,
+      "event_key": "modders use AI chatbots to port GTA 6 to PC",
+      "title_ru": "Моддеры используют ИИ для создания ПК-версии GTA 6 после новой утечки",
+      "threads_teaser_ru": "Энтузиасты продолжают попытки перенести GTA 6 на ПК с помощью генеративного ИИ после новой утечки консольной версии игры. Rockstar Games продолжает пресекать подобные инициативы.",
+      "telegram_message_id": "3233",
+      "telegram_url": "https://t.me/gamepulse_newss/3233",
+      "telegram_published_at": "2026-11-25T19:46:51.215431+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-25T19:32:35.737450+00:00"
+  "updated_at": "2026-11-25T19:46:51.215524+00:00"
 }
