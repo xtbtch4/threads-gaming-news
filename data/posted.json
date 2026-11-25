@@ -20510,9 +20510,10 @@
       "telegram_message_id": "3233",
       "telegram_url": "https://t.me/gamepulse_newss/3233",
       "telegram_published_at": "2026-11-25T19:46:51.215431+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-25T19:46:52.675781+00:00"
     }
   ],
-  "updated_at": "2026-11-25T19:46:51.215524+00:00"
+  "updated_at": "2026-11-25T19:46:52.675867+00:00"
 }
