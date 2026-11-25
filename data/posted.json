@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c0e14d2ba76e541a4966657e",
-      "title": "How to Read the Redwall Books in Order",
-      "url": "https://ign.com/articles/how-to-read-the-redwall-books-in-order",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T19:59:00+00:00",
-      "score": 6,
-      "event_key": "new redwall novel orphans of mossflower announced",
-      "title_ru": "Анонсирован новый роман в серии Redwall",
-      "threads_teaser_ru": "Спустя годы после ухода автора Брайана Джейкса анонсирован 23-ий роман серии Redwall под названием Orphans of Mossflower. Книга должна выйти в сентябре 2027 года.",
-      "telegram_message_id": "2014",
-      "telegram_url": "https://t.me/gamepulse_newss/2014",
-      "telegram_published_at": "2026-10-31T20:17:16.038498+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/3118-redwall-cover-page-1-530x2x-1793431182882.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T20:17:17.563519+00:00"
-    },
-    {
       "fingerprint": "58b0296e1147015668c16379",
       "title": "Gears Of War Should Have Killed Off Marcus Fenix Years Ago",
       "url": "https://gamespot.com/articles/gears-of-war-should-have-killed-off-marcus-fenix-years-ago",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24491191/unnamed.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-25T05:31:53.388942+00:00"
+    },
+    {
+      "fingerprint": "07d9d6436c617cd1da4a8ad9",
+      "title": "Vice City portal Easter egg location in GTA 6",
+      "url": "https://polygon.com/gta-6-vice-city-portal-easter-egg-location-walkthrough-how-to-open",
+      "source": "Polygon",
+      "published_at_source": "2026-11-24T22:11:43+00:00",
+      "score": 6,
+      "event_key": "grand theft auto 6 vice city portal easter egg walkthrough",
+      "title_ru": "Как найти и открыть секретный портал в Vice City в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 можно найти секретный портал, переносящий игроков в оригинальный Vice City. Для этого придется активировать радиовышку и посетить 12 подстанций по всей карте, избегая быстрого перемещения.",
+      "telegram_message_id": "3218",
+      "telegram_url": "https://t.me/gamepulse_newss/3218",
+      "telegram_published_at": "2026-11-25T05:47:18.126863+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_vicecityportal_lead.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-25T05:31:53.389032+00:00"
+  "updated_at": "2026-11-25T05:47:18.126914+00:00"
 }
