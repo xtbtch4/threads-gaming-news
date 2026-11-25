@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "00b68848c882f3f03682254c",
-      "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-      "url": "https://eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-01T10:04:13+00:00",
-      "score": 13,
-      "event_key": "Pikmin 4 Nintendo Switch 2 Edition release announcement",
-      "title_ru": "Анонсировано издание Pikmin 4 для Nintendo Switch 2",
-      "threads_teaser_ru": "Nintendo выпустит Pikmin 4 Nintendo Switch 2 Edition 12 ноября. В новую версию игры добавят режим «Dandori Academy» и голосовое управление для пса Oatchi. Демоверсия станет доступна уже 2 ноября, а прогресс в ней можно перенести в полную игру.",
-      "telegram_message_id": "2030",
-      "telegram_url": "https://t.me/gamepulse_newss/2030",
-      "telegram_published_at": "2026-11-01T10:17:48.684061+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-01T10:17:49.912667+00:00"
-    },
-    {
       "fingerprint": "15da31f73b90be1117b83dab",
       "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
       "url": "https://polygon.com/best-peanuts-comics-1960s",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T19:46:52.675781+00:00"
+    },
+    {
+      "fingerprint": "7493779b983a2fc5dee9418e",
+      "title": "One of GTA 6's Best Features Was Actually Planned for GTA: Vice City, Reveals Ex-Rockstar Dev",
+      "url": "https://ign.com/articles/one-of-gta-6s-best-features-was-actually-planned-for-gta-vice-city-reveals-ex-rockstar-dev",
+      "source": "IGN",
+      "published_at_source": "2026-11-25T17:58:27+00:00",
+      "score": 12,
+      "event_key": "GTA 6 headphones mechanic originally planned for GTA Vice City",
+      "title_ru": "Механика наушников из GTA 6 планировалась для GTA: Vice City",
+      "threads_teaser_ru": "Популярная механика наушников из GTA 6 могла появиться еще в эпоху классики. Бывший разработчик Rockstar Games рассказал, почему идея, изначально задуманная для GTA: Vice City, была отложена на десятилетия.",
+      "telegram_message_id": "3234",
+      "telegram_url": "https://t.me/gamepulse_newss/3234",
+      "telegram_published_at": "2026-11-25T20:47:27.329169+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-lucia-airpods-1795627820907.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-25T19:46:52.675867+00:00"
+  "updated_at": "2026-11-25T20:47:27.329265+00:00"
 }
