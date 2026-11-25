@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4139ddb89fb217cb876202d0",
-      "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
-      "url": "https://polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T04:00:17+00:00",
-      "score": 8,
-      "event_key": "dungeon crawler carl books goodreads rankings",
-      "title_ru": "Все книги Dungeon Crawler Carl по оценкам на Goodreads",
-      "threads_teaser_ru": "Серия Dungeon Crawler Carl насчитывает восемь книг, получивших высокие оценки на Goodreads. Читатели следят за выживанием героя в инопланетном шоу, а выход девятой части запланирован на следующий год.",
-      "telegram_message_id": "2027",
-      "telegram_url": "https://t.me/gamepulse_newss/2027",
-      "telegram_published_at": "2026-11-01T04:02:33.377295+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeon-crawler-carl.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-01T04:02:34.788642+00:00"
-    },
-    {
       "fingerprint": "511d5ddaf27d12ced07975f0",
       "title": "The Biggest New Game Releases Of November 2026",
       "url": "https://gamespot.com/articles/the-biggest-new-game-releases-of-november-2026",
@@ -20511,7 +20494,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T18:32:19.676313+00:00"
+    },
+    {
+      "fingerprint": "cd723588bc2cd451f231b041",
+      "title": "Lego Announces New Set for Fan-Favorite Marvel Character",
+      "url": "https://polygon.com/lego-marvel-rivals-jeff-the-land-shark-set-announced",
+      "source": "Polygon",
+      "published_at_source": "2026-11-25T18:45:37+00:00",
+      "score": 14,
+      "event_key": "lego_marvel_rivals_jeff_the_land_shark_set_announced",
+      "title_ru": "Lego анонсировала набор Marvel Rivals с Jeff the Land Shark",
+      "threads_teaser_ru": "Компания Lego анонсировала первый набор по игре Marvel Rivals, посвященный Jeff the Land Shark. Конструктор состоит из 495 деталей и поступит в продажу 1 января 2027 года.",
+      "telegram_message_id": "3231",
+      "telegram_url": "https://t.me/gamepulse_newss/3231",
+      "telegram_published_at": "2026-11-25T19:02:54.879569+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/12/n7hRLND.png?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/doomsday-marvel-rivals-season-11-trailer-marvel-rivals-1794333020.mp4"
     }
   ],
-  "updated_at": "2026-11-25T18:32:19.676394+00:00"
+  "updated_at": "2026-11-25T19:02:54.879661+00:00"
 }
