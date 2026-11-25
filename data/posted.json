@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "94f63e7220ad6a0adbb53baa",
-      "title": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
-      "url": "https://polygon.com/best-video-game-twist-endings",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T01:00:17+00:00",
-      "score": 7,
-      "event_key": "polygon best video game twist endings list",
-      "title_ru": "Polygon назвал 10 видеоигр с самыми неожиданными сюжетными поворотами",
-      "threads_teaser_ru": "Издание Polygon выбрало 10 игр с самыми неожиданными сюжетными поворотами, которые меняют всё. В список вошли Spec Ops: The Line, Silent Hill 2, BioShock Infinite и другие проекты.",
-      "telegram_message_id": "2025",
-      "telegram_url": "https://t.me/gamepulse_newss/2025",
-      "telegram_published_at": "2026-11-01T01:01:57.908642+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19231262/Link_s_Awakening_Wind_Fish_s_Egg_cover.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-01T01:01:59.043524+00:00"
-    },
-    {
       "fingerprint": "6dd8650a319c75b139cee530",
       "title": "Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke",
       "url": "https://gamespot.com/articles/phantom-blade-zero-is-already-proving-its-prelaunch-hype-was-no-fluke",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/4540889-9441912227-ps5-p.webp?w=300",
       "threads_published_at": "2026-11-25T18:02:36.315168+00:00"
+    },
+    {
+      "fingerprint": "4aae59b507fd63eb5168abb9",
+      "title": "Diablo 4 Is Making Helltides A Hell Of A Lot Easier",
+      "url": "https://gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-25T17:55:59+00:00",
+      "score": 15,
+      "event_key": "diablo 4 season 16 helltides update",
+      "title_ru": "В Diablo 4 упростят активность Helltides в Season 16",
+      "threads_teaser_ru": "В Season 16 для Diablo 4 активность Helltides станет значительно проще и эффективнее: между событиями исчезнет перерыв, а собранный пепел Aberrant Cinders теперь не будет пропадать после окончания таймера.",
+      "telegram_message_id": "3229",
+      "telegram_url": "https://t.me/gamepulse_newss/3229",
+      "telegram_published_at": "2026-11-25T18:17:22.210954+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Season-16-Helltide-Changes.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-25T18:02:36.315267+00:00"
+  "updated_at": "2026-11-25T18:17:22.211044+00:00"
 }
