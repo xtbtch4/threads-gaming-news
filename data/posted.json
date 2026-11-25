@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "54be698a31fa6f633af04d8b",
-      "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
-      "url": "https://polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T14:00:17+00:00",
-      "score": 6,
-      "event_key": "polygon_most_anticipated_books_november_2026",
-      "title_ru": "Самые ожидаемые научно-фантастические и фэнтезийные книги ноября 2026 года",
-      "threads_teaser_ru": "Polygon опубликовал список из 10 самых ожидаемых научно-фантастических и фэнтезийных книг ноября 2026 года. В подборку вошли новые работы известных авторов и яркие дебюты в жанрах от космического хоррора до эпического фэнтези.",
-      "telegram_message_id": "2038",
-      "telegram_url": "https://t.me/gamepulse_newss/2038",
-      "telegram_published_at": "2026-11-01T14:02:14.881260+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/monsters-of-ohio-by-john-scalzi.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pg_civ_35th_anniversary_master_h_yt-1792699930.mp4",
-      "threads_published_at": "2026-11-01T14:02:16.235738+00:00"
-    },
-    {
       "fingerprint": "b6c23a67791feea9572975dc",
       "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
       "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
@@ -20511,7 +20493,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_e86abd66a1098f48451d0659216b16c2a75f1b84-1920x1080.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-25T22:47:10.830589+00:00"
+    },
+    {
+      "fingerprint": "7d65c63574ca02fef4b99dc4",
+      "title": "How To Unlock The Alien Questline in GTA 6",
+      "url": "https://gamespot.com/videos/how-to-unlock-the-alien-questline-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-25T22:00:00+00:00",
+      "score": 12,
+      "event_key": "unlocking secret alien UFO missions in Grand Theft Auto VI",
+      "title_ru": "Как открыть секретную серию заданий с инопланетянами в Grand Theft Auto VI",
+      "threads_teaser_ru": "В Grand Theft Auto VI нашлись секретные миссии с инопланетянами. Рассказываем, как запустить и пройти эти скрытые задания с НЛО, которые подготовили разработчики из Rockstar в своем открытом мире.",
+      "telegram_message_id": "3242",
+      "telegram_url": "https://t.me/gamepulse_newss/3242",
+      "telegram_published_at": "2026-11-25T23:03:30.703757+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVI_Aliens_v3.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-25T22:47:10.830673+00:00"
+  "updated_at": "2026-11-25T23:03:30.703844+00:00"
 }
