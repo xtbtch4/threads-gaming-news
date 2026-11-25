@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9225f0e8b59713aa5259ba0a",
-      "title": "Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders",
-      "url": "https://polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T14:30:49+00:00",
-      "score": 10,
-      "event_key": "Walmart cancels Nintendo Switch 2 Zelda pre-orders offers compensation",
-      "title_ru": "Walmart компенсирует отмену предзаказов Nintendo Switch 2 подарочными картами",
-      "threads_teaser_ru": "Walmart отменяет предзаказы на лимитированную версию Nintendo Switch 2, посвященную 40-летию The Legend of Zelda: Ocarina of Time. Теперь ритейлер рассылает пострадавшим клиентам подарочные карты на 519 долларов или предлагает восстановить право на покупку консоли.",
-      "telegram_message_id": "2003",
-      "telegram_url": "https://t.me/gamepulse_newss/2003",
-      "telegram_published_at": "2026-10-31T15:17:21.984305+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ns2_thelegendofzeldaocarinaoftime_scrn_02.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-31T15:17:23.376887+00:00"
-    },
-    {
       "fingerprint": "28a73a9e3d42e85dcd00f338",
       "title": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game",
       "url": "https://eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "threads_published_at": "2026-11-25T02:32:30.943347+00:00"
+    },
+    {
+      "fingerprint": "0b2c1b0142a21cf8ed513848",
+      "title": "Bare fist, megastructure climbing roguelike White Knuckle gets its penultimate region in The Core, a sterile, hostile reactor sector that you'll probably die in",
+      "url": "https://rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-24T19:10:40+00:00",
+      "score": 9,
+      "event_key": "white-knuckle-the-core-update-released",
+      "title_ru": "В White Knuckle появилось предпоследнее регион-обновление The Core",
+      "threads_teaser_ru": "В White Knuckle вышло крупное обновление с новым регионом The Core, опасными врагами и необычным артефактом The Scissors, который позволяет игрокам временно лишаться рук ради боевых усилений.",
+      "telegram_message_id": "3207",
+      "telegram_url": "https://t.me/gamepulse_newss/3207",
+      "telegram_published_at": "2026-11-25T02:47:00.652497+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/white-knuckle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-25T02:32:30.943431+00:00"
+  "updated_at": "2026-11-25T02:47:00.652593+00:00"
 }
