@@ -20511,9 +20511,10 @@
       "telegram_message_id": "3211",
       "telegram_url": "https://t.me/gamepulse_newss/3211",
       "telegram_published_at": "2026-11-25T03:47:02.733741+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/flying-whale-dodo-plane_gta6.jpg?w=1600&h=900&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/flying-whale-dodo-plane_gta6.jpg?w=1600&h=900&fit=crop",
+      "threads_published_at": "2026-11-25T03:47:04.185359+00:00"
     }
   ],
-  "updated_at": "2026-11-25T03:47:02.733840+00:00"
+  "updated_at": "2026-11-25T03:47:04.185451+00:00"
 }
