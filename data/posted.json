@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9cf235e92a3fe71a0f5a7799",
-      "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
-      "url": "https://polygon.com/phantom-blade-zero-crimson-desert-goty-chances",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T16:00:19+00:00",
-      "score": 7,
-      "event_key": "phantom-blade-zero-impacts-crimson-desert-goty-chances",
-      "title_ru": "Phantom Blade Zero и ее влияние на шансы Crimson Desert на GOTY",
-      "threads_teaser_ru": "Релиз Phantom Blade Zero от S-Game может полностью вытеснить Crimson Desert из гонки за звание игры года на The Game Awards 2026 благодаря сильным оценкам прессы и огромному успеху у игроков.",
-      "telegram_message_id": "2011",
-      "telegram_url": "https://t.me/gamepulse_newss/2011",
-      "telegram_published_at": "2026-10-31T18:31:55.810370+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-31T18:31:57.141703+00:00"
-    },
-    {
       "fingerprint": "d50d4dbca76d3ad60a593a24",
       "title": "New GTA 6 song is the perfect music to commit crimes to",
       "url": "https://polygon.com/gta-6-new-song-pusher-soundtrack-justice",
@@ -20514,7 +20497,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/applewatchse3-1795392136877.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T04:32:04.190483+00:00"
+    },
+    {
+      "fingerprint": "c2fe63e5e190f96fc3d704d5",
+      "title": "Bitmap Brothers' iconic, robotic RTS game Z is unofficially back thanks to an open source, 3D remake",
+      "url": "https://rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-24T21:34:40+00:00",
+      "score": 7,
+      "event_key": "openz_3d_remake_of_z_announced",
+      "title_ru": "Фанатский 3D-ремейк классической стратегии Z от The Bitmap Brothers",
+      "threads_teaser_ru": "Энтузиаст выпустил OpenZ — бесплатный фанатский 3D-ремейк культовой стратегии Z 1996 года от The Bitmap Brothers, созданный к ее 30-летию. Узнайте, что уже вошло в текущую версию проекта.",
+      "telegram_message_id": "3215",
+      "telegram_url": "https://t.me/gamepulse_newss/3215",
+      "telegram_published_at": "2026-11-25T04:47:13.821882+00:00",
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/z-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-25T04:47:37.334228+00:00"
     }
   ],
-  "updated_at": "2026-11-25T04:32:04.190604+00:00"
+  "updated_at": "2026-11-25T04:47:37.334329+00:00"
 }
