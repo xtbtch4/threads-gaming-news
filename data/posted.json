@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f862c619654ea06e5b82471",
-      "title": "Nintendo Reveals Pikmin Day Surprise and New Project Hello! Pikmin",
-      "url": "https://polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T14:15:51+00:00",
-      "score": 14,
-      "event_key": "nintendo-announces-pikmin-day-and-hello-pikmin",
-      "title_ru": "Nintendo объявила Pikmin Day и анонсировала проект Hello! Pikmin",
-      "threads_teaser_ru": "Nintendo объявила 1 ноября ежегодным праздником Pikmin Day и анонсировала новый анимационный проект Hello! Pikmin от Миямото и Nintendo Pictures.",
-      "telegram_message_id": "2002",
-      "telegram_url": "https://t.me/gamepulse_newss/2002",
-      "telegram_published_at": "2026-10-31T14:32:32.994722+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pikmin-day-direct-0-8-screenshot.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-31T14:32:34.374162+00:00"
-    },
-    {
       "fingerprint": "9225f0e8b59713aa5259ba0a",
       "title": "Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders",
       "url": "https://polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T02:17:04.248895+00:00"
+    },
+    {
+      "fingerprint": "be6fa4728ef42a2dafa1b59c",
+      "title": "Mario Kart World update adds 8 courses and more",
+      "url": "https://nintendo.com/us/whatsnew/mario-kart-world-update-adds-eight-courses-and-more",
+      "source": "Nintendo",
+      "published_at_source": "2026-11-24T17:00:00+00:00",
+      "score": 10,
+      "event_key": "mario-kart-world-update-1-9-0-released",
+      "title_ru": "Вышло обновление Ver. 1.9.0 для Mario Kart World",
+      "threads_teaser_ru": "Для Mario Kart World на Nintendo Switch 2 вышло обновление Ver. 1.9.0. Оно привнесло восемь новых трасс-ремиксов, два маршрута для режима Knockout Tour и полезную функцию повторов.",
+      "telegram_message_id": "3206",
+      "telegram_url": "https://t.me/gamepulse_newss/3206",
+      "telegram_published_at": "2026-11-25T02:32:29.514565+00:00",
+      "threads_id": null,
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
     }
   ],
-  "updated_at": "2026-11-25T02:17:04.248984+00:00"
+  "updated_at": "2026-11-25T02:32:29.514649+00:00"
 }
