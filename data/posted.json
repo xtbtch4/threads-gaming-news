@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "826f44c20c95b983861dde05",
-      "title": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
-      "url": "https://eurogamer.net/silver-pines-now-playing",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-31T10:00:00+00:00",
-      "score": 9,
-      "event_key": "silver-pines-survival-horror-metroidvania-preview",
-      "title_ru": "Silver Pines — атмосферный сурвайвал-хоррор в духе классики с элементами Metroidvania",
-      "threads_teaser_ru": "Silver Pines от Wych Elm Games сочетает элементы сурвайвал-хоррора, метроидвании и эстетику в духе Twin Peaks. Игра предлагает мрачное исследование и расследование, но использует суровые механики сохранений.",
-      "telegram_message_id": "1996",
-      "telegram_url": "https://t.me/gamepulse_newss/1996",
-      "telegram_published_at": "2026-10-31T10:02:54.546092+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/silver-pines-header_pnoviPY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-31T10:02:55.934838+00:00"
-    },
-    {
       "fingerprint": "dea0c151ed1af7acc7da3e5a",
       "title": "12 Years Later, Sofia Coppola's Unmade Epic Fantasy Still Lives Rent Free in My Head",
       "url": "https://polygon.com/sofia-coppola-the-little-mermaid-story",
@@ -20515,7 +20498,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/24/max-verstappen-gta-6-1795564044448.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T00:02:24.573865+00:00"
+    },
+    {
+      "fingerprint": "ca7e5c249ef05f676cb04219",
+      "title": "GTA 6's Most Heartbreaking Scene Is Exactly Why You Had To Do All Those Chores",
+      "url": "https://polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home",
+      "source": "Polygon",
+      "published_at_source": "2026-11-25T00:00:17+00:00",
+      "score": 12,
+      "event_key": "grand-theft-auto-6-chapter-1-ending-tragedy",
+      "title_ru": "Финал первой главы Grand Theft Auto 6",
+      "threads_teaser_ru": "Первая глава Grand Theft Auto 6 удивляет обилием бытовых забот: Джейсон и Люсия ремонтируют дом и собирают мебель. Однако этот мирный старт ведет к трагической развязке.",
+      "telegram_message_id": "3200",
+      "telegram_url": "https://t.me/gamepulse_newss/3200",
+      "telegram_published_at": "2026-11-25T00:17:09.609276+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_08.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-25T00:02:24.573961+00:00"
+  "updated_at": "2026-11-25T00:17:09.609364+00:00"
 }
