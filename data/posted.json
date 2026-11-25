@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "011c7848d0162db99b4b6d09",
-      "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
-      "url": "https://eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-31T14:39:25+00:00",
-      "score": 14,
-      "event_key": "final-fantasy-14-evercold-expansion-release-date-zephyr-job",
-      "title_ru": "Анонсирована дата релиза дополнения Evercold для Final Fantasy 14",
-      "threads_teaser_ru": "Square Enix объявила дату выхода дополнения Evercold для Final Fantasy 14 и представила новый класс zephyr, использующий арбалет и птицу-помощника.",
-      "telegram_message_id": "2008",
-      "telegram_url": "https://t.me/gamepulse_newss/2008",
-      "telegram_published_at": "2026-10-31T17:46:58.952561+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-14.21.52.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-31T17:47:00.348903+00:00"
-    },
-    {
       "fingerprint": "236c26164fa59bf030e2b0da",
       "title": "Helen Mirren and Alden Ehrenreich on Playing Tom Ripley and His Creator Patricia Highsmith",
       "url": "https://polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/flying-whale-dodo-plane_gta6.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-25T03:47:04.185359+00:00"
+    },
+    {
+      "fingerprint": "101da5e2feee0d232b017e51",
+      "title": "All Race Challenges & Racetrack Locations In GTA 6",
+      "url": "https://gamespot.com/articles/all-race-challenges-racetrack-locations-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T20:47:30+00:00",
+      "score": 8,
+      "event_key": "gta-6-racetracks-and-race-challenges-locations",
+      "title_ru": "Все локации гоночных треков и испытаний в GTA 6",
+      "threads_teaser_ru": "В GTA 6 впервые появятся полноценные гоночные треки. В штате Леонида игроков ждет семь локаций с уникальными испытаниями — от заездов на сток-карах и грязевых гонок до трюковых испытаний на велосипедах и мотоциклах.",
+      "telegram_message_id": "3212",
+      "telegram_url": "https://t.me/gamepulse_newss/3212",
+      "telegram_published_at": "2026-11-25T04:02:00.806798+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Racetracks.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-25T03:47:04.185451+00:00"
+  "updated_at": "2026-11-25T04:02:00.806889+00:00"
 }
