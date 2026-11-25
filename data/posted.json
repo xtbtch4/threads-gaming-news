@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "31312c973ade799c1051e175",
-      "title": "Aliens, Bigfoots, and Monsters… Remembering the Age of the Weirdumentary",
-      "url": "https://ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T13:00:00+00:00",
-      "score": 7,
-      "event_key": "history of Sunn Classic Pictures and weird documentaries",
-      "title_ru": "Эпоха «странных документалок»: как Sunn Classic Pictures меняли киноиндустрию 1970-х",
-      "threads_teaser_ru": "В 70-х документалки о бигфутах и НЛО собирали полные залы. Студия Sunn Classic Pictures зарабатывала миллионы на фильмах вроде Chariots of the Gods и The Mysterious Monsters, используя уникальную стратегию дистрибуции и мощную рекламу на ТВ, пока в мире еще не было YouTube.",
-      "telegram_message_id": "1999",
-      "telegram_url": "https://t.me/gamepulse_newss/1999",
-      "telegram_published_at": "2026-10-31T13:02:34.069826+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/age-of-the-weirdumentary-thumb-1793406602871.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T13:02:35.530744+00:00"
-    },
-    {
       "fingerprint": "e2b1a41d73ac320f1675b2a3",
       "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
       "url": "https://eurogamer.net/skyblivion-former-volunteer-legal-threats",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/24/vlcscreenshot2026-11-23-13h28m53s808-1795494653555.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T01:32:32.953744+00:00"
+    },
+    {
+      "fingerprint": "87e2b531fd4b7808d690edbb",
+      "title": "Get Your Mac Running Like New Again With a CleanMyMac Free Trial",
+      "url": "https://ign.com/articles/get-your-mac-running-like-new-again-with-a-cleanmymac-free-trial",
+      "source": "IGN",
+      "published_at_source": "2026-11-24T20:02:50+00:00",
+      "score": 10,
+      "event_key": "CleanMyMac optimization tool update features release",
+      "title_ru": "Утилита CleanMyMac получила обновление для оптимизации macOS",
+      "threads_teaser_ru": "Разработчики CleanMyMac представили обновленную версию утилиты для очистки и ускорения работы компьютеров Mac. В числе новых функций — оптимизация памяти в Google Chrome и автоматическая очистка Gmail. Для пользователей доступен бесплатный 7-дневный пробный период.",
+      "telegram_message_id": "3203",
+      "telegram_url": "https://t.me/gamepulse_newss/3203",
+      "telegram_published_at": "2026-11-25T01:46:42.909439+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/24/clean-my-mac-blogroll-1795550342811.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-25T01:32:32.953834+00:00"
+  "updated_at": "2026-11-25T01:46:42.909543+00:00"
 }
