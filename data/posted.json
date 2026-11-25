@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "58b0296e1147015668c16379",
-      "title": "Gears Of War Should Have Killed Off Marcus Fenix Years Ago",
-      "url": "https://gamespot.com/articles/gears-of-war-should-have-killed-off-marcus-fenix-years-ago",
-      "source": "GameSpot",
-      "published_at_source": "2026-10-31T20:00:00+00:00",
-      "score": 15,
-      "event_key": "gears of war marcus fenix death discussion",
-      "title_ru": "Мнение: Marcus Fenix должен был погибнуть в Gears of War",
-      "threads_teaser_ru": "По мнению обозревателя GameSpot, культовый герой серии Gears of War должен был погибнуть еще в Gears of War 4, чтобы сюжетная арка получила логичное и смелое завершение.",
-      "telegram_message_id": "2015",
-      "telegram_url": "https://t.me/gamepulse_newss/2015",
-      "telegram_published_at": "2026-10-31T20:32:05.939961+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus-gears-of-war.jpg?w=300",
-      "threads_published_at": "2026-10-31T20:32:07.338061+00:00"
-    },
-    {
       "fingerprint": "0e7da177afe1522b83172a3a",
       "title": "'Adolescence' Creator Officially Confirms a Connection Between His Netflix and Apple Shows",
       "url": "https://polygon.com/adolescence-nocturne-stephen-graham-interview",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_vicecityportal_lead.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-25T05:47:19.955034+00:00"
+    },
+    {
+      "fingerprint": "fbcac89dc33d821cc7a13474",
+      "title": "How To Find The Truffade Thrax In GTA 6",
+      "url": "https://gamespot.com/articles/how-to-find-the-truffade-thrax-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T20:54:41+00:00",
+      "score": 6,
+      "event_key": "finding_truffade_thrax_in_gta_6",
+      "title_ru": "Как найти Truffade Thrax в Grand Theft Auto 6",
+      "threads_teaser_ru": "Узнайте, где в Grand Theft Auto 6 найти самую быструю стандартную машину Truffade Thrax. В игре есть два гарантированных способа получить этот редкий автомобиль для прохождения.",
+      "telegram_message_id": "3219",
+      "telegram_url": "https://t.me/gamepulse_newss/3219",
+      "telegram_published_at": "2026-11-25T06:02:37.324838+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/1a1fa6682c537-screenshotUrl.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-25T05:47:19.955122+00:00"
+  "updated_at": "2026-11-25T06:02:37.324925+00:00"
 }
