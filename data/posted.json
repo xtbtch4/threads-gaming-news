@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "511d5ddaf27d12ced07975f0",
-      "title": "The Biggest New Game Releases Of November 2026",
-      "url": "https://gamespot.com/articles/the-biggest-new-game-releases-of-november-2026",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-01T00:00:00+00:00",
-      "score": 12,
-      "event_key": "biggest new game releases november 2026",
-      "title_ru": "Главные игровые релизы ноября 2026 года",
-      "threads_teaser_ru": "Ноябрь 2026 года принесет игрокам множество крупных релизов, несмотря на соседство с Grand Theft Auto 6. Какие именно проекты подготовили разработчики для геймеров в этом месяце?",
-      "telegram_message_id": "2028",
-      "telegram_url": "https://t.me/gamepulse_newss/2028",
-      "telegram_published_at": "2026-11-01T07:47:04.094974+00:00",
-      "threads_id": "disabled",
-      "image_url": "",
-      "threads_published_at": "2026-11-01T07:47:05.413447+00:00"
-    },
-    {
       "fingerprint": "09739a839b7da576db08f09c",
       "title": "Welcome to the New Era of Video Game Adaptations",
       "url": "https://polygon.com/patch-notes-video-game-adaptations",
@@ -20512,7 +20495,24 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/12/n7hRLND.png?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/doomsday-marvel-rivals-season-11-trailer-marvel-rivals-1794333020.mp4",
       "threads_published_at": "2026-11-25T19:02:57.237393+00:00"
+    },
+    {
+      "fingerprint": "ec29ddaa306e73148545a2c7",
+      "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+      "url": "https://polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price",
+      "source": "Polygon",
+      "published_at_source": "2026-11-25T18:10:10+00:00",
+      "score": 14,
+      "event_key": "gta-6-pc-port-settings-leak-hardware-cost",
+      "title_ru": "Утечка настроек графики Grand Theft Auto 6 раскрыла перспективы ПК-версии",
+      "threads_teaser_ru": "Новая утечка настроек графики Grand Theft Auto 6 показала потенциал будущей ПК-версии, но за нее придется заплатить высокую цену. Для максимальных настроек понадобятся видеокарты RTX 5080 или 5090 стоимостью до нескольких тысяч долларов.",
+      "telegram_message_id": "3232",
+      "telegram_url": "https://t.me/gamepulse_newss/3232",
+      "telegram_published_at": "2026-11-25T19:32:34.250002+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason2.JPG?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-25T19:02:57.237496+00:00"
+  "updated_at": "2026-11-25T19:32:34.250107+00:00"
 }
