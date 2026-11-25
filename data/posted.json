@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a72b2549e4c8805afbf328a4",
-      "title": "Save Mass Effect Graffiti Reportedly Spray-Painted Outside EA Building",
-      "url": "https://ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T23:08:02+00:00",
-      "score": 13,
-      "event_key": "save mass effect graffiti sprayed outside ea madrid office",
-      "title_ru": "Граффити с призывом спасти Mass Effect появилось у офиса EA",
-      "threads_teaser_ru": "У офиса EA в Мадриде заметили граффити Save Mass Effect. Инцидент произошел вскоре после закрытия BioWare и отмены проектов серии, что вызвало масштабный протест фанатов.",
-      "telegram_message_id": "2024",
-      "telegram_url": "https://t.me/gamepulse_newss/2024",
-      "telegram_published_at": "2026-11-01T00:03:09.991937+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/04/04/ss-2358d92931529dba0cadecadca4137860e6304b1-1920x1080-1775300343877.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-01T00:03:11.333505+00:00"
-    },
-    {
       "fingerprint": "94f63e7220ad6a0adbb53baa",
       "title": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
       "url": "https://polygon.com/best-video-game-twist-endings",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/playstation-plus-june-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T17:32:42.028697+00:00"
+    },
+    {
+      "fingerprint": "c0d63366fb86bd458f9d08de",
+      "title": "Another Gaming Console Price Hike Could Be Coming, Thanks To New Tariffs",
+      "url": "https://gamespot.com/articles/another-gaming-console-price-hike-could-be-coming-thanks-to-new-tariffs",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-25T17:00:26+00:00",
+      "score": 15,
+      "event_key": "new_us_tariffs_gaming_console_price_hike",
+      "title_ru": "Новые пошлины США могут привести к росту цен на консоли",
+      "threads_teaser_ru": "США вводят новые импортные пошлины, которые могут затронуть ключевые страны-производители электроники. Это грозит ростом расходов для Nintendo, Sony и Microsoft и новым подорожанием консолей.",
+      "telegram_message_id": "3228",
+      "telegram_url": "https://t.me/gamepulse_newss/3228",
+      "telegram_published_at": "2026-11-25T18:02:34.787802+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/08/4540889-9441912227-ps5-p.webp?w=300"
     }
   ],
-  "updated_at": "2026-11-25T17:32:42.028775+00:00"
+  "updated_at": "2026-11-25T18:02:34.787898+00:00"
 }
