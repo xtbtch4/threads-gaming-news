@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "223de3f318ac9899dc792552",
-      "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
-      "url": "https://eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-01T13:44:34+00:00",
-      "score": 13,
-      "event_key": "dune awakening blood and ice expansion december",
-      "title_ru": "Для Dune: Awakening анонсировано бесплатное дополнение Blood and Ice",
-      "threads_teaser_ru": "Для выживача Dune: Awakening анонсировано бесплатное дополнение Blood и Ice, которое выйдет 1 декабря на PC, PS5 и Xbox и заменит пустыни на заснеженную карту Polar Sink с новыми механиками выживания и вызовами.",
-      "telegram_message_id": "2037",
-      "telegram_url": "https://t.me/gamepulse_newss/2037",
-      "telegram_published_at": "2026-11-01T13:47:12.811834+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/dune-awakening_eBRRA9O.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-01T13:47:14.244880+00:00"
-    },
-    {
       "fingerprint": "54be698a31fa6f633af04d8b",
       "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
       "url": "https://polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026",
@@ -20511,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-item-animations-1795640541926.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T22:17:00.636162+00:00"
+    },
+    {
+      "fingerprint": "2d5cc1dccee75f5df4979c53",
+      "title": "Capcom Is Officially Killing Its 'Jurassic World Meets Overwatch' Shooter",
+      "url": "https://polygon.com/exoprimal-capcom-shutting-down-2027",
+      "source": "Polygon",
+      "published_at_source": "2026-11-25T22:23:21+00:00",
+      "score": 14,
+      "event_key": "Capcom announces server shutdown for Exoprimal in 2027",
+      "title_ru": "Capcom объявила о закрытии серверов Exoprimal в 2027 году",
+      "threads_teaser_ru": "Capcom официально объявила о скором прекращении поддержки своего командного шутера Exoprimal. Серверы игры будут отключены в сентябре 2027 года, а уже весной проект полностью исчезнет из цифровых магазинов. Рассказываем, что ждет игроков до этого момента.",
+      "telegram_message_id": "3241",
+      "telegram_url": "https://t.me/gamepulse_newss/3241",
+      "telegram_published_at": "2026-11-25T22:47:09.363444+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_e86abd66a1098f48451d0659216b16c2a75f1b84-1920x1080.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-25T22:17:00.636284+00:00"
+  "updated_at": "2026-11-25T22:47:09.363503+00:00"
 }
