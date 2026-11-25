@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ff471f64d9fb743f4f75533f",
-      "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-      "url": "https://ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
-      "source": "IGN",
-      "published_at_source": "2026-10-31T21:46:36+00:00",
-      "score": 13,
-      "event_key": "anthropic blocks ai game clones in claude opus update",
-      "title_ru": "Anthropic выпустила обновление Claude Opus против клонов видеоигр",
-      "threads_teaser_ru": "Компания Anthropic обновила Claude Opus, чтобы остановить создание ИИ-клонов существующих видеоигр, заполонивших Steam. Новые правила запрещают копировать чужие проекты, разрешая при этом разработку оригинальных игр.",
-      "telegram_message_id": "2018",
-      "telegram_url": "https://t.me/gamepulse_newss/2018",
-      "telegram_published_at": "2026-10-31T22:02:15.781370+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-10-31T22:02:17.163492+00:00"
-    },
-    {
       "fingerprint": "709ea30bb1147069184f05a7",
       "title": "KPop Demon Hunters Returns In November with Definitive New Release",
       "url": "https://polygon.com/kpop-demon-hunters-criterion-collection-4k-blu-ray-november-2026",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T07:02:42.750640+00:00"
+    },
+    {
+      "fingerprint": "f5027131b0717a5ddf578759",
+      "title": "All GTA 6 Animals And Wildlife Spawn Locations",
+      "url": "https://gamespot.com/articles/all-gta-6-animals-and-wildlife-spawn-locations",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T12:59:29+00:00",
+      "score": 5,
+      "event_key": "GTA 6 wildlife logging system mechanics and species count",
+      "title_ru": "В GTA 6 появилась полноценная система изучения дикой природы",
+      "threads_teaser_ru": "В GTA 6 можно отвлечься от криминала и заняться изучением фауны штата Leonida. В игре представлено более 250 видов животных и рыб, которых нужно отслеживать, изучать или ловить, чтобы пополнить свою коллекцию.",
+      "telegram_message_id": "3222",
+      "telegram_url": "https://t.me/gamepulse_newss/3222",
+      "telegram_published_at": "2026-11-25T08:32:29.526416+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-wildlife-guide.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-25T07:02:42.750746+00:00"
+  "updated_at": "2026-11-25T08:32:29.526505+00:00"
 }
