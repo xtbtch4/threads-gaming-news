@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "73f3d1cc6411d3dbccf2f71d",
-      "title": "\"It should take corrective action without delay.\"",
-      "url": "https://me.ign.com/en/call-of-duty-2026-unofficial-name/249372/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage",
-      "source": "IGN",
-      "published_at_source": "2026-10-30T08:01:00+00:00",
-      "score": 10,
-      "event_key": "seoul halloween crowd crush footage call of duty modern warfare 4",
-      "title_ru": "Семьи погибших в давке в Сеуле требуют удалить реальные кадры из Call of Duty: Modern Warfare 4",
-      "threads_teaser_ru": "Семьи жертв давки на Хэллоуин в Сеуле потребовали от Activision убрать кадры реальной трагедии из вступительного ролика шутера Call of Duty: Modern Warfare 4.",
-      "telegram_message_id": "2020",
-      "telegram_url": "https://t.me/gamepulse_newss/2020",
-      "telegram_published_at": "2026-10-31T22:32:08.922491+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://sm.ign.com/t/ign_me/news/f/families-w/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush_qurk.1200.jpg",
-      "threads_published_at": "2026-10-31T22:32:10.164675+00:00"
-    },
-    {
       "fingerprint": "8db81ff2b15fe086a3a57899",
       "title": "10 Classic '90s RPGs That Have Aged Like Fine Wine, Ranked",
       "url": "https://polygon.com/best-classic-90s-rpgs",
@@ -20513,7 +20496,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/exoprimal-header_LnCNkXk.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T09:47:08.430549+00:00"
+    },
+    {
+      "fingerprint": "12580e72972f54586eeb73a2",
+      "title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+      "url": "https://rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-25T10:38:50+00:00",
+      "score": 14,
+      "event_key": "Rockstar Games takedown of fan-made GTA 6 PC ports",
+      "title_ru": "Rockstar Games начала борьбу с фанатскими PC-портами GTA 6",
+      "threads_teaser_ru": "Rockstar и Take-Two Interactive начали активно блокировать фанатские попытки портировать Grand Theft Auto 6 на PC. Под удаление попал проект под названием Leonida, который создавался с помощью ИИ на основе утекшей Xbox-сборки. Однако в сети уже появляются новые энтузиасты.",
+      "telegram_message_id": "3224",
+      "telegram_url": "https://t.me/gamepulse_newss/3224",
+      "telegram_published_at": "2026-11-25T10:47:38.654921+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-25T09:47:08.430633+00:00"
+  "updated_at": "2026-11-25T10:47:38.655034+00:00"
 }
