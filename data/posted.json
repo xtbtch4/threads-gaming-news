@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e2b1a41d73ac320f1675b2a3",
-      "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
-      "url": "https://eurogamer.net/skyblivion-former-volunteer-legal-threats",
-      "source": "Eurogamer",
-      "published_at_source": "2026-10-31T13:21:03+00:00",
-      "score": 9,
-      "event_key": "skyblivion former volunteer legal threats",
-      "title_ru": "Бывший волонтер угрожает судом проекту Skyblivion",
-      "threads_teaser_ru": "Над созданием фанатского проекта Skyblivion нависла угроза судебного разбирательства из-за спора с бывшим волонтером по поводу внесенного им кода.",
-      "telegram_message_id": "2000",
-      "telegram_url": "https://t.me/gamepulse_newss/2000",
-      "telegram_published_at": "2026-10-31T13:32:07.581298+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/cover_-_--scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-10-31T13:32:09.031046+00:00"
-    },
-    {
       "fingerprint": "4040167fdd03f61baa1c5763",
       "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
       "url": "https://eurogamer.net/silent-hill-townfall-hard-mode-update",
@@ -20514,7 +20497,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/24/clean-my-mac-blogroll-1795550342811.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T01:46:44.200774+00:00"
+    },
+    {
+      "fingerprint": "ebbf415c8e307dcd85bbc62c",
+      "title": "The Witcher 4 Will Be a GTA 6-Sized Leap Forward, CD Projekt Red Says",
+      "url": "https://polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red",
+      "source": "Polygon",
+      "published_at_source": "2026-11-24T20:10:45+00:00",
+      "score": 11,
+      "event_key": "cd projekt red michal nowakowski the witcher 4 gta 6 comparison",
+      "title_ru": "CD Projekt Red: The Witcher 4 станет технологическим скачком уровня Grand Theft Auto 6",
+      "threads_teaser_ru": "Руководитель CD Projekt Red сравнил будущий скачок между The Witcher 3 и The Witcher 4 с масштабом изменений в Grand Theft Auto 6. Студия нацелена на масштабные улучшения во всех аспектах.",
+      "telegram_message_id": "3204",
+      "telegram_url": "https://t.me/gamepulse_newss/3204",
+      "telegram_published_at": "2026-11-25T02:02:25.834933+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-witcher-4-ciri.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-25T01:46:44.200859+00:00"
+  "updated_at": "2026-11-25T02:02:25.835031+00:00"
 }
