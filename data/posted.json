@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "68393853938b8f9b772d46cd",
-      "title": "5 Best Nintendo Switch Games That Desperately Need Switch 2 Upgrades, Ranked",
-      "url": "https://polygon.com/nintendo-switch-games-no-switch-2-edition",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T22:14:33+00:00",
-      "score": 5,
-      "event_key": "Nintendo Switch games needing Switch 2 upgrades wishlist",
-      "title_ru": "Пять игр для Nintendo Switch, которым нужны улучшения для Switch 2",
-      "threads_teaser_ru": "Многие хиты для Nintendo Switch уже обзавелись улучшенными версиями для Switch 2, но некоторые отличные игры до сих пор обделены вниманием. Разбираемся, каким проектам, вроде Super Mario Maker 2 или Luigi’s Mansion 3, больше всего нужны обновления для новой консоли.",
-      "telegram_message_id": "2022",
-      "telegram_url": "https://t.me/gamepulse_newss/2022",
-      "telegram_published_at": "2026-10-31T23:02:35.669986+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9958985/Switch_SMO_ND0913_SCRN07.jpg?w=1200&h=675&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
-      "threads_published_at": "2026-10-31T23:02:36.920909+00:00"
-    },
-    {
       "fingerprint": "ff417381f7eec4ca449d5faf",
       "title": "Andy Weir's New Time-Travel Sci-fi Thriller Officially Arrives Nov. 5",
       "url": "https://polygon.com/andy-weir-benjamin-percy-exoplanet-sci-fi-audiobook",
@@ -20512,7 +20494,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-34-1795601362117.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-25T11:47:49.227243+00:00"
+    },
+    {
+      "fingerprint": "23a1676be471b0660b44c4f0",
+      "title": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC",
+      "url": "https://eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-25T15:32:40+00:00",
+      "score": 15,
+      "event_key": "team cherry announces hollow knight silksong dlc livestream",
+      "title_ru": "Team Cherry анонсировала трансляцию с новостями о DLC Sea of Sorrows для Hollow Knight: Silksong",
+      "threads_teaser_ru": "Team Cherry проведет специальную презентацию 27 ноября, где поделится подробностями о первом крупном бесплатном DLC Sea of Sorrows для Hollow Knight: Silksong и приготовит другие анонсы.",
+      "telegram_message_id": "3226",
+      "telegram_url": "https://t.me/gamepulse_newss/3226",
+      "telegram_published_at": "2026-11-25T15:47:21.826203+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/cherry-time.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-25T11:47:49.227435+00:00"
+  "updated_at": "2026-11-25T15:47:21.826287+00:00"
 }
