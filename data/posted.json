@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "58e810fb166db1c002a1e9da",
-      "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
-      "url": "https://polygon.com/skyblivion-legal-threats-former-volunteer",
-      "source": "Polygon",
-      "published_at_source": "2026-10-31T15:57:49+00:00",
-      "score": 10,
-      "event_key": "Skyblivion project faces lawsuit from former volunteer",
-      "title_ru": "Разработчики модификации Skyblivion столкнулись с судебным иском от бывшего участника команды",
-      "threads_teaser_ru": "У амбициозной модификации Skyblivion возникли юридические проблемы прямо перед релизом. Судебный иск подал не издатель, а бывший волонтер проекта. Команда разработчиков, создающая перенос The Elder Scrolls 4: Oblivion на движок Skyrim более десяти лет, ищет юридической поддержки.",
-      "telegram_message_id": "2006",
-      "telegram_url": "https://t.me/gamepulse_newss/2006",
-      "telegram_published_at": "2026-10-31T16:32:45.597322+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/skyblivion.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-10-31T16:32:47.236612+00:00"
-    },
-    {
       "fingerprint": "b280a5789b73c67263b837be",
       "title": "Warframe officially adds a whole new star system in December",
       "url": "https://polygon.com/warframe-tau-release-window",
@@ -20514,7 +20497,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-kroldrok-stronghold-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-25T03:17:17.707355+00:00"
+    },
+    {
+      "fingerprint": "6ff2475553fdf9bd17b23bb0",
+      "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
+      "url": "https://gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-24T07:33:00+00:00",
+      "score": 9,
+      "event_key": "gta 6 secret mission hard target saw",
+      "title_ru": "В GTA 6 нашли секретную миссию в стиле Hard Target и Saw",
+      "threads_teaser_ru": "В GTA 6 обнаружили секретное задание, напоминающее по атмосфере фильмы Hard Target и Saw. В этой миссии за Люсию или Джейсона игрокам предстоит столкнуться с опасным охотником.",
+      "telegram_message_id": "3210",
+      "telegram_url": "https://t.me/gamepulse_newss/3210",
+      "telegram_published_at": "2026-11-25T03:32:24.216643+00:00",
+      "threads_id": null,
+      "image_url": ""
     }
   ],
-  "updated_at": "2026-11-25T03:17:17.707441+00:00"
+  "updated_at": "2026-11-25T03:32:24.216731+00:00"
 }
