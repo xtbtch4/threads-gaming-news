@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "231df1f412b053e642ddd4d4",
-      "title": "‘90s style sci-fi horror Derelikt launches Nov 13 on PS5",
-      "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-11-02T15:00:26+00:00",
-      "score": 16,
-      "event_key": "derelikt_launch_ps5_november_13",
-      "title_ru": "Sci-fi horror Derelikt выходит 13 ноября на PS5",
-      "threads_teaser_ru": "Научно-фантастический хоррор Derelikt в эстетике PSOne выходит на PlayStation 5 уже 13 ноября. Игроков ждет мрачная атмосфера на аванпосте у Сатурна, классические головоломки и ретро-графика.",
-      "telegram_message_id": "2057",
-      "telegram_url": "https://t.me/gamepulse_newss/2057",
-      "telegram_published_at": "2026-11-02T15:02:47.491419+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2048/11/646bca9666d03e4befc0e440f34d1e961ac329e0.jpg",
-      "video_url": "https://stream.mux.com/B1bNgQbxWyDrDFRvdLiLMeUheSjydgYlpuNws00muAHU/capped-1080p.mp4?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJCMWJOZ1FieFd5RHJERlJ2ZExpTE1lVWhlU2p5ZGdZbHB1TndzMDBtdUFIVSIsImF1ZCI6InYiLCJleHAiOjE3OTM2NzQ4OTksImtpZCI6IjRMNXlPY2pyVjFOVXFWemNVdkpCbjF3VG00ZVRHRzlNaDAyMDFZazVqdTlOQSJ9.A7xl7JaSFmGvflx4viXu89C6tLGi_QrXU3TruZtppZ_Ti2a7DIIsgkZSJbIWW6eve7TObRXOoaIEJIur_gie9AyDSk6djAW-DGutgDceIioMei2S4rtNpWzIsCj_-Qu6n7W5_z1ZCHsjVZl2CF37y-f1WbdvpC9M1EJ8aLz1gCqkC4GcnO8KraIPccJqJJWYw0aud5B1DkR-6MVdqrUosVPlKBPEjj1iRxAAyShe0AJi84iS8nqAYlMzQ25f15gXgwAmhDnCZsPIhMc27CGtmg9C817GvmvzpHkFeekJQTx_MAohKTd2S8O647QZTnqaLTyIGne3OcRVfmSdvfk6Jg",
-      "threads_published_at": "2026-11-02T15:02:49.229037+00:00"
-    },
-    {
       "fingerprint": "6ab81fec685be102513706a4",
       "title": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
       "url": "https://gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off",
@@ -20507,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/steelseriesnova7prowirelessps5-1795688736590.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T11:16:47.383065+00:00"
+    },
+    {
+      "fingerprint": "15b3c67c2c9602958aa20085",
+      "title": "Warhammer 40,000: Space Marine 2 Patch 16.0 Goes Live, Expands Vanguard Class, Makes Big Balance Changes, and Much More",
+      "url": "https://ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T10:47:20+00:00",
+      "score": 11,
+      "event_key": "warhammer 40000 space marine 2 patch 16 release",
+      "title_ru": "Вышло обновление 16.0 для Warhammer 40,000: Space Marine 2 с балансными правками и контентом",
+      "threads_teaser_ru": "Для Warhammer 40,000: Space Marine 2 вышло масштабное обновление 16.0 с правками баланса, улучшением загрузок и расширением возможностей класса Vanguard. Также издатель объявил планы на будущие патчи и перенос версии для Switch 2.",
+      "telegram_message_id": "3261",
+      "telegram_url": "https://t.me/gamepulse_newss/3261",
+      "telegram_published_at": "2026-11-26T11:32:09.234867+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/sm3-1795689905963.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T11:16:47.383158+00:00"
+  "updated_at": "2026-11-26T11:32:09.234956+00:00"
 }
