@@ -20504,9 +20504,10 @@
       "telegram_message_id": "3258",
       "telegram_url": "https://t.me/gamepulse_newss/3258",
       "telegram_published_at": "2026-11-26T10:47:04.775247+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-alterac-valley.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-alterac-valley.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-26T10:47:06.596401+00:00"
     }
   ],
-  "updated_at": "2026-11-26T10:47:04.775347+00:00"
+  "updated_at": "2026-11-26T10:47:06.596482+00:00"
 }
