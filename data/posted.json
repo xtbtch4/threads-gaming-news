@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "7a3be81f4d1adf2db7b59dcf",
-      "title": "COD Modern Warfare 4 has seemingly answered DMZ players' PvE calls with new Story Mission changes - but there are major caveats",
-      "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-02T16:19:40+00:00",
-      "score": 8,
-      "event_key": "Infinity Ward makes Call of Duty Modern Warfare 4 DMZ Story Missions private for solo players",
-      "title_ru": "Infinity Ward могла сделать сюжетные миссии DMZ в Call of Duty: Modern Warfare 4 приватными для одиночек",
-      "threads_teaser_ru": "В Call of Duty: Modern Warfare 4, похоже, частично исполнили просьбы игроков DMZ о PvE-режиме. Игроки заметили, что сюжетные миссии при первом прохождении стали приватными для одиночек, однако это изменение не было официально подтверждено разработчиками.",
-      "telegram_message_id": "2083",
-      "telegram_url": "https://t.me/gamepulse_newss/2083",
-      "telegram_published_at": "2026-11-03T01:17:35.753430+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T01:17:37.173496+00:00"
-    },
-    {
       "fingerprint": "142d5bf96c6104c080126097",
       "title": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
       "url": "https://ign.com/articles/gamescom-asia-x-thailand-game-show-dubbed-the-most-international-yet-with-almost-220000-attendees",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-brian-heder.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-26T18:33:20.371303+00:00"
+    },
+    {
+      "fingerprint": "c092f274e04158c61eb2fcb5",
+      "title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
+      "url": "https://eurogamer.net/gta-6-boxed-physical-sales-uk",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-26T17:30:30+00:00",
+      "score": 10,
+      "event_key": "GTA 6 physical sales and console hardware boost UK",
+      "title_ru": "GTA 6 обеспечила резкий рост продаж физических копий и консолей в Великобритании",
+      "threads_teaser_ru": "Релиз Grand Theft Auto 6 спровоцировал резкий всплеск продаж физических копий игр, консолей и аксессуаров в Великобритании. Несмотря на отсутствие диска в коробке, проект обеспечил ритейлерам лучший показатель с 2018 года.",
+      "telegram_message_id": "3287",
+      "telegram_url": "https://t.me/gamepulse_newss/3287",
+      "telegram_published_at": "2026-11-26T18:47:10.923230+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/cal-gta-6-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T18:33:20.371394+00:00"
+  "updated_at": "2026-11-26T18:47:10.923318+00:00"
 }
