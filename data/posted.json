@@ -20504,9 +20504,10 @@
       "telegram_message_id": "3246",
       "telegram_url": "https://t.me/gamepulse_newss/3246",
       "telegram_published_at": "2026-11-26T02:03:20.644258+00:00",
-      "threads_id": null,
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "threads_published_at": "2026-11-26T02:03:21.887974+00:00"
     }
   ],
-  "updated_at": "2026-11-26T02:03:20.644372+00:00"
+  "updated_at": "2026-11-26T02:03:21.888065+00:00"
 }
