@@ -20499,10 +20499,11 @@
       "telegram_message_id": "3300",
       "telegram_url": "https://t.me/gamepulse_newss/3300",
       "telegram_published_at": "2026-11-26T22:46:50.839596+00:00",
-      "threads_id": null,
+      "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/star-trek-voyager.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/star-trek-voyager-across-the-unknown-year-of-hell-dlc-coming-december-9-daedalic-entertainment-1080p-1795622190.mp4"
+      "video_url": "https://video.polygonimages.com/2026/11/star-trek-voyager-across-the-unknown-year-of-hell-dlc-coming-december-9-daedalic-entertainment-1080p-1795622190.mp4",
+      "threads_published_at": "2026-11-26T22:46:52.690023+00:00"
     }
   ],
-  "updated_at": "2026-11-26T22:46:50.839710+00:00"
+  "updated_at": "2026-11-26T22:46:52.690123+00:00"
 }
