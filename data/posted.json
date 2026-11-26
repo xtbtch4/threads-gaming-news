@@ -20503,9 +20503,10 @@
       "telegram_message_id": "3254",
       "telegram_url": "https://t.me/gamepulse_newss/3254",
       "telegram_published_at": "2026-11-26T09:33:06.914746+00:00",
-      "threads_id": null,
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cyberwoman-torchwood.jpg?w=1200&h=675&fit=crop"
+      "threads_id": "disabled",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cyberwoman-torchwood.jpg?w=1200&h=675&fit=crop",
+      "threads_published_at": "2026-11-26T09:33:08.838526+00:00"
     }
   ],
-  "updated_at": "2026-11-26T09:33:06.914844+00:00"
+  "updated_at": "2026-11-26T09:33:08.838614+00:00"
 }
