@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8201c9d28e1dafbcc5cb6a01",
-      "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
-      "url": "https://eurogamer.net/borderlands-100-million-copies-gearbox",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-02T18:44:15+00:00",
-      "score": 13,
-      "event_key": "borderlands_series_reaches_100_million_copies",
-      "title_ru": "Тираж серии Borderlands превысил 100 миллионов копий",
-      "threads_teaser_ru": "Совокупные продажи серии Borderlands преодолели отметку в 100 миллионов проданных копий. На фоне этого успеха студия Gearbox Software уже готовит новый контент для Borderlands 4 на следующий год.",
-      "telegram_message_id": "2064",
-      "telegram_url": "https://t.me/gamepulse_newss/2064",
-      "telegram_published_at": "2026-11-02T18:47:05.133299+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-02T18:47:06.716745+00:00"
-    },
-    {
       "fingerprint": "1b6673194f15d3dc5026a2f4",
       "title": "Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
       "url": "https://ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/fable-lengthy-development-drawing-inspiration-from-other-rpgs-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T13:02:35.286244+00:00"
+    },
+    {
+      "fingerprint": "a44b8baa507fb19eb521939e",
+      "title": "Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline",
+      "url": "https://eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-26T13:15:00+00:00",
+      "score": 9,
+      "event_key": "umamusume-pretty-derby-ai-clone-removed-google-play",
+      "title_ru": "Мобильный ИИ-клон Umamusume: Pretty Derby удален из Google Play",
+      "threads_teaser_ru": "Фанаты Umamusume: Pretty Derby добились удаления из Google Play наглого ИИ-клона под названием Anime Racing Academy, который был забит рекламой.",
+      "telegram_message_id": "3268",
+      "telegram_url": "https://t.me/gamepulse_newss/3268",
+      "telegram_published_at": "2026-11-26T13:17:00.669630+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T13:02:35.286340+00:00"
+  "updated_at": "2026-11-26T13:17:00.669720+00:00"
 }
