@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fe5731ed94e29e3310d2ae91",
-      "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
-      "url": "https://eurogamer.net/id-software-doing-great-losing-half-the-studio",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-02T04:12:00+00:00",
-      "score": 14,
-      "event_key": "id software boss comments on studio layoffs after xbox cuts",
-      "title_ru": "Руководитель id Software прокомментировал сокращение половины штата студии",
-      "threads_teaser_ru": "Глава id Software высказался о текущем состоянии студии после увольнения половины сотрудников из-за масштабных сокращений в Microsoft и рассказал о сотрудничестве с MachineGames.",
-      "telegram_message_id": "2053",
-      "telegram_url": "https://t.me/gamepulse_newss/2053",
-      "telegram_published_at": "2026-11-02T12:32:25.050902+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-02T12:32:26.448828+00:00"
-    },
-    {
       "fingerprint": "1a5960c8f997fa702e1ba90e",
       "title": "Gang Of Dragon Won’t Be The First Game From Nagoshi Studio. It Won’t Be Any Game At All",
       "url": "https://gamespot.com/articles/gang-of-dragon-wont-be-the-first-game-from-nagoshi-studio-it-wont-be-any-game-at-all",
@@ -20507,7 +20490,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wulfric-jack-huston-and-kainan-jim-caviezel-stand-together-in-heorot-in-outlander.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2024/06/20140326_outlander-2008-trailer-1717440292.mp4",
       "threads_published_at": "2026-11-26T10:16:44.383263+00:00"
+    },
+    {
+      "fingerprint": "01d12b652ec151d135011865",
+      "title": "'It's Such a Shame' — Blade Runner 2099's Lewis Gribben Mourns EA's Closure of BioWare",
+      "url": "https://ign.com/articles/its-such-a-shame-blade-runner-2099s-lewis-gribben-mourns-eas-closure-of-bioware",
+      "source": "IGN",
+      "published_at_source": "2026-11-25T08:00:00+00:00",
+      "score": 8,
+      "event_key": "blade runner 2099 actor mourns bioware closure",
+      "title_ru": "Актер из Blade Runner 2099 высказался о закрытии BioWare",
+      "threads_teaser_ru": "Актер Льюис Гриббен из Blade Runner 2099 высказался о закрытии BioWare и признался в любви к серии Mass Effect. Также стало известно об обсуждении возможной AAA-игры по Blade Runner.",
+      "telegram_message_id": "3257",
+      "telegram_url": "https://t.me/gamepulse_newss/3257",
+      "telegram_published_at": "2026-11-26T10:32:01.300918+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/24/biowaregribben-blogroll-1795558598882.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T10:16:44.383393+00:00"
+  "updated_at": "2026-11-26T10:32:01.301029+00:00"
 }
