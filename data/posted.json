@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f6e556d146d7aac4147b11fc",
-      "title": "Nintendo Officially Comments on Zelda Remake's Divisive Graphics",
-      "url": "https://polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets",
-      "source": "Polygon",
-      "published_at_source": "2026-11-02T22:51:32+00:00",
-      "score": 10,
-      "event_key": "nintendo_explains_zelda_ocarina_of_time_remake_art_style",
-      "title_ru": "Nintendo объяснила спорный визуальный стиль ремейка The Legend of Zelda: Ocarina of Time",
-      "threads_teaser_ru": "Nintendo рассказала, почему персонажи в ремейке The Legend of Zelda: Ocarina of Time для Switch 2 похожи на марионеток. Разработчики объяснили выбор такого стиля.",
-      "telegram_message_id": "2076",
-      "telegram_url": "https://t.me/gamepulse_newss/2076",
-      "telegram_published_at": "2026-11-02T23:02:58.249422+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-oot-remake.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/10/pio-ep9-v3-1080p-1792636453.mp4",
-      "threads_published_at": "2026-11-02T23:02:59.745104+00:00"
-    },
-    {
       "fingerprint": "b0d06e4c00f7d6833a6bb667",
       "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Ahead of Black Friday",
       "url": "https://ign.com/articles/talix-20000mah-140w-power-bank-deal-november-2026",
@@ -20504,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-26-2026_1920x1080-bea2c2dd6b18ce53ad3a.jpg",
       "threads_published_at": "2026-11-26T16:17:16.551514+00:00"
+    },
+    {
+      "fingerprint": "94c88da256fcc0dfe55f4553",
+      "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+      "url": "https://ign.com/articles/robbing-gta-6-atms-quickly",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T14:16:47+00:00",
+      "score": 11,
+      "event_key": "gta-6-players-find-fast-atm-robbery-trick",
+      "title_ru": "Игроки GTA 6 нашли быстрый способ грабить банкоматы",
+      "threads_teaser_ru": "Игроки в GTA 6 нашли способ быстро грабить банкоматы с помощью лебедки и заряда C4. Трюк позволяет вскрыть автомат на ходу и скрыться от полиции до ее прибытия.",
+      "telegram_message_id": "3280",
+      "telegram_url": "https://t.me/gamepulse_newss/3280",
+      "telegram_published_at": "2026-11-26T16:32:09.319930+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-12-1795702599377.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T16:17:16.551605+00:00"
+  "updated_at": "2026-11-26T16:32:09.320018+00:00"
 }
