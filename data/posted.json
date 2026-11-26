@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19b661238153d6783b988235",
-      "title": "Pedro Pascal Is Hiding an Avengers: Doomsday Easter Egg on His Doctor Doom Halloween Costume, Fans Say",
-      "url": "https://ign.com/articles/pedro-pascal-is-hiding-an-avengers-doomsday-easter-egg-on-his-doctor-doom-halloween-costume-fans-say",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T23:17:23+00:00",
-      "score": 9,
-      "event_key": "pedro-pascal-doctor-doom-costume-avengers-doomsday-easter-egg",
-      "title_ru": "Фанаты нашли пасхалку к Avengers: Doomsday на костюме Педро Паскаля",
-      "threads_teaser_ru": "Хэллоуинские костюмы Педро Паскаля и Роберта Дауни-младшего заставили фанатов Marvel искать пасхалки к Avengers: Doomsday. На свитшоте нашли подозрительный логотип.",
-      "telegram_message_id": "2081",
-      "telegram_url": "https://t.me/gamepulse_newss/2081",
-      "telegram_published_at": "2026-11-03T00:47:16.961203+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/avengers-doomsday-halloween-costume-easter-egg-1793660784689.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T00:47:18.448745+00:00"
-    },
-    {
       "fingerprint": "0c3c3eed3e1e63e9e5b55ef6",
       "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
       "url": "https://ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://drop-assets.ea.com/images/2WAQvREA4REBTRhkkL3OO8/b002e584f421bfa26c023de875638e9a/BioWare_Symbol_BoW_banner_16x9png.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
       "threads_published_at": "2026-11-26T17:32:24.194053+00:00"
+    },
+    {
+      "fingerprint": "e4f9ffc323d8c73af456e74e",
+      "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+      "url": "https://ign.com/articles/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T16:09:17+00:00",
+      "score": 13,
+      "event_key": "rockstar_explains_missing_chainsaws_in_gta_6",
+      "title_ru": "Rockstar объяснила отсутствие бензопил в GTA 6",
+      "threads_teaser_ru": "Разработчики из Rockstar объяснили, почему в GTA 06 нельзя использовать бензопилы и катаны, хотя их можно заметить в игровом мире Leonida.",
+      "telegram_message_id": "3285",
+      "telegram_url": "https://t.me/gamepulse_newss/3285",
+      "telegram_published_at": "2026-11-26T17:46:41.138703+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-15-1795709349508.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T17:32:24.194138+00:00"
+  "updated_at": "2026-11-26T17:46:41.138785+00:00"
 }
