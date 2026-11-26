@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "43ef49e682812a173598e78e",
-      "title": "Nintendo declares November 1 \"Pikmin Day\" in recognition of all things Pikmin - News - Nintendo Official Site",
-      "url": "https://nintendo.com/us/whatsnew/nintendo-declares-november-1-pikmin-day-in-recognition-of-all-things-pikmin",
-      "source": "Nintendo",
-      "published_at_source": "2026-11-02T17:00:00+00:00",
-      "score": 13,
-      "event_key": "nintendo_declares_november_1_pikmin_day",
-      "title_ru": "Nintendo объявила 1 ноября официальным днем Pikmin",
-      "threads_teaser_ru": "Nintendo объявила 1 ноября официальным Pikmin Day и анонсировала игру Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy для Nintendo Switch 2 с поддержкой голосовых команд.",
-      "telegram_message_id": "2096",
-      "telegram_url": "https://t.me/gamepulse_newss/2096",
-      "telegram_published_at": "2026-11-03T10:32:30.647452+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "threads_published_at": "2026-11-03T10:32:32.114736+00:00"
-    },
-    {
       "fingerprint": "e7ae2c16ae59987444e37074",
       "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
       "url": "https://eurogamer.net/control-resonant-remedy-revenue-leaps",
@@ -20502,7 +20485,24 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_15-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-26T22:32:33.383803+00:00"
+    },
+    {
+      "fingerprint": "d7750f3f7433bee41b91d06c",
+      "title": "Star Trek: Voyager Officially Revisits the Series' Best Two-Parter in a Brand-New Way",
+      "url": "https://polygon.com/star-trek-voyager-across-the-unknown-year-of-hell-dlc-announced",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T21:50:18+00:00",
+      "score": 9,
+      "event_key": "star-trek-voyager-across-the-unknown-year-of-hell-dlc",
+      "title_ru": "Для Star Trek: Voyager - Across the Unknown анонсировано DLC Year of Hell",
+      "threads_teaser_ru": "Издательство Daedalic Entertainment анонсировало DLC Year of Hell для игры на выживание Star Trek: Voyager - Across the Unknown. Дополнение выйдет 9 декабря и предложит самостоятельную мини-кампанию, вдохновленную культовой аркой сериала.",
+      "telegram_message_id": "3300",
+      "telegram_url": "https://t.me/gamepulse_newss/3300",
+      "telegram_published_at": "2026-11-26T22:46:50.839596+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/star-trek-voyager.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/star-trek-voyager-across-the-unknown-year-of-hell-dlc-coming-december-9-daedalic-entertainment-1080p-1795622190.mp4"
     }
   ],
-  "updated_at": "2026-11-26T22:32:33.383882+00:00"
+  "updated_at": "2026-11-26T22:46:50.839710+00:00"
 }
