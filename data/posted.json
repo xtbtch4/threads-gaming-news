@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d2b5913a6a69c0925781c08f",
-      "title": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
-      "url": "https://gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-02T14:21:24+00:00",
-      "score": 15,
-      "event_key": "gears of war eday 500 million budget report",
-      "title_ru": "Бюджет Gears of War: E-Day в размере $500 миллионов может отражать не только разработку одной игры",
-      "threads_teaser_ru": "Бюджет Gears of War: E-Day в $500 миллионов вызвал вопросы: как выяснилось, эта сумма охватывает годы работы студии The Coalition не только над самой игрой, но и над поддержкой других проектов Xbox и технологий Unreal Engine 5.",
-      "telegram_message_id": "2056",
-      "telegram_url": "https://t.me/gamepulse_newss/2056",
-      "telegram_published_at": "2026-11-02T14:47:17.488184+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Gears-E-Day.jpg?w=300",
-      "threads_published_at": "2026-11-02T14:47:18.967613+00:00"
-    },
-    {
       "fingerprint": "231df1f412b053e642ddd4d4",
       "title": "‘90s style sci-fi horror Derelikt launches Nov 13 on PS5",
       "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5",
@@ -20507,7 +20490,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sopranos-road-to-respect-characters.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-26T11:02:12.683603+00:00"
+    },
+    {
+      "fingerprint": "deeea4a6f2ba556d8f4c235d",
+      "title": "Save Over 50% Off the SteelSeries Arctis Nova Pro PS5 Wireless Gaming Headset for Black Friday",
+      "url": "https://ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-black-friday-sale-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T11:00:00+00:00",
+      "score": 11,
+      "event_key": "steelseries-arctis-nova-pro-black-friday-sale-woot",
+      "title_ru": "Скидка более 50% на гарнитуру SteelSeries Arctis Nova Pro в рамках Black Friday",
+      "threads_teaser_ru": "Популярная беспроводная гарнитура SteelSeries Arctis Nova Pro получила скидку более 50% на распродаже Black Friday и продается за $183.99 с учетом специального купона на площадке Woot.",
+      "telegram_message_id": "3260",
+      "telegram_url": "https://t.me/gamepulse_newss/3260",
+      "telegram_published_at": "2026-11-26T11:16:46.042420+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/steelseriesnova7prowirelessps5-1795688736590.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T11:02:12.683703+00:00"
+  "updated_at": "2026-11-26T11:16:46.042503+00:00"
 }
