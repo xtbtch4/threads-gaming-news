@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "235f28335d8be8bb73caefdb",
-      "title": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve",
-      "url": "https://ign.com/articles/no-amount-of-competition-will-ever-unseat-steam-former-epic-games-engineer-rails-against-valve",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T19:39:04+00:00",
-      "score": 13,
-      "event_key": "former epic games engineer rails against steam",
-      "title_ru": "Бывший инженер Epic Games высказался о доминировании Steam",
-      "threads_teaser_ru": "Бывший инженер Epic Games Киаран Ритчи заявил, что никакая конкуренция не сможет сместить Steam. По его словам, пользователи привыкли держать всю библиотеку в одном месте и враждебны к другим магазинам.",
-      "telegram_message_id": "2066",
-      "telegram_url": "https://t.me/gamepulse_newss/2066",
-      "telegram_published_at": "2026-11-02T20:02:54.806789+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/20/epic-games-store-1781990551635.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-02T20:02:56.239929+00:00"
-    },
-    {
       "fingerprint": "a94516b91e01041ab2122506",
       "title": "Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft",
       "url": "https://ign.com/articles/former-xbox-coo-helen-chiang-speaks-out-following-shock-exit-from-microsoft",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-Fox-2.jpg?w=300",
       "threads_published_at": "2026-11-26T13:32:12.366728+00:00"
+    },
+    {
+      "fingerprint": "2b001344f292e4bcf194b0e2",
+      "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+      "url": "https://ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T11:00:06+00:00",
+      "score": 7,
+      "event_key": "new ai multiplayer mod for the last of us part 2 remastered",
+      "title_ru": "Для The Last of Us Part 2 Remastered выпустили фанатский мультиплеерный мод с использованием ИИ",
+      "threads_teaser_ru": "Для The Last of Us Part 2 Remastered на PC вышел фанатский мультиплеерный мод Twelve Weeks, созданный с помощью ИИ. Проект предлагает тактические бои 4 на 4 и доступен бесплатно.",
+      "telegram_message_id": "3270",
+      "telegram_url": "https://t.me/gamepulse_newss/3270",
+      "telegram_published_at": "2026-11-26T13:47:24.445265+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T13:32:12.366812+00:00"
+  "updated_at": "2026-11-26T13:47:24.445356+00:00"
 }
