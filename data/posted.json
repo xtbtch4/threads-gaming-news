@@ -20503,9 +20503,10 @@
       "telegram_message_id": "3271",
       "telegram_url": "https://t.me/gamepulse_newss/3271",
       "telegram_published_at": "2026-11-26T14:02:25.618502+00:00",
-      "threads_id": null,
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WOA_Bawma_Wire_img1-45d9824c7277ccbf71d2.jpg"
+      "threads_id": "disabled",
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WOA_Bawma_Wire_img1-45d9824c7277ccbf71d2.jpg",
+      "threads_published_at": "2026-11-26T14:02:27.547909+00:00"
     }
   ],
-  "updated_at": "2026-11-26T14:02:25.618572+00:00"
+  "updated_at": "2026-11-26T14:02:27.547998+00:00"
 }
