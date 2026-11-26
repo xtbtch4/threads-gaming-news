@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3fd22dc6cb31befbd8360d6e",
-      "title": "Limited-Time Pokémon Cards Accidentally Revealed a Year Early",
-      "url": "https://polygon.com/pokemon-cards-mcdonalds-2027-leak",
-      "source": "Polygon",
-      "published_at_source": "2026-11-02T16:11:18+00:00",
-      "score": 12,
-      "event_key": "pokemon-mcdonalds-2027-cards-leak",
-      "title_ru": "Анонс карточек Pokémon для McDonald's на 2027 год случайно утекла раньше времени",
-      "threads_teaser_ru": "The Pokémon Company случайно опубликовала промо-материалы карточек Pokémon для акции McDonald's на 2027 год. Изображения с тегом «M27» быстро разошлись по сети.",
-      "telegram_message_id": "2060",
-      "telegram_url": "https://t.me/gamepulse_newss/2060",
-      "telegram_published_at": "2026-11-02T17:02:34.434191+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pok-mon-pikachu-knock-out.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-02T17:02:35.910570+00:00"
-    },
-    {
       "fingerprint": "5b8db3d4574db288b8cf9102",
       "title": "What Went Wrong With League Of Legends Classic?",
       "url": "https://gamespot.com/articles/what-went-wrong-with-league-of-legends-classic",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-55-1795692345300.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T12:02:30.237907+00:00"
+    },
+    {
+      "fingerprint": "4dbc677660ad79e4391ca629",
+      "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+      "url": "https://eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-26T12:15:40+00:00",
+      "score": 11,
+      "event_key": "ubisoft mandates generative ai use for new game pitches",
+      "title_ru": "Ubisoft внедряет генеративный ИИ во все процессы разработки игр",
+      "threads_teaser_ru": "По данным отчета Vertical Slice, компания Ubisoft требует от разработчиков активно использовать генеративный ИИ при создании новых игр или подробно объяснять отказ от него.",
+      "telegram_message_id": "3264",
+      "telegram_url": "https://t.me/gamepulse_newss/3264",
+      "telegram_published_at": "2026-11-26T12:17:03.697253+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2025-01-27-152746.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T12:02:30.237993+00:00"
+  "updated_at": "2026-11-26T12:17:03.697361+00:00"
 }
