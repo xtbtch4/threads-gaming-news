@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5f525ce54d90837b4adaab53",
-      "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
-      "url": "https://eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-01T17:27:29+00:00",
-      "score": 11,
-      "event_key": "modern-warfare-4-switch-2-input-lag-digital-foundry",
-      "title_ru": "Digital Foundry оценила Call of Duty: Modern Warfare 4 на Switch 2",
-      "threads_teaser_ru": "Аналитики Digital Foundry протестировали Call of Duty: Modern Warfare 4 на Switch 2 и обнаружили серьезную разницу в задержке ввода по сравнению с PS5.",
-      "telegram_message_id": "2045",
-      "telegram_url": "https://t.me/gamepulse_newss/2045",
-      "telegram_published_at": "2026-11-01T17:32:44.352309+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-01T17:32:45.723726+00:00"
-    },
-    {
       "fingerprint": "f29881949610cd7225f0c8e5",
       "title": "Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic",
       "url": "https://polygon.com/fable-reboot-no-co-op",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=300",
       "threads_published_at": "2026-11-26T06:46:54.219441+00:00"
+    },
+    {
+      "fingerprint": "6716037e86880ed190a519f3",
+      "title": "Achievement Unlocked: An Interview with the First XBOX Player to Reach 10 Million Gamerscore",
+      "url": "https://news.xbox.com/en-us/2026/11/25/achievements-10-million-gamerscore-interview",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-25T15:00:00+00:00",
+      "score": 10,
+      "event_key": "first player reaches 10 million XBOX Gamerscore",
+      "title_ru": "Игрок первым в мире достиг 10 миллионов Gamerscore в XBOX",
+      "threads_teaser_ru": "Бразильский игрок Marcello Malta стал первым в истории пользователем XBOX, набравшим 10 миллионов Gamerscore. На путь к этому рекорду у него ушло 20 лет, более 6 400 игр и ежедневная активность на протяжении последних шести лет.",
+      "telegram_message_id": "3249",
+      "telegram_url": "https://t.me/gamepulse_newss/3249",
+      "telegram_published_at": "2026-11-26T07:33:16.335235+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/SiegfriedX_Hero-9f3819b094a6b992cdfa.jpg"
     }
   ],
-  "updated_at": "2026-11-26T06:46:54.219541+00:00"
+  "updated_at": "2026-11-26T07:33:16.335336+00:00"
 }
