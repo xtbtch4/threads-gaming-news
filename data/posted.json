@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "58985c4d31bf35e21390b21f",
-      "title": "One World of Warcraft: Forever player is working on a first-person mod that's a love letter to retro RPGs like Hexen and Morrowind",
-      "url": "https://eurogamer.net/world-of-warcraft-forever-first-person-mod-rpg",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-02T15:21:24+00:00",
-      "score": 10,
-      "event_key": "world-of-warcraft-forever-first-person-mod-retro-forever",
-      "title_ru": "Моддер делает вид от первого лица для World of Warcraft: Forever",
-      "threads_teaser_ru": "Для World of Warcraft: Forever создают фанатский мод с видом от первого лица в стиле классических RPG вроде Morrowind.",
-      "telegram_message_id": "2073",
-      "telegram_url": "https://t.me/gamepulse_newss/2073",
-      "telegram_published_at": "2026-11-02T22:17:22.789504+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/wow-forever-retro.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-02T22:17:24.330722+00:00"
-    },
-    {
       "fingerprint": "9a099b9b831d6c09b065150e",
       "title": "Dead by Daylight Fans Are Uninstalling the Game in Protest",
       "url": "https://polygon.com/dead-by-daylight-theburntpeanut-controversy-explained",
@@ -20505,7 +20488,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T15:17:03.070735+00:00"
+    },
+    {
+      "fingerprint": "e92bc121205f33d889e31f07",
+      "title": "Rockstar Games employees vote against union recognition",
+      "url": "https://eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-26T15:29:00+00:00",
+      "score": 11,
+      "event_key": "rockstar_games_employees_vote_against_union_recognition",
+      "title_ru": "Сотрудники Rockstar Games проголосовали против официального признания профсоюза",
+      "threads_teaser_ru": "Сотрудники Rockstar Games проголосовали против официального признания профсоюза Rockstar Game Workers Union. В голосовании приняли участие 93,2 процента персонала.",
+      "telegram_message_id": "3277",
+      "telegram_url": "https://t.me/gamepulse_newss/3277",
+      "telegram_published_at": "2026-11-26T15:32:35.277876+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-character-4k-wallpaper-uhdpaper.com-269%401%40n.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T15:17:03.070823+00:00"
+  "updated_at": "2026-11-26T15:32:35.277966+00:00"
 }
