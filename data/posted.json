@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f477c7aec14d7f66537c6574",
-      "title": "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\"",
-      "url": "https://eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-02T18:01:38+00:00",
-      "score": 10,
-      "event_key": "Nintendo rejected fast travel in The Legend of Zelda: Ocarina of Time remake",
-      "title_ru": "В ремейке The Legend of Zelda: Ocarina of Time решили не добавлять функцию быстрого перемещения",
-      "threads_teaser_ru": "Разработчики ремейка The Legend of Zelda: Ocarina of Time решили отказаться от быстрой телепортации по карте, которую изначально планировали добавить в игру. Рассказываем, почему авторы посчитали, что этот механизм навредит игровому процессу и духу оригинала.",
-      "telegram_message_id": "2072",
-      "telegram_url": "https://t.me/gamepulse_newss/2072",
-      "telegram_published_at": "2026-11-02T22:05:05.070316+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Ocarina-of-Time-Link.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-02T22:05:07.090993+00:00"
-    },
-    {
       "fingerprint": "58985c4d31bf35e21390b21f",
       "title": "One World of Warcraft: Forever player is working on a first-person mod that's a love letter to retro RPGs like Hexen and Morrowind",
       "url": "https://eurogamer.net/world-of-warcraft-forever-first-person-mod-rpg",
@@ -20505,7 +20488,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-26T15:02:51.427799+00:00"
+    },
+    {
+      "fingerprint": "908321ee7d5c260e6ceebf1e",
+      "title": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
+      "url": "https://rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-26T14:57:30+00:00",
+      "score": 14,
+      "event_key": "ubisoft denies mandatory genai explanations in game pitches",
+      "title_ru": "Ubisoft ответила на слухи об обязательстве использовать генеративный ИИ в питчах игр",
+      "threads_teaser_ru": "Ubisoft прокомментировала отчет о том, что разработчиков якобы заставляют объяснять отказ от генеративного ИИ при питчинге новых игр. В компании заявили, что жесткого требования нет.",
+      "telegram_message_id": "3276",
+      "telegram_url": "https://t.me/gamepulse_newss/3276",
+      "telegram_published_at": "2026-11-26T15:17:01.067334+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T15:02:51.427893+00:00"
+  "updated_at": "2026-11-26T15:17:01.067431+00:00"
 }
