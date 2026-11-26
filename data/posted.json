@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6ab81fec685be102513706a4",
-      "title": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
-      "url": "https://gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-02T15:31:04+00:00",
-      "score": 15,
-      "event_key": "id software marty stratton comments on massive layoffs",
-      "title_ru": "Руководитель id Software высказался о состоянии студии после массовых увольнений",
-      "threads_teaser_ru": "Содиректор id Software Марти Страттон прокомментировал недавние сокращения, затронувшие половину штата студии. По его словам, это было частью целенаправленных усилий для обеспечения успеха компании, а также сблизило их с MachineGames.",
-      "telegram_message_id": "2058",
-      "telegram_url": "https://t.me/gamepulse_newss/2058",
-      "telegram_published_at": "2026-11-02T16:32:35.247704+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/darkages.jpg?w=300",
-      "threads_published_at": "2026-11-02T16:32:37.789759+00:00"
-    },
-    {
       "fingerprint": "1c9b92579c3662b1b0898b2f",
       "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
       "url": "https://gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/sm3-1795689905963.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T11:32:11.023250+00:00"
+    },
+    {
+      "fingerprint": "b67c059662ab07794233769b",
+      "title": "Avengers: Doomsday Teaser Shows Magneto Trying to Rip Doom's Mask Off, Leaves Us With More Questions Than Answers",
+      "url": "https://ign.com/articles/avengers-doomsday-teaser-shows-magneto-trying-to-rip-dooms-mask-off-leaves-us-with-more-questions-than-answers",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T10:11:09+00:00",
+      "score": 11,
+      "event_key": "new avengers doomsday tv spot released ign",
+      "title_ru": "Новый тизер Avengers: Doomsday показал сцену с Magneto и Doom",
+      "threads_teaser_ru": "Вышел новый тизер Avengers: Doomsday, в котором Magneto пытается сорвать маску с Doom, а Thor безуспешно пытается атаковать злодея. Премьера фильма состоится 18 декабря.",
+      "telegram_message_id": "3262",
+      "telegram_url": "https://t.me/gamepulse_newss/3262",
+      "telegram_published_at": "2026-11-26T11:46:42.950347+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/doom-1795687852612.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T11:32:11.023331+00:00"
+  "updated_at": "2026-11-26T11:46:42.950437+00:00"
 }
