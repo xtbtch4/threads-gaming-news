@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b34da5b214575f775194a713",
-      "title": "World of Warcraft: Forever – How Controller Support Reimagines the Way We Can Play in Azeroth",
-      "url": "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-02T18:00:00+00:00",
-      "score": 12,
-      "event_key": "world of warcraft forever gamepad alpha support release",
-      "title_ru": "Поддержка контроллеров в World of Warcraft: Forever",
-      "threads_teaser_ru": "С выходом World of Warcraft: Forever игроки смогут исследовать обновленный классический Азерот с помощью официальной поддержки геймпадов в режиме Alpha. Рассказываем, как устроено управление на контроллере и что изменилось в игре.",
-      "telegram_message_id": "2063",
-      "telegram_url": "https://t.me/gamepulse_newss/2063",
-      "telegram_published_at": "2026-11-02T18:17:05.118506+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WoW_Forever_Announce_Key_Art_-_Alliance-CROP-26c3651eb782d572703f.jpg",
-      "threads_published_at": "2026-11-02T18:17:07.813811+00:00"
-    },
-    {
       "fingerprint": "8201c9d28e1dafbcc5cb6a01",
       "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
       "url": "https://eurogamer.net/borderlands-100-million-copies-gearbox",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300",
       "threads_published_at": "2026-11-26T12:46:46.366926+00:00"
+    },
+    {
+      "fingerprint": "fb827b5e40d7661c1917c9a0",
+      "title": "\"Clearly not everything has gone well\" during Fable's lengthy creation, says Playground boss, but the \"original vision\" remains intact despite taking cues from other RPGs",
+      "url": "https://rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-26T12:07:00+00:00",
+      "score": 10,
+      "event_key": "playground_boss_discusses_fable_development_and_vision",
+      "title_ru": "Руководитель Playground Games высказался о разработке Fable",
+      "threads_teaser_ru": "Генеральный менеджер Playground Games рассказал о сложностях создания перезапуска Fable и о том, почему студия обратилась за вдохновением к другим RPG.",
+      "telegram_message_id": "3267",
+      "telegram_url": "https://t.me/gamepulse_newss/3267",
+      "telegram_published_at": "2026-11-26T13:02:33.785010+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/fable-lengthy-development-drawing-inspiration-from-other-rpgs-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T12:46:46.367018+00:00"
+  "updated_at": "2026-11-26T13:02:33.785089+00:00"
 }
