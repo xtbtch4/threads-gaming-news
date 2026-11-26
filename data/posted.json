@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f29881949610cd7225f0c8e5",
-      "title": "Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic",
-      "url": "https://polygon.com/fable-reboot-no-co-op",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T18:00:02+00:00",
-      "score": 8,
-      "event_key": "fable-reboot-will-be-single-player-only",
-      "title_ru": "Fable лишится кооперативного режима",
-      "threads_teaser_ru": "Стало известно, что грядущий перезапуск Fable от Playground Games откажется от кооперативного режима и станет полностью однопользовательской игрой. Релиз запланирован на февраль.",
-      "telegram_message_id": "2046",
-      "telegram_url": "https://t.me/gamepulse_newss/2046",
-      "telegram_published_at": "2026-11-01T18:02:41.929723+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-01T18:02:43.312095+00:00"
-    },
-    {
       "fingerprint": "f062515a70e41537630904f1",
       "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
       "url": "https://eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/SiegfriedX_Hero-9f3819b094a6b992cdfa.jpg",
       "threads_published_at": "2026-11-26T07:33:18.057995+00:00"
+    },
+    {
+      "fingerprint": "e56d23d8084276722656d7e6",
+      "title": "EA is resurrecting a dead commentator with AI for EA Sports FC 27, years after his last appearance in a FIFA game",
+      "url": "https://eurogamer.net/ea-sports-fc27-dead-commentator-ai",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-25T17:59:00+00:00",
+      "score": 9,
+      "event_key": "EA Sports FC 27 adds John Motson voice via AI",
+      "title_ru": "Голос футбольного комментатора Джона Мотсона вернется в EA Sports FC 27 с помощью ИИ",
+      "threads_teaser_ru": "EA Sports FC 27 возвращает в игру голос легендарного комментатора Джона Мотсона. С помощью ИИ и архивных записей разработчики воссоздали манеру речи покойного комментатора, получив разрешение от его семьи. Обновление выходит уже 26 ноября.",
+      "telegram_message_id": "3250",
+      "telegram_url": "https://t.me/gamepulse_newss/3250",
+      "telegram_published_at": "2026-11-26T08:17:13.643526+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ea-fc-27-best-wonderkids-00.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T07:33:18.058078+00:00"
+  "updated_at": "2026-11-26T08:17:13.643617+00:00"
 }
