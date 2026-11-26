@@ -20503,9 +20503,10 @@
       "telegram_message_id": "3265",
       "telegram_url": "https://t.me/gamepulse_newss/3265",
       "telegram_published_at": "2026-11-26T12:32:39.993773+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-26T12:32:41.454470+00:00"
     }
   ],
-  "updated_at": "2026-11-26T12:32:39.993866+00:00"
+  "updated_at": "2026-11-26T12:32:41.454583+00:00"
 }
