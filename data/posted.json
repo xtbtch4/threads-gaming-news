@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9f9dc8d62335ddd4aa8dc0aa",
-      "title": "20 years of PlayStation Store – devs share the great games that surprised them most",
-      "url": "https://blog.playstation.com/2026/11/02/20-years-of-playstation-store-devs-share-the-great-games-that-surprised-them-most",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-11-02T11:01:50+00:00",
-      "score": 12,
-      "event_key": "playstation-store-20th-anniversary-developers-surprising-games",
-      "title_ru": "Разработчики назвали удивившие их игры за 20 лет PlayStation Store",
-      "threads_teaser_ru": "В честь 20-летия PlayStation Store разработчики из PlayStation Studios и других компаний выбрали игры за два десятилетия, которые поразили их больше всего. В список вошли Balatro, God of War (2018), Inside и другие хиты.",
-      "telegram_message_id": "2052",
-      "telegram_url": "https://t.me/gamepulse_newss/2052",
-      "telegram_published_at": "2026-11-02T11:46:49.244707+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/11/d55f07b0f8ea32aceffa98a33ec682a1bc1ac6e9-scaled.jpg",
-      "threads_published_at": "2026-11-02T11:46:50.617518+00:00"
-    },
-    {
       "fingerprint": "fe5731ed94e29e3310d2ae91",
       "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
       "url": "https://eurogamer.net/id-software-doing-great-losing-half-the-studio",
@@ -20506,7 +20489,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/remarkablepaperpromove-1795656837887.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T09:46:57.142409+00:00"
+    },
+    {
+      "fingerprint": "92d668053a262daa93a0e3dc",
+      "title": "'Alien' Meets 'Vikings' in a 2008 Sci-Fi Spin on Beowulf That Deserves Redemption",
+      "url": "https://polygon.com/outlander-2008-defense-turkey-day",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T10:00:18+00:00",
+      "score": 8,
+      "event_key": "polygon reassesses 2008 sci fi film outlander",
+      "title_ru": "Переосмысление фильма Outlander 2008 года",
+      "threads_teaser_ru": "Научно-фантастический экшен Outlander 2008 года с Джимом Кэвизелом и Роном Перлманом сочетает мотивы Beowulf и Alien. Несмотря на кассовый провал, фильм заслуживает внимания.",
+      "telegram_message_id": "3256",
+      "telegram_url": "https://t.me/gamepulse_newss/3256",
+      "telegram_published_at": "2026-11-26T10:16:42.941545+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wulfric-jack-huston-and-kainan-jim-caviezel-stand-together-in-heorot-in-outlander.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2024/06/20140326_outlander-2008-trailer-1717440292.mp4"
     }
   ],
-  "updated_at": "2026-11-26T09:46:57.142495+00:00"
+  "updated_at": "2026-11-26T10:16:42.941640+00:00"
 }
