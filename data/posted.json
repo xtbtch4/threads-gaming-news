@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0c3c3eed3e1e63e9e5b55ef6",
-      "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
-      "url": "https://ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T00:44:36+00:00",
-      "score": 11,
-      "event_key": "american gamers survey about gta 6 early access",
-      "title_ru": "Опрос показал, на что готовы фанаты ради раннего доступа к GTA 6",
-      "threads_teaser_ru": "Новый опрос американских геймеров показал, что ради раннего доступа к GTA 6 часть фанатов готова временно расстаться с домашними питомцами или отказаться от интимной жизни. Узнайте детали исследования накануне релиза игры.",
-      "telegram_message_id": "2082",
-      "telegram_url": "https://t.me/gamepulse_newss/2082",
-      "telegram_published_at": "2026-11-03T01:03:01.176566+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/gta-6-fan-survey-shows-players-would-give-up-pets-1793666495225.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T01:03:02.642406+00:00"
-    },
-    {
       "fingerprint": "7a3be81f4d1adf2db7b59dcf",
       "title": "COD Modern Warfare 4 has seemingly answered DMZ players' PvE calls with new Story Mission changes - but there are major caveats",
       "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-15-1795709349508.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T17:46:42.569328+00:00"
+    },
+    {
+      "fingerprint": "cd86e3f364ae8f1c52a0f1af",
+      "title": "Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In",
+      "url": "https://polygon.com/gta-6-best-side-characters",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T18:00:18+00:00",
+      "score": 10,
+      "event_key": "Polygon highlights five memorable side characters in GTA 6",
+      "title_ru": "Polygon составили список самых запоминающихся второстепенных персонажей GTA 6",
+      "threads_teaser_ru": "Редакция Polygon выбрала 5 второстепенных персонажей Grand Theft Auto 6, которые запомнились им больше всего. Среди них — герой Стивена Рута, незадачливый уличный гонщик и рэп-дуэт. Кто еще попал в список и почему эти герои крадут внимание у Джейсона и Люсии?",
+      "telegram_message_id": "3286",
+      "telegram_url": "https://t.me/gamepulse_newss/3286",
+      "telegram_published_at": "2026-11-26T18:33:18.863412+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-brian-heder.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-26T17:46:42.569420+00:00"
+  "updated_at": "2026-11-26T18:33:18.863478+00:00"
 }
