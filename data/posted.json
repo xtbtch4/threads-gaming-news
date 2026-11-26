@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d6ec9e85edc2accd40dc0722",
-      "title": "One of the GameCube’s Great Cult Classics Gets the Remaster It Deserves",
-      "url": "https://polygon.com/godzilla-destroy-all-monsters-melee-remastered-review",
-      "source": "Polygon",
-      "published_at_source": "2026-11-02T19:31:18+00:00",
-      "score": 7,
-      "event_key": "release of Godzilla: Destroy All Monsters Melee Remastered",
-      "title_ru": "Вышел ремастер Godzilla: Destroy All Monsters Melee",
-      "threads_teaser_ru": "Вышел ремастер классического файтинга с монстрами Godzilla: Destroy All Monsters Melee. Обновленная версия сохранила «неуклюжий» шарм оригинала 2002 года, добавив онлайн-мультиплеер и улучшенную графику, но получила смешанные отзывы.",
-      "telegram_message_id": "2088",
-      "telegram_url": "https://t.me/gamepulse_newss/2088",
-      "telegram_published_at": "2026-11-03T03:03:22.571966+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/godzilla-destroy-all-monsters-melee-city-destruction.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-03T03:03:24.159919+00:00"
-    },
-    {
       "fingerprint": "c9eb202d683928cf99d724e5",
       "title": "Hideo Kojima's Next Game Officially Gets New Teaser Image, Fans Already Hunting for Clues",
       "url": "https://polygon.com/od-teaser-image-hideo-kojima-horror",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vs-disney-aladdinthereturnofjafardisney-0-49.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-26T20:03:21.255090+00:00"
+    },
+    {
+      "fingerprint": "fdaf566fca3a1c9867ddf321",
+      "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+      "url": "https://ign.com/articles/creating-fresh-looks-is-more-important-in-gta-6-than-any-game-before",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T14:30:00+00:00",
+      "score": 9,
+      "event_key": "GTA 6 customization and wanted system interaction",
+      "title_ru": "Система кастомизации в GTA 6 напрямую влияет на розыск",
+      "threads_teaser_ru": "В GTA 6 внешний вид героев — это не просто эстетика, а полноценная механика выживания. Полиция будет искать вас по описанию, поэтому быстрая смена одежды и прически становится ключом к тому, чтобы уйти от погони.",
+      "telegram_message_id": "3292",
+      "telegram_url": "https://t.me/gamepulse_newss/3292",
+      "telegram_published_at": "2026-11-26T20:32:30.465710+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-cool-fits-1795683417625.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T20:03:21.255178+00:00"
+  "updated_at": "2026-11-26T20:32:30.465798+00:00"
 }
