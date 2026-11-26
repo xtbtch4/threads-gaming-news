@@ -20504,9 +20504,10 @@
       "telegram_message_id": "3257",
       "telegram_url": "https://t.me/gamepulse_newss/3257",
       "telegram_published_at": "2026-11-26T10:32:01.300918+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/24/biowaregribben-blogroll-1795558598882.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/24/biowaregribben-blogroll-1795558598882.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-26T10:32:02.919881+00:00"
     }
   ],
-  "updated_at": "2026-11-26T10:32:01.301029+00:00"
+  "updated_at": "2026-11-26T10:32:02.919994+00:00"
 }
