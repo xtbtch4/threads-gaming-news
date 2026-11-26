@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1c9b92579c3662b1b0898b2f",
-      "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
-      "url": "https://gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-02T16:17:53+00:00",
-      "score": 15,
-      "event_key": "xbox-game-pass-november-wave-1-games",
-      "title_ru": "Ноябрьские новинки Xbox Game Pass",
-      "threads_teaser_ru": "Подписка Xbox Game Pass получит множество новых игр в ноябре, включая релизы в день выхода. Среди первых новинок заявлены Escape Academy 2: Back to School и Warhammer Survivors, а также еще ряд проектов.",
-      "telegram_message_id": "2059",
-      "telegram_url": "https://t.me/gamepulse_newss/2059",
-      "telegram_published_at": "2026-11-02T16:46:51.609046+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Warhammer-Survivors.jpg?w=300",
-      "threads_published_at": "2026-11-02T16:46:53.434444+00:00"
-    },
-    {
       "fingerprint": "3fd22dc6cb31befbd8360d6e",
       "title": "Limited-Time Pokémon Cards Accidentally Revealed a Year Early",
       "url": "https://polygon.com/pokemon-cards-mcdonalds-2027-leak",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/doom-1795687852612.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T11:46:44.871979+00:00"
+    },
+    {
+      "fingerprint": "e9a4ca879136171e726159aa",
+      "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+      "url": "https://ign.com/articles/ps5-workaround-weather-gta-6",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T11:26:17+00:00",
+      "score": 15,
+      "event_key": "ps5 cache clear fix gta 6 weather issue",
+      "title_ru": "Игроки нашли способ исправить проблему с погодой в GTA 6 на PS5",
+      "threads_teaser_ru": "После первого патча для GTA 6 у некоторых игроков на PS5 сохранилась проблема с однообразной погодой. Пользователи нашли способ исправить это через очистку системного кеша в безопасном режиме консоли.",
+      "telegram_message_id": "3263",
+      "telegram_url": "https://t.me/gamepulse_newss/3263",
+      "telegram_published_at": "2026-11-26T12:02:28.906199+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-55-1795692345300.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T11:46:44.872068+00:00"
+  "updated_at": "2026-11-26T12:02:28.906285+00:00"
 }
