@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b0d06e4c00f7d6833a6bb667",
-      "title": "The Slick Looking TSA-Approved Talix 20,000mAh 140W Power Bank Drops to $39 Ahead of Black Friday",
-      "url": "https://ign.com/articles/talix-20000mah-140w-power-bank-deal-november-2026",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T22:25:00+00:00",
-      "score": 9,
-      "event_key": "talix-power-bank-amazon-discount-black-friday",
-      "title_ru": "Talix 20,000mAh 140W Power Bank со скидкой перед Black Friday",
-      "threads_teaser_ru": "На Amazon перед Black Friday снизилась цена на мощный внешний аккумулятор Talix 20,000mAh 140W Power Bank. Устройство с поддержкой быстрой зарядки для портативных игровых ПК и ноутбуков отдают за $38.99 по купону.",
-      "telegram_message_id": "2077",
-      "telegram_url": "https://t.me/gamepulse_newss/2077",
-      "telegram_published_at": "2026-11-02T23:17:09.278215+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/talixpowerbank-1793653599021.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-02T23:17:10.889753+00:00"
-    },
-    {
       "fingerprint": "f47ceb68f2ef8f933e048ece",
       "title": "Terminally Ill GTA 6 Fan Dies Three Weeks Before Game's Launch, Fans Pay Their Respects",
       "url": "https://ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-12-1795702599377.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T16:32:11.419988+00:00"
+    },
+    {
+      "fingerprint": "e0bbc2e4b57233bbbcd641f2",
+      "title": "Spider-Man: Brand New Day Rerelease Includes a Scene Cut From Avengers: Doomsday",
+      "url": "https://ign.com/articles/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from-avengers-doomsday",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T15:44:17+00:00",
+      "score": 9,
+      "event_key": "Spider-Man Brand New Day rerelease includes Avengers Doomsday scene",
+      "title_ru": "Spider-Man: Brand New Day возвращается в кинотеатры с вырезанной сценой из Avengers: Doomsday",
+      "threads_teaser_ru": "Spider-Man: Brand New Day вернется в прокат с расширенным контентом: в картину добавят вырезанную сцену из будущего фильма Avengers: Doomsday и ранее удаленный эпизод с Розарио Доусон в роли Клэр Темпл.",
+      "telegram_message_id": "3281",
+      "telegram_url": "https://t.me/gamepulse_newss/3281",
+      "telegram_published_at": "2026-11-26T16:47:22.994725+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T16:32:11.420076+00:00"
+  "updated_at": "2026-11-26T16:47:22.994811+00:00"
 }
