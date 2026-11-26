@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1d8456a6014415610c0d9a4a",
-      "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
-      "url": "https://polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard",
-      "source": "Polygon",
-      "published_at_source": "2026-11-01T19:09:33+00:00",
-      "score": 5,
-      "event_key": "pokemon go halloween 2026 part 2 event details",
-      "title_ru": "Началась вторая часть события Halloween 2026 в Pokémon Go",
-      "threads_teaser_ru": "В Pokémon Go стартовала вторая часть события Halloween 2026, которая продлится до 5 ноября. Главные новинки: дебют shiny-версии Greavard и усиление Mega Sableye до уровня Super Max Level.",
-      "telegram_message_id": "2050",
-      "telegram_url": "https://t.me/gamepulse_newss/2050",
-      "telegram_published_at": "2026-11-01T19:17:40.286299+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-01T19:17:41.649333+00:00"
-    },
-    {
       "fingerprint": "4e020b45d7ab99cac6b22dec",
       "title": "Soulframe to launch into free open beta this week, as Warframe devs go head-to-head with WoW: Forever",
       "url": "https://eurogamer.net/soulframe-open-prelude-date-verse-of-the-veillands",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T09:17:27.688946+00:00"
+    },
+    {
+      "fingerprint": "99c94e7e9744bda5b13192b3",
+      "title": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+      "url": "https://polygon.com/torchwood-remains-the-best-doctor-who-spin-off",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T09:00:17+00:00",
+      "score": 8,
+      "event_key": "Torchwood Doctor Who spin-off analysis retrospect",
+      "title_ru": "Torchwood: вспоминаем спин-офф Doctor Who",
+      "threads_teaser_ru": "Спустя годы после премьеры Torchwood многие фанаты переосмысливают этот противоречивый спин-офф Doctor Who. Сериал прошел путь от скандального «взрослого» шоу до глубокого исследования травмы и бессмертия капитана Джека Харкнесса.",
+      "telegram_message_id": "3254",
+      "telegram_url": "https://t.me/gamepulse_newss/3254",
+      "telegram_published_at": "2026-11-26T09:33:06.914746+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cyberwoman-torchwood.jpg?w=1200&h=675&fit=crop"
     }
   ],
-  "updated_at": "2026-11-26T09:17:27.689036+00:00"
+  "updated_at": "2026-11-26T09:33:06.914844+00:00"
 }
