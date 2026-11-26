@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1a5960c8f997fa702e1ba90e",
-      "title": "Gang Of Dragon Won’t Be The First Game From Nagoshi Studio. It Won’t Be Any Game At All",
-      "url": "https://gamespot.com/articles/gang-of-dragon-wont-be-the-first-game-from-nagoshi-studio-it-wont-be-any-game-at-all",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-02T13:15:03+00:00",
-      "score": 15,
-      "event_key": "nagoshi studio dissolved before releasing first game",
-      "title_ru": "Nagoshi Studio закрылась до выпуска первой игры",
-      "threads_teaser_ru": "Студия Тосиро Нагоси закрылась, так и не выпустив ни одной игры. Коллектив работал над Gang of Dragon, но NetEase прекратила финансирование проекта после сообщений о потребности в дополнительных средствах.",
-      "telegram_message_id": "2054",
-      "telegram_url": "https://t.me/gamepulse_newss/2054",
-      "telegram_published_at": "2026-11-02T13:32:32.066115+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/05/Gang-of-Dragon.jpg?w=300",
-      "threads_published_at": "2026-11-02T13:32:33.613379+00:00"
-    },
-    {
       "fingerprint": "34b5f3dd6aba0c09b0de158b",
       "title": "Dave Bautista Is Looking More Like Kratos After Packing On 20 Pounds Of Muscle",
       "url": "https://gamespot.com/articles/dave-bautista-is-looking-more-like-kratos-after-packing-on-20-pounds-of-muscle",
@@ -20507,7 +20490,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/24/biowaregribben-blogroll-1795558598882.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T10:32:02.919881+00:00"
+    },
+    {
+      "fingerprint": "155b9ab392a3f7e1e44b5bc1",
+      "title": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-26T10:46:10+00:00",
+      "score": 11,
+      "event_key": "blizzard_updates_alterac_valley_in_world_of_warcraft_forever",
+      "title_ru": "Blizzard изменила Alterac Valley в World of Warcraft: Forever",
+      "threads_teaser_ru": "Разработчики World of Warcraft: Forever изменили Alterac Valley, чтобы остановить быстрый фарм репутации. Игроки недовольны новыми правилами и усилением генералов.",
+      "telegram_message_id": "3258",
+      "telegram_url": "https://t.me/gamepulse_newss/3258",
+      "telegram_published_at": "2026-11-26T10:47:04.775247+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-alterac-valley.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T10:32:02.919994+00:00"
+  "updated_at": "2026-11-26T10:47:04.775347+00:00"
 }
