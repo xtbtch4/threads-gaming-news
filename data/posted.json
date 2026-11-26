@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0e1311141d0010f09167c745",
-      "title": "Project Hail Mary Author Andy Weir Explains How He Would Fix the Star Wars Franchise",
-      "url": "https://ign.com/articles/project-hail-mary-author-andy-weir-explains-how-he-would-fix-the-star-wars-franchise",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T23:45:03+00:00",
-      "score": 9,
-      "event_key": "andy weir star wars franchise interview slashfilm",
-      "title_ru": "Автор The Martian и Project Hail Mary рассказал, как изменил бы Star Wars",
-      "threads_teaser_ru": "Писатель Andy Weir поделился идеями о том, как нужно развивать вселенную Star Wars. Он предложил вернуться к периоду Галактической гражданской войны и рассказать о других персонажах.",
-      "telegram_message_id": "2080",
-      "telegram_url": "https://t.me/gamepulse_newss/2080",
-      "telegram_published_at": "2026-11-03T00:16:50.677732+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/15/kylo-ren-adam-driver-the-hunt-for-ben-solo-1786828031365.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T00:16:51.960626+00:00"
-    },
-    {
       "fingerprint": "19b661238153d6783b988235",
       "title": "Pedro Pascal Is Hiding an Avengers: Doomsday Easter Egg on His Doctor Doom Halloween Costume, Fans Say",
       "url": "https://ign.com/articles/pedro-pascal-is-hiding-an-avengers-doomsday-easter-egg-on-his-doctor-doom-halloween-costume-fans-say",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T17:17:07.284422+00:00"
+    },
+    {
+      "fingerprint": "6c63db6e82455e9d93b3cfd0",
+      "title": "BioWare Update",
+      "url": "https://ea.com/news/bioware-update",
+      "source": "Electronic Arts",
+      "published_at_source": "2026-11-26T18:00:00+00:00",
+      "score": 13,
+      "event_key": "bioware studio closing and mass effect development ending",
+      "title_ru": "BioWare закрывается",
+      "threads_teaser_ru": "Студия BioWare объявила о закрытии после более чем 30 лет работы. Из-за этого прекращается ранняя разработка следующего проекта Mass Effect.",
+      "telegram_message_id": "3284",
+      "telegram_url": "https://t.me/gamepulse_newss/3284",
+      "telegram_published_at": "2026-11-26T17:32:22.204654+00:00",
+      "threads_id": null,
+      "image_url": "https://drop-assets.ea.com/images/2WAQvREA4REBTRhkkL3OO8/b002e584f421bfa26c023de875638e9a/BioWare_Symbol_BoW_banner_16x9png.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     }
   ],
-  "updated_at": "2026-11-26T17:17:07.284510+00:00"
+  "updated_at": "2026-11-26T17:32:22.204743+00:00"
 }
