@@ -20500,9 +20500,10 @@
       "telegram_message_id": "3289",
       "telegram_url": "https://t.me/gamepulse_newss/3289",
       "telegram_published_at": "2026-11-26T19:17:15.068195+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/wiedzmin-3-remastered-headline-steam2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/wiedzmin-3-remastered-headline-steam2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-26T19:17:16.877130+00:00"
     }
   ],
-  "updated_at": "2026-11-26T19:17:15.068297+00:00"
+  "updated_at": "2026-11-26T19:17:16.877214+00:00"
 }
