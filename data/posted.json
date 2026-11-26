@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "17608e55f633ddbe1a699352",
-      "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
-      "url": "https://eurogamer.net/anthropic-claude-generative-ai-game-clones-update",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-02T14:29:41+00:00",
-      "score": 10,
-      "event_key": "anthropic claude restricts video game clones",
-      "title_ru": "Anthropic обновила Claude для предотвращения создания клонов видеоигр",
-      "threads_teaser_ru": "В программном обеспечении Claude от компании Anthropic появилось обновление, которое блокирует создание прямых клонов и копий уже существующих видеоигр.",
-      "telegram_message_id": "2075",
-      "telegram_url": "https://t.me/gamepulse_newss/2075",
-      "telegram_published_at": "2026-11-02T22:47:24.867316+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Stellar-Blade_robotic-old-man.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-02T22:47:26.287051+00:00"
-    },
-    {
       "fingerprint": "f6e556d146d7aac4147b11fc",
       "title": "Nintendo Officially Comments on Zelda Remake's Divisive Graphics",
       "url": "https://polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets",
@@ -20504,7 +20487,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T16:02:41.006376+00:00"
+    },
+    {
+      "fingerprint": "83eef80c733d5f809113ee0e",
+      "title": "Free Play Days – Warhammer 40,000: Mechanicus and Little Rocket Lab",
+      "url": "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026",
+      "source": "Xbox Wire",
+      "published_at_source": "2026-11-26T16:00:00+00:00",
+      "score": 13,
+      "event_key": "free play days warhammer 40k mechanicus little rocket lab",
+      "title_ru": "Warhammer 40,000: Mechanicus и Little Rocket Lab стали доступны в рамках Free Play Days",
+      "threads_teaser_ru": "Подписчики Xbox Game Pass Ultimate, Premium и Essential могут бесплатно сыграть в Warhammer 40,000: Mechanicus и Little Rocket Lab с 26 по 29 ноября в рамках акции Free Play Days.",
+      "telegram_message_id": "3279",
+      "telegram_url": "https://t.me/gamepulse_newss/3279",
+      "telegram_published_at": "2026-11-26T16:17:14.601453+00:00",
+      "threads_id": null,
+      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-26-2026_1920x1080-bea2c2dd6b18ce53ad3a.jpg"
     }
   ],
-  "updated_at": "2026-11-26T16:02:41.006454+00:00"
+  "updated_at": "2026-11-26T16:17:14.601561+00:00"
 }
