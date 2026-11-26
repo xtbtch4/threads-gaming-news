@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fffc04e6774ea3524e83d030",
-      "title": "Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director",
-      "url": "https://ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T20:06:39+00:00",
-      "score": 11,
-      "event_key": "Alien: Isolation 2 details and new protagonist reveal",
-      "title_ru": "Alien: Isolation 2 останется верна жанру survival horror",
-      "threads_teaser_ru": "Стали известны подробности Alien: Isolation 2, которая выйдет в 2027 году. Разработчики подтвердили, что игра останется верна жанру survival horror, а вместо Amanda Ripley игроки возьмут на себя роль сотрудницы Weyland-Yutani по имени Blake.",
-      "telegram_message_id": "2069",
-      "telegram_url": "https://t.me/gamepulse_newss/2069",
-      "telegram_published_at": "2026-11-02T21:02:56.722332+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/06/05/alienisolation-thumb-1780701533804.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-02T21:02:58.475587+00:00"
-    },
-    {
       "fingerprint": "dab0e3a7caf8c3652f50882f",
       "title": "Jurassic Park Meets Outlast in Terrifying Steam Game Coming Next Week",
       "url": "https://polygon.com/wilderdark-survival-horror-jurassic-park-steam-release",
@@ -20506,7 +20489,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T14:17:22.568308+00:00"
+    },
+    {
+      "fingerprint": "163a910c7d4476b59378ce92",
+      "title": "Hidden Control Options In GTA 6",
+      "url": "https://gamespot.com/videos/hidden-control-options-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-26T14:00:00+00:00",
+      "score": 11,
+      "event_key": "hidden control options discovered in GTA 6",
+      "title_ru": "Скрытые настройки управления в GTA 6",
+      "threads_teaser_ru": "В GTA 6 нашли множество скрытых команд управления, о которых игра ничего не рассказывает. Журналисты показали несколько таких приемов, которые можно использовать на практике.",
+      "telegram_message_id": "3273",
+      "telegram_url": "https://t.me/gamepulse_newss/3273",
+      "telegram_published_at": "2026-11-26T14:32:07.269239+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Guide_HiddenControls_Thumb1.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-26T14:17:22.568396+00:00"
+  "updated_at": "2026-11-26T14:32:07.269325+00:00"
 }
