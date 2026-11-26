@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b95daee88bc18928aa37ca67",
-      "title": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
-      "url": "https://rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-11-03T10:12:22+00:00",
-      "score": 14,
-      "event_key": "itchio adds no AI search filter and expands disclosures",
-      "title_ru": "itch.io добавит фильтр для скрытия контента с генеративным ИИ в поисковой выдаче",
-      "threads_teaser_ru": "Платформа itch.io внедрит в поиск фильтр для исключения контента с генеративным ИИ и расширит требования по обязательной маркировке на книги, комиксы, настольные игры и саундтреки.",
-      "telegram_message_id": "2095",
-      "telegram_url": "https://t.me/gamepulse_newss/2095",
-      "telegram_published_at": "2026-11-03T10:17:09.557809+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/itch-AI-filter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T10:17:11.012114+00:00"
-    },
-    {
       "fingerprint": "43ef49e682812a173598e78e",
       "title": "Nintendo declares November 1 \"Pikmin Day\" in recognition of all things Pikmin - News - Nintendo Official Site",
       "url": "https://nintendo.com/us/whatsnew/nintendo-declares-november-1-pikmin-day-in-recognition-of-all-things-pikmin",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T22:17:05.018462+00:00"
+    },
+    {
+      "fingerprint": "af229817a6728ee8eca691f3",
+      "title": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
+      "url": "https://polygon.com/rockstar-game-workers-union-vote-gta-6",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T17:16:26+00:00",
+      "score": 10,
+      "event_key": "rockstar_games_workers_vote_against_unionization_iwgb",
+      "title_ru": "Сотрудники Rockstar Games проголосовали против профсоюза",
+      "threads_teaser_ru": "Сотрудники британских офисов Rockstar Games проголосовали против профсоюзного соглашения с IWGB Game Workers Union. Решение было принято на фоне рекордного запуска Grand Theft Auto 6 и судебного разбирательства.",
+      "telegram_message_id": "3299",
+      "telegram_url": "https://t.me/gamepulse_newss/3299",
+      "telegram_published_at": "2026-11-26T22:32:32.035189+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_15-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-26T22:17:05.018545+00:00"
+  "updated_at": "2026-11-26T22:32:32.035277+00:00"
 }
