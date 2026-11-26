@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "142d5bf96c6104c080126097",
-      "title": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
-      "url": "https://ign.com/articles/gamescom-asia-x-thailand-game-show-dubbed-the-most-international-yet-with-almost-220000-attendees",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T15:11:00+00:00",
-      "score": 8,
-      "event_key": "Gamescom Asia x Thailand Game Show 2026 Bangkok",
-      "title_ru": "Gamescom Asia x Thailand Game Show посетило почти 220 000 человек",
-      "threads_teaser_ru": "На завершившейся Gamescom Asia x Thailand Game Show представили 470 игр, а саму выставку посетили почти 220 000 человек. На мероприятии показали проекты от крупных издателей, включая Capcom и SEGA, а также провели церемонию награждения, где определили «Игру года».",
-      "telegram_message_id": "2084",
-      "telegram_url": "https://t.me/gamepulse_newss/2084",
-      "telegram_published_at": "2026-11-03T01:32:50.213290+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gamescomasia-blogroll-1793660801334.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T01:32:51.851452+00:00"
-    },
-    {
       "fingerprint": "73ace88b1aabcb972cd47e85",
       "title": "Delve into \"a deep underground facility full of secrets and horrors\" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project",
       "url": "https://rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cal-gta-6-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T18:47:12.251709+00:00"
+    },
+    {
+      "fingerprint": "2a899ecd7cc3f06e3b95267a",
+      "title": "HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches",
+      "url": "https://rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-26T18:53:30+00:00",
+      "score": 12,
+      "event_key": "hark-the-ghoul-release-date-announced-january-2027",
+      "title_ru": "Анонсирована дата выхода HARK THE GHOUL",
+      "threads_teaser_ru": "Стало известно, когда выйдет мрачный викторианский dungeon crawler RPG HARK THE GHOUL. Игра появится на ПК и консолях в начале 2027 года, а уже сейчас в Steam доступна демоверсия.",
+      "telegram_message_id": "3288",
+      "telegram_url": "https://t.me/gamepulse_newss/3288",
+      "telegram_published_at": "2026-11-26T19:02:42.979901+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/hark-the-ghoul.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T18:47:12.251793+00:00"
+  "updated_at": "2026-11-26T19:02:42.979997+00:00"
 }
