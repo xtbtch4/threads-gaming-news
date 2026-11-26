@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f47ceb68f2ef8f933e048ece",
-      "title": "Terminally Ill GTA 6 Fan Dies Three Weeks Before Game's Launch, Fans Pay Their Respects",
-      "url": "https://ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T15:12:00+00:00",
-      "score": 10,
-      "event_key": "terminally ill fan dies before gta 6 launch",
-      "title_ru": "Фан GTA 6 скончался за три недели до релиза игры",
-      "threads_teaser_ru": "Смертельно больной фанат GTA 6, собиравший средства на операцию и мечтавший дожить до релиза игры, ушел из жизни всего за три недели до выхода проекта.",
-      "telegram_message_id": "2078",
-      "telegram_url": "https://t.me/gamepulse_newss/2078",
-      "telegram_published_at": "2026-11-02T23:32:22.036773+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/gta-6-carjack-1793660725979.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-02T23:32:23.376555+00:00"
-    },
-    {
       "fingerprint": "c5d592ba4787802287be896b",
       "title": "Save 10% Off the SCUF Omega Wireless TMR PlayStation 5 Controller Ahead of Black Friday",
       "url": "https://ign.com/articles/scuf-omega-wireless-tmr-playstation-5-controller-is-on-sale-ahead-of-black-friday",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T16:47:24.487455+00:00"
+    },
+    {
+      "fingerprint": "f1813cdedefce5f82fbf179b",
+      "title": "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
+      "url": "https://ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T16:59:16+00:00",
+      "score": 15,
+      "event_key": "github-deletes-tweet-celebrating-anyps5-repo-gta-6",
+      "title_ru": "GitHub удалил твит с празднованием репозитория AnyPS5 после выхода GTA 6",
+      "threads_teaser_ru": "Принадлежащий Microsoft ресурс GitHub удалил спорный твит, в котором отмечался успех репозитория AnyPS5 на фоне релиза GTA 6. Инцидент произошел на фоне борьбы Take-Two с неофициальными проектами и попытками реверс-инжиниринга.",
+      "telegram_message_id": "3282",
+      "telegram_url": "https://t.me/gamepulse_newss/3282",
+      "telegram_published_at": "2026-11-26T17:02:37.945632+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-21-1795712312400.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-26T16:47:24.487541+00:00"
+  "updated_at": "2026-11-26T17:02:37.945710+00:00"
 }
