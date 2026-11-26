@@ -20503,9 +20503,10 @@
       "telegram_message_id": "3273",
       "telegram_url": "https://t.me/gamepulse_newss/3273",
       "telegram_published_at": "2026-11-26T14:32:07.269239+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Guide_HiddenControls_Thumb1.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Guide_HiddenControls_Thumb1.jpg?w=300",
+      "threads_published_at": "2026-11-26T14:32:09.022773+00:00"
     }
   ],
-  "updated_at": "2026-11-26T14:32:07.269325+00:00"
+  "updated_at": "2026-11-26T14:32:09.022855+00:00"
 }
