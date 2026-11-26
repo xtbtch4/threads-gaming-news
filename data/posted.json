@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a41ca390e0496e776ecf6000",
-      "title": "Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech",
-      "url": "https://rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-11-02T17:30:00+00:00",
-      "score": 7,
-      "event_key": "announcement of simulator game Bay 12: Mech Repair",
-      "title_ru": "Анонсирован симулятор ремонта роботов Bay 12: Mech Repair",
-      "threads_teaser_ru": "В сети представили Bay 12: Mech Repair — симулятор механика, где нужно чинить боевых роботов прямо во время войны. Игрокам предстоит не только возиться с «железными гигантами», но и учитывать отчеты пилотов, а также решать, куда потратить заработанные кредиты — на инструменты или покраску.",
-      "telegram_message_id": "2090",
-      "telegram_url": "https://t.me/gamepulse_newss/2090",
-      "telegram_published_at": "2026-11-03T04:02:48.297515+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Bay-12-Mech-Repair.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T04:02:49.560956+00:00"
-    },
-    {
       "fingerprint": "10bf66f96903612f0e8097b3",
       "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
       "url": "https://polygon.com/avatar-the-last-airbenders-best-quote",
@@ -20502,7 +20485,24 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/skate-header_g4XD29A.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T20:47:02.269602+00:00"
+    },
+    {
+      "fingerprint": "c0abc39ec5307ac36b400335",
+      "title": "GTA: Boston Would Go Wicked Hard, Kid",
+      "url": "https://polygon.com/gta-6-boston-massachussetts",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T21:00:18+00:00",
+      "score": 12,
+      "event_key": "polygon author suggests massachusetts as setting for future grand theft auto",
+      "title_ru": "Автор Polygon поделился идеей о Массачусетсе как месте действия для будущих игр серии Grand Theft Auto",
+      "threads_teaser_ru": "Автор Polygon предложил Массачусетс в качестве идеального региона для одной из будущих игр серии Grand Theft Auto, отметив разнообразие ландшафтов штата и богатый потенциал для фирменной сатиры Rockstar Games.",
+      "telegram_message_id": "3294",
+      "telegram_url": "https://t.me/gamepulse_newss/3294",
+      "telegram_published_at": "2026-11-26T21:02:42.386034+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/image-10.png?w=1200&h=675&fit=crop",
+      "video_url": "https://video.polygonimages.com/2026/11/polygongta6review-1795006393.mp4"
     }
   ],
-  "updated_at": "2026-11-26T20:47:02.269684+00:00"
+  "updated_at": "2026-11-26T21:02:42.386144+00:00"
 }
