@@ -20500,9 +20500,10 @@
       "telegram_message_id": "3284",
       "telegram_url": "https://t.me/gamepulse_newss/3284",
       "telegram_published_at": "2026-11-26T17:32:22.204654+00:00",
-      "threads_id": null,
-      "image_url": "https://drop-assets.ea.com/images/2WAQvREA4REBTRhkkL3OO8/b002e584f421bfa26c023de875638e9a/BioWare_Symbol_BoW_banner_16x9png.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
+      "threads_id": "disabled",
+      "image_url": "https://drop-assets.ea.com/images/2WAQvREA4REBTRhkkL3OO8/b002e584f421bfa26c023de875638e9a/BioWare_Symbol_BoW_banner_16x9png.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+      "threads_published_at": "2026-11-26T17:32:24.194053+00:00"
     }
   ],
-  "updated_at": "2026-11-26T17:32:22.204743+00:00"
+  "updated_at": "2026-11-26T17:32:24.194138+00:00"
 }
