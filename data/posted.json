@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e7ae2c16ae59987444e37074",
-      "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
-      "url": "https://eurogamer.net/control-resonant-remedy-revenue-leaps",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-03T09:56:48+00:00",
-      "score": 9,
-      "event_key": "remedy-revenue-surges-control-resonant-launch",
-      "title_ru": "Выручка Remedy выросла на 226% благодаря релизу Control Resonant",
-      "threads_teaser_ru": "Релиз Control Resonant помог Remedy увеличить квартальную выручку на 226% и выйти в операционную прибыль. Игра стала самой быстро продаваемой в истории студии, привлекли множество новых игроков и подстегнула продажи первой части.",
-      "telegram_message_id": "2097",
-      "telegram_url": "https://t.me/gamepulse_newss/2097",
-      "telegram_published_at": "2026-11-03T10:47:14.079235+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T10:47:15.554833+00:00"
-    },
-    {
       "fingerprint": "a691e241db9bacef68ca7bae",
       "title": "Dragon Ball Manga Return Hopes Officially Dashed by Shueisha",
       "url": "https://polygon.com/dragon-ball-super-jump-festa-manga-return",
@@ -20503,7 +20486,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/star-trek-voyager.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/11/star-trek-voyager-across-the-unknown-year-of-hell-dlc-coming-december-9-daedalic-entertainment-1080p-1795622190.mp4",
       "threads_published_at": "2026-11-26T22:46:52.690023+00:00"
+    },
+    {
+      "fingerprint": "9e9be72b69c5cf26598e4d99",
+      "title": "Your mothership is a giant pinball machine and your ball is its defence system in Appulse, a top-down roguelite shooter that's out now",
+      "url": "https://rockpapershotgun.com/your-mothership-is-a-giant-pinball-machine-and-your-ball-is-its-defence-system-in-appulse-a-top-down-roguelite-shooter-thats-out-now",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-26T21:31:10+00:00",
+      "score": 12,
+      "event_key": "Appulse sci-fi pinball roguelite shooter launch Steam",
+      "title_ru": "Релиз Appulse: защищайте корабль в стиле пинбола",
+      "threads_teaser_ru": "Состоялся релиз научно-фантастического roguelite шутера Appulse, где в роли главной защиты корабля выступает пинбольный шар с пушками. Проект уже доступен в Steam.",
+      "telegram_message_id": "3301",
+      "telegram_url": "https://t.me/gamepulse_newss/3301",
+      "telegram_published_at": "2026-11-26T23:17:12.123764+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/appulse.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T22:46:52.690123+00:00"
+  "updated_at": "2026-11-26T23:17:12.123840+00:00"
 }
