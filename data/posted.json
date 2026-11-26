@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "fbd0c7a4fcaed5bb5bbd484e",
-      "title": "Latest Steam Hardware Survey Shows Just How Hard PC Gamers Have Been Hit by AI",
-      "url": "https://ign.com/articles/latest-steam-hardware-survey-shows-just-how-hard-pc-gamers-have-been-hit-by-ai",
-      "source": "IGN",
-      "published_at_source": "2026-11-02T18:16:32+00:00",
-      "score": 10,
-      "event_key": "steam-hardware-survey-shows-shift-to-older-hardware",
-      "title_ru": "Статистика Steam Hardware Survey показала переход игроков на более старые комплектующие",
-      "threads_teaser_ru": "Свежая статистика Steam Hardware Survey показала, что игроки переходят на более старые комплектующие из-за роста цен. Конфигурации с 16GB RAM вернули себе лидерство, а RTX 3060 снова стала самой популярной видеокартой.",
-      "telegram_message_id": "2071",
-      "telegram_url": "https://t.me/gamepulse_newss/2071",
-      "telegram_published_at": "2026-11-02T21:46:46.008403+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-02T21:46:47.649454+00:00"
-    },
-    {
       "fingerprint": "f477c7aec14d7f66537c6574",
       "title": "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\"",
       "url": "https://eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake",
@@ -20505,7 +20488,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-26T14:47:09.580851+00:00"
+    },
+    {
+      "fingerprint": "e325e8dd9570de88255f721e",
+      "title": "The One Reason Nintendo and Rockstar Can Make Games Like Ocarina of Time and GTA 6",
+      "url": "https://polygon.com/gta-6-ocarina-of-time-layoffs",
+      "source": "Polygon",
+      "published_at_source": "2026-11-26T15:00:18+00:00",
+      "score": 14,
+      "event_key": "long term talent retention in game development",
+      "title_ru": "Влияние долгосрочного удержания сотрудников на качество Grand Theft Auto 6 и Ocarina of Time",
+      "threads_teaser_ru": "Grand Theft Auto 6 и ремейк Ocarina of Time доказывают важность долгосрочного удержания талантов. Около 21% сотрудников Rockstar проработали в компании более 10 лет, что помогло созданию масштабной игры.",
+      "telegram_message_id": "3275",
+      "telegram_url": "https://t.me/gamepulse_newss/3275",
+      "telegram_published_at": "2026-11-26T15:02:49.460584+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-26T14:47:09.580947+00:00"
+  "updated_at": "2026-11-26T15:02:49.460664+00:00"
 }
