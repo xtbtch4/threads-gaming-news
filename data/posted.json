@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a5a00631a3872614e0224102",
-      "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
-      "url": "https://eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-03T11:22:41+00:00",
-      "score": 11,
-      "event_key": "call of duty modern warfare 4 player engagement circana data",
-      "title_ru": "Аналитики сравнили запуск Call of Duty: Modern Warfare 4 и Black Ops 7 в США",
-      "threads_teaser_ru": "Данные компании Circana показали, что запуск Call of Duty: Modern Warfare 4 в США привлек меньше активных игроков на PlayStation и Xbox по сравнению с прошлым релизом Black Ops 7.",
-      "telegram_message_id": "2100",
-      "telegram_url": "https://t.me/gamepulse_newss/2100",
-      "telegram_published_at": "2026-11-03T11:32:10.495933+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T11:32:11.849836+00:00"
-    },
-    {
       "fingerprint": "7d0cc6b9d8a123d70ad25f80",
       "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
       "url": "https://ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/12/11/event-modes-1765453407381.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-26T23:47:22.669559+00:00"
+    },
+    {
+      "fingerprint": "bdaec71fb2e6981620092861",
+      "title": "An apology from RPS",
+      "url": "https://rockpapershotgun.com/an-apology-from-rps",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-26T16:38:10+00:00",
+      "score": 7,
+      "event_key": "Rock Paper Shotgun editor issues public apology to author",
+      "title_ru": "Редактор Rock Paper Shotgun принес публичные извинения своему автору",
+      "threads_teaser_ru": "Редактор Rock Paper Shotgun публично извинился перед своей коллегой Ashley за некорректное упоминание в предыдущем материале и отсутствие защиты со стороны руководства. В издании признали проблемы с гендерным разнообразием штата и нехватку поддержки авторов.",
+      "telegram_message_id": "3304",
+      "telegram_url": "https://t.me/gamepulse_newss/3304",
+      "telegram_published_at": "2026-11-27T00:02:35.750711+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/rps_welcomepost_2_JcYD937.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-26T23:47:22.669646+00:00"
+  "updated_at": "2026-11-27T00:02:35.750811+00:00"
 }
