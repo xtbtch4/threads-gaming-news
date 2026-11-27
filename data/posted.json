@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "34d32d7fdba4a65086df197d",
-      "title": "I'm sad that the Like A Dragon creator's new studio is closing, but I wish their now-cancelled debut Gang of Dragon wasn't just LAD again",
-      "url": "https://rockpapershotgun.com/im-sad-that-the-like-a-dragon-creators-new-studio-is-closing-but-i-wish-their-now-cancelled-debut-gang-of-dragon-wasnt-just-lad-again",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-11-03T14:51:18+00:00",
-      "score": 14,
-      "event_key": "nagoshi-studio-dissolved-gang-of-dragon-cancelled",
-      "title_ru": "Nagoshi Studio закрывается, а разработка Gang of Dragon отменена",
-      "threads_teaser_ru": "Студия Nagoshi Studio закрыта по решению акционеров, а ее дебютная игра Gang of Dragon отменена. Проект лишился финансирования от NetEase из-за возросших расходов.",
-      "telegram_message_id": "2112",
-      "telegram_url": "https://t.me/gamepulse_newss/2112",
-      "telegram_published_at": "2026-11-03T15:03:29.337436+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Gang-of-Dragon.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T15:03:31.156142+00:00"
-    },
-    {
       "fingerprint": "9ade118b5c6b83dc5d59e288",
       "title": "The Elder Scrolls 6: Sentinel is confirmed, finally getting new trailer and full name, 8 years, 4 months, and 23 days after its reveal",
       "url": "https://eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2025/04/04/disney-castle-1743792498878.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T09:02:43.682384+00:00"
+    },
+    {
+      "fingerprint": "da210760b08e36019026519d",
+      "title": "Marvelous, developer of the Story of Seasons series, opens up voluntary redundancy scheme as it seeks to reduce headcount by 65 employees",
+      "url": "https://eurogamer.net/marvelous-developer-volentary-redundancy-amidst-console-business-restructuring",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T09:52:10+00:00",
+      "score": 13,
+      "event_key": "Marvelous voluntary redundancy scheme console business restructuring",
+      "title_ru": "Marvelous запускает программу добровольного увольнения",
+      "threads_teaser_ru": "Студия Marvelous объявила о программе добровольного увольнения и планирует сократить 65 сотрудников. Это связано с реструктуризацией консольного бизнеса на фоне растущих сроков и масштабов разработки.",
+      "telegram_message_id": "3316",
+      "telegram_url": "https://t.me/gamepulse_newss/3316",
+      "telegram_published_at": "2026-11-27T10:02:23.170192+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/eternal-anima-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T09:02:43.682482+00:00"
+  "updated_at": "2026-11-27T10:02:23.170268+00:00"
 }
