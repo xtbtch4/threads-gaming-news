@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2c0a4c6d0d984a38a6346dcb",
-      "title": "What PS5 and Xbox Consoles Are in Stock Ahead of GTA 6 and Black Friday?",
-      "url": "https://ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T20:59:17+00:00",
-      "score": 13,
-      "event_key": "console availability ahead of GTA 6 and Black Friday",
-      "title_ru": "Наличие консолей перед релизом GTA 6 и Черной пятницей: ситуация на рынке",
-      "threads_teaser_ru": "Перед релизом Grand Theft Auto 6 и сезоном распродаж эксперты проверили наличие консолей в магазинах. Оказалось, что почти все модели PS5 и Xbox доступны по рекомендованным ценам, за исключением дефицитной PS5 Pro, которую перепродают значительно дороже.",
-      "telegram_message_id": "2129",
-      "telegram_url": "https://t.me/gamepulse_newss/2129",
-      "telegram_published_at": "2026-11-03T21:02:57.402915+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T21:02:59.652335+00:00"
-    },
-    {
       "fingerprint": "40f4b23fc55b034f1b88f459",
       "title": "Judi Dench Reveals Daniel Craig Pushed to Kill Off M in Skyfall",
       "url": "https://ign.com/articles/judi-dench-daniel-craig-skyfall-m-death",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lisa-vicari-as-anja-vogler-in-sonnental.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-27T14:32:26.531524+00:00"
+    },
+    {
+      "fingerprint": "93af3e6844721871cad62586",
+      "title": "If you're not using Auto Drive and Cinematic Camera in GTA 6, you're missing out on some of the best experiences in the game",
+      "url": "https://eurogamer.net/gta-6-cinematic-camera-hidden-gem",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T14:43:00+00:00",
+      "score": 8,
+      "event_key": "gta-6-cinematic-camera-auto-drive-feature",
+      "title_ru": "Использование Cinematic Camera и Auto Drive в GTA 6",
+      "threads_teaser_ru": "Функции Auto Drive и Cinematic Camera в GTA 6 позволяют расслабиться в поездках, послушать радио и насладиться диалогами Джейсона и Люсии без необходимости следить за дорогой.",
+      "telegram_message_id": "3333",
+      "telegram_url": "https://t.me/gamepulse_newss/3333",
+      "telegram_published_at": "2026-11-27T14:47:10.481925+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Lucia-drive.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T14:32:26.531613+00:00"
+  "updated_at": "2026-11-27T14:47:10.482029+00:00"
 }
