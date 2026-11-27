@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d8848f06b444dc6fc2330bd6",
-      "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
-      "url": "https://ign.com/articles/friendslop-added-to-collins-dictionary",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T11:42:36+00:00",
-      "score": 9,
-      "event_key": "friendslop-added-to-collins-dictionary",
-      "title_ru": "Term Friendslop добавлен в Collins Dictionary",
-      "threads_teaser_ru": "Игровой термин friendslop официально пополнил словарный запас Collins Dictionary. Он описывает независимые бюджетные игры для совместной игры с друзьями.",
-      "telegram_message_id": "2104",
-      "telegram_url": "https://t.me/gamepulse_newss/2104",
-      "telegram_published_at": "2026-11-03T12:46:52.079381+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ss-84436aac3675c39a9e21a14a4a9a3a8a7d9dea26-1920x1080-1793706464744.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T12:46:53.520719+00:00"
-    },
-    {
       "fingerprint": "0baef893e7a5ab4c84281b62",
       "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
       "url": "https://ign.com/articles/go-play-gta-6-says-wardogs-developer",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-destiny-2-collection-deal.jpg?w=300",
       "threads_published_at": "2026-11-27T00:47:02.652741+00:00"
+    },
+    {
+      "fingerprint": "981ff256809f3687b1132841",
+      "title": "Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game",
+      "url": "https://rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-26T22:50:40+00:00",
+      "score": 5,
+      "event_key": "Dungoku dungeon crawler sudoku genre mashup announcement",
+      "title_ru": "Анонсирована игра Dungoku — смесь данжен-кроулера и судоку",
+      "threads_teaser_ru": "В игре Dungoku классическое судоку превращается в данжен-кроулер с элементами темного фэнтези. Игрокам предстоит расставлять врагов и добычу на сетках, соблюдая логические правила, чтобы выжить. Больше 100 уровней и никакой нейросетевой музыки.",
+      "telegram_message_id": "3308",
+      "telegram_url": "https://t.me/gamepulse_newss/3308",
+      "telegram_published_at": "2026-11-27T01:02:57.627492+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dungoku.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T00:47:02.653016+00:00"
+  "updated_at": "2026-11-27T01:02:57.627580+00:00"
 }
