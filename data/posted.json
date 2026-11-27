@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1c8c95348bc55897ca3d15cd",
-      "title": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
-      "url": "https://gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-03T19:54:31+00:00",
-      "score": 12,
-      "event_key": "World of Warcraft Forever Shaman Discord protest",
-      "title_ru": "Игроки в World of Warcraft: Forever протестуют против изменений класса Shaman",
-      "threads_teaser_ru": "Сообщество Shaman в Discord объявило протест против изменений в World of Warcraft: Forever перед запуском игры. Участники закрыли доступ к обсуждениям, обвинив Blizzard в игнорировании отзывов и разрушении идентичности класса.",
-      "telegram_message_id": "2128",
-      "telegram_url": "https://t.me/gamepulse_newss/2128",
-      "telegram_published_at": "2026-11-03T20:48:21.037535+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Shaman-Protest.jpg?w=300",
-      "threads_published_at": "2026-11-03T20:48:30.182628+00:00"
-    },
-    {
       "fingerprint": "2c0a4c6d0d984a38a6346dcb",
       "title": "What PS5 and Xbox Consoles Are in Stock Ahead of GTA 6 and Black Friday?",
       "url": "https://ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday",
@@ -20503,7 +20486,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25102099/MCDUNDE_EC146.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2024/09/20140501_what-we-do-in-the-shadows-official-trailer-1727118844.mp4",
       "threads_published_at": "2026-11-27T14:17:21.597892+00:00"
+    },
+    {
+      "fingerprint": "7d4ea7111ab00185503b1cba",
+      "title": "HBO Officially Teases New Thriller Series from Dark Creators",
+      "url": "https://polygon.com/sonnental-series-hbo-announced-dark-creators",
+      "source": "Polygon",
+      "published_at_source": "2026-11-27T14:25:20+00:00",
+      "score": 8,
+      "event_key": "hbo announced sonnental series from dark creators",
+      "title_ru": "HBO анонсировала сериал Sonnental от создателей Dark",
+      "threads_teaser_ru": "Создатели Dark возвращаются с новым мрачным сериалом Sonnental от HBO, основанным на немецкой детской книге Der Struwwelpeter. Премьера всех шести эпизодов состоится в марте 2027 года.",
+      "telegram_message_id": "3332",
+      "telegram_url": "https://t.me/gamepulse_newss/3332",
+      "telegram_published_at": "2026-11-27T14:32:25.131599+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lisa-vicari-as-anja-vogler-in-sonnental.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-27T14:17:21.597993+00:00"
+  "updated_at": "2026-11-27T14:32:25.131686+00:00"
 }
