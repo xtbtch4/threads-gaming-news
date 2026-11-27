@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6aaddc49638eccc997388f2d",
-      "title": "Corner Shop: NightShift How we Built Horror Around an Ordinary Life",
-      "url": "https://news.xbox.com/en-us/2026/11/03/corner-shop-nightshift",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-03T20:00:00+00:00",
-      "score": 12,
-      "event_key": "developers discuss corner shop nightshift design philosophy",
-      "title_ru": "Разработчики Corner Shop: NightShift рассказали о создании хоррора на основе будничной работы",
-      "threads_teaser_ru": "Авторы Corner Shop: NightShift объяснили, почему решили строить хоррор вокруг обычной работы в магазине. В центре внимания — ночная смена Адама Каллахана, чьи личные проблемы переплетаются с геймплеем и влияют на одну из четырех концовок игры.",
-      "telegram_message_id": "2127",
-      "telegram_url": "https://t.me/gamepulse_newss/2127",
-      "telegram_published_at": "2026-11-03T20:33:31.462781+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/corner-titled-6155e583185827842295.jpg",
-      "threads_published_at": "2026-11-03T20:33:43.539962+00:00"
-    },
-    {
       "fingerprint": "1c8c95348bc55897ca3d15cd",
       "title": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
       "url": "https://gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored",
@@ -20502,7 +20485,24 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/mandymain-1795783965057.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T14:02:34.195115+00:00"
+    },
+    {
+      "fingerprint": "4b2650fc52a8bea6bf4f764a",
+      "title": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
+      "url": "https://polygon.com/why-do-vampires-and-werewolves-hate-one-another",
+      "source": "Polygon",
+      "published_at_source": "2026-11-27T14:00:18+00:00",
+      "score": 8,
+      "event_key": "hollywood vampires and werewolves rivalry history polygon",
+      "title_ru": "Откуда взялась вражда между вампирами и оборотнями в поп-культуре",
+      "threads_teaser_ru": "Издание Polygon исследовало корни популярной вражды между вампирами и оборотнями. Откуда взялся этот конфликт и почему он стал основой для франшиз вроде Underworld и Twilight?",
+      "telegram_message_id": "3331",
+      "telegram_url": "https://t.me/gamepulse_newss/3331",
+      "telegram_published_at": "2026-11-27T14:17:20.173398+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25102099/MCDUNDE_EC146.jpg?w=1600&h=900&fit=crop",
+      "video_url": "https://video.polygonimages.com/2024/09/20140501_what-we-do-in-the-shadows-official-trailer-1727118844.mp4"
     }
   ],
-  "updated_at": "2026-11-27T14:02:34.195196+00:00"
+  "updated_at": "2026-11-27T14:17:20.173496+00:00"
 }
