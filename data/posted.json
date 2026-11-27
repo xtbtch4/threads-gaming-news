@@ -20499,9 +20499,10 @@
       "telegram_message_id": "3320",
       "telegram_url": "https://t.me/gamepulse_newss/3320",
       "telegram_published_at": "2026-11-27T11:32:17.372615+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-selkie-hole-underwater-cave-.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-selkie-hole-underwater-cave-.jpg?w=300",
+      "threads_published_at": "2026-11-27T11:32:19.236022+00:00"
     }
   ],
-  "updated_at": "2026-11-27T11:32:17.372697+00:00"
+  "updated_at": "2026-11-27T11:32:19.236104+00:00"
 }
