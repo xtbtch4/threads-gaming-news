@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "9ade118b5c6b83dc5d59e288",
-      "title": "The Elder Scrolls 6: Sentinel is confirmed, finally getting new trailer and full name, 8 years, 4 months, and 23 days after its reveal",
-      "url": "https://eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-03T15:08:07+00:00",
-      "score": 15,
-      "event_key": "bethesda-reveals-the-elder-scrolls-6-sentinel-subtitle",
-      "title_ru": "Bethesda раскрыла подзаголовок и новые подробности The Elder Scrolls 6",
-      "threads_teaser_ru": "Xbox и Bethesda официально представили полное название The Elder Scrolls 6 и показали новый ролик спустя более чем восемь лет после первого тизера. Действие игры развернется в регионе Hammerfell.",
-      "telegram_message_id": "2113",
-      "telegram_url": "https://t.me/gamepulse_newss/2113",
-      "telegram_published_at": "2026-11-03T15:17:25.059209+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/ES-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-03T15:17:26.521362+00:00"
-    },
-    {
       "fingerprint": "e4ee49fc25ee81c4df985f15",
       "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
       "url": "https://eurogamer.net/grand-theft-auto-6-pre-load-date",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/eternal-anima-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T10:02:24.528272+00:00"
+    },
+    {
+      "fingerprint": "019982f8635c795b5a43b786",
+      "title": "Black Friday Football Is Back and Streaming for Free — How to Watch the Steelers Take on the Broncos",
+      "url": "https://ign.com/articles/how-to-watch-black-friday-football-steelers-broncos-online-free",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T10:00:00+00:00",
+      "score": 8,
+      "event_key": "steelers broncos black friday football 2026 prime video",
+      "title_ru": "Как смотреть матч Steelers против Broncos бесплатно на Black Friday Football",
+      "threads_teaser_ru": "Матч между Pittsburgh Steelers и Denver Broncos на Black будет транслироваться бесплатно на Prime Video без подписки. Игра пройдет на фоне громких скандалов и кадровых перепетий в составе Steelers.",
+      "telegram_message_id": "3317",
+      "telegram_url": "https://t.me/gamepulse_newss/3317",
+      "telegram_published_at": "2026-11-27T10:16:32.911659+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/blackfridayfootballbr-1795724710928.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T10:02:24.528368+00:00"
+  "updated_at": "2026-11-27T10:16:32.911749+00:00"
 }
