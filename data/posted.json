@@ -20500,9 +20500,10 @@
       "telegram_message_id": "3318",
       "telegram_url": "https://t.me/gamepulse_newss/3318",
       "telegram_published_at": "2026-11-27T11:02:38.670621+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-18-1795774411645.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-18-1795774411645.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-27T11:02:40.183545+00:00"
     }
   ],
-  "updated_at": "2026-11-27T11:02:38.670733+00:00"
+  "updated_at": "2026-11-27T11:02:40.183633+00:00"
 }
