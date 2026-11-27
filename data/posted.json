@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "312d3eefd5f480f2fd6fddf0",
-      "title": "WoW: Forever Makes Every Class More Powerful in Last-Minute Change",
-      "url": "https://polygon.com/wow-world-of-warcraft-forever-1-0-patch-class-changes",
-      "source": "Polygon",
-      "published_at_source": "2026-11-03T11:48:05+00:00",
-      "score": 14,
-      "event_key": "world-of-warcraft-forever-patch-class-damage-buff",
-      "title_ru": "Blizzard усилила все классы в World of Warcraft: Forever перед релизом",
-      "threads_teaser_ru": "Перед релизом World of Warcraft: Forever компания Blizzard выпустила финальные изменения, которые коснулись урона всех классов и здоровья монстров.",
-      "telegram_message_id": "2102",
-      "telegram_url": "https://t.me/gamepulse_newss/2102",
-      "telegram_published_at": "2026-11-03T12:16:58.312330+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_scenic_announce_race_class_newcombos_054.png?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-03T12:16:59.825569+00:00"
-    },
-    {
       "fingerprint": "19a29ee88aab1c3cf82eca7d",
       "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
       "url": "https://eurogamer.net/itchio-generative-ai-filters-slop",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/asusz13flow2-1795713151611.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T00:17:14.626802+00:00"
+    },
+    {
+      "fingerprint": "c362b7ae259e6eb8c8baeb62",
+      "title": "Score Palworld, V Rising, Subnautica: Below Zero, and More with This Humble Survival of the Fittest Bundle",
+      "url": "https://ign.com/articles/score-palworld-v-rising-subnautica-below-zero-and-more-with-this-humble-survival-of-the-fittest-bundle",
+      "source": "IGN",
+      "published_at_source": "2026-11-26T15:49:00+00:00",
+      "score": 6,
+      "event_key": "Humble Bundle launches Survival of the Fittest bundle",
+      "title_ru": "Humble Bundle запустил набор игр Survival of the Fittest",
+      "threads_teaser_ru": "В Steam-наборе Survival of the Fittest от Humble Bundle собрали 12 игр в жанре выживания, включая Palworld, V Rising и Subnautica: Below Zero. Полный комплект обойдется в 25 долларов, а часть выручки пойдет на благотворительность.",
+      "telegram_message_id": "3306",
+      "telegram_url": "https://t.me/gamepulse_newss/3306",
+      "telegram_published_at": "2026-11-27T00:32:37.777717+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2023/06/08/palwordreleasedateannouncementtrailer-ign-blogroll-1686257398374.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T00:17:14.626901+00:00"
+  "updated_at": "2026-11-27T00:32:37.777820+00:00"
 }
