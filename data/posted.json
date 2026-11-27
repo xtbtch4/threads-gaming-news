@@ -20499,9 +20499,10 @@
       "telegram_message_id": "3328",
       "telegram_url": "https://t.me/gamepulse_newss/3328",
       "telegram_published_at": "2026-11-27T13:32:12.947966+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031144152_-Large-1.jpeg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031144152_-Large-1.jpeg?w=300",
+      "threads_published_at": "2026-11-27T13:32:14.810666+00:00"
     }
   ],
-  "updated_at": "2026-11-27T13:32:12.948043+00:00"
+  "updated_at": "2026-11-27T13:32:14.810739+00:00"
 }
