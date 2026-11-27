@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5a1d12aa7cac5529244bc71f",
-      "title": "James Bond Casting History: How Media Covered Past 007 Reveals",
-      "url": "https://ign.com/articles/how-media-covered-james-bond-casting-history",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T01:10:48+00:00",
-      "score": 15,
-      "event_key": "media_coverage_james_bond_casting_history",
-      "title_ru": "Как СМИ освещали выбор актеров на роль Джеймса Бонда на протяжении десятилетий",
-      "threads_teaser_ru": "Издание IGN проанализировало архивы прессы о кастинге фильмов про Джеймса Бонда. Оказывается, зрители и СМИ критиковали выбор актеров на роль 007 во все времена — от Sean Connery до волны хейта в адрес Daniel Craig.",
-      "telegram_message_id": "2134",
-      "telegram_url": "https://t.me/gamepulse_newss/2134",
-      "telegram_published_at": "2026-11-04T02:02:53.593262+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets1.ignimgs.com/2014/08/26/bond-connery-cigarette-1280png-ed5f90.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T02:02:54.977393+00:00"
-    },
-    {
       "fingerprint": "4fb46b0ab74e8142be764f67",
       "title": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
       "url": "https://eurogamer.net/arkane-studios-ubisoft-interested-buyers",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T16:47:04.391016+00:00"
+    },
+    {
+      "fingerprint": "d4854d4151357f18abd0e071",
+      "title": "Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled",
+      "url": "https://rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-27T17:00:00+00:00",
+      "score": 14,
+      "event_key": "New Radical Games project cancellation and Simpsons Hit and Run rumours",
+      "title_ru": "Студия New Radical Games, которую связывали с возможным ремейком The Simpsons: Hit & Run, столкнулась с отменой проекта",
+      "threads_teaser_ru": "Похоже, надежды на ремейк The Simpsons: Hit & Run от студии New Radical Games тают: разработчики сообщили об отмене их неанонсированного проекта. Команда, связанная с наследием Radical Entertainment, подтвердила закрытие игры.",
+      "telegram_message_id": "3338",
+      "telegram_url": "https://t.me/gamepulse_newss/3338",
+      "telegram_published_at": "2026-11-27T17:33:02.829684+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/simpsons-hit-and-run.large.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T16:47:04.391106+00:00"
+  "updated_at": "2026-11-27T17:33:02.829777+00:00"
 }
