@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "da3bdf52ca68bc3d135edba9",
-      "title": "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
-      "url": "https://ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T16:44:56+00:00",
-      "score": 11,
-      "event_key": "Behavior Interactive apologizes for gifting Dead by Daylight items",
-      "title_ru": "Behavior Interactive извинилась за подарок контента стримеру TheBurntPeanut в Dead by Daylight",
-      "threads_teaser_ru": "Разработчики Dead by Daylight извинились за скандал со стримером TheBurntPeanut, которому сотрудник студии без разрешения подарил весь игровой контент. Бонусы уже удалены, а компания пообещала ужесточить контроль за сотрудничеством с инфлюенсерами.",
-      "telegram_message_id": "2125",
-      "telegram_url": "https://t.me/gamepulse_newss/2125",
-      "telegram_published_at": "2026-11-03T19:33:30.316468+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ss-141a099b39afb31b864e8eda9570c344ad0c70f5-1920x1080-1793724151578.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T19:33:44.072455+00:00"
-    },
-    {
       "fingerprint": "5125a49c1dd5cd9d12946229",
       "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
       "url": "https://ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031144152_-Large-1.jpeg?w=300",
       "threads_published_at": "2026-11-27T13:32:14.810666+00:00"
+    },
+    {
+      "fingerprint": "1fe968a01470afaf02c13fc9",
+      "title": "\"A new era\" for Vermintide 2 modding dawneth, as Fatshark release powerful new tools for custom levels, models and animations",
+      "url": "https://rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-27T12:52:30+00:00",
+      "score": 8,
+      "event_key": "vermintide-2-new-modding-tools-and-server-updates",
+      "title_ru": "Для Warhammer: Vermintide 2 выпустили новые инструменты для создания модов",
+      "threads_teaser_ru": "Студия Fatshark выпустила мощные инструменты разработки для Warhammer: Vermintide 2 на базе внутренних редакторов компании, открывая новую эру для создания пользовательских уровней, моделей и анимаций.",
+      "telegram_message_id": "3329",
+      "telegram_url": "https://t.me/gamepulse_newss/3329",
+      "telegram_published_at": "2026-11-27T13:46:39.418590+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/vermintide-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T13:32:14.810739+00:00"
+  "updated_at": "2026-11-27T13:46:39.418675+00:00"
 }
