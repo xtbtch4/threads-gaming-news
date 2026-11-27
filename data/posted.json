@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b2f983f1e0f54605ec8d02ed",
-      "title": "PC Games Storefront Does What Valve Won’t, Takes Action Against AI Slop",
-      "url": "https://polygon.com/itch-io-storefront-removes-ai-slop",
-      "source": "Polygon",
-      "published_at_source": "2026-11-03T16:14:25+00:00",
-      "score": 14,
-      "event_key": "Itch.io introduces AI filtering options for users",
-      "title_ru": "Itch.io добавил фильтр для скрытия игр с использованием нейросетей",
-      "threads_teaser_ru": "На Itch.io появилась возможность фильтровать игры с использованием нейросетей. Пользователи теперь могут активировать тег «NoAI», чтобы скрывать проекты, созданные с применением генеративного ИИ. Администрация площадки продолжает бороться с низкокачественным ИИ-спамом.",
-      "telegram_message_id": "2117",
-      "telegram_url": "https://t.me/gamepulse_newss/2117",
-      "telegram_published_at": "2026-11-03T16:18:04.751603+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-03T16:18:06.861790+00:00"
-    },
-    {
       "fingerprint": "b24716dbaa6c97af09686cbe",
       "title": "LEGO Godzilla Announced, Releases on Black Friday",
       "url": "https://ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-selkie-hole-underwater-cave-.jpg?w=300",
       "threads_published_at": "2026-11-27T11:32:19.236022+00:00"
+    },
+    {
+      "fingerprint": "3bd1b83acb08af7019b4e7df",
+      "title": "How To Get A Helicopter In GTA 6",
+      "url": "https://gamespot.com/articles/how-to-get-a-helicopter-in-gta-6",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-27T11:14:27+00:00",
+      "score": 9,
+      "event_key": "how to find helicopters in grand theft auto 6",
+      "title_ru": "Как найти вертолет в Grand Theft Auto 6",
+      "threads_teaser_ru": "В Grand Theft Auto 6 нельзя навсегда сохранить вертолет в убежище, но их можно находить в определенных точках штата Leonida. Где искать Buckingham Maverick, военные вертолеты и амфибии?",
+      "telegram_message_id": "3321",
+      "telegram_url": "https://t.me/gamepulse_newss/3321",
+      "telegram_published_at": "2026-11-27T11:46:40.738600+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-helicopter-locations-guide-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-27T11:32:19.236104+00:00"
+  "updated_at": "2026-11-27T11:46:40.738713+00:00"
 }
