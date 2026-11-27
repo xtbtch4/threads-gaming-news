@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2a65d9b8158ed0a6d87d5d8c",
-      "title": "Upcoming 4K UHD and Blu-ray Release Dates",
-      "url": "https://ign.com/articles/upcoming-4k-uhd-and-blu-ray-release-dates",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T13:30:13+00:00",
-      "score": 11,
-      "event_key": "upcoming-4k-uhd-and-blu-ray-release-dates-ign",
-      "title_ru": "График релизов 4K UHD и Blu-ray",
-      "threads_teaser_ru": "Издание IGN представило актуальную информацию о релизах фильмов и сериалов на 4K UHD и Blu-ray на фоне растущей популярности физических носителей.",
-      "telegram_message_id": "2110",
-      "telegram_url": "https://t.me/gamepulse_newss/2110",
-      "telegram_published_at": "2026-11-03T14:32:30.593710+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/z-odyssey-blogroll-1792000973337-1793713680717.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T14:32:32.232337+00:00"
-    },
-    {
       "fingerprint": "535f76a743ce9873be48bb7c",
       "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
       "url": "https://ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/lgc6-1795755190277.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T05:16:41.262183+00:00"
+    },
+    {
+      "fingerprint": "0b2b6080620cc1163afe831b",
+      "title": "The Acer Nitro Radeon RX 9070 XT Gaming PC Drops to $1,899 for Black Friday, Excels at 4K Gaming",
+      "url": "https://ign.com/articles/acer-nitro-radeon-rx-9070-xt-gaming-pc-deal-black-friday-sale-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T05:30:00+00:00",
+      "score": 9,
+      "event_key": "acer-nitro-radeon-rx-9070-xt-black-friday-deal",
+      "title_ru": "Скидка на игровой ПК Acer Nitro с Radeon RX 9070 XT в Черную пятницу",
+      "threads_teaser_ru": "Игровой ПК Acer Nitro с видеокартой Radeon RX 9070 XT и процессором AMD Ryzen 9 9900X подешевел до 1899,99 доллара в рамках распродажи на Amazon.",
+      "telegram_message_id": "3314",
+      "telegram_url": "https://t.me/gamepulse_newss/3314",
+      "telegram_published_at": "2026-11-27T06:02:31.706213+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/acernitro85-1795756528505.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T05:16:41.262295+00:00"
+  "updated_at": "2026-11-27T06:02:31.706294+00:00"
 }
