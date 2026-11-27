@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1995ede8f7da8155f50aa77e",
-      "title": "The Silver Seas and How We “Ship” New Features for Age of Wonders 4",
-      "url": "https://news.xbox.com/en-us/2026/11/03/age-of-wonders-4-the-silver-seas",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-03T14:00:00+00:00",
-      "score": 12,
-      "event_key": "age of wonders 4 the silver seas release",
-      "title_ru": "Дополнение The Silver Seas для Age of Wonders 4",
-      "threads_teaser_ru": "Для Age of Wonders 4 вышло новое дополнение The Silver Seas, созданное с учетом пожеланий фанатов. В игре появились морские города, пиратские фракции, новые расы и водная магия.",
-      "telegram_message_id": "2108",
-      "telegram_url": "https://t.me/gamepulse_newss/2108",
-      "telegram_published_at": "2026-11-03T14:03:25.886653+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/TSS-16x9-1-1c3d019ec1451bbbab97.jpg",
-      "threads_published_at": "2026-11-03T14:03:27.308411+00:00"
-    },
-    {
       "fingerprint": "6398010bc5a3bb6e61086795",
       "title": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
       "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/images-w1400.jpg?w=1200&h=675&fit=crop",
       "threads_published_at": "2026-11-27T04:47:02.943237+00:00"
+    },
+    {
+      "fingerprint": "e0456c4049bdd01d8fc5b28d",
+      "title": "Save $100 on a FlexiSpot Sentinel Pro Gaming Chair for Black Friday",
+      "url": "https://ign.com/articles/flexispot-sentinel-pro-gaming-chair-black-friday-deal",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T04:25:00+00:00",
+      "score": 7,
+      "event_key": "FlexiSpot Sentinel Pro Black Friday discount on Amazon",
+      "title_ru": "Скидка на игровое кресло FlexiSpot Sentinel Pro в рамках Black Friday",
+      "threads_teaser_ru": "На Amazon стартовала распродажа Black Friday, и одной из заметных позиций стала скидка в 100 долларов на игровое кресло FlexiSpot Sentinel Pro. Модель отличается эргономичным дизайном, сетчатым покрытием и широкими возможностями регулировки спинки и поясничной поддержки.",
+      "telegram_message_id": "3312",
+      "telegram_url": "https://t.me/gamepulse_newss/3312",
+      "telegram_published_at": "2026-11-27T05:02:43.511632+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/20/flexispotsentinelpro2-1795155148898.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T04:47:02.943322+00:00"
+  "updated_at": "2026-11-27T05:02:43.511734+00:00"
 }
