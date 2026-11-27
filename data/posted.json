@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "667323e0d43a6be14cfeed2d",
-      "title": "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
-      "url": "https://ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T23:24:08+00:00",
-      "score": 13,
-      "event_key": "007 First Light trial on PlayStation Plus",
-      "title_ru": "007 First Light получила бесплатную пробную версию для подписчиков PlayStation Plus",
-      "threads_teaser_ru": "Подписчикам PlayStation Plus Premium и Deluxe стала доступна часовая пробная версия 007 First Light. Помимо возможности ознакомиться с прологом игры, пользователи могут приобрести полную версию с 40% скидкой. В планах студии IO Interactive — выпуск нового сюжетного DLC.",
-      "telegram_message_id": "2133",
-      "telegram_url": "https://t.me/gamepulse_newss/2133",
-      "telegram_published_at": "2026-11-04T01:32:26.318724+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T01:32:27.644551+00:00"
-    },
-    {
       "fingerprint": "5a1d12aa7cac5529244bc71f",
       "title": "James Bond Casting History: How Media Covered Past 007 Reveals",
       "url": "https://ign.com/articles/how-media-covered-james-bond-casting-history",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/original/313/3136061/4594197-silksong.jpg?w=300",
       "threads_published_at": "2026-11-27T15:47:13.777169+00:00"
+    },
+    {
+      "fingerprint": "eadbd52cf158aef6f608567c",
+      "title": "Don't expect a GTA set outside the USA anytime soon, as Rockstar has \"not had a lot of conversations over doing it anywhere else\"",
+      "url": "https://eurogamer.net/gta-outside-usa-unlikely-rockstar-not-had-conversations-over-anywhere-else",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T16:46:00+00:00",
+      "score": 15,
+      "event_key": "rockstar-unlikely-gta-outside-usa",
+      "title_ru": "Rockstar оценила вероятность переноса серий Grand Theft Auto и Red Dead Redemption за пределы США",
+      "threads_teaser_ru": "Появится ли будущая часть Grand Theft Auto за пределами США? Сооснователь Rockstar Роб Нельсон рассказал, почему студия продолжает выбирать американские локации.",
+      "telegram_message_id": "3337",
+      "telegram_url": "https://t.me/gamepulse_newss/3337",
+      "telegram_published_at": "2026-11-27T16:47:02.893439+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T15:47:13.777247+00:00"
+  "updated_at": "2026-11-27T16:47:02.893525+00:00"
 }
