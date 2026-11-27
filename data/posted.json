@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "da90e11675b4c7072723efea",
-      "title": "25 Years Of Xbox Bundle Includes All These Games For $570",
-      "url": "https://gamespot.com/articles/25-years-of-xbox-bundle-includes-all-these-games-for-570",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-03T16:13:50+00:00",
-      "score": 15,
-      "event_key": "microsoft-launches-25-years-of-xbox-bundle",
-      "title_ru": "Microsoft выпустила цифровой комплект игр в честь 25-летия Xbox",
-      "threads_teaser_ru": "Microsoft представила масштабный цифровой комплект «25 Years of Xbox» за $570, приуроченный к 25-летию бренда. В него вошло 25 позиций, включая крупные сборники вроде Halo: The Master Chief Collection и Doom Anthology.",
-      "telegram_message_id": "2119",
-      "telegram_url": "https://t.me/gamepulse_newss/2119",
-      "telegram_published_at": "2026-11-03T16:46:46.446486+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Halo3.jpg?w=300",
-      "threads_published_at": "2026-11-03T16:46:47.977156+00:00"
-    },
-    {
       "fingerprint": "8727d20a7b29e42f4d62b57b",
       "title": "An Alligator Swallowed an XBOX Series X – You Can Win It",
       "url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-35-1795780213314.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T12:02:36.231116+00:00"
+    },
+    {
+      "fingerprint": "c400ce8795d4ceb91419e94f",
+      "title": "Are you a warlock tired of being summon-kicked in World of Warcraft: Forever? There's now a mod to fight back with",
+      "url": "https://eurogamer.net/world-of-warcraft-forever-summon-kicking-warlock-addon",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T12:09:10+00:00",
+      "score": 9,
+      "event_key": "world of warcraft forever summoners union warlock addon",
+      "title_ru": "Модификация против «суммон-киков» для Warlock в World of Warcraft: Forever",
+      "threads_teaser_ru": "В World of Warcraft: Forever появился аддон Summoners Union, который помогает бороться с исключением Warlock из групп сразу после призыва игроков. Узнайте, как модификация отслеживает нарушителей.",
+      "telegram_message_id": "3323",
+      "telegram_url": "https://t.me/gamepulse_newss/3323",
+      "telegram_published_at": "2026-11-27T12:17:02.386508+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T12:02:36.231213+00:00"
+  "updated_at": "2026-11-27T12:17:02.386606+00:00"
 }
