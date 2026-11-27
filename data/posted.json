@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5125a49c1dd5cd9d12946229",
-      "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
-      "url": "https://ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T19:56:45+00:00",
-      "score": 13,
-      "event_key": "police mock criminal regarding GTA 6 release date",
-      "title_ru": "Полиция высмеяла преступника, который пропустит релиз GTA 6 из-за ареста",
-      "threads_teaser_ru": "Полиция в Британии опубликовала виральное видео с погоней, стилизованное под GTA 6. В ролике они иронично подметили, что задержанный преступник пропустит долгожданный релиз игры 19 ноября, так как отправился в тюрьму на 14 месяцев.",
-      "telegram_message_id": "2126",
-      "telegram_url": "https://t.me/gamepulse_newss/2126",
-      "telegram_published_at": "2026-11-03T20:18:29.195721+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T20:18:43.641007+00:00"
-    },
-    {
       "fingerprint": "6aaddc49638eccc997388f2d",
       "title": "Corner Shop: NightShift How we Built Horror Around an Ordinary Life",
       "url": "https://news.xbox.com/en-us/2026/11/03/corner-shop-nightshift",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/vermintide-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T13:46:40.761289+00:00"
+    },
+    {
+      "fingerprint": "474f42c3c4b3c6df9767868c",
+      "title": "It Turns Out Jason Might Have a History With Mandy in GTA 6 After All",
+      "url": "https://ign.com/articles/it-turns-out-jason-might-have-a-history-with-mandy-in-gta-6-after-all",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T12:53:26+00:00",
+      "score": 11,
+      "event_key": "jason and mandy history revealed in gta 6",
+      "title_ru": "Диалоги в GTA 6 намекают на прошлое между Джейсоном и Мэнди",
+      "threads_teaser_ru": "В GTA 6 нашли подтверждения того, что у Джейсона и Мэнди могло быть общее прошлое. Скрытые диалоги и реплики Люсии проливают свет на их отношения.",
+      "telegram_message_id": "3330",
+      "telegram_url": "https://t.me/gamepulse_newss/3330",
+      "telegram_published_at": "2026-11-27T14:02:32.683496+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/mandymain-1795783965057.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T13:46:40.761378+00:00"
+  "updated_at": "2026-11-27T14:02:32.683590+00:00"
 }
