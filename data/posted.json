@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b24716dbaa6c97af09686cbe",
-      "title": "LEGO Godzilla Announced, Releases on Black Friday",
-      "url": "https://ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T14:55:46+00:00",
-      "score": 13,
-      "event_key": "LEGO announces Godzilla set release for Black Friday",
-      "title_ru": "Анонсирован новый набор LEGO Godzilla",
-      "threads_teaser_ru": "LEGO анонсировала огромный набор Godzilla из 5 363 деталей. Модель от фанатского дизайнера Мэтью Эспозито поступит в продажу 27 ноября по цене $449.99. В первые дни продаж к конструктору будет прилагаться специальный подарок.",
-      "telegram_message_id": "2118",
-      "telegram_url": "https://t.me/gamepulse_newss/2118",
-      "telegram_published_at": "2026-11-03T16:33:21.991224+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/lego-godzilla-announced-1793717156098.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T16:33:23.604221+00:00"
-    },
-    {
       "fingerprint": "da90e11675b4c7072723efea",
       "title": "25 Years Of Xbox Bundle Includes All These Games For $570",
       "url": "https://gamespot.com/articles/25-years-of-xbox-bundle-includes-all-these-games-for-570",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-helicopter-locations-guide-.jpg?w=300",
       "threads_published_at": "2026-11-27T11:46:42.127173+00:00"
+    },
+    {
+      "fingerprint": "354819ee40645004fb162355",
+      "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
+      "url": "https://ign.com/articles/despite-take-two-takedown-vibecoding-teen-behind-nuked-gta-6-pc-port-project-leonida-vows-to-continue",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T11:51:13+00:00",
+      "score": 11,
+      "event_key": "teenager continues GTA 6 PC port project despite Take-Two takedown",
+      "title_ru": "Автор проекта Project Leonida пообещал продолжить работу над ПК-версией GTA 6 несмотря на блокировки Take-Two",
+      "threads_teaser_ru": "Несмотря на претензии Take-Two и блокировки, 15-летний автор неофициального ПК-порта GTA 6 под названием Project Leonida передумал бросать разработку и пообещал показать новые результаты.",
+      "telegram_message_id": "3322",
+      "telegram_url": "https://t.me/gamepulse_newss/3322",
+      "telegram_published_at": "2026-11-27T12:02:34.481070+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-35-1795780213314.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T11:46:42.127255+00:00"
+  "updated_at": "2026-11-27T12:02:34.481185+00:00"
 }
