@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "40f4b23fc55b034f1b88f459",
-      "title": "Judi Dench Reveals Daniel Craig Pushed to Kill Off M in Skyfall",
-      "url": "https://ign.com/articles/judi-dench-daniel-craig-skyfall-m-death",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T19:00:48+00:00",
-      "score": 11,
-      "event_key": "Judi Dench reveals Daniel Craig pushed for M death in Skyfall",
-      "title_ru": "Judi Dench: Daniel Craig был инициатором смерти M в Skyfall",
-      "threads_teaser_ru": "Judi Dench раскрыла неожиданный факт о производстве Skyfall: оказывается, именно Daniel Craig предложил сценаристам «убить» её персонажа M. Актриса также назвала самый сложный фильм бондианы, над которым ей довелось работать.",
-      "telegram_message_id": "2130",
-      "telegram_url": "https://t.me/gamepulse_newss/2130",
-      "telegram_published_at": "2026-11-03T21:33:18.804872+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/skyfall-craig-dench-1280a-1793732387727.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T21:33:20.398949+00:00"
-    },
-    {
       "fingerprint": "b55729bc02fecf944d7eb8c2",
       "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
       "url": "https://rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/Lucia-drive.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T14:47:12.329929+00:00"
+    },
+    {
+      "fingerprint": "ae992c40d9b297ba74895cb3",
+      "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+      "url": "https://ign.com/articles/on-top-of-everything-else-gta-6-is-a-solid-stealth-sandbox",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T15:00:00+00:00",
+      "score": 11,
+      "event_key": "gta-6-stealth-sandbox-gameplay-impressions",
+      "title_ru": "Стелс-механики в GTA 6",
+      "threads_teaser_ru": "Автор IGN рассказал о неожиданно глубокой стелс-системе в GTA 6. Использование укрытий, глушителей и режима концентрации превращает ограбления тайников в продуманные скрытные операции.",
+      "telegram_message_id": "3334",
+      "telegram_url": "https://t.me/gamepulse_newss/3334",
+      "telegram_published_at": "2026-11-27T15:02:45.067058+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-lucia-stealth-1795690930066.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T14:47:12.330028+00:00"
+  "updated_at": "2026-11-27T15:02:45.067135+00:00"
 }
