@@ -20499,9 +20499,10 @@
       "telegram_message_id": "3324",
       "telegram_url": "https://t.me/gamepulse_newss/3324",
       "telegram_published_at": "2026-11-27T12:32:16.605795+00:00",
-      "threads_id": null,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/star-wars-vehicles-1794271811372.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "threads_id": "disabled",
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/star-wars-vehicles-1794271811372.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "threads_published_at": "2026-11-27T12:32:18.915410+00:00"
     }
   ],
-  "updated_at": "2026-11-27T12:32:16.605907+00:00"
+  "updated_at": "2026-11-27T12:32:18.915503+00:00"
 }
