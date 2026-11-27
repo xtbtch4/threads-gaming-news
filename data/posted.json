@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d3829f6b56e3975e0c00d1b8",
-      "title": "The Witcher 3 Devs Talk Songs of the Past DLC Details",
-      "url": "https://ign.com/articles/witcher-3-songs-of-the-past-dlc-details",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T22:39:22+00:00",
-      "score": 9,
-      "event_key": "witcher 3 songs of the past dlc details cd projekt red",
-      "title_ru": "CD Projekt Red поделилась подробностями третьего дополнения Songs of the Past для The Witcher 3",
-      "threads_teaser_ru": "CD Projekt Red рассказала о дополнении Songs of the Past для The Witcher 3: Wild Hunt. Авторы поделились деталями создания нового региона Леттин, местной культуры, монстров и подхода к канону вселенной.",
-      "telegram_message_id": "2141",
-      "telegram_url": "https://t.me/gamepulse_newss/2141",
-      "telegram_published_at": "2026-11-04T12:46:59.762082+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T12:47:01.055274+00:00"
-    },
-    {
       "fingerprint": "1e55ffd7af9b0587318305c8",
       "title": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
       "url": "https://rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/OOgTcp23xRHycNyLw2Zdyj0nrVKNWh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T23:17:54.763276+00:00"
+    },
+    {
+      "fingerprint": "b034e17979234acf469e28d0",
+      "title": "Yooka-Laylee and the Impossible Lair Dev's Explanation for Skipping Xbox Sparks Backlash",
+      "url": "https://ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T21:42:49+00:00",
+      "score": 11,
+      "event_key": "Playtonic cancels Yooka-Laylee and the Impossible Lair Xbox release",
+      "title_ru": "Playtonic отменила выход Yooka-Laylee and the Impossible Lair: Definitive Edition на Xbox",
+      "threads_teaser_ru": "Студия Playtonic отменила релиз Yooka-Laylee and the Impossible Lair: Definitive Edition на Xbox Series X и S. Разработчики сослались на высокие затраты и технические сложности, что вызвало волну недовольства среди фанатов Xbox.",
+      "telegram_message_id": "3345",
+      "telegram_url": "https://t.me/gamepulse_newss/3345",
+      "telegram_published_at": "2026-11-27T23:47:29.339106+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/6b0d6376bff30cb4e649a1581056b45e655a6609-1795815459268.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T23:17:54.763367+00:00"
+  "updated_at": "2026-11-27T23:47:29.339187+00:00"
 }
