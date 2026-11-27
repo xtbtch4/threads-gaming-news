@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "4fb46b0ab74e8142be764f67",
-      "title": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
-      "url": "https://eurogamer.net/arkane-studios-ubisoft-interested-buyers",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-04T09:17:51+00:00",
-      "score": 13,
-      "event_key": "Ubisoft and other companies interested in buying Arkane",
-      "title_ru": "Ubisoft претендует на покупку Arkane Studios",
-      "threads_teaser_ru": "Ubisoft и еще несколько компаний ведут переговоры о покупке Arkane Studios у Microsoft. У студии есть время до декабря, чтобы найти нового владельца и избежать закрытия.",
-      "telegram_message_id": "2135",
-      "telegram_url": "https://t.me/gamepulse_newss/2135",
-      "telegram_published_at": "2026-11-04T09:32:06.520589+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-04T09:32:07.763007+00:00"
-    },
-    {
       "fingerprint": "fd9a1aff4ca9d04259a054de",
       "title": "Guild Wars gets its first major gameplay update in almost 20 years",
       "url": "https://eurogamer.net/guild-wars-1-afterlife-announced-20-years",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/simpsons-hit-and-run.large.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T17:33:04.661390+00:00"
+    },
+    {
+      "fingerprint": "b0439c2dd210d9496195f081",
+      "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+      "url": "https://polygon.com/gta-6-racing-vs-forza-horizon-6",
+      "source": "Polygon",
+      "published_at_source": "2026-11-27T18:00:18+00:00",
+      "score": 14,
+      "event_key": "comparing-gta-6-and-forza-horizon-6-driving-physics",
+      "title_ru": "Сравнение физики вождения и гонок в GTA 6 и Forza Horizon 6",
+      "threads_teaser_ru": "Журналисты сравнили автомобильную физику и гоночные возможности в Grand Theft Auto 6 и Forza Horizon 6. Узнайте, в каких компонентах масштабный проект от Rockstar превосходит конкурента, а где уступает.",
+      "telegram_message_id": "3339",
+      "telegram_url": "https://t.me/gamepulse_newss/3339",
+      "telegram_published_at": "2026-11-27T18:46:51.760687+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_wyman_car_collection_04.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-27T17:33:04.661477+00:00"
+  "updated_at": "2026-11-27T18:46:51.760767+00:00"
 }
