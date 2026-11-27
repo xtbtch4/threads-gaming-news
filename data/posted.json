@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "0baef893e7a5ab4c84281b62",
-      "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
-      "url": "https://ign.com/articles/go-play-gta-6-says-wardogs-developer",
-      "source": "IGN",
-      "published_at_source": "2026-11-03T12:36:08+00:00",
-      "score": 11,
-      "event_key": "wardogs developer bulkheads december break and gta 6 recommendation",
-      "title_ru": "Разработчики Wardogs уходят на каникулы в декабре и советуют фанатам поиграть в GTA 6",
-      "threads_teaser_ru": "Студия Bulkhead решила взять отпуск на весь декабрь после релиза Wardogs в раннем доступе на PC и посоветовала игрокам переключиться на GTA 6.",
-      "telegram_message_id": "2105",
-      "telegram_url": "https://t.me/gamepulse_newss/2105",
-      "telegram_published_at": "2026-11-03T13:02:44.581211+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-03T13:02:46.088046+00:00"
-    },
-    {
       "fingerprint": "571590cf017af5ba845cda9e",
       "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
       "url": "https://ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/dungoku.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T01:02:59.194844+00:00"
+    },
+    {
+      "fingerprint": "7aae6d505628a8dcdc3d7021",
+      "title": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
+      "url": "https://rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-25T05:00:00+00:00",
+      "score": 5,
+      "event_key": "Retro Reset bus project for retro gaming education",
+      "title_ru": "Проект Retro Reset: передвижной музей ретроигр в автобусе",
+      "threads_teaser_ru": "Отец и сын превратили старый автобус в интерактивный музей ретрогейминга. Внутри — история компьютерной техники от Atari до Commodore 64 и уроки программирования. Проект помогает детям отвлечься от современных онлайн-игр и прикоснуться к «железу» прошлого.",
+      "telegram_message_id": "3309",
+      "telegram_url": "https://t.me/gamepulse_newss/3309",
+      "telegram_published_at": "2026-11-27T01:32:22.922018+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/Retro-Reset-bus-interior.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T01:02:59.194933+00:00"
+  "updated_at": "2026-11-27T01:32:22.922111+00:00"
 }
