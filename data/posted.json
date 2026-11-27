@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ba638a189a415b77b870b78f",
-      "title": "The Elder Scrolls 6: Sentinel Teaser's In-Universe Quote Sparks Timeline Speculation",
-      "url": "https://ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T10:35:30+00:00",
-      "score": 9,
-      "event_key": "the elder scrolls 6 sentinel teaser timeline speculation",
-      "title_ru": "Тизер The Elder Scrolls VI: Sentinel вызвал дискуссии о таймлайне игры",
-      "threads_teaser_ru": "Новый тизер The Elder Scrolls VI: Sentinel породил множество теорий о таймлайне игры. Фанаты спорят, развернутся ли события всего через пять лет после Skyrim или же действие перенесется на столетия вперед.",
-      "telegram_message_id": "2139",
-      "telegram_url": "https://t.me/gamepulse_newss/2139",
-      "telegram_published_at": "2026-11-04T12:17:58.619465+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/sentinel-1793788470269.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T12:17:59.999205+00:00"
-    },
-    {
       "fingerprint": "8855278491d0cee2e15c1159",
       "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
       "url": "https://eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/WF_TauUpdate_MajorKeyart_1080p.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T20:02:17.646694+00:00"
+    },
+    {
+      "fingerprint": "be0f34a96b366093979106af",
+      "title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
+      "url": "https://eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T11:31:00+00:00",
+      "score": 14,
+      "event_key": "rockstar_discussed_tomas_story_gta_6_prologue",
+      "title_ru": "Руководитель Rockstar рассказал об обсуждении судьбы ребенка в GTA 6",
+      "threads_teaser_ru": "Глава разработки Rockstar Games Роб Нельсон рассказал, как студия спорила о судьбе ребенка Jason и Lucia в прологе GTA 6 и почему отказ от этой идеи изменил бы всю историю.",
+      "telegram_message_id": "3343",
+      "telegram_url": "https://t.me/gamepulse_newss/3343",
+      "telegram_published_at": "2026-11-27T21:02:43.300122+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/GTA-6-review-21.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T20:02:17.646783+00:00"
+  "updated_at": "2026-11-27T21:02:43.300217+00:00"
 }
