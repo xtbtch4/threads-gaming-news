@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "6398010bc5a3bb6e61086795",
-      "title": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
-      "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more",
-      "source": "PlayStation Blog",
-      "published_at_source": "2026-11-03T14:00:04+00:00",
-      "score": 14,
-      "event_key": "sonic_racing_crossworlds_year_two_launch",
-      "title_ru": "Начался второй год поддержки Sonic Racing: CrossWorlds",
-      "threads_teaser_ru": "Для Sonic Racing: CrossWorlds стартовал второй год поддержки с новым режимом Duel Mode, гаджетами и механикой Super Slot. Также в игре появился набор машин в стиле классических консолей Sega.",
-      "telegram_message_id": "2109",
-      "telegram_url": "https://t.me/gamepulse_newss/2109",
-      "telegram_published_at": "2026-11-03T14:17:21.264626+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://blog.playstation.com/tachyon/2026/11/d64c152c35c72a8ada76e69f37d3e19546321f3c.jpg",
-      "threads_published_at": "2026-11-03T14:17:23.220375+00:00"
-    },
-    {
       "fingerprint": "2a65d9b8158ed0a6d87d5d8c",
       "title": "Upcoming 4K UHD and Blu-ray Release Dates",
       "url": "https://ign.com/articles/upcoming-4k-uhd-and-blu-ray-release-dates",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/20/flexispotsentinelpro2-1795155148898.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T05:02:44.835605+00:00"
+    },
+    {
+      "fingerprint": "00a32a26c287e9f38981caa5",
+      "title": "The 2026 LG Evo C6 4K OLED TV Drops to the Lowest Price of the Year for Black Friday",
+      "url": "https://ign.com/articles/lg-evo-c6-4k-oled-tv-deal-black-friday-sale-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T05:00:00+00:00",
+      "score": 9,
+      "event_key": "lg-evo-c6-4k-oled-tv-black-friday-sale-2026",
+      "title_ru": "Телевизор LG Evo C6 4K OLED подешевел в рамках распродажи Black Friday",
+      "threads_teaser_ru": "Популярный телевизор LG Evo C6 4K OLED упал в цене на распродаже Black Friday до минимальной отметки за год. Узнайте, какие характеристики делают эту модель отличным выбором для консольного гейминга.",
+      "telegram_message_id": "3313",
+      "telegram_url": "https://t.me/gamepulse_newss/3313",
+      "telegram_published_at": "2026-11-27T05:16:39.846434+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/lgc6-1795755190277.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T05:02:44.835702+00:00"
+  "updated_at": "2026-11-27T05:16:39.846526+00:00"
 }
