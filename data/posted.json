@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c2e11060f4d1da3ea7f53cea",
-      "title": "Celebrating 40 Years of Bethesda Game Studios",
-      "url": "https://news.xbox.com/en-us/2026/11/03/celebrating-40-years-of-bethesda-game-studios",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-03T15:06:55+00:00",
-      "score": 14,
-      "event_key": "bethesda game studios celebrates 40 years anniversary",
-      "title_ru": "Bethesda Game Studios отмечает 40-летие",
-      "threads_teaser_ru": "Bethesda Game Studios празднует 40-летие своей деятельности. Разработчики, подарившие игрокам культовые серии, отмечают важный исторический этап, ознаменовавший четыре десятилетия работы в индустрии видеоигр.",
-      "telegram_message_id": "2116",
-      "telegram_url": "https://t.me/gamepulse_newss/2116",
-      "telegram_published_at": "2026-11-03T16:04:16.178569+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Untitled-2-6c3ece91f2f057f35dbf.jpg",
-      "threads_published_at": "2026-11-03T16:04:17.783594+00:00"
-    },
-    {
       "fingerprint": "b2f983f1e0f54605ec8d02ed",
       "title": "PC Games Storefront Does What Valve Won’t, Takes Action Against AI Slop",
       "url": "https://polygon.com/itch-io-storefront-removes-ai-slop",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-1010-murals-.jpg?w=300",
       "threads_published_at": "2026-11-27T11:17:12.558302+00:00"
+    },
+    {
+      "fingerprint": "24b73e4404278e399855088c",
+      "title": "GTA 6 Has Massive Underground Caves Worth Diving Into",
+      "url": "https://gamespot.com/articles/gta-6-selkie-hole-underwater-cave-tunnel",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-27T11:02:04+00:00",
+      "score": 12,
+      "event_key": "gta-6-underwater-caves-emerald-springs-selkie-hole",
+      "title_ru": "Подземные пещеры и подводный мир в Grand Theft Auto 6",
+      "threads_teaser_ru": "Исследуйте подводные пещеры и туннели в заповеднике Emerald Springs в Grand Theft Auto 6, находите скрытые метеориты, редкое снаряжение и секреты локации Selkie Hole.",
+      "telegram_message_id": "3320",
+      "telegram_url": "https://t.me/gamepulse_newss/3320",
+      "telegram_published_at": "2026-11-27T11:32:17.372615+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-selkie-hole-underwater-cave-.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-27T11:17:12.558388+00:00"
+  "updated_at": "2026-11-27T11:32:17.372697+00:00"
 }
