@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8727d20a7b29e42f4d62b57b",
-      "title": "An Alligator Swallowed an XBOX Series X – You Can Win It",
-      "url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-03T17:00:00+00:00",
-      "score": 12,
-      "event_key": "Xbox Series X-BITE console sweepstakes announcement",
-      "title_ru": "Xbox разыгрывает уникальную консоль Xbox Series X в виде аллигатора",
-      "threads_teaser_ru": "Xbox представила уникальную консоль Xbox Series X-BITE: рабочее устройство, «проглоченное» пятифутовым аллигатором. Над созданием кастомного корпуса работали эксперты из John Nolan Studio. Узнайте, как получить этот единственный в своем роде экземпляр.",
-      "telegram_message_id": "2120",
-      "telegram_url": "https://t.me/gamepulse_newss/2120",
-      "telegram_published_at": "2026-11-03T17:18:56.606722+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Introducing_XBOX_Series_16x9_NO_TEXT-cd8b848ba743a5977563.jpg",
-      "threads_published_at": "2026-11-03T17:18:59.173103+00:00"
-    },
-    {
       "fingerprint": "f9b73898dda9a212f4a94e6c",
       "title": "Call of Duty: Warzone Season 1 – Everything You Need to Know",
       "url": "https://news.xbox.com/en-us/2026/11/03/call-of-duty-warzone-season-1-everything-you-need-to-know",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-27T12:17:04.592688+00:00"
+    },
+    {
+      "fingerprint": "f3b4cc65bd34d7fadf800931",
+      "title": "This Star Wars Vehicles Encyclopedia Is Surprisingly Cheap For Black Friday",
+      "url": "https://ign.com/articles/the-star-wars-vehicles-enyclopedia-book-amazon-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T12:00:00+00:00",
+      "score": 9,
+      "event_key": "star wars complete vehicles amazon black friday discount",
+      "title_ru": "Скидка на энциклопедию Star Wars Complete Vehicles на Amazon",
+      "threads_teaser_ru": "Энциклопедия Star Wars Complete Vehicles получила крупную скидку на Amazon в рамках Black Friday. 264-страничное издание продается за 17,30 долларов.",
+      "telegram_message_id": "3324",
+      "telegram_url": "https://t.me/gamepulse_newss/3324",
+      "telegram_published_at": "2026-11-27T12:32:16.605795+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/10/star-wars-vehicles-1794271811372.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-27T12:17:04.592781+00:00"
+  "updated_at": "2026-11-27T12:32:16.605907+00:00"
 }
