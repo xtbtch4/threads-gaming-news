@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "8177536faec5d8d507885fd8",
-      "title": "One Popular PC Game Storefront Has Had Enough Of AI Slop, And It’s Taking Action",
-      "url": "https://gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-03T15:12:19+00:00",
-      "score": 12,
-      "event_key": "Itch.io takes action against AI generated games spam",
-      "title_ru": "Itch.io начинает борьбу с засильем ИИ-игр",
-      "threads_teaser_ru": "Площадка Itch.io начала борьбу с наплывом ИИ-контента. Платформа удалила терабайты сгенерированных нейросетями игр и вводит систему фильтрации в поиске. Полного запрета нет, но за массовый спам проекты будут деиндексировать.",
-      "telegram_message_id": "2122",
-      "telegram_url": "https://t.me/gamepulse_newss/2122",
-      "telegram_published_at": "2026-11-03T17:47:49.608131+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nicklelodeon-2016-Kids-Choice-Awards.jpg?w=300",
-      "threads_published_at": "2026-11-03T17:47:55.360015+00:00"
-    },
-    {
       "fingerprint": "d880a87ad42418ad0d8b2083",
       "title": "Frostpunk 2's The Surge DLC keeps the wintery apocalypse and adds in faction-clash-inducing electricity and sets a seasonally appropriate December release date",
       "url": "https://rockpapershotgun.com/frostpunk-2s-the-surge-dlc-keeps-the-wintery-apocalypse-and-adds-in-faction-clash-inducing-electricity-and-sets-a-seasonally-appropriate-december-release-date",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/vintage-vice-city-pack-vapid-stanier-02-1795782728767.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T12:46:58.164798+00:00"
+    },
+    {
+      "fingerprint": "f126fa44af228bcb0bfa46b9",
+      "title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+      "url": "https://eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T12:33:00+00:00",
+      "score": 11,
+      "event_key": "faraway_development_16_years_steph_thirion",
+      "title_ru": "Разработка Faraway заняла 16 лет",
+      "threads_teaser_ru": "Игра Faraway от разработчика Steph Thirion наконец увидела свет спустя 16 лет после анонса. Как создатель Eliss шел к релизу своего космического проекта при поддержке Annapurna Interactive?",
+      "telegram_message_id": "3326",
+      "telegram_url": "https://t.me/gamepulse_newss/3326",
+      "telegram_published_at": "2026-11-27T13:02:27.996557+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/20261026151726_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T12:46:58.164911+00:00"
+  "updated_at": "2026-11-27T13:02:27.996646+00:00"
 }
