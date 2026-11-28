@@ -20499,9 +20499,10 @@
       "telegram_message_id": "3349",
       "telegram_url": "https://t.me/gamepulse_newss/3349",
       "telegram_published_at": "2026-11-28T01:17:41.787473+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-meditation-spots-guide-.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-6-meditation-spots-guide-.jpg?w=300",
+      "threads_published_at": "2026-11-28T01:17:43.265245+00:00"
     }
   ],
-  "updated_at": "2026-11-28T01:17:41.787571+00:00"
+  "updated_at": "2026-11-28T01:17:43.265345+00:00"
 }
