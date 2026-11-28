@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1dc83f6e965803d77b0fbb8c",
-      "title": "Nexus Mods Won’t Ban AI Mods, But It Won’t Let Them Hide Either",
-      "url": "https://gamespot.com/articles/nexus-mods-wont-ban-ai-mods-but-it-wont-let-them-hide-either",
-      "source": "GameSpot",
-      "published_at_source": "2026-11-04T16:39:12+00:00",
-      "score": 15,
-      "event_key": "nexus mods mandatory ai disclosures and filters",
-      "title_ru": "Nexus Mods вводит обязательную маркировку модов с использованием ИИ",
-      "threads_teaser_ru": "Nexus Mods не станет запрещать моды с использованием искусственного интеллекта, но вводит обязательную маркировку и возможность полностью фильтровать такой контент в поиске.",
-      "telegram_message_id": "2155",
-      "telegram_url": "https://t.me/gamepulse_newss/2155",
-      "telegram_published_at": "2026-11-04T17:03:15.822361+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Requiem-Thomas.jpg?w=300",
-      "threads_published_at": "2026-11-04T17:03:17.506685+00:00"
-    },
-    {
       "fingerprint": "f1b23a04b016d77aa40325e8",
       "title": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords",
       "url": "https://rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/dorian-dragon-age-inquisition-artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T04:46:48.327800+00:00"
+    },
+    {
+      "fingerprint": "94053d9f04478bea1488a7c0",
+      "title": "Jenga: Super Mario Edition Is 43% Off for Black Friday",
+      "url": "https://ign.com/articles/jenga-super-mario-edition-deal-black-friday-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T22:34:00+00:00",
+      "score": 6,
+      "event_key": "Jenga Super Mario Edition Black Friday discount",
+      "title_ru": "Jenga: Super Mario Edition получила скидку 43% в честь «Черной пятницы»",
+      "threads_teaser_ru": "В честь «Черной пятницы» на настольную игру Jenga: Super Mario Edition действует скидка 43%. В этой версии классической «башни» игроки выбирают одного из четырех персонажей Mushroom Kingdom и соревнуются, чтобы победить Bowser, пока конструкция не развалилась.",
+      "telegram_message_id": "3359",
+      "telegram_url": "https://t.me/gamepulse_newss/3359",
+      "telegram_published_at": "2026-11-28T05:02:54.174845+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/mariojenga-1795817466869.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T04:46:48.327882+00:00"
+  "updated_at": "2026-11-28T05:02:54.174930+00:00"
 }
