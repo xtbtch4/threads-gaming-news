@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d07efd7a68388f019017a0d2",
-      "title": "Liam Neeson Had a Priceless Reaction to Learning Meryl Streep Is Voicing Aslan in Narnia: The Magician's Nephew",
-      "url": "https://ign.com/articles/liam-neeson-had-a-priceless-reaction-to-learning-meryl-streep-is-voicing-aslan-in-narnia-the-magicians-nephew",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T19:07:13+00:00",
-      "score": 9,
-      "event_key": "liam neeson learns meryl streep voices aslan narnia",
-      "title_ru": "Лиам Нисон удивился новости о том, что Мерил Стрип озвучит Аслана в новом фильме по Narnia",
-      "threads_teaser_ru": "Лиам Нисон неожиданно для себя узнал, что Мерил Стрип озвучит Аслана в экранизации The Magician’s Nephew от Греты Гервиг. Его реакция на эту новость попала на видео и завирусилась в сети.",
-      "telegram_message_id": "2170",
-      "telegram_url": "https://t.me/gamepulse_newss/2170",
-      "telegram_published_at": "2026-11-04T20:47:11.183367+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/liam-neeson-reacts-meryl-streep-narnia-1793819020548.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T20:47:12.716143+00:00"
-    },
-    {
       "fingerprint": "a824be66b8a5d73a864f3adb",
       "title": "From Polish Museums to XBOX: Bringing the World of The End of the Sun to Life",
       "url": "https://news.xbox.com/en-us/2026/11/04/from-polish-museums-to-xbox",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/03/13/simpsons-hit-and-run-remake-1677768262562-1773425381087.png?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-28T13:32:29.151004+00:00"
+    },
+    {
+      "fingerprint": "2e59395f9ff994632ad94e0e",
+      "title": "007 First Light's Brilliant Tutorial Is a Game Direction Miracle",
+      "url": "https://polygon.com/007-first-lights-tutorial-interview-io-interactive",
+      "source": "Polygon",
+      "published_at_source": "2026-11-28T13:00:18+00:00",
+      "score": 9,
+      "event_key": "io_interactive_discussed_007_first_light_tutorial_creation",
+      "title_ru": "Разработчики 007 First Light рассказали о создании обучающей последовательности",
+      "threads_teaser_ru": "Авторы 007 First Light из IO Interactive рассказали, как создавался необычный обучающий уровень в стиле киномонтажа 1980-х годов и почему разработчики опасались за эту идею.",
+      "telegram_message_id": "3374",
+      "telegram_url": "https://t.me/gamepulse_newss/3374",
+      "telegram_published_at": "2026-11-28T13:46:57.683692+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_43c8cf3875cb6643ac7d8244e9fd39381609814a-1920x1080.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-28T13:32:29.151099+00:00"
+  "updated_at": "2026-11-28T13:46:57.683786+00:00"
 }
