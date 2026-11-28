@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "31cc2d5fd0a322a2a86751e2",
-      "title": "GTA 6 Sells Nearly 8 Million Copies Before It Even Launches, Report Says",
-      "url": "https://polygon.com/gta-6-preorders-sales-8-million-copies-before-release-date",
-      "source": "Polygon",
-      "published_at_source": "2026-11-04T18:31:55+00:00",
-      "score": 11,
-      "event_key": "gta-6-approaches-8-million-sales-before-launch",
-      "title_ru": "GTA 6 преодолела отметку в почти 8 миллионов проданных копий до релиза",
-      "threads_teaser_ru": "По оценкам аналитиков, GTA 6 уже продалась тиражом около 7,71 миллиона копий и принесла 751 миллион долларов выручки до своего релиза 19 ноября на PlayStation 5 и Xbox Series X.",
-      "telegram_message_id": "2161",
-      "telegram_url": "https://t.me/gamepulse_newss/2161",
-      "telegram_published_at": "2026-11-04T18:32:53.901723+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/09/point-it-out-episode-3-v2-1789055341.mp4",
-      "threads_published_at": "2026-11-04T18:32:55.176235+00:00"
-    },
-    {
       "fingerprint": "141e77aaa6c83c336ad231f0",
       "title": "Final Fantasy’s Yoshinori Kitase Teases What’s Next for Square Enix, Says Company Will Prioritize New Games Over Remakes",
       "url": "https://ign.com/articles/square-enix-new-games-remakes-kitase-interview",
@@ -20503,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-quantum-break-deal.jpg?w=300",
       "threads_published_at": "2026-11-28T06:47:17.834595+00:00"
+    },
+    {
+      "fingerprint": "58826efd0607e6b64d5e8776",
+      "title": "The Shrek Toaster Is the Only Black Friday Deal You Need",
+      "url": "https://ign.com/articles/the-shrek-toaster-is-the-only-black-friday-deal-you-need",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T20:55:17+00:00",
+      "score": 5,
+      "event_key": "shrek toaster black friday sale amazon",
+      "title_ru": "Тостер Shrek получил скидку на распродаже Black Friday на Amazon",
+      "threads_teaser_ru": "На Amazon в рамках Black Friday скидки получили необычные тематические тостеры, выжигающие на хлебе лица персонажей вроде Shrek, Sonic и Bluey.",
+      "telegram_message_id": "3365",
+      "telegram_url": "https://t.me/gamepulse_newss/3365",
+      "telegram_published_at": "2026-11-28T07:16:35.636699+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/shrektoaster-1795811228668.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T06:47:17.834688+00:00"
+  "updated_at": "2026-11-28T07:16:35.636794+00:00"
 }
