@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "703b07123e3625df1a34ccf1",
-      "title": "Phantom Blade Zero’s Toughest Early Boss Gets Big Nerf in New Update",
-      "url": "https://polygon.com/phantom-blade-zero-early-game-boss-nerf-hua",
-      "source": "Polygon",
-      "published_at_source": "2026-11-04T16:42:01+00:00",
-      "score": 10,
-      "event_key": "Phantom Blade Zero first major patch 1.0302256 release",
-      "title_ru": "Первый крупный патч для Phantom Blade Zero ослабил одного из боссов",
-      "threads_teaser_ru": "В первом крупном патче Phantom Blade Zero ослабили босса Hua, the Deadly Betrothed на низких уровнях сложности. Также обновление улучшило производительность на PC, ускорило запуск игры и исправило ряд технических ошибок, препятствовавших прогрессу.",
-      "telegram_message_id": "2154",
-      "telegram_url": "https://t.me/gamepulse_newss/2154",
-      "telegram_published_at": "2026-11-04T16:47:56.768064+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg?w=1600&h=900&fit=crop",
-      "threads_published_at": "2026-11-04T16:47:58.395418+00:00"
-    },
-    {
       "fingerprint": "1dc83f6e965803d77b0fbb8c",
       "title": "Nexus Mods Won’t Ban AI Mods, But It Won’t Let Them Hide Either",
       "url": "https://gamespot.com/articles/nexus-mods-wont-ban-ai-mods-but-it-wont-let-them-hide-either",
@@ -20503,7 +20486,23 @@
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screenshot-2026-04-16-at-1-40-46-pm.jpg?w=1600&h=900&fit=crop",
       "video_url": "https://video.polygonimages.com/2026/10/sq-david-dastmalchian-3draft-1792089493.mp4",
       "threads_published_at": "2026-11-28T04:32:35.835775+00:00"
+    },
+    {
+      "fingerprint": "26f848f553e455f76910be08",
+      "title": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
+      "url": "https://eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T19:20:40+00:00",
+      "score": 7,
+      "event_key": "EA releases new Dragon Age merchandise after BioWare closure",
+      "title_ru": "EA выпустила новый мерч по Dragon Age после закрытия BioWare",
+      "threads_teaser_ru": "Несмотря на критику после закрытия BioWare, EA продолжает продавать мерч по проектам студии. В магазине BioWare Gear появилась толстовка по Dragon Age: Inquisition, что вызвало новую волну недовольства среди фанатов, продолжающих кампанию за сохранение серии Mass Effect.",
+      "telegram_message_id": "3358",
+      "telegram_url": "https://t.me/gamepulse_newss/3358",
+      "telegram_published_at": "2026-11-28T04:46:47.117294+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/dorian-dragon-age-inquisition-artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-28T04:32:35.835880+00:00"
+  "updated_at": "2026-11-28T04:46:47.117376+00:00"
 }
