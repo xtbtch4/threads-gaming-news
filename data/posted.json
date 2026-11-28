@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "2a19b7a9ef9bc7e17f3fad97",
-      "title": "Sonic the Hedgehog Shows Up in New Angry Birds 3 Trailer for Some Reason",
-      "url": "https://ign.com/articles/sonic-the-hedgehog-new-angry-birds-3-trailer",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T16:56:28+00:00",
-      "score": 11,
-      "event_key": "sonic-the-hedgehog-cameo-in-angry-birds-3-trailer",
-      "title_ru": "Sonic the Hedgehog появился в трейлере фильма The Angry Birds Movie 3",
-      "threads_teaser_ru": "Sonic the Hedgehog неожиданно появился в новом трейлере анимационного фильма The Angry Birds Movie 3. Персонаж бежит по лесу вместе с Chuck, которого озвучивает Josh Gad. Премьера картины состоится 23 декабря.",
-      "telegram_message_id": "2165",
-      "telegram_url": "https://t.me/gamepulse_newss/2165",
-      "telegram_published_at": "2026-11-04T19:32:28.148130+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/angrythumbono-1793801883927.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T19:32:29.431564+00:00"
-    },
-    {
       "fingerprint": "b4647e3741278577924bc256",
       "title": "KFC Reveals Official Avengers: Doomsday Menu 'Worthy' of Dr. Doom",
       "url": "https://ign.com/articles/kfc-reveals-official-avengers-doomsday-menu-worthy-of-dr-doom",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/all-will-rise-artwork-(2).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T10:02:41.610163+00:00"
+    },
+    {
+      "fingerprint": "5e982c56c7e7ba8844859ef1",
+      "title": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+      "url": "https://eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-28T10:44:50+00:00",
+      "score": 12,
+      "event_key": "xl games restructuring layoffs archeage chronicles sales",
+      "title_ru": "XL Games проводит масштабную реструктуризацию из-за слабых продаж ArcheAge Chronicles",
+      "threads_teaser_ru": "Создатели ArcheAge Chronicles из студии XL Games объявили о планах масштабной реструктуризации и возможном закрытии после того, как игра не оправдала ожиданий по продажам.",
+      "telegram_message_id": "3369",
+      "telegram_url": "https://t.me/gamepulse_newss/3369",
+      "telegram_published_at": "2026-11-28T10:46:42.326843+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ss_92e884b876577a333b3fb6d34775f2e793d58917.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-28T10:02:41.610251+00:00"
+  "updated_at": "2026-11-28T10:46:42.326927+00:00"
 }
