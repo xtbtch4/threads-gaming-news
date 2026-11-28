@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ed0e42ea5d56518b06e7551c",
-      "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
-      "url": "https://eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-04T13:34:57+00:00",
-      "score": 15,
-      "event_key": "macronix-ending-rom-manufacturing-for-nintendo-switch-cartridges",
-      "title_ru": "Производитель картриджей для Nintendo Switch и Switch 2 уходит из бизнеса",
-      "threads_teaser_ru": "Один из ключевых производителей ROM-памяти для картриджей Nintendo Switch и Switch 2 объявил о прекращении выпуска таких компонентов к концу третьего квартала финансового года 2026. Это может отразиться на стоимости физических игр.",
-      "telegram_message_id": "2144",
-      "telegram_url": "https://t.me/gamepulse_newss/2144",
-      "telegram_published_at": "2026-11-04T13:47:44.113646+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/switch-2-cartridge-macronix-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-04T13:47:45.501946+00:00"
-    },
-    {
       "fingerprint": "7bc956f61b0771f31f020f98",
       "title": "FromSoftware's Bloodborne Is Still Selling Hundreds of Thousands of Copies, Over a Decade After Launch",
       "url": "https://ign.com/articles/bloodborne-sold-250000-copies-2026",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/yooka-replayee.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T00:17:51.377559+00:00"
+    },
+    {
+      "fingerprint": "28e82d37288230bee5bef26f",
+      "title": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026",
+      "url": "https://rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-27T17:30:00+00:00",
+      "score": 9,
+      "event_key": "PC system requirements announced for Exodus RPG",
+      "title_ru": "Опубликованы системные требования RPG Exodus",
+      "threads_teaser_ru": "Стали известны системные требования для амбициозной научно-фантастической RPG Exodus. Для комфортной игры в минимальном разрешении потребуется сборка с Nvidia 2060, а для 4K/60FPS — уже актуальная RTX 5080. Релиз проекта запланирован на весну следующего года.",
+      "telegram_message_id": "3348",
+      "telegram_url": "https://t.me/gamepulse_newss/3348",
+      "telegram_published_at": "2026-11-28T00:32:52.186861+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/exodus-headline-steam.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-28T00:17:51.377647+00:00"
+  "updated_at": "2026-11-28T00:32:52.186951+00:00"
 }
