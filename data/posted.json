@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "19b63dcef50e54fa62f334de",
-      "title": "Channing Tatum Shows Off Updated Gambit Accent in New Avengers: Doomsday Ad",
-      "url": "https://ign.com/articles/channing-tatum-shows-off-updated-gambit-accent-in-new-avengers-doomsday-ad",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T19:46:26+00:00",
-      "score": 9,
-      "event_key": "channing-tatum-updated-gambit-accent-avengers-doomsday",
-      "title_ru": "Ченнинг Татум обновил акцент Гамбита для Avengers: Doomsday",
-      "threads_teaser_ru": "Ченнинг Татум показал обновленный акцент Гамбита в новой рекламе фильма Avengers: Doomsday и Dunkin Donuts. Как изменился голос персонажа после Deadpool & Wolverine и почему создатели решили его смягчить.",
-      "telegram_message_id": "2169",
-      "telegram_url": "https://t.me/gamepulse_newss/2169",
-      "telegram_published_at": "2026-11-04T20:32:58.193344+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/gambit-1793821205520.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T20:32:59.618838+00:00"
-    },
-    {
       "fingerprint": "d07efd7a68388f019017a0d2",
       "title": "Liam Neeson Had a Priceless Reaction to Learning Meryl Streep Is Voicing Aslan in Narnia: The Magician's Nephew",
       "url": "https://ign.com/articles/liam-neeson-had-a-priceless-reaction-to-learning-meryl-streep-is-voicing-aslan-in-narnia-the-magicians-nephew",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/dow4-unit-painter-dreadnought.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T11:32:23.240569+00:00"
+    },
+    {
+      "fingerprint": "f5beba6ab81c340733960f7c",
+      "title": "Concern for Rumored The Simpsons: Hit & Run Remake Amid Radical Game Cancelation",
+      "url": "https://ign.com/articles/radical-entertainment-layoffs-simpsons-hit-run-remake-cancellation",
+      "source": "IGN",
+      "published_at_source": "2026-11-28T11:57:16+00:00",
+      "score": 11,
+      "event_key": "radically_reformed_studio_cancels_mystery_project_simpsons_remake_fears",
+      "title_ru": "Появились опасения об отмене ремейка The Simpsons: Hit & Run",
+      "threads_teaser_ru": "Возобновились слухи об отмене ремейка The Simpsons: Hit & Run после того, как возрожденная студия New Radical Games объявила об отмене своего секретного проекта на фоне тяжелой ситуации в индустрии.",
+      "telegram_message_id": "3373",
+      "telegram_url": "https://t.me/gamepulse_newss/3373",
+      "telegram_published_at": "2026-11-28T13:32:27.696590+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/03/13/simpsons-hit-and-run-remake-1677768262562-1773425381087.png?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T11:32:23.240657+00:00"
+  "updated_at": "2026-11-28T13:32:27.696689+00:00"
 }
