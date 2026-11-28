@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "3317f77d5cfc330242348a61",
-      "title": "Batman: Knightfall Part 2: Knightquest Release Date and Box Art Revealed",
-      "url": "https://ign.com/articles/batman-knightfall-part-2-knightquest-release-date-box-art-fight-scene",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T15:00:00+00:00",
-      "score": 15,
-      "event_key": "batman knightfall part 2 knightquest release date announced",
-      "title_ru": "Анонсирована дата выхода Batman: Knightfall Part 2: Knightquest",
-      "threads_teaser_ru": "Стала известна дата выхода полнометражного анимационного фильма Batman: Knightfall Part 2: Knightquest. Продолжение истории о защите Готэма выйдет в декабре 2026 года на цифровых носителях и физических дисках.",
-      "telegram_message_id": "2149",
-      "telegram_url": "https://t.me/gamepulse_newss/2149",
-      "telegram_published_at": "2026-11-04T15:03:23.188802+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/02/batmanknightfall-part-2-knightquest-blogroll-1793648605940.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T15:03:26.415064+00:00"
-    },
-    {
       "fingerprint": "e38ce0d43e7f0cfe2168e49c",
       "title": "Nintendo Could Have A New Cartridge Problem On Its Hands",
       "url": "https://gamespot.com/articles/nintendo-could-have-a-new-cartridge-problem-on-its-hands",
@@ -20501,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/glagstone.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T03:02:46.572485+00:00"
+    },
+    {
+      "fingerprint": "948d3e20088977d70cb26f6c",
+      "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+      "url": "https://polygon.com/free-games-right-now-steam-epic-ps-plus-nov-27-dec-3",
+      "source": "Polygon",
+      "published_at_source": "2026-11-28T03:14:12+00:00",
+      "score": 14,
+      "event_key": "free_games_and_offers_nov_dec_2026",
+      "title_ru": "Бесплатные игры и предложения недели в Steam, Epic и на консолях",
+      "threads_teaser_ru": "Свежая подборка бесплатных игр и акций на ПК и консолях охватывает период с 27 ноября по 3 декабря. Пользователей ждут раздачи в Epic Games Store, пополнения каталога PS Plus и временные пробные версии для подписчиков Game Pass.",
+      "telegram_message_id": "3353",
+      "telegram_url": "https://t.me/gamepulse_newss/3353",
+      "telegram_published_at": "2026-11-28T03:17:07.932329+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tony-hawk-pro-skater-3-4.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-28T03:02:46.572575+00:00"
+  "updated_at": "2026-11-28T03:17:07.932389+00:00"
 }
