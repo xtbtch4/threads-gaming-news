@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "bdbb26ed66735bc340acb9a5",
-      "title": "New D&D Book Introduces Some of the Most Terrifying Boss Fights in the Game’s History",
-      "url": "https://polygon.com/dnd-world-of-warcraft-npc-stat-blocks-powerful-bosses",
-      "source": "Polygon",
-      "published_at_source": "2026-11-04T21:00:17+00:00",
-      "score": 8,
-      "event_key": "dnd_world_of_warcraft_book_boss_stat_blocks",
-      "title_ru": "Новая книга Dungeons & Dragons: World of Warcraft добавляет мощных боссов",
-      "threads_teaser_ru": "Новая книга правил Dungeons & Dragons: World of Warcraft переносит культовых героев Azeroth в настольную игру в качестве грозных боссов с огромным запасом здоровья и уникальными способностями.",
-      "telegram_message_id": "2172",
-      "telegram_url": "https://t.me/gamepulse_newss/2172",
-      "telegram_published_at": "2026-11-04T21:17:01.079206+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jaina-proudmoore-dungeons-and-dragons-world-of-warcraft.jpg?w=1600&h=900&fit=crop",
-      "video_url": "https://video.polygonimages.com/2026/11/sq-deborah-ann-woll-4draft-1793633350.mp4",
-      "threads_published_at": "2026-11-04T21:17:02.763476+00:00"
-    },
-    {
       "fingerprint": "c206445a7b92eae4d395e011",
       "title": "The Avengers #1 Review: A Marvel Relaunch Done Right",
       "url": "https://ign.com/articles/the-avengers-1-review-a-marvel-relaunch-done-right",
@@ -20502,7 +20484,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-robbery-1795698467947.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-28T14:02:28.735537+00:00"
+    },
+    {
+      "fingerprint": "16b48c8692dee597ed0653e2",
+      "title": "Everything Coming to Netflix in December 2026",
+      "url": "https://ign.com/articles/whats-new-on-netflix-in-december-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-28T13:00:00+00:00",
+      "score": 7,
+      "event_key": "netflix december 2026 releases line up",
+      "title_ru": "Что появится на Netflix в декабре 2026 года",
+      "threads_teaser_ru": "Netflix объявил расписание премьер на декабрь 2026 года. Зрителей ждет фильм The Further Mis-Adventures of Cliff Booth от Дэвида Финчера и Квентина Тарантино, новый мультфильм Ray Gunn от Брэда Бёрда, а также сериалы с Эммой Коррин и Мелиссой Маккарти.",
+      "telegram_message_id": "3376",
+      "telegram_url": "https://t.me/gamepulse_newss/3376",
+      "telegram_published_at": "2026-11-28T14:17:14.347679+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/25/bad-day-1795628644562.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T14:02:28.735648+00:00"
+  "updated_at": "2026-11-28T14:17:14.347764+00:00"
 }
