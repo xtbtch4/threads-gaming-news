@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "ae588b443cebdb98d40ebf60",
-      "title": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\"",
-      "url": "https://rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-11-04T18:02:20+00:00",
-      "score": 12,
-      "event_key": "arkane-lyon-union-statement-microsoft-closure-negotiations",
-      "title_ru": "Arkane Lyon обвинила Microsoft в создании искусственных финансовых проблем",
-      "threads_teaser_ru": "Профсоюз Arkane Lyon заявил, что студия прибыльна, но «недостаточно прибыльна для Microsoft». Работники обвинили корпорацию в саботаже и искусственном создании финансовых проблем.",
-      "telegram_message_id": "2159",
-      "telegram_url": "https://t.me/gamepulse_newss/2159",
-      "telegram_published_at": "2026-11-04T18:07:07.917140+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-04T18:07:09.488737+00:00"
-    },
-    {
       "fingerprint": "5e24668ea08eae2741e091a1",
       "title": "Indie Selects for November 2026: Survive and Thrive",
       "url": "https://news.xbox.com/en-us/2026/11/04/indie-selects-november",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/cyber-knights-drone-pilot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T06:17:05.635150+00:00"
+    },
+    {
+      "fingerprint": "0cb6a30b09978e635d8d0ca2",
+      "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
+      "url": "https://ign.com/articles/excitement-builds-for-hollow-knight-silksong-news-ahead-of-cherry-time-special-presentation",
+      "source": "IGN",
+      "published_at_source": "2026-11-27T07:20:00+00:00",
+      "score": 13,
+      "event_key": "team-cherry-announces-sea-of-sorrow-release-date",
+      "title_ru": "Анонсирована дата выхода дополнения Sea of Sorrow для Hollow Knight: Silksong",
+      "threads_teaser_ru": "Team Cherry провела презентацию Cherry Time!, где объявила дату выхода бесплатного дополнения Sea of Sorrow для Hollow Knight: Silksong. Релиз назначен на 11 декабря.",
+      "telegram_message_id": "3363",
+      "telegram_url": "https://t.me/gamepulse_newss/3363",
+      "telegram_published_at": "2026-11-28T06:32:28.623795+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/cherry-main-1795789809266.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T06:17:05.635238+00:00"
+  "updated_at": "2026-11-28T06:32:28.623867+00:00"
 }
