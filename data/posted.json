@@ -20499,9 +20499,10 @@
       "telegram_message_id": "3371",
       "telegram_url": "https://t.me/gamepulse_newss/3371",
       "telegram_published_at": "2026-11-28T11:16:57.292005+00:00",
-      "threads_id": null,
-      "image_url": "https://assetsio.gnwcdn.com/exodus-headline-steam.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "threads_id": "disabled",
+      "image_url": "https://assetsio.gnwcdn.com/exodus-headline-steam.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "threads_published_at": "2026-11-28T11:16:58.587814+00:00"
     }
   ],
-  "updated_at": "2026-11-28T11:16:57.292078+00:00"
+  "updated_at": "2026-11-28T11:16:58.587898+00:00"
 }
