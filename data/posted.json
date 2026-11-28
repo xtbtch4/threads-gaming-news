@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "d7e93817dd40cc6c1cf29185",
-      "title": "Final Fantasy Producer Cites Star Wars as a Key Inspiration for Characters and Mechanics in Franchise",
-      "url": "https://ign.com/articles/final-fantasy-producer-cites-star-wars-as-a-key-inspiration-for-characters-and-mechanics-in-franchise",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T19:00:00+00:00",
-      "score": 13,
-      "event_key": "yoshinori kitase star wars inspiration final fantasy",
-      "title_ru": "Yoshinori Kitase назвал Star Wars ключевым источником вдохновения для Final Fantasy",
-      "threads_teaser_ru": "Продюсер Yoshinori Kitase признался, что франшиза Star Wars вдохновляла его при создании элементов Final Fantasy. Например, в честь героев космической саги названы Wedge и Biggs.",
-      "telegram_message_id": "2163",
-      "telegram_url": "https://t.me/gamepulse_newss/2163",
-      "telegram_published_at": "2026-11-04T19:02:31.892486+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/03/ffx-1793745771955.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T19:02:33.132677+00:00"
-    },
-    {
       "fingerprint": "f56171610d38bf5d44f80f07",
       "title": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions",
       "url": "https://eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance-nintendo-switch-2-screenshot-art-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T08:02:38.354561+00:00"
+    },
+    {
+      "fingerprint": "6982596da146316b48a8d8e1",
+      "title": "8 Sci-Fi Books That Get Even Better the Second Time You Read Them",
+      "url": "https://polygon.com/sci-fi-books-better-second-time",
+      "source": "Polygon",
+      "published_at_source": "2026-11-28T09:00:18+00:00",
+      "score": 8,
+      "event_key": "polygon_sci_fi_books_second_reading_list",
+      "title_ru": "8 научно-фантастических книг, которые становятся еще лучше при повторном чтении",
+      "threads_teaser_ru": "Издание Polygon представило подборку из восьми научно-фантастических романов, которые интереснее перечитывать благодаря скрытым деталям, подсказкам и неожиданным поворотам сюжета.",
+      "telegram_message_id": "3367",
+      "telegram_url": "https://t.me/gamepulse_newss/3367",
+      "telegram_published_at": "2026-11-28T09:02:55.149018+00:00",
+      "threads_id": null,
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/kurt-vonnegut-sirens-of-titan.jpg?w=1600&h=900&fit=crop"
     }
   ],
-  "updated_at": "2026-11-28T08:02:38.354656+00:00"
+  "updated_at": "2026-11-28T09:02:55.149100+00:00"
 }
