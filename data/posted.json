@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "f56171610d38bf5d44f80f07",
-      "title": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions",
-      "url": "https://eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
-      "source": "Eurogamer",
-      "published_at_source": "2026-11-04T19:15:40+00:00",
-      "score": 11,
-      "event_key": "navi-actor-returns-zelda-ocarina-of-time-remake",
-      "title_ru": "Актриса озвучки Navi вернулась к роли в ремейке The Legend of Zelda: Ocarina of Time спустя 28 лет",
-      "threads_teaser_ru": "Nintendo случайно пригласила ту же актрису озвучить Navi в ремейке The Legend of Zelda: Ocarina of Time спустя 28 лет после выхода оригинала на N64. Слепые прослушивания привели к удивительному совпадению.",
-      "telegram_message_id": "2164",
-      "telegram_url": "https://t.me/gamepulse_newss/2164",
-      "telegram_published_at": "2026-11-04T19:17:32.777146+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/legend-of-zelda-ocarina-remake-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-04T19:17:34.103436+00:00"
-    },
-    {
       "fingerprint": "2a19b7a9ef9bc7e17f3fad97",
       "title": "Sonic the Hedgehog Shows Up in New Angry Birds 3 Trailer for Some Reason",
       "url": "https://ign.com/articles/sonic-the-hedgehog-new-angry-birds-3-trailer",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/kurt-vonnegut-sirens-of-titan.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-28T09:02:56.610513+00:00"
+    },
+    {
+      "fingerprint": "74db0498ebf2a2911a126cd9",
+      "title": "A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective",
+      "url": "https://eurogamer.net/all-will-rise-speculative-agency-preview",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-28T10:00:00+00:00",
+      "score": 9,
+      "event_key": "all will rise preview eurogamer speculative agency",
+      "title_ru": "Превью All Will Rise",
+      "threads_teaser_ru": "Новое превью All Will Rise от Speculative Agency раскрывает детали карточной игры в духе Phoenix Wright. Проект рассказывает об адвокате Kuyili, борющейся с корпорациями в мире Muziris.",
+      "telegram_message_id": "3368",
+      "telegram_url": "https://t.me/gamepulse_newss/3368",
+      "telegram_published_at": "2026-11-28T10:02:39.808402+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/all-will-rise-artwork-(2).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-28T09:02:56.610599+00:00"
+  "updated_at": "2026-11-28T10:02:39.808489+00:00"
 }
