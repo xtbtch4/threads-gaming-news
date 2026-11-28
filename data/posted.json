@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "e39d71ee9f517c2520fbd021",
-      "title": "New Hogwarts Legacy Trailer Shows Off Nvidia's DLSS 5 Enhanced Lighting and Materials",
-      "url": "https://ign.com/articles/nvidia-shows-off-dlss-5-hogwarts-legacy-trailer",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T15:43:10+00:00",
-      "score": 11,
-      "event_key": "nvidia-dlss-5-hogwarts-legacy-release",
-      "title_ru": "Новый трейлер Hogwarts Legacy демонстрирует технологию Nvidia DLSS 5",
-      "threads_teaser_ru": "Nvidia показала работу технологии DLSS 5 в Hogwarts Legacy. Обновление с поддержкой ИИ-освещения и материалов выходит 5 ноября для владельцев устройств серии GeForce RTX 50 и сервиса GeForce NOW Ultimate.",
-      "telegram_message_id": "2152",
-      "telegram_url": "https://t.me/gamepulse_newss/2152",
-      "telegram_published_at": "2026-11-04T16:02:49.399009+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/hogwartslegacy-dlss5-1793806537149.png?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T16:02:51.121473+00:00"
-    },
-    {
       "fingerprint": "e0411963d9735ea78824fd0a",
       "title": "The Elder Scrolls 6: Sentinel Will Show Us Just How Serious Xbox Is About Exclusivity",
       "url": "https://ign.com/articles/the-elder-scrolls-6-sentinel-will-show-us-just-how-serious-xbox-is-about-exclusivity",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.0nqzlrqdmlze.jpg?w=300",
       "threads_published_at": "2026-11-28T03:46:58.136480+00:00"
+    },
+    {
+      "fingerprint": "ccd26f202d24200e33721533",
+      "title": "Save 40% Off the ASUS ZenScreen 16\" 1080p Portable USB Monitor for Black Friday",
+      "url": "https://ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-black-friday-sale-2026",
+      "source": "IGN",
+      "published_at_source": "2026-11-28T03:20:00+00:00",
+      "score": 7,
+      "event_key": "ASUS ZenScreen Black Friday sale portable monitor discount",
+      "title_ru": "ASUS ZenScreen со скидкой 40% на распродаже Black Friday",
+      "threads_teaser_ru": "На Amazon в рамках Black Friday подешевел портативный монитор ASUS ZenScreen. Устройство с 15,6-дюймовым IPS-экраном теперь доступно за 69,67 доллара. Разбираемся, с какими консолями его можно использовать и как организовать питание.",
+      "telegram_message_id": "3356",
+      "telegram_url": "https://t.me/gamepulse_newss/3356",
+      "telegram_published_at": "2026-11-28T04:17:27.549768+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/28/asuszenscreen2-1795835514212.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T03:46:58.136574+00:00"
+  "updated_at": "2026-11-28T04:17:27.549854+00:00"
 }
