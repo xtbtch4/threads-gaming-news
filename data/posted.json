@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "b4647e3741278577924bc256",
-      "title": "KFC Reveals Official Avengers: Doomsday Menu 'Worthy' of Dr. Doom",
-      "url": "https://ign.com/articles/kfc-reveals-official-avengers-doomsday-menu-worthy-of-dr-doom",
-      "source": "IGN",
-      "published_at_source": "2026-11-04T16:50:34+00:00",
-      "score": 11,
-      "event_key": "kfc_avengers_doomsday_menu_collaboration_2026",
-      "title_ru": "KFC анонсировала специальное меню в честь фильма Avengers: Doomsday",
-      "threads_teaser_ru": "KFC представила масштабное тематическое меню и коллекционные фигурки в стиле Dr. Doom в рамках коллаборации с грядущим блокбастером Avengers: Doomsday.",
-      "telegram_message_id": "2166",
-      "telegram_url": "https://t.me/gamepulse_newss/2166",
-      "telegram_published_at": "2026-11-04T19:47:14.481130+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/04/kfcdoomsday-1793809670103.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "threads_published_at": "2026-11-04T19:47:15.896216+00:00"
-    },
-    {
       "fingerprint": "c4dfc039536029f7a9ef3b6e",
       "title": "How The Challenge Shrine Will Change How you Play Halls of Torment",
       "url": "https://news.xbox.com/en-us/2026/11/04/how-the-challenge-shrine-will-change-how-you-play",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assetsio.gnwcdn.com/ss_92e884b876577a333b3fb6d34775f2e793d58917.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "threads_published_at": "2026-11-28T10:46:43.720578+00:00"
+    },
+    {
+      "fingerprint": "9391c08f1a4594590bd6a399",
+      "title": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
+      "url": "https://ign.com/articles/raylos-black-friday-gaming-console-deals",
+      "source": "IGN",
+      "published_at_source": "2026-11-28T10:31:06+00:00",
+      "score": 9,
+      "event_key": "raylo_black_friday_gaming_console_deals",
+      "title_ru": "Raylo предлагает подписки на PS5 и Xbox с Grand Theft Auto VI дешевле £20 в месяц",
+      "threads_teaser_ru": "Raylo предлагает оформить подписку на PS5 или Xbox с Grand Theft Auto VI менее чем за £20 в месяц без первоначального взноса. Узнайте подробности об условиях аренды консолей.",
+      "telegram_message_id": "3370",
+      "telegram_url": "https://t.me/gamepulse_newss/3370",
+      "telegram_published_at": "2026-11-28T11:02:20.401040+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/27/raylos-black-friday-gaming-console-deals-cover-1795801485536.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T10:46:43.720661+00:00"
+  "updated_at": "2026-11-28T11:02:20.401133+00:00"
 }
