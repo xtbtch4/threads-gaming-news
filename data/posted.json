@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "5e24668ea08eae2741e091a1",
-      "title": "Indie Selects for November 2026: Survive and Thrive",
-      "url": "https://news.xbox.com/en-us/2026/11/04/indie-selects-november",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-04T18:00:00+00:00",
-      "score": 12,
-      "event_key": "xbox_indie_selects_november_2026",
-      "title_ru": "Подборка Indie Selects за ноябрь 2026 года",
-      "threads_teaser_ru": "Команда ID@XBOX представила ноябрьскую подборку Indie Selects на платформе Xbox, в которую вошли хоррор Silver Pines, Graveyard Keeper 2 и Warhammer 40K: Boltgun 2.",
-      "telegram_message_id": "2160",
-      "telegram_url": "https://t.me/gamepulse_newss/2160",
-      "telegram_published_at": "2026-11-04T18:17:33.134817+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/IndieSelects_November2026_Laurel_Wire-1ea798cb1cbb4993ad7e.jpg",
-      "threads_published_at": "2026-11-04T18:17:34.888275+00:00"
-    },
-    {
       "fingerprint": "31cc2d5fd0a322a2a86751e2",
       "title": "GTA 6 Sells Nearly 8 Million Copies Before It Even Launches, Report Says",
       "url": "https://polygon.com/gta-6-preorders-sales-8-million-copies-before-release-date",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/cherry-main-1795789809266.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-28T06:32:29.999676+00:00"
+    },
+    {
+      "fingerprint": "609ca2f7b80ecf0d7ea1e174",
+      "title": "Alan Wake Dev’s Forgotten TV-Action Game Hybrid Is At A Huge Discount Right Now",
+      "url": "https://gamespot.com/articles/alan-wake-devs-forgotten-tv-action-game-hybrid-is-at-a-huge-discount-right-now",
+      "source": "GameSpot",
+      "published_at_source": "2026-11-27T14:00:00+00:00",
+      "score": 5,
+      "event_key": "Quantum Break available at a discount on Fanatical",
+      "title_ru": "Quantum Break доступна с большой скидкой",
+      "threads_teaser_ru": "Remedy Entertainment объединила в Quantum Break шутер и полноценный телесериал с реальными актерами. Сейчас игру можно приобрести на Fanatical всего за $8.40. Узнайте, как этот проект заложил основу для будущих механик в Control и Alan Wake 2.",
+      "telegram_message_id": "3364",
+      "telegram_url": "https://t.me/gamepulse_newss/3364",
+      "telegram_published_at": "2026-11-28T06:47:16.073413+00:00",
+      "threads_id": null,
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-quantum-break-deal.jpg?w=300"
     }
   ],
-  "updated_at": "2026-11-28T06:32:29.999781+00:00"
+  "updated_at": "2026-11-28T06:47:16.073520+00:00"
 }
