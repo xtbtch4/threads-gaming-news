@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "1e55ffd7af9b0587318305c8",
-      "title": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
-      "url": "https://rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
-      "source": "Rock Paper Shotgun",
-      "published_at_source": "2026-11-04T13:15:44+00:00",
-      "score": 12,
-      "event_key": "fate_of_the_galaxy_freespace_open_mod_released",
-      "title_ru": "Вышел Fate of the Galaxy — масштабный космический симулятор по Star Wars",
-      "threads_teaser_ru": "Бесплатный космический симулятор Fate of the Galaxy по мотивам оригинальной трилогии Star Wars вышел как глобальная модификация на базе FreeSpace Open и работает даже на слабых ПК.",
-      "telegram_message_id": "2142",
-      "telegram_url": "https://t.me/gamepulse_newss/2142",
-      "telegram_published_at": "2026-11-04T13:17:25.067651+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://assetsio.gnwcdn.com/fate-of-the-galaxy-armada.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "threads_published_at": "2026-11-04T13:17:26.654673+00:00"
-    },
-    {
       "fingerprint": "8657f4d0828e526e863cec3d",
       "title": "Bringing Jin Sakai back to life for Ghost of Yōtei: Most Wanted",
       "url": "https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted",
@@ -20503,7 +20486,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/6b0d6376bff30cb4e649a1581056b45e655a6609-1795815459268.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-27T23:47:30.680796+00:00"
+    },
+    {
+      "fingerprint": "4d8400d469a3a2a18e477bb5",
+      "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
+      "url": "https://eurogamer.net/iron-man-game-awards-ea-motive",
+      "source": "Eurogamer",
+      "published_at_source": "2026-11-27T20:27:30+00:00",
+      "score": 10,
+      "event_key": "EA Motive Iron Man appearance at The Game Awards",
+      "title_ru": "EA Motive может представить Marvel's Iron Man на The Game Awards",
+      "threads_teaser_ru": "Фанаты ожидают увидеть геймплей Marvel's Iron Man от EA Motive на грядущей церемонии The Game Awards. На это намекает недавнее обновление сайта студии и грядущая премьера фильма Avengers: Doomsday. Узнаем, покажут ли проект, уже 10 декабря.",
+      "telegram_message_id": "3346",
+      "telegram_url": "https://t.me/gamepulse_newss/3346",
+      "telegram_published_at": "2026-11-28T00:03:39.381885+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/ea-motive-new-title-teaser-16x9.jpg.adapt.1456w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-27T23:47:30.680875+00:00"
+  "updated_at": "2026-11-28T00:03:39.381957+00:00"
 }
