@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "c4dfc039536029f7a9ef3b6e",
-      "title": "How The Challenge Shrine Will Change How you Play Halls of Torment",
-      "url": "https://news.xbox.com/en-us/2026/11/04/how-the-challenge-shrine-will-change-how-you-play",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-04T20:00:00+00:00",
-      "score": 16,
-      "event_key": "halls_of_torment_the_lost_archives_dlc_xbox_release",
-      "title_ru": "DLC The Lost Archives и крупное обновление для Halls of Torment вышли на XBOX",
-      "threads_teaser_ru": "На XBOX вышло второе DLC The Lost Archives для Halls of Torment вместе с крупным бесплатным обновлением. Дополнение принесло двух новых героев и зал, а обновление добавило настраиваемые цели по убийствам через Shrine of Torment и еженедельные испытания.",
-      "telegram_message_id": "2167",
-      "telegram_url": "https://t.me/gamepulse_newss/2167",
-      "telegram_published_at": "2026-11-04T20:03:05.792479+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HoT_Xbox_DLC_TheLostArchives_Thumbnail-ef5abeaf83a17a438e50.jpg",
-      "threads_published_at": "2026-11-04T20:03:07.217999+00:00"
-    },
-    {
       "fingerprint": "62331c7d5e12663338ed959f",
       "title": "Zelda: Ocarina Of Time’s Remake Brings Back The Funniest Joke Nintendo Ever Told",
       "url": "https://gamespot.com/articles/zelda-ocarina-of-times-remake-brings-back-the-funniest-joke-nintendo-ever-told",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://assets-prd.ignimgs.com/2026/11/27/raylos-black-friday-gaming-console-deals-cover-1795801485536.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "threads_published_at": "2026-11-28T11:02:21.719794+00:00"
+    },
+    {
+      "fingerprint": "40b9c799e3c5bfc15ef9747b",
+      "title": "PC Gaming News",
+      "url": "https://rockpapershotgun.com/news",
+      "source": "Rock Paper Shotgun",
+      "published_at_source": "2026-11-27T09:30:00+00:00",
+      "score": 5,
+      "event_key": "matt groening comments on simpsons hit and run return",
+      "title_ru": "Возможное возвращение Simpsons: Hit and Run",
+      "threads_teaser_ru": "Создатель Simpsons Мэтт Гроунинг минувшим летом намекнул на возможное возвращение культовой игры Simpsons: Hit and Run, вызвав новую волну обсуждений среди поклонников.",
+      "telegram_message_id": "3371",
+      "telegram_url": "https://t.me/gamepulse_newss/3371",
+      "telegram_published_at": "2026-11-28T11:16:57.292005+00:00",
+      "threads_id": null,
+      "image_url": "https://assetsio.gnwcdn.com/exodus-headline-steam.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     }
   ],
-  "updated_at": "2026-11-28T11:02:21.719886+00:00"
+  "updated_at": "2026-11-28T11:16:57.292078+00:00"
 }
