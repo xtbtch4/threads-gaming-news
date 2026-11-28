@@ -20499,9 +20499,10 @@
       "telegram_message_id": "3355",
       "telegram_url": "https://t.me/gamepulse_newss/3355",
       "telegram_published_at": "2026-11-28T03:46:56.815097+00:00",
-      "threads_id": null,
-      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.0nqzlrqdmlze.jpg?w=300"
+      "threads_id": "disabled",
+      "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.0nqzlrqdmlze.jpg?w=300",
+      "threads_published_at": "2026-11-28T03:46:58.136480+00:00"
     }
   ],
-  "updated_at": "2026-11-28T03:46:56.815206+00:00"
+  "updated_at": "2026-11-28T03:46:58.136574+00:00"
 }
