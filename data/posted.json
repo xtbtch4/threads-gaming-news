@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "fingerprint": "a824be66b8a5d73a864f3adb",
-      "title": "From Polish Museums to XBOX: Bringing the World of The End of the Sun to Life",
-      "url": "https://news.xbox.com/en-us/2026/11/04/from-polish-museums-to-xbox",
-      "source": "Xbox Wire",
-      "published_at_source": "2026-11-04T21:00:00+00:00",
-      "score": 12,
-      "event_key": "polish museums artifacts photogrammetry development of the end of the sun",
-      "title_ru": "Как реальные польские музеи помогли создать мир The End of the Sun",
-      "threads_teaser_ru": "Создатели приключения The End of the Sun рассказали, как использовали фотограмметрию и реальные экспонаты из польских музеев для воссоздания быта и архитектуры славянской деревни. Около 80% объектов в игре перенесены с реальных исторических оригиналов.",
-      "telegram_message_id": "2171",
-      "telegram_url": "https://t.me/gamepulse_newss/2171",
-      "telegram_published_at": "2026-11-04T21:02:58.944297+00:00",
-      "threads_id": "disabled",
-      "image_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/01_HERO_Original_Screenshot_Official_Logo_1920x1080-6cf444c8f554817b4072.jpg",
-      "threads_published_at": "2026-11-04T21:03:00.594901+00:00"
-    },
-    {
       "fingerprint": "bdbb26ed66735bc340acb9a5",
       "title": "New D&D Book Introduces Some of the Most Terrifying Boss Fights in the Game’s History",
       "url": "https://polygon.com/dnd-world-of-warcraft-npc-stat-blocks-powerful-bosses",
@@ -20502,7 +20485,23 @@
       "threads_id": "disabled",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_43c8cf3875cb6643ac7d8244e9fd39381609814a-1920x1080.jpg?w=1600&h=900&fit=crop",
       "threads_published_at": "2026-11-28T13:46:59.013526+00:00"
+    },
+    {
+      "fingerprint": "03c193ee37243c683aa9f26f",
+      "title": "GTA 6’s Criminal Profile Isn’t a Morality Spectrum – It’s an RPG Class System",
+      "url": "https://ign.com/articles/gta-6s-criminal-profile-isnt-a-morality-spectrum-its-an-rpg-class-system",
+      "source": "IGN",
+      "published_at_source": "2026-11-28T13:30:00+00:00",
+      "score": 9,
+      "event_key": "gta-6-criminal-profile-rpg-class-system",
+      "title_ru": "Система розыска и профиль преступника в GTA 6",
+      "threads_teaser_ru": "Мнение обозревателя IGN: система криминального профиля в GTA 6 работает не как шкала морали, а как классовая система в RPG.",
+      "telegram_message_id": "3375",
+      "telegram_url": "https://t.me/gamepulse_newss/3375",
+      "telegram_published_at": "2026-11-28T14:02:27.236677+00:00",
+      "threads_id": null,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-robbery-1795698467947.jpg?width=1280&format=jpg&auto=webp&quality=80"
     }
   ],
-  "updated_at": "2026-11-28T13:46:59.013623+00:00"
+  "updated_at": "2026-11-28T14:02:27.236777+00:00"
 }
